@@ -1,0 +1,39 @@
+<dictionary>
+  <alphabet/>
+  <sdefs>
+    <sdef n="n"        c="Noun"/>
+    <sdef n="num"      c="Numeral"/>
+    <sdef n="prn"      c="Pronoun"/>
+
+    <sdef n="pers"     c="Personal"/>
+   
+  </sdefs>
+
+  <section id="main" type="standard">
+
+    <!-- SECTION: Pronouns -->
+
+    <e><p><l>mun<s n="prn"/><s n="pers"/></l><r>mun<s n="prn"/><s n="pers"/></r></p></e>
+    <e><p><l>don<s n="prn"/><s n="pers"/></l><r>tun<s n="prn"/><s n="pers"/></r></p></e>
+    <e><p><l>son<s n="prn"/><s n="pers"/></l><r>sun<s n="prn"/><s n="pers"/></r></p></e>
+
+    <!-- SECTION: Numerals -->
+
+    <e><p><l>okta<s n="num"/></l><r>ohta<s n="num"/></r></p></e>
+    <e><p><l>guokte<s n="num"/></l><r>kyeh'ti<s n="num"/></r></p></e>
+    <e><p><l>golbma<s n="num"/></l><r>kulma<s n="num"/></r></p></e>
+    <e><p><l>njeallje<s n="num"/></l><r>nelji<s n="num"/></r></p></e>
+    <e><p><l>vihtta<s n="num"/></l><r>vitta<s n="num"/></r></p></e>
+    <e><p><l>guhtta<s n="num"/></l><r>kutta<s n="num"/></r></p></e>
+    <e><p><l>čieža<s n="num"/></l><r>čiččam<s n="num"/></r></p></e>
+    <e><p><l>gávcci<s n="num"/></l><r>käävci<s n="num"/></r></p></e>
+    <e><p><l>ovcci<s n="num"/></l><r>oovce<s n="num"/></r></p></e>
+    <e><p><l>logi<s n="num"/></l><r>love<s n="num"/></r></p></e>
+
+    <!-- SECTION: Nouns -->
+
+    <e><p><l>giella<s n="n"/></l><r>kielâ<s n="n"/></r></p></e>
+   
+  </section> 
+
+</dictionary>
