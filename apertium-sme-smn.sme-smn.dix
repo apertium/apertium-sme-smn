@@ -4,12 +4,19 @@
     <sdef n="n"        c="Noun"/>
     <sdef n="num"      c="Numeral"/>
     <sdef n="prn"      c="Pronoun"/>
+    <sdef n="adv"      c="Adverb"/>
+
+    <sdef n="cnjcoo"   c="Coordinating conjunction"/>
 
     <sdef n="pers"     c="Personal"/>
    
   </sdefs>
 
   <section id="main" type="standard">
+
+    <!-- SECTION: Conjunctions -->
+
+    <e><p><l>ja<s n="cnjcoo"/></l><r>já<s n="cnjcoo"/></r></p></e>
 
     <!-- SECTION: Pronouns -->
 
@@ -36,6 +43,16 @@
     <!-- SECTION: Nouns -->
 
     <e><p><l>giella<s n="n"/></l><r>kielâ<s n="n"/></r></p></e>
+    <e><p><l>beana<s n="n"/></l><r>peenuv<s n="n"/></r></p></e>
+    <e><p><l>bussá<s n="n"/></l><r>kissá<s n="n"/></r></p></e>
+
+    <!-- SECTION: Proper nouns -->
+
+    <!-- SECTION: Adjectives -->
+
+    <!-- SECTION: Adverbs -->
+
+    <e><p><l>odne<s n="adv"/></l><r>onne<s n="adv"/></r></p></e>
    
   </section> 
 

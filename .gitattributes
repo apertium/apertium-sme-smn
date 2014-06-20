@@ -1,3 +1,11 @@
 * text=auto !eol
+/AUTHORS -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
 /apertium-sme-smn.sme-smn.dix -text
+/autogen.sh -text
+/configure.ac -text
+/modes.xml -text
 texts/tarina.sme.txt -text
