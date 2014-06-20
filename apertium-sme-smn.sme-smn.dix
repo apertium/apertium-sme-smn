@@ -2,13 +2,21 @@
   <alphabet/>
   <sdefs>
     <sdef n="n"        c="Noun"/>
+    <sdef n="v"        c="Verb"/>
+    <sdef n="np"       c="Proper noun"/>
     <sdef n="num"      c="Numeral"/>
     <sdef n="prn"      c="Pronoun"/>
     <sdef n="adv"      c="Adverb"/>
-
     <sdef n="cnjcoo"   c="Coordinating conjunction"/>
 
+    <sdef n="iv"       c="Intransitive"/>
+    <sdef n="tv"       c="Transitive"/>
+
     <sdef n="pers"     c="Personal"/>
+    <sdef n="itg"      c="Interrogative"/>
+
+    <sdef n="sent"     c="Sentence marker"/>
+    <sdef n="cm"       c="Comma"/>
    
   </sdefs>
 
@@ -26,6 +34,8 @@
     <e><p><l>mii<s n="prn"/><s n="pers"/></l><r>mij<s n="prn"/><s n="pers"/></r></p></e>
     <e><p><l>dii<s n="prn"/><s n="pers"/></l><r>tij<s n="prn"/><s n="pers"/></r></p></e>
     <e><p><l>sii<s n="prn"/><s n="pers"/></l><r>sij<s n="prn"/><s n="pers"/></r></p></e>
+
+    <e><p><l>mii<s n="prn"/><s n="itg"/></l><r>mii<s n="prn"/><s n="itg"/></r></p></e>
 
     <!-- SECTION: Numerals -->
 
@@ -48,14 +58,35 @@
     <e><p><l>loddi<s n="n"/></l><r>lodde<s n="n"/></r></p></e>
     <e><p><l>ealli<s n="n"/></l><r>ellee<s n="n"/></r></p></e>
     <e><p><l>oappáš<s n="n"/></l><r>uábbi<s n="n"/></r></p></e>
+    <e><p><l>eadni<s n="n"/></l><r>enni<s n="n"/></r></p></e>
 
     <!-- SECTION: Proper nouns -->
+
+    <e><p><l>Máret<s n="np"/></l><r>Máret<s n="n"/></r></p></e>
+    <e><p><l>Duommá<s n="np"/></l><r>Duommá<s n="n"/></r></p></e>
 
     <!-- SECTION: Adjectives -->
 
     <!-- SECTION: Adverbs -->
 
+    <e><p><l>gos<s n="adv"/></l><r>kost<s n="adv"/></r></p></e>
+
+    <e><p><l>dál<s n="adv"/></l><r>tääl<s n="adv"/></r></p></e>
     <e><p><l>odne<s n="adv"/></l><r>onne<s n="adv"/></r></p></e>
+
+    <!-- SECTION: Verbs -->
+
+    <e><p><l>ii<s n="v"/></l><r>ii<s n="v"/></r></p></e>
+
+    <e><p><l>leat<s n="v"/><s n="iv"/></l><r>leđe<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>juhkat<s n="v"/><s n="tv"/></l><r>juuhâđ<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>borrat<s n="v"/><s n="tv"/></l><r>purâdiđ<s n="v"/><s n="tv"/></r></p></e>
+
+    <!-- SECTION: Punctuation -->
+
+    <e><re>[.\?]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+    <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
+    <e><re>[0-9]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
    
   </section> 
 
