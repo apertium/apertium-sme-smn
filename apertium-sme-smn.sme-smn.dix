@@ -18,6 +18,7 @@
     <sdef n="itg"      c="Interrogative"/>
 
     <sdef n="sent"     c="Sentence marker"/>
+    <sdef n="quot"     c="Quotation mark"/>
     <sdef n="cm"       c="Comma"/>
    
   </sdefs>
@@ -67,9 +68,11 @@
     <e><p><l>gánda<s n="n"/></l><r>pärni<s n="n"/></r></p></e>
     <e><p><l>gánda<s n="n"/></l><r>kandâ<s n="n"/></r></p></e>
     <e><p><l>mánná<s n="n"/></l><r>pâârnâš<s n="n"/></r></p></e>
-    <e><p><l>gárdi<s n="n"/></l><r>kärdi<s n="n"/></r></p></e>
-    <e><p><l>gárdi<s n="n"/></l><r>muorâkärdi<s n="n"/></r></p></e>
+    <e><p><l>gárdin<s n="n"/></l><r>kärdi<s n="n"/></r></p></e>
+    <e><p><l>čáhci<s n="n"/></l><r>čääci<s n="n"/></r></p></e>
+    <e><p><l>gárdin<s n="n"/></l><r>muorâkärdi<s n="n"/></r></p></e>
     <e><p><l>dállu<s n="n"/></l><r>táálu<s n="n"/></r></p></e>
+    <e><p><l>áigi<s n="n"/></l><r>äigi<s n="n"/></r></p></e>
 
     <!-- SECTION: Proper nouns -->
 
@@ -107,6 +110,8 @@
     <e><p><l>máinnastit<s n="v"/><s n="tv"/></l><r>mainâstiđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>muitalit<s n="v"/><s n="tv"/></l><r>mainâstiđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>boahtit<s n="v"/><s n="iv"/></l><r>puáttiđ<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>fertet<s n="v"/><s n="iv"/></l><r>ferttiđ<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>mannat<s n="v"/><s n="iv"/></l><r>moonnâđ<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>ráhkistit<s n="v"/><s n="tv"/></l><r>rähistiđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>geahččat<s n="v"/><s n="tv"/></l><r>keččâđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>dadjat<s n="v"/><s n="tv"/></l><r>ettâđ<s n="v"/><s n="tv"/></r></p></e>
@@ -119,6 +124,7 @@
 
     <e><re>[.\?:;]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
+    <e><p><l>"<s n="quot"/></l><r>"<s n="quot"/></r></p></e>
     <e><re>[0-9]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
    
   </section> 
