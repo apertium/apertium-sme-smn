@@ -63,25 +63,37 @@
     <e><p><l>oappáš<s n="n"/></l><r>uábbi<s n="n"/></r></p></e>
     <e><p><l>eadni<s n="n"/></l><r>enni<s n="n"/></r></p></e>
     <e><p><l>muorra<s n="n"/></l><r>muorâ<s n="n"/></r></p></e>
+    <e><p><l>nieida<s n="n"/></l><r>nieidâ<s n="n"/></r></p></e>
+    <e><p><l>gánda<s n="n"/></l><r>pärni<s n="n"/></r></p></e>
+    <e><p><l>gánda<s n="n"/></l><r>kandâ<s n="n"/></r></p></e>
+    <e><p><l>mánná<s n="n"/></l><r>pâârnâš<s n="n"/></r></p></e>
+    <e><p><l>gárdi<s n="n"/></l><r>kärdi<s n="n"/></r></p></e>
+    <e><p><l>gárdi<s n="n"/></l><r>muorâkärdi<s n="n"/></r></p></e>
+    <e><p><l>dállu<s n="n"/></l><r>táálu<s n="n"/></r></p></e>
 
     <!-- SECTION: Proper nouns -->
 
-    <e><p><l>Máret<s n="np"/></l><r>Máret<s n="n"/></r></p></e>
-    <e><p><l>Duommá<s n="np"/></l><r>Duommá<s n="n"/></r></p></e>
+    <e><p><l>Máret<s n="np"/></l><r>Máret<s n="np"/></r></p></e>
+    <e><p><l>Duommá<s n="np"/></l><r>Duommá<s n="np"/></r></p></e>
 
     <!-- SECTION: Adjectives -->
 
     <e><p><l>boaris<s n="a"/></l><r>puáris<s n="a"/></r></p></e>
     <e><p><l>stuoris<s n="a"/></l><r>styeres<s n="a"/></r></p></e>
+    <e><p><l>unni<s n="a"/></l><r>ucce<s n="a"/></r></p></e>
+    <e><p><l>nuorra<s n="a"/></l><r>nuorâ<s n="a"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
 
     <e><p><l>gos<s n="adv"/></l><r>kost<s n="adv"/></r></p></e>
+    <e><p><l>maid<s n="adv"/></l><r>maid<s n="adv"/></r></p></e>
 
     <e><p><l>dál<s n="adv"/></l><r>tääl<s n="adv"/></r></p></e>
     <e><p><l>ikte<s n="adv"/></l><r>jieht<s n="adv"/></r></p></e>
+    <e><p><l>de<s n="adv"/></l><r>te<s n="adv"/></r></p></e>
     <e><p><l>fas<s n="adv"/></l><r>vest<s n="adv"/></r></p></e>
     <e><p><l>odne<s n="adv"/></l><r>onne<s n="adv"/></r></p></e>
+    <e><p><l>olgun<s n="adv"/></l><r>olgon<s n="adv"/></r></p></e>
 
     <!-- SECTION: Verbs -->
 
@@ -90,6 +102,18 @@
     <e><p><l>leat<s n="v"/><s n="iv"/></l><r>leđe<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>juhkat<s n="v"/><s n="tv"/></l><r>juuhâđ<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>borrat<s n="v"/><s n="tv"/></l><r>purâdiđ<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>čohkkát<s n="v"/><s n="iv"/></l><r>čokkáđ<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>lohkat<s n="v"/><s n="tv"/></l><r>luuhâd<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>máinnastit<s n="v"/><s n="tv"/></l><r>mainâstiđ<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>muitalit<s n="v"/><s n="tv"/></l><r>mainâstiđ<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>boahtit<s n="v"/><s n="iv"/></l><r>puáttiđ<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>ráhkistit<s n="v"/><s n="tv"/></l><r>rähistiđ<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>geahččat<s n="v"/><s n="tv"/></l><r>keččâđ<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>dadjat<s n="v"/><s n="tv"/></l><r>ettâđ<s n="v"/><s n="tv"/></r></p></e>
+
+    <e c="check"><p><l>viehkat<s n="v"/><s n="iv"/></l><r>kaččâđ<s n="v"/><s n="iv"/></r></p></e>
+    <e c="check"><p><l>gullat<s n="v"/><s n="tv"/></l><r>kulluđ<s n="v"/><s n="tv"/></r></p></e>
+    <e c="check"><p><l>dahkat<s n="v"/><s n="tv"/></l><r>porgâđ<s n="v"/><s n="tv"/></r></p></e>
 
     <!-- SECTION: Punctuation -->
 
