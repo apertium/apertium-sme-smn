@@ -3,11 +3,13 @@
   <sdefs>
     <sdef n="n"        c="Noun"/>
     <sdef n="v"        c="Verb"/>
+    <sdef n="a"        c="Adjective"/>
     <sdef n="np"       c="Proper noun"/>
     <sdef n="num"      c="Numeral"/>
     <sdef n="prn"      c="Pronoun"/>
     <sdef n="adv"      c="Adverb"/>
     <sdef n="cnjcoo"   c="Coordinating conjunction"/>
+    <sdef n="cnjsub"   c="Subordinating conjunction"/>
 
     <sdef n="iv"       c="Intransitive"/>
     <sdef n="tv"       c="Transitive"/>
@@ -25,6 +27,7 @@
     <!-- SECTION: Conjunctions -->
 
     <e><p><l>ja<s n="cnjcoo"/></l><r>já<s n="cnjcoo"/></r></p></e>
+    <e><p><l>muhte<s n="cnjsub"/></l><r>mutâ<s n="cnjsub"/></r></p></e>
 
     <!-- SECTION: Pronouns -->
 
@@ -59,6 +62,7 @@
     <e><p><l>ealli<s n="n"/></l><r>ellee<s n="n"/></r></p></e>
     <e><p><l>oappáš<s n="n"/></l><r>uábbi<s n="n"/></r></p></e>
     <e><p><l>eadni<s n="n"/></l><r>enni<s n="n"/></r></p></e>
+    <e><p><l>muorra<s n="n"/></l><r>muorâ<s n="n"/></r></p></e>
 
     <!-- SECTION: Proper nouns -->
 
@@ -67,11 +71,16 @@
 
     <!-- SECTION: Adjectives -->
 
+    <e><p><l>boaris<s n="a"/></l><r>puáris<s n="a"/></r></p></e>
+    <e><p><l>stuoris<s n="a"/></l><r>styeres<s n="a"/></r></p></e>
+
     <!-- SECTION: Adverbs -->
 
     <e><p><l>gos<s n="adv"/></l><r>kost<s n="adv"/></r></p></e>
 
     <e><p><l>dál<s n="adv"/></l><r>tääl<s n="adv"/></r></p></e>
+    <e><p><l>ikte<s n="adv"/></l><r>jieht<s n="adv"/></r></p></e>
+    <e><p><l>fas<s n="adv"/></l><r>vest<s n="adv"/></r></p></e>
     <e><p><l>odne<s n="adv"/></l><r>onne<s n="adv"/></r></p></e>
 
     <!-- SECTION: Verbs -->
