@@ -16,6 +16,7 @@
 
     <sdef n="pers"     c="Personal"/>
     <sdef n="itg"      c="Interrogative"/>
+    <sdef n="dem"      c="Demonstrative"/>
 
     <sdef n="sent"     c="Sentence marker"/>
     <sdef n="quot"     c="Quotation mark"/>
@@ -38,6 +39,8 @@
     <e><p><l>mii<s n="prn"/><s n="pers"/></l><r>mij<s n="prn"/><s n="pers"/></r></p></e>
     <e><p><l>dii<s n="prn"/><s n="pers"/></l><r>tij<s n="prn"/><s n="pers"/></r></p></e>
     <e><p><l>sii<s n="prn"/><s n="pers"/></l><r>sij<s n="prn"/><s n="pers"/></r></p></e>
+
+    <e><p><l>dat<s n="prn"/><s n="dem"/></l><r>tot<s n="prn"/><s n="dem"/></r></p></e>
 
     <e><p><l>mii<s n="prn"/><s n="itg"/></l><r>mii<s n="prn"/><s n="itg"/></r></p></e>
 
