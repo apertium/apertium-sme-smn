@@ -72,6 +72,7 @@
     <e><p><l>čáhci<s n="n"/></l><r>čääci<s n="n"/></r></p></e>
     <e><p><l>gárdin<s n="n"/></l><r>muorâkärdi<s n="n"/></r></p></e>
     <e><p><l>dállu<s n="n"/></l><r>táálu<s n="n"/></r></p></e>
+    <e><p><l>stuollu<s n="n"/></l><r>pevdi<s n="n"/></r></p></e>
     <e><p><l>áigi<s n="n"/></l><r>äigi<s n="n"/></r></p></e>
 
     <!-- SECTION: Proper nouns -->
@@ -120,6 +121,8 @@
     <e><p><l>dadjat<s n="v"/><s n="tv"/></l><r>ettâđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>jearrat<s n="v"/><s n="tv"/></l><r>koijâdiđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>guldalit<s n="v"/><s n="tv"/></l><r>kuldâliđ<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>gávdnat<s n="v"/><s n="tv"/></l><r>teivâdiđ<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>stoahkat<s n="v"/><s n="tv"/></l><r>sierâdiđ<s n="v"/><s n="tv"/></r></p></e>
 
     <e c="check"><p><l>viehkat<s n="v"/><s n="iv"/></l><r>kaččâđ<s n="v"/><s n="iv"/></r></p></e>
     <e c="check"><p><l>gullat<s n="v"/><s n="tv"/></l><r>kulluđ<s n="v"/><s n="tv"/></r></p></e>
