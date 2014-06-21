@@ -84,6 +84,7 @@
     <e><p><l>boaris<s n="a"/></l><r>puáris<s n="a"/></r></p></e>
     <e><p><l>stuoris<s n="a"/></l><r>styeres<s n="a"/></r></p></e>
     <e><p><l>unni<s n="a"/></l><r>ucce<s n="a"/></r></p></e>
+    <e><p><l>dárkil<s n="a"/></l><r>tärkki<s n="a"/></r></p></e>
     <e><p><l>nuorra<s n="a"/></l><r>nuorâ<s n="a"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
@@ -97,6 +98,8 @@
     <e><p><l>fas<s n="adv"/></l><r>vest<s n="adv"/></r></p></e>
     <e><p><l>odne<s n="adv"/></l><r>onne<s n="adv"/></r></p></e>
     <e><p><l>olgun<s n="adv"/></l><r>olgon<s n="adv"/></r></p></e>
+
+    <e><p><l>bures<s n="adv"/></l><r>pyereest<s n="adv"/></r></p></e>
 
     <!-- SECTION: Verbs -->
 
@@ -115,6 +118,8 @@
     <e><p><l>ráhkistit<s n="v"/><s n="tv"/></l><r>rähistiđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>geahččat<s n="v"/><s n="tv"/></l><r>keččâđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>dadjat<s n="v"/><s n="tv"/></l><r>ettâđ<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>jearrat<s n="v"/><s n="tv"/></l><r>koijâdiđ<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>guldalit<s n="v"/><s n="tv"/></l><r>kuldâliđ<s n="v"/><s n="tv"/></r></p></e>
 
     <e c="check"><p><l>viehkat<s n="v"/><s n="iv"/></l><r>kaččâđ<s n="v"/><s n="iv"/></r></p></e>
     <e c="check"><p><l>gullat<s n="v"/><s n="tv"/></l><r>kulluđ<s n="v"/><s n="tv"/></r></p></e>
