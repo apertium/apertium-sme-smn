@@ -8,4 +8,6 @@
 /autogen.sh -text
 /configure.ac -text
 /modes.xml -text
+texts/saamelaiset_suomessa.sme.txt -text
+texts/saamelaiset_suomessa.smn.txt -text
 texts/tarina.sme.txt -text
