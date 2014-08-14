@@ -17,6 +17,7 @@
     <sdef n="pers"     c="Personal"/>
     <sdef n="itg"      c="Interrogative"/>
     <sdef n="dem"      c="Demonstrative"/>
+    <sdef n="refl"     c="Reflexive"/>
 
     <sdef n="sent"     c="Sentence marker"/>
     <sdef n="quot"     c="Quotation mark"/>
@@ -29,7 +30,11 @@
     <!-- SECTION: Conjunctions -->
 
     <e><p><l>ja<s n="cnjcoo"/></l><r>já<s n="cnjcoo"/></r></p></e>
+    <e><p><l>dahje<s n="cnjcoo"/></l><r>teikkâ<s n="cnjcoo"/></r></p></e>
     <e><p><l>muhte<s n="cnjsub"/></l><r>mutâ<s n="cnjsub"/></r></p></e>
+    <e c="check"><p><l>jos<s n="cnjsub"/></l><r>ko<s n="cnjsub"/></r></p></e>
+    <e><p><l>vaikko<s n="cnjsub"/></l><r>veikkâ<s n="cnjsub"/></r></p></e>
+    <e c="check"><p><l>vai<s n="cnjsub"/></l><r>tâi<s n="cnjcoo"/></r></p></e>
 
     <!-- SECTION: Pronouns -->
 
@@ -43,6 +48,9 @@
     <e><p><l>dat<s n="prn"/><s n="dem"/></l><r>tot<s n="prn"/><s n="dem"/></r></p></e>
 
     <e><p><l>mii<s n="prn"/><s n="itg"/></l><r>mii<s n="prn"/><s n="itg"/></r></p></e>
+    <e><p><l>gii<s n="prn"/><s n="itg"/></l><r>kii<s n="prn"/><s n="itg"/></r></p></e>
+
+    <e><p><l>ieš<s n="prn"/><s n="refl"/></l><r>jieš<s n="prn"/><s n="refl"/></r></p></e>
 
     <!-- SECTION: Numerals -->
 
@@ -78,6 +86,13 @@
     <e><p><l>stuollu<s n="n"/></l><r>pevdi<s n="n"/></r></p></e>
     <e><p><l>áigi<s n="n"/></l><r>äigi<s n="n"/></r></p></e>
 
+    <e><p><l>kultuvra<s n="n"/></l><r>kulttuuri<s n="n"/></r></p></e>
+    <e><p><l>sámediggi<s n="n"/></l><r>sämitigge<s n="n"/></r></p></e>
+    <e><p><l>parlameanta<s n="n"/></l><r>parlament<s n="n"/></r></p></e>
+    <e><p><l>álgoálbmot<s n="n"/></l><r>algâaalmug<s n="n"/></r></p></e>
+    <e><p><l>proseanta<s n="n"/></l><r>prosentti<s n="n"/></r></p></e>
+    <e><p><l>uniovdna<s n="n"/></l><r>union<s n="n"/></r></p></e>
+
     <!-- SECTION: Proper nouns -->
 
     <e><p><l>Máret<s n="np"/></l><r>Máret<s n="np"/></r></p></e>
@@ -97,6 +112,9 @@
     <e><p><l>dárkil<s n="a"/></l><r>tärkki<s n="a"/></r></p></e>
     <e><p><l>nuorra<s n="a"/></l><r>nuorâ<s n="a"/></r></p></e>
 
+    <!--<e><p><l>geográfalaš<s n="a"/></l><r>@<s n="a"/></r></p></e>-->
+    <e><p><l>sosiálalaš<s n="a"/></l><r>sosiaallâš<s n="a"/></r></p></e>
+    <e><p><l>ekonomalaš<s n="a"/></l><r>ekonoomlâš<s n="a"/></r></p></e>
     <e><p><l>kultuvrralaš<s n="a"/></l><r>kulttuurlâš<s n="a"/></r></p></e>
     <e><p><l>politihkalaš<s n="a"/></l><r>poolitlâš<s n="a"/></r></p></e>
 
