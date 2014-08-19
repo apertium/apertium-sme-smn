@@ -82,6 +82,8 @@
     <e><p><l>gánda<s n="n"/></l><r>pärni<s n="n"/></r></p></e>
     <e><p><l>gárdin<s n="n"/></l><r>kärdi<s n="n"/></r></p></e>
     <e><p><l>gárdin<s n="n"/></l><r>muorâkärdi<s n="n"/></r></p></e>
+    <e><p><l>idja<s n="n"/></l><r>ijjâ<s n="n"/></r></p></e>
+    <e><p><l>jahki<s n="n"/></l><r>ihe<s n="n"/></r></p></e>
     <e><p><l>kultuvra<s n="n"/></l><r>kulttuuri<s n="n"/></r></p></e>
     <e><p><l>loddi<s n="n"/></l><r>lodde<s n="n"/></r></p></e>
     <e><p><l>muorra<s n="n"/></l><r>muorâ<s n="n"/></r></p></e>
@@ -94,10 +96,17 @@
     <e><p><l>sámediggi<s n="n"/></l><r>sämitigge<s n="n"/></r></p></e>
     <e><p><l>sápmi<s n="n"/></l><r>säämi<s n="n"/></r></p></e>
     <e><p><l>uniovdna<s n="n"/></l><r>union<s n="n"/></r></p></e>
+    <e><p><l>vuoigatvuohta<s n="n"/></l><r>vuoigâdvuotâ<s n="n"/></r></p></e>
     <e><p><l>vuođđoláhka<s n="n"/></l><r>vuáđulaahâ<s n="n"/></r></p></e>
     <e><p><l>áigi<s n="n"/></l><r>äigi<s n="n"/></r></p></e>
     <e><p><l>álgoálbmot<s n="n"/></l><r>algâaalmug<s n="n"/></r></p></e>
+    <e><p><l>čakča<s n="n"/></l><r>čohčâ<s n="n"/></r></p></e>
     <e><p><l>čáhci<s n="n"/></l><r>čääci<s n="n"/></r></p></e>
+
+    <!-- SECTION: Postpositions -->
+
+    <e><p><l>rájes<s n="po"/></l><r>rääjist<s n="po"/></r></p></e>
+
 
     <!-- SECTION: Proper nouns -->
 
@@ -113,6 +122,7 @@
     <!-- SECTION: Adjectives -->
 
     <e><p><l>boaris<s n="a"/></l><r>puáris<s n="a"/></r></p></e>
+    <e><p><l>fiskat<s n="a"/></l><r>fiskâd<s n="a"/></r></p></e>
     <e><p><l>stuoris<s n="a"/></l><r>styeres<s n="a"/></r></p></e>
     <e><p><l>unni<s n="a"/></l><r>ucce<s n="a"/></r></p></e>
     <e><p><l>dárkil<s n="a"/></l><r>tärkki<s n="a"/></r></p></e>
@@ -123,6 +133,7 @@
     <e><p><l>ekonomalaš<s n="a"/></l><r>ekonoomlâš<s n="a"/></r></p></e>
     <e><p><l>kultuvrralaš<s n="a"/></l><r>kulttuurlâš<s n="a"/></r></p></e>
     <e><p><l>politihkalaš<s n="a"/></l><r>poolitlâš<s n="a"/></r></p></e>
+    <e><p><l>alit<s n="a"/></l><r>čuovjâd<s n="a"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
 
@@ -163,8 +174,10 @@
     <e><p><l>máinnastit<s n="v"/><s n="tv"/></l><r>mainâstiđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>ráhkistit<s n="v"/><s n="tv"/></l><r>rähistiđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>stoahkat<s n="v"/><s n="tv"/></l><r>sierâdiđ<s n="v"/><s n="tv"/></r></p></e>
+    <e c="check"><p><l>válljet<s n="v"/><s n="tv"/></l><r>väljeđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>ássat<s n="v"/><s n="iv"/></l><r>aassâđ<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>čohkkát<s n="v"/><s n="iv"/></l><r>čokkáđ<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>čállit<s n="v"/><s n="iv"/></l><r>čäälliđ<s n="v"/><s n="iv"/></r></p></e>
 
     <!-- SECTION: Punctuation -->
 
