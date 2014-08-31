@@ -10,5 +10,6 @@
 /configure.ac -text
 /modes.xml -text
 texts/saamelaiset_suomessa.sme.txt -text
-texts/saamelaiset_suomessa.smn.txt -text
+texts/saamelaiset_suomessa.smn.0.txt -text
+texts/saamelaiset_suomessa.smn.1.txt -text
 texts/tarina.sme.txt -text
