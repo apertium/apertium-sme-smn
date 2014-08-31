@@ -5,6 +5,7 @@
 /NEWS -text
 /README -text
 /apertium-sme-smn.sme-smn.dix -text
+/apertium-sme-smn.sme-smn.lrx -text
 /autogen.sh -text
 /configure.ac -text
 /modes.xml -text

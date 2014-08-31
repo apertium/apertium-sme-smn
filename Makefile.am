@@ -20,6 +20,7 @@ TARGETS_COMMON = \
 	$(PREFIX1).mor.rlx.bin \
 	$(PREFIX1).syn.rlx.bin \
 	$(PREFIX1).autobil.bin \
+	$(PREFIX1).autolex.bin \
 	$(PREFIX2).autobil.bin \
 	$(PREFIX1).autogen.hfst \
 	$(PREFIX2).automorf.hfst
@@ -122,6 +123,13 @@ $(BASENAME).$(PREFIX1).mor.rlx: $(AP_SRC1)/disambiguation-mt-apertium.cg3
 
 $(BASENAME).$(PREFIX1).syn.rlx: $(AP_SRC1)/functions-mt-apertium.cg3
 	cp $< $@
+
+## 
+##	LEXICAL SELECTION
+##
+
+$(PREFIX1).autolex.bin: $(BASENAME).$(PREFIX1).lrx
+	lrx-comp $< $@
 
 ###############################################################################
 ## Distribution

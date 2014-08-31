@@ -1,0 +1,11 @@
+<rules>
+ 
+  <rule weight="1.0">
+    <match lemma="sápmi" tags="n.sg.*"><select lemma="säämi" tags="n.sg.*"/></match>
+  </rule>
+
+  <rule weight="1.0">
+    <match lemma="sápmi" tags="n.pl.*"><select lemma="sämmilâš" tags="n.pl.*"/></match>
+  </rule>
+
+</rules>
