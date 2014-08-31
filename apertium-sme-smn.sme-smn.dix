@@ -7,6 +7,8 @@
     <sdef n="np"       c="Proper noun"/>
     <sdef n="num"      c="Numeral"/>
     <sdef n="prn"      c="Pronoun"/>
+    <sdef n="po"       c="Postposition"/>
+    <sdef n="pr"       c="Preposition"/>
     <sdef n="adv"      c="Adverb"/>
     <sdef n="cnjcoo"   c="Coordinating conjunction"/>
     <sdef n="cnjsub"   c="Subordinating conjunction"/>
@@ -102,6 +104,8 @@
     <e><p><l>álgoálbmot<s n="n"/></l><r>algâaalmug<s n="n"/></r></p></e>
     <e><p><l>čakča<s n="n"/></l><r>čohčâ<s n="n"/></r></p></e>
     <e><p><l>čáhci<s n="n"/></l><r>čääci<s n="n"/></r></p></e>
+    <e><p><l>áhčči<s n="n"/></l><r>eeči<s n="n"/></r></p></e>
+    <e><p><l>guolli<s n="n"/></l><r>kyeli<s n="n"/></r></p></e>
 
     <!-- SECTION: Postpositions -->
 
