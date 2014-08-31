@@ -10,6 +10,8 @@
     <sdef n="po"       c="Postposition"/>
     <sdef n="pr"       c="Preposition"/>
     <sdef n="adv"      c="Adverb"/>
+    <sdef n="pr"       c="Preposition"/>
+    <sdef n="po"       c="Postposition"/>
     <sdef n="cnjcoo"   c="Coordinating conjunction"/>
     <sdef n="cnjsub"   c="Subordinating conjunction"/>
 
@@ -72,12 +74,14 @@
 
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
+    <e><p><l>bálvalus<s n="n"/></l><r>palvâlus<s n="n"/></r></p></e>
     <e><p><l>beana<s n="n"/></l><r>peenuv<s n="n"/></r></p></e>
     <e><p><l>beavdi<s n="n"/></l><r>pevdi<s n="n"/></r></p></e>
     <e><p><l>bussá<s n="n"/></l><r>kissá<s n="n"/></r></p></e>
     <e><p><l>dállu<s n="n"/></l><r>táálu<s n="n"/></r></p></e>
     <e><p><l>eadni<s n="n"/></l><r>enni<s n="n"/></r></p></e>
     <e><p><l>ealli<s n="n"/></l><r>ellee<s n="n"/></r></p></e>
+    <e><p><l>ealáhus<s n="n"/></l><r>iä'láttâs<s n="n"/></r></p></e>
     <e><p><l>giella<s n="n"/></l><r>kielâ<s n="n"/></r></p></e>
     <e><p><l>guovlu<s n="n"/></l><r>kuávlu<s n="n"/></r></p></e>
     <e><p><l>gánda<s n="n"/></l><r>kandâ<s n="n"/></r></p></e>
@@ -91,11 +95,15 @@
     <e><p><l>muorra<s n="n"/></l><r>muorâ<s n="n"/></r></p></e>
     <e><p><l>mánná<s n="n"/></l><r>pâârnâš<s n="n"/></r></p></e>
     <e><p><l>nieida<s n="n"/></l><r>nieidâ<s n="n"/></r></p></e>
+    <e><p><l>nuortalašláhka<s n="n"/></l><r>nuorttâlâšlaahâ<s n="n"/></r></p></e>
+    <e><p><l>láhka<s n="n"/></l><r>laahâ<s n="n"/></r></p></e>
+    <e><p><l>oassi<s n="n"/></l><r>uási<s n="n"/></r></p></e>
     <e><p><l>oappáš<s n="n"/></l><r>uábbi<s n="n"/></r></p></e>
     <e><p><l>parlameanta<s n="n"/></l><r>parlament<s n="n"/></r></p></e>
     <e><p><l>proseanta<s n="n"/></l><r>prosentti<s n="n"/></r></p></e>
     <e><p><l>stuollu<s n="n"/></l><r>stovli<s n="n"/></r></p></e>
-    <e><p><l>sámediggi<s n="n"/></l><r>sämitigge<s n="n"/></r></p></e>
+    <e><p><l>sámeguovlu<s n="n"/></l><r>sämikuávlu<s n="n"/></r></p></e>
+    <e><p><l>guovlu<s n="n"/></l><r>kuávlu<s n="n"/></r></p></e>
     <e><p><l>sápmi<s n="n"/></l><r>säämi<s n="n"/></r></p></e>
     <e><p><l>uniovdna<s n="n"/></l><r>union<s n="n"/></r></p></e>
     <e><p><l>vuoigatvuohta<s n="n"/></l><r>vuoigâdvuotâ<s n="n"/></r></p></e>
@@ -106,6 +114,12 @@
     <e><p><l>čáhci<s n="n"/></l><r>čääci<s n="n"/></r></p></e>
     <e><p><l>áhčči<s n="n"/></l><r>eeči<s n="n"/></r></p></e>
     <e><p><l>guolli<s n="n"/></l><r>kyeli<s n="n"/></r></p></e>
+    <e><p><l>sajádat<s n="n"/></l><r>sajadâh<s n="n"/></r></p></e>
+
+
+    <!-- SECTION: Prepositions -->
+
+    <e><p><l>badjel<s n="po"/></l><r>paijeel<s n="po"/></r></p></e>
 
     <!-- SECTION: Postpositions -->
 
@@ -126,18 +140,24 @@
     <!-- SECTION: Adjectives -->
 
     <e><p><l>boaris<s n="a"/></l><r>puáris<s n="a"/></r></p></e>
+    <e><p><l>sierra<s n="a"/></l><r>jiejâs<s n="a"/></r></p></e>
     <e><p><l>fiskat<s n="a"/></l><r>fiskâd<s n="a"/></r></p></e>
     <e><p><l>stuoris<s n="a"/></l><r>styeres<s n="a"/></r></p></e>
     <e><p><l>unni<s n="a"/></l><r>ucce<s n="a"/></r></p></e>
+    <e><p><l>ođas<s n="a"/></l><r>uuđâs<s n="a"/></r></p></e>
     <e><p><l>dárkil<s n="a"/></l><r>tärkki<s n="a"/></r></p></e>
     <e><p><l>nuorra<s n="a"/></l><r>nuorâ<s n="a"/></r></p></e>
+    <e><p><l>nuortalaš<s n="a"/></l><r>nuorttâsämmilâš<s n="a"/></r></p></e>
+    <e><p><l>nuortalaš<s n="a"/></l><r>nuortalâš<s n="a"/></r></p></e>
 
     <e><p><l>geográfalaš<s n="a"/></l><r>eennâmtieđâlâš<s n="a"/></r></p></e>
     <e><p><l>sosiálalaš<s n="a"/></l><r>sosiaallâš<s n="a"/></r></p></e>
     <e><p><l>ekonomalaš<s n="a"/></l><r>ekonoomlâš<s n="a"/></r></p></e>
     <e><p><l>kultuvrralaš<s n="a"/></l><r>kulttuurlâš<s n="a"/></r></p></e>
+    <e><p><l>sápmelaš<s n="a"/></l><r>sämmilâš<s n="a"/></r></p></e>
     <e><p><l>politihkalaš<s n="a"/></l><r>poolitlâš<s n="a"/></r></p></e>
     <e><p><l>alit<s n="a"/></l><r>čuovjâd<s n="a"/></r></p></e>
+    <e><p><l>árbevirolaš<s n="a"/></l><r>ärbivuáválâš<s n="a"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
 
@@ -164,6 +184,7 @@
     <e><p><l>boahtit<s n="v"/><s n="iv"/></l><r>puáttiđ<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>borrat<s n="v"/><s n="tv"/></l><r>purâdiđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>dadjat<s n="v"/><s n="tv"/></l><r>ettâđ<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>doalahit<s n="v"/><s n="tv"/></l><r>toollâđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>fertet<s n="v"/><s n="iv"/></l><r>ferttiđ<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>geahččat<s n="v"/><s n="tv"/></l><r>keččâđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>guldalit<s n="v"/><s n="tv"/></l><r>kuldâliđ<s n="v"/><s n="tv"/></r></p></e>
@@ -176,12 +197,14 @@
     <e><p><l>mannat<s n="v"/><s n="iv"/></l><r>moonnâđ<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>muitalit<s n="v"/><s n="tv"/></l><r>mainâstiđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>máinnastit<s n="v"/><s n="tv"/></l><r>mainâstiđ<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>ovddidit<s n="v"/><s n="tv"/></l><r>ovdediđ<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>ovddastit<s n="v"/><s n="tv"/></l><r>ov'dâstiđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>ráhkistit<s n="v"/><s n="tv"/></l><r>rähistiđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>stoahkat<s n="v"/><s n="tv"/></l><r>sierâdiđ<s n="v"/><s n="tv"/></r></p></e>
     <e c="check"><p><l>válljet<s n="v"/><s n="tv"/></l><r>väljeđ<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>ássat<s n="v"/><s n="iv"/></l><r>aassâđ<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>čohkkát<s n="v"/><s n="iv"/></l><r>čokkáđ<s n="v"/><s n="iv"/></r></p></e>
-    <e><p><l>čállit<s n="v"/><s n="iv"/></l><r>čäälliđ<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>čállit<s n="v"/><s n="tv"/></l><r>čäälliđ<s n="v"/><s n="tv"/></r></p></e>
 
     <!-- SECTION: Punctuation -->
 
