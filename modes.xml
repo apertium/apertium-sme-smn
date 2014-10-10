@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modes>
 
-  <mode name="sme-smn-debug" install="no">
+  <mode name="sme-smn" install="no">
     <pipeline>
       <program name="hfst-proc -w -p">
         <file name="sme-smn.automorf.hfst"/>
