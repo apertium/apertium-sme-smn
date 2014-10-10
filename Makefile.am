@@ -15,7 +15,7 @@ TARGETS_COMMON = \
 	$(PREFIX1).autogen.hfst \
 	$(PREFIX1).autolex.bin \
 	$(PREFIX1).automorf.hfst \
-	$(PREFIX1).rlx.bin \
+	$(PREFIX1).mor.rlx.bin \
 	$(PREFIX1).t1x.bin  \
 	$(PREFIX1).t1x.bin \
 	$(PREFIX1).t2x.bin \
@@ -24,7 +24,7 @@ TARGETS_COMMON = \
 	$(PREFIX2).autogen.hfst \
 	$(PREFIX2).autolex.bin \
 	$(PREFIX2).automorf.hfst \
-	$(PREFIX2).rlx.bin \
+	$(PREFIX2).mor.rlx.bin \
 	$(PREFIX2).t1x.bin \
 	$(PREFIX2).t1x.bin \
 	$(PREFIX2).t2x.bin \
@@ -112,10 +112,10 @@ $(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
 ## Disambiguation rules 
 ###############################################################################
 
-$(PREFIX1).rlx.bin: $(AP_SRC1)/disambiguation-mt-apertium.bin
+$(PREFIX1).mor.rlx.bin: $(AP_SRC1)/disambiguation-mt-apertium.bin
 	cp $< $@
 
-$(PREFIX2).rlx.bin: $(AP_SRC2)/disambiguation-mt-apertium.bin
+$(PREFIX2).mor.rlx.bin: $(AP_SRC2)/disambiguation-mt-apertium.bin
 	cp $< $@
 
 
