@@ -114,16 +114,16 @@ $(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
 ## Disambiguation rules 
 ###############################################################################
 
-$(PREFIX1).mor.rlx.bin: $(AP_SRC1)/disambiguation-mt-apertium.bin
+$(PREFIX1).mor.rlx.bin: $(AP_SRC1)/$(LANG1).mor.rlx.bin
 	cp $< $@
 
-$(PREFIX2).mor.rlx.bin: $(AP_SRC2)/disambiguation-mt-apertium.bin
+$(PREFIX2).mor.rlx.bin: $(AP_SRC2)/$(LANG2).mor.rlx.bin
 	cp $< $@
 
-$(PREFIX1).syn.rlx.bin: $(AP_SRC1)/functions-mt-apertium.bin
+$(PREFIX1).syn.rlx.bin: $(AP_SRC1)/$(LANG1).syn.rlx.bin
 	cp $< $@
 
-$(PREFIX2).syn.rlx.bin: $(AP_SRC2)/functions-mt-apertium.bin
+$(PREFIX2).syn.rlx.bin: $(AP_SRC2)/$(LANG2).syn.rlx.bin
 	cp $< $@
 
 
