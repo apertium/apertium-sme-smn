@@ -1,5 +1,6 @@
 * text=auto !eol
 /AUTHORS -text
+/COPYING -text
 /ChangeLog -text
 /HACKING -text
 /Makefile.am -text
@@ -17,6 +18,14 @@
 /autogen.sh -text
 /configure.ac -text
 /modes.xml -text
+t/README.org -text
+t/config.sh -text
+t/latest-pending.results -text
+t/latest-regression.results -text
+t/pending-tests -text
+t/regression-tests -text
+t/update-latest -text
+t/wiki-tests -text
 texts/saamelaiset_suomessa.sme.txt -text
 texts/saamelaiset_suomessa.smn.0.txt -text
 texts/saamelaiset_suomessa.smn.1.txt -text
