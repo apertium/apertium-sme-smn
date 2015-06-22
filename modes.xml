@@ -32,7 +32,7 @@
         <file name="apertium-sme-smn.sme-smn.t3x"/>
         <file name="sme-smn.t3x.bin"/>
       </program>
-      <program name="hfst-proc $2">
+      <program name="hfst-proc $1">
         <file name="sme-smn.autogen.hfst"/>
       </program>
     </pipeline>
