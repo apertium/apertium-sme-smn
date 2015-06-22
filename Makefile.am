@@ -33,7 +33,7 @@ TARGETS_COMMON =			\
 	$(PREFIX2).t3x.bin
 
 
-# This include defines goals for install-modes, .deps/.d and .mode files:
+# This include defines goals for install-modes, .deps/.d, autobil.prefixes and .mode files:
 @ap_include@
 
 ###############################################################################
@@ -43,17 +43,6 @@ TARGETS_COMMON =			\
 # -------------------
 # Northern Saami analysis:
 # -------------------
-
-.deps/$(PREFIX1).autobil.prefixes: $(PREFIX1).autobil.bin .deps/.d
-	lt-print $< | sed 's/ /@_SPACE_@/g' > .deps/$(PREFIX1).autobil.att
-	hfst-txt2fst -e ε <  .deps/$(PREFIX1).autobil.att > .deps/$(PREFIX1).autobil.hfst
-	hfst-project -p upper .deps/$(PREFIX1).autobil.hfst > .deps/$(PREFIX1).autobil.upper                                   # bidix
-	echo ' [ ? - %+ ]* ' | hfst-regexp2fst > .deps/$(PREFIX1).any-nonplus.hfst                                             # [^+]*
-	hfst-concatenate -1 .deps/$(PREFIX1).autobil.upper -2 .deps/$(PREFIX1).any-nonplus.hfst -o .deps/$(PREFIX1).autobil.nonplussed    # bidix [^+]*
-	echo ' %+ ' | hfst-regexp2fst > .deps/single-plus.hfst                                                                 # +
-	hfst-concatenate -1 .deps/single-plus.hfst -2 .deps/$(PREFIX1).autobil.nonplussed -o .deps/$(PREFIX1).autobil.postplus # + bidix [^+]*
-	hfst-repeat -f0 -t1 -i .deps/$(PREFIX1).autobil.postplus -o .deps/$(PREFIX1).autobil.postplus.0,1                      # (+ bidix [^+]*){0,1} -- gives at most one +
-	hfst-concatenate -1 .deps/$(PREFIX1).autobil.nonplussed -2 .deps/$(PREFIX1).autobil.postplus.0,1 -o $@                 # bidix [^+]* (+ bidix [^+]*){0,1}
 
 .deps/$(LANG1).automorf.hfst: $(AP_SRC1)/$(BASENAME).$(PREFIX1).LR.att.gz .deps/.d
 	$(ZCAT) $< | hfst-txt2fst > $@
@@ -81,17 +70,6 @@ $(PREFIX2).autogen.hfst: .deps/$(LANG1).autogen.hfst
 # -------------------
 # Inari Saami analysis:
 # -------------------
-
-.deps/$(PREFIX2).autobil.prefixes: $(PREFIX2).autobil.bin .deps/.d
-	lt-print $< | sed 's/ /@_SPACE_@/g' > .deps/$(PREFIX2).autobil.att
-	hfst-txt2fst -e ε <  .deps/$(PREFIX2).autobil.att > .deps/$(PREFIX2).autobil.hfst
-	hfst-project -p upper .deps/$(PREFIX2).autobil.hfst > .deps/$(PREFIX2).autobil.upper                                   # bidix
-	echo ' [ ? - %+ ]* ' | hfst-regexp2fst > .deps/$(PREFIX2).any-nonplus.hfst                                             # [^+]*
-	hfst-concatenate -1 .deps/$(PREFIX2).autobil.upper -2 .deps/$(PREFIX2).any-nonplus.hfst -o .deps/$(PREFIX2).autobil.nonplussed    # bidix [^+]*
-	echo ' %+ ' | hfst-regexp2fst > .deps/single-plus.hfst                                                                 # +
-	hfst-concatenate -1 .deps/single-plus.hfst -2 .deps/$(PREFIX2).autobil.nonplussed -o .deps/$(PREFIX2).autobil.postplus # + bidix [^+]*
-	hfst-repeat -f0 -t1 -i .deps/$(PREFIX2).autobil.postplus -o .deps/$(PREFIX2).autobil.postplus.0,1                      # (+ bidix [^+]*){0,1} -- gives at most one +
-	hfst-concatenate -1 .deps/$(PREFIX2).autobil.nonplussed -2 .deps/$(PREFIX2).autobil.postplus.0,1 -o $@                 # bidix [^+]* (+ bidix [^+]*){0,1}
 
 .deps/$(LANG2).automorf.hfst: $(AP_SRC2)/$(BASENAME).$(PREFIX2).LR.att.gz .deps/.d
 	$(ZCAT) $< | hfst-txt2fst > $@
