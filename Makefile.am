@@ -47,9 +47,6 @@ TARGETS_COMMON =			\
 .deps/$(LANG1).automorf.hfst: $(AP_SRC1)/$(BASENAME).$(PREFIX1).LR.att.gz .deps/.d
 	$(ZCAT) $< | hfst-txt2fst > $@
 
-.deps/$(LANG1).autogen.hfst: .deps/$(LANG1).automorf.hfst
-	hfst-invert -i $< -o $@
-
 .deps/$(PREFIX1).automorf-trimmed.hfst: .deps/$(LANG1).automorf.hfst .deps/$(PREFIX1).autobil.prefixes
 	hfst-compose-intersect -1 $< -2 .deps/$(PREFIX1).autobil.prefixes -o $@
 
@@ -63,6 +60,9 @@ $(PREFIX1).automorf-untrimmed.hfst: .deps/$(LANG1).automorf.hfst
 # Northern Saami generation:
 # ---------------------
 
+.deps/$(LANG1).autogen.hfst: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).RL.att.gz .deps/.d
+	$(ZCAT) $< | hfst-txt2fst > $@
+
 $(PREFIX2).autogen.hfst: .deps/$(LANG1).autogen.hfst
 	hfst-fst2fst -O -i $< -o $@
 
@@ -73,9 +73,6 @@ $(PREFIX2).autogen.hfst: .deps/$(LANG1).autogen.hfst
 
 .deps/$(LANG2).automorf.hfst: $(AP_SRC2)/$(BASENAME).$(PREFIX2).LR.att.gz .deps/.d
 	$(ZCAT) $< | hfst-txt2fst > $@
-
-.deps/$(LANG2).autogen.hfst: .deps/$(LANG2).automorf.hfst
-	hfst-invert -i $< -o $@
 
 .deps/$(PREFIX2).automorf-trimmed.hfst: .deps/$(LANG2).automorf.hfst .deps/$(PREFIX2).autobil.prefixes
 	hfst-compose-intersect -1 $< -2 .deps/$(PREFIX2).autobil.prefixes -o $@
@@ -89,6 +86,9 @@ $(PREFIX2).automorf-untrimmed.hfst: .deps/$(LANG2).automorf.hfst
 # -------------------
 # Inari Saami generation:
 # ---------------------
+
+.deps/$(LANG2).autogen.hfst: $(AP_SRC2)/apertium-$(LANG2).$(LANG2).RL.att.gz .deps/.d
+	$(ZCAT) $< | hfst-txt2fst > $@
 
 $(PREFIX1).autogen.hfst: .deps/$(LANG2).autogen.hfst
 	hfst-fst2fst -O -i $< -o $@
