@@ -3,7 +3,7 @@
   <sdefs>
     <sdef n="n"        c="Noun"/>
     <sdef n="vblex"        c="Verb"/>
-    <sdef n="a"        c="Adjective"/>
+    <sdef n="adj"        c="Adjective"/>
     <sdef n="np"       c="Proper noun"/>
     <sdef n="num"      c="Numeral"/>
     <sdef n="prn"      c="Pronoun"/>
@@ -19,7 +19,7 @@
     <sdef n="pers"     c="Personal"/>
     <sdef n="itg"      c="Interrogative"/>
     <sdef n="dem"      c="Demonstrative"/>
-    <sdef n="refl"     c="Reflexive"/>
+    <sdef n="ref"     c="Reflexive"/>
 
     <sdef n="sent"     c="Sentence marker"/>
     <sdef n="quot"     c="Quotation mark"/>
@@ -53,7 +53,7 @@
     <e><p><l>mii<s n="prn"/><s n="itg"/></l><r>mii<s n="prn"/><s n="itg"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="itg"/></l><r>kii<s n="prn"/><s n="itg"/></r></p></e>
 
-    <e><p><l>ieš<s n="prn"/><s n="refl"/></l><r>jieš<s n="prn"/><s n="refl"/></r></p></e>
+    <e><p><l>ieš<s n="prn"/><s n="ref"/></l><r>jieš<s n="prn"/><s n="ref"/></r></p></e>
 
     <!-- SECTION: Numerals -->
 
@@ -139,26 +139,26 @@
 
     <!-- SECTION: Adjectives -->
 
-    <e><p><l>boaris<s n="a"/></l><r>puáris<s n="a"/></r></p></e>
-    <e><p><l>sierra<s n="a"/></l><r>jiejâs<s n="a"/></r></p></e>
-    <e><p><l>fiskat<s n="a"/></l><r>fiskâd<s n="a"/></r></p></e>
-    <e><p><l>stuoris<s n="a"/></l><r>styeres<s n="a"/></r></p></e>
-    <e><p><l>unni<s n="a"/></l><r>ucce<s n="a"/></r></p></e>
-    <e><p><l>ođas<s n="a"/></l><r>uuđâs<s n="a"/></r></p></e>
-    <e><p><l>dárkil<s n="a"/></l><r>tärkki<s n="a"/></r></p></e>
-    <e><p><l>nuorra<s n="a"/></l><r>nuorâ<s n="a"/></r></p></e>
-    <e><p><l>nuortalaš<s n="a"/></l><r>nuorttâsämmilâš<s n="a"/></r></p></e>
-    <e><p><l>sápmelaš<s n="a"/></l><r>sämmilâš<s n="a"/></r></p></e>
-    <e><p><l>nuortalaš<s n="a"/></l><r>nuortalâš<s n="a"/></r></p></e>
+    <e><p><l>boaris<s n="adj"/></l><r>puáris<s n="adj"/></r></p></e>
+    <e><p><l>sierra<s n="adj"/></l><r>jiejâs<s n="adj"/></r></p></e>
+    <e><p><l>fiskat<s n="adj"/></l><r>fiskâd<s n="adj"/></r></p></e>
+    <e><p><l>stuoris<s n="adj"/></l><r>styeres<s n="adj"/></r></p></e>
+    <e><p><l>unni<s n="adj"/></l><r>ucce<s n="adj"/></r></p></e>
+    <e><p><l>ođas<s n="adj"/></l><r>uuđâs<s n="adj"/></r></p></e>
+    <e><p><l>dárkil<s n="adj"/></l><r>tärkki<s n="adj"/></r></p></e>
+    <e><p><l>nuorra<s n="adj"/></l><r>nuorâ<s n="adj"/></r></p></e>
+    <e><p><l>nuortalaš<s n="adj"/></l><r>nuorttâsämmilâš<s n="adj"/></r></p></e>
+    <e><p><l>sápmelaš<s n="adj"/></l><r>sämmilâš<s n="adj"/></r></p></e>
+    <e><p><l>nuortalaš<s n="adj"/></l><r>nuortalâš<s n="adj"/></r></p></e>
 
-    <e><p><l>geográfalaš<s n="a"/></l><r>eennâmtieđâlâš<s n="a"/></r></p></e>
-    <e><p><l>sosiálalaš<s n="a"/></l><r>sosiaallâš<s n="a"/></r></p></e>
-    <e><p><l>ekonomalaš<s n="a"/></l><r>ekonoomlâš<s n="a"/></r></p></e>
-    <e><p><l>kultuvrralaš<s n="a"/></l><r>kulttuurlâš<s n="a"/></r></p></e>
-    <e><p><l>sápmelaš<s n="a"/></l><r>sämmilâš<s n="a"/></r></p></e>
-    <e><p><l>politihkalaš<s n="a"/></l><r>poolitlâš<s n="a"/></r></p></e>
-    <e><p><l>alit<s n="a"/></l><r>čuovjâd<s n="a"/></r></p></e>
-    <e><p><l>árbevirolaš<s n="a"/></l><r>ärbivuáválâš<s n="a"/></r></p></e>
+    <e><p><l>geográfalaš<s n="adj"/></l><r>eennâmtieđâlâš<s n="adj"/></r></p></e>
+    <e><p><l>sosiálalaš<s n="adj"/></l><r>sosiaallâš<s n="adj"/></r></p></e>
+    <e><p><l>ekonomalaš<s n="adj"/></l><r>ekonoomlâš<s n="adj"/></r></p></e>
+    <e><p><l>kultuvrralaš<s n="adj"/></l><r>kulttuurlâš<s n="adj"/></r></p></e>
+    <e><p><l>sápmelaš<s n="adj"/></l><r>sämmilâš<s n="adj"/></r></p></e>
+    <e><p><l>politihkalaš<s n="adj"/></l><r>poolitlâš<s n="adj"/></r></p></e>
+    <e><p><l>alit<s n="adj"/></l><r>čuovjâd<s n="adj"/></r></p></e>
+    <e><p><l>árbevirolaš<s n="adj"/></l><r>ärbivuáválâš<s n="adj"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
 
