@@ -25,6 +25,10 @@
       <attr-item tags="ins"/>
       <attr-item tags="abl"/>
     </def-attr>
+    <def-attr n="a_trans">
+      <attr-item tags="iv"/>
+      <attr-item tags="tv"/>
+    </def-attr>
 
     <def-attr n="a_func">
       <attr-item tags="@X"/>
@@ -62,6 +66,7 @@
         <pattern-item n="verb"/>
       </pattern>
       <action>
+        <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <out>
           <chunk name="verb" case="caseFirstWord">
