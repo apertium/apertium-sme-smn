@@ -3,7 +3,7 @@
 <transfer default="chunk">
   <section-def-cats>
     <def-cat n="verb">
-      <cat-item tags="v.*"/>
+      <cat-item tags="vblex.*"/>
     </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
