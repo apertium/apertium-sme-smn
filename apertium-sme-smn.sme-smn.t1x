@@ -30,6 +30,10 @@
       <attr-item tags="tv"/>
     </def-attr>
 
+    <def-attr n="a_sem">
+      <attr-item tags="sem_hum"/>
+    </def-attr>
+
     <def-attr n="a_func">
       <attr-item tags="@X"/>
       <attr-item tags="@→A"/>
@@ -60,6 +64,26 @@
     </def-macro>
   </section-def-macros>
   <section-rules>
+
+    <rule comment="REGLA: nom">
+      <pattern>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_sem"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <out>
+          <chunk name="nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     <rule comment="REGLA: verb">
       <pattern>
