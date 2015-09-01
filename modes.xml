@@ -4,7 +4,7 @@
 
   <mode name="sme-smn" install="yes">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -41,7 +41,7 @@
 
   <mode name="sme-smn-morph" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf.hfst"/>
       </program>
     </pipeline>
@@ -49,7 +49,7 @@
 
   <mode name="sme-smn-disam" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -62,7 +62,7 @@
 
   <mode name="sme-smn-syntax" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -78,7 +78,7 @@
 
   <mode name="sme-smn-tagger" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -94,7 +94,7 @@
 
   <mode name="sme-smn-biltrans" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -113,7 +113,7 @@
 
   <mode name="sme-smn-lextor" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -135,7 +135,7 @@
 
   <mode name="sme-smn-chunker" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -160,7 +160,7 @@
 
   <mode name="sme-smn-interchunk" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -184,7 +184,7 @@
 
   <mode name="sme-smn-postchunk" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -217,7 +217,7 @@
 
   <mode name="sme-smn-dgen">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -255,7 +255,7 @@
   <!-- untrimmed sme-smn, for debug: -->
   <mode name="usme-smn" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf-untrimmed.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -292,7 +292,7 @@
 
   <mode name="usme-smn-morph" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf-untrimmed.hfst"/>
       </program>
     </pipeline>
@@ -300,7 +300,7 @@
 
   <mode name="usme-smn-disam" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf-untrimmed.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -311,7 +311,7 @@
 
   <mode name="usme-smn-syntax" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf-untrimmed.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -325,7 +325,7 @@
 
   <mode name="usme-smn-tagger" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf-untrimmed.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -339,7 +339,7 @@
 
   <mode name="usme-smn-biltrans" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf-untrimmed.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -357,7 +357,7 @@
 
   <mode name="usme-smn-lextor" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf-untrimmed.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -378,7 +378,7 @@
 
   <mode name="usme-smn-chunker" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf-untrimmed.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -403,7 +403,7 @@
 
   <mode name="usme-smn-interchunk" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf-untrimmed.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -427,7 +427,7 @@
 
   <mode name="usme-smn-postchunk" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf-untrimmed.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -460,7 +460,7 @@
 
   <mode name="usme-smn-dgen">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf-untrimmed.hfst"/>
       </program>
       <program name="cg-proc -w">
@@ -499,7 +499,7 @@
 
   <mode name="smn-sme-morph" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="smn-sme.automorf.hfst"/>
       </program>
     </pipeline>
@@ -507,7 +507,7 @@
 
   <mode name="usmn-sme-morph" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="smn-sme.automorf-untrimmed.hfst"/>
       </program>
     </pipeline>
@@ -515,7 +515,7 @@
 
   <mode name="smn-sme" install="no">
     <pipeline>
-      <program name="hfst-proc -w -e">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="smn-sme.automorf.hfst"/>
       </program>
       <program name="cg-proc -w">
