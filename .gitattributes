@@ -17,6 +17,7 @@
 /apertium-sme-smn.smn-sme.t3x -text
 /autogen.sh -text
 /configure.ac -text
+/gt2apertium.cg3r -text
 /modes.xml -text
 t/README.org -text
 t/config.sh -text
