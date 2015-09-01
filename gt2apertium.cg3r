@@ -39,6 +39,9 @@ MAP (Comma) (cm);
 MAP (Cmpnd) (cmp);
 MAP (Cmpar) (comp);
 
+MAP (Prop) (np);
+MAP (N)    (n) OR (np);
+
 MAP (<hab>) (←hab→);
 MAP (<sme>) (←sme→);
 MAP (<sma>) (←sma→);
@@ -191,7 +194,6 @@ MAP (Inf) (inf);
 MAP (IV) (iv);
 MAP (LEFT) (left);
 MAP (Loc) (loc);
-MAP (N) (n);
 MAP (Neg) (neg);
 MAP (Nom) (nom);
 MAP (NomAg) (nomag);
@@ -208,7 +210,6 @@ MAP (Po) (po);
 MAP (Pot) (pot);
 MAP (Pr) (pr);
 MAP (PrfPrc) (prfprc);
-MAP (Prop) (prop);
 MAP (PrsPrc) (prsprc);
 MAP (PUNCT) (punct);
 MAP (PxDu1) (pxdu1);
