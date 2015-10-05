@@ -9,6 +9,13 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="num-nomacc">                           
+      <cat-item tags="num.sg.nom.*"/>                  
+      <cat-item tags="num.sg.acc.*"/>                  
+    </def-cat>                                         
+    <def-cat n="n-sg-gen">                             
+      <cat-item tags="n.*.sg.gen.*"/>                    
+    </def-cat>  
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -306,6 +313,40 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: num-nomacc n-sg-nom">                                             
+      <pattern>                                        
+        <pattern-item n="num-nomacc"/>                 
+        <pattern-item n="n-sg-gen"/>                   
+      </pattern>     
+      <action>
+        <let>
+        	<clip pos="2" side="tl" part="tags"/>
+            <lit-tag v="n.par"/>                
+        </let> 
+        <let>
+        	<clip pos="1" side="tl" part="a_func"/>
+            <lit-tag v=""/>                
+        </let> 
+        <out>
+          <chunk name="num-noun">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>    
+              <clip pos="1" side="tl" part="tags"/>   
+	        </lu>
+	        <b/>
+	        <lu>
+              <clip pos="2" side="tl" part="whole"/>   
+		    </lu>
+          </chunk>
+        </out>
+        
+      </action>                                  
+    </rule> 
+
 
     <rule comment="REGLA: verb">
       <pattern>
