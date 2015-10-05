@@ -27,6 +27,10 @@ t/pending-tests -text
 t/regression-tests -text
 t/update-latest -text
 t/wiki-tests -text
+texts/historia_sme.txt -text
+texts/historia_smn.txt -text
+texts/saamelaiset2_sme.txt -text
+texts/saamelaiset2_smn.txt -text
 texts/saamelaiset_suomessa.sme.txt -text
 texts/saamelaiset_suomessa.smn.0.txt -text
 texts/saamelaiset_suomessa.smn.1.txt -text
