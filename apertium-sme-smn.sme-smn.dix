@@ -15,6 +15,7 @@
 
     <sdef n="iv"       c="Intransitive"/>
     <sdef n="tv"       c="Transitive"/>
+    <sdef n="nomag"      c="NomAg"/>
 
     <sdef n="pers"     c="Personal"/>
     <sdef n="itg"      c="Interrogative"/>
@@ -590,7 +591,7 @@
 <e><p> <l>oskkolaš<s n="n"/></l> <r>oskovâš<s n="n"/></r> </p></e>
 <e><p> <l>ovccát<s n="n"/></l> <r>oovcád<s n="n"/></r> </p></e>
 <e><p> <l>ovddasteaddji<s n="n"/></l> <r>ovdâsteijee<s n="n"/></r> </p></e>
-<e><p> <l>ovddemus<s n="n"/></l> <r>vuosmuš<s n="n"/></r> </p></e>
+<e><p> <l>ovddemus<s n="adj"/></l> <r>vuosmuš<s n="adj"/></r> </p></e>
 <e><p> <l>ovddeš<s n="n"/></l> <r>oovdiš<s n="n"/></r> </p></e>
 <e><p> <l>ovddit<s n="n"/></l> <r>ovdebáš<s n="n"/></r> </p></e>
 <e><p> <l>ovttalágan<s n="n"/></l> <r>siämmáálágán<s n="n"/></r> </p></e>
@@ -797,9 +798,9 @@
 <e><p> <l>vuollegaš<s n="n"/></l> <r>vyeligâš<s n="n"/></r> </p></e>
 <e><p> <l>vuollásaš<s n="n"/></l> <r>vuálááš<s n="n"/></r> </p></e>
 <e><p> <l>vuopmat<s n="n"/></l> <r>kubduv<s n="n"/></r> </p></e>
-<e><p> <l>vuosttamus<s n="n"/></l> <r>vuosmuš<s n="n"/></r> </p></e>
-<e><p> <l>vuosttas<s n="n"/></l> <r>vuosmuš<s n="n"/></r> </p></e>
-<e><p> <l>vuosttaš<s n="n"/></l> <r>vuosmuš<s n="n"/></r> </p></e>
+<e><p> <l>vuosttamus<s n="adj"/></l> <r>vuosmuš<s n="adj"/></r> </p></e>
+<e><p> <l>vuosttas<s n="adj"/></l> <r>vuosmuš<s n="adj"/></r> </p></e>
+<e><p> <l>vuosttaš<s n="adj"/></l> <r>vuosmuš<s n="adj"/></r> </p></e>
 <e><p> <l>vuovssaheapme<s n="n"/></l> <r>vyeligâš<s n="n"/></r> </p></e>
 <e><p> <l>vuđolaš<s n="n"/></l> <r>vuáđulâš<s n="n"/></r> </p></e>
 <e><p> <l>váiban<s n="n"/></l> <r>vaaibâs<s n="n"/></r> </p></e>
@@ -3339,7 +3340,7 @@
 <e><p> <l>oahpaheaddji<s n="n"/></l> <r>máttáátteijee<s n="n"/></r> </p></e>
 <e><p> <l>oahpahus<s n="n"/></l> <r>opâttâs<s n="n"/></r> </p></e>
 <e><p> <l>oahppa<s n="n"/></l> <r>tiätu<s n="n"/></r> </p></e>
-<e><p> <l>oahppi<s n="n"/></l> <r>uáppee<s n="n"/></r> </p></e>
+<e><p> <l>oahppi<s n="n"/><s n="nomag"/></l> <r>uáppee<s n="n"/></r> </p></e>
 <e><p> <l>oahppogirji<s n="n"/></l> <r>oppâkirje<s n="n"/></r> </p></e>
 <e><p> <l>oahppu<s n="n"/></l> <r>oppâ<s n="n"/></r> </p></e>
 <e><p> <l>oaidnu<s n="n"/></l> <r>uáivil<s n="n"/></r> </p></e>
