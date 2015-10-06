@@ -8,6 +8,14 @@
     </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
+      <cat-item tags="adj.der_vuohta.n.*"/>
+    </def-cat>
+    <def-cat n="adj">
+      <cat-item tags="adj.*"/>
+    </def-cat>
+    <def-cat n="adv">
+      <cat-item tags="adj.der_at.adv.*"/>
+      <cat-item tags="adv.*"/>
     </def-cat>
     <def-cat n="num-nomacc">                           
       <cat-item tags="num.sg.nom.*"/>                  
@@ -96,6 +104,14 @@
     <def-attr n="a_trans">
       <attr-item tags="iv"/>
       <attr-item tags="tv"/>
+    </def-attr>
+    <def-attr n="a_deriv">
+       <attr-item tags="der_at"/>
+       <attr-item tags="der_goahti"/>
+       <attr-item tags="der_l"/>
+       <attr-item tags="der_ahtti"/>
+       <attr-item tags="der_vuohta"/>
+       <attr-item tags="der_d"/>
     </def-attr>
 
     <def-attr n="a_sem">
@@ -360,19 +376,61 @@
             <lit v=""/>
           </let>
     </def-macro>
+
+    <def-macro n="convert-deriv1" npar="1">
+      <choose>
+        <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_vuohta"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_vuota"/></let> 
+        </when>
+        <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_at"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_avt"/></let> 
+        </when>
+      </choose>
+    </def-macro>  
+
+
+
+
   </section-def-macros>
   <section-rules>
+
 
     <rule comment="REGLA: nom">
       <pattern>
         <pattern-item n="nom"/>
       </pattern>
       <action>
+        <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <out>
           <chunk name="nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: adv">
+      <pattern>
+        <pattern-item n="adv"/>
+      </pattern>
+      <action>
+        <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <out>
+          <chunk name="adv" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
