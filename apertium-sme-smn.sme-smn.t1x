@@ -112,6 +112,7 @@
        <attr-item tags="der_ahtti"/>
        <attr-item tags="der_vuohta"/>
        <attr-item tags="der_d"/>
+       <attr-item tags="der_lágan"/>
     </def-attr>
 
     <def-attr n="a_sem">
@@ -391,6 +392,12 @@
           </test>
           <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_avt"/></let> 
         </when>
+        <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_lágan"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_lagan"/></let> 
+        </when>
       </choose>
     </def-macro>  
 
@@ -442,6 +449,27 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: adj">
+      <pattern>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <out>
+          <chunk name="adj" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: birra-loc">
       <pattern>
         <pattern-item n="hupmat-v"/>
@@ -483,18 +511,9 @@
         <pattern-item n="n-sg-gen"/>                   
       </pattern>     
       <action>
-        <let>
-        	<clip pos="2" side="tl" part="tags"/>
-            <lit-tag v="n.par"/>                
-        </let> 
-        <let>
-        	<clip pos="1" side="tl" part="x_func"/>
-            <lit-tag v=""/>                
-        </let> 
-        <let>
-        	<clip pos="1" side="tl" part="a_func"/>
-            <lit-tag v=""/>                
-        </let> 
+        <let><clip pos="1" side="tl" part="x_func"/><lit-tag v=""/></let> 
+        <let><clip pos="1" side="tl" part="a_func"/><lit-tag v=""/></let> 
+        <let><clip pos="2" side="tl" part="tags"/><lit-tag v="n.par"/></let> 
         <out>
           <chunk name="num-noun">
             <tags>
@@ -513,6 +532,87 @@
         
       </action>                                  
     </rule> 
+    <rule comment="REGLA: num-nomacc attr n-sg-gen">                                             
+      <pattern>                                        
+        <pattern-item n="num-nomacc"/>                 
+        <pattern-item n="attr"/>                 
+        <pattern-item n="n-sg-gen"/>                   
+      </pattern>     
+      <action>
+        <let><clip pos="1" side="tl" part="x_func"/><lit-tag v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit-tag v=""/></let>
+        <let><clip pos="2" side="tl" part="x_func"/><lit-tag v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit-tag v=""/></let>
+        <let><clip pos="3" side="tl" part="tags"/><lit-tag v="n.par"/></let> 
+        <out>
+          <chunk name="num-noun">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>    
+              <clip pos="1" side="tl" part="tags"/>   
+	        </lu>
+	        <b/>
+	        <lu>
+              <clip pos="2" side="tl" part="lem"/>    
+              <clip pos="2" side="tl" part="tags"/>   
+		    </lu>
+	        <b/>
+	        <lu>
+              <clip pos="3" side="tl" part="whole"/>   
+		    </lu>
+          </chunk>
+        </out>
+        
+      </action>                                  
+    </rule> 
+
+    <rule comment="REGLA: num-nomacc adv attr n-sg-gen">                                             
+      <pattern>                                        
+        <pattern-item n="num-nomacc"/>                 
+        <pattern-item n="adv"/>                 
+        <pattern-item n="attr"/>                 
+        <pattern-item n="n-sg-gen"/>                   
+      </pattern>     
+      <action>
+        <let><clip pos="1" side="tl" part="x_func"/><lit-tag v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit-tag v=""/></let>
+        <let><clip pos="2" side="tl" part="x_func"/><lit-tag v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit-tag v=""/></let>
+        <let><clip pos="3" side="tl" part="x_func"/><lit-tag v=""/></let>
+        <let><clip pos="3" side="tl" part="a_func"/><lit-tag v=""/></let>
+        <let><clip pos="4" side="tl" part="tags"/><lit-tag v="n.par"/></let> 
+        <out>
+          <chunk name="num-noun">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>    
+              <clip pos="1" side="tl" part="tags"/>   
+	        </lu>
+	        <b/>
+	        <lu>
+              <clip pos="2" side="tl" part="lem"/>    
+              <clip pos="2" side="tl" part="tags"/>   
+		    </lu>
+	        <b/>
+	        <lu>
+              <clip pos="3" side="tl" part="lem"/>    
+              <clip pos="3" side="tl" part="tags"/>   
+		    </lu>
+	        <b/>
+	        <lu>
+              <clip pos="4" side="tl" part="whole"/>   
+		    </lu>
+          </chunk>
+        </out>
+        
+      </action>                                  
+    </rule> 
+
+
     <rule comment="REGLA: vuosttas-attr n-sg-nom">                                             
       <pattern>                                        
         <pattern-item n="vuosttas-attr"/>                 
