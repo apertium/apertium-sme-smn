@@ -12,6 +12,8 @@
     </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
+      <cat-item tags="np.*.der_nammasaš.adj.*"/>
+      <cat-item tags="np.der_nammasaš.adj.*"/>
     </def-cat>
     <def-cat n="adv">
       <cat-item tags="adj.der_at.adv.*"/>
@@ -113,6 +115,8 @@
        <attr-item tags="der_vuohta"/>
        <attr-item tags="der_d"/>
        <attr-item tags="der_lágan"/>
+       <attr-item tags="der_nammasaš"/>
+       <attr-item tags="der_nommasas"/>
     </def-attr>
 
     <def-attr n="a_sem">
@@ -397,6 +401,12 @@
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_lágan"/></equal>
           </test>
           <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_lagan"/></let> 
+        </when>
+        <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_nammasaš"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_nommasas"/></let> 
         </when>
       </choose>
     </def-macro>  
