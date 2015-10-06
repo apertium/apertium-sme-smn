@@ -39,6 +39,7 @@
     <e><p><l>jos<s n="cnjsub"/></l><r>jos<s n="cnjsub"/></r></p></e>
     <e><p><l>vaikko<s n="cnjsub"/></l><r>veikkâ<s n="cnjsub"/></r></p></e>
     <e><p><l>vai<s n="cnjsub"/></l><r>vâi<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ahte<s n="cnjsub"/></l><r>ete<s n="cnjcoo"/></r></p></e>
 
     <!-- SECTION: Pronouns -->
 
@@ -1189,7 +1190,7 @@
 <e><p> <l>hirbmat<s n="n"/></l> <r>hirmâd<s n="n"/></r> </p></e>
 <e><p> <l>hirril<s n="n"/></l> <r>hárráht<s n="n"/></r> </p></e>
 <e><p> <l>hoahpus<s n="n"/></l> <r>rotoi<s n="n"/></r> </p></e>
-<e><p> <l>hui<s n="n"/></l> <r>eromâš<s n="n"/></r> </p></e>
+<e><p> <l>hui<s n="adv"/></l> <r>eromâš<s n="adv"/></r> </p></e>
 <e><p> <l>hájilassii<s n="n"/></l> <r>piäđgui<s n="n"/></r> </p></e>
 <e><p> <l>hárrut<s n="n"/></l> <r>hárráht<s n="n"/></r> </p></e>
 <e><p> <l>hárve<s n="n"/></l> <r>harvii<s n="n"/></r> </p></e>
