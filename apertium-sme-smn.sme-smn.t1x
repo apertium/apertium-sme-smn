@@ -15,7 +15,8 @@
     </def-cat>                                         
     <def-cat n="vuosttas-attr">                             
       <cat-item lemma="vuosttáš" tags="adj.ord.attr.*"/>                    
-      <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/>                    
+      <cat-item lemma="vuosttáš" tags="adj.ord.attr.*"/>                    
+      <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/>                    
     </def-cat>  
     <def-cat n="n-sg-nom">                             
       <cat-item tags="n.*.sg.nom.*"/>                    
@@ -333,9 +334,9 @@
     <def-var n="current_verb"/>
   </section-def-vars>
   <section-def-macros>
-    <def-macro n="test" npar="1">
+    <def-macro n="remove-semtag1" npar="1">
           <let>
-            <var n="number"/>
+            <clip pos="1" side="tl" part="a_sem"/>
             <lit v=""/>
           </let>
     </def-macro>
@@ -347,7 +348,7 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
-        <let><clip pos="1" side="tl" part="a_sem"/><lit v=""/></let>
+        <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <out>
           <chunk name="nom" case="caseFirstWord">
@@ -404,10 +405,7 @@
         	<clip pos="1" side="tl" part="tags"/>
             <lit-tag v="adj.ord.sg.nom"/>                
         </let> 
-        <let>
-        	<clip pos="2" side="tl" part="tags"/>
-            <lit-tag v="n.sg.nom"/>                
-        </let> 
+        <call-macro n="remove-semtag1"><with-param pos="2"/></call-macro>
         <out>
           <chunk name="vuosttas-nomnoun">
             <tags>
@@ -435,10 +433,7 @@
         	<clip pos="1" side="tl" part="tags"/>
             <lit-tag v="adj.ord.sg.gen"/>                
         </let> 
-        <let>
-        	<clip pos="2" side="tl" part="tags"/>
-            <lit-tag v="n.sg.gen"/>                
-        </let> 
+        <call-macro n="remove-semtag1"><with-param pos="2"/></call-macro>
         <out>
           <chunk name="vuosttas-gennoun">
             <tags>

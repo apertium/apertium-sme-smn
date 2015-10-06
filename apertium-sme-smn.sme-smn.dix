@@ -4721,7 +4721,6 @@
 <e><p> <l>hukset<s n="n"/></l> <r>talo<s n="n"/></r> </p></e>
 <e><p> <l>huškut<s n="n"/></l> <r>iskeä<s n="n"/></r> </p></e>
 <e><p> <l>ihtit<s n="n"/></l> <r>esim.<s n="n"/></r> </p></e>
-<e><p> <l>ii<s n="n"/></l> <r>ij<s n="n"/></r> </p></e>
 <e><p> <l>iđit<s n="n"/></l> <r>iiđeed<s n="n"/></r> </p></e>
 <e><p> <l>jearrat<s n="n"/></l> <r>jtak<s n="n"/></r> </p></e>
 <e><p> <l>jorgalit<s n="n"/></l> <r>tekstiä<s n="n"/></r> </p></e>
@@ -5017,7 +5016,7 @@
 
     <!-- SECTION: Verbs -->
 
-    <e><p><l>ii<s n="vblex"/></l><r>ij<s n="vblex"/></r></p></e>
+    <e><p><l>ii<s n="vblex"/><s n="iv"/></l><r>ij<s n="vblex"/></r></p></e>
 
 
     <e><p><l>boahtit<s n="vblex"/><s n="iv"/></l><r>puáttiđ<s n="vblex"/></r></p></e>
