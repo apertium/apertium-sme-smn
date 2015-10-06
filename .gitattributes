@@ -27,6 +27,7 @@ t/pending-tests -text
 t/regression-tests -text
 t/update-latest -text
 t/wiki-tests -text
+texts/aino_smn.txt -text
 texts/historia_sme.txt -text
 texts/historia_smn.txt -text
 texts/saamelaiset2_sme.txt -text
