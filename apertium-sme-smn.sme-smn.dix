@@ -1263,7 +1263,7 @@
 <e><p> <l>njuolgga<s n="n"/></l> <r>njuolgâ<s n="n"/></r> </p></e>
 <e><p> <l>njálgát<s n="n"/></l> <r>njálgásávt<s n="n"/></r> </p></e>
 <e><p> <l>nohkka<s n="n"/></l> <r>tuárván<s n="n"/></r> </p></e>
-<e><p> <l>nu<s n="n"/></l> <r>naa<s n="n"/></r> </p></e>
+<e><p> <l>nu<s n="adv"/></l> <r>nuuvt<s n="adv"/></r> </p></e>
 <e><p> <l>nuogis<s n="n"/></l> <r>tuárván<s n="n"/></r> </p></e>
 <e><p> <l>nuortan<s n="n"/></l> <r>nuorttân<s n="n"/></r> </p></e>
 <e><p> <l>nuorttas<s n="n"/></l> <r>nuortâs<s n="n"/></r> </p></e>
@@ -4555,6 +4555,7 @@
 <e><p> <l>na<s n="n"/></l> <r>na<s n="n"/></r> </p></e>
 <e><p> <l>no<s n="n"/></l> <r>na<s n="n"/></r> </p></e>
 <e><p> <l>nai<s n="pcle"/></l> <r>meid<s n="adv"/></r> </p></e>
+<e><p> <l>mihkkege<s n="prn"/></l> <r>mihheen<s n="prn"/></r> </p></e>
 <e><p> <l>ala<s n="n"/></l> <r>oolâ<s n="n"/></r> </p></e>
 <e><p> <l>alde<s n="n"/></l> <r>alne<s n="n"/></r> </p></e>
 <e><p> <l>aldi<s n="n"/></l> <r>alne<s n="n"/></r> </p></e>
@@ -5029,6 +5030,7 @@
     <e><p><l>ii<s n="vblex"/><s n="iv"/></l><r>ij<s n="vblex"/></r></p></e>
 
     <e><p><l>boahtit<s n="vblex"/><s n="iv"/></l><r>puáttiđ<s n="vblex"/></r></p></e>
+    <e><p><l>geargat<s n="vblex"/><s n="iv"/></l><r>kiergâniđ<s n="vblex"/></r></p></e>
     <e><p><l>fertet<s n="vblex"/><s n="iv"/></l><r>kolgâđ<s n="vblex"/></r></p></e>
     <e><p><l>fertet<s n="vblex"/><s n="iv"/></l><r>ferttiđ<s n="vblex"/></r></p></e>
     <e><p><l>sáhttit<s n="vblex"/><s n="iv"/></l><r>pyehtiđ<s n="vblex"/></r></p></e>
