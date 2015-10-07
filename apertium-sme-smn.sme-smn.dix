@@ -45,6 +45,7 @@
     <e><p><l>muhte<s n="cnjsub"/></l><r>mutâ<s n="cnjsub"/></r></p></e>
     <e><p><l>jos<s n="cnjsub"/></l><r>jos<s n="cnjsub"/></r></p></e>
     <e><p><l>vaikko<s n="cnjsub"/></l><r>veikkâ<s n="cnjsub"/></r></p></e>
+<e><p> <l>vaikke<s n="cnjsub"/></l> <r>vâik<s n="cnjsub"/></r> </p></e>
     <e><p><l>go<s n="cnjsub"/></l><r>ko<s n="cnjsub"/></r></p></e> <!-- check-->
     <e><p><l>vai<s n="cnjsub"/></l><r>vâi<s n="cnjcoo"/></r></p></e>
     <e><p><l>ahte<s n="cnjsub"/></l><r>ete<s n="cnjsub"/></r></p></e>
@@ -1090,6 +1091,7 @@
 <e><p> <l>dakko<s n="n"/></l> <r>tast<s n="n"/></r> </p></e>
 <e><p> <l>dal<s n="n"/></l> <r>tääl<s n="n"/></r> </p></e>
 <e><p> <l>dalle<s n="adv"/></l> <r>talle<s n="adv"/></r> </p></e>
+<e><p> <l>vaikke<s n="adv"/></l> <r>vâik<s n="adv"/></r> </p></e>
 <e><p> <l>dalánaga<s n="n"/></l> <r>tállán<s n="n"/></r> </p></e>
 <e><p> <l>danne<s n="n"/></l> <r>tondiet<s n="n"/></r> </p></e>
 <e><p> <l>dasa<s n="n"/></l> <r>toos<s n="n"/></r> </p></e>
@@ -1334,7 +1336,6 @@
 <e><p> <l>unnimusat<s n="n"/></l> <r>ucemussân<s n="n"/></r> </p></e>
 <e><p> <l>unnit<s n="n"/></l> <r>ucceeb<s n="n"/></r> </p></e>
 <e><p> <l>unnán<s n="n"/></l> <r>ucánjii<s n="n"/></r> </p></e>
-<e><p> <l>vaikke<s n="n"/></l> <r>vâik<s n="n"/></r> </p></e>
 <e><p> <l>vaikko<s n="n"/></l> <r>vâik<s n="n"/></r> </p></e>
 <e><p> <l>valjit<s n="n"/></l> <r>valjeeht<s n="n"/></r> </p></e>
 <e><p> <l>veagal<s n="n"/></l> <r>viehârâš<s n="n"/></r> </p></e>
@@ -1392,7 +1393,6 @@
 <e><p> <l>šlumpa<s n="n"/></l> <r>kyevtikáávnán<s n="n"/></r> </p></e>
 <e><p> <l>ja<s n="n"/></l> <r>já<s n="n"/></r> </p></e>
 <e><p> <l>muhto<s n="n"/></l> <r>mut<s n="n"/></r> </p></e>
-<e><p> <l>vaikke<s n="n"/></l> <r>vâik<s n="n"/></r> </p></e>
 <e><p> <l>vaikko<s n="n"/></l> <r>vâik<s n="n"/></r> </p></e>
 <e><p> <l>sihke<s n="n"/></l> <r>sehe<s n="n"/></r> </p></e>
 <e><p> <l>dehe<s n="n"/></l> <r>adai<s n="n"/></r> </p></e>
