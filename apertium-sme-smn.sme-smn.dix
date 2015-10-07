@@ -10,6 +10,7 @@
     <sdef n="po"       c="Postposition"/>
     <sdef n="pr"       c="Preposition"/>
     <sdef n="adv"      c="Adverb"/>
+    <sdef n="pcle"     c="Частица"/>
     <sdef n="cnjcoo"   c="Coordinating conjunction"/>
     <sdef n="cnjsub"   c="Subordinating conjunction"/>
 
@@ -31,6 +32,10 @@
   </sdefs>
 
   <section id="main" type="standard">
+
+    <!-- SECTION: Miscellaneous -->
+
+    <e><p><l>ge<s n="pcle"/></l><r>ke<s n="pcle"/></r></p></e>
 
     <!-- SECTION: Conjunctions -->
 
@@ -317,7 +322,7 @@
 <e><p> <l>fásta<s n="n"/></l> <r>matem.<s n="n"/></r> </p></e>
 <e><p> <l>gallji<s n="n"/></l> <r>esim.<s n="n"/></r> </p></e>
 <e><p> <l>gallás<s n="n"/></l> <r>kalanâm<s n="n"/></r> </p></e>
-<e><p> <l>galmmas<s n="n"/></l> <r>koolmâs<s n="n"/></r> </p></e>
+<e><p> <l>galmmas<s n="adj"/></l> <r>koolmâs<s n="adj"/></r> </p></e>
 <e><p> <l>gappas<s n="n"/></l> <r>vielgâd<s n="n"/></r> </p></e>
 <e><p> <l>garas<s n="n"/></l> <r>myös<s n="n"/></r> </p></e>
 <e><p> <l>gaskaboddasaš<s n="n"/></l> <r>koskâpuddâsâš<s n="n"/></r> </p></e>
@@ -1114,7 +1119,6 @@
 <e><p> <l>doppimustá<s n="n"/></l> <r>tovbemustáá<s n="n"/></r> </p></e>
 <e><p> <l>duhtosii<s n="n"/></l> <r>tuođâst<s n="n"/></r> </p></e>
 <e><p> <l>duo<s n="n"/></l> <r>tovben<s n="n"/></r> </p></e>
-<e><p> <l>duohken<s n="po"/></l> <r>tyehin<s n="po"/></r> </p></e>
 <e><p> <l>duohko<s n="n"/></l> <r>tovhon<s n="n"/></r> </p></e>
 <e><p> <l>duohkái<s n="n"/></l> <r>maŋas<s n="n"/></r> </p></e>
 <e><p> <l>duohttige<s n="n"/></l> <r>eštuu<s n="n"/></r> </p></e>
@@ -4571,7 +4575,8 @@
 <e><p> <l>bokti<s n="n"/></l> <r>peht<s n="n"/></r> </p></e>
 <e><p> <l>dihte<s n="n"/></l> <r>keežild<s n="n"/></r> </p></e>
 <e><p> <l>dihtii<s n="n"/></l> <r>ollee<s n="n"/></r> </p></e>
-<e><p> <l>duohken<s n="n"/></l> <r>tyehin<s n="n"/></r> </p></e>
+<e><p> <l>duohken<s n="po"/></l> <r>tyehin<s n="po"/></r> </p></e>
+<e><p> <l>alde<s n="po"/></l> <r>alne<s n="po"/></r> </p></e>
 <e><p> <l>duohkái<s n="n"/></l> <r>maŋas<s n="n"/></r> </p></e>
 <e><p> <l>fárus<s n="n"/></l> <r>fáárust<s n="n"/></r> </p></e>
 <e><p> <l>gaskii<s n="n"/></l> <r>kyevtkooskân<s n="n"/></r> </p></e>
@@ -5022,9 +5027,11 @@
 
     <e><p><l>ii<s n="vblex"/><s n="iv"/></l><r>ij<s n="vblex"/></r></p></e>
 
-
     <e><p><l>boahtit<s n="vblex"/><s n="iv"/></l><r>puáttiđ<s n="vblex"/></r></p></e>
+    <e><p><l>fertet<s n="vblex"/><s n="iv"/></l><r>kolgâđ<s n="vblex"/></r></p></e>
     <e><p><l>fertet<s n="vblex"/><s n="iv"/></l><r>ferttiđ<s n="vblex"/></r></p></e>
+    <e><p><l>sáhttit<s n="vblex"/><s n="iv"/></l><r>pyehtiđ<s n="vblex"/></r></p></e>
+
     <e c="check"><p><l>gálgat<s n="vblex"/><s n="tv"/></l><r>kalgâđ<s n="vblex"/></r></p></e>
     <e><p><l>leat<s n="vblex"/><s n="iv"/></l><r>leđe<s n="vblex"/></r></p></e>
     <e><p><l>mannat<s n="vblex"/><s n="iv"/></l><r>moonnâđ<s n="vblex"/></r></p></e>
