@@ -1226,8 +1226,8 @@
 <e><p> <l>loahpas<s n="n"/></l> <r>majemustáá<s n="n"/></r> </p></e>
 <e><p> <l>láhppagasas<s n="n"/></l> <r>lappâsist<s n="n"/></r> </p></e>
 <e><p> <l>láhpposis<s n="n"/></l> <r>lappâsist<s n="n"/></r> </p></e>
-<e><p> <l>maid<s n="n"/></l> <r>meid<s n="n"/></r> </p></e>
-<e><p> <l>maiddái<s n="n"/></l> <r>meid<s n="n"/></r> </p></e>
+<e><p> <l>maid<s n="adv"/></l> <r>meid<s n="adv"/></r> </p></e>
+<e><p> <l>maiddái<s n="adv"/></l> <r>meid<s n="adv"/></r> </p></e>
 <e><p> <l>man<s n="n"/></l> <r>maht<s n="n"/></r> </p></e>
 <e><p> <l>manin<s n="n"/></l> <r>mane<s n="n"/></r> </p></e>
 <e><p> <l>manne<s n="n"/></l> <r>mane<s n="n"/></r> </p></e>
@@ -4555,7 +4555,7 @@
 <e><p> <l>mis<s n="n"/></l> <r>eštuu<s n="n"/></r> </p></e>
 <e><p> <l>na<s n="n"/></l> <r>na<s n="n"/></r> </p></e>
 <e><p> <l>no<s n="n"/></l> <r>na<s n="n"/></r> </p></e>
-<e><p> <l>nai<s n="n"/></l> <r>meid<s n="n"/></r> </p></e>
+<e><p> <l>nai<s n="pcle"/></l> <r>meid<s n="adv"/></r> </p></e>
 <e><p> <l>ala<s n="n"/></l> <r>oolâ<s n="n"/></r> </p></e>
 <e><p> <l>alde<s n="n"/></l> <r>alne<s n="n"/></r> </p></e>
 <e><p> <l>aldi<s n="n"/></l> <r>alne<s n="n"/></r> </p></e>
@@ -4615,7 +4615,8 @@
 <e><p> <l>rastá<s n="n"/></l> <r>katkennut<s n="n"/></r> </p></e>
 <e><p> <l>rádjái<s n="n"/></l> <r>rääjist<s n="n"/></r> </p></e>
 <e><p> <l>sisa<s n="n"/></l> <r>siisâ<s n="n"/></r> </p></e>
-<e><p> <l>siste<s n="n"/></l> <r>siste<s n="n"/></r> </p></e>
+<e><p> <l>siste<s n="po"/></l> <r>siste<s n="po"/></r> </p></e>
+<e><p> <l>siste<s n="adv"/></l> <r>siste<s n="adv"/></r> </p></e>
 <e><p> <l>sisti<s n="n"/></l> <r>siste<s n="n"/></r> </p></e>
 <e><p> <l>vuolde<s n="po"/></l> <r>vyelni<s n="po"/></r> </p></e>
 <e><p> <l>vuollel<s n="n"/></l> <r>vyelni<s n="n"/></r> </p></e>
