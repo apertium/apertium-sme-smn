@@ -1106,13 +1106,13 @@
 <e><p> <l>die<s n="adv"/></l> <r>tovben<s n="adv"/></r> </p></e>
 <e><p> <l>diehke<s n="n"/></l> <r>teehi<s n="n"/></r> </p></e>
 <e><p> <l>diehko<s n="n"/></l> <r>tiehu<s n="n"/></r> </p></e>
-<e><p> <l>diehttelas<s n="n"/></l> <r>tiäđust<s n="n"/></r> </p></e>
+<e><p> <l>diehttelas<s n="n"/></l> <r>tiäđust-uv<s n="n"/></r> </p></e>
 <e><p> <l>diekko<s n="adv"/></l> <r>tast<s n="adv"/></r> </p></e>
 <e><p> <l>dieppe<s n="adv"/></l> <r>tiebbin<s n="adv"/></r> </p></e>
 <e><p> <l>diesa<s n="n"/></l> <r>toos<s n="n"/></r> </p></e>
 <e><p> <l>dievva<s n="n"/></l> <r>täynnään<s n="n"/></r> </p></e>
-<e><p> <l>dieđus<s n="adv"/></l> <r>tiäđust<s n="adv"/></r> </p></e>
-<e><p> <l>dieđusge<s n="adv"/></l> <r>tiäđust<s n="adv"/></r> </p></e>
+<e><p> <l>dieđus<s n="adv"/></l> <r>tiäđus-uv<s n="adv"/></r> </p></e>
+<e><p> <l>dieđusge<s n="adv"/></l> <r>tiäđust-uv<s n="adv"/></r> </p></e>
 <e><p> <l>doaisttážii<s n="n"/></l> <r>tuáistáážân<s n="n"/></r> </p></e>
 <e><p> <l>doarrás<s n="n"/></l> <r>tuárrást<s n="n"/></r> </p></e>
 <e><p> <l>doarvái<s n="n"/></l> <r>tuárván<s n="n"/></r> </p></e>
@@ -5016,7 +5016,7 @@
     <e><p><l>dál<s n="adv"/></l><r>tääl<s n="adv"/></r></p></e>
     <e><p><l>ikte<s n="adv"/></l><r>jieht<s n="adv"/></r></p></e>
     <e><p><l>de<s n="adv"/></l><r>te<s n="adv"/></r></p></e>
-    <e><p><l>fas<s n="adv"/></l><r>vest<s n="adv"/></r></p></e>
+    <e><p><l>fas<s n="adv"/></l><r>vest<s n="pcle"/></r></p></e>
     <e><p><l>odne<s n="adv"/></l><r>onne<s n="adv"/></r></p></e>
     <e><p><l>olgun<s n="adv"/></l><r>olgon<s n="adv"/></r></p></e>
     <e><p><l>olu<s n="adv"/></l><r>ennuv<s n="adv"/></r></p></e>
