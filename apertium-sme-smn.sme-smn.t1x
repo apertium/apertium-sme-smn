@@ -17,6 +17,9 @@
       <cat-item lemma="ge" tags="pcle.*"/>
       <cat-item lemma="gis" tags="pcle.*"/>
     </def-cat>
+   <def-cat n="buorre">
+      <cat-item lemma="buorre" tags="adj.*.@→N"/>
+    </def-cat>
     <def-cat n="mainverb">
       <cat-item tags="vblex.*.@+FMAINV"/>
       <cat-item tags="vblex.*.@-FMAINV"/>
@@ -604,16 +607,16 @@
         <pattern-item n="birra-po"/>
       </pattern>
       <action>
-        <let><clip pos="1" side="tl" part="x_func"/><lit-tag v=""/></let> 
-        <let><clip pos="1" side="tl" part="a_func"/><lit-tag v=""/></let> 
-        <let><clip pos="2" side="tl" part="x_func"/><lit-tag v=""/></let> 
-        <let><clip pos="2" side="tl" part="a_func"/><lit-tag v=""/></let> 
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let> 
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
       <choose>
         <when>
           <test>
                <in><var n="current_verb"/><list n="loc_verbs" /></in>
           </test>
-          <let><clip pos="2" side="tl" part="whole"/><lit-tag v=""/></let> 
+          <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let> 
           <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="loc"/></let> 
         </when>
       </choose>
@@ -637,14 +640,45 @@
     </rule>
 
 
+    <rule comment="REGLA: buorre attr">                                             
+      <pattern>                                        
+        <pattern-item n="buorre"/>                 
+        <pattern-item n="nom"/>                   
+      </pattern>     
+      <action>
+        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.attr"/></let> 
+        <let><clip pos="1" side="tl" part="lem"/><lit v="šiev"/></let> 
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let> 
+       <out>
+          <chunk name="num-noun">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>    
+              <clip pos="1" side="tl" part="tags"/>   
+	        </lu>
+	        <b/>
+	        <lu>
+              <clip pos="2" side="tl" part="whole"/>   
+		    </lu>
+          </chunk>
+        </out>
+        
+      </action>                                  
+    </rule> 
+
+
     <rule comment="REGLA: num-nomacc n-sg-gen">                                             
       <pattern>                                        
         <pattern-item n="num-nomacc"/>                 
         <pattern-item n="n-sg-gen"/>                   
       </pattern>     
       <action>
-        <let><clip pos="1" side="tl" part="x_func"/><lit-tag v=""/></let> 
-        <let><clip pos="1" side="tl" part="a_func"/><lit-tag v=""/></let> 
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let> 
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
         <let><clip pos="2" side="tl" part="tags"/><lit-tag v="n.par"/></let> 
         <out>
           <chunk name="num-noun">
@@ -671,10 +705,10 @@
         <pattern-item n="n-sg-gen"/>                   
       </pattern>     
       <action>
-        <let><clip pos="1" side="tl" part="x_func"/><lit-tag v=""/></let>
-        <let><clip pos="1" side="tl" part="a_func"/><lit-tag v=""/></let>
-        <let><clip pos="2" side="tl" part="x_func"/><lit-tag v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit-tag v=""/></let>
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="tags"/><lit-tag v="n.par"/></let> 
         <out>
           <chunk name="num-noun">
@@ -708,12 +742,12 @@
         <pattern-item n="n-sg-gen"/>                   
       </pattern>     
       <action>
-        <let><clip pos="1" side="tl" part="x_func"/><lit-tag v=""/></let>
-        <let><clip pos="1" side="tl" part="a_func"/><lit-tag v=""/></let>
-        <let><clip pos="2" side="tl" part="x_func"/><lit-tag v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit-tag v=""/></let>
-        <let><clip pos="3" side="tl" part="x_func"/><lit-tag v=""/></let>
-        <let><clip pos="3" side="tl" part="a_func"/><lit-tag v=""/></let>
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="4" side="tl" part="tags"/><lit-tag v="n.par"/></let> 
         <out>
           <chunk name="num-noun">
