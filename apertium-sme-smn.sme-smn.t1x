@@ -40,6 +40,12 @@
     <def-cat n="n-sg-gen">                             
       <cat-item tags="n.*.sg.gen.*"/>                     
     </def-cat>  
+    <def-cat n="nom-gen">                             
+      <cat-item tags="n.*.sg.gen.*"/>                     
+      <cat-item tags="n.*.pl.gen.*"/>                     
+      <cat-item tags="prn.*.sg.gen.*"/>                     
+      <cat-item tags="prn.*.pl.gen.*"/>                     
+    </def-cat>  
     <def-cat n="agreem-sg-gen">                             
       <cat-item tags="n.*.sg.gen.*"/>                    
       <cat-item tags="n.*.sg.ill.*"/>                    
@@ -491,7 +497,7 @@
 
     <rule comment="REGLA: birra-loc">
       <pattern>
-        <pattern-item n="n-sg-gen"/>
+        <pattern-item n="nom-gen"/>
         <pattern-item n="birra-po"/>
       </pattern>
       <action>
@@ -505,7 +511,7 @@
                <in><var n="current_verb"/><list n="loc_verbs" /></in>
           </test>
           <let><clip pos="2" side="tl" part="whole"/><lit-tag v=""/></let> 
-          <let><clip pos="1" side="tl" part="tags"/><lit-tag v="n.sg.loc"/></let> 
+          <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="loc"/></let> 
         </when>
       </choose>
         <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
