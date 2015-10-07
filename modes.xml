@@ -38,6 +38,43 @@
     </pipeline>
   </mode>
 
+  <mode name="sme-smn-debug" install="yes">
+    <pipeline>
+      <program name="hfst-proc --weight-classes 1 -w -e">
+        <file name="sme-smn.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="sme-smn.mor.rlx.bin"/>
+      </program>
+      <program name="cg-proc -n -1 -w">
+        <file name="sme-smn.syn.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="sme-smn.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="sme-smn.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-sme-smn.sme-smn.t1x"/>
+        <file name="sme-smn.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-sme-smn.sme-smn.t2x"/>
+        <file name="sme-smn.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-sme-smn.sme-smn.t3x"/>
+        <file name="sme-smn.t3x.bin"/>
+      </program>
+      <program name="hfst-proc -d">
+        <file name="sme-smn.autogen.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
 
   <mode name="sme-smn-morph" install="no">
     <pipeline>
