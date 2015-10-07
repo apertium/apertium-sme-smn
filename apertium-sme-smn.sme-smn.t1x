@@ -43,6 +43,10 @@
     <def-cat n="nom-gen">                             
       <cat-item tags="n.*.sg.gen.*"/>                     
       <cat-item tags="n.*.pl.gen.*"/>                     
+      <cat-item tags="np.sg.gen.*"/>                     
+      <cat-item tags="np.*.pl.gen.*"/>                     
+      <cat-item tags="np.*.sg.gen.*"/>                     
+      <cat-item tags="np.pl.gen.*"/>                     
       <cat-item tags="prn.*.sg3.gen.*"/>                     
       <cat-item tags="prn.*.sg2.gen.*"/>                     
       <cat-item tags="prn.*.sg1.gen.*"/>                     
