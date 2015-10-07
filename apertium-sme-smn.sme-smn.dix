@@ -22,6 +22,7 @@
     <sdef n="itg"      c="Interrogative"/>
     <sdef n="dem"      c="Demonstrative"/>
     <sdef n="ref"     c="Reflexive"/>
+    <sdef n="ind"     c="Indefinite"/>
 
     <sdef n="sent"     c="Sentence marker"/>
     <sdef n="quot"     c="Quotation mark"/>
@@ -66,7 +67,7 @@
 
     <e><p><l>ieš<s n="prn"/><s n="ref"/></l><r>jieš<s n="prn"/><s n="ref"/></r></p></e>
 
-    <e><p><l>eará<s n="prn"/><s n="ref"/></l><r>eres<s n="prn"/><s n="ref"/></r></p></e>
+    <e><p><l>eará<s n="prn"/><s n="ind"/></l><r>eres<s n="prn"/><s n="ind"/></r></p></e>
 
     <!-- SECTION: Numerals -->
 
@@ -278,7 +279,6 @@
 <e><p> <l>dárbbašlaš<s n="n"/></l> <r>taarbâšlâš<s n="n"/></r> </p></e>
 <e><p> <l>dárbbašmeahttun<s n="n"/></l> <r>taarbâšmettum<s n="n"/></r> </p></e>
 <e><p> <l>dárbbuheapme<s n="n"/></l> <r>taarbâšmettum<s n="n"/></r> </p></e>
-<e><p> <l>dárki<s n="n"/></l> <r>tärkki<s n="n"/></r> </p></e>
 <e><p> <l>dárkil<s n="n"/></l> <r>tärkki<s n="n"/></r> </p></e>
 <e><p> <l>dárkilmeahttun<s n="n"/></l> <r>epitärkki<s n="n"/></r> </p></e>
 <e><p> <l>dárrolaš<s n="n"/></l> <r>taažâ<s n="n"/></r> </p></e>
@@ -4641,7 +4641,6 @@
 <e><p> <l>dát<s n="n"/></l> <r>taat<s n="n"/></r> </p></e>
 <e><p> <l>buohkat<s n="n"/></l> <r>puoh<s n="n"/></r> </p></e>
 <e><p> <l>buot<s n="n"/></l> <r>puoh<s n="n"/></r> </p></e>
-<e><p> <l>eará<s n="n"/></l> <r>eres<s n="n"/></r> </p></e>
 <e><p> <l>goabbat<s n="n"/></l> <r>kuábbáš<s n="n"/></r> </p></e>
 <e><p> <l>guktot<s n="n"/></l> <r>kuohtuuh<s n="n"/></r> </p></e>
 <e><p> <l>iešguđet<s n="n"/></l> <r>jieškii<s n="n"/></r> </p></e>
