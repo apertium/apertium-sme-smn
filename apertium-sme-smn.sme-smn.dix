@@ -88,7 +88,6 @@
     <e><p><l>beana<s n="n"/></l><r>peenuv<s n="n"/></r></p></e>
     <e><p><l>beavdi<s n="n"/></l><r>pevdi<s n="n"/></r></p></e>
     <e><p><l>bussá<s n="n"/><s n="g3"/></l><r>kissá<s n="n"/></r></p></e>
-    <e><p><l>bussá<s n="n"/><s n="g3"/><s n="g3"/></l><r>kissá<s n="n"/></r></p></e>
     <e><p><l>dállu<s n="n"/></l><r>táálu<s n="n"/></r></p></e>
     <e><p><l>eadni<s n="n"/></l><r>enni<s n="n"/></r></p></e>
     <e><p><l>ealli<s n="n"/></l><r>ellee<s n="n"/></r></p></e>
@@ -96,6 +95,7 @@
     <e><p><l>giella<s n="n"/></l><r>kielâ<s n="n"/></r></p></e>
     <e><p><l>guovlu<s n="n"/></l><r>kuávlu<s n="n"/></r></p></e>
     <e><p><l>gánda<s n="n"/></l><r>kandâ<s n="n"/></r></p></e>
+    <e><p><l>gánddaš<s n="n"/></l><r>kaandâš<s n="n"/></r></p></e>
     <e><p><l>gánda<s n="n"/></l><r>pärni<s n="n"/></r></p></e>
     <e><p><l>gárdin<s n="n"/></l><r>kärdi<s n="n"/></r></p></e>
     <e><p><l>gárdin<s n="n"/></l><r>muorâkärdi<s n="n"/></r></p></e>
@@ -150,6 +150,7 @@
 <e><p> <l>arveš<s n="adj"/></l> <r>iäljár<s n="adj"/></r> </p></e>
 <e><p> <l>arvves<s n="adj"/></l> <r>arvaa<s n="adj"/></r> </p></e>
 <e><p> <l>arvái<s n="adj"/></l> <r>arvaa<s n="adj"/></r> </p></e>
+<e><p> <l>ilolaš<s n="adj"/></l> <r>ilolâš<s n="adj"/></r> </p></e>
 <e><p> <l>asehaš<s n="adj"/></l> <r>pitkulaisista<s n="adj"/></r> </p></e>
 <e><p> <l>aseheapme<s n="adj"/></l> <r>pitkulaisista<s n="adj"/></r> </p></e>
 <e><p> <l>assosaš<s n="adj"/></l> <r>litteistä<s n="adj"/></r> </p></e>
@@ -1804,7 +1805,6 @@
 <e><p> <l>busegáhttu<s n="n"/></l> <r>kissá<s n="n"/></r> </p></e>
 <e><p> <l>busir<s n="n"/></l> <r>pusseer<s n="n"/></r> </p></e>
 <e><p> <l>busse<s n="n"/></l> <r>linjâšavdo<s n="n"/></r> </p></e>
-<e><p> <l>bussá<s n="n"/></l> <r>kissá<s n="n"/></r> </p></e>
 <e><p> <l>bustávva<s n="n"/></l> <r>puustav<s n="n"/></r> </p></e>
 <e><p> <l>butká<s n="n"/></l> <r>putká<s n="n"/></r> </p></e>
 <e><p> <l>buvda<s n="n"/></l> <r>kävppi<s n="n"/></r> </p></e>
