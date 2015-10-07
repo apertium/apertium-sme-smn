@@ -64,33 +64,21 @@
       <cat-item tags="n.*.sg.abe.*"/>                    
       <cat-item tags="n.*.ess.*"/>                    
     </def-cat>  
-    <def-cat n="n-sg-acc">                             
+    <def-cat n="agreem-sg">                             
       <cat-item tags="n.*.sg.acc.*"/>                    
-    </def-cat>  
-    <def-cat n="n-sg-com">                             
       <cat-item tags="n.*.sg.com.*"/>                    
     </def-cat>  
 
-    <def-cat n="n-pl-nom">                             
+    <def-cat n="agreem-pl">                             
       <cat-item tags="n.*.pl.nom.*"/>                    
-    </def-cat>  
-    <def-cat n="n-pl-gen">                             
       <cat-item tags="n.*.pl.gen.*"/>                    
-    </def-cat>  
-    <def-cat n="n-pl-acc">                             
       <cat-item tags="n.*.pl.acc.*"/>                    
-    </def-cat>  
-    <def-cat n="n-pl-ill">                             
       <cat-item tags="n.*.pl.ill.*"/>                    
-    </def-cat>  
-    <def-cat n="n-pl-loc">                             
       <cat-item tags="n.*.pl.loc.*"/>                    
-    </def-cat>  
-    <def-cat n="n-pl-com">                             
-      <cat-item tags="n.*.pl.com.*"/>                    
-    </def-cat>  
-    <def-cat n="n-pl-abe">                             
       <cat-item tags="n.*.pl.abe.*"/>                    
+    </def-cat>  
+    <def-cat n="agreem-pl-gen">                             
+      <cat-item tags="n.*.pl.com.*"/>                    
     </def-cat>  
     <def-cat n="attr">                             
       <cat-item tags="adj.attr.*"/>                    
@@ -400,6 +388,16 @@
             <clip pos="1" side="tl" part="a_sem"/>
             <lit v=""/>
           </let>
+    </def-macro>
+    <def-macro n="agreement-pl2" npar="2">
+        <let>
+        	<clip pos="1" side="tl" part="tags"/><concat>
+            <lit-tag v="n.pl"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
+        </let> 
+        <let>
+        	<clip pos="2" side="tl" part="tags"/><concat>
+            <lit-tag v="adj.ord.pl"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
+        </let> 
     </def-macro>
 
     <def-macro n="convert-deriv1" npar="1">
@@ -748,121 +746,19 @@
     </rule> 
 
 
-    <rule comment="REGLA: vuosttas-attr n-sg-com">                                             
-      <pattern>                                        
-        <pattern-item n="vuosttas-attr"/>                 
-        <pattern-item n="n-sg-com"/>                   
-      </pattern>     
-      <action>
-        <let>
-        	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="adj.ord.sg.com"/>                
-        </let> 
-        <let>
-        	<clip pos="2" side="tl" part="tags"/>
-            <lit-tag v="n.sg.com"/>                
-        </let> 
-        <out>
-          <chunk name="vuosttas-comnoun">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
-	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
-		    </lu>
-	        <b/>
-            <lu>
-              <clip pos="2" side="tl" part="whole"/>    
-	        </lu>
-          </chunk>
-        </out>
-        
-      </action>                                  
-    </rule> 
-    <rule comment="REGLA: vuosttas-attr attr n-sg-com">                                             
-      <pattern>                                        
-        <pattern-item n="vuosttas-attr"/>                 
-        <pattern-item n="attr"/>                   
-        <pattern-item n="n-sg-com"/>                   
-      </pattern>     
-      <action>
-        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.ord.sg.com"/></let> 
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="3" side="tl" part="tags"/><lit-tag v="n.sg.com"/></let> 
-        <out>
-          <chunk name="vuosttas-comnoun">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
-	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
-		    </lu>
-	        <b/>
-	        <lu>
-              <clip pos="2" side="tl" part="whole"/>    
-		    </lu>
-	        <b/>
-            <lu>
-              <clip pos="3" side="tl" part="whole"/>    
-	        </lu>
-          </chunk>
-        </out>
-        
-      </action>                                  
-    </rule> 
-
-
-    <rule comment="REGLA: vuosttas-attr n-sg-acc">                                             
-      <pattern>                                        
-        <pattern-item n="vuosttas-attr"/>                 
-        <pattern-item n="n-sg-acc"/>                   
-      </pattern>     
-      <action>
-        <let>
-        	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="adj.ord.sg.acc"/>                
-        </let> 
-        <let>
-        	<clip pos="2" side="tl" part="tags"/>
-            <lit-tag v="n.sg.acc"/>                
-        </let> 
-        <out>
-          <chunk name="vuosttas-gennoun">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
-	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
-		    </lu>
-	        <b/>
-            <lu>
-              <clip pos="2" side="tl" part="whole"/>    
-	        </lu>
-          </chunk>
-        </out>
-        
-      </action>                                  
-    </rule> 
 
 <!--   border -->
 <!--   border -->
 <!--   border -->
 
 
-    <rule comment="REGLA: vuosttas-attr n-pl-nom">                                             
+    <rule comment="REGLA: vuosttas-attr n-pl">                                             
       <pattern>                                        
         <pattern-item n="vuosttas-attr"/>                 
-        <pattern-item n="n-pl-nom"/>                   
+        <pattern-item n="agreem-pl"/>                   
       </pattern>     
       <action>
-        <let>
-        	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="adj.ord.pl.nom"/>                
-        </let> 
-        <let>
-        	<clip pos="2" side="tl" part="tags"/>
-            <lit-tag v="n.pl.nom"/>                
-        </let> 
+        <call-macro n="agreement-pl2"><with-param pos="2"/><with-param pos="1"/></call-macro>
         <out>
           <chunk name="vuosttas-nomnoun">
             <tags>
@@ -880,24 +776,21 @@
         
       </action>                                  
     </rule> 
-    <rule comment="REGLA: vuosttas-attr n-pl-gen">                                             
+
+    <rule comment="REGLA: vuosttas-attr attr n-pl">                                             
       <pattern>                                        
         <pattern-item n="vuosttas-attr"/>                 
-        <pattern-item n="n-pl-gen"/>                   
+        <pattern-item n="attr"/>                 
+        <pattern-item n="agreem-pl"/>                   
       </pattern>     
       <action>
-        <let>
-        	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="adj.ord.pl.gen"/>                
-        </let> 
-        <let>
-        	<clip pos="2" side="tl" part="tags"/>
-            <lit-tag v="n.pl.gen"/>                
-        </let> 
+        <call-macro n="agreement-pl2"><with-param pos="3"/><with-param pos="1"/></call-macro>
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <out>
-          <chunk name="vuosttas-gennoun">
+          <chunk name="vuosttas-nomnoun">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="SM"/></tag>
             </tags>
 	        <lu>
               <clip pos="1" side="tl" part="whole"/>    
@@ -906,69 +799,9 @@
             <lu>
               <clip pos="2" side="tl" part="whole"/>    
 	        </lu>
-          </chunk>
-        </out>
-        
-      </action>                                  
-    </rule> 
-
-    <rule comment="REGLA: vuosttas-attr n-pl-ill">                                             
-      <pattern>                                        
-        <pattern-item n="vuosttas-attr"/>                 
-        <pattern-item n="n-pl-ill"/>                   
-      </pattern>     
-      <action>
-        <let>
-        	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="adj.ord.pl.acc"/>                
-        </let> 
-        <let>
-        	<clip pos="2" side="tl" part="tags"/>
-            <lit-tag v="n.pl.ill"/>                
-        </let> 
-        <out>
-          <chunk name="vuosttas-gennoun">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
-	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
-		    </lu>
 	        <b/>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>    
-	        </lu>
-          </chunk>
-        </out>
-        
-      </action>                                  
-    </rule> 
-
-    <rule comment="REGLA: vuosttas-attr n-pl-loc">                                             
-      <pattern>                                        
-        <pattern-item n="vuosttas-attr"/>                 
-        <pattern-item n="n-pl-loc"/>                   
-      </pattern>     
-      <action>
-        <let>
-        	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="adj.ord.sg.com"/>                
-        </let> 
-        <let>
-        	<clip pos="2" side="tl" part="tags"/>
-            <lit-tag v="n.pl.loc"/>                
-        </let> 
-        <out>
-          <chunk name="vuosttas-gennoun">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
-	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
-		    </lu>
-	        <b/>
-            <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="3" side="tl" part="whole"/>    
 	        </lu>
           </chunk>
         </out>
@@ -979,7 +812,7 @@
     <rule comment="REGLA: vuosttas-attr n-pl-com">                                             
       <pattern>                                        
         <pattern-item n="vuosttas-attr"/>                 
-        <pattern-item n="n-pl-com"/>                   
+        <pattern-item n="agreem-pl-gen"/>                   
       </pattern>     
       <action>
         <let>
@@ -1009,37 +842,6 @@
     </rule> 
 
 
-    <rule comment="REGLA: vuosttas-attr n-pl-acc">                                             
-      <pattern>                                        
-        <pattern-item n="vuosttas-attr"/>                 
-        <pattern-item n="n-pl-acc"/>                   
-      </pattern>     
-      <action>
-        <let>
-        	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="adj.ord.pl.acc"/>                
-        </let> 
-        <let>
-        	<clip pos="2" side="tl" part="tags"/>
-            <lit-tag v="n.sg.acc"/>                
-        </let> 
-        <out>
-          <chunk name="vuosttas-gennoun">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
-	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
-		    </lu>
-	        <b/>
-            <lu>
-              <clip pos="2" side="tl" part="whole"/>    
-	        </lu>
-          </chunk>
-        </out>
-        
-      </action>                                  
-    </rule> 
 
 <!--   border -->
 <!--   border -->
