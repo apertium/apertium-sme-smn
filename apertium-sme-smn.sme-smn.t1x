@@ -10,6 +10,13 @@
       <cat-item tags="n.cmp_sgnom.cmp"/>
       <cat-item tags="n.cmp_sggen.cmp"/>
     </def-cat>
+   <def-cat n="negverb">
+      <cat-item tags="vblex.iv.neg.indic.sg3"/>
+    </def-cat>
+   <def-cat n="foc">
+      <cat-item lemma="ge" tags="pcle.*"/>
+      <cat-item lemma="gis" tags="pcle.*"/>
+    </def-cat>
     <def-cat n="mainverb">
       <cat-item tags="vblex.*.@+FMAINV"/>
       <cat-item tags="vblex.*.@-FMAINV"/>
@@ -519,6 +526,35 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: negverbfoc">
+      <pattern>
+        <pattern-item n="negverb"/>
+        <pattern-item n="foc"/>
+      </pattern>
+      <action>
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <out>
+          <chunk name="nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <mlu>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+             <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+             </mlu>
+        </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
     <rule comment="REGLA: adv">
       <pattern>
         <pattern-item n="adv"/>

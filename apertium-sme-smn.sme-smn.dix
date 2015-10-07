@@ -17,6 +17,7 @@
     <sdef n="iv"       c="Intransitive"/>
     <sdef n="tv"       c="Transitive"/>
     <sdef n="nomag"      c="NomAg"/>
+    <sdef n="sem_ani"      c="Sem/Ani"/>
 
     <sdef n="pers"     c="Personal"/>
     <sdef n="itg"      c="Interrogative"/>
@@ -92,7 +93,7 @@
     <e><p><l>bussá<s n="n"/><s n="g3"/></l><r>kissá<s n="n"/></r></p></e>
     <e><p><l>dállu<s n="n"/></l><r>táálu<s n="n"/></r></p></e>
     <e><p><l>eadni<s n="n"/></l><r>enni<s n="n"/></r></p></e>
-    <e><p><l>ealli<s n="n"/></l><r>ellee<s n="n"/></r></p></e>
+    <e><p><l>ealli<s n="n"/><s n="sem_ani"/><s n="nomag"/></l><r>ellee<s n="n"/></r></p></e>
     <e><p><l>ealáhus<s n="n"/></l><r>iäláttâs<s n="n"/></r></p></e>
     <e><p><l>giella<s n="n"/></l><r>kielâ<s n="n"/></r></p></e>
     <e><p><l>guovlu<s n="n"/></l><r>kuávlu<s n="n"/></r></p></e>
@@ -1139,7 +1140,7 @@
 <e><p> <l>dálánaga<s n="n"/></l> <r>tállán<s n="n"/></r> </p></e>
 <e><p> <l>dáppe<s n="n"/></l> <r>tääbbin<s n="n"/></r> </p></e>
 <e><p> <l>dárbahassii<s n="n"/></l> <r>tuárván<s n="n"/></r> </p></e>
-<e><p> <l>dárkilit<s n="n"/></l> <r>tárkká<s n="n"/></r> </p></e>
+<e><p> <l>dárkilit<s n="adv"/></l> <r>tárkká<s n="adv"/></r> </p></e>
 <e><p> <l>dás<s n="n"/></l> <r>taa<s n="n"/></r> </p></e>
 <e><p> <l>dávjá<s n="n"/></l> <r>maŋgii<s n="n"/></r> </p></e>
 <e><p> <l>eahkedis<s n="n"/></l> <r>ehidist<s n="n"/></r> </p></e>
@@ -4556,6 +4557,7 @@
 <e><p> <l>no<s n="n"/></l> <r>na<s n="n"/></r> </p></e>
 <e><p> <l>nai<s n="pcle"/></l> <r>meid<s n="adv"/></r> </p></e>
 <e><p> <l>mihkkege<s n="prn"/></l> <r>mihheen<s n="prn"/></r> </p></e>
+<e><p> <l>makkárge<s n="prn"/></l> <r>mihheen<s n="prn"/></r> </p></e>
 <e><p> <l>ala<s n="n"/></l> <r>oolâ<s n="n"/></r> </p></e>
 <e><p> <l>alde<s n="n"/></l> <r>alne<s n="n"/></r> </p></e>
 <e><p> <l>aldi<s n="n"/></l> <r>alne<s n="n"/></r> </p></e>
