@@ -191,7 +191,7 @@
 <e><p> <l>buoiddeheapme<s n="n"/></l> <r>pyeidittem<s n="n"/></r> </p></e>
 <e><p> <l>buoidi<s n="n"/></l> <r>pyeidi<s n="n"/></r> </p></e>
 <e><p> <l>buolaš<s n="n"/></l> <r>puolâš<s n="n"/></r> </p></e>
-<e><p> <l>buorre<s n="n"/></l> <r>pyeri<s n="n"/></r> </p></e>
+<e><p> <l>buorre<s n="adj"/></l> <r>pyeri<s n="adj"/></r> </p></e>
 <e><p> <l>buotveagalaš<s n="n"/></l> <r>puohváldálâš<s n="n"/></r> </p></e>
 <e><p> <l>buozas<s n="n"/></l> <r>pyeccee<s n="n"/></r> </p></e>
 <e><p> <l>buozus<s n="n"/></l> <r>pyeccee<s n="n"/></r> </p></e>
@@ -1083,7 +1083,7 @@
 <e><p> <l>dakkaviđe<s n="n"/></l> <r>tállán<s n="n"/></r> </p></e>
 <e><p> <l>dakko<s n="n"/></l> <r>tast<s n="n"/></r> </p></e>
 <e><p> <l>dal<s n="n"/></l> <r>tääl<s n="n"/></r> </p></e>
-<e><p> <l>dalle<s n="n"/></l> <r>šât<s n="n"/></r> </p></e>
+<e><p> <l>dalle<s n="adv"/></l> <r>šât<s n="adv"/></r> </p></e>
 <e><p> <l>dalánaga<s n="n"/></l> <r>tállán<s n="n"/></r> </p></e>
 <e><p> <l>danne<s n="n"/></l> <r>tondiet<s n="n"/></r> </p></e>
 <e><p> <l>dasa<s n="n"/></l> <r>toos<s n="n"/></r> </p></e>
@@ -1114,7 +1114,7 @@
 <e><p> <l>doppimustá<s n="n"/></l> <r>tovbemustáá<s n="n"/></r> </p></e>
 <e><p> <l>duhtosii<s n="n"/></l> <r>tuođâst<s n="n"/></r> </p></e>
 <e><p> <l>duo<s n="n"/></l> <r>tovben<s n="n"/></r> </p></e>
-<e><p> <l>duohken<s n="n"/></l> <r>tyehin<s n="n"/></r> </p></e>
+<e><p> <l>duohken<s n="po"/></l> <r>tyehin<s n="po"/></r> </p></e>
 <e><p> <l>duohko<s n="n"/></l> <r>tovhon<s n="n"/></r> </p></e>
 <e><p> <l>duohkái<s n="n"/></l> <r>maŋas<s n="n"/></r> </p></e>
 <e><p> <l>duohttige<s n="n"/></l> <r>eštuu<s n="n"/></r> </p></e>
@@ -1274,7 +1274,7 @@
 <e><p> <l>oktii<s n="n"/></l> <r>ohtii<s n="n"/></r> </p></e>
 <e><p> <l>oktiibuot<s n="n"/></l> <r>ohtsis<s n="n"/></r> </p></e>
 <e><p> <l>okto<s n="n"/></l> <r>ohtuu<s n="n"/></r> </p></e>
-<e><p> <l>olggos<s n="n"/></l> <r>olgos<s n="n"/></r> </p></e>
+<e><p> <l>olggos<s n="adv"/></l> <r>olgos<s n="adv"/></r> </p></e>
 <e><p> <l>olgun<s n="n"/></l> <r>olgon<s n="n"/></r> </p></e>
 <e><p> <l>ollege<s n="n"/></l> <r>ollágin<s n="n"/></r> </p></e>
 <e><p> <l>ollislaččat<s n="n"/></l> <r>ollásávt<s n="n"/></r> </p></e>
@@ -1372,7 +1372,7 @@
 <e><p> <l>álggos<s n="n"/></l> <r>vistig<s n="n"/></r> </p></e>
 <e><p> <l>áli<s n="n"/></l> <r>ain<s n="n"/></r> </p></e>
 <e><p> <l>álkit<s n="n"/></l> <r>älkkee<s n="n"/></r> </p></e>
-<e><p> <l>álo<s n="n"/></l> <r>ain<s n="n"/></r> </p></e>
+<e><p> <l>álo<s n="adv"/></l> <r>ain<s n="adv"/></r> </p></e>
 <e><p> <l>álohii<s n="n"/></l> <r>ain<s n="n"/></r> </p></e>
 <e><p> <l>álot<s n="n"/></l> <r>ain<s n="n"/></r> </p></e>
 <e><p> <l>ándagassii<s n="n"/></l> <r>addâgâs<s n="n"/></r> </p></e>
@@ -4589,7 +4589,7 @@
 <e><p> <l>lahka<s n="n"/></l> <r>alda<s n="n"/></r> </p></e>
 <e><p> <l>luhtte<s n="n"/></l> <r>keččin<s n="n"/></r> </p></e>
 <e><p> <l>luhtti<s n="n"/></l> <r>keččin<s n="n"/></r> </p></e>
-<e><p> <l>lusa<s n="n"/></l> <r>kiäčán<s n="n"/></r> </p></e>
+<e><p> <l>lusa<s n="po"/></l> <r>kiäčán<s n="po"/></r> </p></e>
 <e><p> <l>ládje<s n="n"/></l> <r>naalijn<s n="n"/></r> </p></e>
 <e><p> <l>láhkai<s n="n"/></l> <r>naalijn<s n="n"/></r> </p></e>
 <e><p> <l>maŋis<s n="n"/></l> <r>maajeeld<s n="n"/></r> </p></e>
@@ -4611,7 +4611,7 @@
 <e><p> <l>sisa<s n="n"/></l> <r>siisâ<s n="n"/></r> </p></e>
 <e><p> <l>siste<s n="n"/></l> <r>siste<s n="n"/></r> </p></e>
 <e><p> <l>sisti<s n="n"/></l> <r>siste<s n="n"/></r> </p></e>
-<e><p> <l>vuolde<s n="n"/></l> <r>vyelni<s n="n"/></r> </p></e>
+<e><p> <l>vuolde<s n="po"/></l> <r>vyelni<s n="po"/></r> </p></e>
 <e><p> <l>vuollel<s n="n"/></l> <r>vyelni<s n="n"/></r> </p></e>
 <e><p> <l>vuollái<s n="n"/></l> <r>vuálá<s n="n"/></r> </p></e>
 <e><p> <l>vuostá<s n="n"/></l> <r>vuástá<s n="n"/></r> </p></e>
@@ -4640,7 +4640,7 @@
 <e><p> <l>guktot<s n="n"/></l> <r>kuohtuuh<s n="n"/></r> </p></e>
 <e><p> <l>iešguđet<s n="n"/></l> <r>jieškii<s n="n"/></r> </p></e>
 <e><p> <l>juoga<s n="n"/></l> <r>miinii<s n="n"/></r> </p></e>
-<e><p> <l>juohke<s n="n"/></l> <r>jyehi<s n="n"/></r> </p></e>
+<e><p> <l>juohke<s n="prn"/></l> <r>jyehi<s n="prn"/></r> </p></e>
 <e><p> <l>muhtun<s n="n"/></l> <r>ihminen<s n="n"/></r> </p></e>
 <e><p> <l>olus<s n="n"/></l> <r>eidu<s n="n"/></r> </p></e>
 <e><p> <l>seamma<s n="n"/></l> <r>siämmáš<s n="n"/></r> </p></e>
