@@ -31,6 +31,7 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
       <cat-item tags="adj.der_vuohta.n.*"/>
+      <cat-item tags="vblex.*.der_nomact.n.*"/>
     </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
