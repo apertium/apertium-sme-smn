@@ -3,6 +3,10 @@
 <transfer default="chunk">
 
   <section-def-cats>
+     <def-cat n="propcmp">
+      <cat-item tags="np.*.cmp"/>
+      <cat-item tags="np.cmp"/>
+    </def-cat>
      <def-cat n="numcmp">
       <cat-item tags="num.cmp"/>
     </def-cat>
@@ -30,9 +34,7 @@
     </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
-      <cat-item tags="np.*.der_nammasaš.adj.*"/> <!-- no need for * ? -->
-      <cat-item tags="np.der_nammasaš.adj.*"/>
-      <cat-item tags="n.der_saš.adj.*"/>
+      <cat-item tags="n.der_sâš.adj.*"/>
     </def-cat>
     <def-cat n="adv">
       <cat-item tags="adj.der_at.adv.*"/>
@@ -432,7 +434,7 @@
           <test>
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_vuohta"/></equal>
           </test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_vuota"/></let> 
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_vuotâ"/></let> 
         </when>
 
         <when>
@@ -449,9 +451,9 @@
         </when>
         <when>
           <test>
-               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_nammasaš"/></equal>
+               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_saš"/></equal>
           </test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_nommasas"/></let> 
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_sâš"/></let> 
         </when>
      </choose>
     </def-macro>  
