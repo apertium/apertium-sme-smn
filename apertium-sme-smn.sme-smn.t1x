@@ -105,6 +105,9 @@
     <def-cat n="birra-po">                             
       <cat-item lemma="birra" tags="po.*"/>                    
     </def-cat>  
+    <def-cat n="birra-adv">                             
+      <cat-item lemma="birra" tags="adv.*"/>                    
+    </def-cat>  
 
     <def-cat n="sent">
       <cat-item tags="sent"/>
@@ -128,6 +131,17 @@
       <attr-item tags="loc"/>
       <attr-item tags="com"/>
       <attr-item tags="abe"/>
+    </def-attr>
+    <def-attr n="pers-number">
+      <attr-item tags="sg1"/>
+      <attr-item tags="du1"/>
+      <attr-item tags="pl1"/>
+      <attr-item tags="sg2"/>
+      <attr-item tags="du2"/>
+      <attr-item tags="pl2"/>
+      <attr-item tags="sg3"/>
+      <attr-item tags="du3"/>
+      <attr-item tags="pl3"/>
     </def-attr>
     <def-attr n="a_trans">
       <attr-item tags="iv"/>
@@ -402,6 +416,9 @@
       <list-item v="hupmat"/>
       <list-item v="muitalit"/>
     </def-list>
+    <def-list n="birrapx_verbs">
+      <list-item v="geahččat"/>
+    </def-list>
   </section-def-lists>
   <section-def-macros>
     <def-macro n="remove-semtag1" npar="1">
@@ -650,6 +667,43 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: birra-px">
+      <pattern>
+        <pattern-item n="mainverb"/>
+        <pattern-item n="birra-adv"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
+
+        <let>
+        	<clip pos="1" side="tl" part="tags"/><concat>
+            <lit-tag v="vblex.indic.pres"/><clip pos="1" side="tl" part="pers-number"/> </concat>                
+        </let> 
+        <let>
+        	<clip pos="2" side="tl" part="tags"/><concat>
+            <lit-tag v="adv"/><clip pos="1" side="tl" part="pers-number"/> </concat>  <!-- I want px in front of pers-number -->              
+        </let> 
+
+        <out>
+          <chunk name="verb-birra">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>    
+              <clip pos="1" side="tl" part="tags"/>   
+	        </lu>
+	        <b/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>    
+              <clip pos="2" side="tl" part="tags"/>   
+	        </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     <rule comment="REGLA: buorre attr">                                             
       <pattern>                                        
@@ -886,11 +940,6 @@
 
 
 
-<!--   border -->
-<!--   border -->
-<!--   border -->
-
-
     <rule comment="REGLA: vuosttas-attr n-pl">                                             
       <pattern>                                        
         <pattern-item n="vuosttas-attr"/>                 
@@ -979,12 +1028,6 @@
         
       </action>                                  
     </rule> 
-
-
-
-<!--   border -->
-<!--   border -->
-<!--   border -->
 
 
 
