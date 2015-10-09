@@ -689,7 +689,7 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: birra-px">
+    <rule comment="REGLA: birra-px"> <!-- Son geahččá birra. Sun kiäččá pirrâsis. -->
       <pattern>
         <pattern-item n="mainverb"/>
         <pattern-item n="birra-adv"/>
@@ -715,6 +715,40 @@
 		<when>
 		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="sg3"/></equal></test>
          <let><clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxsg3"/></concat>
+         </let>
+		</when>
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="du1"/></equal></test>
+         <let>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxdu1"/></concat>
+         </let>
+		</when>
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="du2"/></equal></test>
+         <let>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxdu2"/></concat>
+         </let>
+		</when>
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="du3"/></equal></test>
+         <let><clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxdu3"/></concat>
+         </let>
+		</when>
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="pl1"/></equal></test>
+         <let>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxpl1"/></concat>
+         </let>
+		</when>
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="pl2"/></equal></test>
+         <let>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxpl2"/></concat>
+         </let>
+		</when>
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="pl3"/></equal></test>
+         <let><clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxpl3"/></concat>
          </let>
 		</when>
 		</choose>    
