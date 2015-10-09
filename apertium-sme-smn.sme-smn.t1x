@@ -133,7 +133,7 @@
       <attr-item tags="com"/>
       <attr-item tags="abe"/>
     </def-attr>
-    <def-attr n="pers-number">
+    <def-attr n="a_person">
       <attr-item tags="sg1"/>
       <attr-item tags="du1"/>
       <attr-item tags="pl1"/>
@@ -476,6 +476,27 @@
      </choose>
     </def-macro>  
 
+    <def-macro n="inherenttag-px2" npar="2">
+		<choose>
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="sg1"/></equal></test>
+         <let>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxsg1"/></concat>
+         </let>
+		</when>
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="sg2"/></equal></test>
+         <let>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxsg2"/></concat>
+         </let>
+		</when>
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="sg3"/></equal></test>
+         <let><clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxsg3"/></concat>
+         </let>
+		</when>
+		</choose>    
+    </def-macro>  
 
 
 
@@ -678,15 +699,25 @@
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let> 
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
 
-        <let>
-        	<clip pos="1" side="tl" part="tags"/><concat>
-            <lit-tag v="vblex.indic.pres"/><clip pos="1" side="tl" part="pers-number"/> </concat>                
-        </let> 
-        <let>
-        	<clip pos="2" side="tl" part="tags"/><concat>
-            <lit-tag v="adv"/><clip pos="1" side="tl" part="pers-number"/> </concat>  <!-- I want px in front of pers-number -->              
-        </let> 
-
+		<choose>   
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="sg1"/></equal></test>
+         <let>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxsg1"/></concat>
+         </let>
+		</when>
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="sg2"/></equal></test>
+         <let>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxsg2"/></concat>
+         </let>
+		</when>
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="sg3"/></equal></test>
+         <let><clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxsg3"/></concat>
+         </let>
+		</when>
+		</choose>    
         <out>
           <chunk name="verb-birra">
             <tags>
