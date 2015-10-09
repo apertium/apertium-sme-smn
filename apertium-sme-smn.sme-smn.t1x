@@ -784,7 +784,7 @@
     </rule> 
 
 
-    <rule comment="REGLA: num-nomacc n-sg-gen">                                             
+    <rule comment="REGLA: num-nomacc n-sg-gen"> <!-- Son oastá guokte láibbi. Sun uástá kyehti leibid. -->                                            
       <pattern>                                        
         <pattern-item n="num-nomacc"/>                 
         <pattern-item n="n-sg-gen"/>                   
@@ -811,7 +811,7 @@
         
       </action>                                  
     </rule> 
-    <rule comment="REGLA: num-nomacc attr n-sg-gen">                                             
+    <rule comment="REGLA: num-nomacc attr n-sg-gen">  <!-- Son oastá guokte varas láibbi. Sun uástá kyehti vorâs leibid. -->                                           
       <pattern>                                        
         <pattern-item n="num-nomacc"/>                 
         <pattern-item n="attr"/>                 
