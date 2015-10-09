@@ -477,7 +477,7 @@
     </def-macro>  
 
     <def-macro n="inherenttag-px2" npar="2">
-		<choose>
+		<choose>   
 		<when>
 		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="sg1"/></equal></test>
          <let>
@@ -493,6 +493,40 @@
 		<when>
 		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="sg3"/></equal></test>
          <let><clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxsg3"/></concat>
+         </let>
+		</when>
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="du1"/></equal></test>
+         <let>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxdu1"/></concat>
+         </let>
+		</when>
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="du2"/></equal></test>
+         <let>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxdu2"/></concat>
+         </let>
+		</when>
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="du3"/></equal></test>
+         <let><clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxdu3"/></concat>
+         </let>
+		</when>
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="pl1"/></equal></test>
+         <let>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxpl1"/></concat>
+         </let>
+		</when>
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="pl2"/></equal></test>
+         <let>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxpl2"/></concat>
+         </let>
+		</when>
+		<when>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="pl3"/></equal></test>
+         <let><clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxpl3"/></concat>
          </let>
 		</when>
 		</choose>    
@@ -651,7 +685,7 @@
     </rule>
 
 
-    <rule comment="REGLA: birra-loc">
+    <rule comment="REGLA: birra-loc"> <!-- Sii hupmet nieidda birra. Sij sárnuh nieidâst. -->
       <pattern>
         <pattern-item n="nom-gen"/>
         <pattern-item n="birra-po"/>
@@ -699,7 +733,7 @@
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let> 
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
 
-		<choose>   
+		<choose>   <!-- macro inherenttag-px2, but I don't get it to function -->
 		<when>
 		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="sg1"/></equal></test>
          <let>
@@ -771,7 +805,7 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: buorre attr">                                             
+    <rule comment="REGLA: buorre attr"> <!-- Lea buorre dálki odne. Lii šiev šoŋŋâ onne.  -->                                            
       <pattern>                                        
         <pattern-item n="buorre"/>                 
         <pattern-item n="nom"/>                   
