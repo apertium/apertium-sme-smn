@@ -733,60 +733,8 @@
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let> 
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
 
-		<choose>   <!-- macro inherenttag-px2, but I don't get it to function -->
-		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="sg1"/></equal></test>
-         <let>
-         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxsg1"/></concat>
-         </let>
-		</when>
-		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="sg2"/></equal></test>
-         <let>
-         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxsg2"/></concat>
-         </let>
-		</when>
-		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="sg3"/></equal></test>
-         <let><clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxsg3"/></concat>
-         </let>
-		</when>
-		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="du1"/></equal></test>
-         <let>
-         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxdu1"/></concat>
-         </let>
-		</when>
-		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="du2"/></equal></test>
-         <let>
-         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxdu2"/></concat>
-         </let>
-		</when>
-		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="du3"/></equal></test>
-         <let><clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxdu3"/></concat>
-         </let>
-		</when>
-		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="pl1"/></equal></test>
-         <let>
-         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxpl1"/></concat>
-         </let>
-		</when>
-		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="pl2"/></equal></test>
-         <let>
-         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxpl2"/></concat>
-         </let>
-		</when>
-		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="pl3"/></equal></test>
-         <let><clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxpl3"/></concat>
-         </let>
-		</when>
-		</choose>    
-        <out>
+	<call-macro n="inherenttag-px2"><with-param pos="1"/><with-param pos="2"/></call-macro>        
+	<out>
           <chunk name="verb-birra">
             <tags>
               <tag><lit-tag v="SV"/></tag>
