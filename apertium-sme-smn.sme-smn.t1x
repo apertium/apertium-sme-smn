@@ -49,6 +49,9 @@
       <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!-- put under vuosttaš as lemma in sme -->                   
       <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/>                    
     </def-cat>  
+    <def-cat n="indef-attr">                             
+      <cat-item lemma="muhtun" tags="prn.ind.attr.*"/> 
+    </def-cat>  
     <def-cat n="hupmat-v">                             
       <cat-item lemma="hupmat" tags="vblex.*"/>                    
       <cat-item lemma="hállat" tags="vblex.*"/>                    
@@ -428,7 +431,7 @@
             <lit v=""/>
           </let>
     </def-macro>
-    <def-macro n="agreement-pl2" npar="2">
+    <def-macro n="agreement-adj-pl2" npar="2">
         <let>
         	<clip pos="1" side="tl" part="tags"/><concat>
             <lit-tag v="n.pl"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
@@ -436,6 +439,16 @@
         <let>
         	<clip pos="2" side="tl" part="tags"/><concat>
             <lit-tag v="adj.ord.pl"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
+        </let> 
+    </def-macro>
+    <def-macro n="agreement-ind-pl2" npar="2">
+        <let>
+        	<clip pos="1" side="tl" part="tags"/><concat>
+            <lit-tag v="n.pl"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
+        </let> 
+        <let>
+        	<clip pos="2" side="tl" part="tags"/><concat>
+            <lit-tag v="prn.ind.pl"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
         </let> 
     </def-macro>
 
@@ -986,17 +999,45 @@
       </action>                                  
     </rule> 
 
+    <rule comment="REGLA: ind-attr n-pl">     <!-- muhtun albmáid – motomáid almaid -->                                         
+      <pattern>                                        
+        <pattern-item n="indef-attr"/>                 
+        <pattern-item n="agreem-pl"/>                   
+      </pattern>     
+      <action>
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="agreement-ind-pl2"><with-param pos="2"/><with-param pos="1"/></call-macro>
+        <out>
+          <chunk name="ind-noun">
+            <tags>
+              <tag><lit-tag v="SM"/></tag>
+            </tags>
+	        <lu>
+              <clip pos="1" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>    
+	        </lu>
+          </chunk>
+        </out>
+        
+      </action>                                  
+    </rule> 
 
 
-    <rule comment="REGLA: vuosttas-attr n-pl">                                             
+    <rule comment="REGLA: vuosttas-attr n-pl"> <!-- vuosttaš albmáid – vuosmuid almaid -->                                            
       <pattern>                                        
         <pattern-item n="vuosttas-attr"/>                 
         <pattern-item n="agreem-pl"/>                   
       </pattern>     
       <action>
-        <call-macro n="agreement-pl2"><with-param pos="2"/><with-param pos="1"/></call-macro>
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="agreement-adj-pl2"><with-param pos="2"/><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="vuosttas-nomnoun">
+          <chunk name="ord-noun">
             <tags>
               <tag><lit-tag v="SM"/></tag>
             </tags>
@@ -1020,9 +1061,9 @@
         <pattern-item n="agreem-pl"/>                   
       </pattern>     
       <action>
-        <call-macro n="agreement-pl2"><with-param pos="3"/><with-param pos="1"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="agreement-adj-pl2"><with-param pos="3"/><with-param pos="1"/></call-macro>
         <out>
           <chunk name="vuosttas-nomnoun">
             <tags>
@@ -1038,6 +1079,40 @@
 	        <b/>
             <lu>
               <clip pos="3" side="tl" part="whole"/>    
+	        </lu>
+          </chunk>
+        </out>
+        
+      </action>                                  
+    </rule> 
+
+    <rule comment="REGLA: ind-attr n-pl-com">                                             
+      <pattern>                                        
+        <pattern-item n="indef-attr"/>                 
+        <pattern-item n="agreem-pl-gen"/>                   
+      </pattern>     
+      <action>
+         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+       <let>
+        	<clip pos="1" side="tl" part="tags"/>
+            <lit-tag v="prn.ind.pl.gen"/>                
+        </let> 
+        <let>
+        	<clip pos="2" side="tl" part="tags"/>
+            <lit-tag v="n.pl.com"/>                
+        </let> 
+        <out>
+          <chunk name="ind-comnoun">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	        <lu>
+              <clip pos="1" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>    
 	        </lu>
           </chunk>
         </out>
@@ -1076,7 +1151,6 @@
         
       </action>                                  
     </rule> 
-
 
 
     <rule comment="REGLA: mainverb">
