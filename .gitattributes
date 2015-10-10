@@ -28,6 +28,8 @@ t/regression-tests -text
 t/update-latest -text
 t/wiki-tests -text
 texts/aino_smn.txt -text
+texts/giella.sme.txt -text
+texts/giella.smn.txt -text
 texts/historia.txt -text
 texts/historia_sme.txt -text
 texts/historia_smn.txt -text
