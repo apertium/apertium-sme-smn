@@ -12,7 +12,11 @@
     </def-cat>
    <def-cat n="nnomcmp">
       <cat-item tags="n.cmp_sgnom.cmp"/>
-      <cat-item tags="n.cmp_sggen.cmp"/>
+      <cat-item tags="n.cmp_sgnom.cmp.*"/>
+      <cat-item tags="n.cmp_sggen.cmp.*"/> 
+      <cat-item tags="n.cmp_sggen.cmp"/> 
+      <cat-item tags="np.sem_plc.cmp.*"/> 
+      <cat-item tags="np.sem_plc.cmp"/> 
     </def-cat>
    <def-cat n="negverb">
       <cat-item tags="vblex.iv.neg.indic.sg3"/>
