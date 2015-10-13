@@ -1011,32 +1011,6 @@
       </action>                                  
     </rule> 
 
-<!--    <rule comment="REGLA: ind-attr n-pl">     <muhtun albmáid – motomáid almaid                                          
-      <pattern>                                        
-        <pattern-item n="indef-attr"/>                 
-        <pattern-item n="agreem-pl"/>                   
-      </pattern>     
-      <action>
-        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="agreement-ind-pl2"><with-param pos="2"/><with-param pos="1"/></call-macro>
-        <out>
-          <chunk name="ind-noun">
-            <tags>
-              <tag><lit-tag v="SM"/></tag>
-            </tags>
-	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
-		    </lu>
-	        <b/>
-            <lu>
-              <clip pos="2" side="tl" part="whole"/>    
-	        </lu>
-          </chunk>
-        </out>
-        
-      </action>                                  
-    </rule>  -->
 
     <rule comment="REGLA: agreement-attr n-pl"> <!-- vuosttaš albmáid – vuosmuid almaid -->                                            
       <pattern>                                        
@@ -1097,39 +1071,6 @@
       </action>                                  
     </rule> 
 
-<!--    <rule comment="REGLA: ind-attr n-pl-com">                                             
-      <pattern>                                        
-        <pattern-item n="indef-attr"/>                 
-        <pattern-item n="agreem-pl-gen"/>                   
-      </pattern>     
-      <action>
-         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-       <let>
-        	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="prn.ind.pl.gen"/>                
-        </let> 
-        <let>
-        	<clip pos="2" side="tl" part="tags"/>
-            <lit-tag v="n.pl.com"/>                
-        </let> 
-        <out>
-          <chunk name="ind-comnoun">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
-	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
-		    </lu>
-	        <b/>
-            <lu>
-              <clip pos="2" side="tl" part="whole"/>    
-	        </lu>
-          </chunk>
-        </out>
-        
-      </action>                                  
-    </rule>  -->
 
     <rule comment="REGLA: agreement-attr n-pl-com">                                             
       <pattern>                                        
