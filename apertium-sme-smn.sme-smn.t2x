@@ -6,6 +6,9 @@
       <cat-item tags="SN"/>
       <cat-item tags="SN.*"/>
     </def-cat>
+    <def-cat n="PR_PO">
+       <cat-item lemma="pr_po" tags="*"/>
+    </def-cat>
     <def-cat n="SENT">
       <cat-item tags="SENT"/>
     </def-cat>
@@ -20,11 +23,13 @@
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
       <attr-item tags="acc"/>
-      <attr-item tags="dat"/>
+      <attr-item tags="ill"/>
+      <attr-item tags="par"/>
+      <attr-item tags="ess"/>
       <attr-item tags="gen"/>
-      <attr-item tags="ins"/>
       <attr-item tags="loc"/>
-      <attr-item tags="abl"/>
+      <attr-item tags="com"/>
+      <attr-item tags="abe"/>
     </def-attr>
   </section-def-attrs>
   <section-def-vars>
@@ -52,6 +57,23 @@
             <clip pos="1" part="chcontent"/>
           </chunk>
         </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: SN">
+    <pattern>
+       <pattern-item n="PR_PO"/>
+       <pattern-item n="SN"/>
+    </pattern>
+      <action>
+    <out>
+      <chunk>
+        <clip pos="2" part="whole"/>
+      </chunk>
+      <b pos="1"/>
+        <chunk>
+        <clip pos="1" part="whole"/>
+      </chunk>
+    </out>
       </action>
     </rule>
   </section-rules>
