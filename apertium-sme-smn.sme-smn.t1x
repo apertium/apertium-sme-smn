@@ -61,6 +61,9 @@
     <def-cat n="n-sg-gen">                             
       <cat-item tags="n.*.sg.gen.*"/>                     
     </def-cat>  
+    <def-cat n="prep">                             
+      <cat-item tags="pr.*"/>                    
+    </def-cat>  
     <def-cat n="nom-gen">                             
       <cat-item tags="n.*.sg.gen.*"/>                     
       <cat-item tags="n.*.pl.gen.*"/>                     
@@ -142,6 +145,10 @@
     <def-attr n="a_nbr">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
+    </def-attr>
+    <def-attr n="a_adpos">
+      <attr-item tags="pr"/>
+      <attr-item tags="po"/>
     </def-attr>
     <def-attr n="a_person">
       <attr-item tags="sg1"/>
@@ -417,10 +424,13 @@
 
 
   </section-def-attrs>
+
   <section-def-vars>
     <def-var n="number"/>
     <def-var n="current_verb"/>
+    <def-var n="adpos_chunk_name"/>
   </section-def-vars>
+
   <section-def-lists>
     <def-list n="loc_verbs">
       <list-item v="hállat"/>
@@ -616,6 +626,40 @@
         </out>
       </action>
     </rule>
+    <rule comment="REGLA: adj attr nomcmp">
+      <pattern>
+        <pattern-item n="attr"/>
+        <pattern-item n="nnomcmp"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <call-macro n="convert-deriv1"><with-param pos="3"/></call-macro>
+        <call-macro n="remove-semtag1"><with-param pos="3"/></call-macro>
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
+        <out>
+          <chunk name="np" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+             <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b />
+            <mlu>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+             <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+             </mlu>
+        </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="REGLA: numcmp">
       <pattern>
         <pattern-item n="numcmp"/>
@@ -670,6 +714,33 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: prep to postp">
+      <pattern>
+        <pattern-item n="prep"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+       <choose>
+         <when><test><and><equal><clip pos="1" side="sl" part="a_adpos"/><lit-tag v="pr"/></equal>
+                          <equal><clip pos="1" side="tl" part="a_adpos"/><lit-tag v="po"/></equal>
+           </and></test>
+           <let><var n="adpos_chunk_name"/><lit v="pr_po"/></let></when>
+         <otherwise>
+           <let><var n="adpos_chunk_name"/><lit v="pr_pr"/></let>
+         </otherwise>
+       </choose>
+        <out>
+          <chunk namefrom="adpos_chunk_name" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
 
     <rule comment="REGLA: adv">
