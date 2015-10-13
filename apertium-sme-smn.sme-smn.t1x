@@ -485,12 +485,6 @@
 
     <def-macro n="convert-deriv1" npar="1">
       <choose>
-        <when>
-          <test>
-               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_dimin.n"/></equal>
-          </test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit v=""/></let> 
-        </when>
 
         <when>
           <test>
