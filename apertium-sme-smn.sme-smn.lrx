@@ -1,6 +1,10 @@
 <rules>
  
   <rule weight="1.0">
+    <match lemma="gárdin" tags="n.*"><select lemma="muorâkärdi" tags="n.*"/></match>
+  </rule>
+
+  <rule weight="1.0">
     <match lemma="fertet" tags="vblex.*"><select lemma="kolgâđ" tags="vblex.*"/></match>
   </rule>
 
