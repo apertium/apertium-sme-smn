@@ -45,11 +45,9 @@
       <cat-item tags="num.sg.nom.*"/>                  
       <cat-item tags="num.sg.acc.*"/>                  
     </def-cat>                                         
-    <def-cat n="vuosttas-attr">                             
+    <def-cat n="agreement-attr">                             
       <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!-- put under vuosttaš as lemma in sme -->                   
       <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/>                    
-    </def-cat>  
-    <def-cat n="indef-attr">                             
       <cat-item lemma="muhtun" tags="prn.ind.attr.*"/> 
     </def-cat>  
     <def-cat n="hupmat-v">                             
@@ -123,6 +121,10 @@
   </section-def-cats>
 
   <section-def-attrs>
+    <def-attr n="a_npagree_type">
+       <attr-item tags="adj.ord"/>
+       <attr-item tags="prn.ind"/>
+    </def-attr>
     <def-attr n="a_nom">
       <attr-item tags="n"/>
     </def-attr>
@@ -136,6 +138,10 @@
       <attr-item tags="loc"/>
       <attr-item tags="com"/>
       <attr-item tags="abe"/>
+    </def-attr>
+    <def-attr n="a_nbr">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
     </def-attr>
     <def-attr n="a_person">
       <attr-item tags="sg1"/>
@@ -432,6 +438,16 @@
             <lit v=""/>
           </let>
     </def-macro>
+    <def-macro n="agreement-adj-sg2" npar="2">  
+        <let>
+        	<clip pos="1" side="tl" part="tags"/><concat>
+            <lit-tag v="n.sg"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
+        </let> 
+        <let>
+        	<clip pos="2" side="tl" part="tags"/><concat>
+            <clip pos="2" side="tl" part="a_npagree_type"/><clip pos="1" side="tl" part="a_nbr"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
+        </let> 
+    </def-macro>
     <def-macro n="agreement-adj-pl2" npar="2">
         <let>
         	<clip pos="1" side="tl" part="tags"/><concat>
@@ -439,19 +455,9 @@
         </let> 
         <let>
         	<clip pos="2" side="tl" part="tags"/><concat>
-            <lit-tag v="adj.ord.pl"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
+            <clip pos="2" side="tl" part="a_npagree_type"/><clip pos="1" side="tl" part="a_nbr"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
         </let> 
-    </def-macro>
-    <def-macro n="agreement-adj-sg2" npar="2">
-        <let>
-        	<clip pos="1" side="tl" part="tags"/><concat>
-            <lit-tag v="n.sg"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
-        </let> 
-        <let>
-        	<clip pos="2" side="tl" part="tags"/><concat>
-            <lit-tag v="adj.ord.sg"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
-        </let> 
-    </def-macro>
+    </def-macro> 
     <def-macro n="agreement-ind-pl2" npar="2">
         <let>
         	<clip pos="1" side="tl" part="tags"/><concat>
@@ -916,9 +922,9 @@
     </rule> 
 
 
-    <rule comment="REGLA: vuosttas-attr n-sg agreement">                                             
+    <rule comment="REGLA: agreement-attr n-sg agreement">                                             
       <pattern>                                        
-        <pattern-item n="vuosttas-attr"/>                 
+        <pattern-item n="agreement-attr"/>                 
         <pattern-item n="agreem-sg"/>                   
       </pattern>     
       <action>
@@ -927,7 +933,7 @@
         <call-macro n="remove-semtag1"><with-param pos="2"/></call-macro>
         <call-macro n="agreement-adj-sg2"><with-param pos="2"/><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="vuosttas-noun">
+          <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SM"/></tag>
             </tags>
@@ -943,9 +949,9 @@
       </action>                                  
     </rule> 
     
-      <rule comment="REGLA: vuosttas-attr attr n-sg agreement">                                             
+      <rule comment="REGLA: agreement-attr attr n-sg agreement">                                             
       <pattern>                                        
-        <pattern-item n="vuosttas-attr"/>                 
+        <pattern-item n="agreement-attr"/>                 
         <pattern-item n="attr"/>                 
         <pattern-item n="agreem-sg"/>                   
       </pattern>     
@@ -955,7 +961,7 @@
         <call-macro n="remove-semtag1"><with-param pos="3"/></call-macro>
         <call-macro n="agreement-adj-sg2"><with-param pos="3"/><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="vuosttas-noun">
+          <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SM"/></tag>
             </tags>
@@ -974,9 +980,9 @@
         </out>
       </action>                                  
     </rule> 
-    <rule comment="REGLA: vuosttas-attr n-sg-gen">                                             
+    <rule comment="REGLA: agreement-attr n-sg-gen">                                             
       <pattern>                                        
-        <pattern-item n="vuosttas-attr"/>                 
+        <pattern-item n="agreement-attr"/>                 
         <pattern-item n="agreem-sg-gen"/>                   
       </pattern>     
       <action>
@@ -988,7 +994,7 @@
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="remove-semtag1"><with-param pos="2"/></call-macro>
         <out>
-          <chunk name="vuosttas-nomnoun">
+          <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
@@ -1005,7 +1011,7 @@
       </action>                                  
     </rule> 
 
-    <rule comment="REGLA: ind-attr n-pl">     <!-- muhtun albmáid – motomáid almaid -->                                         
+<!--    <rule comment="REGLA: ind-attr n-pl">     <muhtun albmáid – motomáid almaid                                          
       <pattern>                                        
         <pattern-item n="indef-attr"/>                 
         <pattern-item n="agreem-pl"/>                   
@@ -1030,11 +1036,11 @@
         </out>
         
       </action>                                  
-    </rule> 
+    </rule>  -->
 
-    <rule comment="REGLA: vuosttas-attr n-pl"> <!-- vuosttaš albmáid – vuosmuid almaid -->                                            
+    <rule comment="REGLA: agreement-attr n-pl"> <!-- vuosttaš albmáid – vuosmuid almaid -->                                            
       <pattern>                                        
-        <pattern-item n="vuosttas-attr"/>                 
+        <pattern-item n="agreement-attr"/>                 
         <pattern-item n="agreem-pl"/>                   
       </pattern>     
       <action>
@@ -1042,7 +1048,7 @@
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="agreement-adj-pl2"><with-param pos="2"/><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="ord-noun">
+          <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SM"/></tag>
             </tags>
@@ -1059,9 +1065,9 @@
       </action>                                  
     </rule> 
 
-    <rule comment="REGLA: vuosttas-attr attr n-pl">                                             
+    <rule comment="REGLA: agreement-attr attr n-pl">                                             
       <pattern>                                        
-        <pattern-item n="vuosttas-attr"/>                 
+        <pattern-item n="agreement-attr"/>                 
         <pattern-item n="attr"/>                 
         <pattern-item n="agreem-pl"/>                   
       </pattern>     
@@ -1070,7 +1076,7 @@
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="agreement-adj-pl2"><with-param pos="3"/><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="vuosttas-nomnoun">
+          <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SM"/></tag>
             </tags>
@@ -1091,7 +1097,7 @@
       </action>                                  
     </rule> 
 
-    <rule comment="REGLA: ind-attr n-pl-com">                                             
+<!--    <rule comment="REGLA: ind-attr n-pl-com">                                             
       <pattern>                                        
         <pattern-item n="indef-attr"/>                 
         <pattern-item n="agreem-pl-gen"/>                   
@@ -1123,11 +1129,11 @@
         </out>
         
       </action>                                  
-    </rule> 
+    </rule>  -->
 
-    <rule comment="REGLA: vuosttas-attr n-pl-com">                                             
+    <rule comment="REGLA: agreement-attr n-pl-com">                                             
       <pattern>                                        
-        <pattern-item n="vuosttas-attr"/>                 
+        <pattern-item n="agreement-attr"/>                 
         <pattern-item n="agreem-pl-gen"/>                   
       </pattern>     
       <action>
@@ -1140,7 +1146,7 @@
             <lit-tag v="n.pl.com"/>                
         </let> 
         <out>
-          <chunk name="vuosttas-comnoun">
+          <chunk name="agreement-comnoun">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
