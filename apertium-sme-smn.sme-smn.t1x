@@ -10,6 +10,16 @@
      <def-cat n="numcmp">
       <cat-item tags="num.cmp"/>
     </def-cat>
+     <def-cat n="geahččatverb">
+      <cat-item lemma="geahččat" tags="vblex.*"/>
+    </def-cat>
+     <def-cat n="liikotverb">
+      <cat-item lemma="liikot" tags="vblex.*"/>
+    </def-cat>
+     <def-cat n="verbinf">
+      <cat-item tags="vblex.*.inf.*"/>
+      <cat-item tags="vblex.inf.*"/>
+    </def-cat>
    <def-cat n="nnomcmp">
       <cat-item tags="n.cmp_sgnom.cmp"/>
       <cat-item tags="n.cmp_sgnom.cmp.*"/>
@@ -124,6 +134,11 @@
     </def-cat>
     <def-cat n="default">
       <cat-item tags="*"/>
+    </def-cat>
+     <def-cat n="vp-boundary">
+      <cat-item tags="cm"/>
+      <cat-item tags="sent"/>
+      <cat-item tags="cnjcoo.@CVP"/>
     </def-cat>
   </section-def-cats>
 
@@ -443,6 +458,9 @@
     </def-list>
     <def-list n="birrapx_verbs">
       <list-item v="geahččat"/>
+    </def-list>
+    <def-list n="actio_ill_verbs">
+      <list-item v="liikot"/>
     </def-list>
   </section-def-lists>
   <section-def-macros>
@@ -824,7 +842,7 @@
 
     <rule comment="REGLA: birra-px"> <!-- Son geahččá birra. Sun kiäččá pirrâsis. -->
       <pattern>
-        <pattern-item n="mainverb"/>
+        <pattern-item n="geahččatverb"/>
         <pattern-item n="birra-adv"/>
       </pattern>
       <action>
@@ -851,6 +869,39 @@
         </out>
       </action>
     </rule>
+    <rule comment="REGLA: liikot-actioill"> <!-- Mun liikon lohkat. Mun lijkkuum luhâmân. -->
+      <pattern>
+        <pattern-item n="liikotverb"/>
+        <pattern-item n="verbinf"/>
+        <pattern-item n="vp-boundary"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
+          <let><clip pos="2" side="tl" part="tags"/><lit-tag v="vblex.actio.ill"/></let> 
+        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
+        <out>
+          <chunk name="inf">
+            <tags>
+              <tag><lit-tag v="V"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>    
+              <clip pos="1" side="tl" part="tags"/>   
+	        </lu>
+	        <b/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>    
+              <clip pos="2" side="tl" part="tags"/>   
+	        </lu>
+	        <b/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>    
+	        </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule> 
 
     <rule comment="REGLA: buorre attr"> <!-- Lea buorre dálki odne. Lii šiev šoŋŋâ onne.  -->                                            
       <pattern>                                        
