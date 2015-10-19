@@ -59,6 +59,13 @@
       <cat-item tags="num.sg.nom.*"/>                  
       <cat-item tags="num.sg.acc.*"/>                  
     </def-cat>                                         
+     <def-cat n="jagi">
+      <cat-item lemma="jahki" tags="n.*.sg.gen.*"/>
+      <cat-item lemma="jahki" tags="n.sg.gen.*"/>
+    </def-cat>
+     <def-cat n="boaris">
+      <cat-item lemma="boaris" tags="a.*"/>
+    </def-cat>
     <def-cat n="agreement-attr">                             
       <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!-- put under vuosttaš as lemma in sme -->                   
       <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/>                    
@@ -869,6 +876,37 @@
         </out>
       </action>
     </rule>
+    <rule comment="REGLA: jagi boaris">  <!-- Son lea guhtta jagi boaris. Sun lii kuuđâ ihásâš. -->
+      <pattern>
+        <pattern-item n="num-nomacc"/> 
+        <pattern-item n="jagi"/> 
+        <pattern-item n="boaris"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="num.sg.gen"/></let> 
+        <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="a_sem"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="lem"/><lit v="ihásâš"/></let>
+        <out>
+          <chunk name="inf">
+            <tags>
+              <tag><lit-tag v="num-adj"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>    
+              <clip pos="1" side="tl" part="tags"/>   
+	        </lu>
+	        <b/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>    
+              <clip pos="3" side="tl" part="tags"/>   
+	        </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule> 
     <rule comment="REGLA: liikot-actioill"> <!-- Mun liikon lohkat. Mun lijkkuum luhâmân. -->
       <pattern>
         <pattern-item n="liikotverb"/>
@@ -915,7 +953,7 @@
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
         <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let> 
        <out>
-          <chunk name="num-noun">
+          <chunk name="adj-noun">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
@@ -932,7 +970,6 @@
         
       </action>                                  
     </rule> 
-
 
     <rule comment="REGLA: num-nomacc n-sg-gen"> <!-- Son oastá guokte láibbi. Sun uástá kyehti leibid. -->                                            
       <pattern>                                        
@@ -961,6 +998,7 @@
         
       </action>                                  
     </rule> 
+
     <rule comment="REGLA: num-nomacc attr n-sg-gen">  <!-- Son oastá guokte varas láibbi. Sun uástá kyehti vorâs leibid. -->                                           
       <pattern>                                        
         <pattern-item n="num-nomacc"/>                 
