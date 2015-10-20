@@ -64,7 +64,7 @@
       <cat-item lemma="jahki" tags="n.sg.gen.*"/>
     </def-cat>
      <def-cat n="boaris">
-      <cat-item lemma="boaris" tags="a.*"/>
+      <cat-item lemma="boaris" tags="adj.*"/>
     </def-cat>
     <def-cat n="agreement-attr">                             
       <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!-- put under vuosttaš as lemma in sme -->                   
