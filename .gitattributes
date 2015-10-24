@@ -30,6 +30,8 @@ t/wiki-tests -text
 texts/aino_smn.txt -text
 texts/giella.sme.txt -text
 texts/giella.smn.txt -text
+texts/giellagaldu_tyo.sme.txt -text
+texts/giellagaldu_tyo.smn.txt -text
 texts/historia.txt -text
 texts/historia_sme.txt -text
 texts/historia_smn.txt -text
