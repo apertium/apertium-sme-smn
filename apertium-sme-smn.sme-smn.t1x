@@ -82,6 +82,36 @@
     <def-cat n="n-sg-gen">                             
       <cat-item tags="n.*.sg.gen.*"/>                     
     </def-cat>  
+
+<!-- from sme-nob starts -->
+    <def-cat n="prn">
+      <cat-item tags="prn.*"/>
+    </def-cat>
+    <def-cat n="prn-rel">
+      <cat-item tags="prn.rel.*"/>
+    </def-cat>
+    <def-cat n="prn-res">
+      <cat-item tags="prn.res.*"/>
+    </def-cat>
+    <def-cat n="prn-ref">
+      <cat-item tags="prn.ref.*"/>
+    </def-cat>
+    <def-cat n="prn-ref_PRONl">
+      <cat-item tags="prn.ref.*.@Pron←"/>
+    </def-cat>
+    <def-cat n="prnitg">
+      <cat-item tags="prn.itg.*"/>
+    </def-cat>
+    <def-cat n="prn-pers">
+      <cat-item tags="prn.pers.*"/>
+    </def-cat>
+    <def-cat n="prn-pers-gen">
+      <cat-item tags="prn.pers.*.gen.*"/>
+    </def-cat>
+    <def-cat n="prn-pers-acc">
+      <cat-item tags="prn.pers.*.acc.*"/>
+    </def-cat>
+<!-- from sme-nob ends -->
     <def-cat n="prep">                             
       <cat-item tags="pr.*"/>                    
     </def-cat>  
@@ -186,6 +216,28 @@
       <attr-item tags="sg3"/>
       <attr-item tags="du3"/>
       <attr-item tags="pl3"/>
+    </def-attr>
+    <def-attr n="a_prn">
+      <attr-item tags="prn"/>
+      <attr-item tags="prn.rel"/>
+      <attr-item tags="prn.res"/>
+      <attr-item tags="prn.ind"/>
+      <attr-item tags="prn.dem"/>
+      <attr-item tags="prn.pers"/>
+      <attr-item tags="prn"/>
+      <attr-item tags="prn.itg"/>
+      <attr-item tags="prn.ref"/>
+    </def-attr>
+    <def-attr n="a_poss">
+       <attr-item tags="pxsg1"/>
+       <attr-item tags="pxsg2"/>
+       <attr-item tags="pxsg3"/>
+       <attr-item tags="pxdu1"/>
+       <attr-item tags="pxdu2"/>
+       <attr-item tags="pxdu3"/>
+       <attr-item tags="pxpl1"/>
+       <attr-item tags="pxpl2"/>
+       <attr-item tags="pxpl3"/>
     </def-attr>
     <def-attr n="a_trans">
       <attr-item tags="iv"/>
