@@ -31,6 +31,43 @@
     <sdef n="cm"       c="Comma"/>
 
     <sdef n="g3"       c=""/>
+
+<!-- the following inserted inspired from sme-smna -->
+
+    <sdef n="sg1"/>
+    <sdef n="sg2"/>
+    <sdef n="sg3"/>
+
+    <sdef n="du1"/>
+    <sdef n="du2"/>
+    <sdef n="du3"/>
+
+    <sdef n="pl1"/>
+    <sdef n="pl2"/>
+    <sdef n="pl3"/>
+
+    <sdef n="sg"/>
+    <sdef n="pl"/>
+
+    <sdef n="pxsg1"    c="First-person singular possessive suffix"/>
+    <sdef n="pxsg2"    c="Second-person singular possessive suffix"/>
+    <sdef n="pxsg3"    c="Third-person singular possessive suffix"/>
+    <sdef n="pxdu1"    c="First-person dual possessive suffix"/>
+    <sdef n="pxdu2"    c="Second-person dual possessive suffix"/>
+    <sdef n="pxdu3"    c="Third-person dual possessive suffix"/>
+    <sdef n="pxpl1"    c="First-person plural possessive suffix"/>
+    <sdef n="pxpl2"    c="Second-person plural possessive suffix"/>
+    <sdef n="pxpl3"    c="Third-person plural possessive suffix"/>
+
+    <sdef n="gen"/>
+    <sdef n="ill"/>
+    <sdef n="com"/>
+    <sdef n="acc"/>
+    <sdef n="loc"/>
+    <sdef n="ine"/>
+    <sdef n="nom"/>
+    <sdef n="ess"/>
+    <sdef n="par"/>
    
   </sdefs>
 
@@ -88,6 +125,8 @@
 
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
+    <e><p><l>albmot<s n="n"/></l><r>aalmug<s n="n"/></r></p></e>
+    <e><p><l>eamialbmot<s n="n"/></l><r>algâaalmug<s n="n"/></r></p></e>
     <e><p><l>bálvalus<s n="n"/></l><r>palvâlus<s n="n"/></r></p></e>
     <e><p><l>beana<s n="n"/></l><r>peenuv<s n="n"/></r></p></e>
     <e><p><l>beavdi<s n="n"/></l><r>pevdi<s n="n"/></r></p></e>
@@ -834,8 +873,8 @@
 <e><p> <l>váŋká<s n="n"/></l> <r>väŋkki<s n="n"/></r> </p></e>
 <e><p> <l>áddemeahttun<s n="n"/></l> <r>ibbeerdmáttum<s n="n"/></r> </p></e>
 <e><p> <l>áhčálaš<s n="n"/></l> <r>iäčálâš<s n="n"/></r> </p></e>
-<e><p> <l>áidna<s n="n"/></l> <r>áinoo<s n="n"/></r> </p></e>
-<e><p> <l>áidnu<s n="n"/></l> <r>áinoo<s n="n"/></r> </p></e>
+<e><p> <l>áidna<s n="adv"/></l> <r>áinoo<s n="adv"/></r> </p></e>
+<e><p> <l>áidnu<s n="adv"/></l> <r>áinoo<s n="adv"/></r> </p></e>
 <e><p> <l>áigeguovdil<s n="n"/></l> <r>äigikyevdil<s n="n"/></r> </p></e>
 <e><p> <l>álbmotlaš<s n="n"/></l> <r>aalmuglâš<s n="n"/></r> </p></e>
 <e><p> <l>álggalaš<s n="n"/></l> <r>algâlâš<s n="n"/></r> </p></e>
@@ -1247,7 +1286,8 @@
 <e><p> <l>meattá<s n="n"/></l> <r>lappâd<s n="n"/></r> </p></e>
 <e><p> <l>menddo<s n="n"/></l> <r>kukken<s n="n"/></r> </p></e>
 <e><p> <l>miehtut<s n="n"/></l> <r>kukkod<s n="n"/></r> </p></e>
-<e><p> <l>mielde<s n="n"/></l> <r>fáárust<s n="n"/></r> </p></e>
+<e><p> <l>mielde<s n="adv"/></l> <r>fáárust<s n="adv"/></r> </p></e>
+<e><p> <l>mielde<s n="po"/></l> <r>mield<s n="po"/></r> </p></e>
 <e><p> <l>mihá<s n="n"/></l> <r>melgâd<s n="n"/></r> </p></e>
 <e><p> <l>mo<s n="n"/></l> <r>maht<s n="n"/></r> </p></e>
 <e><p> <l>movt<s n="n"/></l> <r>maht<s n="n"/></r> </p></e>
@@ -4706,7 +4746,7 @@
 <e><p> <l>fiskkodit<s n="n"/></l> <r>muuttua<s n="n"/></r> </p></e>
 <e><p> <l>fárret<s n="n"/></l> <r>paikasta<s n="n"/></r> </p></e>
 <e><p> <l>gaikkehit<s n="n"/></l> <r>tempaista<s n="n"/></r> </p></e>
-<e><p> <l>galgat<s n="n"/></l> <r>ulkoinen<s n="n"/></r> </p></e>
+<e><p> <l>galgat<s n="vblex"/><s n="iv"/></l> <r>kolgâđ<s n="vblex"/></r> </p></e>
 <e><p> <l>garahit<s n="n"/></l> <r>esim.<s n="n"/></r> </p></e>
 <e><p> <l>geassit<s n="n"/></l> <r>keessiv<s n="n"/></r> </p></e>
 <e><p> <l>giddet<s n="n"/></l> <r>luukku<s n="n"/></r> </p></e>
@@ -6393,6 +6433,7 @@
 <e><p> <l>bagadallat<s n="vblex"/><s n="tv"/></l> <r>stivriđ<s n="vblex"/></r> </p></e>
 <e><p> <l>logahallat<s n="vblex"/><s n="tv"/></l> <r>registeeriđ<s n="vblex"/></r> </p></e>
 <e><p> <l>sisdoallat<s n="vblex"/><s n="tv"/></l> <r>siskeldiđ<s n="vblex"/></r> </p></e>
+<e><p> <l>doallat<s n="vblex"/><s n="tv"/></l> <r>anneeđ<s n="vblex"/></r> </p></e>
 <e><p> <l>sisttisdoallat<s n="vblex"/><s n="tv"/></l> <r>siskeldiđ<s n="vblex"/></r> </p></e>
 <e><p> <l>digaštallat<s n="vblex"/><s n="tv"/></l> <r>sárnudiđ<s n="vblex"/></r> </p></e>
 <e><p> <l>digáštallat<s n="vblex"/><s n="tv"/></l> <r>sárnudiđ<s n="vblex"/></r> </p></e>
