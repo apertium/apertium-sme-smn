@@ -28,6 +28,7 @@ t/regression-tests -text
 t/update-latest -text
 t/wiki-tests -text
 texts/aino_smn.txt -text
+texts/bidix-missing-in-parallel-texts.freq -text svneol=unset#application/octet-stream
 texts/egil_olli.sme.txt -text svneol=unset#application/octet-stream
 texts/egil_olli.smn.txt -text
 texts/giella.sme.txt -text
