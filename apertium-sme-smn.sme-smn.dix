@@ -77,6 +77,13 @@
 
 
 
+<!--         1 The initial bidix   -->
+<!--         1 The initial bidix   -->
+<!--         1 The initial bidix   -->
+<!--         1 The initial bidix   -->
+<!--         1 The initial bidix   -->
+<!--         1 The initial bidix   -->
+
 
 
 
@@ -177,7 +184,7 @@
     <!-- SECTION: Adverbs -->
 
     <e><p><l>gos<s n="adv"/></l><r>kost<s n="adv"/></r></p></e>
-    <e><p><l>maid<s n="adv"/></l><r>maid<s n="adv"/></r></p></e>
+    <e><p><l>maid<s n="adv"/></l><r>meid<s n="adv"/></r></p></e>
 
     <e><p><l>dál<s n="adv"/></l><r>tääl<s n="adv"/></r></p></e>
     <e><p><l>ikte<s n="adv"/></l><r>jieht<s n="adv"/></r></p></e>
@@ -314,6 +321,8 @@
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
     <e><p><l>bálvalus<s n="n"/></l><r>palvâlus<s n="n"/></r></p></e>
+    <e><p><l>prošeakta<s n="n"/></l><r>proojeekt<s n="n"/></r></p></e>
+    <e><p><l>departemeanta<s n="n"/></l><r>ministeriö<s n="n"/></r></p></e>
     <e><p><l>beana<s n="n"/></l><r>peenuv<s n="n"/></r></p></e>
     <e><p><l>beavdi<s n="n"/></l><r>pevdi<s n="n"/></r></p></e>
     <e><p><l>bussá<s n="n"/></l><r>kissá<s n="n"/></r></p></e>
@@ -730,12 +739,12 @@
 
 
 
-<!--                  tEQ1  = bidix with 1-1 match            -->
-<!--                  tEQ1  = bidix with 1-1 match            -->
-<!--                  tEQ1  = bidix with 1-1 match            -->
-<!--                  tEQ1  = bidix with 1-1 match            -->
-<!--                  tEQ1  = bidix with 1-1 match            -->
-<!--                  tEQ1  = bidix with 1-1 match            -->
+<!--                  2. tEQ1  = bidix with 1-1 match            -->
+<!--                  2. tEQ1  = bidix with 1-1 match            -->
+<!--                  2. tEQ1  = bidix with 1-1 match            -->
+<!--                  2. tEQ1  = bidix with 1-1 match            -->
+<!--                  2. tEQ1  = bidix with 1-1 match            -->
+<!--                  2. tEQ1  = bidix with 1-1 match            -->
 
 
 
@@ -3404,11 +3413,11 @@
 
 
 
-<!--               LT4  -   word pairs with similar forms (edit distance less than 4) -->
-<!--               LT4  -   word pairs with similar forms (edit distance less than 4) -->
-<!--               LT4  -   word pairs with similar forms (edit distance less than 4) -->
-<!--               LT4  -   word pairs with similar forms (edit distance less than 4) -->
-<!--               LT4  -   word pairs with similar forms (edit distance less than 4) -->
+<!--               3. LT4  -   word pairs with similar forms (edit distance less than 4) -->
+<!--               3. LT4  -   word pairs with similar forms (edit distance less than 4) -->
+<!--               3. LT4  -   word pairs with similar forms (edit distance less than 4) -->
+<!--               3. LT4  -   word pairs with similar forms (edit distance less than 4) -->
+<!--               3. LT4  -   word pairs with similar forms (edit distance less than 4) -->
 
 
 
@@ -5919,14 +5928,14 @@
 
 
 
-<!--           Filtered with sme-fin                        -->
-<!--           Filtered with sme-fin                        -->
-<!--           Filtered with sme-fin                        -->
-<!--           Filtered with sme-fin                        -->
-<!--           Filtered with sme-fin                        -->
-<!--           Filtered with sme-fin                        -->
-<!--           Filtered with sme-fin                        -->
-<!--           Filtered with sme-fin                        -->
+<!--           4. Filtered with sme-fin                        -->
+<!--           4. Filtered with sme-fin                        -->
+<!--           4. Filtered with sme-fin                        -->
+<!--           4. Filtered with sme-fin                        -->
+<!--           4. Filtered with sme-fin                        -->
+<!--           4. Filtered with sme-fin                        -->
+<!--           4. Filtered with sme-fin                        -->
+<!--           4. Filtered with sme-fin                        -->
 
 
 
@@ -10394,18 +10403,18 @@
 
 
 
-<!--              Filtered without sme-fin         -->
-<!--              Filtered without sme-fin         -->
-<!--              Filtered without sme-fin         -->
-<!--              Filtered without sme-fin         -->
-<!--              Filtered without sme-fin         -->
-<!--              Filtered without sme-fin         -->
-<!--              Filtered without sme-fin         -->
-<!--              Filtered without sme-fin         -->
-<!--              Filtered without sme-fin         -->
-<!--              Filtered without sme-fin         -->
-<!--              Filtered without sme-fin         -->
-<!--              Filtered without sme-fin         -->
+<!--              5. Filtered without sme-fin         -->
+<!--              5. Filtered without sme-fin         -->
+<!--              5. Filtered without sme-fin         -->
+<!--              5. Filtered without sme-fin         -->
+<!--              5. Filtered without sme-fin         -->
+<!--              5. Filtered without sme-fin         -->
+<!--              5. Filtered without sme-fin         -->
+<!--              5. Filtered without sme-fin         -->
+<!--              5. Filtered without sme-fin         -->
+<!--              5. Filtered without sme-fin         -->
+<!--              5. Filtered without sme-fin         -->
+<!--              5. Filtered without sme-fin         -->
 
 
 
@@ -10434,16 +10443,10 @@
 
     <!--    SECTION: vblex-->
 
-    <e><p><l>divttásmuvvat<s n="vblex"/><s n="iv"/></l><r>sovđâđ<s n="vblex"/></r></p></e>
-    <e><p><l>divttásmuvvat<s n="vblex"/><s n="iv"/></l><r>suáhuđ<s n="vblex"/></r></p></e>
+    <e><p><l>divttásmuvvat<s n="vblex"/><s n="iv"/></l><r>tiätásmuđ<s n="vblex"/></r></p></e>
     <e><p><l>heahppášuhttit<s n="vblex"/>s n="iv"/></l><r>hiäpášâttâđ<s n="vblex"/></r></p></e>
     <e><p><l>heahppášuhttit<s n="vblex"/><s n="tv"/></l><r>hiäpášiđ<s n="vblex"/></r></p></e>
-    <e><p><l>heahppášuhttit<s n="vblex"/><s n="tv"/></l><r>hiäpášâtah<s n="vblex"/></r></p></e>
-    <e><p><l>teahtásmuvvat<s n="vblex"/><s n="iv"/></l><r>suáhuđ<s n="vblex"/></r></p></e>
-    <e><p><l>teahtásmuvvat<s n="vblex"/><s n="iv"/></l><r>sovđâđ<s n="vblex"/></r></p></e>
-    <e><p><l>šávahit<s n="vblex"/><s n="tv"/></l><r>vyeijiđ<s n="vblex"/></r></p></e>
     <e><p><l>šávahit<s n="vblex"/><s n="tv"/></l><r>hurgáttâllâđ<s n="vblex"/></r></p></e>
-    <e><p><l>šávahit<s n="vblex"/><s n="tv"/></l><r>skirviittâllâđ<s n="vblex"/></r></p></e>
 
 
 
