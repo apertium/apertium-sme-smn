@@ -183,7 +183,8 @@
 
     <!-- SECTION: Adverbs -->
 
-    <e><p><l>gos<s n="adv"/></l><r>kost<s n="adv"/></r></p></e>
+    <e><p><l>sihke<s n="adv"/></l><r>nuuvt<s n="adv"/></r></p></e>
+    <e><p><l>suomabealde<s n="adv"/></l><r>Suomâbeln<s n="adv"/></r></p></e>
     <e><p><l>maid<s n="adv"/></l><r>meid<s n="adv"/></r></p></e>
 
     <e><p><l>dál<s n="adv"/></l><r>tääl<s n="adv"/></r></p></e>
@@ -320,6 +321,7 @@
 
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
+    <e><p><l>kommišuvdna<s n="n"/></l><r>kommissio<s n="n"/></r></p></e>
     <e><p><l>bálvalus<s n="n"/></l><r>palvâlus<s n="n"/></r></p></e>
     <e><p><l>prošeakta<s n="n"/></l><r>proojeekt<s n="n"/></r></p></e>
     <e><p><l>departemeanta<s n="n"/></l><r>ministeriö<s n="n"/></r></p></e>
@@ -393,12 +395,6 @@
     <e><p><l>sámeguovlu<s n="n"/></l><r>sämikuávlu<s n="n"/></r></p></e>
     <e><p><l>sápmi<s n="n"/></l><r>sämmilâš<s n="n"/></r></p></e>
     <e><p><l>uniovdna<s n="n"/></l><r>union<s n="n"/></r></p></e>
-    <e><p><l>Drammen<s n="np"/></l><r>Drammen<s n="np"/></r></p></e>
-    <e><p><l>Eurohpá<s n="np"/></l><r>Euroop<s n="np"/></r></p></e>
-    <e><p><l>Ipmil<s n="np"/></l><r>Immeel<s n="np"/></r></p></e>
-    <e><p><l>Norga<s n="np"/></l><r>Taažâ<s n="np"/></r></p></e>
-    <e><p><l>Ruoŧŧa<s n="np"/></l><r>Ruotâ<s n="np"/></r></p></e>
-    <e><p><l>Suopma<s n="np"/></l><r>Suomâ<s n="np"/></r></p></e>
 
     <e><p><l>homofobiija<s n="n"/></l><r>homofobia<s n="n"/></r></p></e>
     <e><p><l>tragediija<s n="n"/></l><r>tragedia<s n="n"/></r></p></e>
@@ -693,6 +689,19 @@
     <e><p><l>Norga<s n="np"/></l><r>Taažâ<s n="np"/></r></p></e>
     <e><p><l>Suopma<s n="np"/></l><r>Suomâ<s n="np"/></r></p></e>
     <e><p><l>Ruoŧŧa<s n="np"/></l><r>Ruotâ<s n="np"/></r></p></e>
+
+    <e><p><l>Drammen<s n="np"/></l><r>Drammen<s n="np"/></r></p></e>
+    <e><p><l>Eurohpá<s n="np"/></l><r>Euroop<s n="np"/></r></p></e>
+    <e><p><l>Ipmil<s n="np"/></l><r>Immeel<s n="np"/></r></p></e>
+    <e><p><l>Ruošša<s n="np"/></l><r>Ruoššâ<s n="np"/></r></p></e>
+
+    <e><p><l>Egil<s n="np"/></l><r>Egil<s n="np"/></r></p></e>
+    <e><p><l>Olli<s n="np"/></l><r>Olli<s n="np"/></r></p></e>
+    <e><p><l>Klemetti<s n="np"/></l><r>Klemetti<s n="np"/></r></p></e>
+    <e><p><l>Näkkäläjärvi<s n="np"/></l><r>Näkkäläjärvi<s n="np"/></r></p></e>
+    <e><p><l>Tiina<s n="np"/></l><r>Tiina<s n="np"/></r></p></e>
+    <e><p><l>Saanila-Aikio<s n="np"/></l><r>Saanila-Aikio<s n="np"/></r></p></e>
+
 
     <!-- SECTION: Verbs -->
 
@@ -4312,7 +4321,7 @@
     <e><p><l>guolástus<s n="n"/></l><r>kuálástus<s n="n"/></r></p></e>
     <e><p><l>guorbmi<s n="n"/></l><r>kyermi<s n="n"/></r></p></e>
     <e><p><l>guossa<s n="n"/></l><r>kuosâ<s n="n"/></r></p></e>
-    <e><p><l>guossi<s n="n"/></l><r>kyessi<s n="n"/></r></p></e>
+    <e><p><l>guossi<s n="n"/><s n="g3"/></l><r>kyessi<s n="n"/></r></p></e>
     <e><p><l>guottu<s n="n"/></l><r>kuodduš<s n="n"/></r></p></e>
     <e><p><l>guovlu<s n="n"/></l><r>kuávlu<s n="n"/></r></p></e>
     <e><p><l>guovttáš<s n="n"/></l><r>kuovtiš<s n="n"/></r></p></e>
