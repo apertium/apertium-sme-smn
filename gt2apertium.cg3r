@@ -450,6 +450,8 @@ MAP (Sg2) (sg2);
 MAP (Sg3) (sg3);
 MAP (SgGenCmp) (sggencmp);
 MAP (SgNomCmp) (sgnomcmp);
+MAP (Cmp/SgNom) (cmp_sgnom);
+MAP (Cmp/SgGen) (cmp_sggen);
 MAP (ShCmp) (shcmp);
 MAP (TV) (tv);
 MAP (VAbess) (vabess);
