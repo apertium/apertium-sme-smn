@@ -73,6 +73,7 @@
     <sdef n="hom1"/>
     <sdef n="hom2"/>
     <sdef n="superl"/>
+    <sdef n="prfprc"/>
    
   </sdefs>
 
@@ -721,13 +722,11 @@
     <e><p><l>dearvvašmeahttun<s n="adj"/></l><r>epitiervâslâš<s n="adj"/></r></p></e>
     <e><p><l>deasttaheapme<s n="adj"/></l><r>vuovnâlâš<s n="adj"/></r></p></e>
     <e><p><l>deavkat<s n="adj"/></l><r>siävŋus<s n="adj"/></r></p></e>
-    <e><p><l>deivvolaš<s n="adj"/></l><r>säti-<s n="adj"/></r></p></e> <!-- not in sme -->
     <e><p><l>demokráhtalaš<s n="adj"/></l><r>demokraatlâš<s n="adj"/></r></p></e>
     <e><p><l>dievaslaš<s n="adj"/></l><r>tievâslâš<s n="adj"/></r></p></e>
     <e><p><l>dievasmeahttun<s n="adj"/></l><r>epitievâslâš<s n="adj"/></r></p></e>
     <e><p><l>dieđalaš<s n="adj"/></l><r>tieđâlâš<s n="adj"/></r></p></e>
     <e><p><l>digitála<s n="adj"/></l><r>digitaallâš<s n="adj"/></r></p></e>
-    <e><p><l>dihto<s n="adj"/></l><r>tiätu-<s n="adj"/></r></p></e>
     <e><p><l>dihtomielalaš<s n="adj"/></l><r>tiäđulâš<s n="adj"/></r></p></e>
     <e><p><l>doaibmi<s n="adj"/></l><r>aktiivlâš<s n="adj"/></r></p></e>
     <e><p><l>doaimmaheapme<s n="adj"/></l><r>tyejettem<s n="adj"/></r></p></e>
@@ -872,7 +871,6 @@
     <e><p><l>luohtehahtti<s n="adj"/></l><r>lyetitteijee<s n="adj"/></r></p></e>
     <e><p><l>luohttevaš<s n="adj"/></l><r>lyetitteijee<s n="adj"/></r></p></e>
     <e><p><l>lágalaš<s n="adj"/></l><r>lavâlâš<s n="adj"/></r></p></e>
-    <e><p><l>maŋit<s n="adj"/></l><r>monnjâ-<s n="adj"/></r></p></e>
     <e><p><l>meariheapme<s n="adj"/></l><r>merettem<s n="adj"/></r></p></e>
     <e><p><l>mielkkas<s n="adj"/></l><r>miälkkáá<s n="adj"/></r></p></e>
     <e><p><l>mielkái<s n="adj"/></l><r>miälkkáá<s n="adj"/></r></p></e>
@@ -977,8 +975,6 @@
     <e><p><l>sivvat<s n="adj"/></l><r>várugâs<s n="adj"/></r></p></e>
     <e><p><l>siđas<s n="adj"/></l><r>mavresteijee<s n="adj"/></r></p></e>
     <e><p><l>siđus<s n="adj"/></l><r>mavresteijee<s n="adj"/></r></p></e>
-    <e><p><l>skihčas<s n="adj"/></l><r>skuibe-<s n="adj"/></r></p></e>
-    <e><p><l>skuittas<s n="adj"/></l><r>skuibe-<s n="adj"/></r></p></e>
     <e><p><l>skárttas<s n="adj"/></l><r>skárttáá<s n="adj"/></r></p></e>
     <e><p><l>smiehttalas<s n="adj"/></l><r>smiettâlâs<s n="adj"/></r></p></e>
     <e><p><l>smáiti<s n="adj"/></l><r>räniskaihi<s n="adj"/></r></p></e>
@@ -1079,14 +1075,13 @@
     <e><p><l>čielggas<s n="adj"/></l><r>čielgâs<s n="adj"/></r></p></e>
     <e><p><l>čielggus<s n="adj"/></l><r>čielgâs<s n="adj"/></r></p></e>
     <e><p><l>čihččet<s n="adj"/></l><r>čiččâd<s n="adj"/></r></p></e>
-    <e><p><l>čilssas<s n="adj"/></l><r>skuibe-<s n="adj"/></r></p></e>
     <e><p><l>čižžái<s n="adj"/></l><r>raddaa<s n="adj"/></r></p></e>
     <e><p><l>čujolaš<s n="adj"/></l><r>čyeijil<s n="adj"/></r></p></e>
     <e><p><l>čuođát<s n="adj"/></l><r>čuáđáád<s n="adj"/></r></p></e>
     <e><p><l>čálalaš<s n="adj"/></l><r>kirjálâš<s n="adj"/></r></p></e>
     <e><p><l>čálekeahttá<s n="adj"/></l><r>čälimettum<s n="adj"/></r></p></e><!-- not in sme -->
     <e><p><l>šealgat<s n="adj"/></l><r>kildee<s n="adj"/></r></p></e>
-    <e><p><l>šiehttil<s n="adj"/></l><r>uces<s n="adj"/></r></p></e>
+    <e><p><l>šiehttil<s n="adj"/></l><r>ucce<s n="adj"/></r></p></e>
     <e><p><l>šlinzzas<s n="adj"/></l><r>sile<s n="adj"/></r></p></e>
     <e><p><l>šlurvvas<s n="adj"/></l><r>nakkanttim<s n="adj"/></r></p></e>
 
@@ -1167,7 +1162,6 @@
     <e><p><l>persovnnalaččat<s n="adv"/></l><r>persovnlávt<s n="adv"/></r></p></e>
     <e><p><l>ruovttoluotta<s n="adv"/></l><r>maasâd<s n="adv"/></r></p></e>
     <e><p><l>ráđđái<s n="adv"/></l><r>ráđđáá<s n="adv"/></r></p></e><!-- not in sme -->
-    <e><p><l>sahtedohko<s n="adv"/></l><r>säti-<s n="adv"/></r></p></e>
     <e><p><l>sierra<s n="adv"/></l><r>eromâš<s n="adv"/></r></p></e>
     <e><p><l>sihkkarit<s n="adv"/></l><r>vissásávt<s n="adv"/></r></p></e>
     <e><p><l>skaippil<s n="adv"/></l><r>ponjen<s n="adv"/></r></p></e>
@@ -3504,8 +3498,8 @@
     <e><p><l>oahpis<s n="adj"/></l><r>uápis<s n="adj"/></r></p></e>
     <e><p><l>oainnus<s n="adj"/></l><r>uáinusân<s n="adj"/></r></p></e>
     <e><p><l>oanehaš<s n="adj"/></l><r>uáneeh<s n="adj"/></r></p></e>
-    <e><p><l>oanehaš<s n="adj"/></l><r>uániháá<s n="adj"/></r></p></e>
-    <e><p><l>oatni<s n="adj"/></l><r>uániháá<s n="adj"/></r></p></e>
+    <e><p><l>oanehaš<s n="adj"/></l><r>uánihâš<s n="adj"/></r></p></e>
+    <e><p><l>oatni<s n="adj"/></l><r>uánihâš<s n="adj"/></r></p></e>
     <e><p><l>oavlái<s n="adj"/></l><r>kalje<s n="adj"/></r></p></e>
     <e><p><l>oktageardán<s n="adj"/></l><r>oovtâkiärdán<s n="adj"/></r></p></e>
     <e><p><l>oktonas<s n="adj"/></l><r>ohtuunis<s n="adj"/></r></p></e>
