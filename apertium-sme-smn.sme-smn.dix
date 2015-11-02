@@ -1,3 +1,4 @@
+
 <dictionary>
   <alphabet/>
   <sdefs>
@@ -300,7 +301,7 @@
     <e><p><l>idja<s n="n"/></l><r>ijjâ<s n="n"/></r></p></e>
     <e><p><l>jahki<s n="n"/></l><r>ihe<s n="n"/></r></p></e>
     <e><p><l>kommišuvdna<s n="n"/></l><r>kommissio<s n="n"/></r></p></e>
-    <e><p><l>kultuvra<s n="n"/></l><r>kulttuuri<s n="n"/></r></p></e>
+    <e><p><l>váldokultuvra<s n="n"/></l><r>väldikulttuur<s n="n"/></r></p></e>
     <e><p><l>loddi<s n="n"/></l><r>lodde<s n="n"/></r></p></e>
     <e><p><l>láhka<s n="n"/></l><r>laahâ<s n="n"/></r></p></e>
     <e><p><l>láse<s n="n"/></l><r>laasâ<s n="n"/></r></p></e>
@@ -639,6 +640,8 @@
 
     <e><p><l>ii<s n="vblex"/></l><r>ii<s n="vblex"/></r></p></e>
 
+    <e><p><l>geavahit<s n="vblex"/><s n="tv"/></l><r>kevttiđ<s n="vblex"/></r></p></e>
+    <e><p><l>jienastit<s n="vblex"/><s n="tv"/></l><r>jienâstiđ<s n="vblex"/></r></p></e>
     <e><p><l>dahkat<s n="vblex"/><s n="tv"/></l><r>porgâđ<s n="vblex"/></r></p></e>
     <e><p><l>gullat<s n="vblex"/><s n="tv"/></l><r>kulluđ<s n="vblex"/></r></p></e>
     <e><p><l>gálgat<s n="vblex"/><s n="tv"/></l><r>kalgâđ<s n="vblex"/></r></p></e>
