@@ -6327,22 +6327,17 @@
 
 <!-- Conjunctions 1-m frequency ordered -->
 
-    <e><p><l>ahte<s n="cnjcoo"/></l><r>asun<s n="cnjcoo"/></r></p></e>
     <e><p><l>ahte<s n="cnjcoo"/></l><r>et<s n="cnjcoo"/></r></p></e>
     <e><p><l>ahte<s n="cnjcoo"/></l><r>ete<s n="cnjcoo"/></r></p></e>
-    <e><p><l>ahte<s n="cnjcoo"/></l><r>it<s n="cnjcoo"/></r></p></e>
     <e><p><l>dehe<s n="cnjcoo"/></l><r>teikâ<s n="cnjcoo"/></r></p></e>
-    <e><p><l>dehe<s n="cnjcoo"/></l><r>tâi<s n="cnjcoo"/></r></p></e>
 
 
 <!-- Subjunctions 1-m frequency ordered -->
 
 
-    <e><p><l>ahte<s n="cnjsub"/></l><r>asun<s n="cnjsub"/></r></p></e>
     <e><p><l>ahte<s n="cnjsub"/></l><r>et<s n="cnjsub"/></r></p></e>
     <e><p><l>ahte<s n="cnjsub"/></l><r>ete<s n="cnjsub"/></r></p></e>
-    <e><p><l>ahte<s n="cnjsub"/></l><r>it<s n="cnjsub"/></r></p></e>
-    <e><p><l>vaikko<s n="cnjsub"/></l><r>vâik<s n="cnjsub"/></r></p></e>
+    <e><p><l>vaikko<s n="cnjsub"/></l><r>veik<s n="cnjsub"/></r></p></e>
     <e><p><l>amas<s n="cnjsub"/></l><r>oomâs<s n="cnjsub"/></r></p></e>
 
 
@@ -6359,69 +6354,39 @@
 <!-- Nouns 1-m frequency ordered -->
 
 
-    <e><p><l>almmáiolmmoš<s n="n"/></l><r>almai<s n="n"/></r></p></e>
-    <e><p><l>almmáiolmmoš<s n="n"/></l><r>iššeed<s n="n"/></r></p></e>
-    <e><p><l>almmáiolmmoš<s n="n"/></l><r>käälis<s n="n"/></r></p></e>
-    <e><p><l>badjeolmmoš<s n="n"/></l><r>puásuiolmooš<s n="n"/></r></p></e>
-    <e><p><l>badjeolmmoš<s n="n"/></l><r>räiđee<s n="n"/></r></p></e>
-    <e><p><l>boazoolmmoš<s n="n"/></l><r>puásuiolmooš<s n="n"/></r></p></e>
-    <e><p><l>boazoolmmoš<s n="n"/></l><r>räiđee<s n="n"/></r></p></e>
-    <e><p><l>dievdoolmmoš<s n="n"/></l><r>almai<s n="n"/></r></p></e>
-    <e><p><l>dievdoolmmoš<s n="n"/></l><r>iššeed<s n="n"/></r></p></e>
-    <e><p><l>dievdoolmmoš<s n="n"/></l><r>käälis<s n="n"/></r></p></e>
-    <e><p><l>davvisámegiella<s n="n"/></l><r>orjâlâškielâ<s n="n"/></r></p></e>
+    <e><p><l>almmáiolmmoš<s n="n"/></l><r>almaiolmooš<s n="n"/></r></p></e>
+    <e><p><l>badjeolmmoš<s n="n"/></l><r>puásui-iššeed<s n="n"/></r></p></e>
+    <e><p><l>boazoolmmoš<s n="n"/></l><r>puásui-iššéed<s n="n"/></r></p></e>
+    <e><p><l>dievdoolmmoš<s n="n"/></l><r>almaiolmooš<s n="n"/></r></p></e>
     <e><p><l>davvisámegiella<s n="n"/></l><r>pajekielâ<s n="n"/></r></p></e>
-    <e><p><l>ovddidanbargu<s n="n"/></l><r>oovtâstpargo<s n="n"/></r></p></e>
-    <e><p><l>ovddidanbargu<s n="n"/></l><r>ovtâspargo<s n="n"/></r></p></e>
-    <e><p><l>ruovttubargu<s n="n"/></l><r>liäksu<s n="n"/></r></p></e>
+    <e><p><l>ovddidanbargu<s n="n"/></l><r>ovdedempargo<s n="n"/></r></p></e>
     <e><p><l>ruovttubargu<s n="n"/></l><r>päikkipargo<s n="n"/></r></p></e>
     <e><p><l>mánná<s n="n"/></l><r>páárnáš<s n="n"/></r></p></e>
-    <e><p><l>mánná<s n="n"/></l><r>pärni<s n="n"/></r></p></e>
     <e><p><l>mánáidmánná<s n="n"/></l><r>áijuh<s n="n"/></r></p></e>
     <e><p><l>mánáidmánná<s n="n"/></l><r>ákkuv<s n="n"/></r></p></e>
-    <e><p><l>mánáidmánná<s n="n"/></l><r>ááijuv<s n="n"/></r></p></e>
-    <e><p><l>mánáidmánná<s n="n"/></l><r>ääččiv<s n="n"/></r></p></e>
-    <e><p><l>fylkkagielda<s n="n"/></l><r>leenâ<s n="n"/></r></p></e>
     <e><p><l>fylkkagielda<s n="n"/></l><r>lääni<s n="n"/></r></p></e>
-    <e><p><l>válgabeaivi<s n="n"/></l><r>vaaljapeivi<s n="n"/></r></p></e>
-    <e><p><l>válgabeaivi<s n="n"/></l><r>valjâpeivi<s n="n"/></r></p></e>
-    <e><p><l>joatkkaskuvla<s n="n"/></l><r>luvâttuh<s n="n"/></r></p></e>
-    <e><p><l>joatkkaskuvla<s n="n"/></l><r>áámmátškovlâ<s n="n"/></r></p></e>
-    <e><p><l>fylkkasuohkan<s n="n"/></l><r>leenâ<s n="n"/></r></p></e>
+    <e><p><l>válgabeaivi<s n="n"/></l><r>vaaljâpeivi<s n="n"/></r></p></e>
+    <e><p><l>joatkkaskuvla<s n="n"/></l><r>jotkâškovlâ<s n="n"/></r></p></e>
     <e><p><l>fylkkasuohkan<s n="n"/></l><r>lääni<s n="n"/></r></p></e>
     <e><p><l>suohkan<s n="n"/></l><r>kieldâ<s n="n"/></r></p></e>
-    <e><p><l>suohkan<s n="n"/></l><r>kundá<s n="n"/></r></p></e>
-    <e><p><l>suohkan<s n="n"/></l><r>pitejâš<s n="n"/></r></p></e>
-    <e><p><l>alitrássi<s n="n"/></l><r>puáriskállárääsi<s n="n"/></r></p></e>
-    <e><p><l>alitrássi<s n="n"/></l><r>čuovjisrääsi<s n="n"/></r></p></e>
-    <e><p><l>bagadeapmi<s n="n"/></l><r>ravviittâs<s n="n"/></r></p></e>
+    <e><p><l>alitrássi<s n="n"/></l><r>puáriskállárääsi<s n="n"/></r></p></e> <!-- check -->
+    <e><p><l>alitrássi<s n="n"/></l><r>čuovjisrääsi<s n="n"/></r></p></e> <!-- check -->
     <e><p><l>bagadeapmi<s n="n"/></l><r>ravvim<s n="n"/></r></p></e>
-    <e><p><l>bagadeapmi<s n="n"/></l><r>ravvimpalvâlus<s n="n"/></r></p></e>
-    <e><p><l>bagadeapmi<s n="n"/></l><r>rađđim<s n="n"/></r></p></e>
     <e><p><l>bajándávgi<s n="n"/></l><r>arvetävgi<s n="n"/></r></p></e>
-    <e><p><l>bajándávgi<s n="n"/></l><r>äijihtävgi<s n="n"/></r></p></e>
     <e><p><l>bassi<s n="n"/></l><r>pase<s n="n"/></r></p></e>
-    <e><p><l>bassi<s n="n"/></l><r>passaa<s n="n"/></r></p></e>
     <e><p><l>beassi<s n="n"/></l><r>peesi<s n="n"/></r></p></e>
-    <e><p><l>beassi<s n="n"/></l><r>pessi<s n="n"/></r></p></e>
-    <e><p><l>beavdeliidni<s n="n"/></l><r>lijne<s n="n"/></r></p></e>
-    <e><p><l>beavdeliidni<s n="n"/></l><r>pevdilijne<s n="n"/></r></p></e>
-    <e><p><l>beavdeliidni<s n="n"/></l><r>vuopsâ<s n="n"/></r></p></e>
-    <e><p><l>beađbi<s n="n"/></l><r>čuámáttâslyepi<s n="n"/></r></p></e>
-    <e><p><l>beađbi<s n="n"/></l><r>čuámáttâsnuurâs<s n="n"/></r></p></e>
-    <e><p><l>beađbi<s n="n"/></l><r>čuámáttâstähti<s n="n"/></r></p></e>
+    <e><p><l>beavdeliidni<s n="n"/></l><r>pevdilijne<s n="n"/></r></p></e> <!-- check -->
+    <e><p><l>beađbi<s n="n"/></l><r>čuámáttâslyepi<s n="n"/></r></p></e> <!-- check -->
+    <e><p><l>beađbi<s n="n"/></l><r>čuámáttâsnuurâs<s n="n"/></r></p></e> <!-- check -->
+    <e><p><l>beađbi<s n="n"/></l><r>čuámáttâstähti<s n="n"/></r></p></e> <!-- check -->
     <e><p><l>biehtárrássi<s n="n"/></l><r>piättárrääsi<s n="n"/></r></p></e>
-    <e><p><l>biehtárrássi<s n="n"/></l><r>piättârrääsi<s n="n"/></r></p></e>
     <e><p><l>biellorássi<s n="n"/></l><r>kisákiällu<s n="n"/></r></p></e>
     <e><p><l>biellorássi<s n="n"/></l><r>säpligtivgâ<s n="n"/></r></p></e>
     <e><p><l>biellorássi<s n="n"/></l><r>čuovjiskiällurääsi<s n="n"/></r></p></e>
-    <e><p><l>biergomálli<s n="n"/></l><r>piärgumääli<s n="n"/></r></p></e>
     <e><p><l>biergomálli<s n="n"/></l><r>piärgumäälis<s n="n"/></r></p></e>
-    <e><p><l>boadnji<s n="n"/></l><r>iššeed<s n="n"/></r></p></e>
     <e><p><l>boadnji<s n="n"/></l><r>käälis<s n="n"/></r></p></e>
-    <e><p><l>boadnji<s n="n"/></l><r>uđđâalmai<s n="n"/></r></p></e>
+    <!-- ML dáppe -->
     <e><p><l>boallooaivi<s n="n"/></l><r>puállurääsi<s n="n"/></r></p></e>
-    <e><p><l>boallooaivi<s n="n"/></l><r>pállurääsi<s n="n"/></r></p></e>
     <e><p><l>boazoalmmái<s n="n"/></l><r>pajeolmooš<s n="n"/></r></p></e>
     <e><p><l>boazoalmmái<s n="n"/></l><r>puásuialmai<s n="n"/></r></p></e>
     <e><p><l>bumpaloddi<s n="n"/></l><r>jeggiluátku<s n="n"/></r></p></e>
