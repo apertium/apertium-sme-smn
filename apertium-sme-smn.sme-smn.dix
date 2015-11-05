@@ -81,7 +81,7 @@
 
   <section id="main" type="standard">
 
-<!-- AAAAA CHAPTER 1 The initial bidix - manually made in 2014 pluss october 2015   -->
+<!-- AAAAA CHAPTER 1 The initial bidix - manually made in 2014 pluss october 2015, pluss placenames from Miina/Hannu November 2015   -->
 
     <!-- SECTION: Conjunctions -->
 
@@ -618,19 +618,6 @@
 
     <!-- SECTION: Proper nouns -->
 
-    <e><p><l>Máret<s n="np"/></l><r>Maarit<s n="np"/></r></p></e>
-    <e><p><l>Duommá<s n="np"/></l><r>Tyemes<s n="np"/></r></p></e>
-    <e><p><l>Ipmil<s n="np"/></l><r>Immeel<s n="np"/></r></p></e>
-
-    <e><p><l>Eurohpá<s n="np"/></l><r>Euroop<s n="np"/></r></p></e>
-    <e><p><l>Norga<s n="np"/></l><r>Taažâ<s n="np"/></r></p></e>
-    <e><p><l>Suopma<s n="np"/></l><r>Suomâ<s n="np"/></r></p></e>
-    <e><p><l>Ruoŧŧa<s n="np"/></l><r>Ruotâ<s n="np"/></r></p></e>
-
-    <e><p><l>Ruošša<s n="np"/></l><r>Ruoššâ<s n="np"/></r></p></e>
-
-
-    <e><p><l>Saanila-Aikio<s n="np"/></l><r>Saanila-Aikio<s n="np"/></r></p></e>
 
     <!-- SECTION: Verbs -->
 
@@ -665,6 +652,199 @@
     <e><p><l>čohkkát<s n="vblex"/><s n="iv"/></l><r>čokkáđ<s n="vblex"/></r></p></e>
     <e><p><l>čállit<s n="vblex"/><s n="tv"/></l><r>čäälliđ<s n="vblex"/></r></p></e>
     <e><p><l>geargat<s n="vblex"/><s n="iv"/></l><r>kiergâniđ<s n="vblex"/></r></p></e>
+    <e><p><l>Máret<s n="np"/></l><r>Maarit<s n="np"/></r></p></e>
+    <e><p><l>Duommá<s n="np"/></l><r>Tyemes<s n="np"/></r></p></e>
+    <e><p><l>Ipmil<s n="np"/></l><r>Immeel<s n="np"/></r></p></e>
+    <e><p><l>Eurohpá<s n="np"/></l><r>Euroop<s n="np"/></r></p></e>
+    <e><p><l>Norga<s n="np"/></l><r>Taažâ<s n="np"/></r></p></e>
+    <e><p><l>Suopma<s n="np"/></l><r>Suomâ<s n="np"/></r></p></e>
+    <e><p><l>Ruoŧŧa<s n="np"/></l><r>Ruotâ<s n="np"/></r></p></e>
+    <e><p><l>Ruošša<s n="np"/></l><r>Ruoššâ<s n="np"/></r></p></e>
+    <e><p><l>Saanila-Aikio<s n="np"/></l><r>Saanila-Aikio<s n="np"/></r></p></e>
+    <e><p><l>Afganistan<s n="np"/></l><r>Afganistan<s n="np"/></r></p></e>
+    <e><p><l>Albánia<s n="np"/></l><r>Albania<s n="np"/></r></p></e>
+    <e><p><l>Algeria<s n="np"/></l><r>Algeria<s n="np"/></r></p></e>
+    <e><p><l>Andorra<s n="np"/></l><r>Andorra<s n="np"/></r></p></e>
+    <e><p><l>Angola<s n="np"/></l><r>Angola<s n="np"/></r></p></e>
+    <e><p><l>Antigua<b/>ja<b/>Barbuda<s n="np"/></l><r>Antigua<b/>já<b/>Barbuda<s n="np"/></r></p></e>
+    <e><p><l>Arábaemiráhtat<s n="np"/></l><r>Arabiemiirikodeh<s n="np"/></r></p></e>
+    <e><p><l>Argentina<s n="np"/></l><r>Argentina<s n="np"/></r></p></e>
+    <e><p><l>Armenia<s n="np"/></l><r>Armenia<s n="np"/></r></p></e>
+    <e><p><l>Austrália<s n="np"/></l><r>Australia<s n="np"/></r></p></e>
+    <e><p><l>Azerbaidžan<s n="np"/></l><r>Azerbaidzan<s n="np"/></r></p></e>
+    <e><p><l>Bahama<s n="np"/></l><r>Bahama<s n="np"/></r></p></e>
+    <e><p><l>Bahrain<s n="np"/></l><r>Bahrain<s n="np"/></r></p></e>
+    <e><p><l>Bangladesh<s n="np"/></l><r>Bangladesh<s n="np"/></r></p></e>
+    <e><p><l>Barbados<s n="np"/></l><r>Barbados<s n="np"/></r></p></e>
+    <e><p><l>Belgia<s n="np"/></l><r>Belgia<s n="np"/></r></p></e>
+    <e><p><l>Belize<s n="np"/></l><r>Belize<s n="np"/></r></p></e>
+    <e><p><l>Benin<s n="np"/></l><r>Benin<s n="np"/></r></p></e>
+    <e><p><l>Bhutan<s n="np"/></l><r>Bhutan<s n="np"/></r></p></e>
+    <e><p><l>Bolivia<s n="np"/></l><r>Bolivia<s n="np"/></r></p></e>
+    <e><p><l>Bosnia-Hercegovina<s n="np"/></l><r>Bosnia-Hertsegovina<s n="np"/></r></p></e>
+    <e><p><l>Botswana<s n="np"/></l><r>Botswana<s n="np"/></r></p></e>
+    <e><p><l>Brasilia<s n="np"/></l><r>Brasilia<s n="np"/></r></p></e>
+    <e><p><l>Brunei<s n="np"/></l><r>Brunei<s n="np"/></r></p></e>
+    <e><p><l>Bulgaria<s n="np"/></l><r>Bulgaria<s n="np"/></r></p></e>
+    <e><p><l>Burkina Faso<s n="np"/></l><r>Burkina Faso<s n="np"/></r></p></e>
+    <e><p><l>Burundi<s n="np"/></l><r>Burundi<s n="np"/></r></p></e>
+    <e><p><l>Chile<s n="np"/></l><r>Chile<s n="np"/></r></p></e>
+    <e><p><l>Costa<b/>Rica<s n="np"/></l><r>Costa<b/>Rica<s n="np"/></r></p></e>
+    <e><p><l>Djibouti<s n="np"/></l><r>Djibouti<s n="np"/></r></p></e>
+    <e><p><l>Dominica<s n="np"/></l><r>Dominica<s n="np"/></r></p></e>
+    <e><p><l>Dominikána<b/>republihkka<s n="np"/></l><r>Dominikaanlâš<b/>täsivääldi<s n="np"/></r></p></e>
+    <e><p><l>Ecuador<s n="np"/></l><r>Ecuador<s n="np"/></r></p></e>
+    <e><p><l>Estteeana<s n="np"/></l><r>Eesti<s n="np"/></r></p></e>
+    <e><p><l>Egypta<s n="np"/></l><r>Egypti<s n="np"/></r></p></e>
+    <e><p><l>El<b/>Salvador<s n="np"/></l><r>El<b/>Salvador<s n="np"/></r></p></e>
+    <e><p><l>Elefandákteriddu<s n="np"/></l><r>Elefanttähtiriddo<s n="np"/></r></p></e>
+    <e><p><l>Eritrea<s n="np"/></l><r>Eritrea<s n="np"/></r></p></e>
+    <e><p><l>Espánnja<s n="np"/></l><r>Espanja<s n="np"/></r></p></e>
+    <e><p><l>Etiopia<s n="np"/></l><r>Etiopia<s n="np"/></r></p></e>
+    <e><p><l>Filippiinnat<s n="np"/></l><r>Filippiineh<s n="np"/></r></p></e>
+    <e><p><l>Gabon<s n="np"/></l><r>Gabon<s n="np"/></r></p></e>
+    <e><p><l>Gambia<s n="np"/></l><r>Gambia<s n="np"/></r></p></e>
+    <e><p><l>Georgia<s n="np"/></l><r>Georgia<s n="np"/></r></p></e>
+    <e><p><l>Ghana<s n="np"/></l><r>Ghana<s n="np"/></r></p></e>
+    <e><p><l>Grenada<s n="np"/></l><r>Grenada<s n="np"/></r></p></e>
+    <e><p><l>Guatemala<s n="np"/></l><r>Guatemala<s n="np"/></r></p></e>
+    <e><p><l>Guinea<s n="np"/></l><r>Guinea<s n="np"/></r></p></e>
+    <e><p><l>Guinea-Bissau<s n="np"/></l><r>Guinea-Bissau<s n="np"/></r></p></e>
+    <e><p><l>Guyana<s n="np"/></l><r>Guyana<s n="np"/></r></p></e>
+    <e><p><l>Haiti<s n="np"/></l><r>Haiti<s n="np"/></r></p></e>
+    <e><p><l>Honduras<s n="np"/></l><r>Honduras<s n="np"/></r></p></e>
+    <e><p><l>India<s n="np"/></l><r>India<s n="np"/></r></p></e>
+    <e><p><l>Indonesia<s n="np"/></l><r>Indonesia<s n="np"/></r></p></e>
+    <e><p><l>Irak<s n="np"/></l><r>Irak<s n="np"/></r></p></e>
+    <e><p><l>Iran<s n="np"/></l><r>Iran<s n="np"/></r></p></e>
+    <e><p><l>Irlánda<s n="np"/></l><r>Irland<s n="np"/></r></p></e>
+    <e><p><l>Islánda<s n="np"/></l><r>Island<s n="np"/></r></p></e>
+    <e><p><l>Israel<s n="np"/></l><r>Israel<s n="np"/></r></p></e>
+    <e><p><l>Italia<s n="np"/></l><r>Italia<s n="np"/></r></p></e>
+    <e><p><l>Japána<s n="np"/></l><r>Jaapaan<s n="np"/></r></p></e>
+    <e><p><l>Jamaica<s n="np"/></l><r>Jamaica<s n="np"/></r></p></e>
+    <e><p><l>Jemen<s n="np"/></l><r>Jemen<s n="np"/></r></p></e>
+    <e><p><l>Jordánia<s n="np"/></l><r>Jordania<s n="np"/></r></p></e>
+    <e><p><l>Kambodža<s n="np"/></l><r>Kambodza<s n="np"/></r></p></e>
+    <e><p><l>Kamerun<s n="np"/></l><r>Kamerun<s n="np"/></r></p></e>
+    <e><p><l>Kanada<s n="np"/></l><r>Kanada<s n="np"/></r></p></e>
+    <e><p><l>Kap<b/>Verde<s n="np"/></l><r>Kap<b/>Verde<s n="np"/></r></p></e>
+    <e><p><l>Kazakstan<s n="np"/></l><r>Kazakstan<s n="np"/></r></p></e>
+    <e><p><l>Kenia<s n="np"/></l><r>Kenia<s n="np"/></r></p></e>
+    <e><p><l>Kiinná<s n="np"/></l><r>Kiina<s n="np"/></r></p></e>
+    <e><p><l>Kirgisia<s n="np"/></l><r>Kirgisia<s n="np"/></r></p></e>
+    <e><p><l>Kolumbia<s n="np"/></l><r>Kolumbia<s n="np"/></r></p></e>
+    <e><p><l>Komoriid lihttu<s n="np"/></l><r>Komoreh<s n="np"/></r></p></e>
+    <e><p><l>Kongo<s n="np"/></l><r>Kongo<s n="np"/></r></p></e>
+    <e><p><l>Kongon<b/>demokráhtalaš<b/>dásseváldi<s n="np"/></l><r>Kongo<b/>demokraatlâš<b/>täsiväldi<s n="np"/></r></p></e>
+    <e><p><l>Gaska-Afrihká<s n="np"/></l><r>Koskâ-Afrik<s n="np"/></r></p></e>
+    <e><p><l>Kosovo<s n="np"/></l><r>Kosovo<s n="np"/></r></p></e>
+    <e><p><l>Greika<s n="np"/></l><r>Kreikka<s n="np"/></r></p></e>
+    <e><p><l>Kroátia<s n="np"/></l><r>Kroatia<s n="np"/></r></p></e>
+    <e><p><l>Kubá<s n="np"/></l><r>Kuuba<s n="np"/></r></p></e>
+    <e><p><l>Kuwait<s n="np"/></l><r>Kuwait<s n="np"/></r></p></e>
+    <e><p><l>Kypros<s n="np"/></l><r>Kypros<s n="np"/></r></p></e>
+    <e><p><l>Laos<s n="np"/></l><r>Laos<s n="np"/></r></p></e>
+    <e><p><l>Látvia<s n="np"/></l><r>Latvia<s n="np"/></r></p></e>
+    <e><p><l>Lesotho<s n="np"/></l><r>Lesotho<s n="np"/></r></p></e>
+    <e><p><l>Libanon<s n="np"/></l><r>Libanon<s n="np"/></r></p></e>
+    <e><p><l>Liberia<s n="np"/></l><r>Liberia<s n="np"/></r></p></e>
+    <e><p><l>Libya<s n="np"/></l><r>Libya<s n="np"/></r></p></e>
+    <e><p><l>Liechtenstein<s n="np"/></l><r>Liechtenstein<s n="np"/></r></p></e>
+    <e><p><l>Lietuva<s n="np"/></l><r>Liettua<s n="np"/></r></p></e>
+    <e><p><l>Luxemburg<s n="np"/></l><r>Luxemburg<s n="np"/></r></p></e>
+    <e><p><l>Mátta-Afrihká<s n="np"/></l><r>Maadâ-Afrik<s n="np"/></r></p></e>
+    <e><p><l>Mátta-Korea<s n="np"/></l><r>Maadâ-Korea<s n="np"/></r></p></e>
+    <e><p><l>Madagaskar<s n="np"/></l><r>Madagaskar<s n="np"/></r></p></e>
+    <e><p><l>Makedonia<s n="np"/></l><r>Makedonia<s n="np"/></r></p></e>
+    <e><p><l>Malawi<s n="np"/></l><r>Malawi<s n="np"/></r></p></e>
+    <e><p><l>Malediivvat<s n="np"/></l><r>Malediiveh<s n="np"/></r></p></e>
+    <e><p><l>Malesia<s n="np"/></l><r>Malesia<s n="np"/></r></p></e>
+    <e><p><l>Mali<s n="np"/></l><r>Mali<s n="np"/></r></p></e>
+    <e><p><l>Malta<s n="np"/></l><r>Malta<s n="np"/></r></p></e>
+    <e><p><l>Marokko<s n="np"/></l><r>Marokko<s n="np"/></r></p></e>
+    <e><p><l>Mauritania<s n="np"/></l><r>Mauritania<s n="np"/></r></p></e>
+    <e><p><l>Mauritius<s n="np"/></l><r>Mauritius<s n="np"/></r></p></e>
+    <e><p><l>Meksiko<s n="np"/></l><r>Meksiko<s n="np"/></r></p></e>
+    <e><p><l>Moldova<s n="np"/></l><r>Moldova<s n="np"/></r></p></e>
+    <e><p><l>Monaco<s n="np"/></l><r>Monaco<s n="np"/></r></p></e>
+    <e><p><l>Mongolia<s n="np"/></l><r>Mongolia<s n="np"/></r></p></e>
+    <e><p><l>Montenegro<s n="np"/></l><r>Montenegro<s n="np"/></r></p></e>
+    <e><p><l>Mosambik<s n="np"/></l><r>Mosambik<s n="np"/></r></p></e>
+    <e><p><l>Myanmar<s n="np"/></l><r>Myanmar<s n="np"/></r></p></e>
+    <e><p><l>Namibia<s n="np"/></l><r>Namibia<s n="np"/></r></p></e>
+    <e><p><l>Nepal<s n="np"/></l><r>Nepal<s n="np"/></r></p></e>
+    <e><p><l>Nicaragua<s n="np"/></l><r>Nicaragua<s n="np"/></r></p></e>
+    <e><p><l>Niger<s n="np"/></l><r>Niger<s n="np"/></r></p></e>
+    <e><p><l>Nigeria<s n="np"/></l><r>Nigeria<s n="np"/></r></p></e>
+    <e><p><l>Nuortariika<s n="np"/></l><r>Nuorttâriijkâ<s n="np"/></r></p></e>
+    <e><p><l>Nuorta-Timor<s n="np"/></l><r>Nuorttâ-Timor<s n="np"/></r></p></e>
+    <e><p><l>Oman<s n="np"/></l><r>Oman<s n="np"/></r></p></e>
+    <e><p><l>Ovttastuvvan stáhtat<s n="np"/></l><r>Ovtâstumstaatah<s n="np"/></r></p></e>
+    <e><p><l>Pakistan<s n="np"/></l><r>Pakistan<s n="np"/></r></p></e>
+    <e><p><l>Panama<s n="np"/></l><r>Panama<s n="np"/></r></p></e>
+    <e><p><l>Paraguay<s n="np"/></l><r>Paraguay<s n="np"/></r></p></e>
+    <e><p><l>Ekvatoriála<b/>Guinea<s n="np"/></l><r>Peeivitäsideijee<b/>Guinea<s n="np"/></r></p></e>
+    <e><p><l>Peru<s n="np"/></l><r>Peru<s n="np"/></r></p></e>
+    <e><p><l>Portugal<s n="np"/></l><r>Portugal<s n="np"/></r></p></e>
+    <e><p><l>Polska<s n="np"/></l><r>Puola<s n="np"/></r></p></e>
+    <e><p><l>Qatar<s n="np"/></l><r>Qatar<s n="np"/></r></p></e>
+    <e><p><l>Frankriika<s n="np"/></l><r>Ranska<s n="np"/></r></p></e>
+    <e><p><l>Románia<s n="np"/></l><r>Romania<s n="np"/></r></p></e>
+    <e><p><l>Ruonáeana<s n="np"/></l><r>Ruánááeennâm<s n="np"/></r></p></e>
+    <e><p><l>Ruanda<s n="np"/></l><r>Ruanda<s n="np"/></r></p></e>
+    <e><p><l>Ruoššâ<s n="np"/></l><r>Ruossâ<s n="np"/></r></p></e>
+    <e><p><l>Ruoŧŧa<s n="np"/></l><r>Ruotâ<s n="np"/></r></p></e>
+    <e><p><l>Saint<b/>Kitts<b/>já<b/>Nevis<s n="np"/></l><r>Saint<b/>Kitts<b/>já<b/>Nevis<s n="np"/></r></p></e>
+    <e><p><l>Saint<b/>Lucia<s n="np"/></l><r>Saint<b/>Lucia<s n="np"/></r></p></e>
+    <e><p><l>Saint<b/>Vincent<b/>ja<b/>Grenadiinnat<s n="np"/></l><r>Saint<b/>Vincet<b/>já<b/>Grenadiineh<s n="np"/></r></p></e>
+    <e><p><l>Duiska<s n="np"/></l><r>Saksa<s n="np"/></r></p></e>
+    <e><p><l>Sambia<s n="np"/></l><r>Sambia<s n="np"/></r></p></e>
+    <e><p><l>San<b/>Marino<s n="np"/></l><r>San Marino<s n="np"/></r></p></e>
+    <e><p><l>São<b/>Tomé<b/>já<b/>Principe<s n="np"/></l><r>São<b/>Tomé<b/>já<b/>Principe<s n="np"/></r></p></e>
+    <e><p><l>Saudi-Arábia<s n="np"/></l><r>Saudi-Arabia<s n="np"/></r></p></e>
+    <e><p><l>Senegal<s n="np"/></l><r>Senegal<s n="np"/></r></p></e>
+    <e><p><l>Serbia<s n="np"/></l><r>Serbia<s n="np"/></r></p></e>
+    <e><p><l>Seychellsullot<s n="np"/></l><r>Seycheleh<s n="np"/></r></p></e>
+    <e><p><l>Sierra<b/>Leone<s n="np"/></l><r>Sierra Leone<s n="np"/></r></p></e>
+    <e><p><l>Singapore<s n="np"/></l><r>Singapore<s n="np"/></r></p></e>
+    <e><p><l>Slovákia<s n="np"/></l><r>Slovakia<s n="np"/></r></p></e>
+    <e><p><l>Slovenia<s n="np"/></l><r>Slovenia<s n="np"/></r></p></e>
+    <e><p><l>Somália<s n="np"/></l><r>Somalia<s n="np"/></r></p></e>
+    <e><p><l>Sri Lanka<s n="np"/></l><r>Sri Lanka<s n="np"/></r></p></e>
+    <e><p><l>Stuorra-Británnia<s n="np"/></l><r>Stuorrâ-Britannia<s n="np"/></r></p></e>
+    <e><p><l>Sudan<s n="np"/></l><r>Sudan<s n="np"/></r></p></e>
+    <e><p><l>Suopma<s n="np"/></l><r>Suomâ<s n="np"/></r></p></e>
+    <e><p><l>Surinam<s n="np"/></l><r>Surinam<s n="np"/></r></p></e>
+    <e><p><l>Svazieana<s n="np"/></l><r>Swazieennâm<s n="np"/></r></p></e>
+    <e><p><l>Šveica<s n="np"/></l><r>Sveitsi<s n="np"/></r></p></e>
+    <e><p><l>Syria<s n="np"/></l><r>Syyria<s n="np"/></r></p></e>
+    <e><p><l>Norga<s n="np"/></l><r>Taažâ<s n="np"/></r></p></e>
+    <e><p><l>Tadžikistan<s n="np"/></l><r>Tadzikistan<s n="np"/></r></p></e>
+    <e><p><l>Taiwan<s n="np"/></l><r>Taiwan<s n="np"/></r></p></e>
+    <e><p><l>Tanzánia<s n="np"/></l><r>Tansania<s n="np"/></r></p></e>
+    <e><p><l>Dánmárku<s n="np"/></l><r>Tanska<s n="np"/></r></p></e>
+    <e><p><l>Davvi-Korea<s n="np"/></l><r>Tave-Korea<s n="np"/></r></p></e>
+    <e><p><l>Thaieana<s n="np"/></l><r>Thaieennâm<s n="np"/></r></p></e>
+    <e><p><l>Togo<s n="np"/></l><r>Togo<s n="np"/></r></p></e>
+    <e><p><l>Trinidad<b/>ja<b/>Tobaco<s n="np"/></l><r>Trinidad<b/>já<b/>Tobaco<s n="np"/></r></p></e>
+    <e><p><l>Chad<s n="np"/></l><r>Tšad<s n="np"/></r></p></e>
+    <e><p><l>Čeahkka<s n="np"/></l><r>Tšekki<s n="np"/></r></p></e>
+    <e><p><l>Tunisia<s n="np"/></l><r>Tunisia<s n="np"/></r></p></e>
+    <e><p><l>Durka<s n="np"/></l><r>Turkki<s n="np"/></r></p></e>
+    <e><p><l>Turkmenistan<s n="np"/></l><r>Turkmenistan<s n="np"/></r></p></e>
+    <e><p><l>Uđđa<b/>Selánda<s n="np"/></l><r>Uđđâ-Seeland<s n="np"/></r></p></e>
+    <e><p><l>Uganda<s n="np"/></l><r>Uganda<s n="np"/></r></p></e>
+    <e><p><l>Ukraina<s n="np"/></l><r>Ukraina<s n="np"/></r></p></e>
+    <e><p><l>Uŋgár<s n="np"/></l><r>Uŋgar<s n="np"/></r></p></e>
+    <e><p><l>Uruguay<s n="np"/></l><r>Uruguay<s n="np"/></r></p></e>
+    <e><p><l>Uzbekistan<s n="np"/></l><r>Uzbekistan<s n="np"/></r></p></e>
+    <e><p><l>Vatikána<s n="np"/></l><r>Vatikaaniriijkâ<s n="np"/></r></p></e>
+    <e><p><l>Venezuela<s n="np"/></l><r>Venezuela<s n="np"/></r></p></e>
+    <e><p><l>Vilges-Ruošša<s n="np"/></l><r>Vielgis-Ruoššâ<s n="np"/></r></p></e>
+    <e><p><l>Venezuela<s n="np"/></l><r>Venezuela<s n="np"/></r></p></e>
+    <e><p><l>Vuolleeatnamat<s n="np"/></l><r>Vuáládâhenâmeh<s n="np"/></r></p></e>
+    <e><p><l>Zimbabwe<s n="np"/></l><r>Zimbabwe<s n="np"/></r></p></e>
 
     <!-- SECTION: Punctuation -->
 
@@ -5031,7 +5211,6 @@
     <e><p><l>goldnat<s n="vblex"/><s n="tv"/></l><r>kulnâđ<s n="vblex"/></r></p></e>
     <e><p><l>golgat<s n="vblex"/><s n="iv"/></l><r>kulgâđ<s n="vblex"/></r></p></e>
     <e><p><l>golket<s n="vblex"/><s n="iv"/></l><r>kolkkiđ<s n="vblex"/></r></p></e>
-    <e><p><l>gollat<s n="vblex"/><s n="tv"/></l><r>kuullâđ<s n="vblex"/></r></p></e>
     <e><p><l>gorkŋodit<s n="vblex"/><s n="iv"/></l><r>kuárŋudiđ<s n="vblex"/></r></p></e>
     <e><p><l>gossat<s n="vblex"/><s n="iv"/></l><r>kuussâđ<s n="vblex"/></r></p></e>
     <e><p><l>gosádit<s n="vblex"/><s n="iv"/></l><r>kosádiđ<s n="vblex"/></r></p></e>
@@ -9687,7 +9866,6 @@
     <e><p><l>Afanassieva<s n="np"/></l><r>Afanassieva<s n="np"/></r></p></e>
     <e><p><l>Affairs<s n="np"/></l><r>Affairs<s n="np"/></r></p></e>
     <e><p><l>Affonso<s n="np"/></l><r>Affonso<s n="np"/></r></p></e>
-    <e><p><l>Afganistan<s n="np"/></l><r>Afganistan<s n="np"/></r></p></e>
     <e><p><l>Afghanistan<s n="np"/></l><r>Afghanistan<s n="np"/></r></p></e>
     <e><p><l>Afrika<s n="np"/></l><r>Afrika<s n="np"/></r></p></e>
     <e><p><l>Afrodite<s n="np"/></l><r>Afrodite<s n="np"/></r></p></e>
@@ -10046,7 +10224,6 @@
     <e><p><l>Algarve<s n="np"/></l><r>Algarve<s n="np"/></r></p></e>
     <e><p><l>Algeciras<s n="np"/></l><r>Algeciras<s n="np"/></r></p></e>
     <e><p><l>Alger<s n="np"/></l><r>Alger<s n="np"/></r></p></e>
-    <e><p><l>Algeria<s n="np"/></l><r>Algeria<s n="np"/></r></p></e>
     <e><p><l>Alghero<s n="np"/></l><r>Alghero<s n="np"/></r></p></e>
     <e><p><l>Algirdas<s n="np"/></l><r>Algirdas<s n="np"/></r></p></e>
     <e><p><l>Algrøy<s n="np"/></l><r>Algrøy<s n="np"/></r></p></e>
@@ -10342,7 +10519,6 @@
     <e><p><l>Andor<s n="np"/></l><r>Andor<s n="np"/></r></p></e>
     <e><p><l>Andorf<s n="np"/></l><r>Andorf<s n="np"/></r></p></e>
     <e><p><l>Andorfjellet<s n="np"/></l><r>Andorfjellet<s n="np"/></r></p></e>
-    <e><p><l>Andorra<s n="np"/></l><r>Andorra<s n="np"/></r></p></e>
     <e><p><l>Andorsen<s n="np"/></l><r>Andorsen<s n="np"/></r></p></e>
     <e><p><l>Andorsrud<s n="np"/></l><r>Andorsrud<s n="np"/></r></p></e>
     <e><p><l>Andotten<s n="np"/></l><r>Andotten<s n="np"/></r></p></e>
@@ -10412,7 +10588,6 @@
     <e><p><l>Angleterre<s n="np"/></l><r>Angleterre<s n="np"/></r></p></e>
     <e><p><l>Anglia<s n="np"/></l><r>Anglia<s n="np"/></r></p></e>
     <e><p><l>Angmagssalik<s n="np"/></l><r>Angmagssalik<s n="np"/></r></p></e>
-    <e><p><l>Angola<s n="np"/></l><r>Angola<s n="np"/></r></p></e>
     <e><p><l>Angora<s n="np"/></l><r>Angora<s n="np"/></r></p></e>
     <e><p><l>Angoulême<s n="np"/></l><r>Angoulême<s n="np"/></r></p></e>
     <e><p><l>Angra<s n="np"/></l><r>Angra<s n="np"/></r></p></e>
@@ -10540,7 +10715,6 @@
     <e><p><l>Antiatlas<s n="np"/></l><r>Antiatlas<s n="np"/></r></p></e>
     <e><p><l>Antibes<s n="np"/></l><r>Antibes<s n="np"/></r></p></e>
     <e><p><l>Antifon<s n="np"/></l><r>Antifon<s n="np"/></r></p></e>
-    <e><p><l>Antigua<s n="np"/></l><r>Antigua<s n="np"/></r></p></e>
     <e><p><l>Antikainen<s n="np"/></l><r>Antikainen<s n="np"/></r></p></e>
     <e><p><l>Antikristus<s n="np"/></l><r>Antikristus<s n="np"/></r></p></e>
     <e><p><l>Antila<s n="np"/></l><r>Antila<s n="np"/></r></p></e>
@@ -10677,7 +10851,6 @@
     <e><p><l>Aretasa<s n="np"/></l><r>Aretasa<s n="np"/></r></p></e>
     <e><p><l>Arethun<s n="np"/></l><r>Arethun<s n="np"/></r></p></e>
     <e><p><l>Arezzo<s n="np"/></l><r>Arezzo<s n="np"/></r></p></e>
-    <e><p><l>Argentina<s n="np"/></l><r>Argentina<s n="np"/></r></p></e>
     <e><p><l>Argos<s n="np"/></l><r>Argos<s n="np"/></r></p></e>
     <e><p><l>Argus<s n="np"/></l><r>Argus<s n="np"/></r></p></e>
     <e><p><l>Arhangelsk<s n="np"/></l><r>Arhangelsk<s n="np"/></r></p></e>
@@ -10731,7 +10904,6 @@
     <e><p><l>Armani<s n="np"/></l><r>Armani<s n="np"/></r></p></e>
     <e><p><l>Armas<s n="np"/></l><r>Armas<s n="np"/></r></p></e>
     <e><p><l>Armeenia<s n="np"/></l><r>Armeenia<s n="np"/></r></p></e>
-    <e><p><l>Armenia<s n="np"/></l><r>Armenia<s n="np"/></r></p></e>
     <e><p><l>Armi<s n="np"/></l><r>Armi<s n="np"/></r></p></e>
     <e><p><l>Arminen<s n="np"/></l><r>Arminen<s n="np"/></r></p></e>
     <e><p><l>Armstrong<s n="np"/></l><r>Armstrong<s n="np"/></r></p></e>
@@ -11224,7 +11396,6 @@
     <e><p><l>Bahamas<s n="np"/></l><r>Bahamas<s n="np"/></r></p></e>
     <e><p><l>Bahia<s n="np"/></l><r>Bahia<s n="np"/></r></p></e>
     <e><p><l>Bahne<s n="np"/></l><r>Bahne<s n="np"/></r></p></e>
-    <e><p><l>Bahrain<s n="np"/></l><r>Bahrain<s n="np"/></r></p></e>
     <e><p><l>Bahus<s n="np"/></l><r>Bahus<s n="np"/></r></p></e>
     <e><p><l>Bahía<s n="np"/></l><r>Bahía<s n="np"/></r></p></e>
     <e><p><l>Baird<s n="np"/></l><r>Baird<s n="np"/></r></p></e>
@@ -11332,7 +11503,6 @@
     <e><p><l>Bangalore<s n="np"/></l><r>Bangalore<s n="np"/></r></p></e>
     <e><p><l>Bangemann<s n="np"/></l><r>Bangemann<s n="np"/></r></p></e>
     <e><p><l>Bangkok<s n="np"/></l><r>Bangkok<s n="np"/></r></p></e>
-    <e><p><l>Bangladesh<s n="np"/></l><r>Bangladesh<s n="np"/></r></p></e>
     <e><p><l>Bangor<s n="np"/></l><r>Bangor<s n="np"/></r></p></e>
     <e><p><l>Bangsjøan<s n="np"/></l><r>Bangsjøan<s n="np"/></r></p></e>
     <e><p><l>Bangstad<s n="np"/></l><r>Bangstad<s n="np"/></r></p></e>
@@ -11351,7 +11521,6 @@
     <e><p><l>Baraka<s n="np"/></l><r>Baraka<s n="np"/></r></p></e>
     <e><p><l>Barakia<s n="np"/></l><r>Barakia<s n="np"/></r></p></e>
     <e><p><l>Barakja<s n="np"/></l><r>Barakja<s n="np"/></r></p></e>
-    <e><p><l>Barbados<s n="np"/></l><r>Barbados<s n="np"/></r></p></e>
     <e><p><l>Barbara<s n="np"/></l><r>Barbara<s n="np"/></r></p></e>
     <e><p><l>Barbarossa<s n="np"/></l><r>Barbarossa<s n="np"/></r></p></e>
     <e><p><l>Barbarossaplanen<s n="np"/></l><r>Barbarossaplanen<s n="np"/></r></p></e>
@@ -11564,13 +11733,11 @@
     <e><p><l>Beldibi<s n="np"/></l><r>Beldibi<s n="np"/></r></p></e>
     <e><p><l>Beldo<s n="np"/></l><r>Beldo<s n="np"/></r></p></e>
     <e><p><l>Belfast<s n="np"/></l><r>Belfast<s n="np"/></r></p></e>
-    <e><p><l>Belgia<s n="np"/></l><r>Belgia<s n="np"/></r></p></e>
     <e><p><l>Belgisk<s n="np"/></l><r>Belgisk<s n="np"/></r></p></e>
     <e><p><l>Belgorod<s n="np"/></l><r>Belgorod<s n="np"/></r></p></e>
     <e><p><l>Belgrad<s n="np"/></l><r>Belgrad<s n="np"/></r></p></e>
     <e><p><l>Beliar<s n="np"/></l><r>Beliar<s n="np"/></r></p></e>
     <e><p><l>Belinda<s n="np"/></l><r>Belinda<s n="np"/></r></p></e>
-    <e><p><l>Belize<s n="np"/></l><r>Belize<s n="np"/></r></p></e>
     <e><p><l>Beljaeva<s n="np"/></l><r>Beljaeva<s n="np"/></r></p></e>
     <e><p><l>Bell<s n="np"/></l><r>Bell<s n="np"/></r></p></e>
     <e><p><l>Bella<b/>Coola<s n="np"/></l><r>Bella<b/>Coola<s n="np"/></r></p></e>
@@ -11626,7 +11793,6 @@
     <e><p><l>Bengtsson<s n="np"/></l><r>Bengtsson<s n="np"/></r></p></e>
     <e><p><l>Benguela<s n="np"/></l><r>Benguela<s n="np"/></r></p></e>
     <e><p><l>Benidorm<s n="np"/></l><r>Benidorm<s n="np"/></r></p></e>
-    <e><p><l>Benin<s n="np"/></l><r>Benin<s n="np"/></r></p></e>
     <e><p><l>Benita<s n="np"/></l><r>Benita<s n="np"/></r></p></e>
     <e><p><l>Benjamin<s n="np"/></l><r>Benjamin<s n="np"/></r></p></e>
     <e><p><l>Benjaminsen<s n="np"/></l><r>Benjaminsen<s n="np"/></r></p></e>
@@ -11846,7 +12012,6 @@
     <e><p><l>Bharucha<s n="np"/></l><r>Bharucha<s n="np"/></r></p></e>
     <e><p><l>Bhatia<s n="np"/></l><r>Bhatia<s n="np"/></r></p></e>
     <e><p><l>Bhopal<s n="np"/></l><r>Bhopal<s n="np"/></r></p></e>
-    <e><p><l>Bhutan<s n="np"/></l><r>Bhutan<s n="np"/></r></p></e>
     <e><p><l>Biafra<s n="np"/></l><r>Biafra<s n="np"/></r></p></e>
     <e><p><l>Bialowieza<s n="np"/></l><r>Bialowieza<s n="np"/></r></p></e>
     <e><p><l>Bialystok<s n="np"/></l><r>Bialystok<s n="np"/></r></p></e>
@@ -12301,7 +12466,6 @@
     <e><p><l>Bolga<s n="np"/></l><r>Bolga<s n="np"/></r></p></e>
     <e><p><l>Boliden<s n="np"/></l><r>Boliden<s n="np"/></r></p></e>
     <e><p><l>Bolin<s n="np"/></l><r>Bolin<s n="np"/></r></p></e>
-    <e><p><l>Bolivia<s n="np"/></l><r>Bolivia<s n="np"/></r></p></e>
     <e><p><l>Bolkesjø<s n="np"/></l><r>Bolkesjø<s n="np"/></r></p></e>
     <e><p><l>Boll<s n="np"/></l><r>Boll<s n="np"/></r></p></e>
     <e><p><l>Bolla<s n="np"/></l><r>Bolla<s n="np"/></r></p></e>
@@ -12427,7 +12591,6 @@
     <e><p><l>Bosberg<s n="np"/></l><r>Bosberg<s n="np"/></r></p></e>
     <e><p><l>Bosettingen<s n="np"/></l><r>Bosettingen<s n="np"/></r></p></e>
     <e><p><l>Bosettingsråd<s n="np"/></l><r>Bosettingsråd<s n="np"/></r></p></e>
-    <e><p><l>Bosnia-Hercegovina<s n="np"/></l><r>Bosnia-Hercegovina<s n="np"/></r></p></e>
     <e><p><l>Bosnia<s n="np"/></l><r>Bosnia<s n="np"/></r></p></e>
     <e><p><l>Bosora<s n="np"/></l><r>Bosora<s n="np"/></r></p></e>
     <e><p><l>Bosporos<s n="np"/></l><r>Bosporos<s n="np"/></r></p></e>
@@ -12452,7 +12615,6 @@
     <e><p><l>Botngarden<s n="np"/></l><r>Botngarden<s n="np"/></r></p></e>
     <e><p><l>Botngård<s n="np"/></l><r>Botngård<s n="np"/></r></p></e>
     <e><p><l>Botnhamn<s n="np"/></l><r>Botnhamn<s n="np"/></r></p></e>
-    <e><p><l>Botswana<s n="np"/></l><r>Botswana<s n="np"/></r></p></e>
     <e><p><l>Botten<s n="np"/></l><r>Botten<s n="np"/></r></p></e>
     <e><p><l>Bottenhavet<s n="np"/></l><r>Bottenhavet<s n="np"/></r></p></e>
     <e><p><l>Bottenvika<s n="np"/></l><r>Bottenvika<s n="np"/></r></p></e>
@@ -12552,7 +12714,6 @@
     <e><p><l>Brashavn<s n="np"/></l><r>Brashavn<s n="np"/></r></p></e>
     <e><p><l>Brasier<s n="np"/></l><r>Brasier<s n="np"/></r></p></e>
     <e><p><l>Brasil<s n="np"/></l><r>Brasil<s n="np"/></r></p></e>
-    <e><p><l>Brasilia<s n="np"/></l><r>Brasilia<s n="np"/></r></p></e>
     <e><p><l>Braskereid<s n="np"/></l><r>Braskereid<s n="np"/></r></p></e>
     <e><p><l>Braskereidfoss<s n="np"/></l><r>Braskereidfoss<s n="np"/></r></p></e>
     <e><p><l>Brasov<s n="np"/></l><r>Brasov<s n="np"/></r></p></e>
@@ -12782,7 +12943,6 @@
     <e><p><l>Brunborg<s n="np"/></l><r>Brunborg<s n="np"/></r></p></e>
     <e><p><l>Brunchhorst<s n="np"/></l><r>Brunchhorst<s n="np"/></r></p></e>
     <e><p><l>Brundtland<s n="np"/></l><r>Brundtland<s n="np"/></r></p></e>
-    <e><p><l>Brunei<s n="np"/></l><r>Brunei<s n="np"/></r></p></e>
     <e><p><l>Bruner<s n="np"/></l><r>Bruner<s n="np"/></r></p></e>
     <e><p><l>Brunes<s n="np"/></l><r>Brunes<s n="np"/></r></p></e>
     <e><p><l>Brunila<s n="np"/></l><r>Brunila<s n="np"/></r></p></e>
@@ -12933,7 +13093,6 @@
     <e><p><l>Bulawayo<s n="np"/></l><r>Bulawayo<s n="np"/></r></p></e>
     <e><p><l>Bulbeck<s n="np"/></l><r>Bulbeck<s n="np"/></r></p></e>
     <e><p><l>Bulbjerg<s n="np"/></l><r>Bulbjerg<s n="np"/></r></p></e>
-    <e><p><l>Bulgaria<s n="np"/></l><r>Bulgaria<s n="np"/></r></p></e>
     <e><p><l>Bulgarian<b/>voices<s n="np"/></l><r>Bulgarian<b/>voices<s n="np"/></r></p></e>
     <e><p><l>Buljo<s n="np"/></l><r>Buljo<s n="np"/></r></p></e>
     <e><p><l>Bulken<s n="np"/></l><r>Bulken<s n="np"/></r></p></e>
@@ -12978,7 +13137,6 @@
     <e><p><l>Burton<s n="np"/></l><r>Burton<s n="np"/></r></p></e>
     <e><p><l>Burträsk<s n="np"/></l><r>Burträsk<s n="np"/></r></p></e>
     <e><p><l>Burud<s n="np"/></l><r>Burud<s n="np"/></r></p></e>
-    <e><p><l>Burundi<s n="np"/></l><r>Burundi<s n="np"/></r></p></e>
     <e><p><l>Bury<s n="np"/></l><r>Bury<s n="np"/></r></p></e>
     <e><p><l>Burøysund<s n="np"/></l><r>Burøysund<s n="np"/></r></p></e>
     <e><p><l>Busby<b/>babes<s n="np"/></l><r>Busby<b/>babes<s n="np"/></r></p></e>
@@ -13297,7 +13455,6 @@
     <e><p><l>Ceylon<s n="np"/></l><r>Ceylon<s n="np"/></r></p></e>
     <e><p><l>Chablis<s n="np"/></l><r>Chablis<s n="np"/></r></p></e>
     <e><p><l>Chaco<s n="np"/></l><r>Chaco<s n="np"/></r></p></e>
-    <e><p><l>Chad<s n="np"/></l><r>Chad<s n="np"/></r></p></e>
     <e><p><l>Chaigneau-Brasier<s n="np"/></l><r>Chaigneau-Brasier<s n="np"/></r></p></e>
     <e><p><l>Chaka<s n="np"/></l><r>Chaka<s n="np"/></r></p></e>
     <e><p><l>Chambers<s n="np"/></l><r>Chambers<s n="np"/></r></p></e>
@@ -13376,7 +13533,6 @@
     <e><p><l>Chiclayo<s n="np"/></l><r>Chiclayo<s n="np"/></r></p></e>
     <e><p><l>Chief<b/>Seattle<s n="np"/></l><r>Chief<b/>Seattle<s n="np"/></r></p></e>
     <e><p><l>Chihuahua<s n="np"/></l><r>Chihuahua<s n="np"/></r></p></e>
-    <e><p><l>Chile<s n="np"/></l><r>Chile<s n="np"/></r></p></e>
     <e><p><l>Chilia<s n="np"/></l><r>Chilia<s n="np"/></r></p></e>
     <e><p><l>Chillán<s n="np"/></l><r>Chillán<s n="np"/></r></p></e>
     <e><p><l>Chimborazo<s n="np"/></l><r>Chimborazo<s n="np"/></r></p></e>
@@ -13635,7 +13791,6 @@
     <e><p><l>Cortés<s n="np"/></l><r>Cortés<s n="np"/></r></p></e>
     <e><p><l>Coruña<s n="np"/></l><r>Coruña<s n="np"/></r></p></e>
     <e><p><l>Cosenza<s n="np"/></l><r>Cosenza<s n="np"/></r></p></e>
-    <e><p><l>Costa<b/>Rica<s n="np"/></l><r>Costa<b/>Rica<s n="np"/></r></p></e>
     <e><p><l>Costa<s n="np"/></l><r>Costa<s n="np"/></r></p></e>
     <e><p><l>Cotentin<s n="np"/></l><r>Cotentin<s n="np"/></r></p></e>
     <e><p><l>Cotonou<s n="np"/></l><r>Cotonou<s n="np"/></r></p></e>
@@ -14114,7 +14269,6 @@
     <e><p><l>Djakarta<s n="np"/></l><r>Djakarta<s n="np"/></r></p></e>
     <e><p><l>Djengis<s n="np"/></l><r>Djengis<s n="np"/></r></p></e>
     <e><p><l>Djerba<s n="np"/></l><r>Djerba<s n="np"/></r></p></e>
-    <e><p><l>Djibouti<s n="np"/></l><r>Djibouti<s n="np"/></r></p></e>
     <e><p><l>Djin<b/>Djin<s n="np"/></l><r>Djin<b/>Djin<s n="np"/></r></p></e>
     <e><p><l>Djokjakarta<s n="np"/></l><r>Djokjakarta<s n="np"/></r></p></e>
     <e><p><l>Djupdalen<s n="np"/></l><r>Djupdalen<s n="np"/></r></p></e>
@@ -14170,7 +14324,6 @@
     <e><p><l>Domen<s n="np"/></l><r>Domen<s n="np"/></r></p></e>
     <e><p><l>Domenico<s n="np"/></l><r>Domenico<s n="np"/></r></p></e>
     <e><p><l>Domingo<s n="np"/></l><r>Domingo<s n="np"/></r></p></e>
-    <e><p><l>Dominica<s n="np"/></l><r>Dominica<s n="np"/></r></p></e>
     <e><p><l>Dominikaaninen<s n="np"/></l><r>Dominikaaninen<s n="np"/></r></p></e>
     <e><p><l>Dominikus<s n="np"/></l><r>Dominikus<s n="np"/></r></p></e>
     <e><p><l>Dominium<s n="np"/></l><r>Dominium<s n="np"/></r></p></e>
@@ -14479,7 +14632,6 @@
     <e><p><l>Econ<s n="np"/></l><r>Econ<s n="np"/></r></p></e>
     <e><p><l>Economist<s n="np"/></l><r>Economist<s n="np"/></r></p></e>
     <e><p><l>Ecosoc<s n="np"/></l><r>Ecosoc<s n="np"/></r></p></e>
-    <e><p><l>Ecuador<s n="np"/></l><r>Ecuador<s n="np"/></r></p></e>
     <e><p><l>Ed<s n="np"/></l><r>Ed<s n="np"/></r></p></e>
     <e><p><l>Edam<s n="np"/></l><r>Edam<s n="np"/></r></p></e>
     <e><p><l>Edda<s n="np"/></l><r>Edda<s n="np"/></r></p></e>
@@ -14763,7 +14915,6 @@
     <e><p><l>Ektepaktregisteret<s n="np"/></l><r>Ektepaktregisteret<s n="np"/></r></p></e>
     <e><p><l>Ekvatorial-Guinea<s n="np"/></l><r>Ekvatorial-Guinea<s n="np"/></r></p></e>
     <e><p><l>El-Haddad<s n="np"/></l><r>El-Haddad<s n="np"/></r></p></e>
-    <e><p><l>El<b/>Salvador<s n="np"/></l><r>El<b/>Salvador<s n="np"/></r></p></e>
     <e><p><l>El<s n="np"/></l><r>El<s n="np"/></r></p></e>
     <e><p><l>ElMansur<s n="np"/></l><r>ElMansur<s n="np"/></r></p></e>
     <e><p><l>ElTele<s n="np"/></l><r>ElTele<s n="np"/></r></p></e>
@@ -15136,7 +15287,6 @@
     <e><p><l>Erikstad<s n="np"/></l><r>Erikstad<s n="np"/></r></p></e>
     <e><p><l>Erikstellet<s n="np"/></l><r>Erikstellet<s n="np"/></r></p></e>
     <e><p><l>Erindringen<s n="np"/></l><r>Erindringen<s n="np"/></r></p></e>
-    <e><p><l>Eritrea<s n="np"/></l><r>Eritrea<s n="np"/></r></p></e>
     <e><p><l>Erke<s n="np"/></l><r>Erke<s n="np"/></r></p></e>
     <e><p><l>Erkinaro<s n="np"/></l><r>Erkinaro<s n="np"/></r></p></e>
     <e><p><l>Erkke<s n="np"/></l><r>Erkke<s n="np"/></r></p></e>
@@ -15269,7 +15419,6 @@
     <e><p><l>Eteläpää<s n="np"/></l><r>Eteläpää<s n="np"/></r></p></e>
     <e><p><l>Ethel<s n="np"/></l><r>Ethel<s n="np"/></r></p></e>
     <e><p><l>Ethernet<s n="np"/></l><r>Ethernet<s n="np"/></r></p></e>
-    <e><p><l>Etiopia<s n="np"/></l><r>Etiopia<s n="np"/></r></p></e>
     <e><p><l>Etna<s n="np"/></l><r>Etna<s n="np"/></r></p></e>
     <e><p><l>Etne<s n="np"/></l><r>Etne<s n="np"/></r></p></e>
     <e><p><l>Etnedal<s n="np"/></l><r>Etnedal<s n="np"/></r></p></e>
@@ -16500,7 +16649,6 @@
     <e><p><l>Gaardsvold<s n="np"/></l><r>Gaardsvold<s n="np"/></r></p></e>
     <e><p><l>Gaare<s n="np"/></l><r>Gaare<s n="np"/></r></p></e>
     <e><p><l>Gabbata<s n="np"/></l><r>Gabbata<s n="np"/></r></p></e>
-    <e><p><l>Gabon<s n="np"/></l><r>Gabon<s n="np"/></r></p></e>
     <e><p><l>Gaborone<s n="np"/></l><r>Gaborone<s n="np"/></r></p></e>
     <e><p><l>Gabriel<s n="np"/></l><r>Gabriel<s n="np"/></r></p></e>
     <e><p><l>Gabriela<s n="np"/></l><r>Gabriela<s n="np"/></r></p></e>
@@ -16565,7 +16713,6 @@
     <e><p><l>Gama<s n="np"/></l><r>Gama<s n="np"/></r></p></e>
     <e><p><l>Gamaliel<s n="np"/></l><r>Gamaliel<s n="np"/></r></p></e>
     <e><p><l>Gamaliela<s n="np"/></l><r>Gamaliela<s n="np"/></r></p></e>
-    <e><p><l>Gambia<s n="np"/></l><r>Gambia<s n="np"/></r></p></e>
     <e><p><l>Gambosjövika<s n="np"/></l><r>Gambosjövika<s n="np"/></r></p></e>
     <e><p><l>Gambukt<s n="np"/></l><r>Gambukt<s n="np"/></r></p></e>
     <e><p><l>Games<s n="np"/></l><r>Games<s n="np"/></r></p></e>
@@ -16765,7 +16912,6 @@
     <e><p><l>George<s n="np"/></l><r>George<s n="np"/></r></p></e>
     <e><p><l>Georges<b/>Richard<s n="np"/></l><r>Georges<b/>Richard<s n="np"/></r></p></e>
     <e><p><l>Georgetown<s n="np"/></l><r>Georgetown<s n="np"/></r></p></e>
-    <e><p><l>Georgia<s n="np"/></l><r>Georgia<s n="np"/></r></p></e>
     <e><p><l>Georgij<s n="np"/></l><r>Georgij<s n="np"/></r></p></e>
     <e><p><l>Georgius<s n="np"/></l><r>Georgius<s n="np"/></r></p></e>
     <e><p><l>Georgsen<s n="np"/></l><r>Georgsen<s n="np"/></r></p></e>
@@ -16807,7 +16953,6 @@
     <e><p><l>Geving<s n="np"/></l><r>Geving<s n="np"/></r></p></e>
     <e><p><l>Geysir<s n="np"/></l><r>Geysir<s n="np"/></r></p></e>
     <e><p><l>Gezelius<s n="np"/></l><r>Gezelius<s n="np"/></r></p></e>
-    <e><p><l>Ghana<s n="np"/></l><r>Ghana<s n="np"/></r></p></e>
     <e><p><l>Ghats<s n="np"/></l><r>Ghats<s n="np"/></r></p></e>
     <e><p><l>Ghaza<s n="np"/></l><r>Ghaza<s n="np"/></r></p></e>
     <e><p><l>Ghita<s n="np"/></l><r>Ghita<s n="np"/></r></p></e>
@@ -17194,7 +17339,6 @@
     <e><p><l>Greiner<s n="np"/></l><r>Greiner<s n="np"/></r></p></e>
     <e><p><l>Grekenland<s n="np"/></l><r>Grekenland<s n="np"/></r></p></e>
     <e><p><l>Grenaa<s n="np"/></l><r>Grenaa<s n="np"/></r></p></e>
-    <e><p><l>Grenada<s n="np"/></l><r>Grenada<s n="np"/></r></p></e>
     <e><p><l>Grendse-Tractaten<s n="np"/></l><r>Grendse-Tractaten<s n="np"/></r></p></e>
     <e><p><l>Grenen<s n="np"/></l><r>Grenen<s n="np"/></r></p></e>
     <e><p><l>Grenland<s n="np"/></l><r>Grenland<s n="np"/></r></p></e>
@@ -17412,7 +17556,6 @@
     <e><p><l>Guaporé<s n="np"/></l><r>Guaporé<s n="np"/></r></p></e>
     <e><p><l>Guardafui<s n="np"/></l><r>Guardafui<s n="np"/></r></p></e>
     <e><p><l>Guardia<s n="np"/></l><r>Guardia<s n="np"/></r></p></e>
-    <e><p><l>Guatemala<s n="np"/></l><r>Guatemala<s n="np"/></r></p></e>
     <e><p><l>Guayaquil<s n="np"/></l><r>Guayaquil<s n="np"/></r></p></e>
     <e><p><l>Gubbseleberget<s n="np"/></l><r>Gubbseleberget<s n="np"/></r></p></e>
     <e><p><l>Gucci<s n="np"/></l><r>Gucci<s n="np"/></r></p></e>
@@ -17446,8 +17589,6 @@
     <e><p><l>Guildford<s n="np"/></l><r>Guildford<s n="np"/></r></p></e>
     <e><p><l>Guilin<s n="np"/></l><r>Guilin<s n="np"/></r></p></e>
     <e><p><l>Guilini<s n="np"/></l><r>Guilini<s n="np"/></r></p></e>
-    <e><p><l>Guinea-Bissau<s n="np"/></l><r>Guinea-Bissau<s n="np"/></r></p></e>
-    <e><p><l>Guinea<s n="np"/></l><r>Guinea<s n="np"/></r></p></e>
     <e><p><l>Guipúzcoa<s n="np"/></l><r>Guipúzcoa<s n="np"/></r></p></e>
     <e><p><l>Guise<s n="np"/></l><r>Guise<s n="np"/></r></p></e>
     <e><p><l>Guiyang<s n="np"/></l><r>Guiyang<s n="np"/></r></p></e>
@@ -17568,7 +17709,6 @@
     <e><p><l>Gutvik<s n="np"/></l><r>Gutvik<s n="np"/></r></p></e>
     <e><p><l>Guvsam<s n="np"/></l><r>Guvsam<s n="np"/></r></p></e>
     <e><p><l>Guvåg<s n="np"/></l><r>Guvåg<s n="np"/></r></p></e>
-    <e><p><l>Guyana<s n="np"/></l><r>Guyana<s n="np"/></r></p></e>
     <e><p><l>Gvarv<s n="np"/></l><r>Gvarv<s n="np"/></r></p></e>
     <e><p><l>Gvorrsjöbäcken<s n="np"/></l><r>Gvorrsjöbäcken<s n="np"/></r></p></e>
     <e><p><l>Gvorrsjön<s n="np"/></l><r>Gvorrsjön<s n="np"/></r></p></e>
@@ -17793,7 +17933,6 @@
     <e><p><l>Hainan<s n="np"/></l><r>Hainan<s n="np"/></r></p></e>
     <e><p><l>Haiphong<s n="np"/></l><r>Haiphong<s n="np"/></r></p></e>
     <e><p><l>Haipus<s n="np"/></l><r>Haipus<s n="np"/></r></p></e>
-    <e><p><l>Haiti<s n="np"/></l><r>Haiti<s n="np"/></r></p></e>
     <e><p><l>Hajduk<s n="np"/></l><r>Hajduk<s n="np"/></r></p></e>
     <e><p><l>Haka<s n="np"/></l><r>Haka<s n="np"/></r></p></e>
     <e><p><l>Hakadal<s n="np"/></l><r>Hakadal<s n="np"/></r></p></e>
@@ -19301,7 +19440,6 @@
     <e><p><l>Honan<s n="np"/></l><r>Honan<s n="np"/></r></p></e>
     <e><p><l>Honda<s n="np"/></l><r>Honda<s n="np"/></r></p></e>
     <e><p><l>Hondo<s n="np"/></l><r>Hondo<s n="np"/></r></p></e>
-    <e><p><l>Honduras<s n="np"/></l><r>Honduras<s n="np"/></r></p></e>
     <e><p><l>Honerud<s n="np"/></l><r>Honerud<s n="np"/></r></p></e>
     <e><p><l>Honerød<s n="np"/></l><r>Honerød<s n="np"/></r></p></e>
     <e><p><l>Hong<s n="np"/></l><r>Hong<s n="np"/></r></p></e>
@@ -20125,7 +20263,6 @@
     <e><p><l>Independence<s n="np"/></l><r>Independence<s n="np"/></r></p></e>
     <e><p><l>Inderøy<s n="np"/></l><r>Inderøy<s n="np"/></r></p></e>
     <e><p><l>Indgjerd<s n="np"/></l><r>Indgjerd<s n="np"/></r></p></e>
-    <e><p><l>India<s n="np"/></l><r>India<s n="np"/></r></p></e>
     <e><p><l>Indiana<s n="np"/></l><r>Indiana<s n="np"/></r></p></e>
     <e><p><l>Indianapolis<s n="np"/></l><r>Indianapolis<s n="np"/></r></p></e>
     <e><p><l>Indigenous<b/>Studies<s n="np"/></l><r>Indigenous<b/>Studies<s n="np"/></r></p></e>
@@ -20135,7 +20272,6 @@
     <e><p><l>Indira<s n="np"/></l><r>Indira<s n="np"/></r></p></e>
     <e><p><l>Indiville<s n="np"/></l><r>Indiville<s n="np"/></r></p></e>
     <e><p><l>Indokina<s n="np"/></l><r>Indokina<s n="np"/></r></p></e>
-    <e><p><l>Indonesia<s n="np"/></l><r>Indonesia<s n="np"/></r></p></e>
     <e><p><l>Indra<s n="np"/></l><r>Indra<s n="np"/></r></p></e>
     <e><p><l>Indre-Finnmark<s n="np"/></l><r>Indre-Finnmark<s n="np"/></r></p></e>
     <e><p><l>Indre<s n="np"/></l><r>Indre<s n="np"/></r></p></e>
@@ -20303,11 +20439,9 @@
     <e><p><l>Iquique<s n="np"/></l><r>Iquique<s n="np"/></r></p></e>
     <e><p><l>Iquitos<s n="np"/></l><r>Iquitos<s n="np"/></r></p></e>
     <e><p><l>Irad<s n="np"/></l><r>Irad<s n="np"/></r></p></e>
-    <e><p><l>Irak<s n="np"/></l><r>Irak<s n="np"/></r></p></e>
     <e><p><l>Iraklion<s n="np"/></l><r>Iraklion<s n="np"/></r></p></e>
     <e><p><l>Iralu<s n="np"/></l><r>Iralu<s n="np"/></r></p></e>
     <e><p><l>Iram<s n="np"/></l><r>Iram<s n="np"/></r></p></e>
-    <e><p><l>Iran<s n="np"/></l><r>Iran<s n="np"/></r></p></e>
     <e><p><l>Irapuato<s n="np"/></l><r>Irapuato<s n="np"/></r></p></e>
     <e><p><l>Irbil<s n="np"/></l><r>Irbil<s n="np"/></r></p></e>
     <e><p><l>Iren<s n="np"/></l><r>Iren<s n="np"/></r></p></e>
@@ -20405,7 +20539,6 @@
     <e><p><l>Isotalus<s n="np"/></l><r>Isotalus<s n="np"/></r></p></e>
     <e><p><l>Isotupa<s n="np"/></l><r>Isotupa<s n="np"/></r></p></e>
     <e><p><l>Isoviita<s n="np"/></l><r>Isoviita<s n="np"/></r></p></e>
-    <e><p><l>Israel<s n="np"/></l><r>Israel<s n="np"/></r></p></e>
     <e><p><l>Israelsson<s n="np"/></l><r>Israelsson<s n="np"/></r></p></e>
     <e><p><l>Issakainen<s n="np"/></l><r>Issakainen<s n="np"/></r></p></e>
     <e><p><l>Issakar<s n="np"/></l><r>Issakar<s n="np"/></r></p></e>
@@ -20418,7 +20551,6 @@
     <e><p><l>Isuzu<s n="np"/></l><r>Isuzu<s n="np"/></r></p></e>
     <e><p><l>Isvik<s n="np"/></l><r>Isvik<s n="np"/></r></p></e>
     <e><p><l>Itaipú<s n="np"/></l><r>Itaipú<s n="np"/></r></p></e>
-    <e><p><l>Italia<s n="np"/></l><r>Italia<s n="np"/></r></p></e>
     <e><p><l>Ithaca<s n="np"/></l><r>Ithaca<s n="np"/></r></p></e>
     <e><p><l>Itkonen<s n="np"/></l><r>Itkonen<s n="np"/></r></p></e>
     <e><p><l>Ittoqqortoormiit<s n="np"/></l><r>Ittoqqortoormiit<s n="np"/></r></p></e>
@@ -20544,7 +20676,6 @@
     <e><p><l>Jalovaara<s n="np"/></l><r>Jalovaara<s n="np"/></r></p></e>
     <e><p><l>Jalta<s n="np"/></l><r>Jalta<s n="np"/></r></p></e>
     <e><p><l>Jama<s n="np"/></l><r>Jama<s n="np"/></r></p></e>
-    <e><p><l>Jamaica<s n="np"/></l><r>Jamaica<s n="np"/></r></p></e>
     <e><p><l>Jamal<s n="np"/></l><r>Jamal<s n="np"/></r></p></e>
     <e><p><l>Jamalo-Nenetsk<s n="np"/></l><r>Jamalo-Nenetsk<s n="np"/></r></p></e>
     <e><p><l>Jambres<s n="np"/></l><r>Jambres<s n="np"/></r></p></e>
@@ -20687,7 +20818,6 @@
     <e><p><l>Jelti<s n="np"/></l><r>Jelti<s n="np"/></r></p></e>
     <e><p><l>Jeltsin<s n="np"/></l><r>Jeltsin<s n="np"/></r></p></e>
     <e><p><l>Jelved<s n="np"/></l><r>Jelved<s n="np"/></r></p></e>
-    <e><p><l>Jemen<s n="np"/></l><r>Jemen<s n="np"/></r></p></e>
     <e><p><l>Jemt<s n="np"/></l><r>Jemt<s n="np"/></r></p></e>
     <e><p><l>Jemuel<s n="np"/></l><r>Jemuel<s n="np"/></r></p></e>
     <e><p><l>Jena<s n="np"/></l><r>Jena<s n="np"/></r></p></e>
@@ -21514,7 +21644,6 @@
     <e><p><l>Kambo<s n="np"/></l><r>Kambo<s n="np"/></r></p></e>
     <e><p><l>Kambodja<s n="np"/></l><r>Kambodja<s n="np"/></r></p></e>
     <e><p><l>Kambodsja<s n="np"/></l><r>Kambodsja<s n="np"/></r></p></e>
-    <e><p><l>Kamerun<s n="np"/></l><r>Kamerun<s n="np"/></r></p></e>
     <e><p><l>Kamil<s n="np"/></l><r>Kamil<s n="np"/></r></p></e>
     <e><p><l>Kamila<s n="np"/></l><r>Kamila<s n="np"/></r></p></e>
     <e><p><l>Kamilla<s n="np"/></l><r>Kamilla<s n="np"/></r></p></e>
@@ -21538,7 +21667,6 @@
     <e><p><l>Kana<s n="np"/></l><r>Kana<s n="np"/></r></p></e>
     <e><p><l>Kanaan<s n="np"/></l><r>Kanaan<s n="np"/></r></p></e>
     <e><p><l>Kanaby<s n="np"/></l><r>Kanaby<s n="np"/></r></p></e>
-    <e><p><l>Kanada<s n="np"/></l><r>Kanada<s n="np"/></r></p></e>
     <e><p><l>Kanai<s n="np"/></l><r>Kanai<s n="np"/></r></p></e>
     <e><p><l>Kanajim<s n="np"/></l><r>Kanajim<s n="np"/></r></p></e>
     <e><p><l>Kanako<s n="np"/></l><r>Kanako<s n="np"/></r></p></e>
@@ -21623,7 +21751,6 @@
     <e><p><l>Kantornes<s n="np"/></l><r>Kantornes<s n="np"/></r></p></e>
     <e><p><l>Kaohsiung<s n="np"/></l><r>Kaohsiung<s n="np"/></r></p></e>
     <e><p><l>Kaos<s n="np"/></l><r>Kaos<s n="np"/></r></p></e>
-    <e><p><l>Kap<b/>Verde<s n="np"/></l><r>Kap<b/>Verde<s n="np"/></r></p></e>
     <e><p><l>Kap<s n="np"/></l><r>Kap<s n="np"/></r></p></e>
     <e><p><l>Kapanen<s n="np"/></l><r>Kapanen<s n="np"/></r></p></e>
     <e><p><l>Kapelrud<s n="np"/></l><r>Kapelrud<s n="np"/></r></p></e>
@@ -21927,7 +22054,6 @@
     <e><p><l>Kayed<s n="np"/></l><r>Kayed<s n="np"/></r></p></e>
     <e><p><l>Kayin<s n="np"/></l><r>Kayin<s n="np"/></r></p></e>
     <e><p><l>Kayseri<s n="np"/></l><r>Kayseri<s n="np"/></r></p></e>
-    <e><p><l>Kazakstan<s n="np"/></l><r>Kazakstan<s n="np"/></r></p></e>
     <e><p><l>Kazan<s n="np"/></l><r>Kazan<s n="np"/></r></p></e>
     <e><p><l>Kazbek<s n="np"/></l><r>Kazbek<s n="np"/></r></p></e>
     <e><p><l>Kazimierz<s n="np"/></l><r>Kazimierz<s n="np"/></r></p></e>
@@ -22011,7 +22137,6 @@
     <e><p><l>Ken<s n="np"/></l><r>Ken<s n="np"/></r></p></e>
     <e><p><l>Kenan<s n="np"/></l><r>Kenan<s n="np"/></r></p></e>
     <e><p><l>Kendzior<s n="np"/></l><r>Kendzior<s n="np"/></r></p></e>
-    <e><p><l>Kenia<s n="np"/></l><r>Kenia<s n="np"/></r></p></e>
     <e><p><l>Kenkrea<s n="np"/></l><r>Kenkrea<s n="np"/></r></p></e>
     <e><p><l>Kenkreai<s n="np"/></l><r>Kenkreai<s n="np"/></r></p></e>
     <e><p><l>Kenkreas<s n="np"/></l><r>Kenkreas<s n="np"/></r></p></e>
@@ -22828,7 +22953,6 @@
     <e><p><l>Kolttaköngäs<s n="np"/></l><r>Kolttaköngäs<s n="np"/></r></p></e>
     <e><p><l>Koltur<s n="np"/></l><r>Koltur<s n="np"/></r></p></e>
     <e><p><l>Kolu<s n="np"/></l><r>Kolu<s n="np"/></r></p></e>
-    <e><p><l>Kolumbia<s n="np"/></l><r>Kolumbia<s n="np"/></r></p></e>
     <e><p><l>Kolvereid<s n="np"/></l><r>Kolvereid<s n="np"/></r></p></e>
     <e><p><l>Kolvik<s n="np"/></l><r>Kolvik<s n="np"/></r></p></e>
     <e><p><l>Kolwezi<s n="np"/></l><r>Kolwezi<s n="np"/></r></p></e>
@@ -22880,8 +23004,6 @@
     <e><p><l>Konghelle<s n="np"/></l><r>Konghelle<s n="np"/></r></p></e>
     <e><p><l>Konglevoll<s n="np"/></l><r>Konglevoll<s n="np"/></r></p></e>
     <e><p><l>Kongo-Brazzaville<s n="np"/></l><r>Kongo-Brazzaville<s n="np"/></r></p></e>
-    <e><p><l>Kongo<s n="np"/></l><r>Kongo<s n="np"/></r></p></e>
-    <e><p><l>Kongon<s n="np"/></l><r>Kongon<s n="np"/></r></p></e>
     <e><p><l>KongressPolen<s n="np"/></l><r>KongressPolen<s n="np"/></r></p></e>
     <e><p><l>Kongsbakk<s n="np"/></l><r>Kongsbakk<s n="np"/></r></p></e>
     <e><p><l>Kongsbakken<s n="np"/></l><r>Kongsbakken<s n="np"/></r></p></e>
@@ -23113,7 +23235,6 @@
     <e><p><l>Kosola<s n="np"/></l><r>Kosola<s n="np"/></r></p></e>
     <e><p><l>Kosonen<s n="np"/></l><r>Kosonen<s n="np"/></r></p></e>
     <e><p><l>Kosova<s n="np"/></l><r>Kosova<s n="np"/></r></p></e>
-    <e><p><l>Kosovo<s n="np"/></l><r>Kosovo<s n="np"/></r></p></e>
     <e><p><l>Koss<s n="np"/></l><r>Koss<s n="np"/></r></p></e>
     <e><p><l>Kossila<s n="np"/></l><r>Kossila<s n="np"/></r></p></e>
     <e><p><l>Kossund<s n="np"/></l><r>Kossund<s n="np"/></r></p></e>
@@ -23590,7 +23711,6 @@
     <e><p><l>Kuva<s n="np"/></l><r>Kuva<s n="np"/></r></p></e>
     <e><p><l>Kuvaja<s n="np"/></l><r>Kuvaja<s n="np"/></r></p></e>
     <e><p><l>Kuvatnet<s n="np"/></l><r>Kuvatnet<s n="np"/></r></p></e>
-    <e><p><l>Kuwait<s n="np"/></l><r>Kuwait<s n="np"/></r></p></e>
     <e><p><l>Kuza<s n="np"/></l><r>Kuza<s n="np"/></r></p></e>
     <e><p><l>Kuzbass<s n="np"/></l><r>Kuzbass<s n="np"/></r></p></e>
     <e><p><l>Kuznetsk<s n="np"/></l><r>Kuznetsk<s n="np"/></r></p></e>
@@ -23753,7 +23873,6 @@
     <e><p><l>Kyoto<s n="np"/></l><r>Kyoto<s n="np"/></r></p></e>
     <e><p><l>Kyperelva<s n="np"/></l><r>Kyperelva<s n="np"/></r></p></e>
     <e><p><l>Kypris<s n="np"/></l><r>Kypris<s n="np"/></r></p></e>
-    <e><p><l>Kypros<s n="np"/></l><r>Kypros<s n="np"/></r></p></e>
     <e><p><l>Kyrenaika<s n="np"/></l><r>Kyrenaika<s n="np"/></r></p></e>
     <e><p><l>Kyrenaikalandskap<s n="np"/></l><r>Kyrenaikalandskap<s n="np"/></r></p></e>
     <e><p><l>Kyrene<s n="np"/></l><r>Kyrene<s n="np"/></r></p></e>
@@ -24196,7 +24315,6 @@
     <e><p><l>Laodikeas<s n="np"/></l><r>Laodikeas<s n="np"/></r></p></e>
     <e><p><l>Laokoon<s n="np"/></l><r>Laokoon<s n="np"/></r></p></e>
     <e><p><l>Laon<s n="np"/></l><r>Laon<s n="np"/></r></p></e>
-    <e><p><l>Laos<s n="np"/></l><r>Laos<s n="np"/></r></p></e>
     <e><p><l>Laozi<s n="np"/></l><r>Laozi<s n="np"/></r></p></e>
     <e><p><l>Laphroaig<s n="np"/></l><r>Laphroaig<s n="np"/></r></p></e>
     <e><p><l>Lapin<s n="np"/></l><r>Lapin<s n="np"/></r></p></e>
@@ -24647,7 +24765,6 @@
     <e><p><l>Leskelä<s n="np"/></l><r>Leskelä<s n="np"/></r></p></e>
     <e><p><l>Leskinen<s n="np"/></l><r>Leskinen<s n="np"/></r></p></e>
     <e><p><l>Lesonen<s n="np"/></l><r>Lesonen<s n="np"/></r></p></e>
-    <e><p><l>Lesotho<s n="np"/></l><r>Lesotho<s n="np"/></r></p></e>
     <e><p><l>Lessebo<s n="np"/></l><r>Lessebo<s n="np"/></r></p></e>
     <e><p><l>Lestadius<s n="np"/></l><r>Lestadius<s n="np"/></r></p></e>
     <e><p><l>Lete<s n="np"/></l><r>Lete<s n="np"/></r></p></e>
@@ -24708,15 +24825,12 @@
     <e><p><l>Liaoyuan<s n="np"/></l><r>Liaoyuan<s n="np"/></r></p></e>
     <e><p><l>Liasand<s n="np"/></l><r>Liasand<s n="np"/></r></p></e>
     <e><p><l>Libak<s n="np"/></l><r>Libak<s n="np"/></r></p></e>
-    <e><p><l>Libanon<s n="np"/></l><r>Libanon<s n="np"/></r></p></e>
     <e><p><l>Liberg<s n="np"/></l><r>Liberg<s n="np"/></r></p></e>
-    <e><p><l>Liberia<s n="np"/></l><r>Liberia<s n="np"/></r></p></e>
     <e><p><l>Liberty<s n="np"/></l><r>Liberty<s n="np"/></r></p></e>
     <e><p><l>Liboklubben<s n="np"/></l><r>Liboklubben<s n="np"/></r></p></e>
     <e><p><l>Libreville<s n="np"/></l><r>Libreville<s n="np"/></r></p></e>
     <e><p><l>Libris<s n="np"/></l><r>Libris<s n="np"/></r></p></e>
     <e><p><l>Libru<s n="np"/></l><r>Libru<s n="np"/></r></p></e>
-    <e><p><l>Libya<s n="np"/></l><r>Libya<s n="np"/></r></p></e>
     <e><p><l>Lid<s n="np"/></l><r>Lid<s n="np"/></r></p></e>
     <e><p><l>Lidal<s n="np"/></l><r>Lidal<s n="np"/></r></p></e>
     <e><p><l>Lidice<s n="np"/></l><r>Lidice<s n="np"/></r></p></e>
@@ -24727,7 +24841,6 @@
     <e><p><l>Lidvard<s n="np"/></l><r>Lidvard<s n="np"/></r></p></e>
     <e><p><l>Lie<s n="np"/></l><r>Lie<s n="np"/></r></p></e>
     <e><p><l>Lieblein<s n="np"/></l><r>Lieblein<s n="np"/></r></p></e>
-    <e><p><l>Liechtenstein<s n="np"/></l><r>Liechtenstein<s n="np"/></r></p></e>
     <e><p><l>Lied<s n="np"/></l><r>Lied<s n="np"/></r></p></e>
     <e><p><l>Liedes<s n="np"/></l><r>Liedes<s n="np"/></r></p></e>
     <e><p><l>Liehu<s n="np"/></l><r>Liehu<s n="np"/></r></p></e>
@@ -24744,7 +24857,6 @@
     <e><p><l>Lierskogen<s n="np"/></l><r>Lierskogen<s n="np"/></r></p></e>
     <e><p><l>Liestøl<s n="np"/></l><r>Liestøl<s n="np"/></r></p></e>
     <e><p><l>Liet<s n="np"/></l><r>Liet<s n="np"/></r></p></e>
-    <e><p><l>Lietuva<s n="np"/></l><r>Lietuva<s n="np"/></r></p></e>
     <e><p><l>Lieungh<s n="np"/></l><r>Lieungh<s n="np"/></r></p></e>
     <e><p><l>Lievlamelven<s n="np"/></l><r>Lievlamelven<s n="np"/></r></p></e>
     <e><p><l>Lievonen<s n="np"/></l><r>Lievonen<s n="np"/></r></p></e>
@@ -25383,7 +25495,6 @@
     <e><p><l>Luuri<s n="np"/></l><r>Luuri<s n="np"/></r></p></e>
     <e><p><l>Luusua<s n="np"/></l><r>Luusua<s n="np"/></r></p></e>
     <e><p><l>Luxembourg<s n="np"/></l><r>Luxembourg<s n="np"/></r></p></e>
-    <e><p><l>Luxemburg<s n="np"/></l><r>Luxemburg<s n="np"/></r></p></e>
     <e><p><l>Luxor<s n="np"/></l><r>Luxor<s n="np"/></r></p></e>
     <e><p><l>Luytkis<s n="np"/></l><r>Luytkis<s n="np"/></r></p></e>
     <e><p><l>Luzern<s n="np"/></l><r>Luzern<s n="np"/></r></p></e>
@@ -25662,7 +25773,6 @@
     <e><p><l>Mack<s n="np"/></l><r>Mack<s n="np"/></r></p></e>
     <e><p><l>Mackin<s n="np"/></l><r>Mackin<s n="np"/></r></p></e>
     <e><p><l>Macody<s n="np"/></l><r>Macody<s n="np"/></r></p></e>
-    <e><p><l>Madagaskar<s n="np"/></l><r>Madagaskar<s n="np"/></r></p></e>
     <e><p><l>Madai<s n="np"/></l><r>Madai<s n="np"/></r></p></e>
     <e><p><l>Madam<b/>Bongo<s n="np"/></l><r>Madam<b/>Bongo<s n="np"/></r></p></e>
     <e><p><l>Madame<b/>Tussaud<s n="np"/></l><r>Madame<b/>Tussaud<s n="np"/></r></p></e>
@@ -25797,7 +25907,6 @@
     <e><p><l>Majuro<s n="np"/></l><r>Majuro<s n="np"/></r></p></e>
     <e><p><l>Makar<s n="np"/></l><r>Makar<s n="np"/></r></p></e>
     <e><p><l>Makassar<s n="np"/></l><r>Makassar<s n="np"/></r></p></e>
-    <e><p><l>Makedonia<s n="np"/></l><r>Makedonia<s n="np"/></r></p></e>
     <e><p><l>Makejevka<s n="np"/></l><r>Makejevka<s n="np"/></r></p></e>
     <e><p><l>Maken<s n="np"/></l><r>Maken<s n="np"/></r></p></e>
     <e><p><l>Makhatsjkala<s n="np"/></l><r>Makhatsjkala<s n="np"/></r></p></e>
@@ -25823,17 +25932,14 @@
     <e><p><l>Malangsgrunnen<s n="np"/></l><r>Malangsgrunnen<s n="np"/></r></p></e>
     <e><p><l>Malanseidet<s n="np"/></l><r>Malanseidet<s n="np"/></r></p></e>
     <e><p><l>Malatya<s n="np"/></l><r>Malatya<s n="np"/></r></p></e>
-    <e><p><l>Malawi<s n="np"/></l><r>Malawi<s n="np"/></r></p></e>
     <e><p><l>Malaysia<s n="np"/></l><r>Malaysia<s n="np"/></r></p></e>
     <e><p><l>Malbork<s n="np"/></l><r>Malbork<s n="np"/></r></p></e>
     <e><p><l>Malcolm<s n="np"/></l><r>Malcolm<s n="np"/></r></p></e>
     <e><p><l>Maldon<s n="np"/></l><r>Maldon<s n="np"/></r></p></e>
     <e><p><l>Malena<s n="np"/></l><r>Malena<s n="np"/></r></p></e>
     <e><p><l>Malene<s n="np"/></l><r>Malene<s n="np"/></r></p></e>
-    <e><p><l>Malesia<s n="np"/></l><r>Malesia<s n="np"/></r></p></e>
     <e><p><l>Malfrid<s n="np"/></l><r>Malfrid<s n="np"/></r></p></e>
     <e><p><l>Malgomajsjön<s n="np"/></l><r>Malgomajsjön<s n="np"/></r></p></e>
-    <e><p><l>Mali<s n="np"/></l><r>Mali<s n="np"/></r></p></e>
     <e><p><l>Malibu<s n="np"/></l><r>Malibu<s n="np"/></r></p></e>
     <e><p><l>Malik<s n="np"/></l><r>Malik<s n="np"/></r></p></e>
     <e><p><l>Malila<s n="np"/></l><r>Malila<s n="np"/></r></p></e>
@@ -25868,7 +25974,6 @@
     <e><p><l>Malmöhus<s n="np"/></l><r>Malmöhus<s n="np"/></r></p></e>
     <e><p><l>Malmø<s n="np"/></l><r>Malmø<s n="np"/></r></p></e>
     <e><p><l>Malo<s n="np"/></l><r>Malo<s n="np"/></r></p></e>
-    <e><p><l>Malta<s n="np"/></l><r>Malta<s n="np"/></r></p></e>
     <e><p><l>Maltrup<s n="np"/></l><r>Maltrup<s n="np"/></r></p></e>
     <e><p><l>Malu<s n="np"/></l><r>Malu<s n="np"/></r></p></e>
     <e><p><l>Malung<s n="np"/></l><r>Malung<s n="np"/></r></p></e>
@@ -26114,7 +26219,6 @@
     <e><p><l>Marna<s n="np"/></l><r>Marna<s n="np"/></r></p></e>
     <e><p><l>Marnardal<s n="np"/></l><r>Marnardal<s n="np"/></r></p></e>
     <e><p><l>Marne<s n="np"/></l><r>Marne<s n="np"/></r></p></e>
-    <e><p><l>Marokko<s n="np"/></l><r>Marokko<s n="np"/></r></p></e>
     <e><p><l>Maroni<s n="np"/></l><r>Maroni<s n="np"/></r></p></e>
     <e><p><l>Maros<s n="np"/></l><r>Maros<s n="np"/></r></p></e>
     <e><p><l>Maroua<s n="np"/></l><r>Maroua<s n="np"/></r></p></e>
@@ -26323,8 +26427,6 @@
     <e><p><l>Mauri<s n="np"/></l><r>Mauri<s n="np"/></r></p></e>
     <e><p><l>Maurice<s n="np"/></l><r>Maurice<s n="np"/></r></p></e>
     <e><p><l>Maurid<s n="np"/></l><r>Maurid<s n="np"/></r></p></e>
-    <e><p><l>Mauritania<s n="np"/></l><r>Mauritania<s n="np"/></r></p></e>
-    <e><p><l>Mauritius<s n="np"/></l><r>Mauritius<s n="np"/></r></p></e>
     <e><p><l>Maurits<s n="np"/></l><r>Maurits<s n="np"/></r></p></e>
     <e><p><l>Mauritz<s n="np"/></l><r>Mauritz<s n="np"/></r></p></e>
     <e><p><l>Maurnes<s n="np"/></l><r>Maurnes<s n="np"/></r></p></e>
@@ -26459,7 +26561,6 @@
     <e><p><l>Mekka<s n="np"/></l><r>Mekka<s n="np"/></r></p></e>
     <e><p><l>Meknès<s n="np"/></l><r>Meknès<s n="np"/></r></p></e>
     <e><p><l>Mekong<s n="np"/></l><r>Mekong<s n="np"/></r></p></e>
-    <e><p><l>Meksiko<s n="np"/></l><r>Meksiko<s n="np"/></r></p></e>
     <e><p><l>Mela<s n="np"/></l><r>Mela<s n="np"/></r></p></e>
     <e><p><l>Melaka<s n="np"/></l><r>Melaka<s n="np"/></r></p></e>
     <e><p><l>Melander<s n="np"/></l><r>Melander<s n="np"/></r></p></e>
@@ -26971,7 +27072,6 @@
     <e><p><l>Moldenhauer<s n="np"/></l><r>Moldenhauer<s n="np"/></r></p></e>
     <e><p><l>Moldestad<s n="np"/></l><r>Moldestad<s n="np"/></r></p></e>
     <e><p><l>Moldjord<s n="np"/></l><r>Moldjord<s n="np"/></r></p></e>
-    <e><p><l>Moldova<s n="np"/></l><r>Moldova<s n="np"/></r></p></e>
     <e><p><l>Moldskred<s n="np"/></l><r>Moldskred<s n="np"/></r></p></e>
     <e><p><l>Moldtun<s n="np"/></l><r>Moldtun<s n="np"/></r></p></e>
     <e><p><l>Moldøra<s n="np"/></l><r>Moldøra<s n="np"/></r></p></e>
@@ -27006,14 +27106,12 @@
     <e><p><l>Mombasa<s n="np"/></l><r>Mombasa<s n="np"/></r></p></e>
     <e><p><l>Momyr<s n="np"/></l><r>Momyr<s n="np"/></r></p></e>
     <e><p><l>Mona<s n="np"/></l><r>Mona<s n="np"/></r></p></e>
-    <e><p><l>Monaco<s n="np"/></l><r>Monaco<s n="np"/></r></p></e>
     <e><p><l>Monastir<s n="np"/></l><r>Monastir<s n="np"/></r></p></e>
     <e><p><l>Mondale<s n="np"/></l><r>Mondale<s n="np"/></r></p></e>
     <e><p><l>Mone<s n="np"/></l><r>Mone<s n="np"/></r></p></e>
     <e><p><l>Money<s n="np"/></l><r>Money<s n="np"/></r></p></e>
     <e><p><l>Mong<s n="np"/></l><r>Mong<s n="np"/></r></p></e>
     <e><p><l>Monge<s n="np"/></l><r>Monge<s n="np"/></r></p></e>
-    <e><p><l>Mongolia<s n="np"/></l><r>Mongolia<s n="np"/></r></p></e>
     <e><p><l>Mongstad<s n="np"/></l><r>Mongstad<s n="np"/></r></p></e>
     <e><p><l>Monic<s n="np"/></l><r>Monic<s n="np"/></r></p></e>
     <e><p><l>Monica<s n="np"/></l><r>Monica<s n="np"/></r></p></e>
@@ -27035,7 +27133,6 @@
     <e><p><l>Montana<s n="np"/></l><r>Montana<s n="np"/></r></p></e>
     <e><p><l>Monte<s n="np"/></l><r>Monte<s n="np"/></r></p></e>
     <e><p><l>Montelli<s n="np"/></l><r>Montelli<s n="np"/></r></p></e>
-    <e><p><l>Montenegro<s n="np"/></l><r>Montenegro<s n="np"/></r></p></e>
     <e><p><l>Monterey<s n="np"/></l><r>Monterey<s n="np"/></r></p></e>
     <e><p><l>Monterrey<s n="np"/></l><r>Monterrey<s n="np"/></r></p></e>
     <e><p><l>Montesorri<s n="np"/></l><r>Montesorri<s n="np"/></r></p></e>
@@ -27110,7 +27207,6 @@
     <e><p><l>Morud<s n="np"/></l><r>Morud<s n="np"/></r></p></e>
     <e><p><l>Morvik<s n="np"/></l><r>Morvik<s n="np"/></r></p></e>
     <e><p><l>Mosaic<s n="np"/></l><r>Mosaic<s n="np"/></r></p></e>
-    <e><p><l>Mosambik<s n="np"/></l><r>Mosambik<s n="np"/></r></p></e>
     <e><p><l>Mosambikkanalen<s n="np"/></l><r>Mosambikkanalen<s n="np"/></r></p></e>
     <e><p><l>Mosby<s n="np"/></l><r>Mosby<s n="np"/></r></p></e>
     <e><p><l>Mosbye<s n="np"/></l><r>Mosbye<s n="np"/></r></p></e>
@@ -27346,7 +27442,6 @@
     <e><p><l>Mwanza<s n="np"/></l><r>Mwanza<s n="np"/></r></p></e>
     <e><p><l>Mweru<s n="np"/></l><r>Mweru<s n="np"/></r></p></e>
     <e><p><l>My<s n="np"/></l><r>My<s n="np"/></r></p></e>
-    <e><p><l>Myanmar<s n="np"/></l><r>Myanmar<s n="np"/></r></p></e>
     <e><p><l>Mydland<s n="np"/></l><r>Mydland<s n="np"/></r></p></e>
     <e><p><l>Myers<s n="np"/></l><r>Myers<s n="np"/></r></p></e>
     <e><p><l>Myhr<s n="np"/></l><r>Myhr<s n="np"/></r></p></e>
@@ -27667,7 +27762,6 @@
     <e><p><l>Namen<s n="np"/></l><r>Namen<s n="np"/></r></p></e>
     <e><p><l>Namgar<s n="np"/></l><r>Namgar<s n="np"/></r></p></e>
     <e><p><l>Namibe<s n="np"/></l><r>Namibe<s n="np"/></r></p></e>
-    <e><p><l>Namibia<s n="np"/></l><r>Namibia<s n="np"/></r></p></e>
     <e><p><l>Namnå<s n="np"/></l><r>Namnå<s n="np"/></r></p></e>
     <e><p><l>Nampula<s n="np"/></l><r>Nampula<s n="np"/></r></p></e>
     <e><p><l>Namsen<s n="np"/></l><r>Namsen<s n="np"/></r></p></e>
@@ -27864,7 +27958,6 @@
     <e><p><l>Nemunas<s n="np"/></l><r>Nemunas<s n="np"/></r></p></e>
     <e><p><l>Nenetsk<s n="np"/></l><r>Nenetsk<s n="np"/></r></p></e>
     <e><p><l>Nenonen<s n="np"/></l><r>Nenonen<s n="np"/></r></p></e>
-    <e><p><l>Nepal<s n="np"/></l><r>Nepal<s n="np"/></r></p></e>
     <e><p><l>Neptun<s n="np"/></l><r>Neptun<s n="np"/></r></p></e>
     <e><p><l>Ner-Bangsund<s n="np"/></l><r>Ner-Bangsund<s n="np"/></r></p></e>
     <e><p><l>Nera<s n="np"/></l><r>Nera<s n="np"/></r></p></e>
@@ -27984,7 +28077,6 @@
     <e><p><l>Niamey<s n="np"/></l><r>Niamey<s n="np"/></r></p></e>
     <e><p><l>Nibe<s n="np"/></l><r>Nibe<s n="np"/></r></p></e>
     <e><p><l>Nibelungenlied<s n="np"/></l><r>Nibelungenlied<s n="np"/></r></p></e>
-    <e><p><l>Nicaragua<s n="np"/></l><r>Nicaragua<s n="np"/></r></p></e>
     <e><p><l>Nice<s n="np"/></l><r>Nice<s n="np"/></r></p></e>
     <e><p><l>Nicholaisen<s n="np"/></l><r>Nicholaisen<s n="np"/></r></p></e>
     <e><p><l>Nicholas<s n="np"/></l><r>Nicholas<s n="np"/></r></p></e>
@@ -28040,8 +28132,6 @@
     <e><p><l>Nieuwejaar<s n="np"/></l><r>Nieuwejaar<s n="np"/></r></p></e>
     <e><p><l>Niga<s n="np"/></l><r>Niga<s n="np"/></r></p></e>
     <e><p><l>Nigel<s n="np"/></l><r>Nigel<s n="np"/></r></p></e>
-    <e><p><l>Niger<s n="np"/></l><r>Niger<s n="np"/></r></p></e>
-    <e><p><l>Nigeria<s n="np"/></l><r>Nigeria<s n="np"/></r></p></e>
     <e><p><l>Nihkkel<s n="np"/></l><r>Nihkkel<s n="np"/></r></p></e>
     <e><p><l>Nihkolávo<s n="np"/></l><r>Nihkolávo<s n="np"/></r></p></e>
     <e><p><l>Nihkul<s n="np"/></l><r>Nihkul<s n="np"/></r></p></e>
@@ -29037,7 +29127,6 @@
     <e><p><l>Oma<s n="np"/></l><r>Oma<s n="np"/></r></p></e>
     <e><p><l>Omagh<s n="np"/></l><r>Omagh<s n="np"/></r></p></e>
     <e><p><l>Omaha<s n="np"/></l><r>Omaha<s n="np"/></r></p></e>
-    <e><p><l>Oman<s n="np"/></l><r>Oman<s n="np"/></r></p></e>
     <e><p><l>Omar<s n="np"/></l><r>Omar<s n="np"/></r></p></e>
     <e><p><l>Omberg<s n="np"/></l><r>Omberg<s n="np"/></r></p></e>
     <e><p><l>Ombo<s n="np"/></l><r>Ombo<s n="np"/></r></p></e>
@@ -29429,7 +29518,6 @@
     <e><p><l>Pakanjoki<s n="np"/></l><r>Pakanjoki<s n="np"/></r></p></e>
     <e><p><l>Pakarinen<s n="np"/></l><r>Pakarinen<s n="np"/></r></p></e>
     <e><p><l>Pakassaivo<s n="np"/></l><r>Pakassaivo<s n="np"/></r></p></e>
-    <e><p><l>Pakistan<s n="np"/></l><r>Pakistan<s n="np"/></r></p></e>
     <e><p><l>Pakistansk<b/>Studentersamfunn<s n="np"/></l><r>Pakistansk<b/>Studentersamfunn<s n="np"/></r></p></e>
     <e><p><l>Pakka<s n="np"/></l><r>Pakka<s n="np"/></r></p></e>
     <e><p><l>Pakkala<s n="np"/></l><r>Pakkala<s n="np"/></r></p></e>
@@ -29496,7 +29584,6 @@
     <e><p><l>Pamyua<s n="np"/></l><r>Pamyua<s n="np"/></r></p></e>
     <e><p><l>Pan<s n="np"/></l><r>Pan<s n="np"/></r></p></e>
     <e><p><l>Panaggi<s n="np"/></l><r>Panaggi<s n="np"/></r></p></e>
-    <e><p><l>Panama<s n="np"/></l><r>Panama<s n="np"/></r></p></e>
     <e><p><l>Panamaeidet<s n="np"/></l><r>Panamaeidet<s n="np"/></r></p></e>
     <e><p><l>Panamakanalen<s n="np"/></l><r>Panamakanalen<s n="np"/></r></p></e>
     <e><p><l>Panasonic<s n="np"/></l><r>Panasonic<s n="np"/></r></p></e>
@@ -29539,7 +29626,6 @@
     <e><p><l>Paracet<s n="np"/></l><r>Paracet<s n="np"/></r></p></e>
     <e><p><l>Parades<s n="np"/></l><r>Parades<s n="np"/></r></p></e>
     <e><p><l>Paradox<s n="np"/></l><r>Paradox<s n="np"/></r></p></e>
-    <e><p><l>Paraguay<s n="np"/></l><r>Paraguay<s n="np"/></r></p></e>
     <e><p><l>Parakka<s n="np"/></l><r>Parakka<s n="np"/></r></p></e>
     <e><p><l>Paralympics<s n="np"/></l><r>Paralympics<s n="np"/></r></p></e>
     <e><p><l>Paramaribo<s n="np"/></l><r>Paramaribo<s n="np"/></r></p></e>
@@ -29841,7 +29927,6 @@
     <e><p><l>Perttu<s n="np"/></l><r>Perttu<s n="np"/></r></p></e>
     <e><p><l>Perttula<s n="np"/></l><r>Perttula<s n="np"/></r></p></e>
     <e><p><l>Perttunen<s n="np"/></l><r>Perttunen<s n="np"/></r></p></e>
-    <e><p><l>Peru<s n="np"/></l><r>Peru<s n="np"/></r></p></e>
     <e><p><l>Perunka<s n="np"/></l><r>Perunka<s n="np"/></r></p></e>
     <e><p><l>Perä<s n="np"/></l><r>Perä<s n="np"/></r></p></e>
     <e><p><l>Peräaho<s n="np"/></l><r>Peräaho<s n="np"/></r></p></e>
@@ -30321,7 +30406,6 @@
     <e><p><l>Portsmouth<s n="np"/></l><r>Portsmouth<s n="np"/></r></p></e>
     <e><p><l>Portti<s n="np"/></l><r>Portti<s n="np"/></r></p></e>
     <e><p><l>Porttipantti<s n="np"/></l><r>Porttipantti<s n="np"/></r></p></e>
-    <e><p><l>Portugal<s n="np"/></l><r>Portugal<s n="np"/></r></p></e>
     <e><p><l>Porvali<s n="np"/></l><r>Porvali<s n="np"/></r></p></e>
     <e><p><l>Porvoo<s n="np"/></l><r>Porvoo<s n="np"/></r></p></e>
     <e><p><l>Posad<s n="np"/></l><r>Posad<s n="np"/></r></p></e>
@@ -32353,7 +32437,6 @@
     <e><p><l>Saint-Étienne<s n="np"/></l><r>Saint-Étienne<s n="np"/></r></p></e>
     <e><p><l>Saint<b/>John's<s n="np"/></l><r>Saint<b/>John's<s n="np"/></r></p></e>
     <e><p><l>Saint<b/>Kitts<s n="np"/></l><r>Saint<b/>Kitts<s n="np"/></r></p></e>
-    <e><p><l>Saint<b/>Lucia<s n="np"/></l><r>Saint<b/>Lucia<s n="np"/></r></p></e>
     <e><p><l>Saint<b/>Paul<s n="np"/></l><r>Saint<b/>Paul<s n="np"/></r></p></e>
     <e><p><l>Saint<b/>Vincente<s n="np"/></l><r>Saint<b/>Vincente<s n="np"/></r></p></e>
     <e><p><l>Saint<s n="np"/></l><r>Saint<s n="np"/></r></p></e>
@@ -32584,7 +32667,6 @@
     <e><p><l>Samvirkelag<s n="np"/></l><r>Samvirkelag<s n="np"/></r></p></e>
     <e><p><l>San<b/>Francisco<s n="np"/></l><r>San<b/>Francisco<s n="np"/></r></p></e>
     <e><p><l>San<b/>José<s n="np"/></l><r>San<b/>José<s n="np"/></r></p></e>
-    <e><p><l>San<b/>Marino<s n="np"/></l><r>San<b/>Marino<s n="np"/></r></p></e>
     <e><p><l>San<b/>Salvador<s n="np"/></l><r>San<b/>Salvador<s n="np"/></r></p></e>
     <e><p><l>San<s n="np"/></l><r>San<s n="np"/></r></p></e>
     <e><p><l>Sana<s n="np"/></l><r>Sana<s n="np"/></r></p></e>
@@ -33135,7 +33217,6 @@
     <e><p><l>SendFAX<s n="np"/></l><r>SendFAX<s n="np"/></r></p></e>
     <e><p><l>Sendmailer<s n="np"/></l><r>Sendmailer<s n="np"/></r></p></e>
     <e><p><l>Seneca<s n="np"/></l><r>Seneca<s n="np"/></r></p></e>
-    <e><p><l>Senegal<s n="np"/></l><r>Senegal<s n="np"/></r></p></e>
     <e><p><l>Senger<s n="np"/></l><r>Senger<s n="np"/></r></p></e>
     <e><p><l>Senigallia<s n="np"/></l><r>Senigallia<s n="np"/></r></p></e>
     <e><p><l>Senja<s n="np"/></l><r>Senja<s n="np"/></r></p></e>
@@ -33166,7 +33247,6 @@
     <e><p><l>Sera<s n="np"/></l><r>Sera<s n="np"/></r></p></e>
     <e><p><l>Serah<s n="np"/></l><r>Serah<s n="np"/></r></p></e>
     <e><p><l>Seram<s n="np"/></l><r>Seram<s n="np"/></r></p></e>
-    <e><p><l>Serbia<s n="np"/></l><r>Serbia<s n="np"/></r></p></e>
     <e><p><l>Sered<s n="np"/></l><r>Sered<s n="np"/></r></p></e>
     <e><p><l>Serengeti<s n="np"/></l><r>Serengeti<s n="np"/></r></p></e>
     <e><p><l>Serge-Lück<s n="np"/></l><r>Serge-Lück<s n="np"/></r></p></e>
@@ -33330,7 +33410,6 @@
     <e><p><l>Sieppi<s n="np"/></l><r>Sieppi<s n="np"/></r></p></e>
     <e><p><l>Sierge<s n="np"/></l><r>Sierge<s n="np"/></r></p></e>
     <e><p><l>Siermala<s n="np"/></l><r>Siermala<s n="np"/></r></p></e>
-    <e><p><l>Sierra<b/>Leone<s n="np"/></l><r>Sierra<b/>Leone<s n="np"/></r></p></e>
     <e><p><l>Sierra<b/>Nevada<s n="np"/></l><r>Sierra<b/>Nevada<s n="np"/></r></p></e>
     <e><p><l>Sierra<s n="np"/></l><r>Sierra<s n="np"/></r></p></e>
     <e><p><l>Sierrabibliotehka<s n="np"/></l><r>Sierrabibliotehka<s n="np"/></r></p></e>
@@ -33513,7 +33592,6 @@
     <e><p><l>Sinervo<s n="np"/></l><r>Sinervo<s n="np"/></r></p></e>
     <e><p><l>Sinervä<s n="np"/></l><r>Sinervä<s n="np"/></r></p></e>
     <e><p><l>Singapor<s n="np"/></l><r>Singapor<s n="np"/></r></p></e>
-    <e><p><l>Singapore<s n="np"/></l><r>Singapore<s n="np"/></r></p></e>
     <e><p><l>Singer<s n="np"/></l><r>Singer<s n="np"/></r></p></e>
     <e><p><l>Singh<s n="np"/></l><r>Singh<s n="np"/></r></p></e>
     <e><p><l>Singsaas<s n="np"/></l><r>Singsaas<s n="np"/></r></p></e>
@@ -34106,7 +34184,6 @@
     <e><p><l>Slotten<s n="np"/></l><r>Slotten<s n="np"/></r></p></e>
     <e><p><l>Slough<s n="np"/></l><r>Slough<s n="np"/></r></p></e>
     <e><p><l>Slovakia<s n="np"/></l><r>Slovakia<s n="np"/></r></p></e>
-    <e><p><l>Slovenia<s n="np"/></l><r>Slovenia<s n="np"/></r></p></e>
     <e><p><l>Sluck<s n="np"/></l><r>Sluck<s n="np"/></r></p></e>
     <e><p><l>Slumstrup<s n="np"/></l><r>Slumstrup<s n="np"/></r></p></e>
     <e><p><l>Slupsk<s n="np"/></l><r>Slupsk<s n="np"/></r></p></e>
@@ -35096,7 +35173,6 @@
     <e><p><l>Subaru<s n="np"/></l><r>Subaru<s n="np"/></r></p></e>
     <e><p><l>Suchow<s n="np"/></l><r>Suchow<s n="np"/></r></p></e>
     <e><p><l>Sucre<s n="np"/></l><r>Sucre<s n="np"/></r></p></e>
-    <e><p><l>Sudan<s n="np"/></l><r>Sudan<s n="np"/></r></p></e>
     <e><p><l>Sudbury<s n="np"/></l><r>Sudbury<s n="np"/></r></p></e>
     <e><p><l>Suderheim<s n="np"/></l><r>Suderheim<s n="np"/></r></p></e>
     <e><p><l>Sudetlandet<s n="np"/></l><r>Sudetlandet<s n="np"/></r></p></e>
@@ -35274,7 +35350,6 @@
     <e><p><l>Surestore<s n="np"/></l><r>Surestore<s n="np"/></r></p></e>
     <e><p><l>Surfellingen<s n="np"/></l><r>Surfellingen<s n="np"/></r></p></e>
     <e><p><l>Surin<s n="np"/></l><r>Surin<s n="np"/></r></p></e>
-    <e><p><l>Surinam<s n="np"/></l><r>Surinam<s n="np"/></r></p></e>
     <e><p><l>Suriname<s n="np"/></l><r>Suriname<s n="np"/></r></p></e>
     <e><p><l>Surna<s n="np"/></l><r>Surna<s n="np"/></r></p></e>
     <e><p><l>Surnadal<s n="np"/></l><r>Surnadal<s n="np"/></r></p></e>
@@ -35512,7 +35587,6 @@
     <e><p><l>Syracuse<s n="np"/></l><r>Syracuse<s n="np"/></r></p></e>
     <e><p><l>Syrakus<s n="np"/></l><r>Syrakus<s n="np"/></r></p></e>
     <e><p><l>Syri<s n="np"/></l><r>Syri<s n="np"/></r></p></e>
-    <e><p><l>Syria<s n="np"/></l><r>Syria<s n="np"/></r></p></e>
     <e><p><l>Syrjä<s n="np"/></l><r>Syrjä<s n="np"/></r></p></e>
     <e><p><l>Syrjälä<s n="np"/></l><r>Syrjälä<s n="np"/></r></p></e>
     <e><p><l>Syrjäläinen<s n="np"/></l><r>Syrjäläinen<s n="np"/></r></p></e>
@@ -35558,7 +35632,6 @@
     <e><p><l>SámiSoster<s n="np"/></l><r>SámiSoster<s n="np"/></r></p></e>
     <e><p><l>Sánchez<s n="np"/></l><r>Sánchez<s n="np"/></r></p></e>
     <e><p><l>São<b/>Paulo<s n="np"/></l><r>São<b/>Paulo<s n="np"/></r></p></e>
-    <e><p><l>São<b/>Tomé<s n="np"/></l><r>São<b/>Tomé<s n="np"/></r></p></e>
     <e><p><l>São<s n="np"/></l><r>São<s n="np"/></r></p></e>
     <e><p><l>Säde<s n="np"/></l><r>Säde<s n="np"/></r></p></e>
     <e><p><l>Säffle<s n="np"/></l><r>Säffle<s n="np"/></r></p></e>
@@ -35843,7 +35916,6 @@
     <e><p><l>Taivaloja<s n="np"/></l><r>Taivaloja<s n="np"/></r></p></e>
     <e><p><l>Taivaskero<s n="np"/></l><r>Taivaskero<s n="np"/></r></p></e>
     <e><p><l>Taivassalo<s n="np"/></l><r>Taivassalo<s n="np"/></r></p></e>
-    <e><p><l>Taiwan<s n="np"/></l><r>Taiwan<s n="np"/></r></p></e>
     <e><p><l>Taiyuan<s n="np"/></l><r>Taiyuan<s n="np"/></r></p></e>
     <e><p><l>Taizhou<s n="np"/></l><r>Taizhou<s n="np"/></r></p></e>
     <e><p><l>Tajakka<s n="np"/></l><r>Tajakka<s n="np"/></r></p></e>
@@ -36592,7 +36664,6 @@
     <e><p><l>Toftsundet<s n="np"/></l><r>Toftsundet<s n="np"/></r></p></e>
     <e><p><l>Togarma<s n="np"/></l><r>Togarma<s n="np"/></r></p></e>
     <e><p><l>Togliatti<s n="np"/></l><r>Togliatti<s n="np"/></r></p></e>
-    <e><p><l>Togo<s n="np"/></l><r>Togo<s n="np"/></r></p></e>
     <e><p><l>Tohmo<s n="np"/></l><r>Tohmo<s n="np"/></r></p></e>
     <e><p><l>Toijonen<s n="np"/></l><r>Toijonen<s n="np"/></r></p></e>
     <e><p><l>Toikka<s n="np"/></l><r>Toikka<s n="np"/></r></p></e>
@@ -36974,7 +37045,6 @@
     <e><p><l>Trincomalee<s n="np"/></l><r>Trincomalee<s n="np"/></r></p></e>
     <e><p><l>Trine-Lise<s n="np"/></l><r>Trine-Lise<s n="np"/></r></p></e>
     <e><p><l>Trine<s n="np"/></l><r>Trine<s n="np"/></r></p></e>
-    <e><p><l>Trinidad<s n="np"/></l><r>Trinidad<s n="np"/></r></p></e>
     <e><p><l>Tripoli<s n="np"/></l><r>Tripoli<s n="np"/></r></p></e>
     <e><p><l>Tripura<s n="np"/></l><r>Tripura<s n="np"/></r></p></e>
     <e><p><l>Tristan<s n="np"/></l><r>Tristan<s n="np"/></r></p></e>
@@ -37178,7 +37248,6 @@
     <e><p><l>Tunheim<s n="np"/></l><r>Tunheim<s n="np"/></r></p></e>
     <e><p><l>Tunhovd<s n="np"/></l><r>Tunhovd<s n="np"/></r></p></e>
     <e><p><l>Tunis<s n="np"/></l><r>Tunis<s n="np"/></r></p></e>
-    <e><p><l>Tunisia<s n="np"/></l><r>Tunisia<s n="np"/></r></p></e>
     <e><p><l>Tunkkari<s n="np"/></l><r>Tunkkari<s n="np"/></r></p></e>
     <e><p><l>Tunnsjørøyrvik<s n="np"/></l><r>Tunnsjørøyrvik<s n="np"/></r></p></e>
     <e><p><l>Tunold<s n="np"/></l><r>Tunold<s n="np"/></r></p></e>
@@ -37237,7 +37306,6 @@
     <e><p><l>Turkka<s n="np"/></l><r>Turkka<s n="np"/></r></p></e>
     <e><p><l>Turkki<s n="np"/></l><r>Turkki<s n="np"/></r></p></e>
     <e><p><l>Turkkila<s n="np"/></l><r>Turkkila<s n="np"/></r></p></e>
-    <e><p><l>Turkmenistan<s n="np"/></l><r>Turkmenistan<s n="np"/></r></p></e>
     <e><p><l>Turkova<s n="np"/></l><r>Turkova<s n="np"/></r></p></e>
     <e><p><l>Turku<s n="np"/></l><r>Turku<s n="np"/></r></p></e>
     <e><p><l>Turkulainen<s n="np"/></l><r>Turkulainen<s n="np"/></r></p></e>
@@ -37488,7 +37556,6 @@
     <e><p><l>Uerdingen<s n="np"/></l><r>Uerdingen<s n="np"/></r></p></e>
     <e><p><l>Ufa<s n="np"/></l><r>Ufa<s n="np"/></r></p></e>
     <e><p><l>Uffe<s n="np"/></l><r>Uffe<s n="np"/></r></p></e>
-    <e><p><l>Uganda<s n="np"/></l><r>Uganda<s n="np"/></r></p></e>
     <e><p><l>Ugeblad<s n="np"/></l><r>Ugeblad<s n="np"/></r></p></e>
     <e><p><l>Ugelstad<s n="np"/></l><r>Ugelstad<s n="np"/></r></p></e>
     <e><p><l>Ugelvik<s n="np"/></l><r>Ugelvik<s n="np"/></r></p></e>
@@ -37507,7 +37574,6 @@
     <e><p><l>Ukkola<s n="np"/></l><r>Ukkola<s n="np"/></r></p></e>
     <e><p><l>Ukkonen<s n="np"/></l><r>Ukkonen<s n="np"/></r></p></e>
     <e><p><l>Ukonaho<s n="np"/></l><r>Ukonaho<s n="np"/></r></p></e>
-    <e><p><l>Ukraina<s n="np"/></l><r>Ukraina<s n="np"/></r></p></e>
     <e><p><l>Ula<s n="np"/></l><r>Ula<s n="np"/></r></p></e>
     <e><p><l>Ulan-Bator<s n="np"/></l><r>Ulan-Bator<s n="np"/></r></p></e>
     <e><p><l>Ulan-Ude<s n="np"/></l><r>Ulan-Ude<s n="np"/></r></p></e>
@@ -37692,7 +37758,6 @@
     <e><p><l>Ursula<s n="np"/></l><r>Ursula<s n="np"/></r></p></e>
     <e><p><l>Ursus<s n="np"/></l><r>Ursus<s n="np"/></r></p></e>
     <e><p><l>Urtegård<s n="np"/></l><r>Urtegård<s n="np"/></r></p></e>
-    <e><p><l>Uruguay<s n="np"/></l><r>Uruguay<s n="np"/></r></p></e>
     <e><p><l>Uruk<s n="np"/></l><r>Uruk<s n="np"/></r></p></e>
     <e><p><l>Urukby<s n="np"/></l><r>Urukby<s n="np"/></r></p></e>
     <e><p><l>Urumchi<s n="np"/></l><r>Urumchi<s n="np"/></r></p></e>
@@ -37780,7 +37845,6 @@
     <e><p><l>Uwe<s n="np"/></l><r>Uwe<s n="np"/></r></p></e>
     <e><p><l>Uxbridge<s n="np"/></l><r>Uxbridge<s n="np"/></r></p></e>
     <e><p><l>Uzawa<s n="np"/></l><r>Uzawa<s n="np"/></r></p></e>
-    <e><p><l>Uzbekistan<s n="np"/></l><r>Uzbekistan<s n="np"/></r></p></e>
     <e><p><l>Uznam<s n="np"/></l><r>Uznam<s n="np"/></r></p></e>
     <e><p><l>V-dagen<s n="np"/></l><r>V-dagen<s n="np"/></r></p></e>
     <e><p><l>VAZ<s n="np"/></l><r>VAZ<s n="np"/></r></p></e>
@@ -38240,7 +38304,6 @@
     <e><p><l>Venemies<s n="np"/></l><r>Venemies<s n="np"/></r></p></e>
     <e><p><l>Veneto<s n="np"/></l><r>Veneto<s n="np"/></r></p></e>
     <e><p><l>Venezia<s n="np"/></l><r>Venezia<s n="np"/></r></p></e>
-    <e><p><l>Venezuela<s n="np"/></l><r>Venezuela<s n="np"/></r></p></e>
     <e><p><l>Vengsøy<s n="np"/></l><r>Vengsøy<s n="np"/></r></p></e>
     <e><p><l>Venho<s n="np"/></l><r>Venho<s n="np"/></r></p></e>
     <e><p><l>Venjaneset<s n="np"/></l><r>Venjaneset<s n="np"/></r></p></e>
@@ -39724,7 +39787,6 @@
     <e><p><l>Zil<s n="np"/></l><r>Zil<s n="np"/></r></p></e>
     <e><p><l>Ziller<s n="np"/></l><r>Ziller<s n="np"/></r></p></e>
     <e><p><l>Zilliacus<s n="np"/></l><r>Zilliacus<s n="np"/></r></p></e>
-    <e><p><l>Zimbabwe<s n="np"/></l><r>Zimbabwe<s n="np"/></r></p></e>
     <e><p><l>Zimmer<s n="np"/></l><r>Zimmer<s n="np"/></r></p></e>
     <e><p><l>Zimmermann<s n="np"/></l><r>Zimmermann<s n="np"/></r></p></e>
     <e><p><l>Zinaida<s n="np"/></l><r>Zinaida<s n="np"/></r></p></e>
