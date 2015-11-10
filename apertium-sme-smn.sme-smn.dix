@@ -169,6 +169,8 @@
     <!-- SECTION: Adverbs -->
 
     <e><p><l>sihke<s n="adv"/></l><r>nuuvt<s n="adv"/></r></p></e>
+    <e><p><l>buohkanassii<s n="adv"/></l><r>puohnâssân<s n="adv"/></r></p></e>
+    <e><p><l>aŋkke<s n="adv"/></l><r>aainâs-uv<s n="adv"/></r></p></e>
     <e><p><l>suomabealde<s n="adv"/></l><r>Suomâbeln<s n="adv"/></r></p></e>
 
     <e><p><l>dál<s n="adv"/></l><r>tääl<s n="adv"/></r></p></e>
@@ -211,6 +213,7 @@
     <!-- SECTION: Adjectives -->
 
     <e><p><l>boaris<s n="adj"/></l><r>puáris<s n="adj"/></r></p></e>
+    <e><p><l>áitatvuloš<s n="adj"/></l><r>uhkevuálásâš<s n="adj"/></r></p></e>
     <e><p><l>sierra<s n="adj"/></l><r>jiejâs<s n="adj"/></r></p></e>
     <e><p><l>fiskat<s n="adj"/></l><r>fiskâd<s n="adj"/></r></p></e>
     <e><p><l>stuoris<s n="adj"/></l><r>styeres<s n="adj"/></r></p></e>
@@ -219,7 +222,9 @@
     <e><p><l>dárkil<s n="adj"/></l><r>tärkkil<s n="adj"/></r></p></e>
     <e><p><l>nuorra<s n="adj"/></l><r>nuorrâ<s n="adj"/></r></p></e>
 
+    <e><p><l>vuoigatvuođalaš<s n="adj"/></l><r>vuoigâdvuođâlâš<s n="adj"/></r></p></e>
     <e><p><l>geográfalaš<s n="adj"/></l><r>eennâmtieđâlâš<s n="adj"/></r></p></e>
+    <e><p><l>eatnandieđalaš<s n="adj"/></l><r>eennâmtieđâlâš<s n="adj"/></r></p></e>
     <e><p><l>sosiálalaš<s n="adj"/></l><r>sosiaallâš<s n="adj"/></r></p></e>
     <e><p><l>ekonomalaš<s n="adj"/></l><r>ekonoomlâš<s n="adj"/></r></p></e>
     <e><p><l>kultuvrralaš<s n="adj"/></l><r>kulttuurlâš<s n="adj"/></r></p></e>
@@ -276,7 +281,16 @@
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
     <e><p><l>albmot<s n="n"/></l><r>aalmug<s n="n"/></r></p></e>
+    <e><p><l>Álbmotregisttardiehtovuogádat<s n="n"/></l><r>Aalmugregistertiätuvuáhádâh<s n="n"/></r></p></e>
+    <e><p><l>lohkomearri<s n="n"/></l><r>lohomeeri<s n="n"/></r></p></e>
+    <e><p><l>dárkkuhus<s n="n"/></l><r>tárguttâs<s n="n"/></r></p></e>
+    <e><p><l>dutkamušdárkkuhus<s n="n"/></l><r>tutkâmtárguttâs<s n="n"/></r></p></e>
+    <e><p><l>heaggadiehtoláhka<s n="n"/></l><r>olmooštiätulaahâ<s n="n"/></r></p></e>
+    <e><p><l>váhnen<s n="n"/></l><r>vanhim<s n="n"/></r></p></e>
+    <e><p><l>sápmelašvuohta<s n="n"/></l><r>sämmilâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>eamialbmot<s n="n"/></l><r>algâaalmug<s n="n"/></r></p></e>
+    <e><p><l>váldovuođustus<s n="n"/></l><r>válduvuáđustâs<s n="n"/></r></p></e>
+    <e><p><l>vuođustus<s n="n"/></l><r>vuáđustâs<s n="n"/></r></p></e>
     <e><p><l>kriteara<s n="n"/></l><r>kriiteer<s n="n"/></r></p></e>
     <e><p><l>eamiálbmotkriteara<s n="n"/></l><r>algâaalmugkriiteer<s n="n"/></r></p></e>
     <e><p><l>media<s n="n"/></l><r>media<s n="n"/></r></p></e>
