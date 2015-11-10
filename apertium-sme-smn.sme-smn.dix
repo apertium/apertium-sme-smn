@@ -97,6 +97,11 @@
     <e><p><l>vaikko<s n="cnjsub"/></l><r>veik<s n="cnjsub"/></r></p></e>
     <e><p><l>vai<s n="cnjsub"/></l><r>vâi<s n="cnjcoo"/></r></p></e>
     <e><p><l>vaikke<s n="cnjsub"/></l><r>veik<s n="cnjsub"/></r></p></e>
+    
+    <!--    SECTION: Interjections -->
+
+    <e><p><l>vuoi<s n="ij"/></l><r>vuoi<s n="ij"/></r></p></e>
+
 
     <!-- SECTION: Pronouns -->
 
@@ -271,7 +276,9 @@
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
     <e><p><l>albmot<s n="n"/></l><r>aalmug<s n="n"/></r></p></e>
-    <e><p><l>eamiálbmot<s n="n"/></l><r>algâaalmug<s n="n"/></r></p></e>
+    <e><p><l>eamialbmot<s n="n"/></l><r>algâaalmug<s n="n"/></r></p></e>
+    <e><p><l>kriteara<s n="n"/></l><r>kriiteer<s n="n"/></r></p></e>
+    <e><p><l>eamiálbmotkriteara<s n="n"/></l><r>algâaalmugkriiteer<s n="n"/></r></p></e>
     <e><p><l>media<s n="n"/></l><r>media<s n="n"/></r></p></e>
     <e><p><l>beana<s n="n"/></l><r>peenuv<s n="n"/></r></p></e>
     <e><p><l>beavdi<s n="n"/></l><r>pevdi<s n="n"/></r></p></e>
