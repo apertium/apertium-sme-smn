@@ -126,6 +126,7 @@
     <e><p><l>mihkkege<s n="prn"/></l><r>mihheen<s n="prn"/></r></p></e>
     <e><p><l>muhtun<s n="prn"/></l><r>mottoom<s n="prn"/></r></p></e>
     <e><p><l>veaháš<s n="prn"/><s n="ind"/><s n="attr"/></l><r>váhá<s n="adv"/></r></p></e>
+    <e><p><l>goappašagat<s n="prn"/><s n="ind"/><s n="attr"/></l><r>kuohtuuh<s n="adv"/></r></p></e>
 
     <!-- SECTION: Numerals -->
 
@@ -168,6 +169,7 @@
 
     <!-- SECTION: Adverbs -->
 
+    <e><p><l>erenoamážit<s n="adv"/></l><r>eromâšávt<s n="adv"/></r></p></e>
     <e><p><l>sihke<s n="adv"/></l><r>nuuvt<s n="adv"/></r></p></e>
     <e><p><l>buohkanassii<s n="adv"/></l><r>puohnâssân<s n="adv"/></r></p></e>
     <e><p><l>aŋkke<s n="adv"/></l><r>aainâs-uv<s n="adv"/></r></p></e>
@@ -178,6 +180,7 @@
     <e><p><l>meaddel<s n="adv"/></l><r>lappâd<s n="adv"/></r></p></e>
     <e><p><l>aivvefal<s n="adv"/></l><r>aaibâs<s n="adv"/></r></p></e>
     <e><p><l>maŋŋemaŋŋálaga<s n="adv"/></l><r>maŋaluvâi<s n="adv"/></r></p></e>
+    <e><p><l>seammás<s n="adv"/></l><r>siämmást<s n="adv"/></r></p></e>
 
 
 
@@ -290,8 +293,11 @@
     <!-- SECTION: Nouns -->
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
+    <e><p><l>váikkuhangaskaoapmi<s n="n"/></l><r>vaikuttemmáhđulâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>láđasmánnu<s n="n"/></l><r>lođâsmáánu<s n="n"/></r></p></e>
     <e><p><l>láđasmánnu<s n="n"/></l><r>lađâsmáánu<s n="n"/></r></p></e>
+    <e><p><l>ovdaskuvlaoahpaheaddji<s n="n"/></l><r>párnáimáttáátteijee<s n="n"/></r></p></e>
+    <e><p><l>beroštupmi<s n="n"/></l><r>mielâkiddiivâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>cuvccas<s n="n"/></l><r>maainâs<s n="n"/></r></p></e>
     <e><p><l>várrečohkka<s n="n"/></l><r>väričokke<s n="n"/></r></p></e>
     <e><p><l>albmot<s n="n"/></l><r>aalmug<s n="n"/></r></p></e>
@@ -655,6 +661,9 @@
 
     <e><p><l>ii<s n="vblex"/></l><r>ii<s n="vblex"/></r></p></e>
 
+    <e><p><l>ahtanuššat<s n="vblex"/><s n="tv"/></l><r>ovdániđ<s n="vblex"/></r></p></e>
+    <e><p><l>juolludit<s n="vblex"/><s n="tv"/></l><r>kelijdiđ<s n="vblex"/></r></p></e>
+    <e><p><l>šaddan<s n="vblex"/><s n="tv"/></l><r>šoddâm<s n="vblex"/></r></p></e>
     <e><p><l>šealgát<s n="vblex"/><s n="tv"/></l><r>šiälguđ<s n="vblex"/></r></p></e>
     <e><p><l>čuovgat<s n="vblex"/><s n="tv"/></l><r>čuovvâđ<s n="vblex"/></r></p></e>
     <e><p><l>geavahit<s n="vblex"/><s n="tv"/></l><r>kevttiđ<s n="vblex"/></r></p></e>
