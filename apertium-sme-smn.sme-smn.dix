@@ -293,6 +293,7 @@
     <!-- SECTION: Nouns -->
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
+    <e><p><l>terminologiija<s n="n"/></l><r>terminologia<s n="n"/></r></p></e>
     <e><p><l>váikkuhangaskaoapmi<s n="n"/></l><r>vaikuttemmáhđulâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>láđasmánnu<s n="n"/></l><r>lođâsmáánu<s n="n"/></r></p></e>
     <e><p><l>láđasmánnu<s n="n"/></l><r>lađâsmáánu<s n="n"/></r></p></e>
@@ -654,6 +655,7 @@
     <e><p><l>rutidna<s n="n"/></l><r>rutiin<s n="n"/></r></p></e>
     <e><p><l>pingvidna<s n="n"/></l><r>pingviin<s n="n"/></r></p></e>
 
+
     <!-- SECTION: Proper nouns -->
 
     <e><p><l>Máret<s n="np"/></l><r>Maarit<s n="np"/></r></p></e>
@@ -855,9 +857,12 @@
 
     <e><p><l>ii<s n="vblex"/></l><r>ii<s n="vblex"/></r></p></e>
 
+    <e><p><l>fárrehit<s n="vblex"/><s n="tv"/></l><r>asâttiđ<s n="vblex"/></r></p></e>
+    <e><p><l>geatnegahttit<s n="vblex"/><s n="tv"/></l><r>kenigâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>ahtanuššat<s n="vblex"/><s n="tv"/></l><r>ovdániđ<s n="vblex"/></r></p></e>
     <e><p><l>juolludit<s n="vblex"/><s n="tv"/></l><r>kelijdiđ<s n="vblex"/></r></p></e>
     <e><p><l>šaddan<s n="vblex"/><s n="tv"/></l><r>šoddâm<s n="vblex"/></r></p></e>
+    <e><p><l>almmustahttit<s n="vblex"/><s n="tv"/></l><r>almostittiđ<s n="vblex"/></r></p></e>
     <e><p><l>šealgát<s n="vblex"/><s n="tv"/></l><r>šiälguđ<s n="vblex"/></r></p></e>
     <e><p><l>čuovgat<s n="vblex"/><s n="tv"/></l><r>čuovvâđ<s n="vblex"/></r></p></e>
     <e><p><l>geavahit<s n="vblex"/><s n="tv"/></l><r>kevttiđ<s n="vblex"/></r></p></e>
@@ -890,6 +895,7 @@
     <e><p><l>čohkkát<s n="vblex"/><s n="iv"/></l><r>čokkáđ<s n="vblex"/></r></p></e>
     <e><p><l>čállit<s n="vblex"/><s n="tv"/></l><r>čäälliđ<s n="vblex"/></r></p></e>
     <e><p><l>geargat<s n="vblex"/><s n="iv"/></l><r>kiergâniđ<s n="vblex"/></r></p></e>
+
 
     <!-- SECTION: Punctuation -->
 
