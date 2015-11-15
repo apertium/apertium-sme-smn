@@ -37,7 +37,7 @@
       <cat-item tags="vblex.der_nomact.n.cmp_sgnom.cmp.*"/> 
     </def-cat>
    <def-cat n="negverb">
-      <cat-item tags="vblex.iv.neg.indic.sg3"/>
+      <cat-item tags="vblex.iv.neg.indic.p3.sg"/>
     </def-cat>
    <def-cat n="foc">
       <cat-item lemma="ge" tags="pcle.*"/>
@@ -131,15 +131,15 @@
       <cat-item tags="np.*.pl.gen.*"/>                     
       <cat-item tags="np.*.sg.gen.*"/>                     
       <cat-item tags="np.pl.gen.*"/>                     
-      <cat-item tags="prn.*.sg3.gen.*"/>                     
-      <cat-item tags="prn.*.sg2.gen.*"/>                     
-      <cat-item tags="prn.*.sg1.gen.*"/>                     
-      <cat-item tags="prn.*.pl3.gen.*"/>                     
-      <cat-item tags="prn.*.pl2.gen.*"/>                     
-      <cat-item tags="prn.*.pl1.gen.*"/>                     
-      <cat-item tags="prn.*.du3.gen.*"/>                     
-      <cat-item tags="prn.*.du2.gen.*"/>                     
-      <cat-item tags="prn.*.du1.gen.*"/>                     
+      <cat-item tags="prn.*.p3.sg.gen.*"/>                     
+      <cat-item tags="prn.*.p2.sg.gen.*"/>                     
+      <cat-item tags="prn.*.p1.sg.gen.*"/>                     
+      <cat-item tags="prn.*.p3.pl.gen.*"/>                     
+      <cat-item tags="prn.*.p2.pl.gen.*"/>                     
+      <cat-item tags="prn.*.p1.pl.gen.*"/>                     
+      <cat-item tags="prn.*.p3.du.gen.*"/>                     
+      <cat-item tags="prn.*.p2.du.gen.*"/>                     
+      <cat-item tags="prn.*.p1.du.gen.*"/>                     
     </def-cat>  
     <def-cat n="agreem-sg-gen">                             
       <cat-item tags="n.*.sg.gen.*"/>                    
@@ -216,15 +216,9 @@
       <attr-item tags="po"/>
     </def-attr>
     <def-attr n="a_person">
-      <attr-item tags="sg1"/>
-      <attr-item tags="du1"/>
-      <attr-item tags="pl1"/>
-      <attr-item tags="sg2"/>
-      <attr-item tags="du2"/>
-      <attr-item tags="pl2"/>
-      <attr-item tags="sg3"/>
-      <attr-item tags="du3"/>
-      <attr-item tags="pl3"/>
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
     </def-attr>
     <def-attr n="a_prn">
       <attr-item tags="prn"/>
@@ -238,15 +232,15 @@
       <attr-item tags="prn.ref"/>
     </def-attr>
     <def-attr n="a_poss">
-       <attr-item tags="pxsg1"/>
-       <attr-item tags="pxsg2"/>
-       <attr-item tags="pxsg3"/>
-       <attr-item tags="pxdu1"/>
-       <attr-item tags="pxdu2"/>
-       <attr-item tags="pxdu3"/>
-       <attr-item tags="pxpl1"/>
-       <attr-item tags="pxpl2"/>
-       <attr-item tags="pxpl3"/>
+       <attr-item tags="px1sg"/>
+       <attr-item tags="px2sg"/>
+       <attr-item tags="px3sg"/>
+       <attr-item tags="px1du"/>
+       <attr-item tags="px2du"/>
+       <attr-item tags="px3du"/>
+       <attr-item tags="px1pl"/>
+       <attr-item tags="px2pl"/>
+       <attr-item tags="px3pl"/>
     </def-attr>
     <def-attr n="a_trans">
       <attr-item tags="iv"/>
@@ -603,54 +597,54 @@
     <def-macro n="inherenttag-px2" npar="2">
 		<choose>   
 		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="sg1"/></equal></test>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="p1"/></equal></test>
          <let>
-         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxsg1"/></concat>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="px1sg"/></concat>
          </let>
 		</when>
 		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="sg2"/></equal></test>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="p2"/></equal></test>
          <let>
-         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxsg2"/></concat>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="px2sg"/></concat>
          </let>
 		</when>
 		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="sg3"/></equal></test>
-         <let><clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxsg3"/></concat>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="p3"/></equal></test>
+         <let><clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="px3sg"/></concat>
          </let>
 		</when>
 		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="du1"/></equal></test>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="p1"/></equal></test>
          <let>
-         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxdu1"/></concat>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="px1du"/></concat>
          </let>
 		</when>
 		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="du2"/></equal></test>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="p2"/></equal></test>
          <let>
-         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxdu2"/></concat>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="px2du"/></concat>
          </let>
 		</when>
 		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="du3"/></equal></test>
-         <let><clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxdu3"/></concat>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="p3"/></equal></test>
+         <let><clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="px3du"/></concat>
          </let>
 		</when>
 		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="pl1"/></equal></test>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="p1"/></equal></test>
          <let>
-         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxpl1"/></concat>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="px1pl"/></concat>
          </let>
 		</when>
 		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="pl2"/></equal></test>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="p2"/></equal></test>
          <let>
-         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxpl2"/></concat>
+         <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="px2pl"/></concat>
          </let>
 		</when>
 		<when>
-		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="pl3"/></equal></test>
-         <let><clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="pxpl3"/></concat>
+		<test><equal><clip pos="1" side="tl" part="a_person"/><lit-tag v="p3"/></equal></test>
+         <let><clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="px3pl"/></concat>
          </let>
 		</when>
 		</choose>    

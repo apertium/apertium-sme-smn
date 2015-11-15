@@ -36,30 +36,18 @@
 
 <!-- the following inserted inspired from sme-smna -->
 
-    <sdef n="sg1"/>
-    <sdef n="sg2"/>
-    <sdef n="sg3"/>
-
-    <sdef n="du1"/>
-    <sdef n="du2"/>
-    <sdef n="du3"/>
-
-    <sdef n="pl1"/>
-    <sdef n="pl2"/>
-    <sdef n="pl3"/>
-
     <sdef n="sg"/>
     <sdef n="pl"/>
 
-    <sdef n="pxsg1"    c="First-person singular possessive suffix"/>
-    <sdef n="pxsg2"    c="Second-person singular possessive suffix"/>
-    <sdef n="pxsg3"    c="Third-person singular possessive suffix"/>
-    <sdef n="pxdu1"    c="First-person dual possessive suffix"/>
-    <sdef n="pxdu2"    c="Second-person dual possessive suffix"/>
-    <sdef n="pxdu3"    c="Third-person dual possessive suffix"/>
-    <sdef n="pxpl1"    c="First-person plural possessive suffix"/>
-    <sdef n="pxpl2"    c="Second-person plural possessive suffix"/>
-    <sdef n="pxpl3"    c="Third-person plural possessive suffix"/>
+    <sdef n="px1sg"    c="First-person singular possessive suffix"/>
+    <sdef n="px2sg"    c="Second-person singular possessive suffix"/>
+    <sdef n="px3sg"    c="Third-person singular possessive suffix"/>
+    <sdef n="px1du"    c="First-person dual possessive suffix"/>
+    <sdef n="px2du"    c="Second-person dual possessive suffix"/>
+    <sdef n="px3du"    c="Third-person dual possessive suffix"/>
+    <sdef n="px1pl"    c="First-person plural possessive suffix"/>
+    <sdef n="px2pl"    c="Second-person plural possessive suffix"/>
+    <sdef n="px3pl"    c="Third-person plural possessive suffix"/>
 
     <sdef n="gen"/>
     <sdef n="ill"/>
