@@ -275,13 +275,16 @@
     <e><p><l>nuortalaš<s n="adj"/></l><r>nuorttalâš<s n="adj"/></r></p></e>
     <e><p><l>politihkalaš<s n="adj"/></l><r>pooliitlâš<s n="adj"/></r></p></e>
     <e><p><l>riikkaidviidosaš<s n="adj"/></l><r>aalmugijkoskâsâš<s n="adj"/></r></p></e>
+    <e><p><l>mearreáigásaš<s n="adj"/></l><r>meriáigásâš<s n="adj"/></r></p></e>
 
 
 
     <!-- SECTION: Nouns -->
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
+    <e><p><l>oktasašbargoorgána<s n="n"/></l><r>oovtâstpargo-orgaan<s n="n"/></r></p></e>
     <e><p><l>terminologiija<s n="n"/></l><r>terminologia<s n="n"/></r></p></e>
+    <e><p><l>terminologiijabargu<s n="n"/></l><r>terminologiapargo<s n="n"/></r></p></e>
     <e><p><l>váikkuhangaskaoapmi<s n="n"/></l><r>vaikuttemmáhđulâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>láđasmánnu<s n="n"/></l><r>lođâsmáánu<s n="n"/></r></p></e>
     <e><p><l>láđasmánnu<s n="n"/></l><r>lađâsmáánu<s n="n"/></r></p></e>
@@ -845,6 +848,7 @@
 
     <e><p><l>ii<s n="vblex"/></l><r>ii<s n="vblex"/></r></p></e>
 
+    <e><p><l>ollašuhttit<s n="vblex"/><s n="tv"/></l><r>olášuttiđ<s n="vblex"/></r></p></e>
     <e><p><l>fárrehit<s n="vblex"/><s n="tv"/></l><r>asâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>geatnegahttit<s n="vblex"/><s n="tv"/></l><r>kenigâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>ahtanuššat<s n="vblex"/><s n="tv"/></l><r>ovdániđ<s n="vblex"/></r></p></e>
