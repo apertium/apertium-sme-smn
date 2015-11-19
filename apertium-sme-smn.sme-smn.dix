@@ -166,9 +166,12 @@
     <e><p><l>goassige<s n="adv"/></l><r>kuássin<s n="adv"/></r></p></e>
     <e><p><l>goit<s n="adv"/></l><r>kuittâg<s n="adv"/></r></p></e>
     <e><p><l>meaddel<s n="adv"/></l><r>lappâd<s n="adv"/></r></p></e>
+    <e><p><l>aivve<s n="adv"/></l><r>aaibâs<s n="adv"/></r></p></e>
     <e><p><l>aivvefal<s n="adv"/></l><r>aaibâs<s n="adv"/></r></p></e>
     <e><p><l>maŋŋemaŋŋálaga<s n="adv"/></l><r>maŋaluvâi<s n="adv"/></r></p></e>
+    <e><p><l>maŋimustá<s n="adv"/></l><r>majemustáá<s n="adv"/></r></p></e>
     <e><p><l>seammás<s n="adv"/></l><r>siämmást<s n="adv"/></r></p></e>
+    <e><p><l>vuostálagaid<s n="adv"/></l><r>vuástáluvâi<s n="adv"/></r></p></e>
 
 
 
@@ -212,6 +215,7 @@
     <!-- SECTION: Adjectives -->
 
     <e><p><l>boaris<s n="adj"/></l><r>puáris<s n="adj"/></r></p></e>
+    <e><p><l>maŋit<s n="adj"/></l><r>majemuš<s n="adj"/></r></p></e>
     <e><p><l>áitatvuloš<s n="adj"/></l><r>uhkevuálásâš<s n="adj"/></r></p></e>
     <e><p><l>sierra<s n="adj"/></l><r>jiejâs<s n="adj"/></r></p></e>
     <e><p><l>fiskat<s n="adj"/></l><r>fiskâd<s n="adj"/></r></p></e>
@@ -283,6 +287,15 @@
     <!-- SECTION: Nouns -->
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
+    <e><p><l>álbmotbeaivedoalut<s n="n"/></l><r>aalmugpeivijuhle<s n="n"/></r></p></e>
+    <e><p><l>bággomuotkun<s n="n"/></l><r>págguvarrim<s n="n"/></r></p></e>
+    <e><p><l>vuostálat<s n="n"/></l><r>vuástálâh<s n="n"/></r></p></e>
+    <e><p><l>vealaheapmi<s n="n"/></l><r>olgoštem<s n="n"/></r></p></e>
+    <e><p><l>searvvušvuohta<s n="n"/></l><r>siärvuslâšvuotâ<s n="n"/></r></p></e>
+    <e><p><l>jávkadahttinviggamuš<s n="n"/></l><r>läpittemviggâmuš<s n="n"/></r></p></e>
+    <e><p><l>ávvu<s n="n"/></l><r>juhle<s n="n"/></r></p></e>
+    <e><p><l>oktiigullevašvuohta<s n="n"/></l><r>ohtâlâšvuotâ<s n="n"/></r></p></e>
+    <e><p><l>ávvudoalut<s n="n"/></l><r>juhlálâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>oktasašbargoorgána<s n="n"/></l><r>oovtâstpargo-orgaan<s n="n"/></r></p></e>
     <e><p><l>lávdu<s n="n"/></l><r>lavdâm<s n="n"/></r></p></e>
     <e><p><l>jiekŋabadji<s n="n"/></l><r>jieŋâpaje<s n="n"/></r></p></e>
@@ -657,6 +670,7 @@
 
     <!-- SECTION: Proper nouns -->
 
+    <e><p><l>Helsset<s n="np"/></l><r>Helsig<s n="np"/></r></p></e>
     <e><p><l>Máret<s n="np"/></l><r>Maarit<s n="np"/></r></p></e>
     <e><p><l>Duommá<s n="np"/></l><r>Tyemes<s n="np"/></r></p></e>
     <e><p><l>Ipmil<s n="np"/></l><r>Immeel<s n="np"/></r></p></e>
@@ -859,7 +873,13 @@
     <e><p><l>ii<s n="vblex"/></l><r>ii<s n="vblex"/></r></p></e>
 
     <e><p><l>ollašuhttit<s n="vblex"/><s n="tv"/></l><r>olášuttiđ<s n="vblex"/></r></p></e>
+    <e><p><l>bastit<s n="vblex"/><s n="tv"/></l><r>pasteđ<s n="vblex"/></r></p></e>
+    <e><p><l>ceavzit<s n="vblex"/><s n="tv"/></l><r>cevziđ<s n="vblex"/></r></p></e>
+    <e><p><l>suddadit<s n="vblex"/><s n="tv"/></l><r>suddâluttiđ<s n="vblex"/></r></p></e>
+    <e><p><l>suitit<s n="vblex"/><s n="tv"/></l><r>suitteđ<s n="vblex"/></r></p></e>
+    <e><p><l>muosáhit<s n="vblex"/><s n="tv"/></l><r>feeriđ<s n="vblex"/></r></p></e>
     <e><p><l>riggudit<s n="vblex"/><s n="tv"/></l><r>virkosmitteđ<s n="vblex"/></r></p></e>
+    <e><p><l>gárggiidit<s n="vblex"/><s n="tv"/></l><r>ovdediđ<s n="vblex"/></r></p></e>
     <e><p><l>ásaiduvvat<s n="vblex"/><s n="tv"/></l><r>asâidutteđ<s n="vblex"/></r></p></e>
     <e><p><l>eaktudit<s n="vblex"/><s n="tv"/></l><r>vaattâđ<s n="vblex"/></r></p></e>
     <e><p><l>fárrehit<s n="vblex"/><s n="tv"/></l><r>asâttiđ<s n="vblex"/></r></p></e>
@@ -1872,6 +1892,7 @@
 
     <e><p><l>admirála<s n="n"/></l><r>amiraal<s n="n"/></r></p></e>
     <e><p><l>adreassa<s n="n"/></l><r>čujottâs<s n="n"/></r></p></e>
+    <e><p><l>válgabadji<s n="n"/></l><r>vaaljâpaje<s n="n"/></r></p></e>
     <e><p><l>adveanta<s n="n"/></l><r>advent<s n="n"/></r></p></e>
     <e><p><l>advokáhta<s n="n"/></l><r>äššivyeijee<s n="n"/></r></p></e>
     <e><p><l>ahki<s n="n"/></l><r>ahe<s n="n"/></r></p></e>
