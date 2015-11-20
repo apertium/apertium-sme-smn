@@ -148,6 +148,7 @@
     <e><p><l>čađa<s n="po"/></l><r>čoođâ<s n="po"/></r></p></e>
     <e><p><l>birra<s n="po"/></l><r>pirrâ<s n="po"/></r></p></e>
     <e><p><l>rájes<s n="po"/></l><r>rääjist<s n="po"/></r></p></e>
+    <e><p><l>háldui<s n="po"/></l><r>haaldun<s n="po"/></r></p></e>
 
     <!-- SECTION: Particles -->
 
@@ -216,6 +217,7 @@
 
     <e><p><l>boaris<s n="adj"/></l><r>puáris<s n="adj"/></r></p></e>
     <e><p><l>maŋit<s n="adj"/></l><r>majemuš<s n="adj"/></r></p></e>
+    <e><p><l>servodatlaš<s n="adj"/></l><r>ohtsâškodálâš<s n="adj"/></r></p></e>
     <e><p><l>áitatvuloš<s n="adj"/></l><r>uhkevuálásâš<s n="adj"/></r></p></e>
     <e><p><l>sierra<s n="adj"/></l><r>jiejâs<s n="adj"/></r></p></e>
     <e><p><l>fiskat<s n="adj"/></l><r>fiskâd<s n="adj"/></r></p></e>
@@ -290,7 +292,14 @@
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
     <e><p><l>álbmotbeaivedoalut<s n="n"/></l><r>aalmugpeivijuhle<s n="n"/></r></p></e>
+    <e><p><l>ávvuguossit<s n="n"/></l><r>juhleviehâ<s n="n"/></r></p></e>
+    <e><p><l>eananvuoigatvuohtagažaldat<s n="n"/></l><r>eennâmvuogâdvuođâkoččâmâš<s n="n"/></r></p></e>
+    <e><p><l>dásseváldi<s n="n"/></l><r>täsiväldi<s n="n"/></r></p></e>
     <e><p><l>ávvir<s n="n"/></l><r>huolâ<s n="n"/></r></p></e>
+    <e><p><l>árru<s n="n"/></l><r>iästu<s n="n"/></r></p></e>
+    <e><p><l>kulturiešstivren<s n="n"/></l><r>kulttuurjiešhaldâšem<s n="n"/></r></p></e>
+    <e><p><l>váikkuhanváldi<s n="n"/></l><r>vaikuttâsväldi<s n="n"/></r></p></e>
+    <e><p><l>áidnalunddotvuohta<s n="n"/></l><r>áinoošlajâsâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>oktiigullevašvuohta<s n="n"/></l><r>oohtânkulluuvâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>bággomuotkun<s n="n"/></l><r>págguvarrim<s n="n"/></r></p></e>
     <e><p><l>vuostálat<s n="n"/></l><r>vuástálâh<s n="n"/></r></p></e>
@@ -878,7 +887,9 @@
 
     <e><p><l>ollašuhttit<s n="vblex"/><s n="tv"/></l><r>olášuttiđ<s n="vblex"/></r></p></e>
     <e><p><l>bastit<s n="vblex"/><s n="tv"/></l><r>pasteđ<s n="vblex"/></r></p></e>
+    <e><p><l>movttiidahttit<s n="vblex"/><s n="tv"/></l><r>movtijdittiđ<s n="vblex"/></r></p></e>
     <e><p><l>ceavzit<s n="vblex"/><s n="tv"/></l><r>cevziđ<s n="vblex"/></r></p></e>
+    <e><p><l>čoavdit<s n="vblex"/><s n="tv"/></l><r>čuávdiđ<s n="vblex"/></r></p></e>
     <e><p><l>suddadit<s n="vblex"/><s n="tv"/></l><r>suddâluttiđ<s n="vblex"/></r></p></e>
     <e><p><l>suitit<s n="vblex"/><s n="tv"/></l><r>suitteđ<s n="vblex"/></r></p></e>
     <e><p><l>muosáhit<s n="vblex"/><s n="tv"/></l><r>feeriđ<s n="vblex"/></r></p></e>
