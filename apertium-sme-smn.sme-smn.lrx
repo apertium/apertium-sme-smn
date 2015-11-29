@@ -16,7 +16,9 @@ Write comments to forthcoming rules before this line -->
 
  
   <rule weight="1.0">
-    <match lemma="gárdin" tags="n.*"><select lemma="muorâkärdi" tags="n.*"/></match>
+    <match lemma="gárdin" tags="n.*">
+      <select lemma="muorâkärdi" tags="n.*"/>
+    </match>
   </rule>
 
   <rule weight="1.0">
@@ -24,11 +26,15 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="1.0">
-    <match lemma="sápmi" tags="n.sg.*"><select lemma="säämi" tags="n.sg.*"/></match>
+    <match lemma="sápmi" tags="n.sg.*">
+      <select lemma="säämi" tags="n.sg.*"/>
+    </match>
   </rule>
 
   <rule weight="1.0">
-    <match lemma="sápmi" tags="n.pl.*"><select lemma="sämmilâš" tags="n.pl.*"/></match>
+    <match lemma="sápmi" tags="n.pl.*">
+      <select lemma="sämmilâš" tags="n.pl.*"/>
+    </match>
   </rule>
 
 </rules>
