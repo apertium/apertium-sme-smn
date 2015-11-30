@@ -35,8 +35,9 @@
       <cat-item tags="vblex.der_nomact.n.cmp_sgnom.cmp"/> 
       <cat-item tags="vblex.*.der_nomact.n.cmp_sgnom.cmp.*"/> 
       <cat-item tags="vblex.der_nomact.n.cmp_sgnom.cmp.*"/> 
+      <cat-item tags="adj.cmp_sgnom.cmp.*"/> 
     </def-cat>
-   <def-cat n="negverb">
+  <def-cat n="negverb">
       <cat-item tags="vblex.iv.neg.indic.p3.sg"/>
     </def-cat>
    <def-cat n="foc">
@@ -59,6 +60,7 @@
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
       <cat-item tags="n.der_sâš.adj.*"/>
+      <cat-item tags="n.der_lâš.adj.*"/>
     </def-cat>
     <def-cat n="adv">
       <cat-item tags="adj.der_at.adv.*"/>
@@ -571,6 +573,12 @@
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_vuohta"/></equal>
           </test>
           <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_vuotâ"/></let> 
+        </when>
+        <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_laš"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_lâš"/></let> 
         </when>
 
         <when>
