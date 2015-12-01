@@ -1166,7 +1166,7 @@
     <e><p><l>mielkái<s n="adj"/></l><r>miälkkáá<s n="adj"/></r></p></e>
     <e><p><l>miellagiddevaš<s n="adj"/></l><r>mielâkiddiivâš<s n="adj"/></r></p></e>
     <e><p><l>mirkkolaš<s n="adj"/></l><r>mirhâlâš<s n="adj"/></r></p></e>
-    <e><p><l>mollui<s n="adj"/></l><r>smiäru<s n="adj"/></r></p></e><!-- not in sme -->
+    <e><p><l>mollui<s n="adj"/></l><r>smiäru<s n="adj"/></r></p></e><!-- not in sme; MLO: only in compounds, 1st part -->
     <e><p><l>morris<s n="adj"/></l><r>murriš<s n="adj"/></r></p></e>
     <e><p><l>muolddas<s n="adj"/></l><r>muldáá<s n="adj"/></r></p></e>
     <e><p><l>muttolaš<s n="adj"/></l><r>kuáhtulâš<s n="adj"/></r></p></e>
@@ -1185,7 +1185,7 @@
     <e><p><l>norgalaš<s n="adj"/></l><r>taažâ<s n="adj"/></r></p></e>
     <e><p><l>normála<s n="adj"/></l><r>normaal<s n="adj"/></r></p></e>
     <e><p><l>nuoski<s n="adj"/></l><r>nyeski<s n="adj"/></r></p></e>
-    <e><p><l>nuppelágan<s n="adj"/></l><r>nubemuáđusâš<s n="adj"/></r></p></e>
+    <e><p><l>nuppelágan<s n="adj"/></l><r>nubelágán<s n="adj"/></r></p></e>
     <e><p><l>nurddas<s n="adj"/></l><r>nurssáá<s n="adj"/></r></p></e>
     <e><p><l>nurssas<s n="adj"/></l><r>nurssáá<s n="adj"/></r></p></e>
     <e><p><l>nállevealaheapmi<s n="adj"/></l><r>raasistlâš<s n="adj"/></r></p></e>
@@ -1214,7 +1214,7 @@
     <e><p><l>politihkalaš<s n="adj"/></l><r>pooliitlâš<s n="adj"/></r></p></e>
     <e><p><l>positiiva<s n="adj"/></l><r>positiivlâš<s n="adj"/></r></p></e>
     <e><p><l>positiivvalaš<s n="adj"/></l><r>positiivlâš<s n="adj"/></r></p></e>
-    <e><p><l>psyhkalaš<s n="adj"/></l><r>psyykkilâš<s n="adj"/></r></p></e>
+    <e><p><l>psyhkalaš<s n="adj"/></l><r>psyykkisâš<s n="adj"/></r></p></e>
     <e><p><l>psykiátralaš<s n="adj"/></l><r>psykiatrâlâš<s n="adj"/></r></p></e>
     <e><p><l>rasisttalaš<s n="adj"/></l><r>raasiistlâš<s n="adj"/></r></p></e>
     <e><p><l>reavas<s n="adj"/></l><r>murriš<s n="adj"/></r></p></e>
@@ -1250,15 +1250,15 @@
     <e><p><l>seahkálas<s n="adj"/></l><r>siähálâs<s n="adj"/></r></p></e>
     <e><p><l>sealvi<s n="adj"/></l><r>čielgâs<s n="adj"/></r></p></e>
     <e><p><l>sealvvas<s n="adj"/></l><r>čielgâs<s n="adj"/></r></p></e>
-    <e><p><l>seamma<b/>ládje<s n="adj"/></l><r>siämmáá<s n="adj"/></r></p></e>
+    <e><p><l>seamma<b/>ládje<s n="adj"/></l><r>siämmáánáál<s n="adj"/></r></p></e> <!-- seamma ládje, smn siämmáánáál -->
     <e><p><l>seammalágan<s n="adj"/></l><r>siämmáálágán<s n="adj"/></r></p></e>
-    <e><p><l>seammasullasaš<s n="adj"/></l><r>siämmáálágán<s n="adj"/></r></p></e>
+    <e><p><l>seammasullasaš<s n="adj"/></l><r>siämmáámuđusâš<s n="adj"/></r></p></e>
     <e><p><l>sierra<s n="adj"/></l><r>sierâ<s n="adj"/></r></p></e>
     <e><p><l>sierranas<s n="adj"/></l><r>sierâ<s n="adj"/></r></p></e>
     <e><p><l>sieđas<s n="adj"/></l><r>mavresteijee<s n="adj"/></r></p></e>
     <e><p><l>sieđus<s n="adj"/></l><r>mavresteijee<s n="adj"/></r></p></e>
     <e><p><l>sihkar<s n="adj"/></l><r>vises<s n="adj"/></r></p></e>
-    <e><p><l>siivui<s n="adj"/></l><r>nánnáá<s n="adj"/></r></p></e>
+    <e><p><l>siivui<s n="adj"/></l><r>sijvuu<s n="adj"/></r></p></e>
     <e><p><l>siskkildas<s n="adj"/></l><r>siskáldâs<s n="adj"/></r></p></e>
     <e><p><l>siskkáldas<s n="adj"/></l><r>siskáldâs<s n="adj"/></r></p></e>
     <e><p><l>siviila<s n="adj"/></l><r>siiviil<s n="adj"/></r></p></e>
@@ -1307,15 +1307,15 @@
     <e><p><l>ustitlaš<s n="adj"/></l><r>ustevlâš<s n="adj"/></r></p></e>
     <e><p><l>ustitmeahttun<s n="adj"/></l><r>epiustevlâš<s n="adj"/></r></p></e>
     <e><p><l>vadni<s n="adj"/></l><r>vannee<s n="adj"/></r></p></e>
-    <e><p><l>vahátlaš<s n="adj"/></l><r>háitulâš<s n="adj"/></r></p></e>
-    <e><p><l>vašálaš<s n="adj"/></l><r>vajemielâlâš<s n="adj"/></r></p></e>
+    <e><p><l>vahátlaš<s n="adj"/></l><r>vaagâglâš<s n="adj"/></r></p></e>
+    <e><p><l>vašálaš<s n="adj"/></l><r>vajalâš<s n="adj"/></r></p></e>
     <e><p><l>veaddjil<s n="adj"/></l><r>hormiš<s n="adj"/></r></p></e>
     <e><p><l>veadjemeahttun<s n="adj"/></l><r>máhđuttem<s n="adj"/></r></p></e>
     <e><p><l>veahkaválddálaš<s n="adj"/></l><r>viehâváldálâš<s n="adj"/></r></p></e>
     <e><p><l>veahkil<s n="adj"/></l><r>vievâst<s n="adj"/></r></p></e>
     <e><p><l>vealggeheapme<s n="adj"/></l><r>velgittem<s n="adj"/></r></p></e>
     <e><p><l>vearuheapme<s n="adj"/></l><r>viäruttem<s n="adj"/></r></p></e>
-    <e><p><l>veađar<s n="adj"/></l><r>ovdánâm<s n="adj"/></r></p></e>
+    <e><p><l>veađar<s n="adj"/></l><r>ovdánâm<s n="adj"/></r></p></e> !-- the word does not exist in smn -->
     <e><p><l>vieljalaš<s n="adj"/></l><r>viljâlâš<s n="adj"/></r></p></e><!-- not in sme -->
     <e><p><l>viiddis<s n="adj"/></l><r>viijđes<s n="adj"/></r></p></e>
     <e><p><l>virggálaš<s n="adj"/></l><r>virgálâš<s n="adj"/></r></p></e>
@@ -1327,8 +1327,8 @@
     <e><p><l>vuoimmálaš<s n="adj"/></l><r>vuáimálâš<s n="adj"/></r></p></e>
     <e><p><l>vuoiŋŋalaš<s n="adj"/></l><r>vuoiŋâlâš<s n="adj"/></r></p></e>
     <e><p><l>vuolimus<s n="adj"/></l><r>vyelemus<s n="adj"/></r></p></e>
-    <e><p><l>vuollásaš<s n="adj"/></l><r>vuálááš<s n="adj"/></r></p></e>
-    <e><p><l>vuordevaš<s n="adj"/></l><r>tuoivâlâš<s n="adj"/></r></p></e>
+    <e><p><l>vuollásaš<s n="adj"/></l><r>vuálásâš<s n="adj"/></r></p></e>
+    <e><p><l>vuordevaš<s n="adj"/></l><r>kierdâvâš<s n="adj"/></r></p></e>
     <e><p><l>vuđolaš<s n="adj"/></l><r>vuáđulâš<s n="adj"/></r></p></e>
     <e><p><l>válljugas<s n="adj"/></l><r>válju<s n="adj"/></r></p></e>
     <e><p><l>váralaš<s n="adj"/></l><r>varâlâš<s n="adj"/></r></p></e>
@@ -1351,7 +1351,7 @@
     <e><p><l>álggolaš<s n="adj"/></l><r>algâlâš<s n="adj"/></r></p></e>
     <e><p><l>ámmátlaš<s n="adj"/></l><r>áámmátlâš<s n="adj"/></r></p></e>
     <e><p><l>ánssolaš<s n="adj"/></l><r>ánsulâš<s n="adj"/></r></p></e><!-- not in sme -->
-    <e><p><l>ánssáškeahttá<s n="adj"/></l><r>áánsášmettum<s n="adj"/></r></p></e><!-- not in sme -->
+    <e><p><l>ánssáškeahttá<s n="adj"/></l><r>áánsášmettum<s n="adj"/></r></p></e><!-- not in sme; MLO: no adjective -->
     <e><p><l>árrat<s n="adj"/></l><r>tooláá<s n="adj"/></r></p></e>
     <e><p><l>ásialaš<s n="adj"/></l><r>aasialâš<s n="adj"/></r></p></e><!-- not in sme -->
     <e><p><l>ávdugas<s n="adj"/></l><r>avdâgâs<s n="adj"/></r></p></e>
@@ -1368,16 +1368,16 @@
     <e><p><l>čujolaš<s n="adj"/></l><r>čyeijil<s n="adj"/></r></p></e>
     <e><p><l>čuođát<s n="adj"/></l><r>čuáđáád<s n="adj"/></r></p></e>
     <e><p><l>čálalaš<s n="adj"/></l><r>kirjálâš<s n="adj"/></r></p></e>
-    <e><p><l>čálekeahttá<s n="adj"/></l><r>čälimettum<s n="adj"/></r></p></e><!-- not in sme -->
+    <e><p><l>čálekeahttá<s n="adj"/></l><r>čälihánnáá<s n="adj"/></r></p></e><!-- not in sme; no adjective -->
     <e><p><l>šealgat<s n="adj"/></l><r>kildee<s n="adj"/></r></p></e>
-    <e><p><l>šiehttil<s n="adj"/></l><r>ucce<s n="adj"/></r></p></e>
+    <e><p><l>šiehttil<s n="adj"/></l><r>ucce<s n="adj"/></r></p></e>!-- no proper equivalent -->
     <e><p><l>šlinzzas<s n="adj"/></l><r>sile<s n="adj"/></r></p></e>
-    <e><p><l>šlurvvas<s n="adj"/></l><r>nakkanttim<s n="adj"/></r></p></e>
+    <e><p><l>šlurvvas<s n="adj"/></l><r>nakkanttem<s n="adj"/></r></p></e>
 
     <e><p><l>addálas<s n="adj"/></l><r>addalâš<s n="adj"/></r></p></e>
     <e><p><l>agálaš<s n="adj"/></l><r>avalâš<s n="adj"/></r></p></e>
     <e><p><l>albma<s n="adj"/></l><r>olmâ<s n="adj"/></r></p></e>
-    <e><p><l>alit<s n="adj"/></l><r>čuávjáđ<s n="adj"/></r></p></e>
+    <e><p><l>alit<s n="adj"/></l><r>čuovjâd<s n="adj"/></r></p></e>
     <e><p><l>almmolaš<s n="adj"/></l><r>almolâš<s n="adj"/></r></p></e>
     <e><p><l>almmus<s n="adj"/></l><r>almos<s n="adj"/></r></p></e>
     <e><p><l>arveš<s n="adj"/></l><r>iäljár<s n="adj"/></r></p></e> <!-- not in sme -->
