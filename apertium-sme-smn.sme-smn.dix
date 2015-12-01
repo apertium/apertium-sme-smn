@@ -99,7 +99,8 @@
 
     <e><p><l>dat<s n="prn"/><s n="dem"/></l><r>tot<s n="prn"/><s n="dem"/></r></p></e>
 
-    <e><p><l>mii<s n="prn"/><s n="itg"/></l><r>mij<s n="prn"/><s n="itg"/></r></p></e>
+    <!--<e><p><l>mii<s n="prn"/><s n="itg"/></l><r>mij<s n="prn"/><s n="itg"/></r></p></e>-->
+    <e><p><l>mii<s n="prn"/><s n="itg"/></l><r>mii<s n="prn"/><s n="itg"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="itg"/></l><r>kii<s n="prn"/><s n="itg"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="itg"/></l><r>kote<s n="prn"/><s n="itg"/></r></p></e>
 
@@ -963,7 +964,7 @@
 
     <!-- SECTION: Punctuation -->
 
-    <e><re>[.\?:;]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+    <e><re>[.\?:;!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
     <e><p><l>"<s n="quot"/></l><r>"<s n="quot"/></r></p></e>
     <e><re>[0-9]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
