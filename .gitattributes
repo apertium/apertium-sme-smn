@@ -17,6 +17,7 @@
 /apertium-sme-smn.smn-sme.t3x -text
 /autogen.sh -text
 /configure.ac -text
+dev/bidix-sanity.sh -text
 /gt2apertium.cg3r -text
 inc/parallell-text-not-bidix.freq -text
 /modes.xml -text
