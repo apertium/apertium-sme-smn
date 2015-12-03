@@ -58,8 +58,6 @@
     <sdef n="nom"/>
     <sdef n="ess"/>
     <sdef n="par"/>
-    <sdef n="hom1"/>
-    <sdef n="hom2"/>
     <sdef n="superl"/>
     <sdef n="prfprc"/>
     <sdef n="der_avt"/>
@@ -155,7 +153,7 @@
 
     <!-- SECTION: Particles -->
 
-    <e><p><l>ain<s n="adv"/></l><r>ain<s n="pcle"/></r></p></e>
+    <e><p><l>ain<s n="adv"/></l><r>ain<s n="adv"/></r></p></e>
     <e><p><l>nai<s n="pcle"/></l><r>-uv<s n="adv"/></r></p></e>
     <e><p><l>ge<s n="pcle"/></l><r>gin<s n="pcle"/></r></p></e>
 
@@ -940,7 +938,7 @@
     <e><p><l>vánddardit<s n="vblex"/><s n="tv"/></l><r>vandârdiđ<s n="vblex"/></r></p></e>
     <e><p><l>jienastit<s n="vblex"/><s n="tv"/></l><r>jienâstiđ<s n="vblex"/></r></p></e>
     <e><p><l>dahkat<s n="vblex"/><s n="tv"/></l><r>toohâđ<s n="vblex"/></r></p></e>
-    <e><p><l>gullat<s n="vblex"/><s n="tv"/></l><r>kuullâđ<s n="hom1"/><s n="vblex"/></r></p></e>
+    <e><p><l>gullat<s n="vblex"/><s n="tv"/></l><r>kuullâđ¹<s n="vblex"/></r></p></e>
     <e><p><l>gálgat<s n="vblex"/><s n="tv"/></l><r>kalgâđ<s n="vblex"/></r></p></e>
     <e><p><l>viehkat<s n="vblex"/><s n="iv"/></l><r>kaččâđ<s n="vblex"/></r></p></e>
     <e><p><l>válljet<s n="vblex"/><s n="tv"/></l><r>valjiđ<s n="vblex"/></r></p></e>
