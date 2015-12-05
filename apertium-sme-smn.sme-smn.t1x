@@ -61,6 +61,8 @@
       <cat-item tags="adj.*"/>
       <cat-item tags="n.der_sâš.adj.*"/>
       <cat-item tags="n.der_lâš.adj.*"/>
+      <cat-item tags="n.der_laš.adj.*"/>
+      <cat-item tags="n.der_saš.adj.*"/>
     </def-cat>
     <def-cat n="adv">
       <cat-item tags="adj.der_at.adv.*"/>
@@ -579,6 +581,12 @@
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_laš"/></equal>
           </test>
           <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_lâš"/></let> 
+        </when>
+        <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_l"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_l"/></let> 
         </when>
 
         <when>

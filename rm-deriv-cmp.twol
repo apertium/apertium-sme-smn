@@ -18,7 +18,6 @@ Alphabet
 %<der%_amoš%>
 %<der%_asat%>
 %<der%_asti%>
-%<der%_at%>
 %<der%_beaivásaš%>
 %<der%_bealat%>
 %<der%_bealjat%>
@@ -71,12 +70,10 @@ Alphabet
 %<der%_juvllat%>
 %<der%_kilosaš%>
 %<der%_kultuvrrat%>
-%<der%_l%>
 %<der%_lahkat%>
 %<der%_lahtot%>
 %<der%_lanjat%>
 %<der%_las%>
-%<der%_laš%>
 %<der%_leakkat%>
 %<der%_liikkat%>
 %<der%_linjjat%>
@@ -339,7 +336,9 @@ Derivations =
 ;
 
 HandledDerivations =
+%<der%_at%>
 %<der%_halla%>
+%<der%_l%>
 %<der%_alla%>
 %<der%_passl%>
 %<der%_passs%>
@@ -349,6 +348,7 @@ HandledDerivations =
 %<der%_ahtti%>
 %<der%_h%>
 %<der%_d%>
+%<der%_laš%>
 %<der%_st%>
 %<der%_nomag%>
 %<der%_nomact%>
