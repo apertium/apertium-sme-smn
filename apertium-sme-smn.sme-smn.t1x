@@ -18,7 +18,6 @@
     </def-cat>
      <def-cat n="verbinf">
       <cat-item tags="vblex.*.inf.*"/>
-      <cat-item tags="vblex.inf.*"/>
     </def-cat>
    <def-cat n="nnomcmp">
       <cat-item tags="n.cmp_sgnom.cmp"/>
@@ -254,6 +253,8 @@
        <attr-item tags="der_dimin.n"/>
        <attr-item tags="der_at"/>
        <attr-item tags="der_goahti"/>
+       <attr-item tags="der_passs"/>
+       <attr-item tags="der_passl"/>
        <attr-item tags="der_l"/>
        <attr-item tags="der_ahtti"/>
        <attr-item tags="der_vuohta"/>
@@ -612,6 +613,18 @@
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_goahti"/></equal>
           </test>
           <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_kyetti"/></let> 
+        </when>
+         <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_passs"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_pass"/></let> 
+        </when>
+         <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_passl"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_pass"/></let> 
         </when>
     </choose>
     </def-macro>  
