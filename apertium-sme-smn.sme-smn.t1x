@@ -94,6 +94,13 @@
     <def-cat n="n-sg-gen">                             
       <cat-item tags="n.*.sg.gen.*"/>                     
     </def-cat>  
+    <def-cat n="n-sg-pl-gen">                             
+      <cat-item tags="n.*.sg.gen.*"/>                     
+      <cat-item tags="n.*.pl.gen.*"/>                     
+    </def-cat>  
+    <def-cat n="haga">
+      <cat-item lemma="haga" tags="po.*"/>
+    </def-cat>
 
 <!-- from sme-nob starts -->
     <def-cat n="prn">
@@ -939,6 +946,31 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: haga-po"> <!-- De manne gápmagiid haga olggos. Te monnii kammuittáá olgos. -->
+      <pattern>
+        <pattern-item n="n-sg-pl-gen"/>
+        <pattern-item n="haga"/>
+      </pattern>
+      <action>
+        <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
+         <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="abe"/></let> 
+        <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let> 
+	<out>
+          <chunk name="haga-po">
+            <tags>
+              <tag><lit-tag v="PP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>    
+              <clip pos="1" side="tl" part="tags"/>   
+	        </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: birra-px"> <!-- Son geahččá birra. Sun kiäččá pirrâsis. -->
       <pattern>
