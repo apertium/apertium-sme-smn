@@ -107,6 +107,7 @@
     <!--    SECTION: Interjections -->
 
     <e><p><l>vuoi<s n="ij"/></l><r>vuoi<s n="ij"/></r></p></e>
+    <e><p><l>na<s n="pcle"/></l><r>na<s n="ij"/></r></p></e>
 
 
     <!-- SECTION: Pronouns -->
@@ -165,6 +166,7 @@
     <e><p><l>ovddas<s n="po"/></l><r>oovdâst<s n="po"/></r></p></e>
     <e><p><l>siste<s n="po"/></l><r>siste<s n="po"/></r></p></e>
     <e><p><l>vuolde<s n="po"/></l><r>vyelni<s n="po"/></r></p></e>
+    <e><p><l>dáfus<s n="po"/></l><r>tááhust<s n="po"/></r></p></e>
     <e><p><l>čađa<s n="po"/></l><r>čoođâ<s n="po"/></r></p></e>
     <e><p><l>birra<s n="po"/></l><r>pirrâ<s n="po"/></r></p></e>
     <e><p><l>rájes<s n="po"/></l><r>rääjist<s n="po"/></r></p></e>
@@ -177,6 +179,8 @@
     <e><p><l>ain<s n="adv"/></l><r>ain<s n="adv"/></r></p></e>
     <e><p><l>nai<s n="pcle"/></l><r>-uv<s n="adv"/></r></p></e>
     <e><p><l>ge<s n="pcle"/></l><r>gin<s n="pcle"/></r></p></e>
+    <e><p><l>gis<s n="pcle"/></l><r>gis<s n="pcle"/></r></p></e>
+    <e><p><l>ges<s n="pcle"/></l><r>ges<s n="pcle"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
 
@@ -237,7 +241,10 @@
     <e><p><l>áidna<s n="adv"/></l><r>áinoo<s n="adv"/></r></p></e>
     <e><p><l>áidnu<s n="adv"/></l><r>áinoo<s n="adv"/></r></p></e>
     <e><p><l>álo<s n="adv"/></l><r>ain<s n="adv"/></r></p></e>
+    <e><p><l>oarjjás<s n="adv"/></l><r>viestârân<s n="adv"/></r></p></e>
     <e><p><l>maid<s n="adv"/></l><r>maid<s n="adv"/></r></p></e>
+    <e><p><l>oktanaga<s n="adv"/></l><r>siämmáá<b/>ääigi<s n="adv"/></r></p></e>
+    <e><p><l>na<s n="pcle"/></l><r>na<s n="adv"/></r></p></e>
 
     <!-- SECTION: Adjectives -->
 
@@ -322,6 +329,7 @@
     <e><p><l>ávvuguossit<s n="n"/></l><r>juhleviehâ<s n="n"/></r></p></e>
     <e><p><l>eananvuoigatvuohtagažaldat<s n="n"/></l><r>eennâmvuogâdvuođâkoččâmâš<s n="n"/></r></p></e>
     <e><p><l>sáiti<s n="n"/></l><r>säitti<s n="n"/></r></p></e>
+    <e><p><l>luoddaearru<s n="n"/></l><r>luoddâiäru<s n="n"/></r></p></e>
     <e><p><l>guollegáhkku<s n="n"/></l><r>kyelikákku<s n="n"/></r></p></e>
     <e><p><l>várrevielti<s n="n"/></l><r>värivieltti<s n="n"/></r></p></e>
     <e><p><l>vielti<s n="n"/></l><r>vieltti<s n="n"/></r></p></e>
@@ -1804,10 +1812,11 @@
 
     <e><p><l>láhčit<s n="vblex"/><s n="tv"/></l><r>orniđ<s n="vblex"/></r></p></e><!-- default -->
     <e><p><l>láhčit<s n="vblex"/><s n="tv"/></l><r>lääččiđ<s n="vblex"/></r></p></e>
+    <e><p><l>gámahit<s n="vblex"/><s n="tv"/></l><r>kamâdâttâđ<s n="vblex"/></r></p></e>
     <e><p><l>ollašuhttit<s n="vblex"/><s n="tv"/></l><r>olášuttiđ<s n="vblex"/></r></p></e>
     <e><p><l>lávet<s n="vblex"/><s n="tv"/></l><r>laaviđ<s n="vblex"/></r></p></e>
     <e><p><l>doallat<s n="vblex"/><s n="tv"/></l><r>toollâđ<s n="vblex"/></r></p></e>
-    <e><p><l>buolaštit<s n="vblex"/><s n="tv"/></l><r>puolâštiđ<s n="vblex"/></r></p></e>
+    <e><p><l>buolaštit<s n="vblex"/><s n="iv"/></l><r>puolâštiđ<s n="vblex"/></r></p></e>
     <e><p><l>dollet<s n="vblex"/><s n="tv"/></l><r>tolliđ<s n="vblex"/></r></p></e>
     <e><p><l>čielgat<s n="vblex"/><s n="tv"/></l><r>čielgâđ<s n="vblex"/></r></p></e>
     <e><p><l>oaguhit<s n="vblex"/><s n="tv"/></l><r>uávuttiđ<s n="vblex"/></r></p></e>
@@ -1866,6 +1875,8 @@
     <e><p><l>čohkkát<s n="vblex"/><s n="iv"/></l><r>čokkáđ<s n="vblex"/></r></p></e>
     <e><p><l>čállit<s n="vblex"/><s n="tv"/></l><r>čäälliđ<s n="vblex"/></r></p></e>
     <e><p><l>geargat<s n="vblex"/><s n="iv"/></l><r>kiergâniđ<s n="vblex"/></r></p></e>
+    <e><p><l>muohttit<s n="vblex"/><s n="iv"/></l><r>myettiđ<s n="vblex"/></r></p></e>
+    <e><p><l>goallut<s n="vblex"/><s n="iv"/></l><r>kalmeđ<s n="vblex"/></r></p></e>
 
 
     <!-- SECTION: Punctuation -->
@@ -6650,7 +6661,7 @@
     <e><p><l>áŋgiruššat<s n="vblex"/><s n="iv"/></l><r>äŋgiruššâđ<s n="vblex"/></r></p></e>
     <e><p><l>áššut<s n="vblex"/><s n="tv"/></l><r>illâluđ<s n="vblex"/></r></p></e>
     <e><p><l>áššáskuhttit<s n="vblex"/><s n="iv"/></l><r>ášáskuttiđ<s n="vblex"/></r></p></e>
-    <e><p><l>šaddat<s n="vblex"/><s n="tv"/></l><r>šoddâđ<s n="vblex"/></r></p></e>
+    <e><p><l>šaddat<s n="vblex"/><s n="iv"/></l><r>šoddâđ<s n="vblex"/></r></p></e>
     <e><p><l>čaibmat<s n="vblex"/><s n="tv"/></l><r>povvustiđ<s n="vblex"/></r></p></e>
     <e><p><l>časkit<s n="vblex"/><s n="tv"/></l><r>časkeđ<s n="vblex"/></r></p></e>
     <e><p><l>čatnat<s n="vblex"/><s n="tv"/></l><r>čoonnâđ<s n="vblex"/></r></p></e>
