@@ -41,3 +41,14 @@ Transfernjuolggadus mii doaibmá:
 echo 'Sii manne gápmagiid haga olggos.' | apertium -d . sme-smn
 Sij monnii kammuittáá olgos.
 
+kuáimásis
+kuáimásis	kyeimi+N+Sg+Ill+PxDu3
+kuáimásis	kyeimi+N+Sg+Ill+PxPl3
+kuáimásis	kyeimi+N+Sg+Ill+PxSg3
+
+guhtetguoibmáseaset
+guhtetguoibmáseaset	guhtet guoibmi+Pron+Recipr+Sg+Ill+Err/Orth+PxPl3
+
+Vuoi maailm, mon čuáskis täälgis lii! sij vaidii kuáimásis. 
+
+Vâi maailm, maht #čuáskis tot tääl *gis lii! Vaidâlii *guhtetguoibmáseaset.
