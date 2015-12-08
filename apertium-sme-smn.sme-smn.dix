@@ -6756,7 +6756,7 @@
     <e><p><l>on<s n="adv"/></l><r>taas<s n="adv"/></r></p></e>
     <e><p><l>on<s n="adv"/></l><r>vuod<s n="adv"/></r></p></e>
     <e><p><l>maŋŋá<s n="adv"/></l><r>maŋa<s n="adv"/></r></p></e>
-    <e><p><l>almmá<s n="adv"/></l><r>nuhhuđ<s n="adv"/></r></p></e><!-- smn: with abessive -ttáá -->
+    <e><p><l>almmá<s n="adv"/></l><r><s n="adv"/></r></p></e><!-- smn: with abessive -ttáá -->
     <e><p><l>nie<s n="adv"/></l><r>nuuvt<s n="adv"/></r></p></e>
     <e><p><l>ruoktot<s n="adv"/></l><r>pááikán<s n="adv"/></r></p></e>
     <e><p><l>nappo<s n="adv"/></l><r>talle<s n="adv"/></r></p></e>
@@ -6827,7 +6827,7 @@
     <e><p><l>ruossut<s n="adv"/></l><r>ruássud<s n="adv"/></r></p></e>
     <e><p><l>vátni<s n="adv"/></l><r>vääniht<s n="adv"/></r></p></e>
     <e><p><l>njulgestaga<s n="adv"/></l><r>njuolgist<s n="adv"/></r></p></e>
-    <e><p><l>taga<s n="adv"/></l><r><s n="adv"/></r></p></e><!-- sme:abessive; should be po in sme; see also haga -->
+    <e><p><l>taga<s n="po"/></l><r></r></p></e><!-- sme:abessive; should be po in sme; see also haga -->
     <e><p><l>sneakta<s n="adv"/></l><r>rasta<s n="adv"/></r></p></e>
     <e><p><l>ihcalassii<s n="adv"/></l><r>jiešmeidlist<s n="adv"/></r></p></e>
     <e><p><l>joksege<s n="adv"/></l><r>suulân<s n="adv"/></r></p></e>
@@ -8435,7 +8435,7 @@
     <e><p><l>mielde<s n="po"/></l><r>mieldi<s n="po"/></r></p></e>
     <e><p><l>gaskkas<s n="po"/></l><r>kooskâst<s n="po"/></r></p></e>
     <e><p><l>vuostá<s n="po"/></l><r>vuástá<s n="po"/></r></p></e>
-   <e><p><l>haga<s n="po"/></l><r><s n="po"/></r></p></e>
+   <e><p><l>haga<s n="po"/></l><r></r></p></e>
     <e><p><l>olis<s n="po"/></l><r>mieldi<s n="po"/></r></p></e>
     <e><p><l>luhtte<s n="po"/></l><r>kulen<s n="po"/></r></p></e>
     <e><p><l>maŋŋá<s n="po"/></l><r>maŋa<s n="po"/></r></p></e>
