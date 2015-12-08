@@ -2208,7 +2208,7 @@
     <e><p><l>sullasaš<s n="adj"/></l><r>siämmáálágán<s n="adj"/></r></p></e>
     <e><p><l>sulolaš<s n="adj"/></l><r>nánnáá<s n="adj"/></r></p></e>
     <e><p><l>suohkanlaš<s n="adj"/></l><r>kieldâlâš<s n="adj"/></r></p></e>
-    <e><p><l>suomagielat<s n="adj"/></l><r>suomâkielâlâš<s n="adj"/></r></p></e>
+    <e><p><l>suomagielat<s n="adj"/></l><r>suomâkielâg<s n="adj"/></r></p></e>
     <e><p><l>suttolaš<s n="adj"/></l><r>suddogâs<s n="adj"/></r></p></e>
     <e><p><l>symbolalaš<s n="adj"/></l><r>symbollâš<s n="adj"/></r></p></e>
     <e><p><l>systemáhtalaš<s n="adj"/></l><r>systemaatlâš<s n="adj"/></r></p></e>
@@ -2257,8 +2257,8 @@
     <e><p><l>várálaš<s n="adj"/></l><r>varâlâš<s n="adj"/></r></p></e>
     <e><p><l>vázzi<s n="adj"/></l><r>väzzee<s n="adj"/></r></p></e>
     <e><p><l>váŋká<s n="adj"/></l><r>väŋkki<s n="adj"/></r></p></e>
-    <e><p><l>áddemeahttun<s n="adj"/></l><r>ibbeerdmáttum<s n="adj"/></r></p></e>
-    <e><p><l>áddetmeahttun<s n="adj"/></l><r>ibbeerdmáttum<s n="adj"/></r></p></e>
+    <e><p><l>áddemeahttun<s n="adj"/></l><r>addiimettum<s n="adj"/></r></p></e>
+    <e><p><l>áddetmeahttun<s n="adj"/></l><r>ibbeerdmettum<s n="adj"/></r></p></e>
     <e><p><l>áhčálaš<s n="adj"/></l><r>iäčálâš<s n="adj"/></r></p></e><!-- not in sme -->
     <e><p><l>áidna<s n="adj"/></l><r>áinoo<s n="adj"/></r></p></e>
     <e><p><l>áidnu<s n="adj"/></l><r>áinoo<s n="adj"/></r></p></e>
@@ -2317,7 +2317,8 @@
     <e><p><l>bissovaš<s n="adj"/></l><r>pisovâš<s n="adj"/></r></p></e>
     <e><p><l>bistevaš<s n="adj"/></l><r>pištevâš<s n="adj"/></r></p></e>
     <e><p><l>bivval<s n="adj"/></l><r>pivvâl<s n="adj"/></r></p></e>
-    <e><p><l>bivššas<s n="adj"/></l><r>hámálâš<s n="adj"/></r></p></e>
+    <e><p><l>bivššas<s n="adj"/></l><r>keempâs<s n="adj"/></r></p></e>
+    <e><p><l>hámálaš<s n="adj"/></l><r>hámálâš<s n="adj"/></r></p></e>
     <e><p><l>boahttevaš<s n="adj"/></l><r>puátteš<s n="adj"/></r></p></e>
     <e><p><l>boarka<s n="adj"/></l><r>puárkkáá<s n="adj"/></r></p></e>
     <e><p><l>boasttu<s n="adj"/></l><r>puástu<s n="adj"/></r></p></e>
@@ -2357,7 +2358,7 @@
     <e><p><l>dábálaš<s n="adj"/></l><r>táválâš<s n="adj"/></r></p></e>
     <e><p><l>dárbbašlaš<s n="adj"/></l><r>taarbâšlâš<s n="adj"/></r></p></e>
     <e><p><l>ealas<s n="adj"/></l><r>ellee<s n="adj"/></r></p></e>
-    <e><p><l>eallilan<s n="adj"/></l><r>elilâm<s n="adj"/></r></p></e>
+    <e><p><l>eallilan<s n="adj"/></l><r>elilâm<s n="adj"/></r></p></e><!-- lii-uv adjektiv olmânáál? häämi lii partisipperfekt -->
     <e><p><l>eatnálaš<s n="adj"/></l><r>iännálâš<s n="adj"/></r></p></e>
     <e><p><l>ekonomalaš<s n="adj"/></l><r>ekonomâlâš<s n="adj"/></r></p></e>
     <e><p><l>erdui<s n="adj"/></l><r>erduu<s n="adj"/></r></p></e>
@@ -2378,8 +2379,8 @@
     <e><p><l>garas<s n="adj"/></l><r>koorâs<s n="adj"/></r></p></e>
     <e><p><l>gaskkamus<s n="adj"/></l><r>koskâmus<s n="adj"/></r></p></e>
     <e><p><l>geabbil<s n="adj"/></l><r>veessil<s n="adj"/></r></p></e>
-    <e><p><l>geafi<s n="adj"/></l><r>kevhi<s n="adj"/></r></p></e>
-    <e><p><l>gearggus<s n="adj"/></l><r>šiälgus<s n="adj"/></r></p></e>
+    <e><p><l>geaffi<s n="adj"/></l><r>kevhi<s n="adj"/></r></p></e>
+    <e><p><l>gearggus<s n="adj"/></l><r>kiärgus<s n="adj"/></r></p></e>
     <e><p><l>geavatlaš<s n="adj"/></l><r>keevâtlâš<s n="adj"/></r></p></e>
     <e><p><l>gelddolaš<s n="adj"/></l><r>kiäldulâš<s n="adj"/></r></p></e>
     <e><p><l>gierdavaš<s n="adj"/></l><r>kierdâvâš<s n="adj"/></r></p></e>
@@ -2434,7 +2435,7 @@
     <e><p><l>juolggeheapmi<s n="adj"/></l><r>jyelgittem<s n="adj"/></r></p></e>
     <e><p><l>juvddálaš<s n="adj"/></l><r>juuvdálâš<s n="adj"/></r></p></e>
     <e><p><l>juvdálaš<s n="adj"/></l><r>juuvdálâš<s n="adj"/></r></p></e>
-    <e><p><l>jámas<s n="adj"/></l><r>jamâ<s n="adj"/></r></p></e>
+    <e><p><l>jámas<s n="adj"/></l><r>jamâ<s n="adj"/></r></p></e><!-- jamâ lii attr. vâi? -->
     <e><p><l>kritihkalaš<s n="adj"/></l><r>kriittâlâš<s n="adj"/></r></p></e>
     <e><p><l>lagaš<s n="adj"/></l><r>aldasâš<s n="adj"/></r></p></e>
     <e><p><l>lihkolaš<s n="adj"/></l><r>luholâš<s n="adj"/></r></p></e>
@@ -2449,11 +2450,11 @@
     <e><p><l>láđis<s n="adj"/></l><r>lääđis<s n="adj"/></r></p></e>
     <e><p><l>maŋimus<s n="adj"/></l><r>majemuš<s n="adj"/></r></p></e>
     <e><p><l>maŋimuš<s n="adj"/></l><r>majemuš<s n="adj"/></r></p></e>
-    <e><p><l>maŋŋelaš<s n="adj"/></l><r>maŋelub<s n="adj"/></r></p></e>
+    <e><p><l>maŋŋelaš<s n="adj"/></l><r>maajeeb<s n="adj"/></r></p></e>
     <e><p><l>miellasaš<s n="adj"/></l><r>mielâsâš<s n="adj"/></r></p></e>
     <e><p><l>morašlaš<s n="adj"/></l><r>murâšlâš<s n="adj"/></r></p></e>
     <e><p><l>muttát<s n="adj"/></l><r>muddáág<s n="adj"/></r></p></e>
-    <e><p><l>mánnálaš<s n="adj"/></l><r>mánálâš<s n="adj"/></r></p></e>
+    <e><p><l>mánnálaš<s n="adj"/></l><r>párnálâš<s n="adj"/></r></p></e>
     <e><p><l>mávssolaš<s n="adj"/></l><r>mávsulâš<s n="adj"/></r></p></e>
     <e><p><l>máŋggalágan<s n="adj"/></l><r>maaŋgâlágán<s n="adj"/></r></p></e>
     <e><p><l>máŧolaš<s n="adj"/></l><r>máhđulâš<s n="adj"/></r></p></e>
@@ -2470,7 +2471,7 @@
     <e><p><l>njuolgat<s n="adj"/></l><r>njuolgâd<s n="adj"/></r></p></e>
     <e><p><l>njuoskkas<s n="adj"/></l><r>njuoskâs<s n="adj"/></r></p></e>
     <e><p><l>njuvvui<s n="adj"/></l><r>njivláá<s n="adj"/></r></p></e> <!-- not in sme -->
-    <e><p><l>njálggat<s n="adj"/></l><r>njálguđ<s n="adj"/></r></p></e>
+    <e><p><l>njálggat<s n="adj"/></l><r>njäälgis<s n="adj"/></r></p></e>
     <e><p><l>njálggis<s n="adj"/></l><r>njäälgis<s n="adj"/></r></p></e>
     <e><p><l>nubbi<s n="adj"/></l><r>nubbe<s n="adj"/></r></p></e>
     <e><p><l>nárrii<s n="adj"/></l><r>nirráá<s n="adj"/></r></p></e> <!-- not in sme -->
@@ -6926,7 +6927,6 @@
     <e><p><l>vigiheapmi<s n="adj"/></l><r>vavettem<s n="adj"/></r></p></e>
     <e><p><l>áhpeheapmi<s n="adj"/></l><r>äpittem<s n="adj"/></r></p></e>
     <e><p><l>návccaheapmi<s n="adj"/></l><r>navcâttem<s n="adj"/></r></p></e>
-    <e><p><l>njoahci<s n="adj"/></l><r>njuáci<s n="adj"/></r></p></e>
     <e><p><l>áhpeheapmi<s n="adj"/></l><r>nyeli<s n="adj"/></r></p></e>
     <e><p><l>vuoimmeheapmi<s n="adj"/></l><r>vyeimittem<s n="adj"/></r></p></e>
     <e><p><l>láivi<s n="adj"/></l><r>läivi<s n="adj"/></r></p></e>
