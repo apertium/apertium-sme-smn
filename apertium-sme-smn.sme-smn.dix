@@ -400,7 +400,6 @@
     <e><p><l>diggi<s n="n"/></l><r>tigge<s n="n"/></r></p></e>
     <e><p><l>dállu<s n="n"/></l><r>táálu<s n="n"/></r></p></e>
     <e><p><l>eadni<s n="n"/></l><r>enni<s n="n"/></r></p></e>
-    <e><p><l>ealli<s n="n"/></l><r>ellee<s n="n"/></r></p></e>
     <e><p><l>ealli<s n="n"/><s n="sem_ani"/><s n="nomag"/></l><r>ellee<s n="n"/></r></p></e>
     <e><p><l>ealáhus<s n="n"/></l><r>iäláttâs<s n="n"/></r></p></e>
     <e><p><l>eamialbmot<s n="n"/></l><r>algâaalmug<s n="n"/></r></p></e>
@@ -5588,7 +5587,7 @@
     <e><p><l>birračuohppat<s n="vblex"/><s n="tv"/></l><r>pirrâčuoppâđ<s n="vblex"/></r></p></e>
     <e><p><l>bivastuvvat<s n="vblex"/><s n="iv"/></l><r>pivâstuddâđ<s n="vblex"/></r></p></e>
     <e><p><l>bivttastit<s n="vblex"/><s n="tv"/></l><r>pivtâstiđ<s n="vblex"/></r></p></e>
-    <e><p><l>boarskudit<s n="vblex"/><s n="tv"/></l><r>hepâdittiđ<s n="vblex"/></r></p></e>
+    <e><p><l>boarskudit<s n="vblex"/><s n="tv"/></l><r>puárskudiđ<s n="vblex"/></r></p></e>
     <e><p><l>boatkut<s n="vblex"/><s n="tv"/></l><r>puátkuđ<s n="vblex"/></r></p></e>
     <e><p><l>bohttehit<s n="vblex"/><s n="tv"/></l><r>havduđ<s n="vblex"/></r></p></e>
     <e><p><l>bokset<s n="vblex"/><s n="tv"/></l><r>čurmâdâttâđ<s n="vblex"/></r></p></e>
@@ -6828,10 +6827,7 @@
     <e><p><l>ruossut<s n="adv"/></l><r>ruássud<s n="adv"/></r></p></e>
     <e><p><l>vátni<s n="adv"/></l><r>vääniht<s n="adv"/></r></p></e>
     <e><p><l>njulgestaga<s n="adv"/></l><r>njuolgist<s n="adv"/></r></p></e>
-    <e><p><l>taga<s n="adv"/></l><r>nuhhuđ<s n="adv"/></r></p></e>
-    <e><p><l>taga<s n="adv"/></l><r>nuhtán<s n="adv"/></r></p></e>
-    <e><p><l>taga<s n="adv"/></l><r>ovtâttem<s n="adv"/></r></p></e>
-    <e><p><l>taga<s n="adv"/></l><r>sätináálá<s n="adv"/></r></p></e>
+    <e><p><l>taga<s n="adv"/></l><r><s n="adv"/></r></p></e><!-- sme:abessive; should be po in sme; see also haga -->
     <e><p><l>sneakta<s n="adv"/></l><r>rasta<s n="adv"/></r></p></e>
     <e><p><l>ihcalassii<s n="adv"/></l><r>jiešmeidlist<s n="adv"/></r></p></e>
     <e><p><l>joksege<s n="adv"/></l><r>suulân<s n="adv"/></r></p></e>
