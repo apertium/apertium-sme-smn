@@ -100,6 +100,7 @@
     </def-cat>  
     <def-cat n="haga">
       <cat-item lemma="haga" tags="po.*"/>
+      <cat-item lemma="taga" tags="po.*"/>
     </def-cat>
 
 <!-- from sme-nob starts -->
@@ -947,7 +948,7 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: haga-po"> <!-- De manne gápmagiid haga olggos. Te monnii kammuittáá olgos. -->
+    <rule comment="REGLA: haga-po"> <!-- Sii manne gápmagiid haga olggos. Te monnii kammuittáá olgos. -->
       <pattern>
         <pattern-item n="n-sg-pl-gen"/>
         <pattern-item n="haga"/>
