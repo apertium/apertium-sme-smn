@@ -36,3 +36,8 @@ kuáimásis	kyeimi+N+Sg+Ill+PxSg3
 Vuoi maailm, mon čuáskis täälgis lii! sij vaidii kuáimásis. 
 
 Vâi maailm, maht #čuáskis toh tääl *gis lii!Vaidâlii *guhtetguoibmáseaset.
+
+Transfernjuolggadus mii doaibmá:
+echo 'Sii manne gápmagiid haga olggos.' | apertium -d . sme-smn
+Sij monnii kammuittáá olgos.
+
