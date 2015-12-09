@@ -36,8 +36,8 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="1.0">
-    <match lemma="sápmi" tags="n.pl.*">
-      <select lemma="sämmilâš" tags="n.pl.*"/>
+    <match lemma="sápmi" tags="n.*.pl.*">
+      <select lemma="sämmilâš" tags="n.*.pl.*"/>
     </match>
   </rule>
   
