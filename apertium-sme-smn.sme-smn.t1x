@@ -82,7 +82,7 @@
       <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!-- put under vuosttaš as lemma in sme -->                   
       <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/>                    
       <cat-item lemma="muhtun" tags="prn.ind.attr.*"/> 
-      <cat-item lemma="buot" tags="prn.ind.attr.*"/> 
+      <cat-item lemma="buot" tags="prn.ind.attr.*"/>
     </def-cat>  
     <def-cat n="hupmat-v">                             
       <cat-item lemma="hupmat" tags="vblex.*"/>                    
@@ -173,11 +173,9 @@
       <cat-item tags="n.*.pl.ill.*"/>                    
       <cat-item tags="n.*.pl.loc.*"/>                    
       <cat-item tags="n.*.pl.abe.*"/>                    
+     <cat-item tags="n.*.pl.com.*"/>      
     </def-cat>  
-    <def-cat n="agreem-pl-gen">                             
-      <cat-item tags="n.*.pl.com.*"/>                    
-    </def-cat>  
-    <def-cat n="attr">                             
+      <def-cat n="attr">                             
       <cat-item tags="adj.attr.*"/>                    
     </def-cat>  
     <def-cat n="birra-po">                             
@@ -546,7 +544,7 @@
             <lit v=""/>
           </let>
     </def-macro>
-    <def-macro n="agreement-adj-sg2" npar="2">  
+    <def-macro n="agreement-adj-ind-sg2" npar="2">  
         <let>
         	<clip pos="1" side="tl" part="tags"/><concat>
             <lit-tag v="n.sg"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
@@ -556,7 +554,26 @@
             <clip pos="2" side="tl" part="a_npagree_type"/><clip pos="1" side="tl" part="a_nbr"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
         </let> 
     </def-macro>
-    <def-macro n="agreement-adj-pl2" npar="2">
+    <def-macro n="agreement-adj-ind-pl2" npar="2">
+       <choose>
+          <when>        <!-- with pl.com -->
+
+            <test><and><equal><clip pos="1" side="tl" part="a_cas"/><lit-tag v="com"/></equal>
+                        <equal><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="pl"/></equal>
+                  </and></test>
+
+         <let>
+        	<clip pos="1" side="tl" part="tags"/>
+            <lit-tag v="n.pl.com"/>                
+        </let> 
+        <let>
+        	<clip pos="2" side="tl" part="tags"/><concat>
+            <clip pos="2" side="tl" part="a_npagree_type"/><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="gen"/> </concat>                
+        </let> 
+                  </when>
+
+                  <otherwise>
+                <!-- default -->
         <let>
         	<clip pos="1" side="tl" part="tags"/><concat>
             <lit-tag v="n.pl"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
@@ -565,17 +582,12 @@
         	<clip pos="2" side="tl" part="tags"/><concat>
             <clip pos="2" side="tl" part="a_npagree_type"/><clip pos="1" side="tl" part="a_nbr"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
         </let> 
+                       </otherwise>
+   
+        
+        </choose>
+
     </def-macro> 
-    <def-macro n="agreement-ind-pl2" npar="2">
-        <let>
-        	<clip pos="1" side="tl" part="tags"/><concat>
-            <lit-tag v="n.pl"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
-        </let> 
-        <let>
-        	<clip pos="2" side="tl" part="tags"/><concat>
-            <lit-tag v="prn.ind.pl"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
-        </let> 
-    </def-macro>
 
     <def-macro n="convert-deriv1" npar="1">
       <choose>
@@ -1218,7 +1230,7 @@
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="remove-semtag1"><with-param pos="2"/></call-macro>
-        <call-macro n="agreement-adj-sg2"><with-param pos="2"/><with-param pos="1"/></call-macro>
+        <call-macro n="agreement-adj-ind-sg2"><with-param pos="2"/><with-param pos="1"/></call-macro>
         <out>
           <chunk name="agreement-np">
             <tags>
@@ -1246,7 +1258,7 @@
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="remove-semtag1"><with-param pos="3"/></call-macro>
-        <call-macro n="agreement-adj-sg2"><with-param pos="3"/><with-param pos="1"/></call-macro>
+        <call-macro n="agreement-adj-ind-sg2"><with-param pos="3"/><with-param pos="1"/></call-macro>
         <out>
           <chunk name="agreement-np">
             <tags>
@@ -1307,7 +1319,7 @@
       <action>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="agreement-adj-pl2"><with-param pos="2"/><with-param pos="1"/></call-macro>
+        <call-macro n="agreement-adj-ind-pl2"><with-param pos="2"/><with-param pos="1"/></call-macro>
         <out>
           <chunk name="agreement-np">
             <tags>
@@ -1335,7 +1347,7 @@
       <action>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="agreement-adj-pl2"><with-param pos="3"/><with-param pos="1"/></call-macro>
+        <call-macro n="agreement-adj-ind-pl2"><with-param pos="3"/><with-param pos="1"/></call-macro>
         <out>
           <chunk name="agreement-np">
             <tags>
@@ -1359,40 +1371,7 @@
     </rule> 
 
 
-    <rule comment="REGLA: agreement-attr n-pl-com">                                             
-      <pattern>                                        
-        <pattern-item n="agreement-attr"/>                 
-        <pattern-item n="agreem-pl-gen"/>                   
-      </pattern>     
-      <action>
-        <let><clip pos="1" side="tl" part="a_sem"/><lit v=""/></let>
-        <let>
-        	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="adj.ord.pl.gen"/>                
-        </let> 
-        <let>
-        	<clip pos="2" side="tl" part="tags"/>
-            <lit-tag v="n.pl.com"/>                
-        </let> 
-        <out>
-          <chunk name="agreement-comnoun">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
-	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
-		    </lu>
-	        <b/>
-            <lu>
-              <clip pos="2" side="tl" part="whole"/>    
-	        </lu>
-          </chunk>
-        </out>
-        
-      </action>                                  
-    </rule> 
-
-
+    
     <rule comment="REGLA: mainverb">
       <pattern>
         <pattern-item n="mainverb"/>
