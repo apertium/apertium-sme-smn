@@ -133,6 +133,8 @@
     <e><p><l>makkárge<s n="prn"/></l><r>maggaargin<s n="prn"/></r></p></e>
     <e><p><l>mihkkege<s n="prn"/></l><r>mihheen<s n="prn"/></r></p></e>
     <e><p><l>muhtun<s n="prn"/></l><r>mottoom<s n="prn"/></r></p></e>
+    <e><p><l>oktage<s n="prn"/></l><r>ohtâgin<s n="prn"/></r></p></e>
+    <e><p><l>oktage<s n="prn"/></l><r>ohtâ-uv<s n="prn"/></r></p></e>
     <e><p><l>muhtin<s n="prn"/></l><r>mottoom<s n="prn"/></r></p></e>
     <e><p><l>veaháš<s n="prn"/><s n="ind"/><s n="attr"/></l><r>váhá<s n="adv"/></r></p></e>
     <e><p><l>goappašagat<s n="prn"/><s n="ind"/><s n="attr"/></l><r>kuohtuuh<s n="adv"/></r></p></e>
@@ -172,6 +174,7 @@
     <e><p><l>rájes<s n="po"/></l><r>rääjist<s n="po"/></r></p></e>
     <e><p><l>háldui<s n="po"/></l><r>haaldun<s n="po"/></r></p></e> <!-- not in sme -->
     <e><p><l>vulobealde<s n="po"/></l><r>vuoluubeln<s n="po"/></r></p></e>
+    <e><p><l>nalde<s n="po"/></l><r>alne<s n="po"/></r></p></e>
     <e><p><l>ovddabeallai<s n="po"/></l><r>ovdiibel<s n="po"/></r></p></e> <!-- not in sme -->
 
     <!-- SECTION: Particles -->
@@ -242,9 +245,11 @@
     <e><p><l>áidnu<s n="adv"/></l><r>áinoo<s n="adv"/></r></p></e>
     <e><p><l>álo<s n="adv"/></l><r>ain<s n="adv"/></r></p></e>
     <e><p><l>oarjjás<s n="adv"/></l><r>viestârân<s n="adv"/></r></p></e>
+    <e><p><l>oarjjás<s n="adv"/></l><r>uárjás<s n="adv"/></r></p></e>
     <e><p><l>maid<s n="adv"/></l><r>maid<s n="adv"/></r></p></e>
     <e><p><l>oktanaga<s n="adv"/></l><r>siämmáá<b/>ääigi<s n="adv"/></r></p></e>
     <e><p><l>na<s n="pcle"/></l><r>na<s n="adv"/></r></p></e>
+    <e><p><l>nalde<s n="pcle"/></l><r>alne<s n="adv"/></r></p></e>
 
     <!-- SECTION: Adjectives -->
 
@@ -333,6 +338,7 @@
     <e><p><l>guollegáhkku<s n="n"/></l><r>kyelikákku<s n="n"/></r></p></e>
     <e><p><l>várrevielti<s n="n"/></l><r>värivieltti<s n="n"/></r></p></e>
     <e><p><l>vielti<s n="n"/></l><r>vieltti<s n="n"/></r></p></e>
+    <e><p><l>hápma<s n="n"/></l><r>muátunaamar<s n="n"/></r></p></e>
     <e><p><l>oasseváldi<s n="n"/></l><r>uásiväldee<s n="n"/></r></p></e>
     <e><p><l>minsttar<s n="n"/></l><r>myenster<s n="n"/></r></p></e>
     <e><p><l>giellateknologiija<s n="n"/></l><r>kielâteknologia<s n="n"/></r></p></e>
@@ -1812,6 +1818,7 @@
 
     <e><p><l>láhčit<s n="vblex"/><s n="tv"/></l><r>orniđ<s n="vblex"/></r></p></e><!-- default -->
     <e><p><l>láhčit<s n="vblex"/><s n="tv"/></l><r>lääččiđ<s n="vblex"/></r></p></e>
+    <e><p><l>velledit<s n="vblex"/><s n="tv"/></l><r>viäluttâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>gámahit<s n="vblex"/><s n="tv"/></l><r>kamâdâttâđ<s n="vblex"/></r></p></e>
     <e><p><l>ollašuhttit<s n="vblex"/><s n="tv"/></l><r>olášuttiđ<s n="vblex"/></r></p></e>
     <e><p><l>lávet<s n="vblex"/><s n="tv"/></l><r>laaviđ<s n="vblex"/></r></p></e>
@@ -1877,6 +1884,8 @@
     <e><p><l>geargat<s n="vblex"/><s n="iv"/></l><r>kiergâniđ<s n="vblex"/></r></p></e>
     <e><p><l>muohttit<s n="vblex"/><s n="iv"/></l><r>myettiđ<s n="vblex"/></r></p></e>
     <e><p><l>goallut<s n="vblex"/><s n="iv"/></l><r>kalmeđ<s n="vblex"/></r></p></e>
+    <e><p><l>fuomášahttit<s n="vblex"/><s n="iv"/></l><r>huámášittiđ<s n="vblex"/></r></p></e>
+    <e><p><l>dearvvasmuvvat<s n="vblex"/><s n="iv"/></l><r>puárániđ<s n="vblex"/></r></p></e>
 
 
     <!-- SECTION: Punctuation -->
@@ -3029,7 +3038,7 @@
     <e><p><l>buohcceviessu<s n="n"/></l><r>pyecceiviäsu<s n="n"/></r></p></e>
     <e><p><l>buohcci<s n="n"/></l><r>pyeccee<s n="n"/></r></p></e>
     <e><p><l>buohccedikšu<s n="n"/></l><r>pyecceitipšoo<s n="n"/></r></p></e>
-    <e><p><l>buohccát<s n="n"/></l><r>puoccâđ<s n="n"/></r></p></e>
+    <e><p><l>buohccát<s n="vblex"/></l><r>puoccâđ<s n="vblex"/></r></p></e>
     <e><p><l>buoiddat<s n="n"/></l><r>pagge<s n="n"/></r></p></e>
     <e><p><l>buoidivuohta<s n="n"/></l><r>puáidáhvuotâ<s n="n"/></r></p></e>
     <e><p><l>buollin<s n="n"/></l><r>puálu<s n="n"/></r></p></e>
@@ -6390,7 +6399,7 @@
     <e><p><l>láktat<s n="vblex"/><s n="tv"/></l><r>lahtâđ<s n="vblex"/></r></p></e>
     <e><p><l>lávggodit<s n="vblex"/><s n="tv"/></l><r>lávguđ<s n="vblex"/></r></p></e>
     <e><p><l>lávket<s n="vblex"/><s n="iv"/></l><r>lavkkiđ<s n="vblex"/></r></p></e>
-    <e><p><l>lávlut<s n="vblex"/><s n="iv"/></l><r>lávluđ<s n="vblex"/></r></p></e>
+    <e><p><l>lávlut<s n="vblex"/><s n="tv"/></l><r>lávluđ<s n="vblex"/></r></p></e>
     <e><p><l>manahit<s n="vblex"/><s n="iv"/></l><r>monâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>maŋidit<s n="vblex"/><s n="tv"/></l><r>maŋediđ<s n="vblex"/></r></p></e>
     <e><p><l>maŋŋonit<s n="vblex"/><s n="iv"/></l><r>maŋaniđ<s n="vblex"/></r></p></e>
