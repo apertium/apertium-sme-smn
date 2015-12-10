@@ -108,13 +108,17 @@
     </def-cat>  
     <def-cat n="n-sg-nom">                             
       <cat-item tags="n.*.sg.nom.*"/>                   
+      <cat-item tags="n.*.*.sg.nom.*"/>                   
     </def-cat>  
     <def-cat n="n-sg-gen">                             
       <cat-item tags="n.*.sg.gen.*"/>                     
+      <cat-item tags="n.*.*.sg.gen.*"/>                   
     </def-cat>  
     <def-cat n="n-sg-pl-gen">                             
       <cat-item tags="n.*.sg.gen.*"/>                     
       <cat-item tags="n.*.pl.gen.*"/>                     
+      <cat-item tags="n.*.*.sg.gen.*"/>                     
+      <cat-item tags="n.*.*.pl.gen.*"/>                     
     </def-cat>  
     <def-cat n="haga">
       <cat-item lemma="haga" tags="po.*"/>
@@ -156,6 +160,8 @@
     <def-cat n="nom-gen">                             
       <cat-item tags="n.*.sg.gen.*"/>                     
       <cat-item tags="n.*.pl.gen.*"/>                     
+      <cat-item tags="n.*.*.sg.gen.*"/>                     
+      <cat-item tags="n.*.*.pl.gen.*"/>                     
       <cat-item tags="np.sg.gen.*"/>                     
       <cat-item tags="np.*.pl.gen.*"/>                     
       <cat-item tags="np.*.sg.gen.*"/>                     
@@ -174,13 +180,19 @@
       <cat-item tags="n.*.sg.gen.*"/>                    
       <cat-item tags="n.*.sg.ill.*"/>                    
       <cat-item tags="n.*.sg.loc.*"/>                    
-      <cat-item tags="n.*.sg.abe.*"/>                    
-      <cat-item tags="n.*.ess.*"/>                    
+      <cat-item tags="n.*.*.ess.*"/>                    
+      <cat-item tags="n.*.*.sg.gen.*"/>                    
+      <cat-item tags="n.*.*.sg.ill.*"/>                    
+      <cat-item tags="n.*.*.sg.loc.*"/>                    
+      <cat-item tags="n.*.*.ess.*"/>                    
     </def-cat>  
     <def-cat n="agreem-sg">                             
       <cat-item tags="n.*.sg.nom.*"/>                   
       <cat-item tags="n.*.sg.acc.*"/>                    
       <cat-item tags="n.*.sg.com.*"/>                    
+      <cat-item tags="n.*.*.sg.nom.*"/>                   
+      <cat-item tags="n.*.*.sg.acc.*"/>                    
+      <cat-item tags="n.*.*.sg.com.*"/>                    
     </def-cat>  
 
     <def-cat n="agreem-pl">                             
@@ -191,6 +203,13 @@
       <cat-item tags="n.*.pl.loc.*"/>                    
       <cat-item tags="n.*.pl.abe.*"/>                    
      <cat-item tags="n.*.pl.com.*"/>      
+      <cat-item tags="n.*.*.pl.nom.*"/>                    
+      <cat-item tags="n.*.*.pl.gen.*"/>                    
+      <cat-item tags="n.*.*.pl.acc.*"/>                    
+      <cat-item tags="n.*.*.pl.ill.*"/>                    
+      <cat-item tags="n.*.*.pl.loc.*"/>                    
+      <cat-item tags="n.*.*.pl.abe.*"/>                    
+     <cat-item tags="n.*.*.pl.com.*"/>      
     </def-cat>  
       <def-cat n="attr">                             
       <cat-item tags="adj.attr.*"/>                    
