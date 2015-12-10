@@ -41,8 +41,17 @@
       <cat-item tags="vblex.iv.neg.indic.p3.sg"/>
     </def-cat>
    <def-cat n="foc">
+      <cat-item lemma="ba" tags="pcle.*"/>
+      <cat-item lemma="ban" tags="pcle.*"/>
+      <cat-item lemma="bat" tags="pcle.*"/>
       <cat-item lemma="ge" tags="pcle.*"/>
+      <cat-item lemma="ges" tags="pcle.*"/>
       <cat-item lemma="gis" tags="pcle.*"/>
+      <cat-item lemma="hal" tags="pcle.*"/>
+      <cat-item lemma="han" tags="pcle.*"/>
+      <cat-item lemma="naj" tags="pcle.*"/>
+      <cat-item lemma="nai" tags="pcle.*"/>
+      <cat-item lemma="son" tags="pcle.*"/>
     </def-cat>
    <def-cat n="buorre">
       <cat-item lemma="buorre" tags="adj.*.@→N"/>
@@ -57,6 +66,13 @@
       <cat-item tags="vblex.*.der_nomact.n.*"/>
       <cat-item tags="vblex.der_nomact.n.*"/>
     </def-cat>
+    <def-cat n="word">
+      <cat-item tags="n.*"/>
+      <cat-item tags="adj.*"/>
+      <cat-item tags="vblex.*"/>
+       <cat-item tags="prn.*"/>
+       <cat-item tags="adv.*"/>
+   </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
       <cat-item tags="n.der_sâš.adj.*"/>
@@ -713,6 +729,7 @@
   <section-rules>
 
 
+
     <rule comment="REGLA: nom">
       <pattern>
         <pattern-item n="nom"/>
@@ -876,6 +893,66 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: nomfoc">
+      <pattern>
+        <pattern-item n="word"/>
+        <pattern-item n="foc"/>
+      </pattern>
+      <action>
+        <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
+        <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <out>
+          <chunk name="wordfoc" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="WN"/></tag>
+            </tags>
+            <mlu>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+             <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+             </mlu>
+        </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: vblexfoc">
+      <pattern>
+        <pattern-item n="mainverb"/>
+        <pattern-item n="foc"/>
+      </pattern>
+      <action>
+        <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
+        <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <out>
+          <chunk name="mainverb" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <mlu>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+             <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+             </mlu>
+        </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: prep to postp">
       <pattern>
@@ -1283,6 +1360,9 @@
         <pattern-item n="agreem-sg"/>                   
       </pattern>     
       <action>
+        <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>
+        <call-macro n="convert-deriv1"><with-param pos="2"/></call-macro>
+        <call-macro n="convert-deriv1"><with-param pos="3"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="remove-semtag1"><with-param pos="3"/></call-macro>
@@ -1317,6 +1397,8 @@
         	<clip pos="1" side="tl" part="tags"/>
             <lit-tag v="adj.ord.sg.gen"/>                
         </let> 
+        <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>
+        <call-macro n="convert-deriv1"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="remove-semtag1"><with-param pos="2"/></call-macro>
@@ -1345,6 +1427,8 @@
         <pattern-item n="agreem-pl"/>                   
       </pattern>     
       <action>
+        <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>
+        <call-macro n="convert-deriv1"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="agreement-adj-ind-pl2"><with-param pos="2"/><with-param pos="1"/></call-macro>
@@ -1373,6 +1457,9 @@
         <pattern-item n="agreem-pl"/>                   
       </pattern>     
       <action>
+        <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>
+        <call-macro n="convert-deriv1"><with-param pos="2"/></call-macro>
+        <call-macro n="convert-deriv1"><with-param pos="3"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="agreement-adj-ind-pl2"><with-param pos="3"/><with-param pos="1"/></call-macro>

@@ -180,14 +180,22 @@
 
     <!-- SECTION: Particles -->
 
-    <e><p><l>ain<s n="adv"/></l><r>ain<s n="adv"/></r></p></e>
-    <e><p><l>nai<s n="pcle"/></l><r>-uv<s n="adv"/></r></p></e>
+    <e><p><l>ba<s n="pcle"/></l><r>ba<s n="pcle"/></r></p></e>
+    <e><p><l>ban<s n="pcle"/></l><r>-uv<s n="pcle"/></r></p></e>
+    <e><p><l>ban<s n="pcle"/></l><r>ba<s n="pcle"/></r></p></e>
+    <e><p><l>bat<s n="pcle"/></l><r>ba<s n="pcle"/></r></p></e>
     <e><p><l>ge<s n="pcle"/></l><r>gin<s n="pcle"/></r></p></e>
-    <e><p><l>gis<s n="pcle"/></l><r>gis<s n="pcle"/></r></p></e>
     <e><p><l>ges<s n="pcle"/></l><r>ges<s n="pcle"/></r></p></e>
+    <e><p><l>gis<s n="pcle"/></l><r>gis<s n="pcle"/></r></p></e>
+    <e><p><l>hal<s n="pcle"/></l><r>hân<s n="pcle"/></r></p></e>
+    <e><p><l>han<s n="pcle"/></l><r>hân<s n="pcle"/></r></p></e>
+    <e><p><l>naj<s n="pcle"/></l><r>-uv<s n="pcle"/></r></p></e>
+    <e><p><l>nai<s n="pcle"/></l><r>-uv<s n="pcle"/></r></p></e>
+    <e><p><l>son<s n="pcle"/></l><r>sun<s n="pcle"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
 
+    <e><p><l>ain<s n="adv"/></l><r>ain<s n="adv"/></r></p></e>
     <e><p><l>erenoamážit<s n="adv"/></l><r>eromâšávt<s n="adv"/></r></p></e>
     <e><p><l>sihke<s n="adv"/></l><r>sehe<s n="adv"/></r></p></e>
     <e><p><l>buohkanassii<s n="adv"/></l><r>puohnâssân<s n="adv"/></r></p></e>
@@ -230,7 +238,7 @@
     <e><p><l>dieđusge<s n="adv"/></l><r>tiäđust-uv<s n="adv"/></r></p></e>
     <e><p><l>doppe<s n="adv"/></l><r>tobbeen<s n="adv"/></r></p></e>
     <e><p><l>gosa<s n="adv"/></l><r>kuus<s n="adv"/></r></p></e>
-    <e><p><l>gánske<s n="adv"/></l><r>kenski<s n="pcle"/></r></p></e>
+    <e><p><l>gánske<s n="adv"/></l><r>kenski<s n="adv"/></r></p></e>
     <e><p><l>hihtásit<s n="adv"/></l><r>hitásávt<s n="adv"/></r></p></e>
     <e><p><l>hui<s n="adv"/></l><r>uáli<s n="adv"/></r></p></e>
     <e><p><l>oalle<s n="adv"/></l><r>uáli<s n="adv"/></r></p></e>
@@ -251,8 +259,7 @@
     <e><p><l>oarjjás<s n="adv"/></l><r>uárjás<s n="adv"/></r></p></e>
     <e><p><l>maid<s n="adv"/></l><r>maid<s n="adv"/></r></p></e>
     <e><p><l>oktanaga<s n="adv"/></l><r>siämmáá<b/>ääigi<s n="adv"/></r></p></e>
-    <e><p><l>na<s n="pcle"/></l><r>na<s n="adv"/></r></p></e>
-    <e><p><l>nalde<s n="pcle"/></l><r>alne<s n="adv"/></r></p></e>
+    <e><p><l>nalde<s n="adv"/></l><r>alne<s n="adv"/></r></p></e>
 
     <!-- SECTION: Adjectives -->
 
@@ -7262,9 +7269,6 @@
     <e><p><l>láhki<s n="n"/></l><r>nääli<s n="n"/></r></p></e>
     <e><p><l>láhki<s n="n"/></l><r>tääpi<s n="n"/></r></p></e>
     <e><p><l>láhttenvuohki<s n="n"/></l><r>lattimvyehi<s n="n"/></r></p></e>
-    <e><p><l>láibesuvli<s n="n"/></l><r>asfalt<s n="n"/></r></p></e>
-    <e><p><l>láibesuvli<s n="n"/></l><r>oljosoráase<s n="n"/></r></p></e>
-    <e><p><l>láibesuvli<s n="n"/></l><r>oljočievrâase<s n="n"/></r></p></e>
     <e><p><l>láibesuvli<s n="n"/></l><r>pajaldâs<s n="n"/></r></p></e>
     <e><p><l>láseliidni<s n="n"/></l><r>lasâlijne<s n="n"/></r></p></e>
     <e><p><l>lávgungárri<s n="n"/></l><r>lávguääldis<s n="n"/></r></p></e>
@@ -7522,7 +7526,6 @@
     <e><p><l>linádas<s n="n"/></l><r>koorâin<s n="n"/></r></p></e>
     <e><p><l>linádas<s n="n"/></l><r>tuávŋi<s n="n"/></r></p></e>
     <e><p><l>linádas<s n="n"/></l><r>tuávŋis<s n="n"/></r></p></e>
-    <e><p><l>logis<s n="n"/></l><r>love<s n="n"/></r></p></e>
     <e><p><l>logis<s n="n"/></l><r>loves<s n="n"/></r></p></e>
     <e><p><l>lužas<s n="n"/></l><r>luččâtavdâ<s n="n"/></r></p></e>
     <e><p><l>lužas<s n="n"/></l><r>čuávjitavdâ<s n="n"/></r></p></e>
