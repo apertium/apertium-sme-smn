@@ -184,6 +184,7 @@
     <e><p><l>ban<s n="pcle"/></l><r>ba<s n="pcle"/></r></p></e>
     <e><p><l>bat<s n="pcle"/></l><r>ba<s n="pcle"/></r></p></e>
     <e><p><l>ge<s n="pcle"/></l><r>gin<s n="pcle"/></r></p></e>
+    <e><p><l>ge<s n="pcle"/></l><r>-uv<s n="pcle"/></r></p></e>
     <e><p><l>ges<s n="pcle"/></l><r>ges<s n="pcle"/></r></p></e>
     <e><p><l>gis<s n="pcle"/></l><r>gis<s n="pcle"/></r></p></e>
     <e><p><l>hal<s n="pcle"/></l><r>hân<s n="pcle"/></r></p></e>
@@ -448,7 +449,6 @@
     <e><p><l>nuortalašláhka<s n="n"/></l><r>nuorttâlâšlaahâ<s n="n"/></r></p></e>
     <e><p><l>oahppi<s n="n"/></l><r>uáppee<s n="n"/></r></p></e>
     <e><p><l>oaivi<s n="n"/></l><r>uáivi<s n="n"/></r></p></e>
-    <e><p><l>oappáš<s n="n"/></l><r>uábáš<s n="n"/></r></p></e>
     <e><p><l>oassi<s n="n"/></l><r>uási<s n="n"/></r></p></e>
     <e><p><l>parlameanta<s n="n"/></l><r>parlament<s n="n"/></r></p></e>
     <e><p><l>proseanta<s n="n"/></l><r>prooseent<s n="n"/></r></p></e>
@@ -757,7 +757,6 @@
     <e><p><l>Máret<s n="np"/></l><r>Maarit<s n="np"/></r></p></e>
     <e><p><l>Duommá<s n="np"/></l><r>Tyemes<s n="np"/></r></p></e>
     <e><p><l>Sarvvagalba<s n="np"/>n="sg"/></l><r>Nieidâkärigááh<s n="np"/>n="pl"/></r></p></e>
-    <e><p><l>Ipmil<s n="np"/></l><r>Immeel<s n="np"/></r></p></e>
     <e><p><l>Eurohpá<s n="np"/></l><r>Euroop<s n="np"/></r></p></e>
     <e><p><l>Norga<s n="np"/></l><r>Taažâ<s n="np"/></r></p></e>
     <e><p><l>Anár<s n="np"/></l><r>Aanaar<s n="np"/></r></p></e>
