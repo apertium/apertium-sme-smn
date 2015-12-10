@@ -2838,7 +2838,7 @@
     <!--    SECTION: Conjunctions cnjcoo -->
 
     <e><p><l>sihke<s n="cnjcoo"/></l><r>sehe<s n="cnjcoo"/></r></p></e>
-    <e><p><l>muhto<s n="cnjcoo"/></l><r>mutâ<s n="cnjcoo"/></r></p></e>
+    <e><p><l>muhto<s n="cnjcoo"/></l><r>mut<s n="cnjcoo"/></r></p></e>
     <e><p><l>vaikke<s n="cnjcoo"/></l><r>veik<s n="cnjcoo"/></r></p></e>
 
     <!--    SECTION: Subjunctions cnjsub-->
@@ -3044,7 +3044,7 @@
     <e><p><l>buohcceviessu<s n="n"/></l><r>pyecceiviäsu<s n="n"/></r></p></e>
     <e><p><l>buohcci<s n="n"/></l><r>pyeccee<s n="n"/></r></p></e>
     <e><p><l>buohccedikšu<s n="n"/></l><r>pyecceitipšoo<s n="n"/></r></p></e>
-    <e><p><l>buohccát<s n="vblex"/></l><r>puoccâđ<s n="vblex"/></r></p></e>
+    <e><p><l>buohccát<s n="vblex"/><s n="iv"/></l><r>puosâškyettiđ<s n="vblex"/></r></p></e>
     <e><p><l>buoiddat<s n="n"/></l><r>pagge<s n="n"/></r></p></e>
     <e><p><l>buoidivuohta<s n="n"/></l><r>puáidáhvuotâ<s n="n"/></r></p></e>
     <e><p><l>buollin<s n="n"/></l><r>puálu<s n="n"/></r></p></e>
