@@ -9,6 +9,7 @@
     </def-cat>
      <def-cat n="numcmp">
       <cat-item tags="num.cmp"/>
+      <cat-item tags="num.cmp_sggen.cmp"/>
     </def-cat>
      <def-cat n="geahččatverb">
       <cat-item lemma="geahččat" tags="vblex.*"/>
@@ -821,7 +822,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: numcmp">
+    <rule comment="REGLA: numcmp"> <!-- viđajahkásaš - viiđâihásâš -->
       <pattern>
         <pattern-item n="numcmp"/>
         <pattern-item n="nom"/>
