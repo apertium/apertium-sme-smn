@@ -1819,8 +1819,10 @@
 
     <!-- SECTION: Verbs -->
 
-    <e><p><l>ii<s n="vblex"/></l><r>ii<s n="vblex"/></r></p></e>
-
+    <e><p><l>buohccát<s n="vblex"/></l><r>puáccáđ<s n="vblex"/></r></p></e>
+    <e><p><l>vázzilit<s n="vblex"/></l><r>väzziliđ<s n="vblex"/></r></p></e>
+    <e><p><l>vázzát<s n="vblex"/></l><r>väzziliđ<s n="vblex"/></r></p></e>
+    <e><p><l>ii<s n="vblex"/></l><r>ij<s n="vblex"/></r></p></e>
     <e><p><l>láhčit<s n="vblex"/><s n="tv"/></l><r>orniđ<s n="vblex"/></r></p></e><!-- default -->
     <e><p><l>láhčit<s n="vblex"/><s n="tv"/></l><r>lääččiđ<s n="vblex"/></r></p></e>
     <e><p><l>velledit<s n="vblex"/><s n="tv"/></l><r>viäluttâllâđ<s n="vblex"/></r></p></e>
@@ -8038,72 +8040,36 @@
     <e><p><l>rohkkil<s n="n"/></l><r>heevvâl<s n="n"/></r></p></e>
     <e><p><l>seamul<s n="n"/></l><r>seevŋâl<s n="n"/></r></p></e>
     <e><p><l>sihkkel<s n="n"/></l><r>pyerá<s n="n"/></r></p></e>
-    <e><p><l>sámil<s n="n"/></l><r>seevtil<s n="n"/></r></p></e>
-    <e><p><l>sámil<s n="n"/></l><r>siävŋál<s n="n"/></r></p></e>
-    <e><p><l>ájasámil<s n="n"/></l><r>njuorâ<s n="n"/></r></p></e>
-    <e><p><l>ájasámil<s n="n"/></l><r>sađhme<s n="n"/></r></p></e>
+    <e><p><l>sámil<s n="n"/></l><r>seevtil<s n="n"/></r></p></e
+    <e><p><l>ájasámil<s n="n"/></l><r>njuárui<s n="n"/></r></p></e><!-- šlaajânomâttâs epičielgâs -->
     <e><p><l>ápril<s n="n"/></l><r>cuáŋuimáánu<s n="n"/></r></p></e>
     <e><p><l>bejot<s n="n"/></l><r>jievjâ<s n="n"/></r></p></e>
-    <e><p><l>bejot<s n="n"/></l><r>kobbâ<s n="n"/></r></p></e>
+    <e><p><l>gabba<s n="n"/></l><r>kobbâ<s n="n"/></r></p></e>
     <e><p><l>bidjet<s n="n"/></l><r>äksioon<s n="n"/></r></p></e>
     <e><p><l>bidjet<s n="n"/></l><r>čuorvâkävppi<s n="n"/></r></p></e>
-    <e><p><l>boazoeaiggát<s n="n"/></l><r>puásui-iäigád<s n="n"/></r></p></e>
     <e><p><l>boazoeaiggát<s n="n"/></l><r>puásuiomâsteijee<s n="n"/></r></p></e>
-    <e><p><l>boazoisit<s n="n"/></l><r>puásui-iäigád<s n="n"/></r></p></e>
     <e><p><l>boazoisit<s n="n"/></l><r>puásuiomâsteijee<s n="n"/></r></p></e>
-    <e><p><l>bolot<s n="n"/></l><r>naappâl<s n="n"/></r></p></e>
     <e><p><l>bolot<s n="n"/></l><r>puicce<s n="n"/></r></p></e>
-    <e><p><l>buollahat<s n="n"/></l><r>cokkiittâs<s n="n"/></r></p></e>
     <e><p><l>buollahat<s n="n"/></l><r>puállááttâs<s n="n"/></r></p></e>
-    <e><p><l>buovnnjat<s n="n"/></l><r>muldesäplig<s n="n"/></r></p></e>
     <e><p><l>buovnnjat<s n="n"/></l><r>muoldâg<s n="n"/></r></p></e>
-    <e><p><l>burrut<s n="n"/></l><r>sonnâ<s n="n"/></r></p></e>
     <e><p><l>burrut<s n="n"/></l><r>vuáksá<s n="n"/></r></p></e>
     <e><p><l>buđet<s n="n"/></l><r>pottáák<s n="n"/></r></p></e>
-    <e><p><l>buđet<s n="n"/></l><r>potás<s n="n"/></r></p></e>
-    <e><p><l>bážáhat<s n="n"/></l><r>kevidâh<s n="n"/></r></p></e>
-    <e><p><l>bážáhat<s n="n"/></l><r>kielâ<s n="n"/></r></p></e>
-    <e><p><l>bážáhat<s n="n"/></l><r>kielâuksâ<s n="n"/></r></p></e>
-    <e><p><l>bážáhat<s n="n"/></l><r>puázzi<s n="n"/></r></p></e>
-    <e><p><l>bážáhat<s n="n"/></l><r>čuuskâš<s n="n"/></r></p></e>
+    <e><p><l>bážáhat<s n="n"/></l><r>pájáttâh<s n="n"/></r></p></e>
     <e><p><l>ciebat<s n="n"/></l><r>velmâsâš<s n="n"/></r></p></e>
-    <e><p><l>ciebat<s n="n"/></l><r>viäđŋásâš<s n="n"/></r></p></e>
     <e><p><l>cohkolat<s n="n"/></l><r>koškes<s n="n"/></r></p></e>
-    <e><p><l>cohkolat<s n="n"/></l><r>peski<s n="n"/></r></p></e>
-    <e><p><l>deattáldat<s n="n"/></l><r>monnjâpurrâmâš<s n="n"/></r></p></e>
     <e><p><l>deattáldat<s n="n"/></l><r>pajaldâs<s n="n"/></r></p></e>
-    <e><p><l>deattáldat<s n="n"/></l><r>pajalâš<s n="n"/></r></p></e>
-    <e><p><l>deavut<s n="n"/></l><r>hallâ<s n="n"/></r></p></e>
     <e><p><l>deavut<s n="n"/></l><r>ränisnuárju<s n="n"/></r></p></e>
     <e><p><l>divat<s n="n"/></l><r>lovádâs<s n="n"/></r></p></e>
     <e><p><l>duolmmastat<s n="n"/></l><r>polgâm<s n="n"/></r></p></e>
-    <e><p><l>duolmmastat<s n="n"/></l><r>tuolmâm<s n="n"/></r></p></e>
     <e><p><l>dápmot<s n="n"/></l><r>veejeeh<s n="n"/></r></p></e>
-    <e><p><l>dápmot<s n="n"/></l><r>vejehâš<s n="n"/></r></p></e>
     <e><p><l>fitnet<s n="n"/></l><r>jukso<s n="n"/></r></p></e>
-    <e><p><l>fitnet<s n="n"/></l><r>koddeđ<s n="n"/></r></p></e>
-    <e><p><l>fitnet<s n="n"/></l><r>puttâdiđ<s n="n"/></r></p></e>
-    <e><p><l>fitnet<s n="n"/></l><r>saalâs<s n="n"/></r></p></e>
     <e><p><l>gearregat<s n="n"/></l><r>keriveh<s n="n"/></r></p></e>
-    <e><p><l>gearregat<s n="n"/></l><r>tigge<s n="n"/></r></p></e>
-    <e><p><l>goikket<s n="n"/></l><r>njuppâh<s n="n"/></r></p></e>
-    <e><p><l>goikket<s n="n"/></l><r>soovsâkaamuv<s n="n"/></r></p></e>
     <e><p><l>goikket<s n="n"/></l><r>sovskaamuv<s n="n"/></r></p></e>
-    <e><p><l>gorostat<s n="n"/></l><r>njirtottâh<s n="n"/></r></p></e>
-    <e><p><l>gorostat<s n="n"/></l><r>njoođâlm<s n="n"/></r></p></e>
-    <e><p><l>gorostat<s n="n"/></l><r>peskâsävŋi<s n="n"/></r></p></e>
-    <e><p><l>gorostat<s n="n"/></l><r>čoođâ-čoođâ<s n="n"/></r></p></e>
-    <e><p><l>gorut<s n="n"/></l><r>roppe<s n="n"/></r></p></e>
+    <e><p><l>gorostat<s n="n"/></l><r>kuárustâh<s n="n"/></r></p></e>
     <e><p><l>gorut<s n="n"/></l><r>roppâ<s n="n"/></r></p></e>
-    <e><p><l>gorut<s n="n"/></l><r>ruŋgo<s n="n"/></r></p></e>
-    <e><p><l>gorut<s n="n"/></l><r>ráátu<s n="n"/></r></p></e>
-    <e><p><l>gárastat<s n="n"/></l><r>orrâ<s n="n"/></r></p></e>
-    <e><p><l>gárastat<s n="n"/></l><r>puunâm<s n="n"/></r></p></e>
-    <e><p><l>gárastat<s n="n"/></l><r>päddi<s n="n"/></r></p></e>
-    <e><p><l>gárastat<s n="n"/></l><r>sijmá<s n="n"/></r></p></e>
-    <e><p><l>gárastat<s n="n"/></l><r>tuárgu<s n="n"/></r></p></e>
-    <e><p><l>gárastat<s n="n"/></l><r>uuštâorrâ<s n="n"/></r></p></e>
-    <e><p><l>gárastat<s n="n"/></l><r>vuoggâčielgi<s n="n"/></r></p></e>
+    <e><p><l>gárastat<s n="n"/></l><r>karâstâh<s n="n"/></r></p></e>
+    <e><p><l>duorgu<s n="n"/></l><r>tuárgu<s n="n"/></r></p></e>
+    <e><p><l>liidna<s n="n"/></l><r>vuoggâčielgi<s n="n"/></r></p></e>
     <e><p><l>hihtat<s n="n"/></l><r>njävli<s n="n"/></r></p></e>
     <e><p><l>hihtat<s n="n"/></l><r>polttijâš<s n="n"/></r></p></e>
     <e><p><l>hihtat<s n="n"/></l><r>suovâlodde<s n="n"/></r></p></e>
@@ -8112,22 +8078,18 @@
     <e><p><l>hálvvát<s n="n"/></l><r>ciŋkkáhâš<s n="n"/></r></p></e>
     <e><p><l>hálvvát<s n="n"/></l><r>fanttinâs<s n="n"/></r></p></e>
     <e><p><l>hálvvát<s n="n"/></l><r>paahus<s n="n"/></r></p></e>
-    <e><p><l>hálvvát<s n="n"/></l><r>pahalâš<s n="n"/></r></p></e>
+    <e><p><l>bahálaš<s n="n"/></l><r>pahalâš<s n="n"/></r></p></e>
     <e><p><l>hálvvát<s n="n"/></l><r>panjig<s n="n"/></r></p></e>
     <e><p><l>hálvvát<s n="n"/></l><r>ruollâ<s n="n"/></r></p></e>
-    <e><p><l>hálvvát<s n="n"/></l><r>sottáán<s n="n"/></r></p></e>
+    <e><p><l>sáttán<s n="n"/></l><r>sottáán<s n="n"/></r></p></e>
     <e><p><l>hálvvát<s n="n"/></l><r>tuonârokke<s n="n"/></r></p></e>
     <e><p><l>hálvvát<s n="n"/></l><r>tuonâš<s n="n"/></r></p></e>
     <e><p><l>hálvvát<s n="n"/></l><r>čiäráttâs<s n="n"/></r></p></e>
     <e><p><l>hálvvát<s n="n"/></l><r>šyeiji<s n="n"/></r></p></e>
     <e><p><l>isit<s n="n"/></l><r>iššeed<s n="n"/></r></p></e>
     <e><p><l>isit<s n="n"/></l><r>käälis<s n="n"/></r></p></e>
-    <e><p><l>isit<s n="n"/></l><r>uđđâalmai<s n="n"/></r></p></e>
     <e><p><l>jallodat<s n="n"/></l><r>jollâvuotâ<s n="n"/></r></p></e>
-    <e><p><l>jallodat<s n="n"/></l><r>mielâvääni<s n="n"/></r></p></e>
     <e><p><l>jugástat<s n="n"/></l><r>juhâmuš<s n="n"/></r></p></e>
-    <e><p><l>jugástat<s n="n"/></l><r>juhâmâš<s n="n"/></r></p></e>
-    <e><p><l>káfet<s n="n"/></l><r>káhváttuđ<s n="n"/></r></p></e>
     <e><p><l>káfet<s n="n"/></l><r>kähvi<s n="n"/></r></p></e>
     <e><p><l>luládat<s n="n"/></l><r>kesipieggâ<s n="n"/></r></p></e>
     <e><p><l>luládat<s n="n"/></l><r>láhupieggâ<s n="n"/></r></p></e>
@@ -8137,10 +8099,9 @@
     <e><p><l>lávežat<s n="n"/></l><r>veerdižeh<s n="n"/></r></p></e>
     <e><p><l>mearkkastat<s n="n"/></l><r>merkkim<s n="n"/></r></p></e>
     <e><p><l>mearkkastat<s n="n"/></l><r>miärkkum<s n="n"/></r></p></e>
-    <e><p><l>njuovvanrusttet<s n="n"/></l><r>njuovvâmlágádâs<s n="n"/></r></p></e>
+    <e><p><l>njuovvanrusttet<s n="n"/></l><r>njuovvâmruustig<s n="n"/></r></p></e>
     <e><p><l>njuovvanrusttet<s n="n"/></l><r>njuovâdâh<s n="n"/></r></p></e>
     <e><p><l>rievssat<s n="n"/></l><r>riävská<s n="n"/></r></p></e>
-    <e><p><l>rievssat<s n="n"/></l><r>stokkeriävdu<s n="n"/></r></p></e>
     <e><p><l>rožohat<s n="n"/></l><r>čuávjinjomâttuh<s n="n"/></r></p></e>
     <e><p><l>rožohat<s n="n"/></l><r>čuávjipuálttâs<s n="n"/></r></p></e>
     <e><p><l>rožohat<s n="n"/></l><r>čuávjitoppiittoh<s n="n"/></r></p></e>
@@ -8149,14 +8110,9 @@
     <e><p><l>ruođat<s n="n"/></l><r>maivâ<s n="n"/></r></p></e>
     <e><p><l>ruođat<s n="n"/></l><r>muikku<s n="n"/></r></p></e>
     <e><p><l>ruođat<s n="n"/></l><r>čerrihkyeli<s n="n"/></r></p></e>
-    <e><p><l>rusttet<s n="n"/></l><r>huksiittâs<s n="n"/></r></p></e>
-    <e><p><l>rusttet<s n="n"/></l><r>rakânâs<s n="n"/></r></p></e>
-    <e><p><l>rusttet<s n="n"/></l><r>ráhtádâs<s n="n"/></r></p></e>
-    <e><p><l>rusttet<s n="n"/></l><r>táálu<s n="n"/></r></p></e>
-    <e><p><l>rusttet<s n="n"/></l><r>viäsu<s n="n"/></r></p></e>
+    <e><p><l>rusttet<s n="n"/></l><r>ruustig<s n="n"/></r></p></e>
     <e><p><l>rántet<s n="n"/></l><r>muorâluáddumsaje<s n="n"/></r></p></e>
     <e><p><l>rántet<s n="n"/></l><r>muorâsaje<s n="n"/></r></p></e>
-    <e><p><l>ráđđedagat<s n="n"/></l><r>sooppâđ<s n="n"/></r></p></e>
     <e><p><l>ráđđedagat<s n="n"/></l><r>sopâmuš<s n="n"/></r></p></e>
     <e><p><l>siiggát<s n="n"/></l><r>nuvgâ<s n="n"/></r></p></e>
     <e><p><l>siiggát<s n="n"/></l><r>pááru<s n="n"/></r></p></e>
