@@ -52,6 +52,7 @@
       <cat-item lemma="naj" tags="pcle.*"/>
       <cat-item lemma="nai" tags="pcle.*"/>
       <cat-item lemma="son" tags="pcle.*"/>
+      <cat-item lemma="go" tags="pcle.*"/>
     </def-cat>
    <def-cat n="buorre">
       <cat-item lemma="buorre" tags="adj.*.@→N"/>
@@ -886,7 +887,7 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: negverbfoc">
+    <rule comment="REGLA: negverbfoc"> <!-- Oidnet go dan? Uáinih-uv tom? -->
       <pattern>
         <pattern-item n="negverb"/>
         <pattern-item n="foc"/>
