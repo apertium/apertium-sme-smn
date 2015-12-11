@@ -40,7 +40,10 @@ fetchtests () {
 }
 
 cleantst () {
-    $SED 's/^ *//; s/ *$//; s/\([^,.?!:;]\)$/\1./g; s/   */ /g'
+    local nbsps=$(env printf "\u00A0\u1680\u180E\u2000\u2001\u2002\u2003\u2004\u2005\u2005\u2006\u2007\u2008\u2009\u200A\u200B\u200C\u200D\u202F\u205F\u2060\u3000\uFEFF")
+    local bom=$(env printf "\uFEFF")
+    $SED 's/^ *//; s/ *$//; s/\([^,.?!:;]\)$/\1./g; s/   */ /g' \
+        | $SED -e "s/[${nbsps}]//g" -e "s/${bom}//g"
 }
 cleansrc () {
     local -r srclang=$1
@@ -127,7 +130,7 @@ main () {
     srclist=$(mktemp -t "${mode}-src.XXXXXXXXXX")
     trglist=$(mktemp -t "${mode}-trg.XXXXXXXXXX")
     tstlist=$(mktemp -t "${mode}-tst.XXXXXXXXXX")
-    trap "rm -f \"${srclist}\" \"${trglist}\" \"${tstlist}\"" EXIT
+    trap "echo \"${srclist}\" \"${trglist}\" \"${tstlist}\"" EXIT
 
     showrevisions
     printf "Running $1-tests with mode \"${mode}\" "; ${update} && printf "with updated tests "; echo "..."
