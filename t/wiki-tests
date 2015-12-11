@@ -40,10 +40,11 @@ fetchtests () {
 }
 
 cleantst () {
-    local nbsps=$(env printf "\u00A0\u1680\u180E\u2000\u2001\u2002\u2003\u2004\u2005\u2005\u2006\u2007\u2008\u2009\u200A\u200B\u200C\u200D\u202F\u205F\u2060\u3000\uFEFF")
     local bom=$(env printf "\uFEFF")
+    local zws=$(env printf "\u200B")
     $SED 's/^ *//; s/ *$//; s/\([^,.?!:;]\)$/\1./g; s/   */ /g' \
-        | $SED -e "s/[${nbsps}]//g" -e "s/${bom}//g"
+        | $SED -e "s/﻿//g" \
+        | $SED -e "s/​//g"
 }
 cleansrc () {
     local -r srclang=$1
