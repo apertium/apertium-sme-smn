@@ -131,7 +131,7 @@ main () {
     srclist=$(mktemp -t "${mode}-src.XXXXXXXXXX")
     trglist=$(mktemp -t "${mode}-trg.XXXXXXXXXX")
     tstlist=$(mktemp -t "${mode}-tst.XXXXXXXXXX")
-    trap "echo \"${srclist}\" \"${trglist}\" \"${tstlist}\"" EXIT
+    trap "rm -f \"${srclist}\" \"${trglist}\" \"${tstlist}\"" EXIT
 
     showrevisions
     printf "Running $1-tests with mode \"${mode}\" "; ${update} && printf "with updated tests "; echo "..."
