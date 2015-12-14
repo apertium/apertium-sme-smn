@@ -19,6 +19,7 @@
 /configure.ac -text
 dev/bidix-sanity.sh -text
 dev/complicateddifferences.txt -text
+dev/missinglist.txt -text
 dix_pairs4manual_check/vblex_pairs.txt -text
 /gt2apertium.cg3r -text
 inc/parallell-text-not-bidix.freq -text
