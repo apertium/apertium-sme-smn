@@ -23,6 +23,8 @@
     <sdef n="sem_ani"      c="Sem/Ani"/>
     <sdef n="foc_sun"      c="-sun"/>
     <sdef n="foc_ge"       c="x"/>
+    <sdef n="foc_uv"       c="x"/>
+    <sdef n="qst"       c="x"/>
     <sdef n="foc_gas"      c="x"/>
     <sdef n="foc_ges"      c="x"/>
     <sdef n="foc_gis"      c="x"/>
@@ -191,16 +193,16 @@
 
     <!-- SECTION: Particles -->
 
-    <e><p><l>+son<s n="pcle"/></l><r>sun<s n="foc_sun"/></r></p></e>
     <e><p><l>son<s n="pcle"/></l><r>sun<s n="foc_sun"/></r></p></e>
-    <e><p><l>+bat<s n="pcle"/></l><r>ba<s n="foc_ba"/></r></p></e>
     <e><p><l>bat<s n="pcle"/></l><r>ba<s n="foc_ba"/></r></p></e>
-    <e><p><l>+ba<s n="pcle"/></l><r>ba<s n="foc_ba"/></r></p></e>
     <e><p><l>ba<s n="pcle"/></l><r>ba<s n="foc_ba"/></r></p></e>
-    <e><p><l>+gis<s n="pcle"/></l><r>gis<s n="foc_gis"/></r></p></e>
     <e><p><l>gis<s n="pcle"/></l><r>gis<s n="foc_gis"/></r></p></e>
-    <e><p><l>+ges<s n="pcle"/></l><r>gis<s n="foc_gis"/></r></p></e>
     <e><p><l>ges<s n="pcle"/></l><r>gis<s n="foc_gis"/></r></p></e>
+    <e><p><l>gen<s n="pcle"/></l><r>gin<s n="foc_gin"/></r></p></e>
+    <e><p><l>hal<s n="pcle"/></l><r>hân<s n="foc_han"/></r></p></e>
+    <e><p><l>ge<s n="pcle"/></l><r>-uv<s n="foc_uv"/></r></p></e>
+    <e><p><l>go<s n="pcle"/></l><r>-uv<s n="foc_uv"/></r></p></e>
+    <e><p><l>go<s n="pcle"/><s n="qst"/></l><r>-uv<s n="foc_uv"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
 
@@ -2863,7 +2865,6 @@
     <e><p><l>juos<s n="cnjsub"/></l><r>jis<s n="cnjsub"/></r></p></e>
     <e><p><l>jus<s n="cnjsub"/></l><r>jis<s n="cnjsub"/></r></p></e>
     <e><p><l>dego<s n="cnjsub"/></l><r>tegu<s n="cnjsub"/></r></p></e>
-    <e><p><l>go<s n="cnjsub"/></l><r>ko<s n="cnjsub"/></r></p></e>
     <e><p><l>nugo<s n="cnjsub"/></l><r>nuuvtko<s n="cnjsub"/></r></p></e>
     <e><p><l>váikko<s n="cnjsub"/></l><r>vâik<s n="cnjsub"/></r></p></e>
 

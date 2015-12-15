@@ -561,6 +561,7 @@
        <attr-item tags="foc_ban"/>
        <attr-item tags="foc_be"/>
        <attr-item tags="foc_hal"/>
+       <attr-item tags="foc_uv"/>
   </def-attr>
 
   </section-def-attrs>
@@ -760,7 +761,7 @@
                <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_sun"/></equal>
           </test>
           <let><clip pos="1" side="tl" part="tags"/><concat>
-          <clip pos="1" side="tl" part="a_nom"/><clip pos="1" side="sl" part="a_nbr"/><clip pos="1" side="tl" part="a_cas"/><lit-tag v="foc_sun"/></concat>
+          <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_sun"/></concat>
           </let> 
         </when>
         <when>
@@ -768,7 +769,7 @@
                <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_gis"/></equal>
           </test>
           <let><clip pos="1" side="tl" part="tags"/><concat>
-          <clip pos="1" side="tl" part="a_nom"/><clip pos="1" side="sl" part="a_nbr"/><clip pos="1" side="tl" part="a_cas"/><lit-tag v="foc_gis"/></concat>
+          <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_gis"/></concat>
           </let> 
         </when>
         <when>
@@ -776,7 +777,15 @@
                <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_ba"/></equal>
           </test>
           <let><clip pos="1" side="tl" part="tags"/><concat>
-          <clip pos="1" side="tl" part="a_nom"/><clip pos="1" side="sl" part="a_nbr"/><clip pos="1" side="tl" part="a_cas"/><lit-tag v="foc_ba"/></concat>
+          <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_ba"/></concat>
+          </let> 
+        </when>
+        <when>
+          <test>
+               <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_uv"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="tags"/><concat>
+          <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_uv"/></concat>
           </let> 
         </when>
 		</choose>    
@@ -954,7 +963,7 @@
 
     <rule comment="REGLA: nomfoc">	 <!-- nieidason  - nieidâsun -->									   
       <pattern>															   
-        <pattern-item n="nom"/>										   
+        <pattern-item n="word"/>										   
         <pattern-item n="foc"/>		  									   
       </pattern>														   
       <action>															   
