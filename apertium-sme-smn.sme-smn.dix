@@ -21,6 +21,18 @@
     <sdef n="tv"       c="Transitive"/>
     <sdef n="nomag"      c="NomAg"/>
     <sdef n="sem_ani"      c="Sem/Ani"/>
+    <sdef n="foc_sun"      c="-sun"/>
+    <sdef n="foc_ge"       c="x"/>
+    <sdef n="foc_gas"      c="x"/>
+    <sdef n="foc_ges"      c="x"/>
+    <sdef n="foc_gis"      c="x"/>
+    <sdef n="foc_gin"      c="x"/>
+    <sdef n="foc_han"      c="x"/>
+    <sdef n="foc_kin"      c="x"/>
+    <sdef n="foc_ba"      c="x"/>
+    <sdef n="foc_pa"      c="x"/>
+    <sdef n="foc_kis"      c="x"/>
+    <sdef n="foc_kas"      c="x"/>
 
     <sdef n="pers"     c="Personal"/>
     <sdef n="itg"      c="Interrogative"/>
@@ -179,20 +191,16 @@
 
     <!-- SECTION: Particles -->
 
-    <e><p><l>ba<s n="pcle"/></l><r>ba<s n="pcle"/></r></p></e>
-    <e><p><l>ban<s n="pcle"/></l><r>-uv<s n="pcle"/></r></p></e>
-    <e><p><l>ban<s n="pcle"/></l><r>ba<s n="pcle"/></r></p></e>
-    <e><p><l>bat<s n="pcle"/></l><r>ba<s n="pcle"/></r></p></e>
-    <e><p><l>ge<s n="pcle"/></l><r>gin<s n="pcle"/></r></p></e>
-    <e><p><l>ge<s n="pcle"/></l><r>-uv<s n="pcle"/></r></p></e>
-    <e><p><l>go<s n="pcle"/></l><r>-uv<s n="pcle"/></r></p></e>
-    <e><p><l>ges<s n="pcle"/></l><r>ges<s n="pcle"/></r></p></e>
-    <e><p><l>gis<s n="pcle"/></l><r>gis<s n="pcle"/></r></p></e>
-    <e><p><l>hal<s n="pcle"/></l><r>hân<s n="pcle"/></r></p></e>
-    <e><p><l>han<s n="pcle"/></l><r>hân<s n="pcle"/></r></p></e>
-    <e><p><l>naj<s n="pcle"/></l><r>-uv<s n="pcle"/></r></p></e>
-    <e><p><l>nai<s n="pcle"/></l><r>-uv<s n="pcle"/></r></p></e>
-    <e><p><l>son<s n="pcle"/></l><r>sun<s n="pcle"/></r></p></e>
+    <e><p><l>+son<s n="pcle"/></l><r>sun<s n="foc_sun"/></r></p></e>
+    <e><p><l>son<s n="pcle"/></l><r>sun<s n="foc_sun"/></r></p></e>
+    <e><p><l>+bat<s n="pcle"/></l><r>ba<s n="foc_ba"/></r></p></e>
+    <e><p><l>bat<s n="pcle"/></l><r>ba<s n="foc_ba"/></r></p></e>
+    <e><p><l>+ba<s n="pcle"/></l><r>ba<s n="foc_ba"/></r></p></e>
+    <e><p><l>ba<s n="pcle"/></l><r>ba<s n="foc_ba"/></r></p></e>
+    <e><p><l>+gis<s n="pcle"/></l><r>gis<s n="foc_gis"/></r></p></e>
+    <e><p><l>gis<s n="pcle"/></l><r>gis<s n="foc_gis"/></r></p></e>
+    <e><p><l>+ges<s n="pcle"/></l><r>gis<s n="foc_gis"/></r></p></e>
+    <e><p><l>ges<s n="pcle"/></l><r>gis<s n="foc_gis"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
 

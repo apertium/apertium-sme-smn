@@ -254,7 +254,7 @@
       <attr-item tags="com"/>
       <attr-item tags="abe"/>
     </def-attr>
-    <def-attr n="a_nbr">
+   <def-attr n="a_nbr">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
     </def-attr>
@@ -551,7 +551,17 @@
       <attr-item tags="←ext→"/>
       <attr-item tags="←hab→"/>
     </def-attr>
-
+    <def-attr n="a_foc">
+      <attr-item tags="foc_sun"/>
+       <attr-item tags="foc_ba"/>
+       <attr-item tags="foc_bat"/>
+       <attr-item tags="foc_naj"/>
+       <attr-item tags="foc_ges"/>
+       <attr-item tags="foc_gis"/>
+       <attr-item tags="foc_ban"/>
+       <attr-item tags="foc_be"/>
+       <attr-item tags="foc_hal"/>
+  </def-attr>
 
   </section-def-attrs>
 
@@ -601,7 +611,7 @@
 
          <let>
         	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="n.pl.com"/>                
+            <concat><clip pos="1" side="tl" part="a_nomtype"/><clip pos="1" side="tl" part="a_nbrcas"/></concat><!--<lit-tag v="n.pl.com"/>  -->              
         </let> 
         <let>
         	<clip pos="2" side="tl" part="tags"/><concat>
@@ -743,6 +753,34 @@
 		</choose>    
     </def-macro>  
 
+    <def-macro n="pcle-foc" npar="2">
+		<choose>   
+        <when>
+          <test>
+               <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_sun"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="tags"/><concat>
+          <clip pos="1" side="tl" part="a_nom"/><clip pos="1" side="sl" part="a_nbr"/><clip pos="1" side="tl" part="a_cas"/><lit-tag v="foc_sun"/></concat>
+          </let> 
+        </when>
+        <when>
+          <test>
+               <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_gis"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="tags"/><concat>
+          <clip pos="1" side="tl" part="a_nom"/><clip pos="1" side="sl" part="a_nbr"/><clip pos="1" side="tl" part="a_cas"/><lit-tag v="foc_gis"/></concat>
+          </let> 
+        </when>
+        <when>
+          <test>
+               <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_ba"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="tags"/><concat>
+          <clip pos="1" side="tl" part="a_nom"/><clip pos="1" side="sl" part="a_nbr"/><clip pos="1" side="tl" part="a_cas"/><lit-tag v="foc_ba"/></concat>
+          </let> 
+        </when>
+		</choose>    
+    </def-macro>  
 
 
   </section-def-macros>
@@ -914,34 +952,32 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: nomfoc">
-      <pattern>
-        <pattern-item n="word"/>
-        <pattern-item n="foc"/>
-      </pattern>
-      <action>
-        <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>
-        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <out>
-          <chunk name="wordfoc" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="WN"/></tag>
-            </tags>
-            <mlu>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-             <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-             </mlu>
-        </chunk>
-        </out>
-      </action>
-    </rule>
+    <rule comment="REGLA: nomfoc">	 <!-- nieidason  - nieidâsun -->									   
+      <pattern>															   
+        <pattern-item n="nom"/>										   
+        <pattern-item n="foc"/>		  									   
+      </pattern>														   
+      <action>															   
+        <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>  
+        <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>  
+         <call-macro n="pcle-foc"><with-param pos="1"/><with-param pos="2"/></call-macro>  
+       <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>	   
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>	   
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>	   
+       <out>															   
+          <chunk name="wordfoc" case="caseFirstWord">					   
+            <tags>														   
+              <tag><lit-tag v="WN"/></tag>								   
+            </tags>														   
+            <mlu>														   
+            <lu>														   
+              <clip pos="1" side="tl" part="whole"/>					   
+            </lu>														   
+             </mlu>														   
+        </chunk>														   
+        </out>															   
+      </action>															   
+    </rule>																   
 
 
     <rule comment="REGLA: vblexfoc">
