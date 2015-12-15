@@ -10,7 +10,7 @@
     <sdef n="np"       c="Proper noun"/>
     <sdef n="num"      c="Numeral"/>
     <sdef n="prn"      c="Pronoun"/>
-    <sdef n="po"       c="Postposition"/>
+    <sdef n="post"       c="Postposition"/>
     <sdef n="pr"       c="Preposition"/>
     <sdef n="adv"      c="Adverb"/>
     <sdef n="pcle"     c="Частица"/>
@@ -154,28 +154,28 @@
 
     <!-- SECTION: Prepositions -->
 
-    <e><p><l>maŋŋel<s n="pr"/></l><r>maŋa<s n="po"/></r></p></e>
+    <e><p><l>maŋŋel<s n="pr"/></l><r>maŋa<s n="post"/></r></p></e>
 
     <!-- SECTION: Postpositions -->
 
-    <e><p><l>badjel<s n="po"/></l><r>paijeel<s n="po"/></r></p></e>
-    <e><p><l>alde<s n="po"/></l><r>alne<s n="po"/></r></p></e>
-    <e><p><l>duohken<s n="po"/></l><r>tyehin<s n="po"/></r></p></e>
-    <e><p><l>lusa<s n="po"/></l><r>kuuvl<s n="po"/></r></p></e>
-    <e><p><l>maŋŋel<s n="po"/></l><r>maŋa<s n="po"/></r></p></e>
-    <e><p><l>mielde<s n="po"/></l><r>mield<s n="po"/></r></p></e>
-    <e><p><l>olggobealde<s n="po"/></l><r>ulguubeln<s n="po"/></r></p></e>
-    <e><p><l>ovddas<s n="po"/></l><r>oovdâst<s n="po"/></r></p></e>
-    <e><p><l>siste<s n="po"/></l><r>siste<s n="po"/></r></p></e>
-    <e><p><l>vuolde<s n="po"/></l><r>vyelni<s n="po"/></r></p></e>
-    <e><p><l>dáfus<s n="po"/></l><r>tááhust<s n="po"/></r></p></e>
-    <e><p><l>čađa<s n="po"/></l><r>čoođâ<s n="po"/></r></p></e>
-    <e><p><l>birra<s n="po"/></l><r>pirrâ<s n="po"/></r></p></e>
-    <e><p><l>rájes<s n="po"/></l><r>rääjist<s n="po"/></r></p></e>
-    <e><p><l>háldui<s n="po"/></l><r>haaldun<s n="po"/></r></p></e> <!-- not in sme -->
-    <e><p><l>vulobealde<s n="po"/></l><r>vuoluubeln<s n="po"/></r></p></e>
-    <e><p><l>nalde<s n="po"/></l><r>alne<s n="po"/></r></p></e>
-    <e><p><l>ovddabeallai<s n="po"/></l><r>ovdiibel<s n="po"/></r></p></e> <!-- not in sme -->
+    <e><p><l>badjel<s n="post"/></l><r>paijeel<s n="post"/></r></p></e>
+    <e><p><l>alde<s n="post"/></l><r>alne<s n="post"/></r></p></e>
+    <e><p><l>duohken<s n="post"/></l><r>tyehin<s n="post"/></r></p></e>
+    <e><p><l>lusa<s n="post"/></l><r>kuuvl<s n="post"/></r></p></e>
+    <e><p><l>maŋŋel<s n="post"/></l><r>maŋa<s n="post"/></r></p></e>
+    <e><p><l>mielde<s n="post"/></l><r>mield<s n="post"/></r></p></e>
+    <e><p><l>olggobealde<s n="post"/></l><r>ulguubeln<s n="post"/></r></p></e>
+    <e><p><l>ovddas<s n="post"/></l><r>oovdâst<s n="post"/></r></p></e>
+    <e><p><l>siste<s n="post"/></l><r>siste<s n="post"/></r></p></e>
+    <e><p><l>vuolde<s n="post"/></l><r>vyelni<s n="post"/></r></p></e>
+    <e><p><l>dáfus<s n="post"/></l><r>tááhust<s n="post"/></r></p></e>
+    <e><p><l>čađa<s n="post"/></l><r>čoođâ<s n="post"/></r></p></e>
+    <e><p><l>birra<s n="post"/></l><r>pirrâ<s n="post"/></r></p></e>
+    <e><p><l>rájes<s n="post"/></l><r>rääjist<s n="post"/></r></p></e>
+    <e><p><l>háldui<s n="post"/></l><r>haaldun<s n="post"/></r></p></e> <!-- not in sme -->
+    <e><p><l>vulobealde<s n="post"/></l><r>vuoluubeln<s n="post"/></r></p></e>
+    <e><p><l>nalde<s n="post"/></l><r>alne<s n="post"/></r></p></e>
+    <e><p><l>ovddabeallai<s n="post"/></l><r>ovdiibel<s n="post"/></r></p></e> <!-- not in sme -->
 
     <!-- SECTION: Particles -->
 
@@ -2750,9 +2750,9 @@
     <e><p><l>funet<s n="adv"/></l><r>hyeneeht<s n="adv"/></r></p></e>
     <e><p><l>gal<s n="adv"/></l><r>kal<s n="adv"/></r></p></e>
     <e><p><l>garrasit<s n="adv"/></l><r>korrâsávt<s n="adv"/></r></p></e>
-    <e><p><l>gaskal<s n="po"/></l><r>kaskoo<s n="po"/></r></p></e>
+    <e><p><l>gaskal<s n="post"/></l><r>kaskoo<s n="post"/></r></p></e>
     <e><p><l>gaskal<s n="pr"/></l><r>kaskoo<s n="pr"/></r></p></e>
-    <e><p><l>gasku<s n="po"/></l><r>kaskoo<s n="po"/></r></p></e>
+    <e><p><l>gasku<s n="post"/></l><r>kaskoo<s n="post"/></r></p></e>
     <e><p><l>gasku<s n="pr"/></l><r>kaskoo<s n="pr"/></r></p></e>
     <e><p><l>gieskat<s n="adv"/></l><r>kieskâd<s n="adv"/></r></p></e>
     <e><p><l>gitta<s n="adv"/></l><r>kiddâ<s n="adv"/></r></p></e>
@@ -5501,51 +5501,51 @@
 
     <!--    SECTION: Postpositions -->
 
-    <e><p><l>ala<s n="po"/></l><r>oolâ<s n="po"/></r></p></e>
-    <e><p><l>bajábealde<s n="po"/></l><r>paajaabeln<s n="po"/></r></p></e>
-    <e><p><l>bealde<s n="po"/></l><r>peln<s n="po"/></r></p></e>
-    <e><p><l>bealdi<s n="po"/></l><r>peln<s n="po"/></r></p></e>
-    <e><p><l>beales<s n="po"/></l><r>peeleest<s n="po"/></r></p></e>
-    <e><p><l>bealis<s n="po"/></l><r>peeleest<s n="po"/></r></p></e>
-    <e><p><l>beallai<s n="po"/></l><r>pel<s n="po"/></r></p></e>
-    <e><p><l>dihte<s n="po"/></l><r>tiet<s n="po"/></r></p></e>
-    <e><p><l>gaskii<s n="po"/></l><r>kooskân<s n="po"/></r></p></e>
-    <e><p><l>geažes<s n="po"/></l><r>keččin<s n="po"/></r></p></e>
-    <e><p><l>guoras<s n="po"/></l><r>piällást<s n="po"/></r></p></e>
-    <e><p><l>ládje<s n="po"/></l><r>naalijn<s n="po"/></r></p></e>
-    <e><p><l>láhkai<s n="po"/></l><r>naalijn<s n="po"/></r></p></e>
-    <e><p><l>maŋis<s n="po"/></l><r>maajeeld<s n="po"/></r></p></e>
-    <e><p><l>maŋábealde<s n="po"/></l><r>tyehin<s n="po"/></r></p></e>
-    <e><p><l>maŋábealdi<s n="po"/></l><r>tyehin<s n="po"/></r></p></e>
-    <e><p><l>olggobealdi<s n="po"/></l><r>ulguubeln<s n="po"/></r></p></e>
-    <e><p><l>ovdii<s n="po"/></l><r>oovdân<s n="po"/></r></p></e>
-    <e><p><l>vuollái<s n="po"/></l><r>vuálá<s n="po"/></r></p></e>
-    <e><p><l>vuođul<s n="po"/></l><r>vuáđuld<s n="po"/></r></p></e>
-    <e><p><l>várás<s n="po"/></l><r>várás<s n="po"/></r></p></e>
+    <e><p><l>ala<s n="post"/></l><r>oolâ<s n="post"/></r></p></e>
+    <e><p><l>bajábealde<s n="post"/></l><r>paajaabeln<s n="post"/></r></p></e>
+    <e><p><l>bealde<s n="post"/></l><r>peln<s n="post"/></r></p></e>
+    <e><p><l>bealdi<s n="post"/></l><r>peln<s n="post"/></r></p></e>
+    <e><p><l>beales<s n="post"/></l><r>peeleest<s n="post"/></r></p></e>
+    <e><p><l>bealis<s n="post"/></l><r>peeleest<s n="post"/></r></p></e>
+    <e><p><l>beallai<s n="post"/></l><r>pel<s n="post"/></r></p></e>
+    <e><p><l>dihte<s n="post"/></l><r>tiet<s n="post"/></r></p></e>
+    <e><p><l>gaskii<s n="post"/></l><r>kooskân<s n="post"/></r></p></e>
+    <e><p><l>geažes<s n="post"/></l><r>keččin<s n="post"/></r></p></e>
+    <e><p><l>guoras<s n="post"/></l><r>piällást<s n="post"/></r></p></e>
+    <e><p><l>ládje<s n="post"/></l><r>naalijn<s n="post"/></r></p></e>
+    <e><p><l>láhkai<s n="post"/></l><r>naalijn<s n="post"/></r></p></e>
+    <e><p><l>maŋis<s n="post"/></l><r>maajeeld<s n="post"/></r></p></e>
+    <e><p><l>maŋábealde<s n="post"/></l><r>tyehin<s n="post"/></r></p></e>
+    <e><p><l>maŋábealdi<s n="post"/></l><r>tyehin<s n="post"/></r></p></e>
+    <e><p><l>olggobealdi<s n="post"/></l><r>ulguubeln<s n="post"/></r></p></e>
+    <e><p><l>ovdii<s n="post"/></l><r>oovdân<s n="post"/></r></p></e>
+    <e><p><l>vuollái<s n="post"/></l><r>vuálá<s n="post"/></r></p></e>
+    <e><p><l>vuođul<s n="post"/></l><r>vuáđuld<s n="post"/></r></p></e>
+    <e><p><l>várás<s n="post"/></l><r>várás<s n="post"/></r></p></e>
 
     <e><p><l>badjelis<s n="adv"/></l><r>pajalist<s n="adv"/></r></p></e>
-    <e><p><l>bakte<s n="po"/></l><r>peht<s n="po"/></r></p></e>
-    <e><p><l>beal<s n="po"/></l><r>pele<s n="po"/></r></p></e>
-    <e><p><l>beali<s n="po"/></l><r>pele<s n="po"/></r></p></e>
-    <e><p><l>bokte<s n="po"/></l><r>peht<s n="po"/></r></p></e>
-    <e><p><l>bokti<s n="po"/></l><r>peht<s n="po"/></r></p></e>
-    <e><p><l>dihtii<s n="po"/></l><r>tiet<s n="po"/></r></p></e>
-    <e><p><l>gaskka<s n="po"/></l><r>koskân<s n="po"/></r></p></e>
-    <e><p><l>geahčai<s n="po"/></l><r>keč<s n="po"/></r></p></e>
-    <e><p><l>geahčen<s n="po"/></l><r>keččin<s n="po"/></r></p></e>
-    <e><p><l>geažil<s n="po"/></l><r>keežild<s n="po"/></r></p></e>
-    <e><p><l>guhku<s n="po"/></l><r>kuho<s n="po"/></r></p></e>
-    <e><p><l>guovdu<s n="po"/></l><r>kuávdoo<s n="po"/></r></p></e>
-    <e><p><l>lahka<s n="po"/></l><r>alda<s n="po"/></r></p></e>
-    <e><p><l>luhtti<s n="po"/></l><r>kulen<s n="po"/></r></p></e>
-    <e><p><l>lusa<s n="po"/></l><r>kuuvl<s n="po"/></r></p></e>
-    <e><p><l>maŋŋái<s n="po"/></l><r>maŋŋaal<s n="po"/></r></p></e>
-    <e><p><l>miehtá<s n="po"/></l><r>miätá<s n="po"/></r></p></e>
-    <e><p><l>rastá<s n="po"/></l><r>rasta<s n="po"/></r></p></e>
-    <e><p><l>rádjái<s n="po"/></l><r>räi<s n="po"/></r></p></e>
-    <e><p><l>vuollel<s n="po"/></l><r>vuálá<s n="po"/></r></p></e>
-    <e><p><l>várte<s n="po"/></l><r>várás<s n="po"/></r></p></e>
-    <e><p><l>várás<s n="po"/></l><r>várás<s n="po"/></r></p></e>
+    <e><p><l>bakte<s n="post"/></l><r>peht<s n="post"/></r></p></e>
+    <e><p><l>beal<s n="post"/></l><r>pele<s n="post"/></r></p></e>
+    <e><p><l>beali<s n="post"/></l><r>pele<s n="post"/></r></p></e>
+    <e><p><l>bokte<s n="post"/></l><r>peht<s n="post"/></r></p></e>
+    <e><p><l>bokti<s n="post"/></l><r>peht<s n="post"/></r></p></e>
+    <e><p><l>dihtii<s n="post"/></l><r>tiet<s n="post"/></r></p></e>
+    <e><p><l>gaskka<s n="post"/></l><r>koskân<s n="post"/></r></p></e>
+    <e><p><l>geahčai<s n="post"/></l><r>keč<s n="post"/></r></p></e>
+    <e><p><l>geahčen<s n="post"/></l><r>keččin<s n="post"/></r></p></e>
+    <e><p><l>geažil<s n="post"/></l><r>keežild<s n="post"/></r></p></e>
+    <e><p><l>guhku<s n="post"/></l><r>kuho<s n="post"/></r></p></e>
+    <e><p><l>guovdu<s n="post"/></l><r>kuávdoo<s n="post"/></r></p></e>
+    <e><p><l>lahka<s n="post"/></l><r>alda<s n="post"/></r></p></e>
+    <e><p><l>luhtti<s n="post"/></l><r>kulen<s n="post"/></r></p></e>
+    <e><p><l>lusa<s n="post"/></l><r>kuuvl<s n="post"/></r></p></e>
+    <e><p><l>maŋŋái<s n="post"/></l><r>maŋŋaal<s n="post"/></r></p></e>
+    <e><p><l>miehtá<s n="post"/></l><r>miätá<s n="post"/></r></p></e>
+    <e><p><l>rastá<s n="post"/></l><r>rasta<s n="post"/></r></p></e>
+    <e><p><l>rádjái<s n="post"/></l><r>räi<s n="post"/></r></p></e>
+    <e><p><l>vuollel<s n="post"/></l><r>vuálá<s n="post"/></r></p></e>
+    <e><p><l>várte<s n="post"/></l><r>várás<s n="post"/></r></p></e>
+    <e><p><l>várás<s n="post"/></l><r>várás<s n="post"/></r></p></e>
 
     <!--    SECTION: Prepositions -->
 
@@ -6752,7 +6752,7 @@
 
 <!-- Adverbs 1-m frequency ordered -->
 
-    <e><p><l>davábealde<s n="po"/></l><r>taavaabeln<s n="po"/></r></p></e>
+    <e><p><l>davábealde<s n="post"/></l><r>taavaabeln<s n="post"/></r></p></e>
     <e><p><l>davábealde<s n="adv"/></l><r>taavaabeln<s n="adv"/></r></p></e>
     <e><p><l>geardde<s n="adv"/></l><r>keerdi<s n="adv"/></r></p></e>
     <e><p><l>mielde<s n="adv"/></l><r>mieldi<s n="adv"/></r></p></e>
@@ -6858,7 +6858,7 @@
     <e><p><l>ruossut<s n="adv"/></l><r>ruássud<s n="adv"/></r></p></e>
     <e><p><l>vátni<s n="adv"/></l><r>vääniht<s n="adv"/></r></p></e>
     <e><p><l>njulgestaga<s n="adv"/></l><r>njuolgist<s n="adv"/></r></p></e>
-    <e><p><l>taga<s n="po"/></l><r></r></p></e><!-- sme:abessive; should be po in sme; see also haga -->
+    <e><p><l>taga<s n="post"/></l><r></r></p></e><!-- sme:abessive; should be po in sme; see also haga -->
     <e><p><l>sneakta<s n="adv"/></l><r>rasta<s n="adv"/></r></p></e>
     <e><p><l>ihcalassii<s n="adv"/></l><r>jiešmeidlist<s n="adv"/></r></p></e>
     <e><p><l>joksege<s n="adv"/></l><r>suulân<s n="adv"/></r></p></e>
@@ -8314,17 +8314,17 @@
 
 <!-- Postpositions 1-m frequency ordered -->
 
-    <e><p><l>mielde<s n="po"/></l><r>mieldi<s n="po"/></r></p></e>
-    <e><p><l>gaskkas<s n="po"/></l><r>kooskâst<s n="po"/></r></p></e>
-    <e><p><l>vuostá<s n="po"/></l><r>vuástá<s n="po"/></r></p></e>
-    <e><p><l>haga<s n="po"/></l><r></r></p></e>
-    <e><p><l>olis<s n="po"/></l><r>mieldi<s n="po"/></r></p></e>
-    <e><p><l>luhtte<s n="po"/></l><r>kulen<s n="po"/></r></p></e>
-    <e><p><l>maŋŋá<s n="po"/></l><r>maŋa<s n="po"/></r></p></e>
-    <e><p><l>sisa<s n="po"/></l><r>siisâ<s n="po"/></r></p></e>
-    <e><p><l>guvlui<s n="po"/></l><r>kulij<s n="po"/></r></p></e>
-    <e><p><l>fárus<s n="po"/></l><r>fáárust<s n="po"/></r></p></e>
-    <e><p><l>duohkái<s n="po"/></l><r>tuáhá<s n="po"/></r></p></e>
+    <e><p><l>mielde<s n="post"/></l><r>mieldi<s n="post"/></r></p></e>
+    <e><p><l>gaskkas<s n="post"/></l><r>kooskâst<s n="post"/></r></p></e>
+    <e><p><l>vuostá<s n="post"/></l><r>vuástá<s n="post"/></r></p></e>
+    <e><p><l>haga<s n="post"/></l><r></r></p></e>
+    <e><p><l>olis<s n="post"/></l><r>mieldi<s n="post"/></r></p></e>
+    <e><p><l>luhtte<s n="post"/></l><r>kulen<s n="post"/></r></p></e>
+    <e><p><l>maŋŋá<s n="post"/></l><r>maŋa<s n="post"/></r></p></e>
+    <e><p><l>sisa<s n="post"/></l><r>siisâ<s n="post"/></r></p></e>
+    <e><p><l>guvlui<s n="post"/></l><r>kulij<s n="post"/></r></p></e>
+    <e><p><l>fárus<s n="post"/></l><r>fáárust<s n="post"/></r></p></e>
+    <e><p><l>duohkái<s n="post"/></l><r>tuáhá<s n="post"/></r></p></e>
 
 <!-- Pronouns 1-m frequency ordered -->
 
