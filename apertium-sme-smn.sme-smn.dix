@@ -206,6 +206,7 @@
     <e><p><l>ge<s n="pcle"/></l><r>-uv<s n="foc_uv"/></r></p></e>
     <e><p><l>ge<s n="pcle"/></l><r>gin<s n="foc_gin"/></r></p></e>
     <e><p><l>go<s n="pcle"/></l><r>-uv<s n="foc_uv"/></r></p></e>
+    <e><p><l>nai<s n="pcle"/></l><r>-uv<s n="foc_uv"/></r></p></e>
     <e><p><l>go<s n="pcle"/><s n="qst"/></l><r>-uv<s n="foc_uv"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
@@ -6078,6 +6079,7 @@
     <e><p><l>beaitalit<s n="vblex"/><s n="tv"/></l><r>lovdâččiđ<s n="vblex"/></r></p></e>
     <e><p><l>beaitáladdat<s n="vblex"/><s n="tv"/></l><r>lovdâččiđ<s n="vblex"/></r></p></e>
     <e><p><l>beassat<s n="vblex"/><s n="tv"/></l><r>peessâđ<s n="vblex"/></r></p></e>
+    <e><p><l>beassat<s n="vblex"/><s n="tv"/></l><r>pyehtiđ<s n="vblex"/></r></p></e>
     <e><p><l>beastit<s n="vblex"/><s n="tv"/></l><r>piäluštiđ<s n="vblex"/></r></p></e>
     <e><p><l>befeštuvvat<s n="vblex"/><s n="iv"/></l><r>jiärástuđ<s n="vblex"/></r></p></e>
     <e><p><l>beroštit<s n="vblex"/><s n="iv"/></l><r>perustiđ<s n="vblex"/></r></p></e>
@@ -8346,7 +8348,9 @@
 <!-- Pronouns 1-m frequency ordered -->
 
     <e><p><l>dat<s n="prn"/></l><r>tot<s n="prn"/></r></p></e>
-    <e><p><l>buot<s n="prn"/></l><r>puoh<s n="prn"/></r></p></e>
+    <e><p><l>buot<s n="prn"/><s n="ind"/><s n="nom"/></l><r>puoh<s n="prn"/><s n="ind"/><s n="sg"/><s n="nom"/></r></p></e>
+    <e><p><l>buot<s n="prn"/><s n="ind"/><s n="acc"/></l><r>puoh<s n="prn"/><s n="ind"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e><p><l>buot<s n="prn"/><s n="ind"/><s n="attr"/></l><r>puoh<s n="prn"/><s n="ind"/><s n="attr"/></r></p></e>
     <e><p><l>muhtun<s n="prn"/></l><r>mottoom<s n="prn"/></r></p></e>
     <e><p><l>iešguhtet<s n="prn"/></l><r>jieškote-uv<s n="prn"/></r></p></e>
     <e><p><l>guhte<s n="prn"/></l><r>kote<s n="prn"/></r></p></e>
