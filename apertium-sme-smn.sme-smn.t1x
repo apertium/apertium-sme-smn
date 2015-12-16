@@ -1020,8 +1020,6 @@
     </rule>																   
 
 
-
-
     <rule comment="REGLA: nomcmpfoc">	 <!-- juovlâtoontumuátunaamar-uv -->
       <pattern>															   
         <pattern-item n="nnomcmp"/>
