@@ -559,6 +559,7 @@
        <attr-item tags="foc_naj"/>
        <attr-item tags="foc_ges"/>
        <attr-item tags="foc_gis"/>
+       <attr-item tags="foc_gin"/>
        <attr-item tags="foc_ban"/>
        <attr-item tags="foc_be"/>
        <attr-item tags="foc_hal"/>
@@ -771,6 +772,14 @@
           </test>
           <let><clip pos="1" side="tl" part="tags"/><concat>
           <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_gis"/></concat>
+          </let> 
+        </when>
+        <when>
+          <test>
+               <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_gin"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="tags"/><concat>
+          <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_gin"/></concat>
           </let> 
         </when>
         <when>

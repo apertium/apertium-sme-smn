@@ -67,10 +67,16 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.5">
-     <match lemma="ii" tags="vblex.*"/>
-    <match/>
     <match lemma="ge">
-      <select lemma="-uv"/>
+      <select lemma="gin"/>
+    </match>
+  </rule>
+
+
+  <rule weight="0.6">
+     <match lemma="ii" tags="vblex.*"/>
+    <match lemma="ge">
+      <select lemma="gin"/>
     </match>
   </rule>
 
@@ -78,7 +84,7 @@ Write comments to forthcoming rules before this line -->
      <match lemma="ii" tags="vblex.*"/>
     <match/>
     <match lemma="ge">
-      <select lemma="-uv"/>
+      <select lemma="gin"/>
     </match>
   </rule>
 
