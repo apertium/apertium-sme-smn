@@ -240,6 +240,10 @@
        <attr-item tags="adj.ord"/>
        <attr-item tags="prn.ind"/>
     </def-attr>
+    <def-attr n="a_nomtype">
+      <attr-item tags="nomag"/>
+      <attr-item tags="g3"/>
+    </def-attr>
     <def-attr n="a_nom">
       <attr-item tags="n"/>
     </def-attr>
@@ -613,8 +617,9 @@
                   </and></test>
 
          <let>
-        	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="n.pl.com"/>    
+<!--         <clip pos="1" side="tl" part="tags"/><lit-tag v="n.pl.com"/>    -->
+
+            <clip pos="1" side="tl" part="tags"/><concat><lit-tag v="n"/><clip pos="1" side="tl" part="a_nomtype"/><clip pos="1" side="tl" part="a_nbr"/><clip pos="1" side="tl" part="a_cas"/></concat>  
         </let> 
         <let>
         	<clip pos="2" side="tl" part="tags"/><concat>
