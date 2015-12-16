@@ -305,6 +305,10 @@
       <attr-item tags="iv"/>
       <attr-item tags="tv"/>
     </def-attr>
+    <def-attr n="a_adv_comp">
+      <attr-item tags="comp"/>
+      <attr-item tags="superl"/>
+    </def-attr>
     <def-attr n="a_deriv">
        <attr-item tags="der_dimin.n"/>
        <attr-item tags="der_at"/>
@@ -606,6 +610,12 @@
             <lit v=""/>
           </let>
     </def-macro>
+    <def-macro n="remove-advtag1" npar="1">
+          <let>
+            <clip pos="1" side="tl" part="a_adv_comp"/>
+            <lit v=""/>
+          </let>
+    </def-macro>
     <def-macro n="agreement-adj-ind-sg2" npar="2">  
         <let>
         	<clip pos="1" side="tl" part="tags"/>
@@ -769,7 +779,7 @@
 		</choose>    
     </def-macro>  
 
-    <def-macro n="pcle-foc" npar="2">
+    <def-macro n="pcle-foc2" npar="2">
 		<choose>   
         <when>
           <test>
@@ -1000,7 +1010,7 @@
       <action>															   
         <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>  
         <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>  
-         <call-macro n="pcle-foc"><with-param pos="1"/><with-param pos="2"/></call-macro>  
+         <call-macro n="pcle-foc2"><with-param pos="1"/><with-param pos="2"/></call-macro>  
        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>	   
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>	   
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>	   
@@ -1031,7 +1041,7 @@
         <call-macro n="remove-semtag1"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="pcle-foc"><with-param pos="2"/><with-param pos="3"/></call-macro>  
+        <call-macro n="pcle-foc2"><with-param pos="2"/><with-param pos="3"/></call-macro>  
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>	   
        <out>															   
           <chunk name="wordfoc" case="caseFirstWord">					   
@@ -1119,6 +1129,7 @@
       <action>
         <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
+        <call-macro n="remove-advtag1"><with-param pos="1"/></call-macro>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <out>
           <chunk name="adv" case="caseFirstWord">
