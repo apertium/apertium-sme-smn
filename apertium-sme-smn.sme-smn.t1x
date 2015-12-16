@@ -555,6 +555,7 @@
       <attr-item tags="foc_sun"/>
        <attr-item tags="foc_ba"/>
        <attr-item tags="foc_bat"/>
+       <attr-item tags="foc_han"/>
        <attr-item tags="foc_naj"/>
        <attr-item tags="foc_ges"/>
        <attr-item tags="foc_gis"/>
@@ -774,6 +775,14 @@
         </when>
         <when>
           <test>
+               <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_han"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="tags"/><concat>
+          <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_han"/></concat>
+          </let> 
+        </when>
+        <when>
+          <test>
                <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_ba"/></equal>
           </test>
           <let><clip pos="1" side="tl" part="tags"/><concat>
@@ -961,7 +970,7 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: nomfoc">	 <!-- nieidason  - nieidâsun -->									   
+    <rule comment="REGLA: nomfoc">	 <!-- nieidage / nieida ge   - nieidâ-uv -->									   
       <pattern>															   
         <pattern-item n="word"/>										   
         <pattern-item n="foc"/>		  									   
