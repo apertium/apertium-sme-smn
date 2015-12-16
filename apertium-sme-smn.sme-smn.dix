@@ -20,20 +20,20 @@
     <sdef n="tv"       c="Transitive"/>
     <sdef n="nomag"      c="NomAg"/>
     <sdef n="sem_ani"      c="Sem/Ani"/>
-    <sdef n="foc_sun"      c="-sun"/>
-    <sdef n="foc_ge"       c="x"/>
-    <sdef n="foc_uv"       c="x"/>
-    <sdef n="qst"       c="x"/>
-    <sdef n="foc_gas"      c="x"/>
-    <sdef n="foc_ges"      c="x"/>
-    <sdef n="foc_gis"      c="x"/>
-    <sdef n="foc_gin"      c="x"/>
-    <sdef n="foc_han"      c="x"/>
-    <sdef n="foc_kin"      c="x"/>
-    <sdef n="foc_ba"      c="x"/>
-    <sdef n="foc_pa"      c="x"/>
-    <sdef n="foc_kis"      c="x"/>
-    <sdef n="foc_kas"      c="x"/>
+    <sdef n="foc_sun"      c="clitic sun"/>
+    <sdef n="foc_ge"       c="clitic ge"/>
+    <sdef n="foc_uv"       c="clitic -uv"/>
+    <sdef n="qst"       c="clitic qst"/>
+    <sdef n="foc_gas"      c="clitic gas"/>
+    <sdef n="foc_ges"      c="clitic ges"/>
+    <sdef n="foc_gis"      c="clitic gis"/>
+    <sdef n="foc_gin"      c="clitic gin"/>
+    <sdef n="foc_han"      c="clitic hân"/>
+    <sdef n="foc_kin"      c="clitic kin"/>
+    <sdef n="foc_ba"      c="clitic ba"/>
+    <sdef n="foc_pa"      c="clitic pa"/>
+    <sdef n="foc_kis"      c="clitic kis"/>
+    <sdef n="foc_kas"      c="clitic kas"/>
 
     <sdef n="pers"     c="Personal"/>
     <sdef n="itg"      c="Interrogative"/>
@@ -49,8 +49,8 @@
 
 <!-- the following inserted inspired from sme-smna -->
 
-    <sdef n="sg"/>
-    <sdef n="pl"/>
+    <sdef n="sg"  c="Singular"/>
+    <sdef n="pl" c="Plural"/>
 
     <sdef n="px1sg"    c="First-person singular possessive suffix"/>
     <sdef n="px2sg"    c="Second-person singular possessive suffix"/>
@@ -62,19 +62,19 @@
     <sdef n="px2pl"    c="Second-person plural possessive suffix"/>
     <sdef n="px3pl"    c="Third-person plural possessive suffix"/>
 
-    <sdef n="gen"/>
-    <sdef n="ill"/>
-    <sdef n="com"/>
-    <sdef n="acc"/>
-    <sdef n="loc"/>
-    <sdef n="ine"/>
-    <sdef n="nom"/>
-    <sdef n="ess"/>
-    <sdef n="par"/>
-    <sdef n="superl"/>
-    <sdef n="prfprc"/>
-    <sdef n="der_avt"/>
-    <sdef n="der_at"/>
+    <sdef n="gen" c="Genetive"/>
+    <sdef n="ill" c="Illative"/>
+    <sdef n="com" c="Comitative"/>
+    <sdef n="acc" c="Accusative"/>
+    <sdef n="loc" c="Locative"/>
+    <sdef n="ine" c="Inessive"/>
+    <sdef n="nom" c="Nominative"/>
+    <sdef n="ess" c="Essive"/>
+    <sdef n="par" c="Partitive"/>
+    <sdef n="superl" c="Superlative"/>
+    <sdef n="prfprc" c="Perfect Participle"/>
+    <sdef n="der_avt" c="derivation Der_avt"/>
+    <sdef n="der_at" c="derivation Der_at"/>
    
   </sdefs>
 
