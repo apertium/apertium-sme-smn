@@ -6,7 +6,7 @@
     <sdef n="vblex"        c="Verb"/>
     <sdef n="adj"        c="Adjective"/>
     <sdef n="attr"        c="Attributive"/>
-    <sdef n="ij"/>
+    <sdef n="ij"        c="Interjection"/>
     <sdef n="np"       c="Proper noun"/>
     <sdef n="num"      c="Numeral"/>
     <sdef n="prn"      c="Pronoun"/>
@@ -16,7 +16,6 @@
     <sdef n="pcle"     c="Частица"/>
     <sdef n="cnjcoo"   c="Coordinating conjunction"/>
     <sdef n="cnjsub"   c="Subordinating conjunction"/>
-
     <sdef n="iv"       c="Intransitive"/>
     <sdef n="tv"       c="Transitive"/>
     <sdef n="nomag"      c="NomAg"/>
@@ -84,7 +83,7 @@
 <!-- AAAAA CHAPTER 1 The initial bidix - manually made in 2014 pluss october 2015, pluss placenames from Miina/Hannu November 2015   -->
 
 <!-- these to be checked, they were removed and now returned. -->
-
+    <e><p><l>álásjulggiid<s n="adv"/></l><r>päljisjuolgij<s n="adv"/></r></p></e>
     <e><p><l>eambbo<s n="adv"/></l><r>enâbiššáá<s n="adv"/></r></p></e>
     <e><p><l>eambbo<s n="adv"/></l><r>paijeel<s n="adv"/></r></p></e>
     <e><p><l>eambbo<s n="adv"/></l><r>čyevtib<s n="adv"/></r></p></e>
@@ -108,6 +107,7 @@
     <e><p><l>ja<s n="cnjcoo"/></l><r>já<s n="cnjcoo"/></r></p></e>
     <e><p><l>vai<s n="cnjcoo"/></l><r>vâi<s n="cnjcoo"/></r></p></e>
     <e><p><l>dahje<s n="cnjcoo"/></l><r>teikkâ<s n="cnjcoo"/></r></p></e>
+    <e><p><l>dahjege<s n="cnjcoo"/></l><r>teikkâ<s n="cnjcoo"/></r></p></e>
 
     <!-- SECTION: Subjunctions -->
 
@@ -170,8 +170,10 @@
 
     <e><p><l>maŋŋel<s n="pr"/></l><r>maŋa<s n="post"/></r></p></e>
 
-    <!-- SECTION: Postpositions -->
+    <!-- SECTION: Postpositions -->     
 
+
+    <e><p><l>rádjai<s n="post"/></l><r>räi<s n="post"/></r></p></e> 
     <e><p><l>badjel<s n="post"/></l><r>paijeel<s n="post"/></r></p></e>
     <e><p><l>alde<s n="post"/></l><r>alne<s n="post"/></r></p></e>
     <e><p><l>duohken<s n="post"/></l><r>tyehin<s n="post"/></r></p></e>
@@ -348,9 +350,11 @@
 
 
 
-    <!-- SECTION: Nouns -->
+    <!-- SECTION: Nouns -->  
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
+    <e><p><l>s<s n="n"/></l><r>s<s n="n"/></r></p></e> <!-- abbr -->
+    <e><p><l>miila<s n="n"/></l><r>penâkkulâm<s n="n"/></r></p></e> <!-- not in smn -->
     <e><p><l>anárašgiella<s n="n"/></l><r>anarâškielâ<s n="n"/></r></p></e>
     <e><p><l>álbmotbeaivedoalut<s n="n"/></l><r>aalmugpeivituáluh<s n="n"/></r></p></e>
     <e><p><l>ávvuguossit<s n="n"/><s n="pl"/></l><r>juhleviehâ<s n="n"/><s n="sg"/></r></p></e>
@@ -766,6 +770,8 @@
 
     <!-- SECTION: Proper nouns -->
 
+    <e><p><l>Máhtte<s n="np"/></l><r>Máhtte<s n="np"/></r></p></e> <!-- not in smn -->
+    <e><p><l>Romsa<s n="np"/></l><r>Tromssa<s n="np"/></r></p></e> <!-- not in smn -->
     <e><p><l>Helsset<s n="np"/></l><r>Helsig<s n="np"/></r></p></e>
     <e><p><l>Máret<s n="np"/></l><r>Maarit<s n="np"/></r></p></e>
     <e><p><l>Duommá<s n="np"/></l><r>Tyemes<s n="np"/></r></p></e>
@@ -6056,8 +6062,7 @@
     <e><p><l>šuddidit<s n="vblex"/><s n="iv"/></l><r>šlamâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>šuohkihit<s n="vblex"/><s n="iv"/></l><r>šuáhkádiđ<s n="vblex"/></r></p></e>
     <e><p><l>šuohkkit<s n="vblex"/><s n="iv"/></l><r>šyehkiđ<s n="vblex"/></r></p></e>
-
-    <e><p><l>addit<s n="vblex"/><s n="tv"/></l><r>adeliđ<s n="vblex"/></r></p></e>
+    <e><p><l>addit<s n="vblex"/><s n="tv"/></l><r>adeliđ<s n="vblex"/></r></p></e>     
     <e><p><l>albmanit<s n="vblex"/><s n="iv"/></l><r>tiettuđ<s n="vblex"/></r></p></e>
     <e><p><l>astat<s n="vblex"/><s n="tv"/></l><r>ostâđ<s n="vblex"/></r></p></e>
     <e><p><l>avvit<s n="vblex"/><s n="tv"/></l><r>avediđ<s n="vblex"/></r></p></e>
