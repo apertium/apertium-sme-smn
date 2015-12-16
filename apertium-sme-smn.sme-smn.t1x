@@ -23,8 +23,16 @@
    <def-cat n="nnomcmp">
       <cat-item tags="n.cmp_sgnom.cmp"/>
       <cat-item tags="n.cmp_sgnom.cmp.*"/>
-      <cat-item tags="n.cmp_sggen.cmp.*"/> 
       <cat-item tags="n.cmp_sggen.cmp"/> 
+      <cat-item tags="n.cmp_sggen.cmp.*"/> 
+      <cat-item tags="n.cmp_plgen.cmp"/> 
+      <cat-item tags="n.cmp_plgen.cmp.*"/> 
+      <cat-item tags="n.*.cmp_sgnom.cmp"/>
+      <cat-item tags="n.*.cmp_sgnom.cmp.*"/>
+      <cat-item tags="n.*.cmp_sggen.cmp"/> 
+      <cat-item tags="n.*.cmp_sggen.cmp.*"/> 
+      <cat-item tags="n.*.cmp_plgen.cmp"/> 
+      <cat-item tags="n.*.cmp_plgen.cmp.*"/> 
       <cat-item tags="np.top.cmp.*"/> 
       <cat-item tags="np.top.cmp"/> 
       <cat-item tags="vblex.*.der_nomact.n.cmp_sg.cmp"/> 
@@ -240,7 +248,7 @@
        <attr-item tags="adj.ord"/>
        <attr-item tags="prn.ind"/>
     </def-attr>
-    <def-attr n="a_nomtype">
+    <def-attr n="a_ntype">
       <attr-item tags="nomag"/>
       <attr-item tags="g3"/>
     </def-attr>
@@ -600,8 +608,8 @@
     </def-macro>
     <def-macro n="agreement-adj-ind-sg2" npar="2">  
         <let>
-        	<clip pos="1" side="tl" part="tags"/><concat>
-            <lit-tag v="n.sg"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
+        	<clip pos="1" side="tl" part="tags"/>
+            <concat><lit-tag v="n"/><clip pos="1" side="tl" part="a_ntype"/><lit-tag v="sg"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
         </let> 
         <let>
         	<clip pos="2" side="tl" part="tags"/><concat>
@@ -619,7 +627,7 @@
          <let>
 <!--         <clip pos="1" side="tl" part="tags"/><lit-tag v="n.pl.com"/>    -->
 
-            <clip pos="1" side="tl" part="tags"/><concat><lit-tag v="n"/><clip pos="1" side="tl" part="a_nomtype"/><clip pos="1" side="tl" part="a_nbr"/><clip pos="1" side="tl" part="a_cas"/></concat>  
+            <clip pos="1" side="tl" part="tags"/><concat><lit-tag v="n"/><clip pos="1" side="tl" part="a_ntype"/><clip pos="1" side="tl" part="a_nbr"/><clip pos="1" side="tl" part="a_cas"/></concat>  
         </let> 
         <let>
         	<clip pos="2" side="tl" part="tags"/><concat>
@@ -631,7 +639,7 @@
                 <!-- default -->
         <let>
         	<clip pos="1" side="tl" part="tags"/><concat>
-            <lit-tag v="n.pl"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
+            <lit-tag v="n"/><clip pos="1" side="tl" part="a_ntype"/><lit-tag v="pl"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
         </let> 
         <let>
         	<clip pos="2" side="tl" part="tags"/><concat>
