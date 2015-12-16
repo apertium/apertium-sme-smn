@@ -88,6 +88,16 @@ Write comments to forthcoming rules before this line -->
     </match>
   </rule>
 
+  <rule weight="0.6">
+     <match lemma="ii" tags="vblex.*"/>
+    <match/>
+    <match/>
+    <match lemma="ge">
+      <select lemma="gin"/>
+    </match>
+  </rule>
+
+
   <rule weight="1.0">
      <match lemma="ii" tags="vblex.*"/>
     <match lemma="oktage" tags="prn.*">
