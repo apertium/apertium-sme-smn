@@ -112,9 +112,8 @@
 
     <e><p><l>dat<s n="prn"/><s n="dem"/></l><r>tot<s n="prn"/><s n="dem"/></r></p></e>
 
-    <!--<e><p><l>mii<s n="prn"/><s n="itg"/></l><r>mij<s n="prn"/><s n="itg"/></r></p></e>-->
-    <e><p><l>mii<s n="prn"/><s n="itg"/></l><r>mii<s n="prn"/><s n="itg"/></r></p></e>
-    <e><p><l>gii<s n="prn"/><s n="itg"/></l><r>kii<s n="prn"/><s n="itg"/></r></p></e>
+    <e><p><l>mii<s n="prn"/></l><r>mii<s n="prn"/></r></p></e>
+    <e><p><l>gii<s n="prn"/></l><r>kii<s n="prn"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="itg"/></l><r>kote<s n="prn"/><s n="itg"/></r></p></e>
 
     <e><p><l>ieš<s n="prn"/><s n="ref"/></l><r>jieš<s n="prn"/><s n="ref"/></r></p></e>
@@ -149,6 +148,27 @@
     <e><p><l>goappaš<s n="prn"/></l><r>kuábáš<s n="prn"/></r></p></e>
     <e><p><l>dakkáraš<s n="prn"/></l><r>taggaar<s n="prn"/></r></p></e>
     <e><p><l>makkáraš<s n="prn"/></l><r>maggaar<s n="prn"/></r></p></e>
+    <e><p><l>goabbat<s n="prn"/></l><r>kuábáš-uv<s n="prn"/></r></p></e>
+    <e><p><l>goabbáge<s n="prn"/></l><r>kuábáš-uv<s n="prn"/></r></p></e>
+    <e><p><l>juobbá<s n="prn"/></l><r>juábáš<s n="prn"/></r></p></e>
+    <e><p><l>juobbágoabbá<s n="prn"/></l><r>juábáškuábáš<s n="prn"/></r></p></e>
+    <e><p><l>mun<s n="prn"/></l><r>mun<s n="prn"/></r></p></e>
+    <e><p><l>son<s n="prn"/></l><r>sun<s n="prn"/></r></p></e>
+<!-- pronouns moved up from B-Chapter: -->
+    <e><p><l>buohkat<s n="prn"/></l><r>puohah<s n="prn"/></r></p></e>
+    <e><p><l>dakkár<s n="prn"/></l><r>taggaar<s n="prn"/></r></p></e>
+    <e><p><l>diet<s n="prn"/></l><r>tiet<s n="prn"/></r></p></e>
+    <e><p><l>dii<s n="prn"/></l><r>tij<s n="prn"/></r></p></e>
+    <e><p><l>don<s n="prn"/></l><r>tun<s n="prn"/></r></p></e>
+    <e><p><l>dot<s n="prn"/></l><r>tuot<s n="prn"/></r></p></e>
+    <e><p><l>duot<s n="prn"/></l><r>tuot<s n="prn"/></r></p></e>
+    <e><p><l>dákkár<s n="prn"/></l><r>tággáár<s n="prn"/></r></p></e>
+    <e><p><l>dát<s n="prn"/></l><r>taat<s n="prn"/></r></p></e>
+    <e><p><l>goabbá<s n="prn"/></l><r>kuábáš<s n="prn"/></r></p></e>
+    <e><p><l>makkár<s n="prn"/></l><r>maggaar<s n="prn"/></r></p></e>
+    <e><p><l>seammá<s n="prn"/></l><r>siämmáš<s n="prn"/></r></p></e>
+    <e><p><l>soames<s n="prn"/></l><r>mottoom<s n="prn"/></r></p></e>
+    <e><p><l>váháš<s n="prn"/></l><r>váhá<s n="prn"/></r></p></e>
 
     <!-- ASECTION: Numerals -->
 
@@ -5499,34 +5519,6 @@
     <e><p><l>badjel<s n="pr"/></l><r>paijeel<s n="pr"/></r></p></e>
     <e><p><l>birra<s n="pr"/></l><r>pirrâ<s n="pr"/></r></p></e>
     <e><p><l>guovdelaš<s n="pr"/></l><r>kyevdil<s n="pr"/></r></p></e>
-
-    <!--    BSECTION: Pronouns-->
-
-    <e><p><l>goabbat<s n="prn"/></l><r>kuábáš-uv<s n="prn"/></r></p></e>
-    <e><p><l>goabbáge<s n="prn"/></l><r>kuábáš-uv<s n="prn"/></r></p></e>
-    <e><p><l>juobbá<s n="prn"/></l><r>juábáš<s n="prn"/></r></p></e>
-    <e><p><l>juobbágoabbá<s n="prn"/></l><r>juábáškuábáš<s n="prn"/></r></p></e>
-    <e><p><l>mun<s n="prn"/></l><r>mun<s n="prn"/></r></p></e>
-    <e><p><l>son<s n="prn"/></l><r>sun<s n="prn"/></r></p></e>
-
-    <e><p><l>buohkat<s n="prn"/></l><r>puohah<s n="prn"/></r></p></e>
-    <e><p><l>dakkár<s n="prn"/></l><r>taggaar<s n="prn"/></r></p></e>
-    <e><p><l>diet<s n="prn"/></l><r>tiet<s n="prn"/></r></p></e>
-    <e><p><l>dii<s n="prn"/></l><r>tij<s n="prn"/></r></p></e>
-    <e><p><l>don<s n="prn"/></l><r>tun<s n="prn"/></r></p></e>
-    <e><p><l>dot<s n="prn"/></l><r>tuot<s n="prn"/></r></p></e>
-    <e><p><l>duot<s n="prn"/></l><r>tuot<s n="prn"/></r></p></e>
-    <e><p><l>dákkár<s n="prn"/></l><r>tággáár<s n="prn"/></r></p></e>
-    <e><p><l>dát<s n="prn"/></l><r>taat<s n="prn"/></r></p></e>
-    <e><p><l>eará<s n="prn"/></l><r>eres<s n="prn"/></r></p></e>
-    <e><p><l>gii<s n="prn"/></l><r>kii<s n="prn"/></r></p></e>
-    <e><p><l>goabbá<s n="prn"/></l><r>kuábáš<s n="prn"/></r></p></e>
-    <e><p><l>ieš<s n="prn"/></l><r>jieš<s n="prn"/></r></p></e>
-    <e><p><l>makkár<s n="prn"/></l><r>maggaar<s n="prn"/></r></p></e>
-    <e><p><l>mii<s n="prn"/></l><r>mii<s n="prn"/></r></p></e>
-    <e><p><l>seammá<s n="prn"/></l><r>siämmáš<s n="prn"/></r></p></e>
-    <e><p><l>soames<s n="prn"/></l><r>mottoom<s n="prn"/></r></p></e>
-    <e><p><l>váháš<s n="prn"/></l><r>váhá<s n="prn"/></r></p></e>
 
     <!--    BSECTION: Verbs  -->
 
