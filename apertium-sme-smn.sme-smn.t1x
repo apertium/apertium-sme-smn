@@ -580,6 +580,7 @@
        <attr-item tags="foc_be"/>
        <attr-item tags="foc_hal"/>
        <attr-item tags="foc_uv"/>
+       <attr-item tags="foc_ge"/>
   </def-attr>
 
   </section-def-attrs>
@@ -829,6 +830,14 @@
           <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_uv"/></concat>
           </let> 
         </when>
+        <when>
+          <test>
+               <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_ge"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="tags"/><concat>
+          <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_ge"/></concat>
+          </let> 
+        </when>
 		</choose>    
     </def-macro>  
 
@@ -975,34 +984,7 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: negverbfoc"> <!-- Oidnet go dan? Uáinih-uv tom? -->
-      <pattern>
-        <pattern-item n="negverb"/>
-        <pattern-item n="foc"/>
-      </pattern>
-      <action>
-        <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
-        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <out>
-          <chunk name="nom" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-            <mlu>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-             <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-             </mlu>
-        </chunk>
-        </out>
-      </action>
-    </rule>
-
-    <rule comment="REGLA: nomfoc">	 <!-- nieidage / nieida ge   - nieidâ-uv -->									   
+    <rule comment="REGLA: wordfoc">	 <!-- nieidage / nieida ge   - nieidâ-uv -->									   
       <pattern>															   
         <pattern-item n="word"/>										   
         <pattern-item n="foc"/>		  									   
