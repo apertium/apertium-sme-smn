@@ -876,6 +876,8 @@
       <action>
         <call-macro n="convert-deriv1"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag1"><with-param pos="2"/></call-macro>
+        <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>
+        <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <out>
@@ -931,6 +933,8 @@
       <action>
         <call-macro n="convert-deriv1"><with-param pos="3"/></call-macro>
         <call-macro n="remove-semtag1"><with-param pos="3"/></call-macro>
+        <call-macro n="convert-deriv1"><with-param pos="2"/></call-macro>
+        <call-macro n="remove-semtag1"><with-param pos="2"/></call-macro>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
@@ -1021,6 +1025,8 @@
       <action>															   
         <call-macro n="convert-deriv1"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag1"><with-param pos="2"/></call-macro>
+        <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>
+        <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="pcle-foc2"><with-param pos="2"/><with-param pos="3"/></call-macro>  
