@@ -142,7 +142,10 @@
     <e><p><l>iešguhtet<s n="prn"/></l><r>jieškote-uv<s n="prn"/></r></p></e>
     <e><p><l>diekkár<s n="prn"/></l><r>tieggáár<s n="prn"/></r></p></e>
     <e><p><l>juohkehaš<s n="prn"/></l><r>juáháš<s n="prn"/></r></p></e>
+    <e><p><l>eanas<s n="prn"/></l><r>iänááš<s n="prn"/></r></p></e>
+    <e><p><l>eatnagat<s n="prn"/></l><r>iänááš<s n="prn"/></r></p></e>
     <e><p><l>guhtege<s n="prn"/><s n="ind"/><s n="sg"/><s n="acc"/></l><r>jyehi<s n="prn"/><s n="ind"/><s n="attr"/></r></p></e>
+    <e><p><l>guhtege<s n="prn"/></l><r>kihheen<s n="prn"/></r></p></e>
     <e><p><l>iešguhtege<s n="prn"/></l><r>jieškote-uv<s n="prn"/></r></p></e>
     <e><p><l>goappašat<s n="prn"/></l><r>kuohtuuh<s n="prn"/></r></p></e>
     <e><p><l>goappaš<s n="prn"/></l><r>kuábáš<s n="prn"/></r></p></e>
@@ -150,6 +153,8 @@
     <e><p><l>makkáraš<s n="prn"/></l><r>maggaar<s n="prn"/></r></p></e>
     <e><p><l>goabbat<s n="prn"/></l><r>kuábáš-uv<s n="prn"/></r></p></e>
     <e><p><l>goabbáge<s n="prn"/></l><r>kuábáš-uv<s n="prn"/></r></p></e>
+    <e><p><l>guhtemuš<s n="prn"/></l><r>kotemuš<s n="prn"/></r></p></e>
+    <e><p><l>ollugat<s n="prn"/></l><r>maŋgâ<s n="prn"/></r></p></e>
     <e><p><l>juobbá<s n="prn"/></l><r>juábáš<s n="prn"/></r></p></e>
     <e><p><l>juobbágoabbá<s n="prn"/></l><r>juábáškuábáš<s n="prn"/></r></p></e>
     <e><p><l>mun<s n="prn"/></l><r>mun<s n="prn"/></r></p></e>
@@ -267,6 +272,7 @@
     <e><p><l>eisige<s n="adv"/></l><r>eissigin<s n="adv"/></r></p></e>
     <e><p><l>erenoamážit<s n="adv"/></l><r>eromâšávt<s n="adv"/></r></p></e>
     <e><p><l>fas<s n="adv"/></l><r>oppeet<s n="adv"/></r></p></e>
+    <e><p><l>feara<s n="adv"/></l><r>peri<s n="adv"/></r></p></e>
     <e><p><l>goassige<s n="adv"/></l><r>kuássin<s n="adv"/></r></p></e>
     <e><p><l>goit<s n="pcle"/></l><r>kuittâg<s n="pcle"/></r></p></e>
     <e><p><l>gosa<s n="adv"/></l><r>kuus<s n="adv"/></r></p></e>
@@ -302,6 +308,7 @@
     <e><p><l>sihke<s n="adv"/></l><r>sehe<s n="adv"/></r></p></e>
     <e><p><l>siste<s n="adv"/></l><r>siste<s n="adv"/></r></p></e>
     <e><p><l>vaikke<s n="adv"/></l><r>vâik<s n="adv"/></r></p></e>
+    <e><p><l>veahážiid<s n="adv"/></l><r>ucánjii<s n="adv"/></r></p></e>
     <e><p><l>vuostálagaid<s n="adv"/></l><r>vuástáluvâi<s n="adv"/></r></p></e>
     <e><p><l>áidna<s n="adv"/></l><r>áinoo<s n="adv"/></r></p></e>
     <e><p><l>áidnu<s n="adv"/></l><r>áinoo<s n="adv"/></r></p></e>
@@ -388,6 +395,9 @@
     <!-- ASECTION: Nouns -->  
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
+    <e><p><l>čohkkánsadji<s n="n"/></l><r>čokkámsaje<s n="n"/></r></p></e>
+    <e><p><l>dušši<s n="n"/><s n="g3"/></l><r>tušše<s n="n"/></r></p></e>
+    <e><p><l>gákti<s n="n"/></l><r>mááccuh<s n="n"/></r></p></e>
     <e><p><l>árka<s n="n"/></l><r>arkkâ<s n="n"/></r></p></e>
     <e><p><l>guolli<s n="n"/></l><r>kyeli<s n="n"/></r></p></e>
     <e><p><l>s<s n="n"/></l><r>s<s n="n"/></r></p></e> <!-- abbr -->
@@ -807,6 +817,8 @@
     <!-- ASECTION: Proper nouns -->
 
     <e><p><l>Kárášjohka<s n="np"/></l><r>Kárášjuuhâ<s n="np"/></r></p></e> 
+    <e><p><l>Ánde<s n="np"/></l><r>Antti<s n="np"/></r></p></e> 
+    <e><p><l>Ánte<s n="np"/></l><r>Antti<s n="np"/></r></p></e> 
     <e><p><l>Ánne<s n="np"/></l><r>Ánná<s n="np"/></r></p></e> 
     <e><p><l>Ánne<s n="np"/><s n="attr"/></l><r>Ánne<s n="np"/><s n="attr"/></r></p></e> 
     <e><p><l>Máhtte<s n="np"/></l><r>Matti<s n="np"/></r></p></e> 
@@ -1854,6 +1866,8 @@
 
     <!-- SECTION: Verbs -->
 
+    <e><p><l>čatnasit<s n="vblex"/><s n="iv"/></l><r>čonâsiđ<s n="vblex"/></r></p></e> 
+    <e><p><l>láitit<s n="vblex"/><s n="tv"/></l><r>läittiđ<s n="vblex"/></r></p></e> 
     <e><p><l>darvánit<s n="vblex"/><s n="iv"/></l><r>tarvaniđ<s n="vblex"/></r></p></e> 
     <e><p><l>ballat<s n="vblex"/><s n="tv"/></l><r>poollâđ<s n="vblex"/></r></p></e> <!-- check -->
     <e><p><l>čoalkkuhit<s n="vblex"/><s n="tv"/></l><r>skuálkuttiđ<s n="vblex"/></r></p></e> 
@@ -2761,6 +2775,7 @@
     <e><p><l>dáppe<s n="adv"/></l><r>tääbbin<s n="adv"/></r></p></e>
     <e><p><l>dávjá<s n="adv"/></l><r>távjá<s n="adv"/></r></p></e>
     <e><p><l>eanaš<s n="adv"/></l><r>iänááš<s n="adv"/></r></p></e>
+    <e><p><l>eanas<s n="adv"/></l><r>iänááš<s n="adv"/></r></p></e>
     <e><p><l>eanet<s n="adv"/></l><r>eenâb<s n="adv"/></r></p></e>
     <e><p><l>eanáš<s n="adv"/></l><r>iänááš<s n="adv"/></r></p></e>
     <e><p><l>ein<s n="adv"/></l><r>ain<s n="adv"/></r></p></e>
