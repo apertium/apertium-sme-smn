@@ -22,28 +22,21 @@
     </def-cat>
    <def-cat n="nnomcmp">
       <cat-item tags="n.cmp_sgnom.cmp"/>
-      <cat-item tags="n.cmp_sgnom.cmp.*"/>
       <cat-item tags="n.cmp_sggen.cmp"/> 
-      <cat-item tags="n.cmp_sggen.cmp.*"/> 
       <cat-item tags="n.cmp_plgen.cmp"/> 
-      <cat-item tags="n.cmp_plgen.cmp.*"/> 
       <cat-item tags="n.*.cmp_sgnom.cmp"/>
       <cat-item tags="n.*.cmp_sgnom.cmp.*"/>
       <cat-item tags="n.*.cmp_sggen.cmp"/> 
-      <cat-item tags="n.*.cmp_sggen.cmp.*"/> 
       <cat-item tags="n.*.cmp_plgen.cmp"/> 
-      <cat-item tags="n.*.cmp_plgen.cmp.*"/> 
-      <cat-item tags="np.top.cmp.*"/> 
       <cat-item tags="np.top.cmp"/> 
       <cat-item tags="vblex.*.der_nomact.n.cmp_sg.cmp"/> 
       <cat-item tags="vblex.der_nomact.n.cmp_sg.cmp"/> 
-      <cat-item tags="vblex.*.der_nomact.n.cmp_sg.cmp.*"/> 
-      <cat-item tags="vblex.der_nomact.n.cmp_sg.cmp.*"/> 
       <cat-item tags="vblex.*.der_nomact.n.cmp_sgnom.cmp"/> 
       <cat-item tags="vblex.der_nomact.n.cmp_sgnom.cmp"/> 
-      <cat-item tags="vblex.*.der_nomact.n.cmp_sgnom.cmp.*"/> 
-      <cat-item tags="vblex.der_nomact.n.cmp_sgnom.cmp.*"/> 
-      <cat-item tags="adj.cmp_sgnom.cmp.*"/> 
+      <cat-item tags="adj.cmp_sgnom.cmp"/> 
+      <cat-item tags="adj.cmp_attr.cmp"/> 
+      <cat-item tags="adj.attr.cmp"/> 
+      <cat-item tags="adj.cmp_sgnom.cmp"/> 
     </def-cat>
   <def-cat n="negverb">
       <cat-item tags="vblex.iv.neg.indic.p3.sg"/>
@@ -104,7 +97,7 @@
       <cat-item lemma="boaris" tags="adj.*"/>
     </def-cat>
     <def-cat n="agreement-attr">                             
-      <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!-- put under vuosttaš as lemma in sme -->                   
+      <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!--  put under vuosttaš as lemma in sme -->                   
       <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/>                    
       <cat-item lemma="muhtun" tags="prn.ind.attr.*"/> 
       <cat-item lemma="buot" tags="prn.ind.attr.*"/>
