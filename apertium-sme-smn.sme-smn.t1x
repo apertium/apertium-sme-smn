@@ -397,6 +397,7 @@
       <attr-item tags="sem_domain_food-med"/>
       <attr-item tags="sem_domain_prod-audio"/>
       <attr-item tags="sem_drink"/>
+      <attr-item tags="sem_dummytag"/>
       <attr-item tags="sem_edu"/>
       <attr-item tags="sem_edu_event"/>
       <attr-item tags="sem_edu_group_hum"/>
@@ -648,6 +649,7 @@
       <list-item v="hállat"/>
       <list-item v="hupmat"/>
       <list-item v="muitalit"/>
+      <list-item v="gullat"/>
     </def-list>
     <def-list n="birrapx_verbs">
       <list-item v="geahččat"/>
