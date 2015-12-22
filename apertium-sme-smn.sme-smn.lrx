@@ -27,8 +27,8 @@ Write comments to forthcoming rules before this line -->
   <rule weight="1.0"><match lemma="Ánde" tags="np.ant.m.sg.*"><select lemma="Antti" tags="np.*"/></match></rule>
   <rule weight="1.0"><match lemma="Ánte" tags="np.ant.m.attr"><select lemma="Ánte" tags="np.ant.m.attr"/></match></rule>
   <rule weight="1.0"><match lemma="Ánte" tags="np.ant.m.sg.*"><select lemma="Antti" tags="np.*"/></match></rule>
-  <rule weight="1.0"><match lemma="Máhtte" tags="np.ant.m.attr"><select lemma="Máhtte" tags="np.ant.m.attr"/></match></rule>
-  <rule weight="1.0"><match lemma="Máhtte" tags="np.ant.m.sg.*"><select lemma="Matti" tags="np.*"/></match></rule>
+  <rule weight="1.0"><match lemma="Máhtte" tags="np.attr"><select lemma="Máhtte" tags="np.attr"/></match></rule>
+  <rule weight="1.0"><match lemma="Máhtte" tags="np.sg.*"><select lemma="Matti" tags="np.*"/></match></rule>
 
 
  
