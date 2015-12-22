@@ -251,6 +251,7 @@
     <!-- ASECTION: Adverbs -->
 
     <e><p><l>ain<s n="adv"/></l><r>ain<s n="adv"/></r></p></e>
+    <e><p><l>gal<s n="adv"/></l><r>kale<s n="adv"/></r></p></e>
     <e><p><l>eatnat<s n="adv"/></l><r>ennâg<s n="adv"/></r></p></e>
     <e><p><l>aivve<s n="adv"/></l><r>aaibâs<s n="adv"/></r></p></e>
     <e><p><l>aivvefal<s n="adv"/></l><r>aaibâs<s n="adv"/></r></p></e>
@@ -523,7 +524,7 @@
     <e><p><l>sajádat<s n="n"/></l><r>sajadâh<s n="n"/></r></p></e>
     <e><p><l>stuollu<s n="n"/></l><r>stovli<s n="n"/></r></p></e>
     <e><p><l>sámeguovlu<s n="n"/></l><r>sämikuávlu<s n="n"/></r></p></e>
-    <e><p><l>sápmi<s n="n"/></l><r>säämi<s n="n"/></r></p></e>
+    <e><p><l>sápmi<s n="n"/></l><r>sämmilâš<s n="n"/></r></p></e>
     <e><p><l>uniovdna<s n="n"/></l><r>union<s n="n"/></r></p></e>
     <e><p><l>vuoigatvuohta<s n="n"/></l><r>vuoigâdvuotâ<s n="n"/></r></p></e>
     <e><p><l>vuođđoláhka<s n="n"/></l><r>vuáđulaahâ<s n="n"/></r></p></e>
@@ -2786,7 +2787,6 @@
     <e><p><l>farga<s n="adv"/></l><r>forgâ<s n="adv"/></r></p></e>
     <e><p><l>fargga<s n="adv"/></l><r>forgâ<s n="adv"/></r></p></e>
     <e><p><l>funet<s n="adv"/></l><r>hyeneeht<s n="adv"/></r></p></e>
-    <e><p><l>gal<s n="adv"/></l><r>kal<s n="adv"/></r></p></e>
     <e><p><l>garrasit<s n="adv"/></l><r>korrâsávt<s n="adv"/></r></p></e>
     <e><p><l>gaskal<s n="post"/></l><r>kaskoo<s n="post"/></r></p></e>
     <e><p><l>gaskal<s n="pr"/></l><r>kaskoo<s n="pr"/></r></p></e>
@@ -6581,7 +6581,8 @@
     <e><p><l>ságastallat<s n="vblex"/><s n="tv"/></l><r>savâstâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>ságastit<s n="vblex"/><s n="tv"/></l><r>savâstiđ<s n="vblex"/></r></p></e>
     <e><p><l>sáhtašit<s n="vblex"/><s n="tv"/></l><r>sättiđ<s n="vblex"/></r></p></e>
-    <e><p><l>sáhttit<s n="vblex"/><s n="iv"/></l><r>sättiđ<s n="vblex"/></r></p></e>
+    <e><p><l>sáhttit<s n="vblex"/><s n="iv"/></l><r>sättiđ<s n="vblex"/></r></p></e> <!-- lex selection -->
+    <e><p><l>sáhttit<s n="vblex"/><s n="iv"/></l><r>pyehtiđ<s n="vblex"/></r></p></e> <!-- lex selection -->
     <e><p><l>sállet<s n="vblex"/><s n="tv"/></l><r>salliđ<s n="vblex"/></r></p></e>
     <e><p><l>sáltet<s n="vblex"/><s n="tv"/></l><r>salttiđ<s n="vblex"/></r></p></e>
     <e><p><l>sárdnut<s n="vblex"/><s n="tv"/></l><r>sárnuđ<s n="vblex"/></r></p></e>
