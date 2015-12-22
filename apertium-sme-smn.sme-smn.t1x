@@ -84,6 +84,7 @@
     <def-cat n="adv">
       <cat-item tags="adj.der_at.adv.*"/>
       <cat-item tags="adv.*"/>
+      <cat-item tags="adv"/>
     </def-cat>
     <def-cat n="num-nomacc">                           
       <cat-item tags="num.sg.nom.*"/>                  
@@ -112,10 +113,12 @@
       <cat-item tags="n.*.sg.nom.*"/>                   
       <cat-item tags="n.*.*.sg.nom.*"/>                   
     </def-cat>  
-    <def-cat n="n-sg-gen">                             
+    <def-cat n="n-sg-accgen">                             
       <cat-item tags="n.*.sg.gen.*"/>                     
       <cat-item tags="n.*.*.sg.gen.*"/>                   
-    </def-cat>  
+      <cat-item tags="n.*.sg.acc.*"/>                     
+      <cat-item tags="n.*.*.sg.acc.*"/>                   
+   </def-cat>  
     <def-cat n="n-sg-pl-gen">                             
       <cat-item tags="n.*.sg.gen.*"/>                     
       <cat-item tags="n.*.pl.gen.*"/>                     
@@ -243,7 +246,6 @@
     </def-attr>
     <def-attr n="a_ntype">
       <attr-item tags="nomag"/>
-      <attr-item tags="g3"/>
     </def-attr>
     <def-attr n="a_nom">
       <attr-item tags="n"/>
@@ -646,6 +648,26 @@
   </section-def-vars>
 
   <section-def-lists>
+    <def-list n="gennum">
+      <list-item v="1"/>
+      <list-item v="2"/>
+      <list-item v="3"/>
+      <list-item v="4"/>
+      <list-item v="5"/>
+      <list-item v="6"/>
+      <list-item v="ohtâ"/>
+      <list-item v="kyehti"/>
+      <list-item v="kulmâ"/>
+      <list-item v="nelji"/>
+      <list-item v="vittâ"/>
+      <list-item v="kuttâ"/>
+      <list-item v="okta"/>
+      <list-item v="guokte"/>
+      <list-item v="golbma"/>
+      <list-item v="njeallje"/>
+      <list-item v="vihtta"/>
+      <list-item v="guhtta"/>
+    </def-list>
     <def-list n="loc_verbs">
       <list-item v="hállat"/>
       <list-item v="hupmat"/>
@@ -1399,16 +1421,27 @@
       </action>                                  
     </rule> 
 
-    <rule comment="REGLA: num-nomacc n-sg-gen"> <!-- Son oastá guokte láibbi. Sun uástá kyehti leibid. -->                                            
+
+    <rule comment="REGLA: num-nomacc n-sg to n-par"> <!-- Son oastá čieža láibbi. Sun uástá čiččâm leibid. -->                                            
       <pattern>                                        
         <pattern-item n="num-nomacc"/>                 
-        <pattern-item n="n-sg-gen"/>                   
+        <pattern-item n="n-sg-accgen"/>                   
       </pattern>     
       <action>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let> 
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
-        <let><clip pos="2" side="tl" part="tags"/><lit-tag v="n.par"/></let> 
-        <out>
+      <choose><when>
+              <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test> 
+        <let><clip pos="2" side="tl" part="tags"/>
+        <concat><lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let> 
+              </when>
+         <otherwise>
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let>
+         </otherwise>
+		</choose>        
+		<out>
           <chunk name="num-noun">
             <tags>
               <tag><lit-tag v="SN"/></tag>
@@ -1427,18 +1460,28 @@
       </action>                                  
     </rule> 
 
-    <rule comment="REGLA: num-nomacc attr n-sg-gen">  <!-- Son oastá guokte varas láibbi. Sun uástá kyehti vorâs leibid. -->                                           
+    <rule comment="REGLA: num-nomacc attr n-sg  to n-par">  <!-- Mus leat čieža njálgga láibbi. Must láá čiččâm njaalgâ leibid. -->                                           
       <pattern>                                        
         <pattern-item n="num-nomacc"/>                 
         <pattern-item n="attr"/>                 
-        <pattern-item n="n-sg-gen"/>                   
+        <pattern-item n="n-sg-accgen"/>                   
       </pattern>     
       <action>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="3" side="tl" part="tags"/><lit-tag v="n.par"/></let> 
+      <choose><when>
+              <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test>
+        <let><clip pos="3" side="tl" part="tags"/>
+        <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let> 
+              </when>
+         <otherwise>
+        <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let> 
+        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="3" side="tl" part="a_sem"/><lit v=""/></let>
+         </otherwise>
+		</choose>        
         <out>
           <chunk name="num-noun">
             <tags>
@@ -1463,12 +1506,12 @@
       </action>                                  
     </rule> 
 
-    <rule comment="REGLA: num-nomacc adv attr n-sg-gen">                                             
+    <rule comment="REGLA: num-nomacc adv attr n-sg to n-par"> <!-- Mus leat čieža hui njálgga láibbi. , does not function -->                                             
       <pattern>                                        
         <pattern-item n="num-nomacc"/>                 
         <pattern-item n="adv"/>                 
         <pattern-item n="attr"/>                 
-        <pattern-item n="n-sg-gen"/>                   
+        <pattern-item n="n-sg-accgen"/>                   
       </pattern>     
       <action>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
@@ -1477,7 +1520,17 @@
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="4" side="tl" part="tags"/><lit-tag v="n.par"/></let> 
+      <choose><when>
+              <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test>
+        <let><clip pos="4" side="tl" part="tags"/>
+        <concat><lit-tag v="n"/><clip pos="4" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let> 
+              </when>
+         <otherwise>
+        <let><clip pos="4" side="tl" part="x_func"/><lit v=""/></let> 
+        <let><clip pos="4" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="4" side="tl" part="a_sem"/><lit v=""/></let>
+         </otherwise>
+		</choose>        
         <out>
           <chunk name="num-noun">
             <tags>
