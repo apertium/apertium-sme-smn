@@ -101,6 +101,7 @@
       <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/>                    
       <cat-item lemma="muhtun" tags="prn.ind.attr.*"/> 
       <cat-item lemma="buot" tags="prn.ind.attr.*"/>
+      <cat-item lemma="makkár" tags="prn.ind.attr.*"/>
     </def-cat>  
     <def-cat n="hupmat-v">                             
       <cat-item lemma="hupmat" tags="vblex.*"/>                    

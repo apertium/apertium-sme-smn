@@ -124,6 +124,7 @@
     <e><p><l>juoga<s n="prn"/></l><r>miinii<s n="prn"/></r></p></e>
     <e><p><l>juohke<s n="prn"/></l><r>jyehi<s n="prn"/></r></p></e>
     <e><p><l>mihkkege<s n="prn"/></l><r>mihheen<s n="prn"/></r></p></e>
+    <e><p><l>mihkke<s n="prn"/></l><r>mihheen<s n="prn"/></r></p></e>
     <e><p><l>muhtun<s n="prn"/></l><r>mottoom<s n="prn"/></r></p></e>
     <e><p><l>oktage<s n="prn"/></l><r>ohtâgin<s n="prn"/></r></p></e> <!-- only with negation -->
     <e><p><l>oktage<s n="prn"/></l><r>ohtâ-uv<s n="prn"/></r></p></e> <!-- with assent -->
@@ -153,6 +154,7 @@
     <e><p><l>makkáraš<s n="prn"/></l><r>maggaar<s n="prn"/></r></p></e>
     <e><p><l>goabbat<s n="prn"/></l><r>kuábáš-uv<s n="prn"/></r></p></e>
     <e><p><l>goabbáge<s n="prn"/></l><r>kuábáš-uv<s n="prn"/></r></p></e>
+    <e><p><l>goabbáge<s n="prn"/></l><r>kuábáškin<s n="prn"/></r></p></e>
     <e><p><l>guhtemuš<s n="prn"/></l><r>kotemuš<s n="prn"/></r></p></e>
     <e><p><l>ollugat<s n="prn"/></l><r>maŋgâ<s n="prn"/></r></p></e>
     <e><p><l>juobbá<s n="prn"/></l><r>juábáš<s n="prn"/></r></p></e>
@@ -826,6 +828,7 @@
     <e><p><l>Romsa<s n="np"/></l><r>Tromssa<s n="np"/></r></p></e> 
     <e><p><l>Helsset<s n="np"/></l><r>Helsig<s n="np"/></r></p></e>
     <e><p><l>Máret<s n="np"/></l><r>Maarit<s n="np"/></r></p></e>
+    <e><p><l>Piera<s n="np"/></l><r>Pierâ<s n="np"/></r></p></e>
     <e><p><l>Duommá<s n="np"/></l><r>Tyemes<s n="np"/></r></p></e>
     <e><p><l>Sarvvagalba<s n="np"/><s n="sg"/></l><r>Nieidâkärigááh<s n="np"/><s n="pl"/></r></p></e>
     <e><p><l>Eurohpá<s n="np"/></l><r>Euroop<s n="np"/></r></p></e>
@@ -6429,7 +6432,7 @@
     <e><p><l>namahit<s n="vblex"/><s n="tv"/></l><r>nomâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>nanosmahttit<s n="vblex"/><s n="tv"/></l><r>nanosmittiđ<s n="vblex"/></r></p></e>
     <e><p><l>navddašit<s n="vblex"/><s n="tv"/></l><r>nabdastâllâđ<s n="vblex"/></r></p></e>
-    <e><p><l>navdit<s n="vblex"/><s n="tv"/></l><r>nobdeđ<s n="vblex"/></r></p></e>
+    <e><p><l>navdit<s n="vblex"/><s n="tv"/></l><r>nabdeđ<s n="vblex"/></r></p></e>
     <e><p><l>navistit<s n="vblex"/><s n="tv"/></l><r>pavestiđ<s n="vblex"/></r></p></e>
     <e><p><l>neavvut<s n="vblex"/><s n="tv"/></l><r>ravviđ<s n="vblex"/></r></p></e>
     <e><p><l>nihlistit<s n="vblex"/><s n="tv"/></l><r>kihestiđ<s n="vblex"/></r></p></e>
