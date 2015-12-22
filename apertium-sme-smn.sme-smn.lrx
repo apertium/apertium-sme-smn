@@ -17,6 +17,19 @@ Write comments to forthcoming rules before this line -->
 
 
 <rules>
+  <rule weight="1.0"><match lemma="Ánne" tags="np.ant.f.attr"><select lemma="Ánne" tags="np.ant.f.attr"/></match></rule>
+  <rule weight="1.0"><match lemma="Ánne" tags="np.ant.f.sg.*"><select lemma="Ánná" tags="np.*"/></match></rule>
+  <rule weight="1.0"><match lemma="Duommá" tags="np.ant.m.attr"><select lemma="Duommá" tags="np.ant.m.attr"/></match></rule>
+  <rule weight="1.0"><match lemma="Duommá" tags="np.ant.m.sg.*"><select lemma="Tyemes" tags="np.*"/></match></rule>
+  <rule weight="1.0"><match lemma="Máret" tags="np.ant.f.attr"><select lemma="Máret" tags="np.ant.f.attr"/></match></rule>
+  <rule weight="1.0"><match lemma="Máret" tags="np.ant.f.sg.*"><select lemma="Maarit" tags="np.*"/></match></rule>
+  <rule weight="1.0"><match lemma="Ánde" tags="np.ant.m.attr"><select lemma="Ánde" tags="np.ant.m.attr"/></match></rule>
+  <rule weight="1.0"><match lemma="Ánde" tags="np.ant.m.sg.*"><select lemma="Antti" tags="np.*"/></match></rule>
+  <rule weight="1.0"><match lemma="Ánte" tags="np.ant.m.attr"><select lemma="Ánte" tags="np.ant.m.attr"/></match></rule>
+  <rule weight="1.0"><match lemma="Ánte" tags="np.ant.m.sg.*"><select lemma="Antti" tags="np.*"/></match></rule>
+  <rule weight="1.0"><match lemma="Máhtte" tags="np.ant.m.attr"><select lemma="Máhtte" tags="np.ant.m.attr"/></match></rule>
+  <rule weight="1.0"><match lemma="Máhtte" tags="np.ant.m.sg.*"><select lemma="Matti" tags="np.*"/></match></rule>
+
 
  
   <rule weight="1.0">
