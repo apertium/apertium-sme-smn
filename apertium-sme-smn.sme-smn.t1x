@@ -40,6 +40,7 @@
       <cat-item tags="adj.cmp_attr.cmp"/> 
       <cat-item tags="adj.attr.cmp"/> 
       <cat-item tags="adj.cmp_sgnom.cmp"/> 
+      <cat-item tags="num.cmp.guio"/> 
     </def-cat>
   <def-cat n="negverb">
       <cat-item tags="vblex.iv.neg.indic.p3.sg"/>
