@@ -107,6 +107,7 @@
       <cat-item lemma="muhtun" tags="prn.ind.attr.*"/> 
       <cat-item lemma="buot" tags="prn.ind.attr.*"/>
       <cat-item lemma="makkár" tags="prn.ind.attr.*"/>
+      <cat-item tags="num.sg.*.*.attr.*"/>
     </def-cat>  
     <def-cat n="hupmat-v">                             
       <cat-item lemma="hupmat" tags="vblex.*"/>                    
@@ -160,6 +161,7 @@
       <cat-item tags="prn.dem.pl.com.*"/>
       <cat-item tags="prn.itg.pl.com.*"/>
       <cat-item tags="prn.ind.pl.com.*"/>
+      <cat-item tags="prn.rel.pl.com.*"/>
     </def-cat>          
     <def-cat n="n-pl-com">
 		<cat-item tags="n.*.pl.com.*"/>   
@@ -261,6 +263,8 @@
        <attr-item tags="prn.ind"/>
        <attr-item tags="prn.dem"/>
        <attr-item tags="prn.itg"/>
+       <attr-item tags="prn.rel"/>
+       <attr-item tags="num"/>
     </def-attr>
     <def-attr n="a_ntype">
       <attr-item tags="nomag"/>
@@ -692,6 +696,7 @@
       <list-item v="hupmat"/>
       <list-item v="muitalit"/>
       <list-item v="gullat"/>
+      <list-item v="leat"/>
     </def-list>
     <def-list n="birrapx_verbs">
       <list-item v="geahččat"/>

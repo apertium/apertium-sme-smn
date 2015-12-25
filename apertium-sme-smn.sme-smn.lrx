@@ -19,6 +19,8 @@ Write comments to forthcoming rules before this line -->
 <rules>
   <rule weight="1.0"><match lemma="Ánne" tags="np.ant.f.attr"><select lemma="Ánne" tags="np.ant.f.attr"/></match></rule>
   <rule weight="1.0"><match lemma="Ánne" tags="np.ant.f.sg.*"><select lemma="Ánná" tags="np.*"/></match></rule>
+  <rule weight="1.0"><match lemma="Elle" tags="np.ant.f.attr"><select lemma="Elle" tags="np.ant.f.attr"/></match></rule>
+  <rule weight="1.0"><match lemma="Elle" tags="np.ant.f.sg.*"><select lemma="Elli" tags="np.*"/></match></rule>
   <rule weight="1.0"><match lemma="Duommá" tags="np.ant.m.attr"><select lemma="Duommá" tags="np.ant.m.attr"/></match></rule>
   <rule weight="1.0"><match lemma="Duommá" tags="np.ant.m.sg.*"><select lemma="Tyemes" tags="np.*"/></match></rule>
   <rule weight="1.0"><match lemma="Máret" tags="np.ant.f.attr"><select lemma="Máret" tags="np.ant.f.attr"/></match></rule>
@@ -43,15 +45,48 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="1.0">
-    <match lemma="sápmi" tags="n.sg.*">
-      <select lemma="säämi" tags="n.sg.*"/>
+    <match lemma="sápmi" tags="n.*">
+      <select lemma="sämmilâš" tags="n.*"/>
     </match>
   </rule>
 
-  <rule weight="1.0">
-    <match lemma="sápmi" tags="n.*.pl.*">
-      <select lemma="sämmilâš" tags="n.*.pl.*"/>
+  <rule weight="0.5">
+    <match lemma="sápmi" tags="n.*">
+      <select lemma="säämi" tags="n.*"/>
     </match>
+  </rule>
+
+
+  <rule weight="0.6">
+    <match lemma="sápmi" tags="n.*.sg.gen.*">
+      <select lemma="säämi" tags="n.*"/>
+    </match>
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="sápmi" tags="n.*.sg.acc.*">
+      <select lemma="säämi" tags="n.*"/>
+    </match>
+  </rule>
+
+  <rule weight="0.1">
+    <match lemma="gosa" tags="adv">
+      <select lemma="kuus" tags="adv.*"/>
+    </match>
+  </rule>
+
+
+  <rule weight="0.5">
+    <match lemma="gosa" tags="adv">
+      <select lemma="kuussân" tags="adv"/>
+    </match>
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="gosa" tags="adv">
+      <select lemma="kuussân" tags="adv"/>
+    </match>
+    <match lemma="ge" tags="pcle.*"/>
   </rule>
   
     <rule weight="1.0">
@@ -59,19 +94,6 @@ Write comments to forthcoming rules before this line -->
       <select lemma="viestârân" tags="adv.*"/>
     </match>
   </rule>
-
-  <rule weight="1.0">
-    <match lemma="oktage" tags="prn.*">
-      <select lemma="ohtâ-uv" tags="prn.*"/>
-    </match>
-  </rule>
-
-  <rule weight="0.5">
-    <match lemma="oktage" tags="prn.*">
-      <select lemma="ohtâgin" tags="prn.*"/>
-    </match>
-  </rule>
-
 
   <rule weight="1.0">
     <match lemma="ge">
@@ -115,28 +137,13 @@ Write comments to forthcoming rules before this line -->
       <select lemma="gin"/>
     </match>
   </rule>
-
-
-  <rule weight="1.0">
+  <rule weight="0.6">
      <match lemma="ii" tags="vblex.*"/>
-    <match lemma="oktage" tags="prn.*">
-      <select lemma="ohtâgin" tags="prn.*"/>
-    </match>
-  </rule>
-
-  <rule weight="1.0">
-     <match lemma="ii" tags="vblex.*"/>
-     <match tags="vblex.*"/> <!-- didn't get vblex.*.*.conneg to function -->
-    <match lemma="oktage" tags="prn.*">
-      <select lemma="ohtâgin" tags="prn.*"/>
-    </match>
-  </rule>
-
-  <rule weight="1.0">
-     <match lemma="ii" tags="vblex.*"/>
-     <match tags="vblex.prfprc"/>
-     <match lemma="oktage" tags="prn.*">
-      <select lemma="ohtâgin" tags="prn.*"/>
+    <match/>
+    <match/>
+    <match/>
+    <match lemma="ge">
+      <select lemma="gin"/>
     </match>
   </rule>
 
