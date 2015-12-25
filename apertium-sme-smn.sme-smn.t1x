@@ -94,6 +94,9 @@
       <cat-item tags="num.sg.nom.*"/>                  
       <cat-item tags="num.sg.acc.*"/>                  
     </def-cat>                                         
+    <def-cat n="numattr">                           
+      <cat-item tags="num.sg.*.attr.*"/>                  
+    </def-cat>                                         
      <def-cat n="jagi">
       <cat-item lemma="jahki" tags="n.*.sg.gen.*"/>
       <cat-item lemma="jahki" tags="n.sg.gen.*"/>
@@ -107,7 +110,6 @@
       <cat-item lemma="muhtun" tags="prn.ind.attr.*"/> 
       <cat-item lemma="buot" tags="prn.ind.attr.*"/>
       <cat-item lemma="makkár" tags="prn.ind.attr.*"/>
-      <cat-item tags="num.sg.*.*.attr.*"/>
     </def-cat>  
     <def-cat n="hupmat-v">                             
       <cat-item lemma="hupmat" tags="vblex.*"/>                    
@@ -166,6 +168,10 @@
     <def-cat n="n-pl-com">
 		<cat-item tags="n.*.pl.com.*"/>   
 		<cat-item tags="n.pl.com.*"/>   
+	</def-cat>            
+    <def-cat n="n-sg-com">
+		<cat-item tags="n.*.sg.com.*"/>   
+		<cat-item tags="n.sg.com.*"/>   
 	</def-cat>            
     <def-cat n="prn-pers">
       <cat-item tags="prn.pers.*"/>
@@ -322,7 +328,7 @@
       <attr-item tags="iv"/>
       <attr-item tags="tv"/>
     </def-attr>
-    <def-attr n="a_adv_comp">
+    <def-attr n="a_comp-superl">
       <attr-item tags="comp"/>
       <attr-item tags="superl"/>
     </def-attr>
@@ -712,23 +718,19 @@
             <lit v=""/>
           </let>
     </def-macro>
-    <def-macro n="remove-advtag1" npar="1">
+    <def-macro n="remove-advtag1" npar="1"> <!--  +Adv+Comp +Adv+Superl to +Adv -->
           <let>
-            <clip pos="1" side="tl" part="a_adv_comp"/>
+            <clip pos="1" side="tl" part="a_comp-superl"/>
             <lit v=""/>
           </let>
     </def-macro>
-    <def-macro n="agreement-adj-ind-sg2" npar="2">  
-        <let>
-        	<clip pos="1" side="tl" part="tags"/>
-            <concat><lit-tag v="n"/><clip pos="1" side="tl" part="a_ntype"/><lit-tag v="sg"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
-        </let> 
+    <def-macro n="agreement-adj-ind-sg2" npar="2">   <!-- sg prn, num, ord , full agreement -->
         <let>
         	<clip pos="2" side="tl" part="tags"/><concat>
             <clip pos="2" side="tl" part="a_npagree_type"/><clip pos="1" side="tl" part="a_nbr"/><clip pos="1" side="tl" part="a_cas"/> </concat>                
         </let> 
     </def-macro>
-    <def-macro n="agreement-adj-ind-pl2" npar="2">
+    <def-macro n="agreement-adj-ind-pl2" npar="2"> <!-- pl prn, num, ord , full agreement, exc com -->
        <choose>
           <when>        <!-- with pl.com -->
 
@@ -737,8 +739,6 @@
                   </and></test>
 
          <let>
-<!--         <clip pos="1" side="tl" part="tags"/><lit-tag v="n.pl.com"/>    -->
-
             <clip pos="1" side="tl" part="tags"/><concat><lit-tag v="n"/><clip pos="1" side="tl" part="a_ntype"/><clip pos="1" side="tl" part="a_nbr"/><clip pos="1" side="tl" part="a_cas"/></concat>  
         </let> 
         <let>
@@ -1624,7 +1624,7 @@
     </rule> 
 
 
-    <rule comment="REGLA: agreement-attr n-sg agreement">                                             
+    <rule comment="REGLA: agreement-attr n-sg agreement">  <!-- full agreement -->                                           
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
         <pattern-item n="agreem-sg"/>                   
@@ -1651,7 +1651,7 @@
       </action>                                  
     </rule> 
     
-      <rule comment="REGLA: agreement-attr attr n-sg agreement">                                             
+      <rule comment="REGLA: agreement-attr attr n-sg agreement">   <!-- full agreement -->                                          
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
         <pattern-item n="attr"/>                 
@@ -1685,7 +1685,7 @@
         </out>
       </action>                                  
     </rule> 
-<!--    <rule comment="REGLA: agreement-attr n-sg-gen">                                             
+    <rule comment="REGLA: agreement-attr n-sg-gen">                                             
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
         <pattern-item n="agreem-sg-gen"/>                   
@@ -1716,7 +1716,41 @@
         </out>
         
       </action>                                  
-    </rule>  -->
+    </rule>  
+
+    <rule comment="REGLA: agreement-num-attr n-sg-com "> <!-- vihttanuppelot studeanttain - vitnubáluvvijn pajeuáppein. -->                                            
+      <pattern>                                        
+        <pattern-item n="numattr"/>                 
+        <pattern-item n="n-sg-com"/>                   
+      </pattern>     
+      <action>
+        <let>
+        	<clip pos="1" side="tl" part="tags"/>
+            <lit-tag v="num.sg.com"/>                
+        </let> 
+        <call-macro n="convert-deriv1"><with-param pos="2"/></call-macro>
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="remove-semtag1"><with-param pos="2"/></call-macro>
+        <out>
+          <chunk name="agreement-np">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	        <lu>
+              <clip pos="1" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>    
+	        </lu>
+          </chunk>
+        </out>
+        
+      </action>                                  
+    </rule>  
 
 
     <rule comment="REGLA: agreement-attr n-pl"> <!-- vuosttaš albmáid – vuosmuid almaid -->                                            
@@ -1776,7 +1810,7 @@
       </action>                                  
     </rule> 
 
-    <rule comment="REGLA: agreement-attr attr n-pl">                                             
+    <rule comment="REGLA: agreement-attr attr n-pl"> <!-- pl prn, num, ord , full agreement, exc com -->                                            
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
         <pattern-item n="attr"/>                 
