@@ -160,7 +160,11 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.6">
-<or><match lemma="guhtemuš"/><match lemma="gii"/><match lemma="guhte"/><match tags="n.sem_hum.*"/> </or>
+	<or><match lemma="guhtemuš"/>
+	<match lemma="gii"/>
+	<match lemma="guhte"/>
+	<match tags="n.sem_hum.*"/>
+	<match tags="prn.ref.*"/> </or>
     <match lemma="mielde" tags="post.*">
       <select lemma="fáárun"/>
     </match>
