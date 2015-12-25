@@ -1685,7 +1685,7 @@
         </out>
       </action>                                  
     </rule> 
-    <rule comment="REGLA: agreement-attr n-sg-gen">                                             
+<!--    <rule comment="REGLA: agreement-attr n-sg-gen">                                             
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
         <pattern-item n="agreem-sg-gen"/>                   
@@ -1716,7 +1716,7 @@
         </out>
         
       </action>                                  
-    </rule> 
+    </rule>  -->
 
 
     <rule comment="REGLA: agreement-attr n-pl"> <!-- vuosttaš albmáid – vuosmuid almaid -->                                            
