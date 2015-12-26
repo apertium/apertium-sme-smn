@@ -221,9 +221,13 @@
 
     <e><p><l>alde<s n="post"/></l><r>alne<s n="post"/></r></p></e>
     <e><p><l>badjel<s n="post"/></l><r>paijeel<s n="post"/></r></p></e>
+    <e><p><l>báldda<s n="post"/></l><r>paaldâ<s n="post"/></r></p></e>
+    <e><p><l>bálddas<s n="post"/></l><r>paaldâst<s n="post"/></r></p></e>
     <e><p><l>birra<s n="post"/></l><r>pirrâ<s n="post"/></r></p></e>
+    <e><p><l>buohta<s n="post"/></l><r>puotâ<s n="post"/></r></p></e>
     <e><p><l>duohken<s n="post"/></l><r>tyehin<s n="post"/></r></p></e>
     <e><p><l>dáfus<s n="post"/></l><r>tááhust<s n="post"/></r></p></e>
+    <e><p><l>fárrui<s n="post"/></l><r>fáárun<s n="post"/></r></p></e>
     <e><p><l>guora<s n="post"/></l><r>piällás<s n="post"/></r></p></e>
     <e><p><l>gurrii<s n="post"/></l><r>piällás<s n="post"/></r></p></e>
     <e><p><l>háldui<s n="post"/></l><r>haaldun<s n="post"/></r></p></e> <!-- not in sme -->
@@ -425,6 +429,11 @@
     <!-- ASECTION: Nouns -->  
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
+    <e><p><l>balsa<s n="n"/></l><r>polsâ<s n="n"/></r></p></e>
+    <e><p><l>guolbba<s n="n"/></l><r>kuolbâ<s n="n"/></r></p></e>
+    <e><p><l>guolban<s n="n"/></l><r>kuolbâ<s n="n"/></r></p></e>
+    <e><p><l>gohttensadji<s n="n"/></l><r>kuáticeggimsaje<s n="n"/></r></p></e>
+    <e><p><l>festiválabáiki<s n="n"/></l><r>festivaalpäikki<s n="n"/></r></p></e>
     <e><p><l>guovttos<s n="n"/></l><r>kyevtis<s n="n"/></r></p></e>
     <e><p><l>jándor<s n="n"/></l><r>pirrâmpeivi<s n="n"/></r></p></e>
     <e><p><l>jándor<s n="n"/></l><r>jándur<s n="n"/></r></p></e>
@@ -858,6 +867,7 @@
     <!-- ASECTION: Proper nouns -->
 
     <e><p><l>Deatnu<s n="np"/></l><r>Tiänu<s n="np"/></r></p></e> 
+    <e><p><l>Máze<s n="np"/></l><r>Maasi<s n="np"/></r></p></e> 
     <e><p><l>Ánde<s n="np"/></l><r>Antti<s n="np"/></r></p></e> 
     <e><p><l>Ánde<s n="np"/></l><r>Ánde<s n="np"/></r></p></e> 
     <e><p><l>Ánte<s n="np"/></l><r>Antti<s n="np"/></r></p></e> 
@@ -870,6 +880,8 @@
     <e><p><l>Elle<s n="np"/></l><r>Elli<s n="np"/></r></p></e> 
     <e><p><l>Piera<s n="np"/></l><r>Piera<s n="np"/></r></p></e> 
     <e><p><l>Piera<s n="np"/></l><r>Pierâ<s n="np"/></r></p></e> 
+    <e><p><l>Biera<s n="np"/></l><r>Biera<s n="np"/></r></p></e> 
+    <e><p><l>Biera<s n="np"/></l><r>Pierâ<s n="np"/></r></p></e> 
     <e><p><l>Romsa<s n="np"/></l><r>Tromssa<s n="np"/></r></p></e> 
     <e><p><l>Helsset<s n="np"/></l><r>Helsig<s n="np"/></r></p></e>
     <e><p><l>Máret<s n="np"/></l><r>Maarit<s n="np"/></r></p></e>
@@ -1915,6 +1927,9 @@
     <!-- SECTION: Verbs -->
 
     <e><p><l>čatnasit<s n="vblex"/><s n="iv"/></l><r>čonâsiđ<s n="vblex"/></r></p></e> 
+    <e><p><l>cegget<s n="vblex"/><s n="tv"/></l><r>cegâttiđ<s n="vblex"/></r></p></e>
+    <e><p><l>leabbát<s n="vblex"/><s n="iv"/></l><r>liäbbáđ<s n="vblex"/></r></p></e>
+    <e><p><l>čiehkádit<s n="vblex"/><s n="iv"/></l><r>čiähádâttâđ<s n="vblex"/></r></p></e>
     <e><p><l>goastat<s n="vblex"/><s n="iv"/></l><r>kostâđ<s n="vblex"/></r></p></e> 
     <e><p><l>joavdit<s n="vblex"/><s n="iv"/></l><r>pyevtittiđ<s n="vblex"/></r></p></e> 
     <e><p><l>láitit<s n="vblex"/><s n="tv"/></l><r>läittiđ<s n="vblex"/></r></p></e> 
@@ -6163,7 +6178,6 @@
     <e><p><l>cadjat<s n="vblex"/><s n="tv"/></l><r>cooijâđ<s n="vblex"/></r></p></e>
     <e><p><l>caggat<s n="vblex"/><s n="tv"/></l><r>coggâđ<s n="vblex"/></r></p></e>
     <e><p><l>cealkit<s n="vblex"/><s n="tv"/></l><r>celkkiđ<s n="vblex"/></r></p></e>
-    <e><p><l>cegget<s n="vblex"/><s n="tv"/></l><r>ceggiđ<s n="vblex"/></r></p></e>
     <e><p><l>cibmut<s n="vblex"/><s n="tv"/></l><r>cimostiđ<s n="vblex"/></r></p></e>
     <e><p><l>ciellat<s n="vblex"/><s n="tv"/></l><r>ciellâđ<s n="vblex"/></r></p></e>
     <e><p><l>cieládit<s n="vblex"/><s n="iv"/></l><r>uládiđ<s n="vblex"/></r></p></e>
@@ -8275,7 +8289,6 @@
     <e><p><l>arvat<s n="vblex"/><s n="iv"/></l><r>orvâđ<s n="vblex"/></r></p></e>
     <e><p><l>dohkket<s n="vblex"/><s n="iv"/></l><r>tuhhiđ<s n="vblex"/></r></p></e>
     <e><p><l>heađuštit<s n="vblex"/><s n="tv"/></l><r>hettiđ<s n="vblex"/></r></p></e>
-    <e><p><l>čohkkedit<s n="vblex"/><s n="iv"/></l><r>nurâdiđ<s n="vblex"/></r></p></e>
     <e><p><l>čohkkedit<s n="vblex"/><s n="iv"/></l><r>čokániđ<s n="vblex"/></r></p></e>
     <e><p><l>rádjat<s n="vblex"/><s n="tv"/></l><r>vuorkkiđ<s n="vblex"/></r></p></e>
     <e><p><l>rádjat<s n="vblex"/><s n="tv"/></l><r>vuárhudiđ<s n="vblex"/></r></p></e>
@@ -8385,10 +8398,6 @@
     <e><p><l>čákŋalit<s n="vblex"/><s n="tv"/></l><r>lavkkiđ<s n="vblex"/></r></p></e>
     <e><p><l>čákŋalit<s n="vblex"/><s n="tv"/></l><r>roohâđ<s n="vblex"/></r></p></e>
     <e><p><l>čákŋalit<s n="vblex"/><s n="tv"/></l><r>spiddáádâttâđ<s n="vblex"/></r></p></e>
-    <e><p><l>čiehkádit<s n="vblex"/><s n="iv"/></l><r>loommâđ<s n="vblex"/></r></p></e>
-    <e><p><l>čiehkádit<s n="vblex"/><s n="iv"/></l><r>peittâdâttâđ<s n="vblex"/></r></p></e>
-    <e><p><l>čiehkádit<s n="vblex"/><s n="iv"/></l><r>peittâttâđ<s n="vblex"/></r></p></e>
-    <e><p><l>čiehkádit<s n="vblex"/><s n="iv"/></l><r>čiähádâttâđ<s n="vblex"/></r></p></e>
     <e><p><l>deattašit<s n="vblex"/><s n="tv"/></l><r>tedâččiđ<s n="vblex"/></r></p></e>
     <e><p><l>buressivdnidit<s n="vblex"/><s n="tv"/></l><r>sivnediđ<s n="vblex"/></r></p></e>
     <e><p><l>oaidnalit<s n="vblex"/><s n="iv"/></l><r>oinâliđ<s n="vblex"/></r></p></e>
@@ -11423,7 +11432,6 @@
     <e><p><l>Biente<s n="np"/></l><r>Biente<s n="np"/></r></p></e>
     <e><p><l>Bientie<s n="np"/></l><r>Bientie<s n="np"/></r></p></e>
     <e><p><l>Bier<s n="np"/></l><r>Bier<s n="np"/></r></p></e>
-    <e><p><l>Biera<s n="np"/></l><r>Biera<s n="np"/></r></p></e>
     <e><p><l>Bierna<s n="np"/></l><r>Bierna<s n="np"/></r></p></e>
     <e><p><l>Biernie<s n="np"/></l><r>Biernie<s n="np"/></r></p></e>
     <e><p><l>Bierril<s n="np"/></l><r>Bierril<s n="np"/></r></p></e>
@@ -29440,7 +29448,6 @@
     <e><p><l>Pieniniemi<s n="np"/></l><r>Pieniniemi<s n="np"/></r></p></e>
     <e><p><l>Pienne<s n="np"/></l><r>Pienne<s n="np"/></r></p></e>
     <e><p><l>Piepponen<s n="np"/></l><r>Piepponen<s n="np"/></r></p></e>
-    <e><p><l>Piera<s n="np"/></l><r>Piera<s n="np"/></r></p></e>
     <e><p><l>Pierce-Arrow<s n="np"/></l><r>Pierce-Arrow<s n="np"/></r></p></e>
     <e><p><l>Pierre<s n="np"/></l><r>Pierre<s n="np"/></r></p></e>
     <e><p><l>Piesanen<s n="np"/></l><r>Piesanen<s n="np"/></r></p></e>

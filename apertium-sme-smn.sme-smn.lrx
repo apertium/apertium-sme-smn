@@ -32,6 +32,10 @@ Write comments to forthcoming rules before this line -->
   <rule weight="1.0"><match lemma="Ánte" tags="np.ant.m.sg.*"><select lemma="Antti" tags="np.*"/></match></rule>
   <rule weight="1.0"><match lemma="Máhtte" tags="np.attr"><select lemma="Máhtte" tags="np.attr"/></match></rule>
   <rule weight="1.0"><match lemma="Máhtte" tags="np.sg.*"><select lemma="Matti" tags="np.*"/></match></rule>
+  <rule weight="1.0"><match lemma="Piera" tags="np.attr"><select lemma="Piera" tags="np.attr"/></match></rule>
+  <rule weight="1.0"><match lemma="Piera" tags="np.sg.*"><select lemma="Pierâ" tags="np.*"/></match></rule>
+  <rule weight="1.0"><match lemma="Biera" tags="np.attr"><select lemma="Biera" tags="np.attr"/></match></rule>
+  <rule weight="1.0"><match lemma="Biera" tags="np.sg.*"><select lemma="Pierâ" tags="np.*"/></match></rule>
 
 
  
