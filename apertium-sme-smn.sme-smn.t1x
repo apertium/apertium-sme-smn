@@ -6,6 +6,11 @@
      <def-cat n="feara">
       <cat-item lemma="feara" tags="adv.*"/>
     </def-cat>
+     <def-cat n="gencompl">
+      <cat-item tags="n.*.*.gen.*"/>
+      <cat-item tags="n.*.gen.*"/>
+      <cat-item tags="prn.*.*.gen.*"/>
+   </def-cat>
      <def-cat n="numgen">
       <cat-item tags="num.*.gen"/>
       <cat-item tags="num.*.gen.*"/>
@@ -13,6 +18,7 @@
      <def-cat n="propcmp">
       <cat-item tags="np.*.cmp_sgnom.cmp"/>
       <cat-item tags="np.cmp_sgnom.cmp.guio"/>
+      <cat-item tags="np.cmp_sggen.cmp.guio"/> 
     </def-cat>
      <def-cat n="numcmp">
       <cat-item tags="num.cmp"/>
@@ -66,11 +72,12 @@
       <cat-item lemma="buorre" tags="adj.*.@→N"/>
     </def-cat>
     <def-cat n="mainverb">
-      <cat-item tags="vblex.*.@+FMAINV"/>
-      <cat-item tags="vblex.*.@-FMAINV"/>
+      <cat-item tags="*.@+FMAINV"/>
+      <cat-item tags="*.@-FMAINV"/>
     </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
+      <cat-item tags="n.coll.*"/>
       <cat-item tags="adj.der_vuohta.n.*"/>
       <cat-item tags="vblex.*.der_nomact.n.*"/>
       <cat-item tags="vblex.der_nomact.n.*"/>
@@ -1059,6 +1066,33 @@
       <pattern>
         <pattern-item n="propcmp"/>
         <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <call-macro n="convert-deriv1"><with-param pos="2"/></call-macro>
+        <call-macro n="remove-semtag1"><with-param pos="2"/></call-macro>
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <out>
+          <chunk name="nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <mlu>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+             <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+             </mlu>
+        </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: npcmpnom"> <!-- Ándde-guovttos  -->
+      <pattern>
+        <pattern-item n="propcmp"/>
+        <pattern-item n="nom"/>
       </pattern>
       <action>
         <call-macro n="convert-deriv1"><with-param pos="2"/></call-macro>

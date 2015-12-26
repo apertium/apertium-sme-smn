@@ -27,6 +27,7 @@ Write comments to forthcoming rules before this line -->
   <rule weight="1.0"><match lemma="Máret" tags="np.ant.f.sg.*"><select lemma="Maarit" tags="np.*"/></match></rule>
   <rule weight="1.0"><match lemma="Ánde" tags="np.ant.m.attr"><select lemma="Ánde" tags="np.ant.m.attr"/></match></rule>
   <rule weight="1.0"><match lemma="Ánde" tags="np.ant.m.sg.*"><select lemma="Antti" tags="np.*"/></match></rule>
+  <rule weight="1.0"><match lemma="Ánde" tags="np.cmp_sggen.cmp.guio"><select lemma="Antti" tags="np.*"/></match></rule>
   <rule weight="1.0"><match lemma="Ánte" tags="np.ant.m.attr"><select lemma="Ánte" tags="np.ant.m.attr"/></match></rule>
   <rule weight="1.0"><match lemma="Ánte" tags="np.ant.m.sg.*"><select lemma="Antti" tags="np.*"/></match></rule>
   <rule weight="1.0"><match lemma="Máhtte" tags="np.attr"><select lemma="Máhtte" tags="np.attr"/></match></rule>
@@ -187,6 +188,45 @@ Write comments to forthcoming rules before this line -->
     <match lemma="mielde" tags="adv.*">
       <select lemma="mield"/>
     </match>
+  </rule>
+
+  <rule weight="1.0">
+    <match lemma="jándor">
+      <select lemma="jándur"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="jándor">
+      <select lemma="pirrâmpeivi"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+     <match lemma="birra"/>
+   <match lemma="jándor"> <!-- Sun pargâ pirrâmpeeivi miätä. -->
+      <select lemma="pirrâmpeivi"/>
+    </match>
+  </rule>
+
+  <rule weight="1.0">
+    <match lemma="birra">
+      <select lemma="pirrâ"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="birra">
+      <select lemma="miätá"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="birra"> <!-- Sun pargâ pirrâmpeeivi miätä. -->
+      <select lemma="miätá"/>
+    </match>
+     <or><match tags="n.sem_time.*"/>
+     <match tags="n.sem_measr_time.*"/></or>
   </rule>
 
 

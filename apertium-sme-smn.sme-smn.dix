@@ -214,6 +214,8 @@
     <e><p><l>maŋŋel<s n="pr"/></l><r>maŋa<s n="post"/></r></p></e>
     <e><p><l>gaskal<s n="pr"/></l><r>kooskâst<s n="post"/></r></p></e>
     <e><p><l>gaskkal<s n="pr"/></l><r>kooskâst<s n="post"/></r></p></e>
+    <e><p><l>birra<s n="pr"/></l><r>pirrâ<s n="post"/></r></p></e>
+    <e><p><l>birra<s n="pr"/></l><r>miätá<s n="post"/></r></p></e>
 
     <!-- ASECTION: Postpositions -->     
 
@@ -222,8 +224,10 @@
     <e><p><l>birra<s n="post"/></l><r>pirrâ<s n="post"/></r></p></e>
     <e><p><l>duohken<s n="post"/></l><r>tyehin<s n="post"/></r></p></e>
     <e><p><l>dáfus<s n="post"/></l><r>tááhust<s n="post"/></r></p></e>
+    <e><p><l>guora<s n="post"/></l><r>piällás<s n="post"/></r></p></e>
+    <e><p><l>gurrii<s n="post"/></l><r>piällás<s n="post"/></r></p></e>
     <e><p><l>háldui<s n="post"/></l><r>haaldun<s n="post"/></r></p></e> <!-- not in sme -->
-    <e><p><l>lusa<s n="post"/></l><r>kuuvl<s n="post"/></r></p></e>
+    <e><p><l>lusa<s n="post"/></l><r>luusâ<s n="post"/></r></p></e>
     <e><p><l>maŋŋel<s n="post"/></l><r>maŋa<s n="post"/></r></p></e>
     <e><p><l>maŋŋá<s n="post"/></l><r>maŋa<s n="post"/></r></p></e>
     <e><p><l>mielde<s n="post"/></l><r>mield<s n="post"/></r></p></e>
@@ -342,6 +346,7 @@
 
     <!-- ASECTION: Adjectives -->
 
+    <e><p><l>otná<s n="adj"/></l><r>onnáá<s n="adj"/></r></p></e>
     <e><p><l>nuorra<s n="adj"/></l><r>nuorâ<s n="adj"/></r></p></e>
     <e><p><l>vuosttamus<s n="adj"/></l><r>vuosmuš<s n="adj"/></r></p></e>
     <e><p><l>vuosttas<s n="adj"/></l><r>vuosmuš<s n="adj"/></r></p></e>
@@ -420,6 +425,9 @@
     <!-- ASECTION: Nouns -->  
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
+    <e><p><l>guovttos<s n="n"/></l><r>kyevtis<s n="n"/></r></p></e>
+    <e><p><l>jándor<s n="n"/></l><r>pirrâmpeivi<s n="n"/></r></p></e>
+    <e><p><l>jándor<s n="n"/></l><r>jándur<s n="n"/></r></p></e>
     <e><p><l>lohku<s n="n"/></l><r>loho<s n="n"/></r></p></e>
     <e><p><l>guovttis<s n="n"/></l><r>kyevtis<s n="n"/></r></p></e>
     <e><p><l>golmmas<s n="n"/></l><r>kuulmâs<s n="n"/></r></p></e>
@@ -4981,7 +4989,6 @@
     <e><p><l>jáhkka<s n="n"/></l><r>takki<s n="n"/></r></p></e>
     <e><p><l>jáhkku<s n="n"/></l><r>oovdânpyehtim<s n="n"/></r></p></e>
     <e><p><l>jámeš<s n="n"/></l><r>jaamiš<s n="n"/></r></p></e>
-    <e><p><l>jándor<s n="n"/></l><r>jándur<s n="n"/></r></p></e>
     <e><p><l>jápmin<s n="n"/></l><r>jäämmim<s n="n"/></r></p></e>
     <e><p><l>jápmu<s n="n"/></l><r>jäämmim<s n="n"/></r></p></e>
     <e><p><l>kanála<s n="n"/></l><r>kanava<s n="n"/></r></p></e>
@@ -5611,7 +5618,6 @@
 
     <e><p><l>earret<s n="pr"/></l><r>eereeb<s n="pr"/></r></p></e>
     <e><p><l>badjel<s n="pr"/></l><r>paijeel<s n="pr"/></r></p></e>
-    <e><p><l>birra<s n="pr"/></l><r>pirrâ<s n="pr"/></r></p></e>
     <e><p><l>guovdelaš<s n="pr"/></l><r>kyevdil<s n="pr"/></r></p></e>
 
     <!--    BSECTION: Verbs  -->
