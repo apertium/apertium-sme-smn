@@ -315,6 +315,7 @@
     <e><p><l>maŋŋemaŋŋálaga<s n="adv"/></l><r>maŋaluvâi<s n="adv"/></r></p></e>
     <e><p><l>meaddel<s n="adv"/></l><r>lappâd<s n="adv"/></r></p></e>
     <e><p><l>mielde<s n="adv"/></l><r>fáárust<s n="adv"/></r></p></e>
+    <e><p><l>mielde<s n="adv"/></l><r>mield<s n="adv"/></r></p></e>
     <e><p><l>nalde<s n="adv"/></l><r>alne<s n="adv"/></r></p></e>
     <e><p><l>nu<s n="adv"/></l><r>nuuvt<s n="adv"/></r></p></e>
     <e><p><l>oalle<s n="adv"/></l><r>uáli<s n="adv"/></r></p></e>
@@ -1902,6 +1903,7 @@
     <!-- SECTION: Verbs -->
 
     <e><p><l>čatnasit<s n="vblex"/><s n="iv"/></l><r>čonâsiđ<s n="vblex"/></r></p></e> 
+    <e><p><l>goastat<s n="vblex"/><s n="iv"/></l><r>kostâđ<s n="vblex"/></r></p></e> 
     <e><p><l>joavdit<s n="vblex"/><s n="iv"/></l><r>pyevtittiđ<s n="vblex"/></r></p></e> 
     <e><p><l>láitit<s n="vblex"/><s n="tv"/></l><r>läittiđ<s n="vblex"/></r></p></e> 
     <e><p><l>darvánit<s n="vblex"/><s n="iv"/></l><r>tarvaniđ<s n="vblex"/></r></p></e> 
@@ -2693,7 +2695,7 @@
     <e><p><l>agás<s n="adv"/></l><r>avepiäiván<s n="adv"/></r></p></e>
     <e><p><l>ahkásii<s n="adv"/></l><r>avepiäiván<s n="adv"/></r></p></e>
     <e><p><l>allagit<s n="adv"/></l><r>ollâgávt<s n="adv"/></r></p></e>
-    <e><p><l>baicca<s n="adv"/></l><r>pyerebeht-uv<s n="adv"/></r></p></e>
+    <e><p><l>baicca<s n="adv"/></l><r>peiccâ<s n="adv"/></r></p></e>
     <e><p><l>baicce<s n="adv"/></l><r>peic<s n="adv"/></r></p></e>
     <e><p><l>bajás<s n="adv"/></l><r>pajas<s n="adv"/></r></p></e>
     <e><p><l>boastut<s n="adv"/></l><r>puástud<s n="adv"/></r></p></e>
