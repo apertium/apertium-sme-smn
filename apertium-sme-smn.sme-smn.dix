@@ -431,6 +431,7 @@
     <e><p><l>árka<s n="n"/></l><r>arkkâ<s n="n"/></r></p></e>
     <e><p><l>guolli<s n="n"/></l><r>kyeli<s n="n"/></r></p></e>
     <e><p><l>s<s n="n"/></l><r>s<s n="n"/></r></p></e> <!-- abbr -->
+    <e><p><l>omd<s n="n"/></l><r>omt<s n="n"/></r></p></e> <!-- abbr -->
     <e><p><l>miila<s n="n"/></l><r>penâkkulâm<s n="n"/></r></p></e> <!-- not in smn -->
     <e><p><l>anárašgiella<s n="n"/></l><r>anarâškielâ<s n="n"/></r></p></e>
     <e><p><l>álbmotbeaivedoalut<s n="n"/></l><r>aalmugpeivituáluh<s n="n"/></r></p></e>
@@ -452,6 +453,7 @@
     <e><p><l>revitaliseren<s n="n"/></l><r>revitalisaatio<s n="n"/></r></p></e>
     <e><p><l>tradišuvdna<s n="n"/></l><r>traditio<s n="n"/></r></p></e>
     <e><p><l>gomuvuohta<s n="n"/></l><r>komovuotâ<s n="n"/></r></p></e>
+    <e><p><l>dilálašvuohta<s n="n"/></l><r>tilálâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>lodderáidalas<s n="n"/></l><r>loderaidâlâs<s n="n"/></r></p></e>
     <e><p><l>soagŋomátki<s n="n"/></l><r>suáŋusmätki<s n="n"/></r></p></e>
     <e><p><l>diida<s n="n"/></l><r>tijdâ<s n="n"/></r></p></e>
@@ -847,7 +849,7 @@
 
     <!-- ASECTION: Proper nouns -->
 
-    <e><p><l>Kárášjohka<s n="np"/></l><r>Kárášjuuhâ<s n="np"/></r></p></e> 
+    <e><p><l>Deatnu<s n="np"/></l><r>Tiänu<s n="np"/></r></p></e> 
     <e><p><l>Ánde<s n="np"/></l><r>Antti<s n="np"/></r></p></e> 
     <e><p><l>Ánde<s n="np"/></l><r>Ánde<s n="np"/></r></p></e> 
     <e><p><l>Ánte<s n="np"/></l><r>Antti<s n="np"/></r></p></e> 
@@ -13639,7 +13641,7 @@
     <e><p><l>Dividalen<s n="np"/></l><r>Dividalen<s n="np"/></r></p></e>
     <e><p><l>Divide<s n="np"/></l><r>Divide<s n="np"/></r></p></e>
     <e><p><l>Divielva<s n="np"/></l><r>Divielva<s n="np"/></r></p></e>
-    <e><p><l>Divttasvuona-Hellemo<s n="np"/></l><r>Divttasvuona-Hellemo<s n="np"/></r></p></e>
+    <e><p><l>Divttasvuotna<s n="np"/></l><r>Tivtâsvuoná<s n="np"/></r></p></e>
     <e><p><l>Divvun<s n="np"/></l><r>Divvun<s n="np"/></r></p></e>
     <e><p><l>Dixon<s n="np"/></l><r>Dixon<s n="np"/></r></p></e>
     <e><p><l>Diyarbakir<s n="np"/></l><r>Diyarbakir<s n="np"/></r></p></e>
@@ -28201,6 +28203,7 @@
     <e><p><l>Nøttveit<s n="np"/></l><r>Nøttveit<s n="np"/></r></p></e>
     <e><p><l>Nürnberg<s n="np"/></l><r>Nürnberg<s n="np"/></r></p></e>
     <e><p><l>Nürnbergprosessen<s n="np"/></l><r>Nürnbergprosessen<s n="np"/></r></p></e>
+    <e><p><l>Návuotna<s n="np"/></l><r>Návuonâ<s n="np"/></r></p></e>
     <e><p><l>O'Hare<s n="np"/></l><r>O'Hare<s n="np"/></r></p></e>
     <e><p><l>O'Higgins<s n="np"/></l><r>O'Higgins<s n="np"/></r></p></e>
     <e><p><l>O'Shelley<s n="np"/></l><r>O'Shelley<s n="np"/></r></p></e>
