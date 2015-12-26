@@ -2,6 +2,12 @@
 <!-- -*- nxml -*- -->
 <interchunk>
   <section-def-cats>
+    <def-cat n="GenCompl">
+      <cat-item tags="NumG"/>
+      <cat-item tags="NumG.*"/>
+      <cat-item tags="SN"/>
+      <cat-item tags="SN.*"/>
+    </def-cat>
     <def-cat n="SN">
       <cat-item tags="SN"/>
       <cat-item tags="SN.*"/>
@@ -68,7 +74,7 @@
     <rule comment="REGLA: SN">
     <pattern>
        <pattern-item n="PR_PO"/>
-       <pattern-item n="SN"/>
+       <pattern-item n="GenCompl"/>
     </pattern>
       <action>
     <out>
