@@ -96,6 +96,7 @@
     </def-cat>                                         
     <def-cat n="numattr">                           
       <cat-item tags="num.sg.*.attr.*"/>                  
+      <cat-item tags="num.sg.attr.*"/>                  
     </def-cat>                                         
      <def-cat n="jagi">
       <cat-item lemma="jahki" tags="n.*.sg.gen.*"/>
@@ -1734,6 +1735,48 @@
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="remove-semtag1"><with-param pos="2"/></call-macro>
+        <out>
+          <chunk name="agreement-np">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	        <lu>
+              <clip pos="1" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>    
+	        </lu>
+          </chunk>
+        </out>
+        
+      </action>                                  
+    </rule>  
+
+    <rule comment="REGLA: agreement-num-attr n-sg-com "> <!-- Mun válddán oktanuppelogi girjji. - vitnubáluvvijn pajeuáppein. -->                                            
+      <pattern>                                        
+        <pattern-item n="numattr"/>                 
+        <pattern-item n="n-sg-accgen"/>                   
+      </pattern>     
+      <action>
+        <let>
+        	<clip pos="1" side="tl" part="tags"/>
+            <lit-tag v="num.sg.acc"/>                
+        </let> 
+        <call-macro n="convert-deriv1"><with-param pos="2"/></call-macro>
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+      <choose><when>
+              <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test> 
+        <let><clip pos="2" side="tl" part="tags"/>
+        <concat><lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let> 
+              </when>
+         <otherwise>
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let>
+         </otherwise>
+		</choose>        
         <out>
           <chunk name="agreement-np">
             <tags>
