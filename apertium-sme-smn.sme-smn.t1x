@@ -1097,7 +1097,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: npcmpnom"> <!-- Ándde-guovttos, does not function  -->
+    <rule comment="REGLA: npcmpnom"> <!-- Ándde-guovttos - Aanti-kyehtis  -->
       <pattern>
         <pattern-item n="propcmp"/>
         <pattern-item n="nom"/>

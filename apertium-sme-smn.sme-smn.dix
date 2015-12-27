@@ -352,6 +352,8 @@
 
     <!-- ASECTION: Adjectives -->
 
+    <e><p><l>arkeologalaš<s n="adj"/></l><r>arkeologâlâš<s n="adj"/></r></p></e>
+    <e><p><l>šamanisttalaš<s n="adj"/></l><r>šamanistlâš<s n="adj"/></r></p></e>
     <e><p><l>otná<s n="adj"/></l><r>onnáá<s n="adj"/></r></p></e>
     <e><p><l>nuorra<s n="adj"/></l><r>nuorâ<s n="adj"/></r></p></e>
     <e><p><l>vuosttamus<s n="adj"/></l><r>vuosmuš<s n="adj"/></r></p></e>
@@ -432,7 +434,9 @@
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
     <e><p><l>balsa<s n="n"/></l><r>polsâ<s n="n"/></r></p></e>
-    <e><p><l>guolbba<s n="n"/></l><r>kuolbâ<s n="n"/></r></p></e>
+     <e><p><l>orrunguovlu<s n="n"/></l><r>aassâmkuávlu<s n="n"/></r></p></e>
+    <e><p><l>arkeologa<s n="n"/></l><r>arkeologi<s n="n"/></r></p></e>
+   <e><p><l>guolbba<s n="n"/></l><r>kuolbâ<s n="n"/></r></p></e>
     <e><p><l>guolban<s n="n"/></l><r>kuolbâ<s n="n"/></r></p></e>
     <e><p><l>gohttensadji<s n="n"/></l><r>kuáticeggimsaje<s n="n"/></r></p></e>
     <e><p><l>festiválabáiki<s n="n"/></l><r>festivaalpäikki<s n="n"/></r></p></e>
@@ -893,10 +897,15 @@
 
     <!-- ASECTION: other proper nouns -->
 
+    <e><p><l>Leavdnja<s n="np"/></l><r>Levnjâ<s n="np"/></r></p></e> 
+    <e><p><l>Duortnus<s n="np"/></l><r>Tuárnus<s n="np"/></r></p></e> 
+    <e><p><l>Gáivuotna<s n="np"/></l><r>Kaivuonâ<s n="np"/></r></p></e> 
     <e><p><l>Biret<s n="np"/></l><r>Biret<s n="np"/></r></p></e> 
     <e><p><l>Deatnu<s n="np"/></l><r>Tiänu<s n="np"/></r></p></e> 
     <e><p><l>Máze<s n="np"/></l><r>Maasi<s n="np"/></r></p></e> 
     <e><p><l>Romsa<s n="np"/></l><r>Tromssa<s n="np"/></r></p></e> 
+    <e><p><l>Kárášjohka<s n="np"/></l><r>Kárášjuuhâ<s n="np"/></r></p></e> 
+    <e><p><l>Lujávri<s n="np"/></l><r>Luujävri<s n="np"/></r></p></e> 
     <e><p><l>Helsset<s n="np"/></l><r>Helsig<s n="np"/></r></p></e>
     <e><p><l>Eurohpá<s n="np"/></l><r>Euroop<s n="np"/></r></p></e>
     <e><p><l>Norga<s n="np"/></l><r>Taažâ<s n="np"/></r></p></e>
@@ -1937,6 +1946,7 @@
     <!-- SECTION: Verbs -->
 
     <e><p><l>čatnasit<s n="vblex"/><s n="iv"/></l><r>čonâsiđ<s n="vblex"/></r></p></e> 
+    <e><p><l>vuođđuduvvat<s n="vblex"/><s n="iv"/></l><r>vuáđuduđ<s n="vblex"/></r></p></e> 
     <e><p><l>cegget<s n="vblex"/><s n="tv"/></l><r>cegâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>leabbát<s n="vblex"/><s n="iv"/></l><r>liäbbáđ<s n="vblex"/></r></p></e>
     <e><p><l>čiehkádit<s n="vblex"/><s n="iv"/></l><r>čiähádâttâđ<s n="vblex"/></r></p></e>
@@ -1958,7 +1968,7 @@
     <e><p><l>riŋget<s n="vblex"/><s n="tv"/></l><r>suáittiđ<s n="vblex"/></r></p></e> 
     <e><p><l>ovttasbargat<s n="vblex"/><s n="iv"/></l><r>oovtâst<b/>porgâđ<s n="vblex"/></r></p></e>
     <e><p><l>biehkut<s n="vblex"/><s n="iv"/></l><r>piähuđ<s n="vblex"/></r></p></e>
-    <e><p><l>biehkut<s n="vblex"/><s n="tv"/></l><r>läittiđ<s n="vblex"/></r></p></e>
+    <e><p><l>biehkut<s n="vblex"/><s n="iv"/></l><r>läittiđ<s n="vblex"/></r></p></e>
     <e><p><l>gaikodit<s n="vblex"/><s n="iv"/></l><r>kiškodiđ<s n="vblex"/></r></p></e>
     <e><p><l>buohccát<s n="vblex"/><s n="iv"/></l><r>puáccáđ<s n="vblex"/></r></p></e>
     <e><p><l>vázzilit<s n="vblex"/><s n="iv"/></l><r>väzziliđ<s n="vblex"/></r></p></e>
@@ -1989,7 +1999,7 @@
     <e><p><l>muosáhit<s n="vblex"/><s n="tv"/></l><r>smakkiđ<s n="vblex"/></r></p></e>
     <e><p><l>riggudit<s n="vblex"/><s n="tv"/></l><r>riggodiđ<s n="vblex"/></r></p></e>
     <e><p><l>gárggiidit<s n="vblex"/><s n="iv"/></l><r>jottáđ<s n="vblex"/></r></p></e>
-    <e><p><l>ásaiduvvat<s n="vblex"/><s n="tv"/></l><r>asâiduđ<s n="vblex"/></r></p></e>
+    <e><p><l>ásaiduvvat<s n="vblex"/><s n="iv"/></l><r>asâiduđ<s n="vblex"/></r></p></e>
     <e><p><l>ásaiduhttit<s n="vblex"/><s n="tv"/></l><r>asâiduttiđ<s n="vblex"/></r></p></e>
     <e><p><l>fárrehit<s n="vblex"/><s n="tv"/></l><r>varriittiđ<s n="vblex"/></r></p></e>
     <e><p><l>geatnegahttit<s n="vblex"/><s n="tv"/></l><r>kenigâttiđ<s n="vblex"/></r></p></e>
@@ -8690,7 +8700,7 @@
     <e><p><l>dálludit<s n="vblex"/><s n="iv"/></l><r>aassâđ<s n="vblex"/></r></p></e>
     <e><p><l>dálludit<s n="vblex"/><s n="iv"/></l><r>tálustâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>duskkástuvvat<s n="vblex"/><s n="iv"/></l><r>toskástuđ<s n="vblex"/></r></p></e>
-    <e><p><l>ráfot<s n="vblex"/><s n="tv"/></l><r>rávhudiđ<s n="vblex"/></r></p></e>
+    <e><p><l>ráfot<s n="vblex"/><s n="iv"/></l><r>rávhudiđ<s n="vblex"/></r></p></e>
     <e><p><l>rihpastit<s n="vblex"/><s n="tv"/></l><r>leggistiđ<s n="vblex"/></r></p></e>
     <e><p><l>rihpastit<s n="vblex"/><s n="tv"/></l><r>pallâhistiđ<s n="vblex"/></r></p></e>
     <e><p><l>rihpastit<s n="vblex"/><s n="tv"/></l><r>siveldiđ<s n="vblex"/></r></p></e>
@@ -15250,6 +15260,7 @@
     <e><p><l>Finnmark<b/>fylkeskommune<s n="np"/></l><r>Finnmark<b/>fylkeskommune<s n="np"/></r></p></e>
     <e><p><l>Finnmark<b/>i<b/>fellesskap<s n="np"/></l><r>Finnmark<b/>i<b/>fellesskap<s n="np"/></r></p></e>
     <e><p><l>Finnmark<s n="np"/></l><r>Finnmark<s n="np"/></r></p></e>
+    <e><p><l>Finnmárku<s n="np"/></l><r>Finnmark<s n="np"/></r></p></e>
     <e><p><l>Finnmarken<s n="np"/></l><r>Finnmarken<s n="np"/></r></p></e>
     <e><p><l>Finnmarks<b/>Fylkesrederi<s n="np"/></l><r>Finnmarks<b/>Fylkesrederi<s n="np"/></r></p></e>
     <e><p><l>Finnmarkseiendommen<s n="np"/></l><r>Finnmarkseiendommen<s n="np"/></r></p></e>
