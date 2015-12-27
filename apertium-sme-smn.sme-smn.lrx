@@ -88,7 +88,7 @@ Write comments to forthcoming rules before this line -->
     </match>
   </rule>
 
-  <rule weight="0.1">
+  <rule weight="1.0">
     <match lemma="gosa" tags="adv">
       <select lemma="kuus" tags="adv.*"/>
     </match>
@@ -107,6 +107,49 @@ Write comments to forthcoming rules before this line -->
     </match>
     <match lemma="ge" tags="pcle.*"/>
   </rule>
+ 
+  <rule weight="1.0">
+    <match lemma="gii" tags="prn.ind.*">
+      <select lemma="kii" tags="prn.ind.*"/>
+    </match>
+  </rule>
+
+
+  <rule weight="0.5">
+    <match lemma="gii" tags="prn.ind.*">
+      <select lemma="kihheen" tags="prn.ind.*"/>
+    </match>
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="gii" tags="prn.ind.*">
+      <select lemma="kihheen" tags="prn.ind.*"/>
+    </match>
+    <match lemma="ge" tags="pcle.*"/>
+  </rule>
+ 
+   <rule weight="1.0">
+    <match lemma="gal" tags="adv.*">
+      <select lemma="kal" tags="adv.*"/>
+    </match>
+  </rule>
+
+
+  <rule weight="0.5">
+    <match lemma="gal" tags="adv.*">
+      <select lemma="kale" tags="adv.*"/>
+    </match>
+  </rule>
+
+  <rule weight="0.6">
+    <or><match tags="n.*"/>
+    <match tags="num.*"/>
+    <match tags="np.*"/></or>
+    <match lemma="gal" tags="adv.*">
+      <select lemma="kale" tags="adv.*"/>
+    </match>
+  </rule>
+
   
     <rule weight="1.0">
     <match lemma="oarjjás" tags="adv.*">

@@ -119,6 +119,7 @@
     <e><p><l>gii<s n="prn"/><s n="itg"/></l><r>kii<s n="prn"/><s n="itg"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="rel"/></l><r>kote<s n="prn"/><s n="rel"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kii<s n="prn"/><s n="ind"/></r></p></e>
+    <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kihheen<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="rel"/></l><r>kotemuš<s n="prn"/><s n="rel"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>kihheen<s n="prn"/><s n="ind"/></r></p></e>
 
@@ -129,7 +130,6 @@
     <e><p><l>giige<s n="prn"/></l><r>kihheen<s n="prn"/></r></p></e>
     <e><p><l>juoga<s n="prn"/></l><r>miinii<s n="prn"/></r></p></e>
     <e><p><l>juohke<s n="prn"/></l><r>jyehi<s n="prn"/></r></p></e>
-    <e><p><l>mihkkege<s n="prn"/></l><r>mihheen<s n="prn"/></r></p></e>
     <e><p><l>mihkke<s n="prn"/></l><r>mihheen<s n="prn"/></r></p></e>
     <e><p><l>muhtun<s n="prn"/></l><r>mottoom<s n="prn"/></r></p></e>
     <e><p><l>muhtin<s n="prn"/></l><r>mottoom<s n="prn"/></r></p></e>
@@ -282,6 +282,7 @@
 
     <e><p><l>ain<s n="adv"/></l><r>ain<s n="adv"/></r></p></e>
     <e><p><l>gal<s n="adv"/></l><r>kal<s n="adv"/></r></p></e>
+    <e><p><l>gal<s n="adv"/></l><r>kale<s n="adv"/></r></p></e>
     <e><p><l>eatnat<s n="adv"/></l><r>ennâg<s n="adv"/></r></p></e>
     <e><p><l>aivve<s n="adv"/></l><r>aaibâs<s n="adv"/></r></p></e>
     <e><p><l>aivvefal<s n="adv"/></l><r>aaibâs<s n="adv"/></r></p></e>
@@ -305,7 +306,7 @@
     <e><p><l>eisige<s n="adv"/></l><r>eissigin<s n="adv"/></r></p></e>
     <e><p><l>erenoamážit<s n="adv"/></l><r>eromâšávt<s n="adv"/></r></p></e>
     <e><p><l>fas<s n="adv"/></l><r>oppeet<s n="adv"/></r></p></e>
-    <e><p><l>feara<s n="adv"/></l><r>peri<s n="adv"/></r></p></e>
+    <e><p><l>feara<s n="adv"/></l><r>veikâ<s n="adv"/></r></p></e>
     <e><p><l>goassige<s n="adv"/></l><r>kuássin<s n="adv"/></r></p></e>
     <e><p><l>goit<s n="pcle"/></l><r>kuittâg<s n="pcle"/></r></p></e>
     <e><p><l>gosa<s n="adv"/></l><r>kuus<s n="adv"/></r></p></e>
