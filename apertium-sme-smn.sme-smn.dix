@@ -238,6 +238,7 @@
     <e><p><l>mielde<s n="post"/></l><r>mield<s n="post"/></r></p></e>
     <e><p><l>mielde<s n="post"/></l><r>fáárun<s n="post"/></r></p></e>
     <e><p><l>nalde<s n="post"/></l><r>alne<s n="post"/></r></p></e>
+    <e><p><l>nubbi<s n="prn"/></l><r>nubebel<s n="post"/></r></p></e>
     <e><p><l>olggobealde<s n="post"/></l><r>ulguubeln<s n="post"/></r></p></e>
     <e><p><l>ovddabeallai<s n="post"/></l><r>ovdiibel<s n="post"/></r></p></e> <!-- not in sme -->
     <e><p><l>ovddas<s n="post"/></l><r>oovdâst<s n="post"/></r></p></e>
@@ -865,10 +866,8 @@
     <e><p><l>rutiidna<s n="n"/></l><r>rutiin<s n="n"/></r></p></e>
     <e><p><l>pingviidna<s n="n"/></l><r>pingviin<s n="n"/></r></p></e>
 
-    <!-- ASECTION: Proper nouns -->
+    <!-- ASECTION: sme-person names with two possible translations -->
 
-    <e><p><l>Deatnu<s n="np"/></l><r>Tiänu<s n="np"/></r></p></e> 
-    <e><p><l>Máze<s n="np"/></l><r>Maasi<s n="np"/></r></p></e> 
     <e><p><l>Ánde<s n="np"/></l><r>Antti<s n="np"/></r></p></e> 
     <e><p><l>Ánde<s n="np"/></l><r>Ánde<s n="np"/></r></p></e> 
     <e><p><l>Ánte<s n="np"/></l><r>Antti<s n="np"/></r></p></e> 
@@ -883,12 +882,22 @@
     <e><p><l>Piera<s n="np"/></l><r>Pierâ<s n="np"/></r></p></e> 
     <e><p><l>Biera<s n="np"/></l><r>Biera<s n="np"/></r></p></e> 
     <e><p><l>Biera<s n="np"/></l><r>Pierâ<s n="np"/></r></p></e> 
+    <e><p><l>Máret<s n="np"/></l><r>Maarit<s n="np"/></r></p></e>
+    <e><p><l>Máret<s n="np"/></l><r>Máret<s n="np"/></r></p></e>
+    <e><p><l>Duommá<s n="np"/></l><r>Duommá<s n="np"/></r></p></e>
+    <e><p><l>Duommá<s n="np"/></l><r>Tyemes<s n="np"/></r></p></e>
+    <e><p><l>Juhán<s n="np"/></l><r>Juhán<s n="np"/></r></p></e>
+    <e><p><l>Juhán<s n="np"/></l><r>Juhháán<s n="np"/></r></p></e>
+    <e><p><l>Niillas<s n="np"/></l><r>Niillas<s n="np"/></r></p></e>
+    <e><p><l>Niillas<s n="np"/></l><r>Nijlâs<s n="np"/></r></p></e>
+
+    <!-- ASECTION: other proper nouns -->
+
+    <e><p><l>Biret<s n="np"/></l><r>Biret<s n="np"/></r></p></e> 
+    <e><p><l>Deatnu<s n="np"/></l><r>Tiänu<s n="np"/></r></p></e> 
+    <e><p><l>Máze<s n="np"/></l><r>Maasi<s n="np"/></r></p></e> 
     <e><p><l>Romsa<s n="np"/></l><r>Tromssa<s n="np"/></r></p></e> 
     <e><p><l>Helsset<s n="np"/></l><r>Helsig<s n="np"/></r></p></e>
-    <e><p><l>Máret<s n="np"/></l><r>Maarit<s n="np"/></r></p></e>
-    <e><p><l>Piera<s n="np"/></l><r>Pierâ<s n="np"/></r></p></e>
-    <e><p><l>Duommá<s n="np"/></l><r>Tyemes<s n="np"/></r></p></e>
-    <e><p><l>Sarvvagalba<s n="np"/><s n="sg"/></l><r>Nieidâkärigááh<s n="np"/><s n="pl"/></r></p></e>
     <e><p><l>Eurohpá<s n="np"/></l><r>Euroop<s n="np"/></r></p></e>
     <e><p><l>Norga<s n="np"/></l><r>Taažâ<s n="np"/></r></p></e>
     <e><p><l>Anár<s n="np"/></l><r>Aanaar<s n="np"/></r></p></e>

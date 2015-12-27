@@ -261,6 +261,12 @@
     <def-cat n="birra-adv">                             
       <cat-item lemma="birra" tags="adv.*"/>                    
     </def-cat>  
+    <def-cat n="nubbi">
+      <cat-item lemma="nubbi" tags="prn.*"/>
+    </def-cat>
+    <def-cat n="beallai">
+      <cat-item lemma="beallai" tags="post.*"/>
+    </def-cat>
 
     <def-cat n="sent">
       <cat-item tags="sent"/>
@@ -1495,6 +1501,28 @@
         <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let> 
 	<out>
           <chunk name="haga-po">
+            <tags>
+              <tag><lit-tag v="PP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>    
+              <clip pos="1" side="tl" part="tags"/>   
+	        </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: nubbi beallai"> <!-- rájá nuppe beallái – rääji nubebel -->
+      <pattern>
+        <pattern-item n="nubbi"/>
+        <pattern-item n="beallai"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="lemma"/><lit v="nubebel"/></let> 
+         <let><clip pos="1" side="tl" part="tags"/><lit-tag v="post"/></let> 
+        <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let> 
+	<out>
+          <chunk name="nubbibeallai">
             <tags>
               <tag><lit-tag v="PP"/></tag>
             </tags>

@@ -17,26 +17,39 @@ Write comments to forthcoming rules before this line -->
 
 
 <rules>
-  <rule weight="1.0"><match lemma="Ánne" tags="np.ant.f.attr"><select lemma="Ánne" tags="np.ant.f.attr"/></match></rule>
-  <rule weight="1.0"><match lemma="Ánne" tags="np.ant.f.sg.*"><select lemma="Ánná" tags="np.*"/></match></rule>
-  <rule weight="1.0"><match lemma="Elle" tags="np.ant.f.attr"><select lemma="Elle" tags="np.ant.f.attr"/></match></rule>
-  <rule weight="1.0"><match lemma="Elle" tags="np.ant.f.sg.*"><select lemma="Elli" tags="np.*"/></match></rule>
-  <rule weight="1.0"><match lemma="Duommá" tags="np.ant.m.attr"><select lemma="Duommá" tags="np.ant.m.attr"/></match></rule>
-  <rule weight="1.0"><match lemma="Duommá" tags="np.ant.m.sg.*"><select lemma="Tyemes" tags="np.*"/></match></rule>
-  <rule weight="1.0"><match lemma="Máret" tags="np.ant.f.attr"><select lemma="Máret" tags="np.ant.f.attr"/></match></rule>
-  <rule weight="1.0"><match lemma="Máret" tags="np.ant.f.sg.*"><select lemma="Maarit" tags="np.*"/></match></rule>
-  <rule weight="1.0"><match lemma="Máret" tags="np.ant.f.com_sggen.cmp.*"><select lemma="Maarit" tags="np.*"/></match></rule>
-  <rule weight="1.0"><match lemma="Ánde" tags="np.ant.m.attr"><select lemma="Ánde" tags="np.ant.m.attr"/></match></rule>
-  <rule weight="1.0"><match lemma="Ánde" tags="np.ant.m.sg.*"><select lemma="Antti" tags="np.*"/></match></rule>
-  <rule weight="1.0"><match lemma="Ánde" tags="np.cmp_sggen.cmp.guio"><select lemma="Antti" tags="np.*"/></match></rule>
-  <rule weight="1.0"><match lemma="Ánte" tags="np.ant.m.attr"><select lemma="Ánte" tags="np.ant.m.attr"/></match></rule>
-  <rule weight="1.0"><match lemma="Ánte" tags="np.ant.m.sg.*"><select lemma="Antti" tags="np.*"/></match></rule>
-  <rule weight="1.0"><match lemma="Máhtte" tags="np.ant.m.attr"><select lemma="Máhtte" tags="np.attr"/></match></rule>
-  <rule weight="1.0"><match lemma="Máhtte" tags="np.ant.m.sg.*"><select lemma="Matti" tags="np.*"/></match></rule>
-  <rule weight="1.0"><match lemma="Piera" tags="np.ant.m.attr"><select lemma="Piera" tags="np.attr"/></match></rule>
-  <rule weight="1.0"><match lemma="Piera" tags="np.ant.m.sg.*"><select lemma="Pierâ" tags="np.*"/></match></rule>
-  <rule weight="1.0"><match lemma="Biera" tags="np.ant.m.attr"><select lemma="Biera" tags="np.attr"/></match></rule>
-  <rule weight="1.0"><match lemma="Biera" tags="np.ant.m.sg.*"><select lemma="Pierâ" tags="np.*"/></match></rule>
+  <rule weight="0.5"><match lemma="Ánne" tags="np.*"><select lemma="Ánne"/></match></rule>
+  <rule weight="0.6"><match lemma="Ánne" tags="np.ant.f.attr.*"><select lemma="Ánne"/></match></rule>
+  <rule weight="1.0"><match lemma="Ánne" tags="np.*"><select lemma="Ánná" tags="np.*"/></match></rule>
+  <rule weight="0.5"><match lemma="Elle" tags="np.*"><select lemma="Elle"/></match></rule>
+  <rule weight="0.6"><match lemma="Elle" tags="np.ant.f.attr.*"><select lemma="Elle"/></match></rule>
+  <rule weight="1.0"><match lemma="Elle" tags="np.*"><select lemma="Elli" tags="np.*"/></match></rule>
+  <rule weight="0.5"><match lemma="Máret" tags="np.*"><select lemma="Máret"/></match></rule>
+  <rule weight="0.6"><match lemma="Máret" tags="np.ant.f.attr.*"><select lemma="Máret"/></match></rule>
+  <rule weight="1.0"><match lemma="Máret" tags="np.*"><select lemma="Maarit" tags="np.*"/></match></rule>
+  <rule weight="0.5"><match lemma="Duommá" tags="np.*"><select lemma="Duommá"/></match></rule>
+  <rule weight="0.6"><match lemma="Duommá" tags="np.ant.m.attr.*"><select lemma="Duommá"/></match></rule>
+  <rule weight="1.0"><match lemma="Duommá" tags="np.*"><select lemma="Tyemes" tags="np.*"/></match></rule>
+  <rule weight="0.5"><match lemma="Ánde" tags="np.*"><select lemma="Ánde"/></match></rule>
+  <rule weight="0.6"><match lemma="Ánde" tags="np.ant.m.attr.*"><select lemma="Ánde"/></match></rule>
+  <rule weight="1.0"><match lemma="Ánde" tags="np.*"><select lemma="Antti" tags="np.*"/></match></rule>
+  <rule weight="0.5"><match lemma="Ánte" tags="np.*"><select lemma="Ánte"/></match></rule>
+  <rule weight="0.6"><match lemma="Ánte" tags="np.ant.m.attr.*"><select lemma="Ánte"/></match></rule>
+  <rule weight="1.0"><match lemma="Ánte" tags="np.*"><select lemma="Antti" tags="np.*"/></match></rule>
+  <rule weight="0.5"><match lemma="Máhtte" tags="np.*"><select lemma="Máhtte"/></match></rule>
+  <rule weight="0.6"><match lemma="Máhtte" tags="np.ant.m.attr.*"><select lemma="Máhtte"/></match></rule>
+  <rule weight="1.0"><match lemma="Máhtte" tags="np.*"><select lemma="Matti" tags="np.*"/></match></rule>
+  <rule weight="0.5"><match lemma="Piera" tags="np.*"><select lemma="Piera"/></match></rule>
+  <rule weight="0.6"><match lemma="Piera" tags="np.ant.m.attr.*"><select lemma="Piera"/></match></rule>
+  <rule weight="1.0"><match lemma="Piera" tags="np.*"><select lemma="Pierâ" tags="np.*"/></match></rule>
+  <rule weight="0.5"><match lemma="Biera" tags="np.*"><select lemma="Biera"/></match></rule>
+  <rule weight="0.6"><match lemma="Biera" tags="np.ant.m.attr.*"><select lemma="Biera"/></match></rule>
+  <rule weight="1.0"><match lemma="Biera" tags="np.*"><select lemma="Pierâ" tags="np.*"/></match></rule>
+  <rule weight="0.5"><match lemma="Niillas" tags="np.*"><select lemma="Niillas"/></match></rule>
+  <rule weight="0.6"><match lemma="Niillas" tags="np.ant.m.attr.*"><select lemma="Niillas"/></match></rule>
+  <rule weight="1.0"><match lemma="Niillas" tags="np.*"><select lemma="Nijlâs" tags="np.*"/></match></rule>
+  <rule weight="0.5"><match lemma="Juhán" tags="np.*"><select lemma="Juhán"/></match></rule>
+  <rule weight="0.6"><match lemma="Juhán" tags="np.ant.m.attr.*"><select lemma="Juhán"/></match></rule>
+  <rule weight="1.0"><match lemma="Juhán" tags="np.*"><select lemma="Juhháán" tags="np.*"/></match></rule>
 
 
  
@@ -233,6 +246,21 @@ Write comments to forthcoming rules before this line -->
      <or><match tags="n.sem_time.*"/>
      <match tags="n.sem_measr_time.*"/></or>
   </rule>
+
+  <rule weight="1.0">
+    <match lemma="nubbi" tags="prn.*">
+      <select lemma="nubbe"/>
+    </match>
+  </rule>
+
+
+  <rule weight="1.1">
+    <match lemma="nubbi" tags="prn.ind.sg.gen.*"> <!-- rääji nubebel -->
+      <select lemma="nubebel"/>
+    </match>
+     <match lemma="beallai"/>
+  </rule>
+
 
 
 </rules>
