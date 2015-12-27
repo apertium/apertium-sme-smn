@@ -25,17 +25,18 @@ Write comments to forthcoming rules before this line -->
   <rule weight="1.0"><match lemma="Duommá" tags="np.ant.m.sg.*"><select lemma="Tyemes" tags="np.*"/></match></rule>
   <rule weight="1.0"><match lemma="Máret" tags="np.ant.f.attr"><select lemma="Máret" tags="np.ant.f.attr"/></match></rule>
   <rule weight="1.0"><match lemma="Máret" tags="np.ant.f.sg.*"><select lemma="Maarit" tags="np.*"/></match></rule>
+  <rule weight="1.0"><match lemma="Máret" tags="np.ant.f.com_sggen.cmp.*"><select lemma="Maarit" tags="np.*"/></match></rule>
   <rule weight="1.0"><match lemma="Ánde" tags="np.ant.m.attr"><select lemma="Ánde" tags="np.ant.m.attr"/></match></rule>
   <rule weight="1.0"><match lemma="Ánde" tags="np.ant.m.sg.*"><select lemma="Antti" tags="np.*"/></match></rule>
   <rule weight="1.0"><match lemma="Ánde" tags="np.cmp_sggen.cmp.guio"><select lemma="Antti" tags="np.*"/></match></rule>
   <rule weight="1.0"><match lemma="Ánte" tags="np.ant.m.attr"><select lemma="Ánte" tags="np.ant.m.attr"/></match></rule>
   <rule weight="1.0"><match lemma="Ánte" tags="np.ant.m.sg.*"><select lemma="Antti" tags="np.*"/></match></rule>
-  <rule weight="1.0"><match lemma="Máhtte" tags="np.attr"><select lemma="Máhtte" tags="np.attr"/></match></rule>
-  <rule weight="1.0"><match lemma="Máhtte" tags="np.sg.*"><select lemma="Matti" tags="np.*"/></match></rule>
-  <rule weight="1.0"><match lemma="Piera" tags="np.attr"><select lemma="Piera" tags="np.attr"/></match></rule>
-  <rule weight="1.0"><match lemma="Piera" tags="np.sg.*"><select lemma="Pierâ" tags="np.*"/></match></rule>
-  <rule weight="1.0"><match lemma="Biera" tags="np.attr"><select lemma="Biera" tags="np.attr"/></match></rule>
-  <rule weight="1.0"><match lemma="Biera" tags="np.sg.*"><select lemma="Pierâ" tags="np.*"/></match></rule>
+  <rule weight="1.0"><match lemma="Máhtte" tags="np.ant.m.attr"><select lemma="Máhtte" tags="np.attr"/></match></rule>
+  <rule weight="1.0"><match lemma="Máhtte" tags="np.ant.m.sg.*"><select lemma="Matti" tags="np.*"/></match></rule>
+  <rule weight="1.0"><match lemma="Piera" tags="np.ant.m.attr"><select lemma="Piera" tags="np.attr"/></match></rule>
+  <rule weight="1.0"><match lemma="Piera" tags="np.ant.m.sg.*"><select lemma="Pierâ" tags="np.*"/></match></rule>
+  <rule weight="1.0"><match lemma="Biera" tags="np.ant.m.attr"><select lemma="Biera" tags="np.attr"/></match></rule>
+  <rule weight="1.0"><match lemma="Biera" tags="np.ant.m.sg.*"><select lemma="Pierâ" tags="np.*"/></match></rule>
 
 
  

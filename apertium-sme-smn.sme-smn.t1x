@@ -77,7 +77,7 @@
     </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
-      <cat-item tags="n.coll.*"/>
+      <cat-item tags="n.*.coll.*"/>
       <cat-item tags="adj.der_vuohta.n.*"/>
       <cat-item tags="vblex.*.der_nomact.n.*"/>
       <cat-item tags="vblex.der_nomact.n.*"/>
@@ -712,6 +712,7 @@
       <list-item v="vihtta"/>
       <list-item v="guhtta"/>
       <list-item v="maŋgâ"/>
+      <list-item v="máŋga"/>
     </def-list>
     <def-list n="loc_verbs">
       <list-item v="hállat"/>
@@ -1090,12 +1091,13 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: npcmpnom"> <!-- Ándde-guovttos  -->
+    <rule comment="REGLA: npcmpnom"> <!-- Ándde-guovttos, does not function  -->
       <pattern>
         <pattern-item n="propcmp"/>
         <pattern-item n="nom"/>
       </pattern>
       <action>
+        <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag1"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
