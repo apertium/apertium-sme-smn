@@ -116,9 +116,13 @@
     <e><p><l>dat<s n="prn"/></l><r>tot<s n="prn"/></r></p></e>
 
     <e><p><l>mii<s n="prn"/></l><r>mii<s n="prn"/></r></p></e>
+    <e><p><l>gii<s n="prn"/><s n="itg"/></l><r>kii<s n="prn"/><s n="itg"/></r></p></e>
+    <e><p><l>gii<s n="prn"/><s n="rel"/></l><r>kote<s n="prn"/><s n="rel"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kii<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kihheen<s n="prn"/><s n="ind"/></r></p></e>
-    <e><p><l>guhte<s n="prn"/><s n="rel"/></l><r>kote<s n="prn"/><s n="rel"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/><s n="rel"/></l><r>kotemuš<s n="prn"/><s n="rel"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>kihheen<s n="prn"/><s n="ind"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>jyehi<s n="prn"/><s n="ind"/></r></p></e>
 
     <e><p><l>ieš<s n="prn"/></l><r>jieš<s n="prn"/></r></p></e>
 
@@ -226,7 +230,8 @@
     <e><p><l>dáfus<s n="post"/></l><r>tááhust<s n="post"/></r></p></e>
     <e><p><l>duogi<s n="post"/></l><r>tyehin<s n="post"/></r></p></e>
     <e><p><l>fárrui<s n="post"/></l><r>fáárun<s n="post"/></r></p></e>
-    <e><p><l>guora<s n="post"/></l><r>piällás<s n="post"/></r></p></e>
+     <e><p><l>gaskan<s n="post"/></l><r>koskân<s n="post"/></r></p></e>
+   <e><p><l>guora<s n="post"/></l><r>piällás<s n="post"/></r></p></e>
     <e><p><l>gurrii<s n="post"/></l><r>piällás<s n="post"/></r></p></e>
     <e><p><l>háldui<s n="post"/></l><r>haaldun<s n="post"/></r></p></e> <!-- not in sme -->
     <e><p><l>lusa<s n="post"/></l><r>luusâ<s n="post"/></r></p></e>
@@ -442,6 +447,7 @@
     <e><p><l>viggamuš<s n="n"/></l><r>viggâmuš<s n="n"/></r></p></e>
     <e><p><l>sisdoallu<s n="n"/></l><r>siskáldâs<s n="n"/></r></p></e>
     <e><p><l>balsa<s n="n"/></l><r>polsâ<s n="n"/></r></p></e>
+    <e><p><l>ovcceš<s n="n"/></l><r>oovcáš<s n="n"/></r></p></e>
      <e><p><l>orrunguovlu<s n="n"/></l><r>aassâmkuávlu<s n="n"/></r></p></e>
     <e><p><l>arkeologa<s n="n"/></l><r>arkeologi<s n="n"/></r></p></e>
    <e><p><l>guolbba<s n="n"/></l><r>kuolbâ<s n="n"/></r></p></e>
@@ -3434,7 +3440,6 @@
     <e><p><l>garjá<s n="n"/></l><r>vuorâččâs<s n="n"/></r></p></e>
     <e><p><l>garraláibi<s n="n"/></l><r>koškeleibi<s n="n"/></r></p></e>
     <e><p><l>gaskaidja<s n="n"/></l><r>koskâijjâ<s n="n"/></r></p></e>
-    <e><p><l>gaskan<s n="n"/></l><r>koskân<s n="n"/></r></p></e> <!-- no noun -->
     <e><p><l>gassaborgi<s n="n"/></l><r>porge<s n="n"/></r></p></e>
     <e><p><l>gavdda<s n="n"/></l><r>njuođâ<s n="n"/></r></p></e>
     <e><p><l>gavja<s n="n"/></l><r>kovjâ<s n="n"/></r></p></e>
