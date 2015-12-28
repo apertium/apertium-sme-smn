@@ -12,7 +12,7 @@ Use "tuš" when in the middle of the frase; otherwise "tuše"
 
     <e><p><l>juolludit<s n="vblex"/><s n="tv"/></l><r>mieđettiđ<s n="vblex"/></r></p></e> Not a precise equivalent; AS equivalent is more common. 
 
-    <e><p><l>sáhttit<s n="vblex"/><s n="iv"/></l><r>pyehtiđ<s n="vblex"/></r></p></e> <!-- lex selection -->
+    <e><p><l>sáhttit<s n="vblex"/><s n="iv"/></l><r>pyehtiđ<s n="vblex"/></r></p></e> 
 
 North Saami sáhttit should mainly be translated with "pyehtiđ", not with sättiđ. Sättiđ: Mun sáátám puáttiđ. 'I might come.'; Mun puávtám puáttiđ. 'I am able to come.'
 
@@ -169,7 +169,26 @@ Write comments to forthcoming rules before this line -->
     </match>
   </rule>
 
-  
+   <rule weight="1.0">
+    <match lemma="guhte" tags="prn.*">
+      <select lemma="kotemuš" tags="prn.*"/>
+    </match>
+  </rule>
+
+
+  <rule weight="0.5">
+    <match lemma="guhte" tags="prn.*">
+      <select lemma="jyehi" tags="prn.*"/>
+    </match>
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="guhte" tags="prn.*">
+      <select lemma="jyehi" tags="prn.*"/>
+    </match>
+    <match lemma="ge" tags="pcle.*"/>
+  </rule>
+ 
     <rule weight="1.0">
     <match lemma="oarjjás" tags="adv.*">
       <select lemma="viestârân" tags="adv.*"/>
