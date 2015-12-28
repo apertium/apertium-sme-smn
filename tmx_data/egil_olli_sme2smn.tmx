@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="EN-US"
+           srclang="sme-FI"
+           datatype="plaintext"/>
+   <body>
+      <tu id="1">
+         <tuv lang="sme-FI">
+            <seg>Sárdni - Suoma Sámedikki rahpamii 29. 3. 08</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Saahâ - Sämitige lekkâmjuhleest 29. 3. 2008</seg>
+         </tuv>
+      </tu>
+      <tu id="2">
+         <tuv lang="sme-FI">
+            <seg>Sámediggepresideanta Egil Olli</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sämitige saavâjođetteijee Egil Olli</seg>
+         </tuv>
+      </tu>
+      <tu id="3">
+         <tuv lang="sme-FI">
+            <seg>Gudnejahttojuvvon Presideanta, Ministtar, Ruoŧa ja Suoma sámediggepresideanttat, eará áirasat ja guossit</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kunnijâttum President, Minister, Ruotâ já Suomâ sämitigij saavâjođetteijeeh, eres jesâneh já kyesih</seg>
+         </tuv>
+      </tu>
+      <tu id="4">
+         <tuv lang="sme-FI">
+            <seg>Mun giittán bovdejumi ovddas Suoma Sámedikki rahpamii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mun kiijtám povdiimist sämitige lekkâmáid.</seg>
+         </tuv>
+      </tu>
+      <tu id="5">
+         <tuv lang="sme-FI">
+            <seg>Mun sávan iežan beales ja Norgga beale Sámedikki ovddas lihku sámedikki ođđa presidentii Klemetti Näkkäläjärvii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tuáivuttâm jieččân peeleest já Taažâ sämitige peeleest luho sämitige uđđâ saavâjođetteijei Klemetti Näkkäläjärvin.</seg>
+         </tuv>
+      </tu>
+      <tu id="6">
+         <tuv lang="sme-FI">
+            <seg>Mun háliidan maid sávvat lihku eará ođđa ja ođđasis válljejuvvon áirasiidda, ja sávan ahte dii lihkostuvašeiddet daid hástalusaiguin ja vejolašvuođaiguin mat dis leat dán áigodagas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mun halijdâm meiddei tuáivuttiđ luho eres uđđâ jesânáid já uđđâsist väljejum jesânáid, já tuáivun, et luhostuuvetteđ hástusijnâd já máhđulâšvuođâinâd, moh tist láá taam paajeest.</seg>
+         </tuv>
+      </tu>
+      <tu id="7">
+         <tuv lang="sme-FI">
+            <seg>Mis leat ollu oktasaš hástalusat ja mis sámedikkiin lea buorre ovttasbargu Sámi parlamentáralaš ráđi bokte.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mist láá ennuu ohtsiih hástuseh já sämitigij kooskâ lii šiev ohtsâšpargo Säämi parlamentaarlâš rääđi pehti.</seg>
+         </tuv>
+      </tu>
+      <tu id="8">
+         <tuv lang="sme-FI">
+            <seg>Mii leat okta álbmot ja mis lea oktasaš ássanguovlu.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mist lii ohtâ aalmug já mist lii ohtsâš aassâmkuávlu.</seg>
+         </tuv>
+      </tu>
+      <tu id="9">
+         <tuv lang="sme-FI">
+            <seg>Dan geažil lea leamaš dárbu gulahallat ovttas davviriikkalaš ja riikkaidgaskasaš forain politihkalaš oktavuođas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ton keežild lii lamaš tárbu savâstâllâđ tave-eennâmlâš já aalmugijkoskâsâš foorumijn pooliitlâš ohtâvuođâin.</seg>
+         </tuv>
+      </tu>
+      <tu id="10">
+         <tuv lang="sme-FI">
+            <seg>Sámi parlamentáralaš ráđđi ovddasta sámi álbmoga oktasaš miellaguottuid ja oainnuid dain áššiin mat gusket sámiide sihke Suomas, Ruoššas, Ruoŧas ja Norggas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Säämi parlamentaarlâš rääđi oovdâst sämiaalmug ohtsijd jurdâččemvuovijd já uáinuid tain aašijn, moh kyeskih sämmilijd nuuvt Suomâst, Ruošâst, Ruotâst já Taažâst.</seg>
+         </tuv>
+      </tu>
+      <tu id="11">
+         <tuv lang="sme-FI">
+            <seg>Sámi parlamentáralaš ráđđi lea šaddan rájárastá sámi politihkalaš orgánan mas lea stuorra vejolašvuohta.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Säämi parlamentaarlâš rääđist lii šoddâm raajijd rastaldittee säämi poolitlâš orgaan, mast láá šiev toimâmmáhđulâšvuođah.</seg>
+         </tuv>
+      </tu>
+      <tu id="12">
+         <tuv lang="sme-FI">
+            <seg>Mis lea áigumuš viidáset ain buoridit min ovttasbarggu.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mist lii uáivilin pyerediđ ain-uv ohtsâšpargom.</seg>
+         </tuv>
+      </tu>
+      <tu id="13">
+         <tuv lang="sme-FI">
+            <seg>Sámegiela oktavuođas leat mis oktasaš hástalusat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sämikielâ ohtâvuođâst mist láá ohtsiih hástuseh.</seg>
+         </tuv>
+      </tu>
+      <tu id="14">
+         <tuv lang="sme-FI">
+            <seg>Sámedikkiid áigumuš lea ovttasráđiid ovddidit sámegiela.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sämitige juurdân lii ohtsâštoimâguin ovdediđ sämikielâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="15">
+         <tuv lang="sme-FI">
+            <seg>Mii leat bargagoahtán sámi giellabarggu oktasaš organiseremiin movt dat galggašii doaibmat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij lep porgâškuáttám sämikielâ ohtsâšpargo organistem ohtâvuođâst.</seg>
+         </tuv>
+      </tu>
+      <tu id="16">
+         <tuv lang="sme-FI">
+            <seg>Mii áigut strategiijaid ráhkadeami bokte geahčadit sámegiela dutkan- ja fágaguovddáža ásaheami.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij áigup strategiai rähtim pehti árvuštâllâđ sämikielâ tutkâm- já äššitubdâmkuávdáá vuáđudem.</seg>
+         </tuv>
+      </tu>
+      <tu id="17">
+         <tuv lang="sme-FI">
+            <seg>Dát lea deaŧalaš vai mii ovdánivččiimet min ovttasbargguin ja strategiijaiguin sámegiela ektui.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Taat lii tehálâš, vâi mij ovdáničijm ohtsâšpargoinâm já strategiainâm sämikielâ uásild.</seg>
+         </tuv>
+      </tu>
+      <tu id="18">
+         <tuv lang="sme-FI">
+            <seg>Min ulbmilin lea oažžut sámegiela ahtanuššat ja ovdánit.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mii uáivilin lii finniđ ááigán sämikielâ ovdánem.</seg>
+         </tuv>
+      </tu>
+      <tu id="19">
+         <tuv lang="sme-FI">
+            <seg>Vaikko vel oaidnitge positiivvalaš ovdáneami, de leat ain dakkár sámi giellajoavkkut mat leat áitojuvvon.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Veikkâ mij uáinip-uv positiivlâš ovdánem, te ain-uv láá tagareh sämikielâjuávhuh moh láá aštum.</seg>
+         </tuv>
+      </tu>
+      <tu id="20">
+         <tuv lang="sme-FI">
+            <seg>Dán oktavuođas ferte erenoamážit áŋgiruššat jos gielain galggaš leat boahtteáigi.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Eromâšávt taam ääšist ferttee rooččâđ, jis kielâin kalga leđe puátteevuotâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="21">
+         <tuv lang="sme-FI">
+            <seg>Sámedikkiin dat lea ovddasvástádus bidjat fuomášumi giela ovddideapmái.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sämitiggeest lii ovdâsvástádâs tast, et kiddejuvvoo huámášume kielâaašij ovdánmân.</seg>
+         </tuv>
+      </tu>
+      <tu id="22">
+         <tuv lang="sme-FI">
+            <seg>Seammás lea stáhtain ovddasvástádus juolludit doarvái ruđaid sámegiela hálddašeapmái.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Siämmást lii meiddei staatâst ovdâsvástádâs kelijdeijee ruttâdem mieđeetmist kielâ oovdedmân.</seg>
+         </tuv>
+      </tu>
+      <tu id="23">
+         <tuv lang="sme-FI">
+            <seg>Giela ferte nannet lágaid bokte, nu ahte lea vejolaš bargat dohkálaš giellabarggu ja giellaovddideami.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kielâ ferttee nanodiđ laavâi pehti nuuvt et lii máhđulâšvuotâ porgâđ kelijdeijee kielâpargo já kielâaašij ovdedem.</seg>
+         </tuv>
+      </tu>
+      <tu id="24">
+         <tuv lang="sme-FI">
+            <seg>Dain stáhtain gos sámit ásset leat eiseválddit geatnegahttojuvvon riikkaidgaskasaš konvenšuvnnaid bokte earret eará sihkkarastit dárbbašlaš váikkuhangaskaomiid sámegiela várás.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tain enâmijn, main ässiih sämmiliih, láá virgeomâheh kenigâsvuođâst eres lasseen turviđ tárbulijd vaikuttemmáhđulâšvuođâid sämikielâ várás aalmugijkoskâsâš sopâmusâi vuáđuld.</seg>
+         </tuv>
+      </tu>
+      <tu id="25">
+         <tuv lang="sme-FI">
+            <seg>Media lea deaŧalaš oassi sámi servodagas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Media lii tehálâš uásist säämi siärváduvâst.</seg>
+         </tuv>
+      </tu>
+      <tu id="26">
+         <tuv lang="sme-FI">
+            <seg>Mun oaivvildan ahte mii fertet áŋgirit bargat dainna ahte Yle Sámi Radio, SR Sámi Radio ja NRK Sámi Radio ain ožžot ovdánanvejolašvuođaid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Uáivildâm tom, et mij kolgâp korrâsávt porgâđ tom peeleest, et Yle sämiradio, SR sämiradio já NRK sämiradio finnejeh täst oovdâs-uv ovdánemmáhđulâšvuođâid.</seg>
+         </tuv>
+      </tu>
+      <tu id="27">
+         <tuv lang="sme-FI">
+            <seg>Mii fertet oččodit Guoládaga Sámi Radio bissovaš ortnegin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij kolgâp viggâđ toos, et finnip Kuáláduv sämiradio pisovâžžân.</seg>
+         </tuv>
+      </tu>
+      <tu id="28">
+         <tuv lang="sme-FI">
+            <seg>Sámegiel TV-sáddagat Norggas, Ruoŧas ja Suomas leat deaŧalaččat sámi giela ja kultuvrra ahtanuššamii ja ovdan buktimii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sämikielâlâš TV-vuolgâttâsah Taažâst, Ruotâst já Suomâst láá teháliih sämikielâ já kulttuur ovdánmân já uáinusân pyehtimân.</seg>
+         </tuv>
+      </tu>
+      <tu id="29">
+         <tuv lang="sme-FI">
+            <seg>Dan lassin mis leat oktasaš hástalusat sámegiela oahpaheamis mánáide ja nuoraide.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ton lasseen mist láá ohtsiih hástuseh sämikielâ máttáátmist párnáid já nuoráid.</seg>
+         </tuv>
+      </tu>
+      <tu id="30">
+         <tuv lang="sme-FI">
+            <seg>Mii háliidit ahte buot sámi mánáin, beroškeahttá ássanbáikkis, galget leat ovttalágan vejolašvuođat oahppat giela.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij halijdep, et puohâin sämipárnáin, aassâmpääihist peerusthánnáá, kalgeh leđe siämmáálágáneh máhđulâšvuođah oppâđ kielâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="31">
+         <tuv lang="sme-FI">
+            <seg>Dán geažil lea earret eará dárbu bálddastahttit mánáidgárde- ja skuvlafálaldagaid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ton keežild lii eres lasseen tárbu oovtnálásittiđ peivikiäčču- já škovlimmáhđulâšvuođâid.</seg>
+         </tuv>
+      </tu>
+      <tu id="32">
+         <tuv lang="sme-FI">
+            <seg>Mii dárbbašit ovdamearkka dihtii eanet sámegielat ovdaskuvlaoahpaheddjiid ja oahpaheddjiid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij tarbâšep ovdâmerkkân párnáikärdimáttáátteijeid já škovlâmáttáátteijeid eenâb.</seg>
+         </tuv>
+      </tu>
+      <tu id="33">
+         <tuv lang="sme-FI">
+            <seg>Mis lea maiddái doaivva ahte mii fargga oažžut sierra davviriikkalaš sámekonvenšuvnna.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mist lii meiddei tuoivâ, et mij forgâ finnip sierânâs tave-eennâmlâš sämmilâšsopâmuš.</seg>
+         </tuv>
+      </tu>
+      <tu id="34">
+         <tuv lang="sme-FI">
+            <seg>Dát bargu lea juo bistán badjel 20 jagi.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Taat pargo lii pištám juo paijeel 20 ihheed.</seg>
+         </tuv>
+      </tu>
+      <tu id="35">
+         <tuv lang="sme-FI">
+            <seg>Konvenšuvdna sáhttá earret eará doaibmat dehálaš vuođđun sámi giellabargui ja sámi vuoigatvuođabargui oppalaččat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sopâmuš puáhtá eres lasseen toimâđ tehálâš vuáđđun sämikielâ ohtsâšpaargon já vuoigâdvuođâpaargon ubâlâšvuođâstis.</seg>
+         </tuv>
+      </tu>
+      <tu id="36">
+         <tuv lang="sme-FI">
+            <seg>Oktasaš davviriikkalaš sámekonvenšuvdna dahká vejolažžan:</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ohtsâš tave-eennâmlâš sämmilâšsopâmuš taha máhđulâžžân:</seg>
+         </tuv>
+      </tu>
+      <tu id="37">
+         <tuv lang="sme-FI">
+            <seg>- válddahallat stáhta geatnegasvuođaid sámi álbmoga ektui</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- miärustâllâđ staatâ kenigâsvuođâid sämiaalmug háárán</seg>
+         </tuv>
+      </tu>
+      <tu id="38">
+         <tuv lang="sme-FI">
+            <seg>- loktet Sámi parlamentáralaš ráđi ovttasbarggu árvvu</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- luptiđ Säämi parlamentaarlâš rääđi áárvu</seg>
+         </tuv>
+      </tu>
+      <tu id="39">
+         <tuv lang="sme-FI">
+            <seg>- duddjot oktasaš ja nana gaskaoami rájárastá sámepolitihkalaš ovttasbargui viidáseappot.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- rähtiđ ohtsii já noonâ raajijd rasdaldittee tyejiniävu sämmilâšohtsâšpargo várás vijđásubboht-uv.</seg>
+         </tuv>
+      </tu>
+      <tu id="40">
+         <tuv lang="sme-FI">
+            <seg>Hástalusat leat ollu ja dehálaččat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Teháliih hástuseh láá ennuu.</seg>
+         </tuv>
+      </tu>
+      <tu id="41">
+         <tuv lang="sme-FI">
+            <seg>Buot sámedikkit galget oččodit iežaset riikka eiseválddiid buoridit sámi álbmoga eallindili.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Puoh sämitigeh kalgeh viggâđ toos, et jieijâs riijkâi virgeomâheh pyeredeh sämmilij eellimitile.</seg>
+         </tuv>
+      </tu>
+      <tu id="42">
+         <tuv lang="sme-FI">
+            <seg>Doaivvun ahte dán barggus livččii ávki min dehálaš ovttasbargui Sámi parlamentáralaš ráđis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tuáivum taam pargoost lemin ävkki mii ohtsâšpaargon Säämi parlamentaarlâš ráđádâlmist.</seg>
+         </tuv>
+      </tu>
+      <tu id="43">
+         <tuv lang="sme-FI">
+            <seg>Sávan lihku Suoma beale Sámedikki rahpamii ja dán válgaáigodahkii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tuáivuttâm luho Suomâ sämitige lekkâmáid já taan vaaljâpajan.</seg>
+         </tuv>
+      </tu>
+      <tu id="44">
+         <tuv lang="sme-FI">
+            <seg>Giitu beroštumis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Takkâ mielâkiddiivâšvuođâst.</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>
