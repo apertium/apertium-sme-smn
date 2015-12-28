@@ -436,6 +436,13 @@
     <!-- ASECTION: Nouns -->  
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
+    <e><p><l>vehádatgiella<s n="n"/></l><r>ucceeblovokielâ<s n="n"/></r></p></e>
+    <e><p><l>gievvun<s n="n"/></l><r>kiävulem<s n="n"/></r></p></e>
+    <e><p><l>buozanvuohta<s n="n"/></l><r>puácuvuotâ<s n="n"/></r></p></e>
+    <e><p><l>linjábiila<s n="n"/></l><r>linjášauto<s n="n"/></r></p></e>
+    <e><p><l>fárrendoarjja<s n="n"/></l><r>varrimtoorjâ<s n="n"/></r></p></e>
+    <e><p><l>heahpatvuohta<s n="n"/></l><r>heeppâdvuotâ<s n="n"/></r></p></e>
+    <e><p><l>viggamuš<s n="n"/></l><r>viggâmuš<s n="n"/></r></p></e>
     <e><p><l>sisdoallu<s n="n"/></l><r>siskáldâs<s n="n"/></r></p></e>
     <e><p><l>balsa<s n="n"/></l><r>polsâ<s n="n"/></r></p></e>
      <e><p><l>orrunguovlu<s n="n"/></l><r>aassâmkuávlu<s n="n"/></r></p></e>
@@ -1949,7 +1956,9 @@
 
     <!-- SECTION: Verbs -->
 
-    <e><p><l>sibildit<s n="vblex"/><s n="tv"/></l><r>narriđ<s n="vblex"/></r></p></e> 
+    <e><p><l>sibildit<s n="vblex"/><s n="tv"/></l><r>vigâttiđ<s n="vblex"/></r></p></e> 
+    <e><p><l>loddet<s n="vblex"/><s n="iv"/></l><r>loddiđ<s n="vblex"/></r></p></e> 
+    <e><p><l>gáfestallat<s n="vblex"/><s n="iv"/></l><r>káhvástâllâđ<s n="vblex"/></r></p></e> 
     <e><p><l>čatnasit<s n="vblex"/><s n="iv"/></l><r>čonâsiđ<s n="vblex"/></r></p></e> 
     <e><p><l>vuođđuduvvat<s n="vblex"/><s n="iv"/></l><r>vuáđuduđ<s n="vblex"/></r></p></e> 
     <e><p><l>cegget<s n="vblex"/><s n="tv"/></l><r>cegâttiđ<s n="vblex"/></r></p></e>
