@@ -11,7 +11,17 @@
       <cat-item lemma="gii" tags="prn.ind.*"/>
       <cat-item lemma="mii" tags="prn.ind.*"/>
     </def-cat>
-     <def-cat n="gencompl">
+      <def-cat n="obj_l">
+      <cat-item tags="*.@OBJ→"/>
+      <cat-item tags="n.*.@OBJ→"/>
+    </def-cat>
+      <def-cat n="giittos">
+      <cat-item lemma="giittos" tags="n.*"/>
+    </def-cat>
+      <def-cat n="eatnat">
+      <cat-item lemma="eatnat" tags="adv.*"/>
+    </def-cat>
+    <def-cat n="gencompl">
       <cat-item tags="n.*.*.gen.*"/>
       <cat-item tags="n.*.gen.*"/>
       <cat-item tags="prn.*.*.gen.*"/>
@@ -84,11 +94,42 @@
       <cat-item tags="*.@-FMAINV"/>
     </def-cat>
     <def-cat n="nom">
-      <cat-item tags="n.*"/>
-      <cat-item tags="n.*.coll.*"/>
-      <cat-item tags="adj.der_vuohta.n.*"/>
-      <cat-item tags="vblex.*.der_nomact.n.*"/>
-      <cat-item tags="vblex.der_nomact.n.*"/>
+      <cat-item tags="*.n.*.@←ADVL"/>
+      <cat-item tags="*.n.*.@ADVL→"/>
+      <cat-item tags="*.n.*.@SUBJ→"/>
+      <cat-item tags="*.n.*.@←SUBJ"/>
+      <cat-item tags="*.n.*.@SPRED→"/>
+      <cat-item tags="*.n.*.@←SPRED"/>
+      <cat-item tags="*.n.*.@OPRED→"/>
+      <cat-item tags="*.n.*.@←OPRED"/>
+      <cat-item tags="*.n.*.@←OBJ"/>
+      <cat-item tags="*.n.*.@P←"/>
+      <cat-item tags="*.n.*.@P→"/>
+      <cat-item tags="*.n.*.@X"/>
+      <cat-item tags="n.*.@ADVL→"/>
+      <cat-item tags="n.*.@←ADVL"/>
+      <cat-item tags="n.*.@SUBJ→"/>
+      <cat-item tags="n.*.@←SUBJ"/>
+      <cat-item tags="n.*.@SPRED→"/>
+      <cat-item tags="n.*.@←SPRED"/>
+      <cat-item tags="n.*.@OPRED→"/>
+      <cat-item tags="n.*.@←OPRED"/>
+      <cat-item tags="n.*.@←OBJ"/>
+      <cat-item tags="n.*.@P←"/>
+      <cat-item tags="n.*.@P→"/>
+      <cat-item tags="n.*.@X"/>
+<!--      <cat-item tags="adj.der_vuohta.n.*.@SUBJ→"/>
+      <cat-item tags="adj.der_vuohta.n.*.@←SUBJ"/>
+      <cat-item tags="adj.der_vuohta.n.*.@←OBJ"/>
+      <cat-item tags="adj.der_vuohta.n.*.@X"/>
+      <cat-item tags="vblex.*.der_nomact.n.*.@←SUBJ"/>
+      <cat-item tags="vblex.*.der_nomact.n.*.@SUBJ→"/>
+      <cat-item tags="vblex.*.der_nomact.n.*.@←OBJ"/>
+      <cat-item tags="vblex.*.der_nomact.n.*.@X"/>
+      <cat-item tags="vblex.der_nomact.n.*.@←SUBJ"/>
+      <cat-item tags="vblex.der_nomact.n.*.@←OBJ"/>
+      <cat-item tags="vblex.der_nomact.n.*.@SUBJ→"/>
+      <cat-item tags="vblex.der_nomact.n.*.@X"/> -->
     </def-cat>
     <def-cat n="word">
       <cat-item tags="n.*"/>
@@ -130,7 +171,9 @@
       <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/>                    
       <cat-item lemma="muhtun" tags="prn.ind.attr.*"/> 
       <cat-item lemma="buot" tags="prn.ind.attr.*"/>
-      <cat-item lemma="makkár" tags="prn.ind.attr.*"/>
+      <cat-item lemma="makkár" tags="prn.ind.*"/>
+      <cat-item lemma="makkár" tags="prn.itg.*"/>
+      <cat-item lemma="guhtemuš" tags="prn.itg.*"/>
     </def-cat>  
     <def-cat n="hupmat-v">                             
       <cat-item lemma="hupmat" tags="vblex.*"/>                    
@@ -524,7 +567,7 @@
       <attr-item tags="sem_obj-clo"/>
       <attr-item tags="sem_obj-cogn"/>
       <attr-item tags="sem_obj-el"/>
-      <attr-item tags="sem_obj-ling"/>
+      <attr-item tags="sem_obj_ling"/>
       <attr-item tags="sem_obj-play"/>
       <attr-item tags="sem_obj-play_sport"/>
       <attr-item tags="sem_obj-rope"/>
@@ -704,6 +747,7 @@
     <def-var n="current_verb"/>
     <def-var n="adpos_chunk_name"/>
     <def-var n="feara_chunk_name"/>
+    <def-var n="object"/>
   </section-def-vars>
 
   <section-def-lists>
@@ -1040,10 +1084,13 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
-        <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>
-        <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
+      <choose><when>
+      <test><not><equal><clip pos="1" side="tl" part="a_func"/><lit-tag v="@OBJ→"/></equal></not></test> 
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>
+        <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
+              </when></choose>
         <out>
           <chunk name="nom" case="caseFirstWord">
             <tags>
@@ -1056,6 +1103,29 @@
         </out>
       </action>
     </rule>
+    <rule comment="REGLA: OBJ to left">
+      <pattern>
+        <pattern-item n="obj_l"/>
+      </pattern>
+      <action>
+        <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+         <let><var n="object"/><lit v="obj_l"/></let>
+        <out>
+          <chunk namefrom="object" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
     <rule comment="REGLA: nnomcmp">
       <pattern>
         <pattern-item n="nnomcmp"/>
@@ -2092,6 +2162,32 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: buorre attr"> <!-- Giittos eatnat  -->                                            
+      <pattern>                                        
+        <pattern-item n="giittos"/>                 
+        <pattern-item n="eatnat"/>                   
+      </pattern>     
+      <action>
+        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="n.sg.acc"/></let> 
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
+       <out>
+          <chunk name="noun-adv">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>    
+		    </lu>
+		    <b/>
+	        <lu>
+              <clip pos="2" side="tl" part="whole"/>   
+		    </lu>
+          </chunk>
+        </out>
+        
+      </action>                                  
+    </rule> 
 
 
     <rule comment="REGLA: SENT">
