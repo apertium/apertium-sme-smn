@@ -26,6 +26,7 @@
    <sdef n="foc_sun"      c="clitic sun"/>
     <sdef n="foc_ge"       c="clitic ge"/>
     <sdef n="foc_uv"       c="clitic -uv"/>
+    <sdef n="foc_nii"       c="clitic nii"/>
     <sdef n="qst"       c="clitic qst"/>
     <sdef n="foc_gas"      c="clitic gas"/>
     <sdef n="foc_ges"      c="clitic ges"/>
@@ -278,6 +279,7 @@
     <e><p><l>hal<s n="pcle"/></l><r>hân<s n="foc_han"/></r></p></e>
     <e><p><l>han<s n="pcle"/></l><r>hân<s n="foc_han"/></r></p></e>
     <e><p><l>nai<s n="pcle"/></l><r>-uv<s n="foc_uv"/></r></p></e>
+    <e><p><l>nu<s n="pcle"/></l><r>nii<s n="foc_nii"/></r></p></e>
     <e><p><l>son<s n="pcle"/></l><r>sun<s n="foc_sun"/></r></p></e>
 
     <!-- ASECTION: Adverbs -->

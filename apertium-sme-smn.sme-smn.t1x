@@ -85,6 +85,7 @@
       <cat-item lemma="nai" tags="pcle.*"/>
       <cat-item lemma="son" tags="pcle.*"/>
       <cat-item lemma="go" tags="pcle.*"/>
+      <cat-item lemma="nu" tags="pcle.*"/>
     </def-cat>
    <def-cat n="buorre">
       <cat-item lemma="buorre" tags="adj.*.@→N"/>
@@ -738,6 +739,7 @@
        <attr-item tags="foc_hal"/>
        <attr-item tags="foc_uv"/>
        <attr-item tags="foc_ge"/>
+       <attr-item tags="foc_nii"/>
   </def-attr>
 
   </section-def-attrs>
@@ -1044,6 +1046,14 @@
           </test>
           <let><clip pos="1" side="tl" part="tags"/><concat>
           <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_han"/></concat>
+          </let> 
+        </when>
+        <when>
+          <test>
+               <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_nii"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="tags"/><concat>
+          <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_nii"/></concat>
           </let> 
         </when>
         <when>
