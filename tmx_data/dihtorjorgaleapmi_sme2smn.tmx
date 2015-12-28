@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="EN-US"
+           srclang="sme-FI"
+           datatype="plaintext"/>
+   <body>
+      <tu id="1">
+         <tuv lang="sme-FI">
+            <seg>Dihtorjorgaleami hástalusat – Davvisámegielas anárašgillii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tiätumaašinjurgâlem háástuh – Orjâlâškielâst anarâškielân.</seg>
+         </tuv>
+      </tu>
+      <tu id="2">
+         <tuv lang="sme-FI">
+            <seg>Anárašgiela jorgaleami váldodárbbut ihtet eandalitge Sámi giellalága ja skuvlla oahpahandárbbuid bokte.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Anarâškielâ jurgâlem váldutáárbuh iteh eromâšávt Sämi kielâlaavâ já škoovlâ máttááttâstáárbui peht.</seg>
+         </tuv>
+      </tu>
+      <tu id="3">
+         <tuv lang="sme-FI">
+            <seg>Sámi giellalága geažil Anára gieldda ja Sámedikki virggálaš teavsttat jorgaluvvojit buot golmma sámegillii, maiddái anárašgillii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sämi kielâlaavâ keežild Aanaar kieldâ já Sämitige virgáliih teevstah jurgâluvvojeh puoh kuulmâ sämikielân, meiddei anarâškielân.</seg>
+         </tuv>
+      </tu>
+      <tu id="4">
+         <tuv lang="sme-FI">
+            <seg>Anárašgiela jorgaleaddji jorgala dábálaččat oanehis virggálaš teavsttaid, dego beavdegirjjiid ja almmuhusaid ja muhtin veardde Sámedikki siskkáldas teavsttaid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Anarâškielâ jurgâleijee jurgâl táválávt uánihâš virgálâš teevstâid tego pevdikiirjijd já almottâsâid já mottoom verd Sämitige siskáldâs teevstâid.</seg>
+         </tuv>
+      </tu>
+      <tu id="5">
+         <tuv lang="sme-FI">
+            <seg>Muhtumin maiddái eará lágádusat diŋgojit jorgalusaid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Motomin meiddei eres lágádâsah tiilájeh jurgâlusâid.</seg>
+         </tuv>
+      </tu>
+      <tu id="6">
+         <tuv lang="sme-FI">
+            <seg>Stuorámus jorgalandárbu lea oahppomateriála jorgaleamis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Stuárráámus jurgâlemtárbu lii oppâmateriaal jurgâlmist.</seg>
+         </tuv>
+      </tu>
+      <tu id="7">
+         <tuv lang="sme-FI">
+            <seg>Oahppomateriála ráhkadeapmi lea jođáneamos ja hálbbimus jorgalemiin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Oppâmateriaal rähtim lii jotelumos já hälbimus jurgâlmáin.</seg>
+         </tuv>
+      </tu>
+      <tu id="8">
+         <tuv lang="sme-FI">
+            <seg>Dán bargui ii leat fásta jorgaleaddji.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Taan paargon ij lah fastâ jurgâleijee.</seg>
+         </tuv>
+      </tu>
+      <tu id="9">
+         <tuv lang="sme-FI">
+            <seg>Go leat dušše 450 anársámegielaga ja go giela buorit čállit eai leat go moattelogis, lea váttis gávdnat jorgaleddjiid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ko láá tuše 450 kielâsárnod já ko kielâst láá šiev čälleeh tuse muáddiloves, lii väädis kavnâđ jurgâleijeid.</seg>
+         </tuv>
+      </tu>
+      <tu id="10">
+         <tuv lang="sme-FI">
+            <seg>Dáid sivaid dihte lea stuorra dárbu nannet jorgaleami beaktilvuođa.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tai suujâi tiet lii stuorrâ tárbu nonniđ jurgâlem pehtilvuođâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="11">
+         <tuv lang="sme-FI">
+            <seg>Min oainnu mielde lea vejolaš jorgalit davvisámegielat oahppogirjjiid anárašgillii nu, ahte jorgaleaddji veahkkin boahtá dihtorjorgalanprográmma.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mii uáinu mield lii máhđulâš jurgâliđ oppâkiirjijd orjâlâškielâst anarâškielân nuuvt, et jurgâleijee iššeen váldoo tiätumaašinjurgâlemohjelm.</seg>
+         </tuv>
+      </tu>
+      <tu id="12">
+         <tuv lang="sme-FI">
+            <seg>Mii leat ráhkadeamen dihtorjorgalanprográmma davvisámegielas anárašgillii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij lep rähtimin tiätumaašinjurgâlemohjelm orjâlâškielâst anarâškielân.</seg>
+         </tuv>
+      </tu>
+      <tu id="13">
+         <tuv lang="sme-FI">
+            <seg>Dán sáhttá geavahit ávkin guktuid ovdal máinnašuvvon jorgalandárbbuide.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tom puáhtá kevttiđ ävkkin kuohtuin oovdeld mainâšum jurgâlemtáárbuin.</seg>
+         </tuv>
+      </tu>
+      <tu id="14">
+         <tuv lang="sme-FI">
+            <seg>Máilmmis dábálaččamusat geavahuvvo statistihkalaš dihtorjorgaleapmi (omd. Google Translate).</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Maailmist kiävttoo táválumosávt statistiiklâš tiätumaašinjurgâlem (om. Google Translate).</seg>
+         </tuv>
+      </tu>
+      <tu id="15">
+         <tuv lang="sme-FI">
+            <seg>Guovttegielalaš teavsttain vuogádat ohcá cealkkaosiid mat statisttalaččat attášedje buoremus jorgalusa.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kyevtkielâg teevstâin vuáhádâh ocá celkkuuoosijd, moh statistlávt adeliččii pyeremuu jurgâlus.</seg>
+         </tuv>
+      </tu>
+      <tu id="16">
+         <tuv lang="sme-FI">
+            <seg>Analyhtalaš giellapárrii gáibiduvvo guovttegielalaš teakstačoakkáldat mas leat 10 milj. sáni dahje eanet, sámegielaide olu eanet.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Analyytlii kielâpaargân váttoo kyevtkielâg tekstâčuágáldâh, mast láá 10 miljovn säännid teikâ eenâb, sämikieláid čuuvtij eenâb.</seg>
+         </tuv>
+      </tu>
+      <tu id="17">
+         <tuv lang="sme-FI">
+            <seg>Dan dihte mii bargat njuolggadusvuđot vuogádagain, Apertiumain, mii vuođđuduvvo lingvisttalaš bargui; gáldogiella analyserejuvvo, sániid vuođđohámit jorgaluvvojit ja de cealkagat genererejuvvojit jovssusgillii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tondiet mij porgâp njuolgâdusvuáđusâš vuáháduvváin, Apertiumáin, mii vuáđuduvá lingvistlii paargon; käldeekielâ analistoo, saanij vuáđuhäämih jurgâluvvojeh já celkkuuh generistojeh puátukielân.</seg>
+         </tuv>
+      </tu>
+      <tu id="18">
+         <tuv lang="sme-FI">
+            <seg>Njuolggadusvuđot jorgaleapmi gáibida stuorra guovttegielalaš sátnelisttuid, muhto goallossániid ja suorggádusaid sáhttá ráhkadit anárašgillii seamma minstara mielde go davvisámegillii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Njuolgâdusvuáđusâš jurgâlem váátá viijđes kyevtkielâg sänilistoid, mut kuálussaanijd já suárgusijd puáhtá rähtiđ anarâškielân siämmáá myenster mield ko orjâlâškielân.</seg>
+         </tuv>
+      </tu>
+      <tu id="19">
+         <tuv lang="sme-FI">
+            <seg>Danne go gielain leat goabbatlágan čállinvuogit, de fertejit maiddái buot loatnasánit leat leksikonas, nu ahte ii leat doarvái dušše rievdadit sojahangehčosa.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tondiet ko kielâin láá jieijâslágán čäällimvyevih, ferttejeh meiddei puoh lovnâsäänih leđe leksikkost, nuuvt et ij lah tuárvi, jis muttá tuše sujâttemkiäččus.</seg>
+         </tuv>
+      </tu>
+      <tu id="20">
+         <tuv lang="sme-FI">
+            <seg>Davvisámegielas ja anárašgielas leat seamma morfologalaš kategoriijat ja sullii seammalágan suorggádusat, ja lea álki fievrridit sojaheami ja suorggideami gielas nubbái.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Orjâlâškielâst já anarâškielâst láá siämmááh morfologisiih kategoriah já suullân siämmáálágáneh suárguseh, nuuvt et lii älkkee sirdeđ sujâttem já suorgiittem kielâst nuubán.</seg>
+         </tuv>
+      </tu>
+      <tu id="21">
+         <tuv lang="sme-FI">
+            <seg>Syntáksa lea stuorimus hástalus dihtorjorgaleamis, muhto njuolggadusaid bokte sáhttá rievdadit sániid iešvuođaid, nugo kásusa ja logu, ja sáhttá maiddái muhtun muddui rievdadit sátneortnega.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Syntaks lii stuárráámus hástu tiätumaašinjurgâlmist, mut njuolgâdusâi peht puáhtá mutteđ saanij jiešvuođâid tego sajehäämi já lovo, já puáhtá meiddei mottoom muudon mutteđ sänioornig.</seg>
+         </tuv>
+      </tu>
+      <tu id="22">
+         <tuv lang="sme-FI">
+            <seg>Mii leat álgán čoavdit dákkár dáhpáhusaid, ja ovdanbuktimis mii áigut erenoamážit árvvoštallat das, leago erohus, man bures min vuogádat máhttá jorgalit Suoma ja Norgga bealde čállojuvvon teavsttaid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij lep čuávdiškuáttám tágárijd tábáhtusâid, já sahâvuárustân mij áigup eromâšávt vuáijuđ toos, lii-uv iäru tast, mon pyereest min vuáhádâh máttá jurgâliđ Suomâ já Taažâ peln čaallum teevstâid.</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>
