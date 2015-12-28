@@ -1,36 +1,23 @@
 <!-- Write comments to forthcoming rules after this line
+mánáidmánná -  áddjái: áijuh ja áhkkui: ákkuv
 
-  <e><p><l>mánáidmánná<s n="n"/></l><r>áijuh<s n="n"/></r></p></e> áddjái
-    <e><p><l>mánáidmánná<s n="n"/></l><r>ákkuv<s n="n"/></r></p></e> áhkkui
+dušše: Use "tuš" when in the middle of the frase; otherwise "tuše"  
 
-
-    <e><p><l>dušše<s n="adv"/></l><r>tuše<s n="adv"/></r></p></e>
-    <e><p><l>dušše<s n="adv"/></l><r>tuš<s n="adv"/></r></p></e>
-Use "tuš" when in the middle of the frase; otherwise "tuše" 
-
-    <e><p><l>gárggiidit<s n="vblex"/><s n="tv"/></l><r>jottáđ<s n="vblex"/></r></p></e> Not a precise equivalent; ; AS equivalent is more common.
-
-    <e><p><l>juolludit<s n="vblex"/><s n="tv"/></l><r>mieđettiđ<s n="vblex"/></r></p></e> Not a precise equivalent; AS equivalent is more common. 
-
-    <e><p><l>sáhttit<s n="vblex"/><s n="iv"/></l><r>pyehtiđ<s n="vblex"/></r></p></e> 
-
+sáhttit
 North Saami sáhttit should mainly be translated with "pyehtiđ", not with sättiđ. Sättiđ: Mun sáátám puáttiđ. 'I might come.'; Mun puávtám puáttiđ. 'I am able to come.'
 
-<e><p><l>beassat<s n="vblex"/><s n="iv"/></l><r>peessâđ<s n="vblex"/></r></p></e>
-Very often the counterpart can be peessâđ, especially in cases when one is able to come / go / get in somewhere. This is the most common case.
-
+beassat
+Very often the counterpart can be "peessâđ", especially in cases when one is able to come / go / get in somewhere. This is the most common case.
 However, when one has a permission to do something, one should/could prefer uážžuđ. 
 Son beasai luohkkálanjas muitalit sámi ivnniid birra. - uážui
 S/he had the permission
-
 translation "peesâi" could be possible, in case that the person was able to come to the classroom; 
-
 translation "pyehtiđ" could be possible in the case that he was somehow able to tell his story.
-
 Choosing a proper counterpart is difficult, though. 
 
-
-
+Not a precise equivalent: 
+gárggiidit  jottáđ  Not a precise equivalent; ; AS equivalent is more common.
+juolludit  mieđettiđ  Not a precise equivalent; AS equivalent is more common. 
 
 Write comments to forthcoming rules before this line -->
 
@@ -70,14 +57,13 @@ Write comments to forthcoming rules before this line -->
   <rule weight="0.6"><match lemma="Juhán" tags="np.ant.m.attr.*"><select lemma="Juhán"/></match></rule>
   <rule weight="1.0"><match lemma="Juhán" tags="np.*"><select lemma="Juhháán" tags="np.*"/></match></rule>
 
+  <rule weight="1.0"><match lemma="mánáidmánná" tags="n.*"><select lemma="párnáipáárnáš" tags="n.*"/></match></rule>
+  <rule weight="0.5"><match lemma="mánáidmánná" tags="n.*"><select lemma="ákkuv"/></match></rule>
+  <rule weight="0.6"><match tags="np.ant.f.*"/><match lemma="mánáidmánná" tags="n.*"><select lemma="ákkuv"/></match></rule> <!-- Ááná ákkuveh -->
+  <rule weight="0.5"><match lemma="mánáidmánná" tags="n.*"><select lemma="áijuh"/></match></rule>
+  <rule weight="0.6"><match tags="np.ant.m.*"/><match lemma="mánáidmánná" tags="n.*"><select lemma="áijuh"/></match></rule> <!-- Pierâ áijuheh -->
 
  
-  <rule weight="1.0">
-    <match lemma="gárdin" tags="n.*">
-      <select lemma="muorâkärdi" tags="n.*"/>
-    </match>
-  </rule>
-
   <rule weight="1.0">
     <match lemma="fertet" tags="vblex.*"><select lemma="kolgâđ" tags="vblex.*"/></match>
   </rule>
