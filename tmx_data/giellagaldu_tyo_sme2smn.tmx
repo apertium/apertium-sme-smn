@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="EN-US"
+           srclang="sme-FI"
+           datatype="plaintext"/>
+   <body>
+      <tu id="1">
+         <tuv lang="sme-FI">
+            <seg>Sámi parlamentáralaš ráđđi (Suoma, Norgga ja Ruoŧa sámedikkiid oktasašbargoorgána) álggaha 1.8.2015 davviriikkalaš sámegiela fága- ja resursaguovddáža Sámi giellagáldu joatkkaprošeavtta, mii nohká 31.5.2018.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Säämi parlamentaarlâš rääđi (Suomâ, Taažâ já Ruotâ Sämitigij oovtâstpargo-orgaan) aalgât 1.8.2015 ohtsâštave-eennâmlâš sämikielâ áámmát-/reesuurskuávdáá Säämi Kielâkäldee jotkâproojeekt, mii nohá 31.5.2018.</seg>
+         </tuv>
+      </tu>
+      <tu id="2">
+         <tuv lang="sme-FI">
+            <seg>Prošeavtta váldoruhtadeaddji lea EU Interreg Davvi-prográmma ja barggu geavatlaš ollašuhttima várás Suoma Sámediggi ohcá 1 mearreáigásaš nuortalašgiela giellabargi, 1 mearreáigásaš anárašgiela giellabargi ja 1 mearreáigásaš davvisámegiela giellabargi áigodahkii 1.8.2015 – 30.4.2018.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Proojeekt válduruttâdeijee lii EU Interreg Tave-ohjelm já pargo vuáválâš olášuttem várás Suomâ Sämitigge ocá 1 meriáigásâš anarâškielâ kielâpargee, 1 meriáigásâš nuorttâsämikielâ kielâpargee já 1 meriáigásâš tavesämikielâ kielâpargee ááigán 1.8.2015 – 30.4.2018.</seg>
+         </tuv>
+      </tu>
+      <tu id="3">
+         <tuv lang="sme-FI">
+            <seg>Giellabargi bargguide gullet giellagáhtten, giela ovddideapmi, terminologiijabargu, giela normeren ja diehtojuohkin- ja rávvenbargu.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kielâpargee pargoid kuleh kielâtipšom, kielâovdedem, terminologiapargo, normâdem, sehe tieđettem- já ravvimpargo.</seg>
+         </tuv>
+      </tu>
+      <tu id="4">
+         <tuv lang="sme-FI">
+            <seg>Giellabargái sáhttet maiddái biddjot eará barggut, mat gullet davviriikkalaš sámegiela fága- ja resursaguovddáža joatkkaprošektii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kielâpargei puáhtá meridiđ eres-uv tooimâid, moh kuleh ohtsâštave-eennâmlâš sämikielâ áámmát- já reesuurskuávdáá jotkâprojektân.</seg>
+         </tuv>
+      </tu>
+      <tu id="5">
+         <tuv lang="sme-FI">
+            <seg>Seađáhusvuđđosaš gelbbolašvuohtagáibádussan lea barggu eaktudan skuvlejupmi ja dan lassin gáibiduvvo sámegiela dáidu.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Asâttâsvuáđustâslâš tohálâšvuođâvátámâššân lii pargo vaattâm škovlim já lasseen váttoo sämikielâ táiđu.</seg>
+         </tuv>
+      </tu>
+      <tu id="6">
+         <tuv lang="sme-FI">
+            <seg>Fidnui ohcat vuosttažettiin olbmo, geas lea sámegiella eatnigiellan dahje vástideaddji giellagelbbolašvuohta.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Projektân occoo vuosâsajasávt taggaar olmooš, kiäst sämikielâ lii eenikielân tâi västideijee kielâtáiđu.</seg>
+         </tuv>
+      </tu>
+      <tu id="7">
+         <tuv lang="sme-FI">
+            <seg>Mii deattuhat alit oahpu (allaskuvllas/universitehtas) sámegielas, vásáhusaid sullasaš bargguin ja gelbbolašvuođa sámi servodat- ja gielladilis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tuáivup occest hiäivulâš sämikielâ škovlim (ollâškovlâ/ollâopâttâh), hárjánem västideijee pargoost já sämiohtsâškode já -kielâi tubdâm.</seg>
+         </tuv>
+      </tu>
+      <tu id="8">
+         <tuv lang="sme-FI">
+            <seg>Dasa lassin deattuhat ámmátlaš čehppodaga, ovttasbargo- ja gulahallannávccaid, sámegiela čálalaš dáiddu sihke návccaid bargat iešheanalaččat ja ulbmillaččat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lasseen tuáivup áámmátlâš mättim, oovtâstpargonaavcâ, sämikielâ kirjálâš tááiđu sehe naavcâ jiečânâs já ulmemiäldásâš porgâmân.</seg>
+         </tuv>
+      </tu>
+      <tu id="9">
+         <tuv lang="sme-FI">
+            <seg>Davviriikkalaš sámegiela fága- ja resursaguovddáža bargogiellan leat sámegiella sihke suomagiella ja ruoŧa-/dárogiella.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ohtsâštave-eennâmlâš sämikielâ áámmát- já reesuurskuávdáá pargokielah láá sämikielâ sehe suomâkielâ já ruotâ/tárukielâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="10">
+         <tuv lang="sme-FI">
+            <seg>Fága- ja resursaguovddáža ovddasvástádussan lea ovttas sámedikkiiguin davviriikkalaš giellaovttasbarggu nannen ja ovddideapmi nu, ahte guđege giellajoavkku sierranas dárbbut, hástalusat ja resurssat váldojit vuhtii, ja sámegiela riggudahttin ja dorvvasteapmi boahtte áiggis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Áámmát- já reesuurskuávdáá pargon lii oovtâst sämitiggijn ohtsâštaveeennâmlâš kielâoovtâstpargo nanodem já ovdedem, sämikielâ nanodem já ovdedem nuuvt, et jieškoteuv kielâjuávhu ohtâgâslâš táárbuh, hástuseh já naavcah váldojeh vuotân, sehe sämikielâ virkosmittem já turvim puátteevuođâst.</seg>
+         </tuv>
+      </tu>
+      <tu id="11">
+         <tuv lang="sme-FI">
+            <seg>Giellabargi lea bargogaskavuođas Suoma sámediggái ja bálká mearrašuvvá sámedikki bálkávuogádaga gáibádusdásiid V/II mielde (vuođđobálká 2 110,20 euro/mb).</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kielâpargee lii palvâluskoskâvuođâst Suomâ sämitiigán já pälkki miärášuvá Suomâ sämitige pálkkááttemvuáháduv vátávâšvuodâtaasij V/II mield (vuáđupälkki 2 110,20 eurod/mp).</seg>
+         </tuv>
+      </tu>
+      <tu id="12">
+         <tuv lang="sme-FI">
+            <seg>Vuođđobálkká lassin máksojuvvo 24 % sámeguovllu lassi ja bargohárjánumi vuođul boahtti bargovásáhuslasit.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Vuáđupäälhi lasseen máksojeh 24 % sämikuávlu lase já pargohárjánem mield miärášuvvee hárjánemlaseh.</seg>
+         </tuv>
+      </tu>
+      <tu id="13">
+         <tuv lang="sme-FI">
+            <seg>Bargobáiki lea sámedikki doaibmabáikkiin dahje eará sajis soahpamuša mielde.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Toimâsaje lii sämitige monnii toimâsaajeest tâi sopâmuš mield eres saajeest.</seg>
+         </tuv>
+      </tu>
+      <tu id="14">
+         <tuv lang="sme-FI">
+            <seg>Ohcamušaid čuvvosiiguin galgá doaimmahit Suoma sámedikki čállingoddái 10.7.2015 dmu 16.00 rádjai čujuhusain:</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ucâmušâid lahtosijdiskuin kalga toimâttiđ Suomâ sämitige čäällimkoodán 10.7.2015 tme 16.00 räi čujottâssáin:</seg>
+         </tuv>
+      </tu>
+      <tu id="15">
+         <tuv lang="sme-FI">
+            <seg>Sajos, 99870 Anár.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sajos, 99870 Aanaar.</seg>
+         </tuv>
+      </tu>
+      <tu id="16">
+         <tuv lang="sme-FI">
+            <seg>Lassidieđuid barggus addiba gielladorvočálli Siiri Jomppanen siiri.jomppanen@samediggi.fi ja má. giellaáššiidčálli Marko Marjomaa marko.marjomaa@samediggi.fi.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lasetiäđuid pargoost adelává kielâtorvočällee Siiri Jomppanen siiri.jomppanen@samediggi.fi já má. kielâaašijčällee Marko Marjomaa marko.marjomaa@samediggi.fi.</seg>
+         </tuv>
+      </tu>
+      <tu id="17">
+         <tuv lang="sme-FI">
+            <seg>Sámedikki doaimmaide sáhttá oahpásmuvvat neahttačujuhusas www.samediggi.fi</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sämitige tooimân puáhtá uápásmuđ nettičujottâsâst www.samediggi.fi.</seg>
+         </tuv>
+      </tu>
+      <tu id="18">
+         <tuv lang="sme-FI">
+            <seg>Anáris 18.6.2015</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Anarist 18.6.2015</seg>
+         </tuv>
+      </tu>
+      <tu id="19">
+         <tuv lang="sme-FI">
+            <seg>Sámediggi</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sämitigge</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>
