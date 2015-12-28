@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="EN-US"
+           srclang="sme-FI"
+           datatype="plaintext"/>
+   <body>
+      <tu id="1">
+         <tuv lang="sme-FI">
+            <seg>Yle Ođđasati-tv-sátta báhcá otne juovlaboddui, mii bistá 4.1.2016 rádjai.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Yle Uđđâseh-tv-vuolgâttâs páácá onne juovlâpuudân, mii pištá 4.1.2016 räi.</seg>
+         </tuv>
+      </tu>
+      <tu id="2">
+         <tuv lang="sme-FI">
+            <seg>Davviriikkalaš ođđasat báhcet maiddái oidnokeahttá juovlabasiid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Taveriijkâlâš uđđâseh pääcih meiddei oinuuhánnáá juovlâpoosij ääigi.</seg>
+         </tuv>
+      </tu>
+      <tu id="3">
+         <tuv lang="sme-FI">
+            <seg>Ođđasat máhccet tv:ai seamma beaivve go Yle Ođđasat, 4.1.2016.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Uđđâseh mäccih tv:n siämmáá peeivi ko Yle Uđđâseh, 4.1.2016.</seg>
+         </tuv>
+      </tu>
+      <tu id="4">
+         <tuv lang="sme-FI">
+            <seg>Yle Ođđasat-bargojoavku sávvá buohkaide buriid juovllaid ja lihkolaš ođđa jagi!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Yle Uđđâseh-prgojuávkku tuáivut puohháid puorijd juovlâid já luholii uđđâ ive!</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

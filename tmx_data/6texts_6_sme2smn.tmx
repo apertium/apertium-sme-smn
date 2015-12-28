@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="EN-US"
+           srclang="sme-FI"
+           datatype="plaintext"/>
+   <body>
+      <tu id="1">
+         <tuv lang="sme-FI">
+            <seg>Váidit cuiggodedje Sanila gielladáiddu ja válgalávdegotti barggu</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Väideeh cuoiguu Sanila kielâtááiđu já vaaljâlävdikode pargo</seg>
+         </tuv>
+      </tu>
+      <tu id="2">
+         <tuv lang="sme-FI">
+            <seg>Ovdaolbmo válggas golggotmánus ledje váidán ovdalaš ovdaolmmošguovttos Raimo Gauriloff ja Veikko Feodoroff sihke sámedikki lahttu Tauno Haltta.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ovdâulmuu vaaljâst roovvâdmáánust lijjii váidám ovdiih ovdâulmuukyevtis Raimo Gauriloff já Veikko Feodoroff sehe sämitige jeessân Tauno Haltta.</seg>
+         </tuv>
+      </tu>
+      <tu id="3">
+         <tuv lang="sme-FI">
+            <seg>Sii ákkastalle váidagiid dainna, ahte sin mielas Tanja Sanila ii deavdde nuortalašlága gáibádusaid das, ahte nuortalaččaid ovdaolmmoš galgá máhttit nuortalašgiela.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sij vuáđuštâllii vaidâlmijd toin naalijn, et sii mielâst Tanja Sanila ij teevdi nuorttâlâšlaavä vátámâšâid tast, et nuorttâlij ovdâolmooš kalga mättiđ nuorttâlâškielâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="4">
+         <tuv lang="sme-FI">
+            <seg>Sii čuoččuhit maid, ahte válgalávdegoddi lei guođđán čielggatkeahttá Sanila gielladáiddu dalle, go golbma evttohasa Tanja Sanila, Veikko Feodoroff ja Sergei Kp Fofonoff ásahuvvojedje.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sij tiäduttii meiddei, et vaaljâlävdikodde lâi kuáđđám čielgiihánnáá Sanila kielâtááiđu talle ko kulmâ iävtukkâs asâttuvvojii.</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

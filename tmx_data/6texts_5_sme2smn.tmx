@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="EN-US"
+           srclang="sme-FI"
+           datatype="plaintext"/>
+   <body>
+      <tu id="1">
+         <tuv lang="sme-FI">
+            <seg>Hálddahusriekti: Čielggademiid vuođul Tanja Sanila galgá atnit nuortalašgielat olmmožin</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Haldâttâhriehti: Čielgiimij vuáđuld Tanja Sanila kalga onnuđ nuorttâkielâg olmožin</seg>
+         </tuv>
+      </tu>
+      <tu id="2">
+         <tuv lang="sme-FI">
+            <seg>Yle Sámi oažžun dieđuid mielde Davvi-Suoma hálddahusriekti boahtá duorastaga beaivit cealkit, ahte Tanja Sanila galgá atnit nuortalašgielat olmmožin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Yle Säämi uážžum tiäđui mield Tave-Suomâ haldâttâhriehti áigu tuorâstuv peiviv celkkiđ, et Tanja Sanila kalga anneeđ nuorttâkielâg olmožin.</seg>
+         </tuv>
+      </tu>
+      <tu id="3">
+         <tuv lang="sme-FI">
+            <seg>Danin son dohkke nuortalaččaid ovdaolmmožin, gii nuortalašlága mielde galgá máhttit nuortalašgiela.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tondiet sun tohhee nuorttâlij ovdâolmožin, kii nuorttâlâšlaavä mield kalga mättiđ nuorttâlâškielâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="4">
+         <tuv lang="sme-FI">
+            <seg>Davvi-Suoma hálddahusriekti addá duorastaga beaivit virggálaš mearrádusa ovdaolbmo válggas dahkkojuvvon váidagiin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tave-Suomâ haldâttâhriehti addel tuorâstuv peiviv virgálii miärádäs ovdâulmuu vaaljâst tohhum vaidâlmijn.</seg>
+         </tuv>
+      </tu>
+      <tu id="5">
+         <tuv lang="sme-FI">
+            <seg>Hálddahusriekti hilgu buot váidagiid áššis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Haldâttâhriehti hilgo puoh vaidâlmijd ääšist.</seg>
+         </tuv>
+      </tu>
+      <tu id="6">
+         <tuv lang="sme-FI">
+            <seg>Yle Sámi oažžun dieđuid mielde Davvi-Suoma hálddahusriekti cealká, ahte Tanja Sanila galgá atnit nuortalašgielat olmmožin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Yle Säämi uážžum tiäđui mield Tave-Suomâ haldâttâhriehti ciälkká, et Tanja Sanila kalga anneeđ nuorttâkielâg olmožin.</seg>
+         </tuv>
+      </tu>
+      <tu id="7">
+         <tuv lang="sme-FI">
+            <seg>Danin son dohkke ovdaolmmožin, gii nuortalašlága mielde galgá máhttit nuortalašgiela.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tondiet sun tohhee ovdâolmožin, kii nuorttâlâšlaavâ mield kalga mättiđ nuorttâlâškielâ.</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

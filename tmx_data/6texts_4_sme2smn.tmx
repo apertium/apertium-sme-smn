@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="EN-US"
+           srclang="sme-FI"
+           datatype="plaintext"/>
+   <body>
+      <tu id="1">
+         <tuv lang="sme-FI">
+            <seg>AHR: Tanja Sanila lea nuortalaččaid ovdaolmmoš, váidalusat hilgojuvvojedje</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>AHR: Tanja Sanila lii nuorttâlij ovdâolmooš, vaidâlmeh hilgojii</seg>
+         </tuv>
+      </tu>
+      <tu id="2">
+         <tuv lang="sme-FI">
+            <seg>Alimus hálddahusriekti hilgu váidagiid maid ledje dahkan nuortalaččaid ovdaolbmoválggas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Alemus haldâttâhriehti hilgo vaidâlmijd, maid lijjii toohâm nuorttâlij ovdâolmoošvaaljâin.</seg>
+         </tuv>
+      </tu>
+      <tu id="3">
+         <tuv lang="sme-FI">
+            <seg>AHR guorrasa Davvi-Suoma hálddahusrievtti mearrádussii, ja Tanja Sanila lea AHR mielas gelbbolaš doaibmat nuortalaččaid ovdaolmmožin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>AHR Tave-Suomâ haldâttâhrievti miärádâsân, já Tanja Sanila lii AHR mielâst tohálâš toimâđ nuorttâlij ovdâolmožin.</seg>
+         </tuv>
+      </tu>
+      <tu id="4">
+         <tuv lang="sme-FI">
+            <seg>Mannan miessemánus Davvi-Suoma hálddahusriekti hilggui visot váidagiid mat ledje dahkkon nuortalaččaid ovdaolbmoválggas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Moonnâm vyesimáánust Tave-Suomâ haldâttâhriehti hilgoi puoh vaidâlmijd, moh lijjii tohhum nuorttâlij ovdâolmoošvaaljâst.</seg>
+         </tuv>
+      </tu>
+      <tu id="5">
+         <tuv lang="sme-FI">
+            <seg>Davvi-Suoma hálddahusriekti dulkui nu, ahte nuortalašlágas ii leat meroštallojuvvon dárkilit dat man viidát ja bures ovdaolmmoš galgá máhttit nuortalašgiela.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tave-Suomâ haldâttâhriehti tulkkui nuuvt, et nuorttâlâšlaavâst ij lah miäruštâllum tárkká tot, mon viijđáht já pyereest ovdâolmooš kalga mättiđ nuorttâlâškielâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="6">
+         <tuv lang="sme-FI">
+            <seg>Dan mearrádusas dahkkui geassemánus 2015 joatkkaváidda alimus hálddahusriektái.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Taan miärádâsâst tohhui kesimáánust 2015 jotkâvaidâlem alemuu haldâttâhriähtán.</seg>
+         </tuv>
+      </tu>
+      <tu id="7">
+         <tuv lang="sme-FI">
+            <seg>Joatkkaváidagis moite dan go hálddahusriekti dulko boastut nuortalašlága 46 paragráfa.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Jotkâvaidâlmist moittii tom, et haldâttâhriehti tulkkoo puástud nuorttâlâšlaavâ 46 paragraf.</seg>
+         </tuv>
+      </tu>
+      <tu id="8">
+         <tuv lang="sme-FI">
+            <seg>Alimus hálddahusriekti dieđiha, ahte sii leat gieđahallan ášši eaige sii rievdat Davvi-Suoma hálddahusrievtti mearrádusa dohkkehit Sanila ovdaolmmožin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Alemus haldâttâhriehti tieđeet, et sij láá kieđâvuššâm ääši iäge sij mute tave-Suomâ haldâttâhrievti miärádâs tuhhiittiđ Sanila ovdâolmožin.</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

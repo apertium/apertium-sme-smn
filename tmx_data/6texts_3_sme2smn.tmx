@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="EN-US"
+           srclang="sme-FI"
+           datatype="plaintext"/>
+   <body>
+      <tu id="1">
+         <tuv lang="sme-FI">
+            <seg>Searvva juovlaruohta Yle Sámi Juovladearvvuođat-sáddagii!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Seervâ juovlâááptu Yle Säämi Juovlâtiervuođah-vuolgâttâsân!</seg>
+         </tuv>
+      </tu>
+      <tu id="2">
+         <tuv lang="sme-FI">
+            <seg>Yle Sápmi sádde fas árbevirolaš Juovladearvvuođat-radiosáddaga juovlaruohta, 24. beaivve juovlamánu, diibmu 9-12.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Yle Säämi vuolgât oppeet ärbivuáválii Juovlâtiervuođah-radiovuolgâttâs juovlâááptu, 24. peeivi juovlâmáánu, tijme 9-12.</seg>
+         </tuv>
+      </tu>
+      <tu id="3">
+         <tuv lang="sme-FI">
+            <seg>Don sáhtát searvat sáddagii ja sáddestit iežat dearvvuođaid!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tun puávtáh servâđ vuolgâttâsân já vuolgâttiđ jieijâd tiervuođâid!</seg>
+         </tuv>
+      </tu>
+      <tu id="4">
+         <tuv lang="sme-FI">
+            <seg>Juovlaruohta dearvvuođat-sáddaga stivrejit Jovna Aikio, Anne Kirste Aikio ja Heli Huovinen.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Juovlâááptu tiervuođah-vuolgâttâs stivrejeh Jovnâ Aikio, Anne Kirste Aikio já Heli Huovinen.</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

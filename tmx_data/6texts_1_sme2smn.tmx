@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="EN-US"
+           srclang="sme-FI"
+           datatype="plaintext"/>
+   <body>
+      <tu id="1">
+         <tuv lang="sme-FI">
+            <seg>Sámiráđi kulturlávdegoddi lea gidden fuopmášumi, ahte duodjeprošeavttat leat ožžon unnán kulturdoarjagiid jagiin 2010-2015.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sämirääđi kulttuurlävdikodde lii kiddim huámášume, et tyejiprojekteh láá uážžum uccáá kulttuurtorjuid ivij 2010-2015.</seg>
+         </tuv>
+      </tu>
+      <tu id="2">
+         <tuv lang="sme-FI">
+            <seg>Dál kulturlávdegottis vurdet, ahte earenomážit duojárat ja duodjeberosteaddjit ohcet kulturdoarjaga.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tääl kulttuurlävdikoddeest vyerdih, et eromâšávt tuáijáreh já tyejeest kiddiistum ulmuuh oceh kulttuurtorjuu.</seg>
+         </tuv>
+      </tu>
+      <tu id="3">
+         <tuv lang="sme-FI">
+            <seg>Sámiráđi kulturdoarjagiid sáhttá ohcat elektronalaččat sin neahttasiidduid bokte.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sämirääđi kulttuurtorjuid puáhtá uuccâđ elekronlávt sii nettisiijđoi peht.</seg>
+         </tuv>
+      </tu>
+      <tu id="4">
+         <tuv lang="sme-FI">
+            <seg>Ohcanáigi nohká 31.1.2016.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Uuccâmäigi nohá 31.1.2016.</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>
