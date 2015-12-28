@@ -280,6 +280,8 @@
 
     <!-- ASECTION: Adverbs -->
 
+    <e><p><l>ovddos<b/>guvlui<s n="adv"/></l><r>ovdâskulij<s n="adv"/></r></p></e>
+    <e><p><l>ovddos<s n="adv"/></l><r>ovdâskulij<s n="adv"/></r></p></e>
     <e><p><l>ain<s n="adv"/></l><r>ain<s n="adv"/></r></p></e>
     <e><p><l>gal<s n="adv"/></l><r>kal<s n="adv"/></r></p></e>
     <e><p><l>gal<s n="adv"/></l><r>kale<s n="adv"/></r></p></e>
@@ -434,6 +436,7 @@
     <!-- ASECTION: Nouns -->  
 
     <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
+    <e><p><l>sisdoallu<s n="n"/></l><r>siskáldâs<s n="n"/></r></p></e>
     <e><p><l>balsa<s n="n"/></l><r>polsâ<s n="n"/></r></p></e>
      <e><p><l>orrunguovlu<s n="n"/></l><r>aassâmkuávlu<s n="n"/></r></p></e>
     <e><p><l>arkeologa<s n="n"/></l><r>arkeologi<s n="n"/></r></p></e>
@@ -1946,6 +1949,7 @@
 
     <!-- SECTION: Verbs -->
 
+    <e><p><l>sibildit<s n="vblex"/><s n="tv"/></l><r>narriđ<s n="vblex"/></r></p></e> 
     <e><p><l>čatnasit<s n="vblex"/><s n="iv"/></l><r>čonâsiđ<s n="vblex"/></r></p></e> 
     <e><p><l>vuođđuduvvat<s n="vblex"/><s n="iv"/></l><r>vuáđuduđ<s n="vblex"/></r></p></e> 
     <e><p><l>cegget<s n="vblex"/><s n="tv"/></l><r>cegâttiđ<s n="vblex"/></r></p></e>
