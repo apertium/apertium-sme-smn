@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="EN-US"
+           srclang="sme-FI"
+           datatype="plaintext"/>
+   <body>
+      <tu id="1">
+         <tuv lang="sme-FI">
+            <seg>SÁHKA</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>SAAHÂ</seg>
+         </tuv>
+      </tu>
+      <tu id="2">
+         <tuv lang="sme-FI">
+            <seg>29.03.2008</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>29.03.2008</seg>
+         </tuv>
+      </tu>
+      <tu id="3">
+         <tuv lang="sme-FI">
+            <seg>Gudnejahtton dásseválddi presideanta, árvvus adnon ministtar, Norgga ja Ruoŧa sámedikki presideanttat, buorit árvoguossit!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kunnijâttum täsivääldi president, áárvust oonnum minister, Taažâ já Ruotâ sämitige saavâjođetteijeeh, pyereh árvukyesih!</seg>
+         </tuv>
+      </tu>
+      <tu id="4">
+         <tuv lang="sme-FI">
+            <seg>Lea suohtas oaidnit ná árvoválddálaš, dehálaš gussiid oassálastime sámedikki rahpamii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lii suotâs uáiniđ návt árvuváldálâš juávhu uásálistmin sämitige lekkâmáid.</seg>
+         </tuv>
+      </tu>
+      <tu id="5">
+         <tuv lang="sme-FI">
+            <seg>Lea illu ja gudni sávvat Didjiide buresboahtima sámedikki rahpamii ja Ohcejohkii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lii ilo já kunnee tuáivuttiđ Tijjân pyeripuáttim sämitige lekkâmáid já Ucjuuhân.</seg>
+         </tuv>
+      </tu>
+      <tu id="6">
+         <tuv lang="sme-FI">
+            <seg>Ohcejohka lea áidna gielda Suomas, gos sápmelaččat leat eanetlohkun.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ucjuuhâ lii Suomâ áinoo kieldâ, mast lii sämmilâšeenâbloho.</seg>
+         </tuv>
+      </tu>
+      <tu id="7">
+         <tuv lang="sme-FI">
+            <seg>Dat lea earenoamáš ovdamearka máŋggabeallásaš sámi kultuvrras, gielda lea guolasteaddje- ja boazosápmelaš kultuvrra mihtilmas guovlu.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tot lii eromâš ovdâmerkkâ maaŋgâpiälásâš sämikulttuurist, kieldâ lii kyelipivdee- já puásuisämmilâškulttuur kuávlu.</seg>
+         </tuv>
+      </tu>
+      <tu id="8">
+         <tuv lang="sme-FI">
+            <seg>Sámegiella lea seilon Ohcejogas ealasin ja das leat aivve iežas iešláhki.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sämikielâ lii siäilum Ucjuuvâst eellimvuáimálâžžân já jiešlágánâžžân.</seg>
+         </tuv>
+      </tu>
+      <tu id="9">
+         <tuv lang="sme-FI">
+            <seg>Deike leat luvvojuvvon ođđa sámi ealáhusat, dáppe leat ovttastuvvon lunddolaš vuogi mielde turisma ja eará ealáhusat máŋggabeallásaš sámi kultuvrra oassin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tääbbin láá vuáđudum uđđâ säämi iäláttâsah, ovtâstum luándulávt mađhâšem já eres iäláttâsah uássin maaŋgâpiälásâš sämikulttuur.</seg>
+         </tuv>
+      </tu>
+      <tu id="10">
+         <tuv lang="sme-FI">
+            <seg>Mis sámiin leat olu áššit, main mii sáhttit leat čeavlát.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mist láá ennuu ääših, moiguin pyehtip čiävluttâllâđ.</seg>
+         </tuv>
+      </tu>
+      <tu id="11">
+         <tuv lang="sme-FI">
+            <seg>Dál leat njealját sámedikki rahpamis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tääl lep niäljád sämitige lekkâmist.</seg>
+         </tuv>
+      </tu>
+      <tu id="12">
+         <tuv lang="sme-FI">
+            <seg>Dilálašvuohta čájeha min sápmelaččaid sitkatvuođa ja min kultuvrra riggodaga.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tilálâšvuotâ uásild čáittá mii sämmilij siđhesvuođâ já kulttuurlâš rigesvuođâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="13">
+         <tuv lang="sme-FI">
+            <seg>Go máilbmi lea rievdan ja go leat deaivan ođđa uhkiid, de mii leat čájehan, ahte mii eat vuollán ja mii seailudit sápmelašvuođa boahtte buolvvaide.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ko maailm muttoo já kuáhtáp uđđâ aštuid, lep čáittám, et mij ep vuállán já siäiluttep sämmilâšvuođâ puátteid suhâpuolváid.</seg>
+         </tuv>
+      </tu>
+      <tu id="14">
+         <tuv lang="sme-FI">
+            <seg>Min kultuvra lea sierraluvvan, mii leat vuogáiduvvan eallit Davimus Sámi garra luonddudiliin – muhto nuppe dáfus, mii leat seailudan iežamet kultuvrra gávpotbirrasisge.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mii kulttuur lii spesiaališum já mij lep vuáhádum eelliđ Säämi korrâ luándust – mutâ nube tááhust siäiluttâm jieččân kulttuur kaappugpirrâsist-uv.</seg>
+         </tuv>
+      </tu>
+      <tu id="15">
+         <tuv lang="sme-FI">
+            <seg>Min giella muitala hui dárkket luonddu ihtagiin, giela mielde bastit bargat dárkilit luonddus, dovdat kulturduovdagiiddámet ja bargat ealáhusaideametguin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mii kielâ muštâl uáli tárkká luándu almoonmijn, kielâ vievâst mij pastep toimâđ tärkkilávt luándust, tubdâđ kulttuurenâduvâidâm já porgâđ iäláttâsâidâm.</seg>
+         </tuv>
+      </tu>
+      <tu id="16">
+         <tuv lang="sme-FI">
+            <seg>Min vuoiŋŋalaš ja kultuvrralaš árbevierrumet, duodji ja musihkka, luonddu árvvusatnin; árbevirolaš ealáhusamet ja máhtut, mat daidda gullet ja min návccat dávistit birraseamet nuppástusaide, leat min kultuvrra riggodat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mii vuoiŋâlâš já kulttuurlâš ärbivyehi, tyeji já muusik, luándu áárvusttoollâm, ärbivuáválâš iäláttâsah já toid kullee tááiđuh sehe naavcah västidiđ toimâmpirrâs nubástussáid, láá mii kulttuur riggodâh.</seg>
+         </tuv>
+      </tu>
+      <tu id="17">
+         <tuv lang="sme-FI">
+            <seg>Mii galgat atnit ávvira das, ahte guođđit liikká máŋggabeallásaš ja áidnalunddot kulturárbbi ja Sámieatnama boahtte buolvvaide.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij kolgâp anneeđ huolâ, et kyeđđip siämmáá maaŋgâpiälásâš já áinookiärdásâš kulttuurärbivyevi já sämikuávlu puáttee suhâpuolváid.</seg>
+         </tuv>
+      </tu>
+      <tu id="18">
+         <tuv lang="sme-FI">
+            <seg>Mii sápmelaččat leat okta álbmot ja lea mávssolaš ahte vásihit buohkat oktiigullevašvuođa guhtet guimmiideametguin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mii sämmiliih lep ohtâ aalmug já lii tehálâš et tubdâp puohah oohtânkulluuvâšvuođâ kuoimijdsân.</seg>
+         </tuv>
+      </tu>
+      <tu id="19">
+         <tuv lang="sme-FI">
+            <seg>Mii fertet seailudit sierra sámi kultuvrraideamet iešvuođalágiid, sámegielaid ja kultuvrra vuođu.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij ferttip siäiluttiđ jieškote-uv sämikulttuur sierânâsjiešvuođâid, sämikielâid já kulttuur vuáđu.</seg>
+         </tuv>
+      </tu>
+      <tu id="20">
+         <tuv lang="sme-FI">
+            <seg>Mii galgat maid doarjut buot Suoma sámi kultuvrraid dássebealagit, nu ahte gudnejahttit ja atnit árvvus guhtet guimmiideamet.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij kolgâp meiddei tuárjuđ puohâid Suomâ sämikulttuurijd täsipiälásávt, kunnijâtmáin já áárvustanemáin nubijdâm.</seg>
+         </tuv>
+      </tu>
+      <tu id="21">
+         <tuv lang="sme-FI">
+            <seg>Dávja lea daddjon, ahte buot Suomas hubmon sámegielat leat uhkiduvvon dilis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lii távjá páhudum puohâi Suomâ sämikielâi lemin uhke vyelni.</seg>
+         </tuv>
+      </tu>
+      <tu id="22">
+         <tuv lang="sme-FI">
+            <seg>Mii sápmelaččat leat čuollan iežamet giela ja kultuvrra beali guhká ja leat eastán aktiivvalaš bargguin kultuvrramet ja gielamet jávkama.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij sämmiliih lep taištâlâm jieččân kielâ já kulttuur peeleest kuhháá já iästám aktiivlâš toimâiguin kulttuur já kielâ lappum.</seg>
+         </tuv>
+      </tu>
+      <tu id="23">
+         <tuv lang="sme-FI">
+            <seg>Mii sápmelaččat leat dábuhan iežamet báikki máilmmis – ja dál sáhttit čeavlájin illudit min bargan barggus sámi kultuvrra bistevašvuođa beales.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij puoh sämmiliih lep taištâlâm jieččân saje mailmaist – já tääl pyehtip čiävlán ilodiđ pargostâm já sämiskulttuur jotkum peeleest.</seg>
+         </tuv>
+      </tu>
+      <tu id="24">
+         <tuv lang="sme-FI">
+            <seg>Dii buohkat, geat sirdibehtet eatnigieladet, iežaideattet kultuvrra dehe soga árbevieruid mánáide lehpet ráhkadeame ođđa sápmelašbuolvva ja vuođu sámi kultuvrra boahtteáigái.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tii puohah, kiäh sirdevetteđ eenikielâ, jieijâd kulttuur tâi suuvâ ärbivuovijd párnáid, leppeđ rähtimin uđđâ sämmilâšsuhâpuolvâ já vuáđu sämikulttuur puátteevuotân.</seg>
+         </tuv>
+      </tu>
+      <tu id="25">
+         <tuv lang="sme-FI">
+            <seg>Dii bargabehtet mávssolaš barggu.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Porgâvetteđ mávsulâš pargo.</seg>
+         </tuv>
+      </tu>
+      <tu id="26">
+         <tuv lang="sme-FI">
+            <seg>Min bargu ii lea válmmas, muhto olu lea vel dahkamuš sámiid vuoigatvuođaid, kultuvrra ja giela ovddideami várás.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mii pargo ij lah vaalmâš, pic ennuu lii vala porgâmnáál sämmilij vuoigâdvuođâi, kulttuur já kielâ oovdedmân.</seg>
+         </tuv>
+      </tu>
+      <tu id="27">
+         <tuv lang="sme-FI">
+            <seg>Muhto lehkot álohii ja earenoamážit ná ávvudeami beaivve čeavlát das, maid mii leat joksan ja masa leat ollen ja jotkot sápmelaččaid vuoigatvuođaid ovddideami.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mut kolgâp leđe ain já eromâšávt návt juhlepeeivi čiävlááh tast, moos lep olláám já juátkup sämmilij vuoigâdvuođâi ovdedem.</seg>
+         </tuv>
+      </tu>
+      <tu id="28">
+         <tuv lang="sme-FI">
+            <seg>Árvvus adnon ávvuguossit!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Áárvust oonnum juhleviehâ!</seg>
+         </tuv>
+      </tu>
+      <tu id="29">
+         <tuv lang="sme-FI">
+            <seg>Dát ii leat dušše sápmelaččaid illubeaivi, muhto maiddái Suoma stáhta ja suopmelaččaid riepmobeaivi.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Taat ij lah tuše sämmilij juhlepeivi, mut meiddei Suomâ staatâ já syemmilij juhlepeivi.</seg>
+         </tuv>
+      </tu>
+      <tu id="30">
+         <tuv lang="sme-FI">
+            <seg>Supmii lea stuora riggodat, ahte Eurohpa áidna álgoálbmot orru Suoma rájiid siste.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Suomân lii stuorrâ riggodâh et Euroop áinoo algâaalmug áásá Suomâ raajij siste.</seg>
+         </tuv>
+      </tu>
+      <tu id="31">
+         <tuv lang="sme-FI">
+            <seg>Mii sápmelaččat leat divrras lassi suopmelaš servodagas, ja minguin galgá meannudit kultuvrramet earenoamášvuođa ja min iežamet dihte gudnejahttimiin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij sämmiliih lep tivrâs lase syemmilâš ohtsâškoddeest, já mij kolgâb kohtâluđ jieččâm kulttuur áinoošlajâsâšvuođâ já mii jieččâm keežild kunnijâtmáin.</seg>
+         </tuv>
+      </tu>
+      <tu id="32">
+         <tuv lang="sme-FI">
+            <seg>Mii sámit leat álohii bargan suopmelaččaiguin ovttas, sápmelaččain ledje dolin olu verddet, suopmelaš ustibat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij sämmiliih lep ain toimâm ohtsâšpargoost syemmiljguin, ovdil maaŋgâin sämmilijn lijjii meid veerdih, syemmiliih usteveh.</seg>
+         </tuv>
+      </tu>
+      <tu id="33">
+         <tuv lang="sme-FI">
+            <seg>Boazobargo- ja duodjemáhtuid leat oahpahan maid suopmelaččaide ja min dárkilis giella lea lonen viidát sániid ja sámimállet dadjanvugiid suomagillii ja dan suopmaniidda.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Pusuipargo- já tyejitááiđu lep máttááttâm meiddei syemmiláid já mii tärhis kielâ lii luávnejum vijđáht Suomâkielân já ton kuávlukieláid.</seg>
+         </tuv>
+      </tu>
+      <tu id="34">
+         <tuv lang="sme-FI">
+            <seg>Mii eat leat dušše kultuvra, mii luoikkaha dábiid ja sániid – muhto dásseárvosaš ja máŋggabeallásaš kultuvra, mas lonejuvvojit eará kultuvrraide máhtut, sánit ja vierut.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij ep lah tuše vuovijd já saanijd luávnejeijee kulttuur – pic täsiárvusâš já maaŋgâpiälásâš kulttuur, mast luávnejuvvojeh tááiđuh, säänih já vyevih eres kulttuuráid.</seg>
+         </tuv>
+      </tu>
+      <tu id="35">
+         <tuv lang="sme-FI">
+            <seg>Mii sápmelaččat leat ovddastan Suoma máilmmis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij sämmiliih lep ovdâstâm Suomâ mailmist.</seg>
+         </tuv>
+      </tu>
+      <tu id="36">
+         <tuv lang="sme-FI">
+            <seg>Suomas livččii omd. sierralágán ja kultuvrralaččat geafit govva almmá min beakkán dáiddára Áillohačča, Nils Aslak Valkeapää haga.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Suomâst ličij ereslágán já kulttuurlávt kievhib kove pegâlmâs taaidârttáá Nils Aslak Valkeapää ađai Áillohâšâttáá.</seg>
+         </tuv>
+      </tu>
+      <tu id="37">
+         <tuv lang="sme-FI">
+            <seg>Mii leat Suoma kultuvrralaš riggodat ja minguin galgá meannudit dan vuogi mielde.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij lep Suomâ kulttuurlâš riggodâh, já mij kolgâp kohtâluđ ton miäldásávt.</seg>
+         </tuv>
+      </tu>
+      <tu id="38">
+         <tuv lang="sme-FI">
+            <seg>Min sápmelaččaid galgá atnit árvvus min áidnalunddotvuođamet, sajádagamet ja kultuvrramet vuođul, ii riikkaidgaskasaš soahpamušaid ja stáhta doaimmaid čuozáhahkan dehe olgo- ja sisriikapolitihkalaš čuolbman.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mii sämmiliih kolgâp oonnuđ áárvust já kohtâluđ mii áinoošlajâsâšvuođâ, sajattuv já kulttuur vuáđuld, ij aalmugijkoskâsâš sopâmusâi já staatâ tooimâi čuásáttâssân tâi olgo- já sispoolitlâš čuolmân.</seg>
+         </tuv>
+      </tu>
+      <tu id="39">
+         <tuv lang="sme-FI">
+            <seg>Mii sápmelaččat leat skuvlehan iežamet viidát servodaga sierra surggiide, min nuorat leat allagit skuvlejuvvon ja máhttet olu gielaid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij sämmiliih lep škovliiđâttâm vijđes ohtsâškote jieškote-uv suorgijd, mii nuorah láá ollâškuávlejum já kielâtáiđuliih.</seg>
+         </tuv>
+      </tu>
+      <tu id="40">
+         <tuv lang="sme-FI">
+            <seg>Min gaskavuođas leat loktanan čeahpes dutkit ja servodatlaš váikkuheaddjit, oahpaheddjiid ja sámi váhnemiid bargu lea buktán buori bohtosa.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mii juávhust láá pajanâm čepis totkeeh já ohtsâškodáliih vaigutteijeeh.</seg>
+         </tuv>
+      </tu>
+      <tu id="41">
+         <tuv lang="sme-FI">
+            <seg>Boazosápmelaš bearraša mánnán ja sámi boazodoalu ja kultuvrra dutkin dieđán, ahte olggobeal dutkit eai leat buktán dutkamušaineaset álohii dakkár gova, mii vástida duohtavuođa sámi kultuvrra viiddes diehtovuogádagas ja boazodoallokultuvrras – sii eai leat ipmirdan min kultuvrralaš kodaid riekta.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Puásuisämmilâšperruu pärnin já sämmilâšpuásuituálu já –kulttuur totken tiäđám, et ulguupiälásiih totkeeh iä lah finnim tutkâmušâinis ain tuotâvuođâ västideijee kove sämikulttuur vijđes kulttuurlâš tiätuvuáháduvâst já puásuituálukulttuurist – sij iä lah iberdâm mii kulttuurlâš koodijd olmânáál.</seg>
+         </tuv>
+      </tu>
+      <tu id="42">
+         <tuv lang="sme-FI">
+            <seg>Sápmelaččaid leat dutkan čuđiid jagiid áigge kultuvrramet olggobeal dutkit ja meroštallan min ja mis ráhkaduvvon gova.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mii láá tutkâm čuođijd iivijd kulttuur ulguupiälááš totkeeh já miäruštâllâm mii já mist šoddâm kove.</seg>
+         </tuv>
+      </tu>
+      <tu id="43">
+         <tuv lang="sme-FI">
+            <seg>Mis sápmelaččain ii leat leamaš vejolašvuohta váikkuhit ovdal go dál makkár árvvuid midjiide bidjet dutkamušain ja almmolašvuođas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mist ij lah lamaš máhđulâšvuotâ vaiguttiđ ovdil ko tääl, magarijd áárvuid mijjân piäijojeh tutkâmušâin já almolâšvuođâst.</seg>
+         </tuv>
+      </tu>
+      <tu id="44">
+         <tuv lang="sme-FI">
+            <seg>Mii diehtit buoremusat sámi kultuvrra, dan luonddu ja árvvuid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij tiettip pyeremustáá sämikulttuur, ton luándu já áárvuid,</seg>
+         </tuv>
+      </tu>
+      <tu id="45">
+         <tuv lang="sme-FI">
+            <seg>Mii ieža diehtit maid sámi kultuvrras galgá dutkat ja mii ieža maid dahkat dan buoremusat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>mij tiettip maid sämikulttuurist kalga tutkâđ já mij porgâp tom pyeremustáá.</seg>
+         </tuv>
+      </tu>
+      <tu id="46">
+         <tuv lang="sme-FI">
+            <seg>Mii sápmelaččat galgat váldit vuoiŋŋalaš ja ávnnaslaš kultuvrramet min iežamet háldui.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij kolgâp väldiđ vuoiŋâlâš já aamnâslâš kulttuur jieččân haaldun.</seg>
+         </tuv>
+      </tu>
+      <tu id="47">
+         <tuv lang="sme-FI">
+            <seg>Gudnejahtton dásseválddi presideanta ja árvoguossit!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kunnijâttum täsivääldi president já árvukyesih</seg>
+         </tuv>
+      </tu>
+      <tu id="48">
+         <tuv lang="sme-FI">
+            <seg>Sápmelaččat dárbbahit maid din doarjaga, movttiidahttima ja váikkuhanválddi min viggamušaide ovddidit sámi kulturiešstivrejumi, buoridit sápmelaččaid vuoigatvuođalaš sajádaga ja doarvvastit sámi kultuvrra bistevašvuođa oba Suomas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sämmiliih tarbâšeh meiddei Tii torjuu, movtijdittem já vaikuttâsvääldi mii viggâmuššáid ovdediđ säämi kulttuurjiešhaldâšem, pyerediđ sämmilij vuoigâdvuođâsajattuv já turvâstiđ sämikulttuur jotkuuvâšvuođâ ubâ Suomâst.</seg>
+         </tuv>
+      </tu>
+      <tu id="49">
+         <tuv lang="sme-FI">
+            <seg>Mis lea iežamet kulturiešstivren sámiid ruovttuguovllus, muhto mii sápmelaččat, Suoma áidna álgoálbmot, orrut miehtá Suoma.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mist lii jieččâm kulttuurjiešhaldâšem sämikuávlust, mut sämmiliih, Suomâ áinoo algâaalmug, ääsih ubâ Suomâst.</seg>
+         </tuv>
+      </tu>
+      <tu id="50">
+         <tuv lang="sme-FI">
+            <seg>Láhkaásaheapmi galgá váldit vuhtii sápmelaččaid vuoigatvuođaid maid sámi guovllu olggobealde – dán ášši ovddideami várás bivdit dis, buorit árvoguossit, earenoamáš doarjaga.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lahâasâttâs kalga väldiđ vuotân sämmilij vuoigâdvuođâid meiddei sämikuávlu ulguubeln – taam ääši oovdedmân mij pivdep tist, pyereh árvukyesih, sierânâs torjuu.</seg>
+         </tuv>
+      </tu>
+      <tu id="51">
+         <tuv lang="sme-FI">
+            <seg>Guovtti ovddit sámedikki rabadettiin gudnejahtton dásseválddi presideanta válddii ovdan ILO 169-soahpamuša ratifiserema ja movttiidahtii riikka ráđđehusa ja sámedikki gávdnat ovdagáttuhis vugiid čoavdit eananvuoigatvuohtagažaldaga ja ILO-soahpamuša ratifiserema.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kyevti ovdebáá sämitige lekkâm ohtâvuođâst áárvust oonnum täsivääldi president vaaldij oovdân ILO 169-sopâmuš ratifistim já movtijditij Suomâ haldâttâs já sämitige kavnâđ ovdâjurduuttis vuovijd čuávdiđ eennâmvuogâdvuođâkoččâmâš já ILO-sopâmuš ratifistim.</seg>
+         </tuv>
+      </tu>
+      <tu id="52">
+         <tuv lang="sme-FI">
+            <seg>Árvvus adnon dásseválddi presideanta, vaikko eanan- ja čáhcevuoigatvuođaide ii leatge vel gávdnon čoavddus, ođđa sámediggi lea vástidan gohččumii ja lea álgán ohcat ovdagáttuid haga ođđa čoavddusmálliid eananvuoigatvuohtagažaldahkii ja buktá iežas evttohusa stáhtaváldái ja almmolašvuhtii vel dán giđa áigge.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Áárvust oonnum täsivääldi president, veikkâ čuávdus ij lah valagin kavnum, uđđâ sämitigge lii västidâm koččomân já usâškuáttâm uđđâ ovdâjurduuttis čuávdimmaallijd eennâmvuogâdvuođâkoččâmâšân já puáhtá jieijâs iävtuttâs stáátâvááldán já almolâšvuotân vala taam kiiđâ ääigi.</seg>
+         </tuv>
+      </tu>
+      <tu id="53">
+         <tuv lang="sme-FI">
+            <seg>Mii bivditnai gudnejahtton dásseválddi presideantta movttiidahttit stáhtaráđi ain ođđasit čoavdit ovttas sámedikkiin eanan- ja čáhcevuoigatvuohtagažaldaga ja jávkadit áruid ILO 169-soahpamuša ratifiseremis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Pivdep-uv täsivääldi president movtijditteđ ain-uv staatârääđi čuávdiđ oovtâst sämitiggijn eennâmvuogâdvuođâkoččâmâš já väldiđ meddâl iästuid ILO 169-sopâmuš ratifistmist.</seg>
+         </tuv>
+      </tu>
+      <tu id="54">
+         <tuv lang="sme-FI">
+            <seg>Stáhtaráđi galggalii movttiidahttit, ahte dat gieđahalalii sámedikki evttohusaid ovdagáttuid haga ja gudnejahttimiin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kolgâččij movtijdittiđ staatârääđi kieđâvuššâđ sämitige iävtuttâsâid ovdâjurduittáá já kunnijâtmáin.</seg>
+         </tuv>
+      </tu>
+      <tu id="55">
+         <tuv lang="sme-FI">
+            <seg>Muhto dál árvvus adnon guossit, lea áigi ávvudit Suoma sápmelaččaid ja lea áigi čájehit alcceseamet ja earáide maid sámi kultuvra sápmelaččaide máksá ja man olu mii atnit gudnis sápmelašvuođa.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mutâ tääl, áárvust oonnum kyesih, lii äigi ávudiđ Suomâ sämmilijd já lii äigi čäittiđ olssân já iärásáid, maid sämikulttuur meerhâš sämmiláid já mon ennuu toollâp áárvust sämmilâšvuođâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="56">
+         <tuv lang="sme-FI">
+            <seg>Jotkot buohkat ovttas barggu sápmelaččaiguin ja sápmelaččaid beales.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Juátkup oovtâst pargo sämmilijguin já säämilij peeleest.</seg>
+         </tuv>
+      </tu>
+      <tu id="57">
+         <tuv lang="sme-FI">
+            <seg>Buorit bovdejuvvon guossit, ustibat, mus lea illu ja gudni sávvat didjiide váimmolaččat buresboahtima sámedikki guossin sámedikki rahpamii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Pyereh povdejum kyesih, usteveh, lii ilo já kunnee tuáivuttiđ tii váimulávt pyereestpuátimân sämitige kyessin sämitige lekkâmân.</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>
