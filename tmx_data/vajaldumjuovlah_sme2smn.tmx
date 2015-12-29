@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="EN-US"
+           srclang="sme-FI"
+           datatype="plaintext"/>
+   <body>
+      <tu id="1">
+         <tuv lang="sme-FI">
+            <seg>Giláš mii vajáldahtii juovllaid</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Siijdâš, mii vájálditij juovlâid (Boahtteáiggeriika)</seg>
+         </tuv>
+      </tu>
+      <tu id="2">
+         <tuv lang="sme-FI">
+            <seg>Várrevielttis lei oktonas uhca giláš.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Värivieltist lâi ohtuunis uccâ siijdâš.</seg>
+         </tuv>
+      </tu>
+      <tu id="3">
+         <tuv lang="sme-FI">
+            <seg>Olbmot geat dán gilis orro ledje seammaláganat go olbmot eará ge giliin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ulmuuh, kiäh taan siijdâst urruu, lijjii siämmáálágáneh ko ulmuuh eres-uv siijdâin.</seg>
+         </tuv>
+      </tu>
+      <tu id="4">
+         <tuv lang="sme-FI">
+            <seg>Muhtimat ledje stuorábut go earát, já muhtimat fas unnibut: muhtimat ledje viššalat, ja earát fas láikkit; ja muhtimat liikojedje vuššon guollegáhkuide buorebut go biergogáhkuide, ja earát fas liikojedje biergogáhkuide buorebut go vuššon guollegáhkuide.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Motomeh lijjii stuárráábeh ko nubeh já motomeh vuod ucebeh: motomeh lijjii viššâleh já motomeh vuod lääških; já motomeh lijkkojii vuoššum kyelikáhhoid eenâb ko piärgukáhhoid, já motomeh vuod lijkkojii piärgukáhhoid eenâb ko vuoššum kyelikáhhoid.</seg>
+         </tuv>
+      </tu>
+      <tu id="5">
+         <tuv lang="sme-FI">
+            <seg>Nu ahte sii ledje viehka iešguđetláganat, dušše ovtta dáfus ledje ovttaláganat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Nuuvt et sij lijjii jieškote-uvlágáneh, mut tuš oovtâ tááhust sij lijjii siämmáámuđusiih.</seg>
+         </tuv>
+      </tu>
+      <tu id="6">
+         <tuv lang="sme-FI">
+            <seg>Sii ledje hirbmat vajáldahkkásat, ja sáhtte vajáldahttit ipmašeamos áššiid, buohkat oktanaga.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sij lijjii hirmâd vájálditteeh, já sij sattii vájáldittiđ puoh immâšumos aašijd, puohah siämmáá ääigi.</seg>
+         </tuv>
+      </tu>
+      <tu id="7">
+         <tuv lang="sme-FI">
+            <seg>Oktii vajáldahtte coggat skuovaid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ohtii sij vájáldittii kamâdâttâđ.</seg>
+         </tuv>
+      </tu>
+      <tu id="8">
+         <tuv lang="sme-FI">
+            <seg>Miehtá geasi lei oainnát leamaš hirbmat báhkka, nu ahte buohkat ledje álásjulggiid vázzán.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Miätá keesi lijjii lamaš paahah, nuuvt et puohah lijjii päljisjuolgij vázzám.</seg>
+         </tuv>
+      </tu>
+      <tu id="9">
+         <tuv lang="sme-FI">
+            <seg>Ja go čakča bođii, de vajáldahtte coggamis skuovaid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Já ko čohčâlui, te sij vájáldittii kamâdâttâđ.</seg>
+         </tuv>
+      </tu>
+      <tu id="10">
+         <tuv lang="sme-FI">
+            <seg>- "Vai máilbmi, man čoaskkis dat dál gis lea!" váidaledje guhtetguoibmáseaset.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- "Vuoi maailm, mon čuáskis täälgis lii!" sij vaidii kuáimásis.</seg>
+         </tuv>
+      </tu>
+      <tu id="11">
+         <tuv lang="sme-FI">
+            <seg>- "Na, in ádde mo galggaš mannat jus vel eanet buolašta", lohke sii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- "Na jiem mun addii, maht jo koolgâš moonnâđ, jos vala eenâb puolâšt", sij ettii.</seg>
+         </tuv>
+      </tu>
+      <tu id="12">
+         <tuv lang="sme-FI">
+            <seg>- "Vearrámus šaddá, go dal de muohttigoahtá", lasihedje vel.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- "Viärráámus šadda ko muáttáá", sij ain lasettii.</seg>
+         </tuv>
+      </tu>
+      <tu id="13">
+         <tuv lang="sme-FI">
+            <seg>Ja go muohttigođii, de manne gápmagiid haga olggos ja váidaledje:</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Já ko muáttái, te sij monnii kammuittáá olgos já vaidii:</seg>
+         </tuv>
+      </tu>
+      <tu id="14">
+         <tuv lang="sme-FI">
+            <seg>- Vuoi, dál gal lea várra buolaš, ja nie vázze ja gollo.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- Vuoih, tääl kale lii vissâ puolâš, já nuuvt te sij vazzii já kalmojii.</seg>
+         </tuv>
+      </tu>
+      <tu id="15">
+         <tuv lang="sme-FI">
+            <seg>De muhtin beaivvi leigga guokte áhku čuožžumin muhtin luoddaearus ja goallojulggiid hálešteamen.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Te motomin láin ááhukyevtis čuážžumin mottoom luoddâiärust já päljisjuolgij sáárnudmin.</seg>
+         </tuv>
+      </tu>
+      <tu id="16">
+         <tuv lang="sme-FI">
+            <seg>De oinniiga muhtin gándda gii jearahalai rávddis manne son gámaha heastta, ja de fuomášeigga ahte leigga vajáldahttán coggat skuovaid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>De suoi oinijn mottoom kaandâ, kote koijâdâlâi rävdest, mondiet sun kamâdât hiäppuš, jeđe huámášáin, et suoi jiejah lain vájáldittâm kamâdâttâđ.</seg>
+         </tuv>
+      </tu>
+      <tu id="17">
+         <tuv lang="sme-FI">
+            <seg>De viehkaleigga ruoktot ja cokkaiga skuovaid, ja maŋŋil manai nubbi nuorttas ja nubbi fas oarjjás muitalit olbmuide manne sis galbmojit juolggit.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Te suoi kaččâláin pááikán, kamâdâđáin, já tastmaŋa nubbe moonâi nuortâs já nubbe vuod uárjás muštâliđ ulmuid, mondiet sist jyelgih kalmojeh.</seg>
+         </tuv>
+      </tu>
+      <tu id="18">
+         <tuv lang="sme-FI">
+            <seg>Ja de cogge buohkat skuovaid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Já nuuvt te puohah kamâdâttii.</seg>
+         </tuv>
+      </tu>
+      <tu id="19">
+         <tuv lang="sme-FI">
+            <seg>Eará háve ledje vajáldahttán boradit.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Eres tove sij lijjii vájáldittám purâdiđ.</seg>
+         </tuv>
+      </tu>
+      <tu id="20">
+         <tuv lang="sme-FI">
+            <seg>Sii vázze máŋga beaivvi borakeahttá, ja loahpas buohccájedje buohkat ja fertejedje velledit ja čuojahit doaktárii, muhto son ii sáhttán boahtit go lei vajáldahttán boradit, nu ahte son lei seamma buozas go dat earát.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sij vazzii maŋgâ peeivi purâhánnáá, já loopâst sij puosâškuottii puohah, ferttejii viäluttâllâđ já suáittiđ tuáhtárân, mut ij sun puáhtám puáttiđ, ko sun še lâi vájáldittám purâdiđ, nuuvt et sun lâi siämmáá illávaje ko iäráseh.</seg>
+         </tuv>
+      </tu>
+      <tu id="21">
+         <tuv lang="sme-FI">
+            <seg>Ovtta beaivvi go doavttir lei julggiid nalde, iđii sáhpánčivga mas lei vuostabihttá njálmmis, ja de gal fuomášii doavttir ahte maid sii ledje vajáldahttán.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mottoom peeivi, ko tuáhtár lâi juolgijdis alne, iiđij säpliguđâgâš, mast lâi vuástápittá njäälmist, jeđe kale tuáhtár-uv huámmášij, maid sij lijjii vájáldittâm.</seg>
+         </tuv>
+      </tu>
+      <tu id="22">
+         <tuv lang="sme-FI">
+            <seg>Ja de lihkai ja boradii, ja maŋŋil vulggii galledit buhcciid miehtá gili ja fuomášahtii sidjiide ahte sii ledje vajáldahttán boradit.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Já nuuvt te sun pajanij já purâdij já tastmaŋa juuđij pyeccei kulen miätá siijdâ já huámmášitij sijjân, et sij lijjii vájáldittâm purâdiđ.</seg>
+         </tuv>
+      </tu>
+      <tu id="23">
+         <tuv lang="sme-FI">
+            <seg>Ja de lihkke buohkat ja boradedje, ja de gal dearvvasmuvve fas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Já te puohah pajanii já purâdii, já nuuvt sij puáránii vuod.</seg>
+         </tuv>
+      </tu>
+      <tu id="24">
+         <tuv lang="sme-FI">
+            <seg>Muhto vearrámus lei dalle go vajáldahtte ahte fargga ledje juovllat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mut viärráámus lâi talle ko sij vájáldittii, et forgâ lijjii juovlah.</seg>
+         </tuv>
+      </tu>
+      <tu id="25">
+         <tuv lang="sme-FI">
+            <seg>Ja beaivvi ovdal juovlaruohta, de ii lean oktage čorgen stobu ii ge heŋgen buhtes láseliinniid, ii oktage lean viežžan juovlamuora, ja buvdalásain ii lean ii juovlanigáhápma ge.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Já lâi peivi ovdil juovlâááptu, te ij lam ohtâgin čurgim tuve ige koccoom putes lasâliijnijd, ij ohtâgin lamaš viežžâm juovlâmuorâ, já puvdâlaasâin ij lam ij juovlâtoontu muátunaamargin.</seg>
+         </tuv>
+      </tu>
+      <tu id="26">
+         <tuv lang="sme-FI">
+            <seg>Skuvlamánat lávlo giđđalávlagiid, ii ge gili gáhkkolihtiin lean čáradasrieggáš ge.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Škovlâpárnááh lavluu kiđđâlavluid, ige siijdâ kákkuliitijn lamaš vuojâčalmegin.</seg>
+         </tuv>
+      </tu>
+      <tu id="27">
+         <tuv lang="sme-FI">
+            <seg>Muhtin uhca stobožis bajimuččas gilis, vuovderávddas, váccašii uhca nieiddaš ja smiehtai ja smiehtai.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mottoom uccâ tuuváást paijeen siijdâst, vyevdiroobdâst, vazâččij uccâ nieidâš já smietâi já smietâi.</seg>
+         </tuv>
+      </tu>
+      <tu id="28">
+         <tuv lang="sme-FI">
+            <seg>Son lei dušše viđajahkásaš, ja muđui gal lávii njuikut ja dánsut ja duhkoraddat ja suohtastallat, muhto dál váccii dušše ja smiehtai.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sun lâi tuše viiđâihásâš, já mudoi kale sun laavij njuškođ já tánssáđ já sierâdiđ já suotâstâllâđ, mut tääl sun vaazij tuše já smietâi.</seg>
+         </tuv>
+      </tu>
+      <tu id="29">
+         <tuv lang="sme-FI">
+            <seg>Son manai vuovdái ja geahčadii smávva guosažiid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sun moonâi miäcán já kejâdij uccâ kuosijd.</seg>
+         </tuv>
+      </tu>
+      <tu id="30">
+         <tuv lang="sme-FI">
+            <seg>- Lea vuot juoga maid mii leat vajáldahttán, logai nieiddaš iežainis, ja dat orru guoskamen unna guosažii, muhto in muitte, mii dat lea.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- Lii vuod miinii, maid mij lep vájáldittâm, eeđâi nieidâš jiečânis, já tot oro labdasmin uccâ kuosâžân, mut jiem mušte, et mii tot lii.</seg>
+         </tuv>
+      </tu>
+      <tu id="31">
+         <tuv lang="sme-FI">
+            <seg>De manai nieiddaš stohpui ja ozai skieraid ja veháš ránes báhpára.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Te nieidâš moonâi tupán já uusâi skerreid já váhá ränis páppár.</seg>
+         </tuv>
+      </tu>
+      <tu id="32">
+         <tuv lang="sme-FI">
+            <seg>- Orru guoskamen skieraide maiddái, jurddašii nieiddaš muhto in muitte, mii dat lea.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- Oro labdasmin skerreid še, nieidâš jurdâččij, mut jiem mušte, mii tot lii.</seg>
+         </tuv>
+      </tu>
+      <tu id="33">
+         <tuv lang="sme-FI">
+            <seg>De manai nieiddaš láhtui, doppe áiccai gordnegihpu maid áhčči lei heŋgen muhtin rohpebielkka vuollái vai sáhpánat eai olat dan.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Te nieidâš moonâi láátun já aaicâi tobbeen jivekieddee, mon eeči lâi heŋgâstâm mottoom roperuottâs vuálá, vâi säpligeh iä olláám toos.</seg>
+         </tuv>
+      </tu>
+      <tu id="34">
+         <tuv lang="sme-FI">
+            <seg>- Dat orru maiddái guoskamen dán gordnegihppui, jurddašii nieiddaš, ja čuoččui das ja geahčadii birra, ja de fuomášii dan guhkes stákku masa lávejit čatnat juovlagordnegihpu.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- Taat še oro labdasmin taam jivekieddei, nieidâš jurdâččij, čuážui tast já kejâdij pirrâsis, jeđe sun huámmášij tom kuhes stáágu, moos läävejeh čoonnâđ juovlâjivekieddee.</seg>
+         </tuv>
+      </tu>
+      <tu id="35">
+         <tuv lang="sme-FI">
+            <seg>Ja de gal muitái unna nieiddaš ahte juovllat han leat fargga.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Jeđe uccâ nieidâš muštái, et juovlâhhân lijjii forgâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="36">
+         <tuv lang="sme-FI">
+            <seg>- "Vuoi, odne han lea maŋimuš beaivi ovdal juovlaruohta, maŋimuš beaivi ovdal juovlaruohta!" čuorvvui nieiddaš ja viehkalii sisa muitalit dan eadnái ja áhččái, muhto eaba soai lean siste.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- "Vuoi, onne lii majemuš peivi ovdil juovlâááptu, majemuš peivi ovdil juovlâááptu!" nieidâš čuárvui já kaččâlij siisâ muštâliđ taam iänán já iäčán, mut iävá suoi lamaš siste.</seg>
+         </tuv>
+      </tu>
+      <tu id="37">
+         <tuv lang="sme-FI">
+            <seg>- Vuoi, mo galggan sáhttit buohkaide gilis muitalit ahte juovllat han leat fargga?</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- Vuoi, maht mun koolgâm muštâliđ puohháid siijdâst, et forgâ láá juovlah?</seg>
+         </tuv>
+      </tu>
+      <tu id="38">
+         <tuv lang="sme-FI">
+            <seg>"Ja mo galggan muitalit ahte odne lea maŋimuš beaivi ovdal juovlaruohta?" logai nieiddaš.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>"Já maht mun koolgâm muštâliđ, et onne lii áátuáptu?" nieidâš smietâi.</seg>
+         </tuv>
+      </tu>
+      <tu id="39">
+         <tuv lang="sme-FI">
+            <seg>Son geahččalii čatnat gordnegihpu dan guhkes stággogeahčái, muhto ii ožžon dan dasa.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sun iiskâi čoonnâđ jivekieddee ton kuhes stággukiäčán, mut ij finnim tom toos.</seg>
+         </tuv>
+      </tu>
+      <tu id="40">
+         <tuv lang="sme-FI">
+            <seg>Muhto de fuomášii maid galgga dahkat!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mut te sun huámmášij, maid sun koolgâi porgâđ!</seg>
+         </tuv>
+      </tu>
+      <tu id="41">
+         <tuv lang="sme-FI">
+            <seg>Flávdastággu!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lippustággu!</seg>
+         </tuv>
+      </tu>
+      <tu id="42">
+         <tuv lang="sme-FI">
+            <seg>Son han sáhttá geassit gordnegihpu flávdastággui!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sunhân puáhtá keessiđ jivekieddee lippustáágun!</seg>
+         </tuv>
+      </tu>
+      <tu id="43">
+         <tuv lang="sme-FI">
+            <seg>Ja dan son gal nagadii, ja dalán go nieiddaš lei dan dahkan, girdilii unna vuovdegaccehaš nu fáhkka bajimus oavssis dan guhkimus guosas ahte muohta gahčai vulos guosa mielde.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Já tom sun kale avoojij porgâđ, já tállân ko nieidâš lâi tom porgâm, kirdâččij uccâ vyevdicissááš fakkist pajemuu uávsist ton kuhemuu kuosâst, et muotâ koočâi vuálus kuosâ mield.</seg>
+         </tuv>
+      </tu>
+      <tu id="44">
+         <tuv lang="sme-FI">
+            <seg>- "Gosa don áiggut, gosa don áiggut?" vizardedje eará vuovdegaccehat mat čohkkájedje ja oađestuvve ovssiid gaskkas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- "Kuus tun ááiguh, kuus tun ááiguh?" visârdii eres vyevdicissááh, moh čokkájii já uáđistuvvii ovsij kooskâst.</seg>
+         </tuv>
+      </tu>
+      <tu id="45">
+         <tuv lang="sme-FI">
+            <seg>- Juovllat han leat, juovllat han leat, nieiddaš lea ceggen juovlagordnegihpu!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- Juovlahhân láá, juovlahhân láá, nieidâš lii ceggim juovlâjivekieddee!</seg>
+         </tuv>
+      </tu>
+      <tu id="46">
+         <tuv lang="sme-FI">
+            <seg>- Mii maiddái vuolgit mielde, mii maiddái vuolgit mielde, vizardedje dat eará vuovdegaccehat ja girdiledje.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- Mij še vyelgip fáárun, mij še vyelgip fáárun, visârdii toh eres vyevdicissááh já kirdelii.</seg>
+         </tuv>
+      </tu>
+      <tu id="47">
+         <tuv lang="sme-FI">
+            <seg>- "Gosa dii áigubehtet, gosa dii áigubehtet?" čurvo cizážat mat čohkkájedje telefunstreaŋggaid alde.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- "Kuus tij áiguvetteđ, kuus tij áiguvetteđ?" čuorvuu toh cissááh, moh čokkájii puhelinšraaŋgâi alne.</seg>
+         </tuv>
+      </tu>
+      <tu id="48">
+         <tuv lang="sme-FI">
+            <seg>- "Juovllat leat, juovllat leat, nieiddaš lea ceggen juovlagordnegihpu!" vizardedje vuovdegaccehat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- "Juovlah láá, juovlah láá, nieidâš lii ceggim juovlâjivekieddee!" visârdij vyevdicissááš.</seg>
+         </tuv>
+      </tu>
+      <tu id="49">
+         <tuv lang="sme-FI">
+            <seg>- Mii maiddái vuolgit, mii maiddái vuolgit, lávlo cizážat ja girdiledje oktanaga telefunstreaŋggain nu ahte telefonguovddáža nissoniin čudje bealjit.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- Mij še vyelgip, mij še vyelgip, lavluu cissááh já kirdelii siämmáá ääigi puhelinšraaŋgâin nuuvt et puhelinkuávdáá nisonijn peeljih čuoijii.</seg>
+         </tuv>
+      </tu>
+      <tu id="50">
+         <tuv lang="sme-FI">
+            <seg>Ja justa dalle girdiledje buot ruksesruoivilat beatnat-ruovssomuorjemuorain gilvvagárddis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Já eidu talle kirdelii puoh ruopsisryeivileh pennuuruvsumyerjimuorâin šaddokäärdist.</seg>
+         </tuv>
+      </tu>
+      <tu id="51">
+         <tuv lang="sme-FI">
+            <seg>Nissonat teleguovddážis viegaiga lásii geahččat gosa cizážat girdiledje, ja dalle áiccaiga juovlagordnegihpu flávdastákkus.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Puhelinkuávdáá nissoonkyevtis kaččâláin laasâ kuuvl keččâđ, kuus cissááh kirdelii, já talle suoi huámmášáin juovlâjivekieddee lippustáágust.</seg>
+         </tuv>
+      </tu>
+      <tu id="52">
+         <tuv lang="sme-FI">
+            <seg>Ja de čuojahišgođiiga miehtá gili ja muitaleigga ahte sii leat vajálduhttán ahte juovllat han leat fargga.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Já nuuvt suoi suáituškuođijn pirrâ siijdâ já muštâláin, et sij láá vájáldittám, et juovlah láá forgâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="53">
+         <tuv lang="sme-FI">
+            <seg>Ja de láibugohte ja vuoššagohte ja biđđigohte olbmot, muhtimat fas čorgejedje stobu, ja earát fas heŋgejedje buhtes láseliinniid ja muhtimat manne meahccái ohcat juovlamuora ja muhtimat páhkkejedje juovlaskeaŋkkaid maid ledje rádjan ovdal go vajáldahttigohte, ja earát heŋgejedje juovlanásttiid lásaide.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Já nuuvt te ulmuuh liäibuškuottii já mälistskuottii já steikkiiškuottii, motomeh vuod čorgejii tuve, já iäráseh vest heŋgâstii putes lasâliijnijd já motomeh monnii miäcán uuccâđ juovlâmuorâ já motomeh kiessii pápárân juovlâskeeŋkâid, maid sij lijjii ráhtám ovdilgo vájálditškuottii, já iäráseh heŋguu juovlâtaasnijd lassáid.</seg>
+         </tuv>
+      </tu>
+      <tu id="54">
+         <tuv lang="sme-FI">
+            <seg>Ja loahpas gorgŋo buohkat gilis stuorra máilmmi stámpii maid gili snihkkár lei ráhkadan dan botta go dat earát čiŋahedje ja ráhkkanedje juovllaide, ja de lávggodedje buohkat oktanaga.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Já loopâst puohah siijdâst korŋuu maailm stuárráámuu šaavân, mon siijdâ šnikkár lâi ráhtám ton puudâ ko iäráseh hervâttii já rahtii juovlâid, já nuuvt te puohah lavguu oovtâst.</seg>
+         </tuv>
+      </tu>
+      <tu id="55">
+         <tuv lang="sme-FI">
+            <seg>Ja justa dalle go ledje geargan ja molssodan, ja go unna nieiddaža eadni bajimuččas gilis lei čatnamen silkebátti nieiddaža vuovttaide..</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Já eidu talle ko sij lijjii kiergânâm já molsom pihtâsijd, já ko uccâ nieidii enni paijeen siijdâst lâi čonâmin silkkepäädi nieidii vuoptáid…</seg>
+         </tuv>
+      </tu>
+      <tu id="56">
+         <tuv lang="sme-FI">
+            <seg>Justa dalle čuodjagohte girkobiellut.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Eidu talle čuojâškuottii kirhokiäluh.</seg>
+         </tuv>
+      </tu>
+      <tu id="57">
+         <tuv lang="sme-FI">
+            <seg>Ja de ledje juovllat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Já te lijjii juovlah.</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>
