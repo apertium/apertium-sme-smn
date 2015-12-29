@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="EN-US"
+           srclang="sme-FI"
+           datatype="plaintext"/>
+   <body>
+      <tu id="1">
+         <tuv lang="sme-FI">
+            <seg>Gos Duommá lea?</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kost Tyemes lii?</seg>
+         </tuv>
+      </tu>
+      <tu id="2">
+         <tuv lang="sme-FI">
+            <seg>Duommá ja Máret leaba muorragárddis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tyemes já Maarit lává muorâkäärdist.</seg>
+         </tuv>
+      </tu>
+      <tu id="3">
+         <tuv lang="sme-FI">
+            <seg>Lea buorre dálki odne, lea hui liekkas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lii šiev šoŋŋâ onne, lii uáli liegâs.</seg>
+         </tuv>
+      </tu>
+      <tu id="4">
+         <tuv lang="sme-FI">
+            <seg>Muhte ikte lei hui galmmas!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mutâ jieht lâi uáli koolmâs!</seg>
+         </tuv>
+      </tu>
+      <tu id="5">
+         <tuv lang="sme-FI">
+            <seg>Soai eaba sáhttán stoahkat dalle olgun.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Suoi iävá puáhtám sierâdiđ talle olgon.</seg>
+         </tuv>
+      </tu>
+      <tu id="6">
+         <tuv lang="sme-FI">
+            <seg>Duommá ja Máret liikoba stoahkat, soai stoahkaba álo ovttas muorragárddis stuora dálu olggobealde.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tyemes já Maarit lijkkuv sierâdmân, suoi sierâdává ain oovtâst muorâkäärdist stuorrâ táálu ulguubeln.</seg>
+         </tuv>
+      </tu>
+      <tu id="7">
+         <tuv lang="sme-FI">
+            <seg>Duommá lea unna gánddaš ja son lea guhtta jagi boaris.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tyemes lii uccâ kaandâš já sun lii kuuđâ ihásâš.</seg>
+         </tuv>
+      </tu>
+      <tu id="8">
+         <tuv lang="sme-FI">
+            <seg>Unna nieiddaš lea su oappáš, son lea vihtta jagi boaris.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Uccâ nieidâš lii suu uábáš, sun lii viiđâ ihásâš.</seg>
+         </tuv>
+      </tu>
+      <tu id="9">
+         <tuv lang="sme-FI">
+            <seg>Duommás lea unna beatnagaš, dat nai lea dál muorragárddis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tuámásist lii uccâ pennâgâš, tot meid lii tääl muorâkäärdist.</seg>
+         </tuv>
+      </tu>
+      <tu id="10">
+         <tuv lang="sme-FI">
+            <seg>Beana liiko stoahkat dainna guvttiin mánáin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Peenuv lijkkoo sierâdiđ tain kuovttijn párnáin.</seg>
+         </tuv>
+      </tu>
+      <tu id="11">
+         <tuv lang="sme-FI">
+            <seg>Beana lea hui ilolaš dál.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Peenuv lii uáli moovtâ tääl.</seg>
+         </tuv>
+      </tu>
+      <tu id="12">
+         <tuv lang="sme-FI">
+            <seg>Leago Márehis maid beana?</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lii-uv Marittist meid peenuv?</seg>
+         </tuv>
+      </tu>
+      <tu id="13">
+         <tuv lang="sme-FI">
+            <seg>Ii, Márehis ii leat beana, sus lea bussá.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ij, Marittist ij lah peenuv, sust lii kissá.</seg>
+         </tuv>
+      </tu>
+      <tu id="14">
+         <tuv lang="sme-FI">
+            <seg>Muhte bussá lea dálus, bussá oađđá.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mutâ kissá lii táálust, kissá uáđá.</seg>
+         </tuv>
+      </tu>
+      <tu id="15">
+         <tuv lang="sme-FI">
+            <seg>Sudno eadni lea dálu siste bussáin ovttas, son geahččá láseráiggi olggos ja oaidná Duommá ja Máreha stoahkame.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sunnuu enni lii siste táálust kissáin, sun kiäččá lasârääigi olgos já uáiná Tuámmás já Maarit sierâdmin.</seg>
+         </tuv>
+      </tu>
+      <tu id="16">
+         <tuv lang="sme-FI">
+            <seg>Duommá viehká johtilit stuora boares muora lusa, son čiehkáda Márehis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tyemes káččá stuorrâ puáris muorâ luusâ, sun čiähádât Marittist.</seg>
+         </tuv>
+      </tu>
+      <tu id="17">
+         <tuv lang="sme-FI">
+            <seg>Dieđátgo manne?</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tiäđáh-uv mandiet?</seg>
+         </tuv>
+      </tu>
+      <tu id="18">
+         <tuv lang="sme-FI">
+            <seg>Máret čohkká ja sus leat gieđat čalmmiid ovddas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Maarit čokkáá já sust láá kieđah čoolmij oovdâst.</seg>
+         </tuv>
+      </tu>
+      <tu id="19">
+         <tuv lang="sme-FI">
+            <seg>Son ii oainne maidege ja son lohká.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sun ij uáini maiden já sun lohá.</seg>
+         </tuv>
+      </tu>
+      <tu id="20">
+         <tuv lang="sme-FI">
+            <seg>Manne son dahká nu?</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mondiet sun taha nuuvt?</seg>
+         </tuv>
+      </tu>
+      <tu id="21">
+         <tuv lang="sme-FI">
+            <seg>Ja maid Duommá dahká muora luhtte?</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Já maid Tyemes taha muorâ lunne?</seg>
+         </tuv>
+      </tu>
+      <tu id="22">
+         <tuv lang="sme-FI">
+            <seg>Dat lea stoagus.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tot lii sierâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="23">
+         <tuv lang="sme-FI">
+            <seg>Go Máret geargá lohkamis, son geahččá birra.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ko Maarit kiergân luhâmist, sun kiäččá pirrâsis.</seg>
+         </tuv>
+      </tu>
+      <tu id="24">
+         <tuv lang="sme-FI">
+            <seg>Son ohcá Duommá:</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sun ocá Tuámmás:</seg>
+         </tuv>
+      </tu>
+      <tu id="25">
+         <tuv lang="sme-FI">
+            <seg>Gosa dat manai?</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kuus tot moonâi?</seg>
+         </tuv>
+      </tu>
+      <tu id="26">
+         <tuv lang="sme-FI">
+            <seg>Oidnetgo su?</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Oinih-uv suu?</seg>
+         </tuv>
+      </tu>
+      <tu id="27">
+         <tuv lang="sme-FI">
+            <seg>Máret ii dieđe gos Duommá lea.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Maarit ij tieđe kost Tyemes lii.</seg>
+         </tuv>
+      </tu>
+      <tu id="28">
+         <tuv lang="sme-FI">
+            <seg>Son jearrá beatnagis:</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sun koijâd pennust:</seg>
+         </tuv>
+      </tu>
+      <tu id="29">
+         <tuv lang="sme-FI">
+            <seg>Oidnetgo Duommá?</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Oinih-uv Tuámmás?</seg>
+         </tuv>
+      </tu>
+      <tu id="30">
+         <tuv lang="sme-FI">
+            <seg>Muhte beana dieđusge ii máhte hállat!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mutâ peenuv tiäđustkin ij määti sárnuđ!</seg>
+         </tuv>
+      </tu>
+      <tu id="31">
+         <tuv lang="sme-FI">
+            <seg>Máret ii oaččo vástádusa gažaldahkasis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Maarit ij uážu vástádâs.</seg>
+         </tuv>
+      </tu>
+      <tu id="32">
+         <tuv lang="sme-FI">
+            <seg>Ii giige oaččo vástádusa, go hállet beatnagiiguin!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ij kihheen uážu vástádâs, ko sárnu pennuiguin!</seg>
+         </tuv>
+      </tu>
+      <tu id="33">
+         <tuv lang="sme-FI">
+            <seg>Máret geahččá eatnis láse duohken, su eadni čaibmá.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Maarit kiäččá eenis laasâ tyehin, enni povvust.</seg>
+         </tuv>
+      </tu>
+      <tu id="34">
+         <tuv lang="sme-FI">
+            <seg>Máret smiehttá, ahte dat lea oaidnán gosa Duommá lea mannan:</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Maarit smiättá, ete tot lii uáinám kuus Tyemes lii moonnâm:</seg>
+         </tuv>
+      </tu>
+      <tu id="35">
+         <tuv lang="sme-FI">
+            <seg>"Muital munnje gos son lea!", son dadjá eadnásis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>"Muštâl munjin kost sun lii!", sun iätá iännásis.</seg>
+         </tuv>
+      </tu>
+      <tu id="36">
+         <tuv lang="sme-FI">
+            <seg>"Ii Máret, in sáhte muitalit dutnje!", son vástida.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>"Ij Maarit, jiem pyevti muštâliđ tunjin!", sun västid.</seg>
+         </tuv>
+      </tu>
+      <tu id="37">
+         <tuv lang="sme-FI">
+            <seg>Vaikke son várra diehtá gos gánda lea, son ii siđa muitalit.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Veik sun kenski tiätá kost kandâ lii, sun ij haalijd muštâliđ.</seg>
+         </tuv>
+      </tu>
+      <tu id="38">
+         <tuv lang="sme-FI">
+            <seg>Máret vázzá hihtásit muorragárddi čađa.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Maarit vázzá hitásávt muorâkäärdi čoođâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="39">
+         <tuv lang="sme-FI">
+            <seg>Son geahččala ain ohcat Duommá.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sun keččâl val uuccâđ Tuámmás.</seg>
+         </tuv>
+      </tu>
+      <tu id="40">
+         <tuv lang="sme-FI">
+            <seg>Son geahččá beavddi vuolde ja stuoluid vuolde, muhte Duommá ii leat dieppe.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sun kiäččá peevdi vyelni já stoovlij vyelni, mutâ Tyemes ij lah tobbeen.</seg>
+         </tuv>
+      </tu>
+      <tu id="41">
+         <tuv lang="sme-FI">
+            <seg>Son geahččá juohke sajis, muhte ii son sáhte gávdnat Duommá.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sun kiäččá jyehi saajeest, mutâ ij sun pyevti kavnâđ Tuámmmás.</seg>
+         </tuv>
+      </tu>
+      <tu id="42">
+         <tuv lang="sme-FI">
+            <seg>De son gullá jiena, dat boahtá stuora boares muora duohken.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Te sun kulá jienâ, tot puátá stuorrâ puáris muorâ tyehin.</seg>
+         </tuv>
+      </tu>
+      <tu id="43">
+         <tuv lang="sme-FI">
+            <seg>Sáhtášiigo leat Duommá?</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Puávtáččij-uv tot leđe Tyemes?</seg>
+         </tuv>
+      </tu>
+      <tu id="44">
+         <tuv lang="sme-FI">
+            <seg>Die dat jietna lea fas!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tovben tot jienâ lii oppeet!</seg>
+         </tuv>
+      </tu>
+      <tu id="45">
+         <tuv lang="sme-FI">
+            <seg>Son guldala dárkilit.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sun kuldâl tärkkilávt.</seg>
+         </tuv>
+      </tu>
+      <tu id="46">
+         <tuv lang="sme-FI">
+            <seg>Ii leat loddi iige makkárge eará ealli.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ij lah lodde ijge mihheen eres elleid.</seg>
+         </tuv>
+      </tu>
+      <tu id="47">
+         <tuv lang="sme-FI">
+            <seg>Dál son gullá dan bures.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tääl sun kulá tom pyereest.</seg>
+         </tuv>
+      </tu>
+      <tu id="48">
+         <tuv lang="sme-FI">
+            <seg>Ferte leat Duommá!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tot kalga leđe Tyemes!</seg>
+         </tuv>
+      </tu>
+      <tu id="49">
+         <tuv lang="sme-FI">
+            <seg>De son oaidná unna gieđaža nai ja go son boahtá lagabui, de son oaidná su oaivvi maid!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Te sun uáiná uccâ kieđii meid já ko sun puátá aldeláá, te sun uáiná suu uáivi meid!</seg>
+         </tuv>
+      </tu>
+      <tu id="50">
+         <tuv lang="sme-FI">
+            <seg>Máret čaibmá ja dadjá:</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Maarit povvust já iätá:</seg>
+         </tuv>
+      </tu>
+      <tu id="51">
+         <tuv lang="sme-FI">
+            <seg>Gávdnen du!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kavnim tuu!</seg>
+         </tuv>
+      </tu>
+      <tu id="52">
+         <tuv lang="sme-FI">
+            <seg>Soai goappašagat leaba ilus ja mannaba dállui, lea áigi borrat juoidá ja juhkat veaháš čázi!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Suoi kuohtuuh lává iloliih já moonnâv táálun, lii äigi puurrâđ maidnii já juuhâđ váhá čääsi!</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>
