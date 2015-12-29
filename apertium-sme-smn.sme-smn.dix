@@ -242,6 +242,7 @@
     <e><p><l>ovddas<s n="post"/></l><r>oovdâst<s n="post"/></r></p></e>
     <e><p><l>rádjai<s n="post"/></l><r>räi<s n="post"/></r></p></e> 
     <e><p><l>rájes<s n="post"/></l><r>rääjist<s n="post"/></r></p></e>
+    <e><p><l>rájis<s n="post"/></l><r>rääjist<s n="post"/></r></p></e>
     <e><p><l>siste<s n="post"/></l><r>siste<s n="post"/></r></p></e>
     <e><p><l>vulobealde<s n="post"/></l><r>vuoluubeln<s n="post"/></r></p></e>
     <e><p><l>vuolde<s n="post"/></l><r>vyelni<s n="post"/></r></p></e>
@@ -255,7 +256,7 @@
     <e><p><l>guvlui<s n="post"/></l><r>kulij<s n="post"/></r></p></e>
     <e><p><l>haga<s n="post"/></l><r></r></p></e>
     <e><p><l>luhtte<s n="post"/></l><r>kulen<s n="post"/></r></p></e>
-    <e><p><l>olis<s n="post"/></l><r>mieldi<s n="post"/></r></p></e>
+    <e><p><l>olis<s n="post"/></l><r>mield<s n="post"/></r></p></e>
     <e><p><l>sisa<s n="post"/></l><r>siisâ<s n="post"/></r></p></e>
     <e><p><l>vuostá<s n="post"/></l><r>vuástá<s n="post"/></r></p></e>
 
@@ -353,7 +354,8 @@
     <e><p><l>álásjulggiid<s n="adv"/></l><r>päljisjuolgij<s n="adv"/></r></p></e>
 
     <!-- ASECTION: Adjectives -->
-
+    
+    <e><p><l>humanisttalaš<s n="adj"/></l><r>humanistlâš<s n="adj"/></r></p></e>
     <e><p><l>arkeologalaš<s n="adj"/></l><r>arkeologâlâš<s n="adj"/></r></p></e>
     <e><p><l>šamanisttalaš<s n="adj"/></l><r>šamanistlâš<s n="adj"/></r></p></e>
     <e><p><l>otná<s n="adj"/></l><r>onnáá<s n="adj"/></r></p></e>
@@ -436,6 +438,11 @@
 
     <e><p><l>juoigan<s n="n"/></l><r>juoigâm<s n="n"/></r></p></e>
     <e><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
+    <e><p><l>Giellagas-instituhtta<s n="n"/></l><r>Giellagas-instituut<s n="n"/></r></p></e>
+    <e><p><l>váldoávnnas<s n="n"/></l><r>uáiviaamnâs<s n="n"/></r></p></e>
+    <e><p><l>sámemusea<s n="n"/></l><r>sämimuseo<s n="n"/></r></p></e>
+    <e><p><l>váldodoaibma<s n="n"/></l><r>uáivitoimâ<s n="n"/></r></p></e>
+    <e><p><l>sámekultuvra<s n="n"/></l><r>sämikulttuur<s n="n"/></r></p></e>
     <e><p><l>vehádatgiella<s n="n"/></l><r>ucceeblovokielâ<s n="n"/></r></p></e>
     <e><p><l>gievvun<s n="n"/></l><r>kiävulem<s n="n"/></r></p></e>
     <e><p><l>buozanvuohta<s n="n"/></l><r>puácuvuotâ<s n="n"/></r></p></e>
@@ -2510,7 +2517,8 @@
     <e><p><l>Čoavččesjávri<s n="np"/></l><r>Čovčjävri<s n="np"/></r></p></e>
 
     <!-- ASECTION: Verbs -->
-
+    
+    <e><p><l>vuodjut<s n="vblex"/><s n="iv"/></l><r>vuáijuđ<s n="vblex"/></r></p></e> 
     <e><p><l>sibildit<s n="vblex"/><s n="tv"/></l><r>vigâttiđ<s n="vblex"/></r></p></e> 
     <e><p><l>loddet<s n="vblex"/><s n="iv"/></l><r>loddiđ<s n="vblex"/></r></p></e> 
     <e><p><l>gáfestallat<s n="vblex"/><s n="iv"/></l><r>káhvástâllâđ<s n="vblex"/></r></p></e> 
@@ -2626,6 +2634,8 @@
 
     <!--    BSECTION: Adjectives -->
 
+    <e><p><l>máŋggadieđalaš<s n="adj"/></l><r>maaŋgâtieđâlâš<s n="adj"/></r></p></e>
+    <e><p><l>riikkavijdosaš<s n="adj"/></l><r>riijkâvijđosâš<s n="adj"/></r></p></e>
     <e><p><l>akademalaš<s n="adj"/></l><r>akateemisâš<s n="adj"/></r></p></e>
     <e><p><l>aktiiva<s n="adj"/></l><r>aktiivlâš<s n="adj"/></r></p></e>
     <e><p><l>aktiivvalaš<s n="adj"/></l><r>aktiivlâš<s n="adj"/></r></p></e>
@@ -2686,7 +2696,7 @@
     <e><p><l>dálá<s n="adj"/></l><r>tááláá<s n="adj"/></r></p></e>
     <e><p><l>dáláš<s n="adj"/></l><r>tááláš<s n="adj"/></r></p></e>
     <e><p><l>dárbbašmeahttun<s n="adj"/></l><r>taarbâšmettum<s n="adj"/></r></p></e>
-    <e><p><l>dárbbuheapme<s n="adj"/></l><r>táárbuttem<s n="adj"/></r></p></e>
+    <e><p><l>dárbbuheapme<s n="adj"/></l><r>taarbâšmettum<s n="adj"/></r></p></e>
     <e><p><l>dárki<s n="adj"/></l><r>tärkki<s n="adj"/></r></p></e>
     <e><p><l>dárkilmeahttun<s n="adj"/></l><r>epitärkki<s n="adj"/></r></p></e>
     <e><p><l>dáža<s n="adj"/></l><r>taažâ<s n="adj"/></r></p></e>
@@ -4229,7 +4239,8 @@
     <e><p><l>instituhtta<s n="n"/></l><r>instituut<s n="n"/></r></p></e>
     <e><p><l>institušuvdna<s n="n"/></l><r>lágádâs<s n="n"/></r></p></e>
     <e><p><l>ipmil<s n="n"/></l><r>immeel<s n="n"/></r></p></e>
-    <e><p><l>lehtor<s n="n"/></l><r>lehtor<s n="n"/></r></p></e>
+    <e><p><l>lektor<s n="n"/></l><r>lehtor<s n="n"/></r></p></e>
+    <e><p><l>amanuensa<s n="n"/></l><r>amanuens<s n="n"/></r></p></e>
     <e><p><l>ipmilbálvalus<s n="n"/></l><r>immeelpalvâlus<s n="n"/></r></p></e>
     <e><p><l>iskkadeapmi<s n="n"/></l><r>keččalem<s n="n"/></r></p></e>
     <e><p><l>jagiáigi<s n="n"/></l><r>iveäigi<s n="n"/></r></p></e>
@@ -5785,7 +5796,7 @@
     <e><p><l>náskál<s n="n"/></l><r>náskál<s n="n"/></r></p></e>
     <e><p><l>návdi<s n="n"/></l><r>nävdi<s n="n"/></r></p></e>
     <e><p><l>oabbá<s n="n"/></l><r>uábbi<s n="n"/></r></p></e>
-    <e><p><l>oahppu<s n="n"/></l><r>oppâ<s n="n"/></r></p></e>
+    <e><p><l>oahppu<s n="n"/></l><r>uáppu<s n="n"/></r></p></e>
     <e><p><l>oaidnu<s n="n"/></l><r>uáivil<s n="n"/></r></p></e>
     <e><p><l>oaiveskálžu<s n="n"/></l><r>uáiviskálžu<s n="n"/></r></p></e>
     <e><p><l>oaivil<s n="n"/></l><r>uáivil<s n="n"/></r></p></e>
@@ -5815,7 +5826,7 @@
     <e><p><l>ovdanbuktin<s n="n"/></l><r>oovdânpyehtim<s n="n"/></r></p></e>
     <e><p><l>ovdaolmmoš<s n="n"/></l><r>ovdâolmooš<s n="n"/></r></p></e>
     <e><p><l>ovdasaš<s n="n"/></l><r>ovdâhâš<s n="n"/></r></p></e>
-    <e><p><l>ovttadat<s n="n"/></l><r>oovtâdâh<s n="n"/></r></p></e>
+    <e><p><l>ovttadat<s n="n"/></l><r>ohtâdâh<s n="n"/></r></p></e>
     <e><p><l>ovttasbargu<s n="n"/></l><r>ovtâspargo<s n="n"/></r></p></e>
     <e><p><l>piáno<s n="n"/></l><r>piano<s n="n"/></r></p></e>
     <e><p><l>plokka<s n="n"/></l><r>avra<s n="n"/></r></p></e>
@@ -6226,6 +6237,7 @@
 
     <!--    BSECTION: Verbs  -->
 
+    <e><p><l>juhkkojuvvot<s n="vblex"/><s n="iv"/></l><r>juohhuđ<s n="vblex"/></r></p></e>
     <e><p><l>adopteret<s n="vblex"/><s n="tv"/></l><r>adoptistiđ<s n="vblex"/></r></p></e>
     <e><p><l>agáiduvvat<s n="vblex"/><s n="iv"/></l><r>eliluđ<s n="vblex"/></r></p></e>
     <e><p><l>aiddostahttit<s n="vblex"/><s n="tv"/></l><r>tärkkilistiđ<s n="vblex"/></r></p></e>
@@ -7485,7 +7497,7 @@
 <!-- CAdjectives 1-m frequency ordered -->
 
     <e><p><l>erenoamáš<s n="adj"/></l><r>eromâš<s n="adj"/></r></p></e>
-    <e><p><l>guovddáš<s n="adj"/></l><r>kuávdášlâš<s n="adj"/></r></p></e>
+    <e><p><l>guovddáš<s n="adj"/></l><r>kuávdáš<s n="adj"/></r></p></e>
     <e><p><l>mearkkašahtti<s n="adj"/></l><r>merhâšittee<s n="adj"/></r></p></e><!-- Neeta álggahan dá -->
     <e><p><l>boahtte<s n="adj"/></l><r>puáttee<s n="adj"/></r></p></e>
     <e><p><l>eambbo<s n="adj"/></l><r>eenâb<s n="adj"/></r></p></e>
@@ -8016,6 +8028,7 @@
     <e><p><l>hállemas<s n="n"/></l><r>pyhámestpeivi<s n="n"/></r></p></e>
     <e><p><l>ihtamas<s n="n"/></l><r>sooŋâš<s n="n"/></r></p></e>
     <e><p><l>joatkkaoahpahus<s n="n"/></l><r>jotkâškovlim<s n="n"/></r></p></e>
+    <e><p><l>oahpahusministeriija<s n="n"/></l><r>máttááttâsministeriö<s n="n"/></r></p></e>
     <e><p><l>jorralus<s n="n"/></l><r>jurrâmâš<s n="n"/></r></p></e>
     <e><p><l>jorralus<s n="n"/></l><r>laŋgânem<s n="n"/></r></p></e>
     <e><p><l>jálás<s n="n"/></l><r>mielgâs<s n="n"/></r></p></e>
