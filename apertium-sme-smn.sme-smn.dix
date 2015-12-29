@@ -1959,7 +1959,7 @@
     <e><p><l>Čoavččesjohka<s n="np"/></l><r>Čovčjuuhâ<s n="np"/></r></p></e>
     <e><p><l>Čoavččesjávri<s n="np"/></l><r>Čovčjävri<s n="np"/></r></p></e>
 
-    <!-- SECTION: Verbs -->
+    <!-- ASECTION: Verbs -->
 
     <e><p><l>sibildit<s n="vblex"/><s n="tv"/></l><r>vigâttiđ<s n="vblex"/></r></p></e> 
     <e><p><l>loddet<s n="vblex"/><s n="iv"/></l><r>loddiđ<s n="vblex"/></r></p></e> 
@@ -1971,6 +1971,7 @@
     <e><p><l>čiehkádit<s n="vblex"/><s n="iv"/></l><r>čiähádâttâđ<s n="vblex"/></r></p></e>
     <e><p><l>goastat<s n="vblex"/><s n="iv"/></l><r>kostâđ<s n="vblex"/></r></p></e> 
     <e><p><l>joavdit<s n="vblex"/><s n="iv"/></l><r>pyevtittiđ<s n="vblex"/></r></p></e> 
+    <e><p><l>juohkásit<s n="vblex"/><s n="iv"/></l><r>juáhásiđ<s n="vblex"/></r></p></e> 
     <e><p><l>láitit<s n="vblex"/><s n="tv"/></l><r>läittiđ<s n="vblex"/></r></p></e> 
     <e><p><l>darvánit<s n="vblex"/><s n="iv"/></l><r>tarvaniđ<s n="vblex"/></r></p></e> 
     <e><p><l>ballat<s n="vblex"/><s n="tv"/></l><r>poollâđ<s n="vblex"/></r></p></e> <!-- check -->
@@ -4877,6 +4878,7 @@
     <e><p><l>ruoktogielda<s n="n"/></l><r>päikkikieldâ<s n="n"/></r></p></e>
     <e><p><l>gieldagas<s n="n"/></l><r>kieldâgâs<s n="n"/></r></p></e>
     <e><p><l>gielddastivra<s n="n"/></l><r>kieldâstivrâ<s n="n"/></r></p></e>
+    <e><p><l>váldostivra<s n="n"/></l><r>váldustivrâ<s n="n"/></r></p></e>
     <e><p><l>gielká<s n="n"/></l><r>kiälkká<s n="n"/></r></p></e>
     <e><p><l>giellavealgu<s n="n"/></l><r>kielâviälgu<s n="n"/></r></p></e>
     <e><p><l>gierdu<s n="n"/></l><r>kiärdu<s n="n"/></r></p></e>
