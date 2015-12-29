@@ -142,7 +142,6 @@
     <e><p><l>guhtet<b/>guoibmi<s n="prn"/></l><r>kyeimi<b/>kyeimi<s n="prn"/></r></p></e>
     <e><p><l>goappat<b/>guoibmi<s n="prn"/></l><r>kyeimi<b/>kyeimi<s n="prn"/></r></p></e>
     <e><p><l>goabbat<b/>guoibmi<s n="prn"/></l><r>kyeimi<b/>kyeimi<s n="prn"/></r></p></e>
-    <e><p><l>dat<s n="prn"/></l><r>tot<s n="prn"/></r></p></e>
     <e><p><l>buot<s n="prn"/><s n="ind"/><s n="nom"/></l><r>puoh<s n="prn"/><s n="ind"/><s n="sg"/><s n="nom"/></r></p></e>	
     <e><p><l>buot<s n="prn"/><s n="ind"/><s n="acc"/></l><r>puoh<s n="prn"/><s n="ind"/><s n="sg"/><s n="acc"/></r></p></e>
     <e><p><l>buot<s n="prn"/><s n="ind"/><s n="attr"/></l><r>puoh<s n="prn"/><s n="ind"/><s n="attr"/></r></p></e>   
@@ -165,8 +164,6 @@
     <e><p><l>ollugat<s n="prn"/></l><r>maŋgâ<s n="prn"/></r></p></e>
     <e><p><l>juobbá<s n="prn"/></l><r>juábáš<s n="prn"/></r></p></e>
     <e><p><l>juobbágoabbá<s n="prn"/></l><r>juábáškuábáš<s n="prn"/></r></p></e>
-    <e><p><l>mun<s n="prn"/></l><r>mun<s n="prn"/></r></p></e>
-    <e><p><l>son<s n="prn"/></l><r>sun<s n="prn"/></r></p></e>
 <!-- pronouns moved up from B-Chapter: -->
     <e><p><l>buohkat<s n="prn"/></l><r>puohah<s n="prn"/></r></p></e>
     <e><p><l>dakkár<s n="prn"/></l><r>taggaar<s n="prn"/></r></p></e>
@@ -439,7 +436,8 @@
 
     <!-- ASECTION: Nouns -->  
 
-    <e c="check"><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
+    <e><p><l>juoigan<s n="n"/></l><r>juoigâm<s n="n"/></r></p></e>
+    <e><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
     <e><p><l>vehádatgiella<s n="n"/></l><r>ucceeblovokielâ<s n="n"/></r></p></e>
     <e><p><l>gievvun<s n="n"/></l><r>kiävulem<s n="n"/></r></p></e>
     <e><p><l>buozanvuohta<s n="n"/></l><r>puácuvuotâ<s n="n"/></r></p></e>
@@ -462,7 +460,6 @@
     <e><p><l>lohku<s n="n"/></l><r>loho<s n="n"/></r></p></e>
     <e><p><l>guovttis<s n="n"/></l><r>kyevtis<s n="n"/></r></p></e>
     <e><p><l>golmmas<s n="n"/></l><r>kuulmâs<s n="n"/></r></p></e>
-    <e><p><l>lohku<s n="n"/></l><r>loho<s n="n"/></r></p></e>
     <e><p><l>bátnevárka<s n="n"/></l><r>päniverkkâ<s n="n"/></r></p></e>
     <e><p><l>čohkkánsadji<s n="n"/></l><r>čokkámsaje<s n="n"/></r></p></e>
     <e><p><l>dušši<s n="n"/><s n="g3"/></l><r>tušše<s n="n"/></r></p></e>
@@ -7196,7 +7193,6 @@
     <e><p><l>davvisámegiella<s n="n"/></l><r>pajekielâ<s n="n"/></r></p></e>
     <e><p><l>ovddidanbargu<s n="n"/></l><r>ovdedempargo<s n="n"/></r></p></e>
     <e><p><l>ruovttubargu<s n="n"/></l><r>päikkipargo<s n="n"/></r></p></e>
-    <e><p><l>mánná<s n="n"/></l><r>páárnáš<s n="n"/></r></p></e>
     <e><p><l>ádjut<s n="n"/></l><r>ááijuv<s n="n"/></r></p></e>
     <e><p><l>áhkut<s n="n"/></l><r>ákkuv<s n="n"/></r></p></e>
 	<e><p><l>mánáidmánná<s n="n"/></l><r>párnáipáárnáš<s n="n"/></r></p></e><!-- Neeta tivvom taan räi -->
@@ -7835,7 +7831,6 @@
     <e><p><l>čora<s n="n"/></l><r>čuurâ<s n="n"/></r></p></e>
     <e><p><l>čuovggahisvuohta<s n="n"/></l><r>čalmettesvuotâ<s n="n"/></r></p></e>
     <e><p><l>čuovža<s n="n"/></l><r>šapšâ<s n="n"/></r></p></e>
-    <e><p><l>vuolpu<s n="n"/></l><r>vuálppu<s n="n"/></r></p></e>
     <e><p><l>čuvla<s n="n"/></l><r>haamit<s n="n"/></r></p></e>
     <e><p><l>čáhcerávga<s n="n"/></l><r>vuáŋŋáš<s n="n"/></r></p></e>
     <e><p><l>čáhcerávga<s n="n"/></l><r>čäciravgâ<s n="n"/></r></p></e>
