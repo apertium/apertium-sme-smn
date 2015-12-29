@@ -56,6 +56,9 @@ Write comments to forthcoming rules before this line -->
   <rule weight="0.5"><match lemma="Juhán" tags="np.*"><select lemma="Juhán"/></match></rule>
   <rule weight="0.6"><match lemma="Juhán" tags="np.ant.m.attr.*"><select lemma="Juhán"/></match></rule>
   <rule weight="1.0"><match lemma="Juhán" tags="np.*"><select lemma="Juhháán" tags="np.*"/></match></rule>
+  <rule weight="0.5"><match lemma="Biret" tags="np.*"><select lemma="Biret"/></match></rule>
+  <rule weight="0.6"><match lemma="Biret" tags="np.ant.f.attr.*"><select lemma="Biret"/></match></rule>
+  <rule weight="1.0"><match lemma="Biret" tags="np.*"><select lemma="Piirit" tags="np.*"/></match></rule>
 
   <rule weight="1.0"><match lemma="mánáidmánná" tags="n.*"><select lemma="párnáipáárnáš" tags="n.*"/></match></rule>
   <rule weight="0.5"><match lemma="mánáidmánná" tags="n.*"><select lemma="ákkuv"/></match></rule>
