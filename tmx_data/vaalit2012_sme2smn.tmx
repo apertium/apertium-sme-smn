@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="EN-US"
+           srclang="sme-FI"
+           datatype="plaintext"/>
+   <body>
+      <tu id="1">
+         <tuv lang="sme-FI">
+            <seg>Dieđáhus jagi 2012 gielddaválggain</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tiäđáttâs ive 2012 kieldâvaaljâin</seg>
+         </tuv>
+      </tu>
+      <tu id="2">
+         <tuv lang="sme-FI">
+            <seg>Suopma juohkása gielddaide, main lea vuođđolága mielde iešráđđen.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Suomâ juáhás kieldáid, main lii vuáđulaavâ mield jiešhaldâšem.</seg>
+         </tuv>
+      </tu>
+      <tu id="3">
+         <tuv lang="sme-FI">
+            <seg>Gielddaid bargun lea lágidit ássiide máŋggaid bálvalusaid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kieldâi pargon lii orniđ ässeid maaŋgâid palvâlusâid.</seg>
+         </tuv>
+      </tu>
+      <tu id="4">
+         <tuv lang="sme-FI">
+            <seg>Gielddat vástidit ovdamearkka dihte mánáid beaivedivššu, vuođđooahpahusa, ahkeolbmuid bálvalusaid ja dearvvasvuohtafuolahusa lágideamis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kieldah västideh ovdâmerkkân párnái peivitipšo, vuáđumáttááttâs, aheulmui palvâlusâi já tiervâsvuođâhuolâttâs orniimist.</seg>
+         </tuv>
+      </tu>
+      <tu id="5">
+         <tuv lang="sme-FI">
+            <seg>Gieldda bajimuš mearrideaddji orgána lea gielddaid ássiid válljen váldostivra.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kieldâ alemus merideijee orgaan lii ässei valjim váldustivrâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="6">
+         <tuv lang="sme-FI">
+            <seg>Váldostivrra lahtut dahjege áirasat válljejuvvojit gielddaválggain njealji jahkái háválassii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Váldustiivrâ jesâneh ađai airâseh väljejuvvojeh kieldâvaaljâin neelji ihán häävild.</seg>
+         </tuv>
+      </tu>
+      <tu id="7">
+         <tuv lang="sme-FI">
+            <seg>Čuovvovaš gielddaválggat leat sotnabeaivve 28.10.2012.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Puátteeh kieldâvaaljah láá pasepeeivi 28.10.2012.</seg>
+         </tuv>
+      </tu>
+      <tu id="8">
+         <tuv lang="sme-FI">
+            <seg>Gielddaválggain sáhttet jienastit ja álgit evttohassan Suoma riikkavuložiid lassin eará riikkaid riikkavuložat, juos sii devdet dihto eavttuid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kieldâvaaljâin pyehtih jienâstiđ já riemmâđ iävtukkâssân Suomâ aalmugjesâneh sehe tiätu iävtuiguin kieldâst ässee eres enâmij aalmugjesâneh.</seg>
+         </tuv>
+      </tu>
+      <tu id="9">
+         <tuv lang="sme-FI">
+            <seg>Ålándda eanagottis eai leat gielddaválggat jagis 2012.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Åland eennâmkode kuávlust iä lah kieldâvaaljah ive 2012.</seg>
+         </tuv>
+      </tu>
+      <tu id="10">
+         <tuv lang="sme-FI">
+            <seg>Jietnavuoigatvuohta – gii oažžu jienastit</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Jienâvuoigâdvuotâ – kii uážžu jienâstiđ</seg>
+         </tuv>
+      </tu>
+      <tu id="11">
+         <tuv lang="sme-FI">
+            <seg>Oažžut jienastit gielddaválggain, juos leat Suoma dahje muhtun Eurohpa uniovnna eará lahttoriikka, Islándda dahje Norgga riikkavuloš ja deavddát čuovvovaš eavttuid:</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Uážuh jienâstiđ kieldâvaaljâin, jis lah Suomâ tâi monnii eres Euroop unionân kullee eennâm, Island tâi Taažâ aalmugjeessân já tiävdáh čuávuvijd iävtuid:</seg>
+         </tuv>
+      </tu>
+      <tu id="12">
+         <tuv lang="sme-FI">
+            <seg>- deavddát maŋimustá válgabeaivve (28.10.2012) 18 jagi.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- tiävdáh majemustáá vaaljâpeeivi (28.10.2012) 18 ihheed.</seg>
+         </tuv>
+      </tu>
+      <tu id="13">
+         <tuv lang="sme-FI">
+            <seg>- dus lea ruoktogielda Suomas maŋimustá 7.9.2012.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- tust lii päikkikieldâ Suomâst majemustáá 7.9.2012.</seg>
+         </tuv>
+      </tu>
+      <tu id="14">
+         <tuv lang="sme-FI">
+            <seg>Juos leat muhtun eará riikka riikkavuloš, oaččut jienastit gielddaválggain, juos</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Jis lah monnii eres eennâm aalmugjeessân, te uážuh jienâstiđ kieldâvaaljâin, jis</seg>
+         </tuv>
+      </tu>
+      <tu id="15">
+         <tuv lang="sme-FI">
+            <seg>- deavddát maŋimustá válgabeaivve (28.10.2012) 18 jagi.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- tiävdáh majemustáá vaaljâpeeivi (28.10.2012) 18 ihheed.</seg>
+         </tuv>
+      </tu>
+      <tu id="16">
+         <tuv lang="sme-FI">
+            <seg>- dus leamašan ruoktogielda Suomas boatkkaheamet uhcimustá guovtti jagi áigge ovdal 7.9.2012.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- tust lii lamaš päikkikieldâ Suomâst oovtmanolávt ucemustáá kyevti ive ääigi ovdil 7.9.2012.</seg>
+         </tuv>
+      </tu>
+      <tu id="17">
+         <tuv lang="sme-FI">
+            <seg>Ruoktogielda mearrašuvvá ruoktogieldalága vuođul.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Päikkikieldâ miärášuvá päikkikieldâlaavâ vuáđuld.</seg>
+         </tuv>
+      </tu>
+      <tu id="18">
+         <tuv lang="sme-FI">
+            <seg>Dábálaččat ruoktogielda lea dat gielda, gos ásat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Táválávt päikkikieldâ lii tot kieldâ, mast aasah.</seg>
+         </tuv>
+      </tu>
+      <tu id="19">
+         <tuv lang="sme-FI">
+            <seg>Jagi 2012 gielddaválggain ruoktogielda mearrašuvvá dan mielde, mii gielddaid lea merkejuvvon jienasteaddji ruoktogieldan veahkadatdiehtovuogádahkii 7.9.2012 d. 24.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ive 2012 kieldâvaaljâin päikkikieldâ miärášuvá tađe mield, mii kieldâid lii merkkejum jienâsteijee päikkikieldân aalmugtiätuvuáhádâhân 7.9.2012 tme 24.</seg>
+         </tuv>
+      </tu>
+      <tu id="20">
+         <tuv lang="sme-FI">
+            <seg>Dárbbu mielde sáhtát dárkkistit ruoktogieldadieđu magistráhtas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Táárbu mield puávtáh tärhistiđ päikkikieldâtiäđu maistraatist.</seg>
+         </tuv>
+      </tu>
+      <tu id="21">
+         <tuv lang="sme-FI">
+            <seg>Gielddaválggain oažžu jienastit dušše iežas ruoktogieldda evttohasa.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kieldâvaaljâin uážžu jienâstiđ tuše jieijâs päikkikieldâ iävtukkâs.</seg>
+         </tuv>
+      </tu>
+      <tu id="22">
+         <tuv lang="sme-FI">
+            <seg>Almmuhus jietnavuoigatvuođas boahtá ruoktot</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Almottâs jienâvuoigâdvuođâst puátá pááikán</seg>
+         </tuv>
+      </tu>
+      <tu id="23">
+         <tuv lang="sme-FI">
+            <seg>Veahkadatregistarguovddáš ja magistráhta dollet jienastanvuoigatvuohtaregistara, mas leat buohkaid jietnavuoigadahtton olbmuid dieđut.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Aalmugregisterkuávdáš já maistraateh tuálih jienâvuoigâdvuođâregister, mast láá puohâi jienâvuoigâdvuođâlij tiäđuh.</seg>
+         </tuv>
+      </tu>
+      <tu id="24">
+         <tuv lang="sme-FI">
+            <seg>Jienastanvuoigatvuohtaregistarii ii dárbbaš sierra almmuhit.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Jienâvuoigâdvuođâregisterân ij taarbâš sierâ almottâttâđ.</seg>
+         </tuv>
+      </tu>
+      <tu id="25">
+         <tuv lang="sme-FI">
+            <seg>Magistráhta sádde maŋimustá 4.10.2012 almmuhusa jienastanvuoigatvuođas, nuppiid sániiguin almmuhangoartta juohke jietnavuoigadahtton olbmui, guđe čujuhus lea dieđus.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Maistraat vuolgât majemustáá 4.10.2012 almottâs jienâvuoigâdvuođâst ađai almottâskoortâ jyehi jienâvuoigâdvuođâlâžân, kiän čujottâs lii tiäđust.</seg>
+         </tuv>
+      </tu>
+      <tu id="26">
+         <tuv lang="sme-FI">
+            <seg>Almmuhangoarttas leat rávvagat jienasteamis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Almottâskoortâst láá ravvuuh jienâstmist.</seg>
+         </tuv>
+      </tu>
+      <tu id="27">
+         <tuv lang="sme-FI">
+            <seg>Válgagelbbolašvuohta – gii oažžu leat evttohassan</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Vaaljâtohálâšvuotâ – kii uážžu leđe iävtukkâs</seg>
+         </tuv>
+      </tu>
+      <tu id="28">
+         <tuv lang="sme-FI">
+            <seg>Dus lea válgagelbbolašvuohta dahjege sáhtát álgit evttohassan ruoktogielddat gielddaválggain, juos deavddát čuovvovaš eavttuid:</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tun lah vaaljâtohálâš ađai puávtáh riemmâđ iävtukkâssân jieijâd päikkikieldâ kieldâvaaljâin, jis tiävdáh čuávuvijd iävtuid:</seg>
+         </tuv>
+      </tu>
+      <tu id="29">
+         <tuv lang="sme-FI">
+            <seg>- gielda, mas áiggut álgit evttohassan, lea du ruoktogielda.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- kieldâ, mast ááiguh riemmâđ iävtukkâssân, lii tuu päikkikieldâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="30">
+         <tuv lang="sme-FI">
+            <seg>- dus lea jienastanvuoigatvuohta muhtun gielddas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- tust lii jienâvuoigâdvuotâ monnii kieldâst.</seg>
+         </tuv>
+      </tu>
+      <tu id="31">
+         <tuv lang="sme-FI">
+            <seg>- it leat vádjitválddálaš dahjege hovdenvuloš.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- jieh lah vááijuvváldálâš ađai hovdimvuálásâš.</seg>
+         </tuv>
+      </tu>
+      <tu id="32">
+         <tuv lang="sme-FI">
+            <seg>Muhtun stáhta virgeolbmot ja gieldda jođiheaddji virgeolbmot ja bargit eai goittotge leat válgagelbbolaččat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Motomeh staatâ virgealmaah já kieldâ njunošvirgealmaah já pargeeh iä kuittâg lah vaaljâtoháliih.</seg>
+         </tuv>
+      </tu>
+      <tu id="33">
+         <tuv lang="sme-FI">
+            <seg>Evttohasaid ásaheapmi gielddaválggain</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Iävtukkâsâi asâttem kieldâvaljáid</seg>
+         </tuv>
+      </tu>
+      <tu id="34">
+         <tuv lang="sme-FI">
+            <seg>Gielddaválggain sáhttet evttohasaid ásahit</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kieldâvaaljâin pyehtih asâttiđ iävtukkâsâid</seg>
+         </tuv>
+      </tu>
+      <tu id="35">
+         <tuv lang="sme-FI">
+            <seg>- registrerejuvvon bellodagat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- registeristum piäláduvah.</seg>
+         </tuv>
+      </tu>
+      <tu id="36">
+         <tuv lang="sme-FI">
+            <seg>- jietnavuoigadahtton olbmot, geat leat vuođđudan válljensearvvi.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- jienâvuoigâdvuođâliih, kiäh láá vuáđudâm väljejeijeeseervi.</seg>
+         </tuv>
+      </tu>
+      <tu id="37">
+         <tuv lang="sme-FI">
+            <seg>Válljensearvvi vuođđudeapmái dárbbašuvvojit unnimustá logi jienastanvuoigadahtton gieldda ássi, muhtun smávva gielddain dušše golbma dahje vihtta ássi.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Väljejeijeeseervi vuáđđudmân taarbâš ucemustáá love jienâvuoigâdvuođâlii kieldâ ässee, motomijn uccâ kieldâin tuše kulmâ tâi vittâ ässee.</seg>
+         </tuv>
+      </tu>
+      <tu id="38">
+         <tuv lang="sme-FI">
+            <seg>Guovtti dahje máŋgga bellodagas lea vuoigatvuohta ráhkadit válgalihtu.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kyevti tâi maaŋgâ piäláduvâst lii vuoigâdvuotâ hammiđ vaaljâlito.</seg>
+         </tuv>
+      </tu>
+      <tu id="39">
+         <tuv lang="sme-FI">
+            <seg>Guovtti dahje máŋgga válljensearvvis lea vuoigatvuohta ráhkadit oktasašlisttá.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kyevti tâi maaŋgâ väljejeijeeseervist lii vuoigâdvuotâ hammiđ ohtsâšlisto.</seg>
+         </tuv>
+      </tu>
+      <tu id="40">
+         <tuv lang="sme-FI">
+            <seg>Bellodagas, válgalihtus dahje oktasašlisttás ožžot leat gielddas evttohasat eanemustá válljejuvvon váldostivrra áirasiid beannotgeardásaš mearri.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Piäláduvâst, vaaljâlittoost tâi ohtsâšlistoost uážžuh leđe kieldâst iävtukkâsah enâmustáá pelnub keerdi tot meeri ko airâseh väljejuvvojeh.</seg>
+         </tuv>
+      </tu>
+      <tu id="41">
+         <tuv lang="sme-FI">
+            <seg>Váldostivrii válljejuvvon áirasiid mearri, 17–85 lea gitta gieldda ássiidlogus.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Váldustivráid väljejuvvojeh kieldâ ässeelovo mield 17–85 airâsid.</seg>
+         </tuv>
+      </tu>
+      <tu id="42">
+         <tuv lang="sme-FI">
+            <seg>Guđege evttohasas lea iežas nummir.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Jieškote-uv iävtukkâsâst lii jieijâs nummeer.</seg>
+         </tuv>
+      </tu>
+      <tu id="43">
+         <tuv lang="sme-FI">
+            <seg>Evttohasain ráhkaduvvo báhpárii deaddiluvvon ovttastahtton evttohaslistá, masa evttohasat merkejuvvojit evttohasnummiriid mieldásaš ortnegis nummira 2 rájes.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Iävtukkâsâin ráhtoo pápárân teddilum iävtukkâslistoi kuálus, moos iävtukkâsah merkkejuvvojeh nummeeroornigist älgimáin numerist 2.</seg>
+         </tuv>
+      </tu>
+      <tu id="44">
+         <tuv lang="sme-FI">
+            <seg>Evttohasat leat ovttastahtton evttohaslisttás juhkkojuvvon joavkkuide bellodagaid ja oktasašlisttáid mielde.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Iävtukkâsah láá kuálusist juohum piäláduvâi já ohtsâšlistoi mield.</seg>
+         </tuv>
+      </tu>
+      <tu id="45">
+         <tuv lang="sme-FI">
+            <seg>Guđege evttohasas ovttastahtton evttohaslisttás leat čuovvovaš dieđut: namma, evttohasnummir ja ámmát.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Jieškote-uv iävtukkâsâst láá kuálusist čuávuvááh tiäđuh: nommâ, iävtukkâsnummeer já áámmát.</seg>
+         </tuv>
+      </tu>
+      <tu id="46">
+         <tuv lang="sme-FI">
+            <seg>Dasa lassin ovttastahtton evttohaslisttás oidno</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lasseen iävtukkâslistoi kuálusist čielgih</seg>
+         </tuv>
+      </tu>
+      <tu id="47">
+         <tuv lang="sme-FI">
+            <seg>- mat bellodagat leat ráhkadan válgalihtu.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- moh piäláduvah láá hammim vaaljâlito.</seg>
+         </tuv>
+      </tu>
+      <tu id="48">
+         <tuv lang="sme-FI">
+            <seg>- mat válljensearvvit leat ráhkadan oktasašlisttá.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- moh väljejeijeeseervih láá hammim ohtsâšlisto.</seg>
+         </tuv>
+      </tu>
+      <tu id="49">
+         <tuv lang="sme-FI">
+            <seg>- mat bellodagat eai gula válgalihttui 3.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- moh piäláduvah iä kuulâ vaaljâliiton.</seg>
+         </tuv>
+      </tu>
+      <tu id="50">
+         <tuv lang="sme-FI">
+            <seg>- guđe evttohasat leat oktasašlisttá olggobeale evttohasat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- moh iävtukkâsah láá ohtsâšlisto ulguupiälááh iävtukkâsah.</seg>
+         </tuv>
+      </tu>
+      <tu id="51">
+         <tuv lang="sme-FI">
+            <seg>Ovttastahtton evttohaslistá ráhkaduvvo 27.9.2012.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Iävtukkâslistoi kuálus ráhtoo 27.9.2012.</seg>
+         </tuv>
+      </tu>
+      <tu id="52">
+         <tuv lang="sme-FI">
+            <seg>Jienastanáiggit</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Jienâstemääigih</seg>
+         </tuv>
+      </tu>
+      <tu id="53">
+         <tuv lang="sme-FI">
+            <seg>Sáhtát jienastit juo válgabeaivve sotnabeaivve 28.10.2012 dahje ovdal válgabeaivvi ovdajienasteamis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Puávtáh jienâstiđ jo-uv vaaljâpeeivi pasepeeivi 28.10.2012 tâi ovdil vaaljâpeeivi munejienâstmist.</seg>
+         </tuv>
+      </tu>
+      <tu id="54">
+         <tuv lang="sme-FI">
+            <seg>Sáhtát jienastit dušše oktii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Puávtáh jienâstiđ tuše ohtii.</seg>
+         </tuv>
+      </tu>
+      <tu id="55">
+         <tuv lang="sme-FI">
+            <seg>Guktii jienasteamis ásahuvvo ráŋggáštus rihkuslágas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kuohtii jienâstmist lii asâttum ráŋgáštâs rikoslaavâst.</seg>
+         </tuv>
+      </tu>
+      <tu id="56">
+         <tuv lang="sme-FI">
+            <seg>Ovdajienasteapmi:</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Munejienâstem:</seg>
+         </tuv>
+      </tu>
+      <tu id="57">
+         <tuv lang="sme-FI">
+            <seg>Ovdajienasteapmi álgá gaskavahku 17.10.2012.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Munejienâstem álgá koskoho 17.10.2012.</seg>
+         </tuv>
+      </tu>
+      <tu id="58">
+         <tuv lang="sme-FI">
+            <seg>Ovdajienasteapmi nohká olgoriikkain lávvardaga 20.10.2012 ja Suomas maŋŋebárgga 23.10.2012.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Munejienâstem nohá olgoenâmijn lávurduv 20.10.2012 já Suomâst majebaargâ 23.10.2012.</seg>
+         </tuv>
+      </tu>
+      <tu id="59">
+         <tuv lang="sme-FI">
+            <seg>Muhtun ovdajienastanbáikkiin jienastanáigi lea oanehut.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Motomijn munejienâstemsoojijn jienâstemäigi lii uánihub.</seg>
+         </tuv>
+      </tu>
+      <tu id="60">
+         <tuv lang="sme-FI">
+            <seg>Sáhtát jienastit ovddalgihtii gos beare ovdajienastanbáikkis Suomas dahje olgoriikkas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Puávtáh jienâstiđ muuneeld kost peri munejienâstemsaajeest päikkienâmist tâi olgoenâmijn.</seg>
+         </tuv>
+      </tu>
+      <tu id="61">
+         <tuv lang="sme-FI">
+            <seg>Ovdajienastanbáikkit leat</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Munejienâstemsajeh láá</seg>
+         </tuv>
+      </tu>
+      <tu id="62">
+         <tuv lang="sme-FI">
+            <seg>- ruovttueatnamis gielddaid mearridan ovdajienastanbáikkit, dávjá ovdamearkka dihte gielddaid virgedoaimmahagat dadje boasttat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- päikkienâmist kieldâi meridem munejienâstemsajeh, távjá ovdâmerkkân kieldâi virgáduvah tâi poostah.</seg>
+         </tuv>
+      </tu>
+      <tu id="63">
+         <tuv lang="sme-FI">
+            <seg>- Suoma máŋggat ovttastagat olgoriikkain.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- maaŋgah Suomâ ovdâstâsah olgoenâmijn.</seg>
+         </tuv>
+      </tu>
+      <tu id="64">
+         <tuv lang="sme-FI">
+            <seg>- lágádusat, nugo buohcceviesut, sosiálafuolahusa doaibmanossodagat ja ráŋggáštanlágádusat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- lájádâsah, tegu pyecceiviäsuh, sosiaalhuolâttâs toimâohtâduvah já ráŋgáštâslájádâsah.</seg>
+         </tuv>
+      </tu>
+      <tu id="65">
+         <tuv lang="sme-FI">
+            <seg>Lágádusain ožžot jienastit dušše doppe divššus leahkit dahje dohko váldojuvvon olbmot.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lájádâsâin pyehtih jienâstiđ tuše toh ulmuuh, kiäh láá tain tipšoost tâi toid valdum ulmuuh.</seg>
+         </tuv>
+      </tu>
+      <tu id="66">
+         <tuv lang="sme-FI">
+            <seg>- suopmelaš dámppat, mat leat olgoriikkain ovdajienastanáigge.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- syemmilâš taampah, moh láá olgoenâmijn munejienâstemääigi.</seg>
+         </tuv>
+      </tu>
+      <tu id="67">
+         <tuv lang="sme-FI">
+            <seg>Dámppas oažžu jienastit dušše dámppa bargoveahka, mátkkošteaddjit eai sáhte jienastit dámppas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Taampâst uážžu jienâstiđ tuše taampâ pargojuávkku, mađhâšeijeeh iä pyevti jienâstiđ taampâst.</seg>
+         </tuv>
+      </tu>
+      <tu id="68">
+         <tuv lang="sme-FI">
+            <seg>Jienasteapmi válgabeaivve:</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Jienâstem vaaljâpeeivi:</seg>
+         </tuv>
+      </tu>
+      <tu id="69">
+         <tuv lang="sme-FI">
+            <seg>Válgabeaivve jienasteapmi lea sotnabeaivve 28.10.2012 d. 9–20.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Vaaljâpeeivi jienâstem lii pasepeeivi 28.10.2012 tijme 9–20.</seg>
+         </tuv>
+      </tu>
+      <tu id="70">
+         <tuv lang="sme-FI">
+            <seg>Sáhtát jienastit válgabeaivve dušše dan gielddas ja dan jienastanbáikkis, mii lea merkejuvvon dutnje sáddejuvvon almmuhangortii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Puávtáh jienâstiđ vaaljâpeeivi tuše ton kieldâst já ton jienâstemsaajeest, mii lii merkkejum tunjin vuolgâttum almottâskoortân.</seg>
+         </tuv>
+      </tu>
+      <tu id="71">
+         <tuv lang="sme-FI">
+            <seg>Ruoktojienasteapmi:</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Päikkijienâstem:</seg>
+         </tuv>
+      </tu>
+      <tu id="72">
+         <tuv lang="sme-FI">
+            <seg>Juos du návccat lihkadit dahje doaibmat lea dan meare rádjašuvvan, ahte it almmá govttohis váttisvuođaid haga beasa jienastanbáikái, oaččut jienastit ruovttus ovdajienastanáigge.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Jis tuu naavcah lihâdiđ tâi toimâđ láá rájášum tommittáá, et jieh peesâ merettes vaigâdvuođâittáá jienâstemsajan, te puávtáh jienâstiđ pääihist munejienâstemääigi.</seg>
+         </tuv>
+      </tu>
+      <tu id="73">
+         <tuv lang="sme-FI">
+            <seg>Ruoktojienasteapmái galgá almmuhit maŋimustá maŋŋebárgga 16.10.2012 ovdal diibmu 16.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Päikkijienâstmân kalga almottâttâđ majemustáá majebaargâ 16.10.2012 ovdil tijme 16.</seg>
+         </tuv>
+      </tu>
+      <tu id="74">
+         <tuv lang="sme-FI">
+            <seg>Almmuhit galgá ruoktogieldda guovddášválgalávdegoddái.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Almottâttâm kalga toohâđ päikkikieldâ kuávdášvaaljâlävdikoodán.</seg>
+         </tuv>
+      </tu>
+      <tu id="75">
+         <tuv lang="sme-FI">
+            <seg>Seamma dállodoalus orru oapmahašdikšu oažžu dihto eavttuiguin jienastit oktanaga.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Siämmáá tálutuálust ässee omâhâštipšoo puáhtá tiätu iävtuiguin jienâstiđ siämmáá tove.</seg>
+         </tuv>
+      </tu>
+      <tu id="76">
+         <tuv lang="sme-FI">
+            <seg>Dán láhkai jienastat</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Návt jienâstâh</seg>
+         </tuv>
+      </tu>
+      <tu id="77">
+         <tuv lang="sme-FI">
+            <seg>Jienasteapmi dáhpáhuvvá jienastanbáikkis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Jienâstem tábáhtuvá jienâstemsaajeest.</seg>
+         </tuv>
+      </tu>
+      <tu id="78">
+         <tuv lang="sme-FI">
+            <seg>Sáhtát jienastit dušše ovtta evttohasa, guhte lea merkejuvvon iežat gieldda ovttastuvvon evttohaslistái.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Puávtáh jienâstiđ tuše oovtâ iävtukkâs, kote lii merkkejum jieijâd kieldâ iävtukkâslistoi kuálusân.</seg>
+         </tuv>
+      </tu>
+      <tu id="79">
+         <tuv lang="sme-FI">
+            <seg>1. Duođaš identitehtat válgabargái, nuppiid sániiguin čájet pássa, persovdnagoartta, vuodjingoartta dahje vástideaddji eará áššebáhpára.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>1. Tuođâšt persovnvuođâd vaaljâvirgeulmui ađai čääiti paasâ, persovnkoortâ, vyeijimkoortâ tâi eres västideijee äššikirje.</seg>
+         </tuv>
+      </tu>
+      <tu id="80">
+         <tuv lang="sme-FI">
+            <seg>Válgabargi addá dutnje jienastanlihpo.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Vaaljâvirgeolmooš addel tunjin jienâstemliipu.</seg>
+         </tuv>
+      </tu>
+      <tu id="81">
+         <tuv lang="sme-FI">
+            <seg>2. Mana jienastangohppii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>2. Moonâ jienâstemkoopin.</seg>
+         </tuv>
+      </tu>
+      <tu id="82">
+         <tuv lang="sme-FI">
+            <seg>Jienastangohpes oažžu leat hávil dušše okta olmmoš.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Jienâstemkoopist uážžu leđe häävild tuše ohtâ olmooš.</seg>
+         </tuv>
+      </tu>
+      <tu id="83">
+         <tuv lang="sme-FI">
+            <seg>3. Čále jienastanlihppui dan evttohasa nummira, gean jienastat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>3. Merkkii jienâstemliipun ton iävtukkâs nummeer, kiäm jienâstâh.</seg>
+         </tuv>
+      </tu>
+      <tu id="84">
+         <tuv lang="sme-FI">
+            <seg>Oaččut jienastit dušše ovtta evttohasa.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Uážuh jienâstiđ tuše oovtâ iävtukkâs.</seg>
+         </tuv>
+      </tu>
+      <tu id="85">
+         <tuv lang="sme-FI">
+            <seg>Ale čále jienastanlihppui maidege eará, go evttohasat nummira.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Merkkii iävtukkâs nummeer jienâstemliipu siskiipiäláá rieggee siisâ. Ele toovâ jienâstemliipun maiden eres merkkiimijd.</seg>
+         </tuv>
+      </tu>
+      <tu id="86">
+         <tuv lang="sme-FI">
+            <seg>Máhco jienastanlihpo guovdu nu, ahte nummir báhcá máhcahaga siskkobeallái iige oidno olggobeallai.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Maacâst jienâstemliipu nuuvt, et tuu merkkim nummeer páácá macâstuv siskiibel ige oinuu olgoskulij.</seg>
+         </tuv>
+      </tu>
+      <tu id="87">
+         <tuv lang="sme-FI">
+            <seg>4. Doalvvo máhccojuvvon jienastanlihpo válgabargái.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>4. Tuálvu liipu kiddâ macâstum häämist vaaljâvirgeulmui.</seg>
+         </tuv>
+      </tu>
+      <tu id="88">
+         <tuv lang="sme-FI">
+            <seg>Válgabargi steampalastá jienastanlihpo.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Vaaljâvirgeolmooš stemppâlist liipu.</seg>
+         </tuv>
+      </tu>
+      <tu id="89">
+         <tuv lang="sme-FI">
+            <seg>5a. Juos jienastat jienastanbeaivve, nahket steampilastojuvvon jienastanlihpo válgaurdnii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>5a. Jis jienâstâh jienâstempeeivi, koočât stemppâlistum liipu vaaljâuurnán.</seg>
+         </tuv>
+      </tu>
+      <tu id="90">
+         <tuv lang="sme-FI">
+            <seg>5b. Juos jienastat ovdajienasteamis, válgabargi addá dutnje válgakonfeluhta, masa nahkehat steampilastojuvvon jienastanlihpo ja giddet konfeluhta.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>5b. Jis jienâstâh munejienâstmist, vaaljâvirgeolmooš addel vaaljâkoovert, moos toopah stemppâlistum liipu.</seg>
+         </tuv>
+      </tu>
+      <tu id="91">
+         <tuv lang="sme-FI">
+            <seg>Juos du návccat čállit evttohasa nummira jienastanlihppui lea čielgasit futnon, oaččut geavahit jienasteamis válgaveahkkin iežat válljen veahki dahje válgabargi.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Jis tuu naavcah merkkiđ iävtukkâs nummeer jienâstemliipun láá čielgâsávt hiäjusmum, te uážuh kevttiđ jienâstmist iššeen jieijâd valjim išedeijee tâi vaaljâtoimâpargee.</seg>
+         </tuv>
+      </tu>
+      <tu id="92">
+         <tuv lang="sme-FI">
+            <seg>Válgaveahkki ii oaččo leat válggain evttohassan.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Išedeijee ij uážu leđe olmooš, kote lii vaaljâin iävtukkâssân.</seg>
+         </tuv>
+      </tu>
+      <tu id="93">
+         <tuv lang="sme-FI">
+            <seg>Válgaveahkis lea geatnegasvuohta seailluhit válgasuollemasvuođa dahjege doallat suollegasvuođa jienasteami oktavuođas ožžon dieđuin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Išedeijee kenigâsvuotâ lii siäiluttiđ vaaljâsyeligâsvuođâ ađai toollâđ syeligâsâst jienâstem ohtâvuođâst uážžum tiäđuid.</seg>
+         </tuv>
+      </tu>
+      <tu id="94">
+         <tuv lang="sme-FI">
+            <seg>Lassidieđut</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lasetiäđuh</seg>
+         </tuv>
+      </tu>
+      <tu id="95">
+         <tuv lang="sme-FI">
+            <seg>- Lassidieđuid válggain addá gieldda guovddášválgalávdegoddi.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- Lasetiäđuid vaaljâin addel kieldâ kuávdášvaaljâlävdikodde.</seg>
+         </tuv>
+      </tu>
+      <tu id="96">
+         <tuv lang="sme-FI">
+            <seg>Persovnnalaš jienastanvuoigatvuhtii guoski gažaldagaide vástida magistráhta.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Persovnlâš jienâvuoigâdvuođâ kyeskee koččâmâššáid västid maistraat.</seg>
+         </tuv>
+      </tu>
+      <tu id="97">
+         <tuv lang="sme-FI">
+            <seg>Guktot čujuhusat ja telefonnummirat leat almmuhangoarttas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kuohtui čujottâsah já puhelinnumereh láá almottâskoortâst.</seg>
+         </tuv>
+      </tu>
+      <tu id="98">
+         <tuv lang="sme-FI">
+            <seg>- Ovdajienastanbáikkiid čujuhusat ja rabasáiggit, evttohasregisttar ja maid eará dieđut válggaid birra leat vuoigatvuohtaministeriija válgasiidduin čujuhusas www.vaalit.fi</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- Munejienâstemsoojij čujottâsah já áávusorroomääigih, iävtukkâsregister sehe eres tiäđuh vaaljâin láá riehtiministeriö vaaljâsiijđoin čujottâsâst www.vaalit.fi</seg>
+         </tuv>
+      </tu>
+      <tu id="99">
+         <tuv lang="sme-FI">
+            <seg>- Dieđut gielddaválggaid evttohasain leat vuoigatvuođaministeriija válgasiidduin golggotmánu álggu rájes ja dieđut ovdajienastanbáikkiin borgemánu beallemuttu rájes.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>- Tiäđuh kieldâvaaljâi iävtukkâsâin láá riehtiministeriö vaaljâsiijđoin roovvâdmáánu aalgâ räi já tiäđuh munejienâstemsoojijn porgemáánu pelimuddoost.</seg>
+         </tuv>
+      </tu>
+      <tu id="100">
+         <tuv lang="sme-FI">
+            <seg>Vuoigatvuođaministeriija</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Riehtiministeriö</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>
