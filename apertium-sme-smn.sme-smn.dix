@@ -329,8 +329,8 @@
     <e><p><l>maŋimustá<s n="adv"/></l><r>majemustáá<s n="adv"/></r></p></e>
     <e><p><l>maŋŋemaŋŋálaga<s n="adv"/></l><r>maŋaluvâi<s n="adv"/></r></p></e>
     <e><p><l>meaddel<s n="adv"/></l><r>lappâd<s n="adv"/></r></p></e>
-    <e><p><l>mielde<s n="adv"/></l><r>fáárust<s n="adv"/></r></p></e>
-    <e><p><l>mielde<s n="adv"/></l><r>mield<s n="adv"/></r></p></e>
+    <e><p><l>mielde<s n="adv"/></l><r>fáárust<s n="adv"/></r></p></e><!-- Lexical selection rule needed for fáárust and mield-->
+    <e><p><l>mielde<s n="adv"/></l><r>mield<s n="adv"/></r></p></e><!-- Lexical selection rule needed for fáárust and mield-->
     <e><p><l>nalde<s n="adv"/></l><r>alne<s n="adv"/></r></p></e>
     <e><p><l>nu<s n="adv"/></l><r>nuuvt<s n="adv"/></r></p></e>
     <e><p><l>oalle<s n="adv"/></l><r>uáli<s n="adv"/></r></p></e>
