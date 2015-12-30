@@ -34,6 +34,7 @@
       <cat-item tags="np.*.cmp_sgnom.cmp"/>
       <cat-item tags="np.cmp_sgnom.cmp.guio"/>
       <cat-item tags="np.cmp_sggen.cmp.guio"/> 
+      <cat-item tags="np.*.cmp_sggen.cmp.guio"/> 
     </def-cat>
      <def-cat n="numcmp">
       <cat-item tags="num.cmp"/>

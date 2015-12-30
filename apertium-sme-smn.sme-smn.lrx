@@ -31,8 +31,8 @@ Jis halijdah leđe fáárust Saijoos Kulttuurohjelmpaaŋkist, vääldi ohtâvuo�
 Suomâ lii fáárust orniimin kyehti miäldustábáhtus. 
 Lenne ij pissoom fáárust. 
 
+Post:
 Mield: to be used in time expressions: Tot kale vájálduvá aaigij mield / ääigi mield OR in expressing the way:Kuobžâ juuđij pálgá mield.
-
 Other: 
 Laavâ	mield	sämmilâš lii olmooš, kote ana jieijâs sämmilâžžân toin iävttoin , ete sun jieš teikâ aainâs-uv ohtâ suu vanhimijn teikâ ááhust já äijihist lii oppâm sämikielâ vuossâmuu kiellân.
 
@@ -268,15 +268,35 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.6">
-	<or><match lemma="guhtemuš"/>
-	<match lemma="gii"/>
-	<match lemma="guhte"/>
-	<match tags="n.sem_hum.*"/>
-	<match tags="prn.ref.*"/> </or>
+    <or><match lemma="vuolgit" tags="vblex.*"/>
+    </or>
+	<or><match tags="n.sem_hum.*"/>
+	<match tags="n.sem_ani.*"/>
+	<match tags="prn.pers.*"/></or>
     <match lemma="mielde" tags="post.*">
       <select lemma="fáárun"/>
     </match>
   </rule>
+
+  <rule weight="0.5">
+    <match lemma="mielde" tags="post.*">
+      <select lemma="fáárust"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+	<or><match lemma="guhtemuš"/>
+	<match lemma="gii"/>
+	<match lemma="guhte"/>
+	<match tags="prn.pers.*"/>
+	<match tags="n.sem_hum.*"/>
+	<match tags="n.sem_ani.*"/>
+	<match tags="prn.ref.*"/> </or>
+    <match lemma="mielde" tags="post.*">
+      <select lemma="fáárust"/>
+    </match>
+  </rule>
+
 
   <rule weight="1.0">
     <match lemma="mielde" tags="adv.*">
