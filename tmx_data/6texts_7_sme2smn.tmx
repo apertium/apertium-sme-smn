@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="EN-US"
+           srclang="sme-FI"
+           datatype="plaintext"/>
+   <body>
+      <tu id="1">
+         <tuv lang="sme-FI">
+            <seg>Giitu buohkaide lihkusávaldagain!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Takkâ puohháid luhotuáivuttâsâin!</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>
