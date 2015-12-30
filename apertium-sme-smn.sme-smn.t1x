@@ -53,6 +53,9 @@
       <cat-item tags="n.cmp_sgnom.cmp"/>
       <cat-item tags="n.cmp_sggen.cmp"/> 
       <cat-item tags="n.cmp_plgen.cmp"/> 
+      <cat-item tags="n.cmp_sgnom.cmp.*"/>
+      <cat-item tags="n.cmp_sggen.cmp.*"/> 
+      <cat-item tags="n.cmp_plgen.cmp.*"/> 
       <cat-item tags="n.*.cmp_sgnom.cmp"/>
       <cat-item tags="n.*.cmp_sgnom.cmp.*"/>
       <cat-item tags="n.*.cmp_sggen.cmp"/> 
@@ -120,6 +123,7 @@
       <cat-item tags="n.*.@P←"/>
       <cat-item tags="n.*.@P→"/>
       <cat-item tags="n.*.@X"/>
+      <cat-item tags="n.*.@HNOUN"/>
 <!--      <cat-item tags="adj.der_vuohta.n.*.@SUBJ→"/>
       <cat-item tags="adj.der_vuohta.n.*.@←SUBJ"/>
       <cat-item tags="adj.der_vuohta.n.*.@←OBJ"/>
