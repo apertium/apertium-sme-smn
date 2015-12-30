@@ -50,6 +50,7 @@
       <cat-item tags="vblex.*.inf.*"/>
     </def-cat>
    <def-cat n="nnomcmp">
+      <cat-item tags="n.cmp_sgnom.cmp_hyph.cmp.guio"/>
       <cat-item tags="n.cmp_sgnom.cmp_hyph.cmp"/>
       <cat-item tags="n.cmp_sgnom.cmp"/>
       <cat-item tags="n.cmp_sggen.cmp"/> 
