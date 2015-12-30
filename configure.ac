@@ -4,8 +4,9 @@
 
 AC_PREREQ(2.52)
 
-AC_INIT([apertium-sme-nob], [0.1.0], [trondtr@users.sourceforge.net])
-AM_INIT_AUTOMAKE([apertium-sme-smn], [0.1.0], no-define)
+AC_INIT([Apertium Northern Saami-Inari Saami], [0.1.0], [trondtr@users.sourceforge.net], [apertium-sme-smn], [http://wiki.apertium.org/wiki/Apertium-sme-smn])
+AM_INIT_AUTOMAKE
+
 AC_PROG_LN_S
 AC_PROG_AWK
 
