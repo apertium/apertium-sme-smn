@@ -118,12 +118,20 @@
 
     <e><p><l>mii<s n="prn"/></l><r>mii<s n="prn"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="itg"/></l><r>kii<s n="prn"/><s n="itg"/></r></p></e>
+
     <e><p><l>gii<s n="prn"/><s n="rel"/></l><r>kote<s n="prn"/><s n="rel"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kii<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kihheen<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="rel"/></l><r>kotemuš<s n="prn"/><s n="rel"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>kihheen<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>jyehi<s n="prn"/><s n="ind"/></r></p></e>
+<!--
+    <e><p><l>gii<s n="prn"/><s n="rel"/></l><r>kii<s n="prn"/><s n="rel"/></r></p></e>
+    <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kii<s n="prn"/><s n="ind"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/><s n="rel"/></l><r>kote<s n="prn"/><s n="rel"/></r></p></e>
+    <e><p><l>guhtemuš<s n="prn"/><s n="rel"/></l><r>kotemuš<s n="prn"/><s n="rel"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>jyehi<s n="prn"/><s n="ind"/></r></p></e>
+-->
 
     <e><p><l>ieš<s n="prn"/></l><r>jieš<s n="prn"/></r></p></e>
 
@@ -280,6 +288,8 @@
 
     <!-- ASECTION: Adverbs -->
 
+    <e><p><l>seamma<b/>láhkai<s n="adv"/></l><r>siämmáánáál<s n="adv"/></r></p></e>
+    <e><p><l>dađibahábut<s n="adv"/></l><r>vaidâlitteht<s n="adv"/></r></p></e>
     <e><p><l>ovddos<b/>guvlui<s n="adv"/></l><r>ovdâskulij<s n="adv"/></r></p></e>
     <e><p><l>ovddos<s n="adv"/></l><r>ovdâskulij<s n="adv"/></r></p></e>
     <e><p><l>ain<s n="adv"/></l><r>ain<s n="adv"/></r></p></e>
@@ -536,6 +546,7 @@
     <e><p><l>dáidu<s n="n"/></l><r>táiđu<s n="n"/></r></p></e>
     <e><p><l>terminologiija<s n="n"/></l><r>terminologia<s n="n"/></r></p></e>
     <e><p><l>terminologiijabargu<s n="n"/></l><r>terminologiapargo<s n="n"/></r></p></e>
+    <e><p><l>terrorisma<s n="n"/></l><r>terrorism<s n="n"/></r></p></e>
     <e><p><l>váikkuhangaskaoapmi<s n="n"/></l><r>vaikuttemmáhđulâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>láđasmánnu<s n="n"/></l><r>lađâsmáánu<s n="n"/></r></p></e>
     <e><p><l>ovdaskuvlaoahpaheaddji<s n="n"/></l><r>párnáimáttáátteijee<s n="n"/></r></p></e>
@@ -2696,7 +2707,7 @@
     <e><p><l>duđavaš<s n="adj"/></l><r>tuđâvâš<s n="adj"/></r></p></e>
     <e><p><l>dáiddalaš<s n="adj"/></l><r>taiđâlâš<s n="adj"/></r></p></e>
     <e><p><l>dálvvas<s n="adj"/></l><r>tálváá<s n="adj"/></r></p></e>
-    <e><p><l>dálá<s n="adj"/></l><r>tááláá<s n="adj"/></r></p></e>
+    <e><p><l>dálá<s n="adj"/></l><r>tááláš<s n="adj"/></r></p></e>
     <e><p><l>dáláš<s n="adj"/></l><r>tááláš<s n="adj"/></r></p></e>
     <e><p><l>dárbbašmeahttun<s n="adj"/></l><r>taarbâšmettum<s n="adj"/></r></p></e>
     <e><p><l>dárbbuheapme<s n="adj"/></l><r>taarbâšmettum<s n="adj"/></r></p></e>
@@ -7392,7 +7403,7 @@
 
 <!-- CCCCCCC CHAPTER 3. one to many sme-smn (old LT4 and filtered) -->
 
-<!-- CAdverbs 1-m frequency ordered -->
+<!-- CSECTION Adverbs 1-m frequency ordered -->
 
     <e><p><l>davábealde<s n="post"/></l><r>taavaabeln<s n="post"/></r></p></e>
     <e><p><l>davábealde<s n="adv"/></l><r>taavaabeln<s n="adv"/></r></p></e>
@@ -7499,7 +7510,7 @@
     <e><p><l>áli<s n="adv"/></l><r>eivi<s n="adv"/></r></p></e>
     <e><p><l>hárčut<s n="adv"/></l><r>háccud<s n="adv"/></r></p></e>
 
-<!-- CAdjectives 1-m frequency ordered -->
+<!-- CSECTION Adjectives 1-m frequency ordered -->
 
     <e><p><l>erenoamáš<s n="adj"/></l><r>eromâš<s n="adj"/></r></p></e>
     <e><p><l>guovddáš<s n="adj"/></l><r>kuávdáš<s n="adj"/></r></p></e>
@@ -7735,24 +7746,24 @@
     <e><p><l>dielvvis<s n="adj"/></l><r>tuolbâs<s n="adj"/></r></p></e>
     <e><p><l>dielvvis<s n="adj"/></l><r>täässiv<s n="adj"/></r></p></e>
 
-<!-- C Conjunctions 1-m frequency ordered -->
+<!-- CSECTION: Conjunctions 1-m frequency ordered -->
 
     <e><p><l>ahte<s n="cnjcoo"/></l><r>et<s n="cnjcoo"/></r></p></e>
     <e><p><l>dehe<s n="cnjcoo"/></l><r>teikkâ<s n="cnjcoo"/></r></p></e>
 
-<!-- C Subjunctions 1-m frequency ordered -->
+<!-- CSECTION: Subjunctions 1-m frequency ordered -->
 
     <e><p><l>ahte<s n="cnjsub"/></l><r>et<s n="cnjsub"/></r></p></e>
 <!--<e><p><l>ahte<s n="cnjsub"/></l><r>ete<s n="cnjsub"/></r></p></e>  et-ete 4-1 in Korp-->
 
-<!-- C Interjections 1-m frequency ordered -->
+<!-- CSECTION: Interjections 1-m frequency ordered -->
 
     <e><p><l>juo<s n="ij"/></l><r>joo<s n="ij"/></r></p></e>
     <e><p><l>dearvva<s n="ij"/></l><r>tiervâ<s n="ij"/></r></p></e>
     <e><p><l>giitu<s n="ij"/></l><r>takkâ<s n="ij"/></r></p></e>
     <e><p><l>giitu<s n="ij"/></l><r>kijtto<s n="ij"/></r></p></e>
 
-<!-- C Nouns 1-m frequency ordered -->
+<!-- CSECTION: Nouns 1-m frequency ordered -->
 
     <e><p><l>almmáiolmmoš<s n="n"/></l><r>almaiolmooš<s n="n"/></r></p></e>
     <e><p><l>badjeolmmoš<s n="n"/></l><r>pajeolmooš<s n="n"/></r></p></e>
@@ -8300,8 +8311,8 @@
     <e><p><l>náittosbárra<s n="n"/></l><r>hejâpaarâ<s n="n"/></r></p></e>
     <e><p><l>náittospárra<s n="n"/></l><r>hejâpaarâ<s n="n"/></r></p></e>
     <e><p><l>oahppa<s n="n"/></l><r>oppâ<s n="n"/></r></p></e>
-    <e><p><l>organisašuvdna<s n="n"/></l><r>ornijdume<s n="n"/></r></p></e>
-    <e><p><l>organisašuvdna<s n="n"/></l><r>ornijdâh<s n="n"/></r></p></e>
+    <e><p><l>organisašuvdna<s n="n"/></l><r>seervi<s n="n"/></r></p></e>
+<!--    <e><p><l>organisašuvdna<s n="n"/></l><r>ornijdume<s n="n"/></r></p></e>-->
     <e><p><l>paragráfa<s n="n"/></l><r>ceehis<s n="n"/></r></p></e>
     <e><p><l>paragráfa<s n="n"/></l><r>cekki<s n="n"/></r></p></e>
     <e><p><l>paragráfa<s n="n"/></l><r>maajeeldceehis<s n="n"/></r></p></e>
@@ -8739,7 +8750,7 @@
 
 
 
-<!-- C Verbs 1-m frequency ordered -->
+<!-- CSECTION: Verbs 1-m frequency ordered -->
 
     <e><p><l>dadjat<s n="vblex"/><s n="tv"/></l><r>ettâđ<s n="vblex"/></r></p></e>
     <e><p><l>čájehit<s n="vblex"/><s n="tv"/></l><r>čäittiđ<s n="vblex"/></r></p></e>
