@@ -118,20 +118,20 @@
 
     <e><p><l>mii<s n="prn"/></l><r>mii<s n="prn"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="itg"/></l><r>kii<s n="prn"/><s n="itg"/></r></p></e>
-
+<!--
     <e><p><l>gii<s n="prn"/><s n="rel"/></l><r>kote<s n="prn"/><s n="rel"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kii<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kihheen<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="rel"/></l><r>kotemuš<s n="prn"/><s n="rel"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>kihheen<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>jyehi<s n="prn"/><s n="ind"/></r></p></e>
-<!--
+-->
     <e><p><l>gii<s n="prn"/><s n="rel"/></l><r>kii<s n="prn"/><s n="rel"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kii<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="rel"/></l><r>kote<s n="prn"/><s n="rel"/></r></p></e>
     <e><p><l>guhtemuš<s n="prn"/><s n="rel"/></l><r>kotemuš<s n="prn"/><s n="rel"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>jyehi<s n="prn"/><s n="ind"/></r></p></e>
--->
+
 
     <e><p><l>ieš<s n="prn"/></l><r>jieš<s n="prn"/></r></p></e>
 
@@ -285,9 +285,11 @@
     <e><p><l>nai<s n="pcle"/></l><r>-uv<s n="foc_uv"/></r></p></e>
     <e><p><l>nu<s n="pcle"/></l><r>nii<s n="foc_nii"/></r></p></e>
     <e><p><l>son<s n="pcle"/></l><r>sun<s n="foc_sun"/></r></p></e>
+    <e><p><l>goittotge<s n="pcle"/></l><r>kuittâg<s n="pcle"/></r></p></e>
 
     <!-- ASECTION: Adverbs -->
 
+    <e><p><l>maŋŋelis<s n="adv"/></l><r>maŋeláá<s n="adv"/></r></p></e>
     <e><p><l>dárkket<s n="adv"/></l><r>tárkká<s n="adv"/></r></p></e>
     <e><p><l>háválassii<s n="adv"/></l><r>häävild<s n="adv"/></r></p></e>
     <e><p><l>ruoŧabealde<s n="adv"/></l><r>Ruotâbeln<s n="adv"/></r></p></e>
@@ -370,6 +372,7 @@
 
     <!-- ASECTION: Adjectives -->
     
+    <e><p><l>velttidmettum<s n="adj"/></l><r>vealtameahttun<s n="adj"/></r></p></e>
     <e><p><l>humanisttalaš<s n="adj"/></l><r>humanistlâš<s n="adj"/></r></p></e>
     <e><p><l>arkeologalaš<s n="adj"/></l><r>arkeologâlâš<s n="adj"/></r></p></e>
     <e><p><l>šamanisttalaš<s n="adj"/></l><r>šamanistlâš<s n="adj"/></r></p></e>
@@ -449,7 +452,7 @@
     <e><p><l>mearreáigásaš<s n="adj"/></l><r>meriáigásâš<s n="adj"/></r></p></e>
     <e><p><l>seađáhusvuđđosaš<s n="adj"/></l><r>asâttâsvuáđustâs<s n="adj"/></r></p></e>
     <e><p><l>ođđaáigásaš<s n="adj"/></l><r>uđđâáigásâš<s n="adj"/></r></p></e>
-    <e><p><l>modearna<s n="adj"/></l><r>uđđâáigásâš<s n="adj"/></r></p></e>
+    <e><p><l>modearna<s n="adj"/></l><r>moodeern<s n="adj"/></r></p></e>
 
     <!-- ASECTION: Nouns -->  
 
@@ -483,9 +486,10 @@
     <e><p><l>sisdoallu<s n="n"/></l><r>siskáldâs<s n="n"/></r></p></e>
     <e><p><l>balsa<s n="n"/></l><r>polsâ<s n="n"/></r></p></e>
     <e><p><l>ovcceš<s n="n"/></l><r>oovcáš<s n="n"/></r></p></e>
-     <e><p><l>orrunguovlu<s n="n"/></l><r>aassâmkuávlu<s n="n"/></r></p></e>
+    <e><p><l>orrunguovlu<s n="n"/></l><r>aassâmkuávlu<s n="n"/></r></p></e>
+    <e><p><l>ássanguovlu<s n="n"/></l><r>aassâmkuávlu<s n="n"/></r></p></e>
     <e><p><l>arkeologa<s n="n"/></l><r>arkeologi<s n="n"/></r></p></e>
-   <e><p><l>guolbba<s n="n"/></l><r>kuolbâ<s n="n"/></r></p></e>
+    <e><p><l>guolbba<s n="n"/></l><r>kuolbâ<s n="n"/></r></p></e>
     <e><p><l>guolban<s n="n"/></l><r>kuolbâ<s n="n"/></r></p></e>
     <e><p><l>gohttensadji<s n="n"/></l><r>kuáticeggimsaje<s n="n"/></r></p></e>
     <e><p><l>festiválabáiki<s n="n"/></l><r>festivaalpäikki<s n="n"/></r></p></e>
@@ -521,6 +525,7 @@
     <e><p><l>oasseváldi<s n="n"/></l><r>uásiväldee<s n="n"/></r></p></e>
     <e><p><l>minsttar<s n="n"/></l><r>myenster<s n="n"/></r></p></e>
     <e><p><l>giellateknologiija<s n="n"/></l><r>kielâteknologia<s n="n"/></r></p></e>
+    <e><p><l>teknologiija<s n="n"/></l><r>teknologia<s n="n"/></r></p></e>
     <e><p><l>revitaliseren<s n="n"/></l><r>revitalisaatio<s n="n"/></r></p></e>
     <e><p><l>tradišuvdna<s n="n"/></l><r>traditio<s n="n"/></r></p></e>
     <e><p><l>gomuvuohta<s n="n"/></l><r>komovuotâ<s n="n"/></r></p></e>
@@ -3595,6 +3600,7 @@
 
     <!--    BSECTION: Nouns -->
 
+    <e><p><l>bovdejupmi<s n="n"/></l><r>povdim<s n="n"/></r></p></e>
     <e><p><l>admirála<s n="n"/></l><r>amiraal<s n="n"/></r></p></e>
     <e><p><l>niesti<s n="n"/></l><r>evvis<s n="n"/></r></p></e><!-- added niesti in FST, but I would rather use evvis as an equivalent -->
     <e><p><l>veasku<s n="n"/></l><r>viäsku<s n="n"/></r></p></e>
@@ -3813,6 +3819,7 @@
     <e><p><l>bálddis<s n="n"/></l><r>pääldis<s n="n"/></r></p></e>
     <e><p><l>bálggus<s n="n"/></l><r>paalgâs<s n="n"/></r></p></e>
     <e><p><l>bálkkašupmi<s n="n"/></l><r>pálhášume<s n="n"/></r></p></e>
+    <e><p><l>fuomášupmi<s n="n"/></l><r>huámmášume<s n="n"/></r></p></e>
     <e><p><l>bállahastin<s n="n"/></l><r>leggistem<s n="n"/></r></p></e>
     <e><p><l>bálstá<s n="n"/></l><r>pálstá<s n="n"/></r></p></e>
     <e><p><l>bánno<s n="n"/><s n="g3"/></l><r>pánnu<s n="n"/></r></p></e>
@@ -7781,7 +7788,7 @@
     <e><p><l>juo<s n="ij"/></l><r>joo<s n="ij"/></r></p></e>
     <e><p><l>dearvva<s n="ij"/></l><r>tiervâ<s n="ij"/></r></p></e>
     <e><p><l>giitu<s n="ij"/></l><r>takkâ<s n="ij"/></r></p></e>
-    <e><p><l>giitu<s n="ij"/></l><r>kijtto<s n="ij"/></r></p></e>
+<!--    <e><p><l>giitu<s n="ij"/></l><r>kijtto<s n="ij"/></r></p></e>-->
 
 <!-- CSECTION: Nouns 1-m frequency ordered -->
 
