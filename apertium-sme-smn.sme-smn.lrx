@@ -246,6 +246,13 @@ Write comments to forthcoming rules before this line -->
       <select lemma="gin"/>
     </match>
   </rule>
+  <rule weight="0.6">
+    <match/>
+    <match lemma="ge">
+      <select lemma="gin"/>
+    </match>
+     <match lemma="ii" tags="vblex.*"/>
+  </rule>
 
   <rule weight="0.6">
      <match lemma="ii" tags="vblex.*"/>
