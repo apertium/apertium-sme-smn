@@ -288,6 +288,11 @@
 
     <!-- ASECTION: Adverbs -->
 
+    <e><p><l>dárkket<s n="adv"/></l><r>tárkká<s n="adv"/></r></p></e>
+    <e><p><l>háválassii<s n="adv"/></l><r>häävild<s n="adv"/></r></p></e>
+    <e><p><l>ruoŧabealde<s n="adv"/></l><r>Ruotâbeln<s n="adv"/></r></p></e>
+    <e><p><l>norggabealde<s n="adv"/></l><r>Taažâbeln<s n="adv"/></r></p></e>
+    <e><p><l>suomabealde<s n="adv"/></l><r>Suomâbeln<s n="adv"/></r></p></e>
     <e><p><l>seamma<b/>láhkai<s n="adv"/></l><r>siämmáánáál<s n="adv"/></r></p></e>
     <e><p><l>dađibahábut<s n="adv"/></l><r>vaidâlitteht<s n="adv"/></r></p></e>
     <e><p><l>ovddos<b/>guvlui<s n="adv"/></l><r>ovdâskulij<s n="adv"/></r></p></e>
@@ -443,9 +448,22 @@
     <e><p><l>riikkaidviidosaš<s n="adj"/></l><r>aalmugijkoskâsâš<s n="adj"/></r></p></e>
     <e><p><l>mearreáigásaš<s n="adj"/></l><r>meriáigásâš<s n="adj"/></r></p></e>
     <e><p><l>seađáhusvuđđosaš<s n="adj"/></l><r>asâttâsvuáđustâs<s n="adj"/></r></p></e>
+    <e><p><l>ođđaáigásaš<s n="adj"/></l><r>uđđâáigásâš<s n="adj"/></r></p></e>
+    <e><p><l>modearna<s n="adj"/></l><r>uđđâáigásâš<s n="adj"/></r></p></e>
 
     <!-- ASECTION: Nouns -->  
 
+    <e><p><l>iđa<s n="n"/></l><r>almonem<s n="n"/></r></p></e>
+    <e><p><l>gávpotbiras<s n="n"/></l><r>kaappugpiirâs<s n="n"/></r></p></e>
+    <e><p><l>sitkatvuohta<s n="n"/></l><r>siđhesvuotâ<s n="n"/></r></p></e>
+    <e><p><l>iešráđđen<s n="n"/></l><r>jiešhaldâšem<s n="n"/></r></p></e>
+    <e><p><l>álbmotbeaivi<s n="n"/></l><r>jotkuuvâšvuođâ<s n="n"/></r></p></e>
+    <e><p><l>jotkkolašvuohta<s n="n"/></l><r>jotkuuvâšvuođâ<s n="n"/></r></p></e>
+    <e><p><l>stereotypiija<s n="n"/></l><r>stereotypia<s n="n"/></r></p></e>
+    <e><p><l>muvra<s n="n"/></l><r>muvrâ<s n="n"/></r></p></e>
+    <e><p><l>vašši<s n="n"/></l><r>vaje<s n="n"/></r></p></e>
+    <e><p><l>oktilašvuohta<s n="n"/></l><r>ohtâlâšvuotâ<s n="n"/></r></p></e>
+    <e><p><l>globalisašuvdna<s n="n"/></l><r>globalisaatio<s n="n"/></r></p></e>
     <e><p><l>dieđagoddi<s n="n"/></l><r>tieđâkodde<s n="n"/></r></p></e>
     <e><p><l>ásaheapmi<s n="n"/></l><r>vuáđudem<s n="n"/></r></p></e>
     <e><p><l>oalgeávnnas<s n="n"/></l><r>uálgiaamnâs<s n="n"/></r></p></e>
@@ -2532,6 +2550,7 @@
 
     <!-- ASECTION: Verbs -->
     
+    <e><p><l>seailudit<s n="vblex"/><s n="tv"/></l><r>siäiluttiđ<s n="vblex"/></r></p></e> 
     <e><p><l>vuodjut<s n="vblex"/><s n="iv"/></l><r>vuáijuđ<s n="vblex"/></r></p></e> 
     <e><p><l>sibildit<s n="vblex"/><s n="tv"/></l><r>vigâttiđ<s n="vblex"/></r></p></e> 
     <e><p><l>fuollat<s n="vblex"/><s n="tv"/></l><r>huollâđ<s n="vblex"/></r></p></e> 
@@ -4610,7 +4629,7 @@
     <e><p><l>poastamearka<s n="n"/></l><r>postâmerkkâ<s n="n"/></r></p></e>
     <e><p><l>poliisa<s n="n"/></l><r>poolis<s n="n"/></r></p></e>
     <e><p><l>politihkar<s n="n"/></l><r>politijkkár<s n="n"/></r></p></e>
-    <e><p><l>politihkka<s n="n"/></l><r>politijkká<s n="n"/></r></p></e>
+    <e><p><l>politihkka<s n="n"/></l><r>politiik<s n="n"/></r></p></e>
     <e><p><l>politiija<s n="n"/></l><r>poolis<s n="n"/></r></p></e>
     <e><p><l>presideanta<s n="n"/></l><r>president<s n="n"/></r></p></e>
     <e><p><l>prinseassa<s n="n"/><s n="g3"/></l><r>prinses<s n="n"/></r></p></e>
@@ -7908,7 +7927,7 @@
     <e><p><l>sohti<s n="n"/></l><r>saanjâ<s n="n"/></r></p></e>
     <e><p><l>stuibmi<s n="n"/></l><r>hullân<s n="n"/></r></p></e>
     <e><p><l>stuibmi<s n="n"/></l><r>larmâ<s n="n"/></r></p></e>
-    <e><p><l>stuibmi<s n="n"/></l><r>ruojâ<s n="n"/></r></p></e>
+    <e><p><l>stuibmi<s n="n"/></l><r>ruočâ<s n="n"/></r></p></e>
     <e><p><l>stuibmi<s n="n"/></l><r>šlaamâ<s n="n"/></r></p></e>
     <e><p><l>stáđđi<s n="n"/></l><r>peljistäđđee<s n="n"/></r></p></e>
     <e><p><l>stáđđi<s n="n"/></l><r>terppâmvuálááš<s n="n"/></r></p></e>
@@ -8301,7 +8320,7 @@
     <e><p><l>moaitta<s n="n"/></l><r>vaidâlus<s n="n"/></r></p></e>
     <e><p><l>moaitta<s n="n"/></l><r>väidim<s n="n"/></r></p></e>
     <e><p><l>mobiila<s n="n"/></l><r>kännyk<s n="n"/></r></p></e>
-    <e><p><l>mobiilatelefovdna<s n="n"/></l><r>kännyk<s n="n"/></r></p></e>
+    <e><p><l>mobiilatelefovdna<s n="n"/></l><r>mätkipuhelin<s n="n"/></r></p></e>
     <e><p><l>modealla<s n="n"/><s n="g3"/></l><r>mannekiin<s n="n"/></r></p></e><!-- olmmoš-->
     <e><p><l>modealla<s n="n"/><s n="g3"/></l><r>myenster<s n="n"/></r></p></e><!-- ášši-->
     <e><p><l>mugga<s n="n"/></l><r>kannu<s n="n"/></r></p></e>
