@@ -19,6 +19,10 @@
 /configure.ac -text
 dev/bidix-sanity.sh -text
 dev/complicateddifferences.txt -text
+dev/fi_depts.A.missing -text
+dev/fi_depts.Adv.missing -text
+dev/fi_depts.N.missing -text
+dev/fi_depts.V.missing -text
 dev/fi_depts.freq -text
 dev/missinglist.txt -text
 dix_pairs4manual_check/vblex_pairs.txt -text

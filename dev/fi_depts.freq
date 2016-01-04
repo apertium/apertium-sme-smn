@@ -25,7 +25,7 @@
   48 "ahte" CS
   47 "plána" N
   43 "ovttaveardásašvuođaláhka" N
-  38 "ovttaveardásašvuođa#plána" N
+  38 "ovttaveardásašvuođaplána" N
   38 "guoskat" V
   35 "bálvalus" N
   35 ":" CLB
@@ -57,7 +57,7 @@
   18 "buhtadus" N
   17 "vuođul" Po
   17 "vuhtii" Adv
-  17 "vealahan#vuođustus" N
+  17 "vealahanvuođustus" N
   17 "sápmelaš" N
   17 "son" Pron
   17 "juos" CS
@@ -105,19 +105,19 @@
   10 "skuvlejupmi" N
   10 "sisttisdoallat" V
   10 "sierralágan" v1
-  10 "ovttaveardásašvuođa#plánen" N
+  10 "ovttaveardásašvuođaplánen" N
   10 "muhto" CC
   10 "giella" N
   10 "geavahit" V
   10 "geatnegasvuohta" N
   10 "erenoamáš" v2
   10 "earret_eará" Adv
-  10 "bargo#suodjalan#biire" N
+  10 "bargosuodjalanbiire" N
   10 "bargat" V
    9 "ásahit" V
    9 "§" N
    9 "vásihit" V
-   9 "vehádat#válja#olmmoš" N
+   9 "vehádatváljaolmmoš" N
    9 "vealahit" V
    9 "mo" Adv
    9 "gártat" V
@@ -126,7 +126,7 @@
    9 "gažaldat" N
    9 "dihto" A
    9 "bargoaddi" N
-   9 "bargo#suodjalan#virgeoapmahaš" N
+   9 "bargosuodjalanvirgeoapmahaš" N
    9 "3" Num
    8 "čujuhus" N
    8 "áššehas" N
@@ -167,8 +167,8 @@
    6 "vuođđudit" V
    6 "vuođđoláhka" N
    6 "vuohta" N
-   6 "virgeoapmahaš#doaibma" N
-   6 "vealahan#gielddus" N
+   6 "virgeoapmahašdoaibma" N
+   6 "vealahangielddus" N
    6 "stáhta" v1
    6 "sierraárvosaš" ?
    6 "searvi" N
@@ -180,7 +180,7 @@
    6 "lahttu" N
    6 "jo" Adv
    6 "hápmi" N
-   6 "guovddáš#sátni" N
+   6 "guovddášsátni" N
    6 "govttolaš" A
    6 "goittotge" Pcle
    6 "gohcin" N
@@ -193,7 +193,7 @@
    6 "dávjá" Adv
    6 "dásseárvoplána" N
    6 "dáfus" Po
-   6 "doaibman#biras" N
+   6 "doaibmanbiras" N
    6 "báikegoddi" N
    6 "ahki" N
    6 "Helsset" N
@@ -216,7 +216,7 @@
    5 "skuvlen" N
    5 "seammá" Pron
    5 "ráhkadus" N
-   5 "ruovttuiduhttin#prográmma" N
+   5 "ruovttuiduhttinprográmma" N
    5 "romána" N
    5 "praktihkka" N
    5 "ovdáneapmi" N
@@ -243,7 +243,7 @@
    5 "dáhpáhus" N
    5 "duođalaš" A
    5 "doarjut" V
-   5 "dieđihan#čálus" N
+   5 "dieđihančálus" N
    5 "buohta" Po
    5 "almmái" N
    5 "Eurohpá" N
@@ -259,7 +259,7 @@
    4 "váidda" N
    4 "vuođđu" N
    4 "vuostedoaibma" N
-   4 "vealahan#dáhpáhus" N
+   4 "vealahandáhpáhus" N
    4 "veahkehit" V
    4 "sávvat" V
    4 "siste" Po
@@ -298,7 +298,7 @@
    4 "eamiálbmot" N
    4 "dásseárvoláhka" N
    4 "dárbbašit" V
-   4 "duođaštan#noađđi" N
+   4 "duođaštannoađđi" N
    4 "doarvái" Adv
    4 "doarvi" N
    4 "doaibmabidju" N
@@ -324,26 +324,26 @@
    3 "ámmát" N
    3 "álkidahttit" V
    3 "www.mol.fi/migration" N
-   3 "válljen#mearrádus" N
+   3 "válljenmearrádus" N
    3 "vuogádat" N
    3 "visti" N
    3 "vearjogeatnegasvuohta" N
-   3 "vealahan#váidda" N
+   3 "vealahanváidda" N
    3 "universitehta" N
    3 "ságajođiheaddji" N
    3 "sturrodat" N
    3 "sosiálalaš" A
-   3 "sosiáladorvo#ovdu" N
+   3 "sosiáladorvoovdu" N
    3 "sosiála" A
    3 "sohkabealli" N
    3 "smiehttat" V
    3 "sierra" Adv
-   3 "seksuála#vehádat" N
+   3 "seksuálavehádat" N
    3 "rávvet" V
    3 "rolla" N
    3 "riikkaidgaskasaš" A
    3 "rihkkut" V
-   3 "riegádan#duogáš" N
+   3 "riegádanduogáš" N
    3 "resursa" N
    3 "reageret" V
    3 "prošeakta" N
@@ -366,10 +366,10 @@
    3 "mun" Pron
    3 "mearrádus" N
    3 "meannudanvuohki" N
-   3 "lámis#olmmoš" N
+   3 "lámisolmmoš" N
    3 "láhkaásaheapmi" N
    3 "lahttuvuohta" N
-   3 "konflikta#dilli" N
+   3 "konfliktadilli" N
    3 "kirku" N
    3 "jáhkkit" V
    3 "jos" CS
@@ -414,15 +414,15 @@
    3 "danin" Adv
    3 "dan_dihte" Adv
    3 "dahkki" N
-   3 "báikkálaš#virgeoapmahaš" N
+   3 "báikkálašvirgeoapmahaš" N
    3 "báhcit" V
    3 "buorideapmi" N
    3 "boazodoallu" N
    3 "boaris" A
    3 "bealeheapme" A
    3 "beaivi" N
-   3 "bargo#vealahan#direktiiva" N
-   3 "bargo#searvvuš" N
+   3 "bargovealahandirektiiva" N
+   3 "bargosearvvuš" N
    3 "b" Adv
    3 "addi" N
    3 "addi" A
@@ -438,21 +438,21 @@
    2 "čoaggit" V
    2 "čilgehus" N
    2 "čielggadeapmi" N
-   2 "áššehas#joavku" N
-   2 "áššehas#bargu" N
-   2 "árvvoštallanbargo#neavvu" N
-   2 "árvvoštallan#bargoneavvu" N
+   2 "áššehasjoavku" N
+   2 "áššehasbargu" N
+   2 "árvvoštallanbargoneavvu" N
+   2 "árvvoštallanbargoneavvu" N
    2 "árgabeaivi" N
    2 "álo" Adv
    2 "álgu" N
    2 "álgit" V
-   2 "áitta#sáhkku" N
+   2 "áittasáhkku" N
    2 "áigetávval" N
    2 "áigerádjá" N
    2 "www.mol.fi/migration" Adv
    2 "www.join.fi/seis" N
    2 "vásihus" N
-   2 "válja#olmmoš" N
+   2 "váljaolmmoš" N
    2 "váikkuhit" V
    2 "vuođđoplána" N
    2 "vuovdin" N
@@ -461,17 +461,17 @@
    2 "vuollái" Adv
    2 "vuolde" Po
    2 "vuoigŋa" N
-   2 "vuoigatvuohta#ministeriija" N
-   2 "vuoigatvuohta#ministeri#idja" N
-   2 "viste#ohcci" N
+   2 "vuoigatvuohtaministeriija" N
+   2 "vuoigatvuohtaministeriidja" N
+   2 "visteohcci" N
    2 "viidát" Adv
    2 "viidodat" N
    2 "viehka" Adv
    2 "vejolaččat" Adv
    2 "vejolaštit" V
-   2 "vehádat#olmmoš" N
+   2 "vehádatolmmoš" N
    2 "vehkiin" Po
-   2 "vealahan#gieldu" N
+   2 "vealahangieldu" N
    2 "veahkkeneavvu" N
    2 "uniovdna" N
    2 "tulkabálvalus" N
@@ -484,7 +484,7 @@
    2 "stáđásmuvvat" v1
    2 "strategiija" N
    2 "statistihkka" N
-   2 "sohkabealle#vehádat" N
+   2 "sohkabeallevehádat" N
    2 "smávis" A
    2 "skáhppot" V
    2 "skuvlet" V
@@ -495,15 +495,15 @@
    2 "searvegoddi" N
    2 "s" N
    2 "ráđđi" N
-   2 "ráhkadan#geatnegasvuohta" N
+   2 "ráhkadangeatnegasvuohta" N
    2 "rádjai" Po
-   2 "ruošša#searvvuš" N
+   2 "ruoššasearvvuš" N
    2 "ruoktu" N
    2 "rs" ?
    2 "riika" N
-   2 "rihkus#láhka" N
+   2 "rihkusláhka" N
    2 "riegádit" V
-   2 "rasisma#direktiiva" N
+   2 "rasismadirektiiva" N
    2 "rasisma" N
    2 "priváhtaolmmoš" N
    2 "priváhta" v1
@@ -512,7 +512,7 @@
    2 "persovnnalaš" A
    2 "ođasteapmi" N
    2 "ovttaveardásašvuođaplánai" ?
-   2 "ovttaveardásašvuođa#gažaldat" N
+   2 "ovttaveardásašvuođagažaldat" N
    2 "ovttastupmi" N
    2 "ovttasbargovuohki" N
    2 "ovttasbargoorgána" N
@@ -544,18 +544,18 @@
    2 "nappo" Adv
    2 "nanusvuohta" N
    2 "máŋgii" Adv
-   2 "málle#plána" N
+   2 "málleplána" N
    2 "máksit" V
    2 "muddu" N
    2 "molssaevttolaš" A
    2 "molsašuddat" V
    2 "metoda" N
    2 "meroštallat" V
-   2 "mearrádus#dahkan" N
+   2 "mearrádusdahkan" N
    2 "mearkkašahtti" A
    2 "meannudit" V
    2 "materiála" N
-   2 "lápmásiid#ráđđi" N
+   2 "lápmásiidráđđi" N
    2 "láigoheapmi" N
    2 "láhtten" N
    2 "lahkonanvuohki" N
@@ -619,7 +619,7 @@
    2 "eana" v2
    2 "eahpádus" N
    2 "eahpenjuolgut" V
-   2 "dásseárvo#plánen" N
+   2 "dásseárvoplánen" N
    2 "dárkkálnuhttit" V
    2 "dáidu" N
    2 "dáhtul" Adv
@@ -628,7 +628,7 @@
    2 "dubmet" V
    2 "doaimmahat" N
    2 "doaibmi" A
-   2 "doaibman#prográmma" N
+   2 "doaibmanprográmma" N
    2 "doaba" N
    2 "dikšun" N
    2 "detállja" N
@@ -638,7 +638,7 @@
    2 "dahkat" V
    2 "c" N
    2 "báris" A
-   2 "bálvalus#buvttadeaddji" N
+   2 "bálvalusbuvttadeaddji" N
    2 "bálvalit" V
    2 "buoremusat" Adv
    2 "buorebut" Adv
@@ -660,7 +660,7 @@
    2 "bargogaskavuohta" N
    2 "bargoeallin" N
    2 "bargodilli" N
-   2 "barggu#oažžun" N
+   2 "bargguoažžun" N
    2 "bajásdoallat" V
    2 "atnit" V
    2 "Sámediggi" N
@@ -680,13 +680,13 @@
    1 "čájehit" V
    1 "čuvgehus" N
    1 "čuoččuhus" N
-   1 "čuozáhat#joavku" N
+   1 "čuozáhatjoavku" N
    1 "čuozáhat" N
-   1 "čuovvun#čoahkkin" N
-   1 "čuovvun#vuođustus" N
-   1 "čuovvun#proseassa" N
-   1 "čuovvun#diehtu" N
-   1 "čuovus#oassi" N
+   1 "čuovvunčoahkkin" N
+   1 "čuovvunvuođustus" N
+   1 "čuovvunproseassa" N
+   1 "čuovvundiehtu" N
+   1 "čuovusoassi" N
    1 "čuokkis" N
    1 "čujuhit" V
    1 "čujuheapmi" N
@@ -716,13 +716,13 @@
    1 "ČUVVOSAT" ?
    1 "áššáiosolaš" A
    1 "áššáigullevaš" A
-   1 "áššiid#dikšun" N
-   1 "ášševuoddji#doaimmahat" N
+   1 "áššiiddikšun" N
+   1 "ášševuoddjidoaimmahat" N
    1 "áššeolmmoš" N
    1 "áššeheapme" A
    1 "áššehasbálvalus" N
    1 "áššedovdamuš" N
-   1 "ášše#osolaš" N
+   1 "áššeosolaš" N
    1 "ávžžuhit" V
    1 "ávnnas" N
    1 "ávkkástallat" V
@@ -737,9 +737,9 @@
    1 "árvovuođđu" N
    1 "árvalit" V
    1 "ámmátdáidu" N
-   1 "ámmát#searvi" N
+   1 "ámmátsearvi" N
    1 "álgu" Adv
-   1 "álgo#mokta" N
+   1 "álgomokta" N
    1 "álggos" Adv
    1 "álggahit" V
    1 "álggaheapmi" N
@@ -762,19 +762,19 @@
    1 "várret" V
    1 "várreságajođiheaddji" N
    1 "várrelahttu" N
-   1 "várre#duopmár" N
+   1 "várreduopmár" N
    1 "válljen" N
    1 "váldoálbmot" N
    1 "váldi" N
    1 "váidit" V
    1 "váidinvejolašvuohta" N
    1 "vádjitvuohta" N
-   1 "vuođđovuoigatvuođa#njuolggadus" N
+   1 "vuođđovuoigatvuođanjuolggadus" N
    1 "vuođđovuoigatvuohta" N
    1 "vuođđoskuvla" N
    1 "vuođđogirji" N
-   1 "vuođđo#vuoigatvuođanjuolggadus" N
-   1 "vuođđo#elemeanta" N
+   1 "vuođđovuoigatvuođanjuolggadus" N
+   1 "vuođđoelemeanta" N
    1 "vuođuheapme" A
    1 "vuostálastit" V
    1 "vuostá" Po
@@ -784,7 +784,7 @@
    1 "vuollánahttit" V
    1 "vuolgit" V
    1 "vuoiggahis" ?
-   1 "vuoigatvuođa#dorvu" N
+   1 "vuoigatvuođadorvu" N
    1 "vuoig" ?
    1 "vuohttit" V
    1 "vuogas" A
@@ -796,21 +796,21 @@
    1 "vihkkehallat" V
    1 "vel" Adv
    1 "vehádatjoavku" N
-   1 "vehádat#searvi" N
-   1 "vehádat#nisu" N
-   1 "vearjo#bálvalus" N
-   1 "veardádallan#munni" N
+   1 "vehádatsearvi" N
+   1 "vehádatnisu" N
+   1 "vearjobálvalus" N
+   1 "veardádallanmunni" N
    1 "vealtameahttun" A
    1 "vealaheam" ?
    1 "vealaheaddjiin" ?
-   1 "vealahan#várra" N
-   1 "vealahan#válja#olmmoš" N
-   1 "vealahan#láhki" N
+   1 "vealahanvárra" N
+   1 "vealahanváljaolmmoš" N
+   1 "vealahanláhki" N
    1 "veahkki" N
    1 "veagas" Po
    1 "vaikke" Adv
    1 "vaikka" ?
-   1 "vahát#buhtten#láhka" N
+   1 "vahátbuhttenláhka" N
    1 "vahát" N
    1 "vaasa.tsp@tsp.stm.vn.fi" N
    1 "uhcci" A
@@ -827,43 +827,43 @@
    1 "suopmelaš" N
    1 "suomagiella" N
    1 "suoma" N
-   1 "suohtastallan#prográmma" N
+   1 "suohtastallanprográmma" N
    1 "suodjaleapmi" N
    1 "sullalasvuohta" N
    1 "suddjet" V
    1 "suddat" V
    1 "stáđásmahttit" V
-   1 "stárta#ruhta" N
+   1 "stártaruhta" N
    1 "studeanta" N
-   1 "spesiála#skuvlen" N
-   1 "sosiáladorvo#ortnet" N
+   1 "spesiálaskuvlen" N
+   1 "sosiáladorvoortnet" N
    1 "sosiálabargu" N
-   1 "sosiála#ovdu" N
+   1 "sosiálaovdu" N
    1 "sohkabealleperspektiiva" N
    1 "soahpat" V
    1 "soahpamuš" N
    1 "skuvlenvejolašvuohta" N
    1 "skuvlenbeaivi" N
-   1 "skuvlen#hápmi" N
-   1 "skuvlen#gáibádus" N
+   1 "skuvlenhápmi" N
+   1 "skuvlengáibádus" N
    1 "skuvla" N
    1 "siviilavuoigatvuohta" N
-   1 "siviila#bálvalus" N
+   1 "siviilabálvalus" N
    1 "sisáššiidministeriija" N
    1 "siskkáldas" A
-   1 "sisdoallo#gažaldat" N
+   1 "sisdoallogažaldat" N
    1 "sisafárren" N
    1 "sisafárrejeaddjiduogáš" N
    1 "siktet" V
    1 "siidu" N
    1 "sihkkarit" Adv
    1 "sihkkarastin" N
-   1 "sierraláhka#ásaheapmi" N
+   1 "sierraláhkaásaheapmi" N
    1 "sierragielat" A
    1 "sierragažaldat" N
    1 "sierradilli" N
-   1 "sierra#čilgehus" N
-   1 "sierra#láhkaásaheapmi" N
+   1 "sierračilgehus" N
+   1 "sierraláhkaásaheapmi" N
    1 "servodatlaš" A
    1 "seksuálavehádagaidda" ?
    1 "seammá" Adv
@@ -871,8 +871,8 @@
    1 "seammasullasaš" A
    1 "seammalágan" v1
    1 "sadjái" Po
-   1 "ráđđádallan#orgána" N
-   1 "ráđđádallan#beaivi" N
+   1 "ráđđádallanorgána" N
+   1 "ráđđádallanbeaivi" N
    1 "ráđđádallan" N
    1 "rávvenbálvalus" N
    1 "rávagirji" N
@@ -882,7 +882,7 @@
    1 "ráidalas" N
    1 "ráddjet" V
    1 "ruoŧagiella" N
-   1 "ruovttuiduhttin#láhka" N
+   1 "ruovttuiduhttinláhka" N
    1 "ruossalasvuohta" N
    1 "ruoktobáikki" ?
    1 "ruohtas" N
@@ -892,10 +892,10 @@
    1 "ruhtadeapmi" N
    1 "ruhtadansuorgi" N
    1 "ruhta" N
-   1 "romána#ášši" N
-   1 "romána#searvvuš" N
-   1 "romána#searvi" N
-   1 "romána#ovttastupmi" N
+   1 "románaášši" N
+   1 "románasearvvuš" N
+   1 "románasearvi" N
+   1 "románaovttastupmi" N
    1 "rom" ?
    1 "riska" N
    1 "riikkavuloš" N
@@ -911,8 +911,8 @@
    1 "riekta" A
    1 "riehkkat" V
    1 "riegádeapmi" N
-   1 "restauráŋŋa#eaiggát" N
-   1 "restauráŋŋa#bálvalus" N
+   1 "restauráŋŋaeaiggát" N
+   1 "restauráŋŋabálvalus" N
    1 "reive" N
    1 "rašši" A
    1 "rasisttalaš" A
@@ -920,14 +920,14 @@
    1 "prošyrat" ?
    1 "politihkkaprográmma" N
    1 "politihkka" N
-   1 "ođđasit#skuvlen" N
+   1 "ođđasitskuvlen" N
    1 "ođđasit" Adv
-   1 "ođasmahttin#proseassa" N
+   1 "ođasmahttinproseassa" N
    1 "ođasdoaimmahus" N
    1 "oy" N
-   1 "ovttaveardásašvuođaláhka#ásaheapmi" N
-   1 "ovttaveardásašvuođa#láhkaásaheapmi" N
-   1 "ovttaveardásaš#plána" N
+   1 "ovttaveardásašvuođaláhkaásaheapmi" N
+   1 "ovttaveardásašvuođaláhkaásaheapmi" N
+   1 "ovttaveardásašplána" N
    1 "ovttaveardásaš" A
    1 "ovttasbargoorgánaidda" ?
    1 "ovttasbargohápmi" N
@@ -951,7 +951,7 @@
    1 "oulu.tsp@tsp.stm.vn.fi" Adv
    1 "ossodat" N
    1 "oskut" V
-   1 "oskkoldat#ovttastupmi" N
+   1 "oskkoldatovttastupmi" N
    1 "ortodoksalaš" A
    1 "orgánaidda" ?
    1 "ordnedit" V
@@ -963,9 +963,9 @@
    1 "ollái" Po
    1 "ollit" V
    1 "ollis" A
-   1 "ollašuhttin#ossodat" N
+   1 "ollašuhttinossodat" N
    1 "olis" Po
-   1 "olgoriikka#ministeriija" N
+   1 "olgoriikkaministeriija" N
    1 "olgguldasat" Adv
    1 "olgguldas" N
    1 "olgguldas" A
@@ -976,8 +976,8 @@
    1 "olggobealde" Pr
    1 "olggobealde" Adv
    1 "okto" Adv
-   1 "oktiiheivehan#bargu" N
-   1 "oktasaš#soahpamuš" N
+   1 "oktiiheivehanbargu" N
+   1 "oktasašsoahpamuš" N
    1 "oktageardán" A
    1 "oidnosii" Adv
    1 "ohcci" N
@@ -989,8 +989,8 @@
    1 "oahpásmuvvat" v1
    1 "oahppolágádus" N
    1 "oahppodoarjja" N
-   1 "oahppo#čađaheapmi" N
-   1 "oahppiid#válljen" N
+   1 "oahppočađaheapmi" N
+   1 "oahppiidválljen" N
    1 "oahppi" N
    1 "oahppat" V
    1 "oahppan" N
@@ -999,7 +999,7 @@
    1 "oahcci" N
    1 "nákca" N
    1 "nuppástuvvat" V
-   1 "nuppástus#ohcanvuohki" N
+   1 "nuppástusohcanvuohki" N
    1 "nuppástuhttit" V
    1 "nuppegežiid" Adv
    1 "nuoraidášši" N
@@ -1008,7 +1008,7 @@
    1 "njálmmálaš" A
    1 "njuovžilvuohta" N
    1 "njuovžilit" Adv
-   1 "njunuš#hoavda" N
+   1 "njunušhoavda" N
    1 "njiedjat" V
    1 "njeallje" Num
    1 "negatiivvalaš" A
@@ -1018,10 +1018,10 @@
    1 "namahallat" V
    1 "máŋggaámmátlaš" ?
    1 "máŋggakulturprográmmat" ?
-   1 "máŋggahámatvuođa#prográmma" N
-   1 "máŋggahámatvuođa#politihkka" N
+   1 "máŋggahámatvuođaprográmma" N
+   1 "máŋggahámatvuođapolitihkka" N
    1 "máŋget" V
-   1 "máttanuorta-#Suopma" N
+   1 "máttanuorta-Suopma" N
    1 "mátki" N
    1 "málle" N
    1 "máksin" N
@@ -1043,7 +1043,7 @@
    1 "meahcástit" V
    1 "meahccedoalloministeriija" N
    1 "maŋŋá" Pr
-   1 "maŋŋe#dilli" N
+   1 "maŋŋedilli" N
    1 "maŋit" A
    1 "maŋisboahtti" N
    1 "mannat" V
@@ -1051,19 +1051,19 @@
    1 "mahačča" ?
    1 "lávki" N
    1 "lávga" Adv
-   1 "lápmásiid#searvi" N
-   1 "lámis#ohcci" N
-   1 "lámis#bargi" N
-   1 "láigoviste#ráidu" N
+   1 "lápmásiidsearvi" N
+   1 "lámisohcci" N
+   1 "lámisbargi" N
+   1 "láigovisteráidu" N
    1 "láhčit" V
    1 "láhttet" V
-   1 "láhkaásahan#ráđđi" N
+   1 "láhkaásahanráđđi" N
    1 "lágádus" N
    1 "luohtehahtti" A
    1 "lohkkot" V
    1 "lohki" N
    1 "logi" Num
-   1 "loavkidan#dárkkuhus" N
+   1 "loavkidandárkkuhus" N
    1 "loatna" N
    1 "loahppa" N
    1 "liikká" Adv
@@ -1095,7 +1095,7 @@
    1 "jođiheapmi" N
    1 "jođiheapme" A
    1 "jotkkolaš" A
-   1 "jorre#stuollu" N
+   1 "jorrestuollu" N
    1 "johtolat" N
    1 "johtilit" Adv
    1 "johtil" A
@@ -1133,8 +1133,8 @@
    1 "heivvolaš" A
    1 "heivet" V
    1 "heiveheapmi" N
-   1 "heivehan#suorgi" N
-   1 "heivehan#ráva" N
+   1 "heivehansuorgi" N
+   1 "heivehanráva" N
    1 "hehttehus" N
    1 "hearki" A
    1 "heaisa" N
@@ -1148,7 +1148,7 @@
    1 "gárvánit" V
    1 "gánnehit" V
    1 "gáhtten" N
-   1 "guovlo#virgeoapmahaš" N
+   1 "guovlovirgeoapmahaš" N
    1 "guovddášlihttu" N
    1 "guovddášhálddahus" N
    1 "guoskameahttunvuohta" N
@@ -1168,9 +1168,9 @@
    1 "goittoge" ?
    1 "goalmmát" A
    1 "gildojvuvo" ?
-   1 "gihligodde#sivaheaddji" N
+   1 "gihligoddesivaheaddji" N
    1 "gieđahallanproseassa" N
-   1 "giella#vuođustus" N
+   1 "giellavuođustus" N
    1 "gieldda" N
    1 "giehtadallat" V
    1 "geavadagas" ?
@@ -1210,23 +1210,23 @@
    1 "eandalii" Adv
    1 "eanaš" A
    1 "ealáhusdoaibma" N
-   1 "ealáhus#lohpi" N
+   1 "ealáhuslohpi" N
    1 "ealáhat" N
    1 "eallindilli" N
    1 "eallinbiras" N
-   1 "eallin#suorgi" N
+   1 "eallinsuorgi" N
    1 "eaktodáhtolaš" A
    1 "eahpiduhttá" ?
    1 "eahpečielgi" N
    1 "eahpenjuolgat" V
    1 "dássi" N
    1 "dásseárvoášši" N
-   1 "dásseárvo#válja#olmmoš" N
+   1 "dásseárvováljaolmmoš" N
    1 "dás" Adv
    1 "dárkkuhit" V
    1 "dárbbaš" N
    1 "dárbašat" N
-   1 "dálá#dilli" N
+   1 "dáládilli" N
    1 "dáiddajoavku" N
    1 "dáhpáhuvvat" V
    1 "dáhkideaddji" N
@@ -1247,7 +1247,7 @@
    1 "dohko" Adv
    1 "doavttir" N
    1 "doarváivuohta" ?
-   1 "doarjja#hápmi" N
+   1 "doarjjahápmi" N
    1 "doallat" V
    1 "doaivu" N
    1 "doaimmahit" V
@@ -1255,12 +1255,12 @@
    1 "doaibmanvuohki" N
    1 "doaibmanvejolašvuohta" N
    1 "doaibmanjurdda" N
-   1 "doaibman#strategiija#idja" N
-   1 "doaibman#strategiija" N
-   1 "doaibman#ráva" N
-   1 "doaibman#politihkka" N
+   1 "doaibmanstrategiijaidja" N
+   1 "doaibmanstrategiija" N
+   1 "doaibmanráva" N
+   1 "doaibmanpolitihkka" N
    1 "doaibmabadji" N
-   1 "doaibma#váldi" N
+   1 "doaibmaváldi" N
    1 "diŋgot" V
    1 "diŋgojupmi" N
    1 "divvut" V
@@ -1269,11 +1269,11 @@
    1 "dilálašvuohta" N
    1 "dikšut" V
    1 "dieđáhus" N
-   1 "dieđihan#čállu" N
-   1 "dieđihan#ovttasbargu" N
-   1 "dieđihan#materiála" N
-   1 "dieđihan#kanála" N
-   1 "dieđihan#fidnu" N
+   1 "dieđihančállu" N
+   1 "dieđihanovttasbargu" N
+   1 "dieđihanmateriála" N
+   1 "dieđihankanála" N
+   1 "dieđihanfidnu" N
    1 "dievaslaš" A
    1 "dearvvasvuođaministeriija" N
    1 "deaivvadeapmi" N
@@ -1290,14 +1290,14 @@
    1 "cealkámuš" N
    1 "cd" N
    1 "caggat" V
-   1 "bálvalusgaskavuođa#láhka" N
+   1 "bálvalusgaskavuođaláhka" N
    1 "bálvaleaddji" N
-   1 "bálká#ortnet" N
+   1 "bálkáortnet" N
    1 "bálká" N
    1 "báljis" A
    1 "bálddalas" A
    1 "báikkálaččat" Adv
-   1 "báikkálaš#ovttastupmi" N
+   1 "báikkálašovttastupmi" N
    1 "bustávva" N
    1 "buorri" N
    1 "buoridit" V
@@ -1306,10 +1306,10 @@
    1 "bokte" Po
    1 "bohciidahttit" V
    1 "boađusulbmil" N
-   1 "boađus#plánen" N
+   1 "boađusplánen" N
    1 "boarásmuvvat" v1
    1 "boarásmuvvat" V
-   1 "boarrásiid#bargu" N
+   1 "boarrásiidbargu" N
    1 "bivdit" V
    1 "bistit" V
    1 "bissovaš" A
@@ -1317,7 +1317,7 @@
    1 "biestit" V
    1 "bidjan" N
    1 "bearašgaskavuohta" N
-   1 "bealuštus#ministeriija" N
+   1 "bealuštusministeriija" N
    1 "bealis" Po
    1 "barguiváldin" ?
    1 "barguiváldimis" ?
@@ -1325,23 +1325,23 @@
    1 "bargosadji" N
    1 "bargopolitihkalaš" A
    1 "bargoohcci" N
-   1 "bargonávccahisvuođa#ovdu" N
-   1 "bargoneavvo#pakeahtta" N
-   1 "bargomárkan#doarjja" N
-   1 "bargolohpe#ášši" N
+   1 "bargonávccahisvuođaovdu" N
+   1 "bargoneavvopakeahtta" N
+   1 "bargomárkandoarjja" N
+   1 "bargolohpeášši" N
    1 "bargoja" ?
    1 "bargofápmodoaimmahat" N
    1 "bargodilálašvuohta" N
-   1 "bargodearvvasvuođa#fuolahus" N
+   1 "bargodearvvasvuođafuolahus" N
    1 "bargobiras" N
-   1 "bargoaddiid#searvi" N
-   1 "bargo#vealaheapmi" N
-   1 "bargo#dearvvasvuođafuolahus" N
+   1 "bargoaddiidsearvi" N
+   1 "bargovealaheapmi" N
+   1 "bargodearvvasvuođafuolahus" N
    1 "bargiidjoavku" N
-   1 "bargiid#skuvlen" N
-   1 "bargguhisvuođa#beaiveruhta" N
+   1 "bargiidskuvlen" N
+   1 "bargguhisvuođabeaiveruhta" N
    1 "bargguhisvuohta" N
-   1 "barggu#ohcan#dilli" N
+   1 "bargguohcandilli" N
    1 "barggolašvuohta" N
    1 "barggaheaddji" N
    1 "bajidit" V
