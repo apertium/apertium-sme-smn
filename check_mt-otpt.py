@@ -41,10 +41,8 @@ def prettify(elem):
     return reparsed.toprettyxml(indent="\t")
 
 def main():
-    # to be adjusted as needed
-    i_file = ''
-    o_file = 'out_'+i_file
-    i_dir = 'x_tmx_test'
+    # parameters to be adjusted as needed
+    i_dir = 'tmx_data'
     o_dir = 'otpt_dir'
     cwd = os.getcwd()
     out_dir_path = os.path.join(cwd,o_dir)
