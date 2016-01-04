@@ -100,7 +100,7 @@
       <cat-item tags="*.@+FMAINV"/>
       <cat-item tags="*.@-FMAINV"/>
     </def-cat>
-    <def-cat n="nom">
+    <def-cat n="nom"> <!-- not @OBJ→ because of change of wordorder   -->
       <cat-item tags="*.n.*.@←ADVL"/>
       <cat-item tags="*.n.*.@ADVL→"/>
       <cat-item tags="*.n.*.@SUBJ→"/>
@@ -113,6 +113,7 @@
       <cat-item tags="*.n.*.@P←"/>
       <cat-item tags="*.n.*.@P→"/>
       <cat-item tags="*.n.*.@X"/>
+      <cat-item tags="n.*.@→N"/>
       <cat-item tags="n.*.@ADVL→"/>
       <cat-item tags="n.*.@←ADVL"/>
       <cat-item tags="n.*.@SUBJ→"/>
