@@ -61,6 +61,9 @@ Write comments to forthcoming rules before this line -->
   <rule weight="0.5"><match lemma="Duommá" tags="np.*"><select lemma="Duommá"/></match></rule>
   <rule weight="0.6"><match lemma="Duommá" tags="np.ant.m.attr.*"><select lemma="Duommá"/></match></rule>
   <rule weight="1.0"><match lemma="Duommá" tags="np.*"><select lemma="Tyemes" tags="np.*"/></match></rule>
+  <rule weight="0.5"><match lemma="Duomis" tags="np.*"><select lemma="Duomis"/></match></rule>
+  <rule weight="0.6"><match lemma="Duomis" tags="np.ant.m.attr.*"><select lemma="Duomis"/></match></rule>
+  <rule weight="1.0"><match lemma="Duomis" tags="np.*"><select lemma="Tyemes" tags="np.*"/></match></rule>
   <rule weight="0.5"><match lemma="Ánde" tags="np.*"><select lemma="Ánde"/></match></rule>
   <rule weight="0.6"><match lemma="Ánde" tags="np.ant.m.attr.*"><select lemma="Ánde"/></match></rule>
   <rule weight="1.0"><match lemma="Ánde" tags="np.*"><select lemma="Antti" tags="np.*"/></match></rule>

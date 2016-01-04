@@ -415,6 +415,8 @@
     </def-attr>
     <def-attr n="a_deriv">
        <attr-item tags="der_dimin.n"/>
+       <attr-item tags="der_alla"/>
+       <attr-item tags="der_âllâ"/>
        <attr-item tags="der_at"/>
        <attr-item tags="der_goahti"/>
        <attr-item tags="der_passs"/>
@@ -423,6 +425,9 @@
        <attr-item tags="der_ahtti"/>
        <attr-item tags="der_vuohta"/>
        <attr-item tags="der_d"/>
+       <attr-item tags="der_h"/>
+       <attr-item tags="der_t"/>
+       <attr-item tags="der_st"/>
        <attr-item tags="der_lágan"/>
        <attr-item tags="der_nammasaš"/>
         <attr-item tags="der_saš"/>
@@ -941,6 +946,30 @@
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_passl"/></equal>
           </test>
           <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_pass"/></let> 
+        </when>
+         <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_h"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_t"/></let> 
+        </when>
+         <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_d"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_d"/></let> 
+        </when>
+         <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_st"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_st"/></let> 
+        </when>
+         <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_alla"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_âllâ"/></let> 
         </when>
     </choose>
     </def-macro>  

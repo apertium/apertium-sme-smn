@@ -1,9 +1,10 @@
 # -*- coding:utf-8 -*-
+# python check_mt-otpt.py
 import re, os, errno, cgi, json, xml
 import sys, codecs, locale, getopt
 import xml.etree.ElementTree as ET
 from subprocess import Popen, PIPE
-from BeautifulSoup import BeautifulStoneSoup
+#"from BeautifulSoup import BeautifulStoneSoup
 from operator import itemgetter
 from xml.dom.minidom import parse, parseString
 
@@ -52,7 +53,7 @@ def main():
     # parameters to be adjusted as needed
     s_lang = 'sme'
     t_lang = 'smn'
-    atm_dir = '/Users/cipriangerstenberger/aprtm/apertium-sme-smn'
+    atm_dir = '/Users/lan000/apertium/nursery/apertium-sme-smn'
     cmd = "| apertium -d " + atm_dir + " " + s_lang + '-' + t_lang
 
     table_style = '<style type="text/css">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:8px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}\n.tg th{text-align:left;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:8px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}\n.tg .tg-sme{background-color:#c0c0c0;vertical-align:top;font-weight:bold;}\n.tg .tg-smn{background-color:#efefef;vertical-align:top;font-style:italic;}\n.tg .tg-amt{vertical-align:top;font-style:normal;border-bottom: 2pt solid;}</style>'
