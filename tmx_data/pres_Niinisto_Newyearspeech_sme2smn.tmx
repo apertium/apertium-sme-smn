@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="EN-US"
+           srclang="sme-FI"
+           datatype="plaintext"/>
+   <body>
+      <tu id="1">
+         <tuv lang="sme-FI">
+            <seg>Riikkavuložat,</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Aalmugjesâneh,</seg>
+         </tuv>
+      </tu>
+      <tu id="2">
+         <tuv lang="sme-FI">
+            <seg>Háliidan álggahit buriin ođđasiin, dasgo daid lea váddásut oaidnit.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Halijdâm älgiđ puorij uđđâsijguin, tastko taid lii váddásub uáiniđ.</seg>
+         </tuv>
+      </tu>
+      <tu id="3">
+         <tuv lang="sme-FI">
+            <seg>Vássán jagis guokte gova badjánit earáid bajábeallai ja leat millii ceaggán.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Taan kuullâm ivveest kyehti kove pajaneh iärásij paajaabel já láá mielân teddâšum.</seg>
+         </tuv>
+      </tu>
+      <tu id="4">
+         <tuv lang="sme-FI">
+            <seg>Nubbi čájeha duhtavašvuođa Parisa dálkkádatsoahpamuša šattadettiin, nubbi čájeha presideanttaid Obama ja Putina oktii člammiid smiehttamin čovdosa Syria gažaldahkii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Nubbe čáittá tutâvâšvuođâ Paris šoŋŋâdâhsopâmuš šodâdijn, nubbe čáittá presidentkuáhtá Obama já Putin oohtân čolmij smiettâmin čuávdus Syyria koččâmâšân.</seg>
+         </tuv>
+      </tu>
+      <tu id="5">
+         <tuv lang="sme-FI">
+            <seg>Duot govat eai vel oktasaš vašálaččaid, dálkkádatrievdama ja terrorismma, vel čoavdde, muhto leat buorebut go miellagovat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tuoh koveh iä val ohtâsijd vajalijd, šoŋŋâdâhnubástus já terrorism, čuávdi, mut toh láá pyerebeh ko mielâkoveh.</seg>
+         </tuv>
+      </tu>
+      <tu id="6">
+         <tuv lang="sme-FI">
+            <seg>Máŋggat jurddašit sihkkarit nuppe láhkai, ahte jahki 2015 lea buktán mielddis dušše ollu morraša.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Maaŋgâs jurdâččeh vissásávt nubenáál, et ihe 2015 lii puáhtám fárustis tuše ennuv murrâš.</seg>
+         </tuv>
+      </tu>
+      <tu id="7">
+         <tuv lang="sme-FI">
+            <seg>Duohta, lea buktán oidnosii, muhto leago nu, ahte fuoni ja bahá gáldu lea leamaš juo ovddežis, buođđu dušše lea dál rahpaseamen?</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tuotâ, tot lii puáhtám uáinusân, mut lii-uv nuuvt, et hyene já paa käldee lii lamaš jo oovdiš, puáđu tuše lii tääl lekkâsmin?</seg>
+         </tuv>
+      </tu>
+      <tu id="8">
+         <tuv lang="sme-FI">
+            <seg>Ahte dál bákkus boahtá ovdan dat, mii lea čihkosis dahje báhcán oainnekeahttá.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Et tääl páágust puátá oovdân tot, mii lii čiähusist teikkâ pááccám uáinihánnáá.</seg>
+         </tuv>
+      </tu>
+      <tu id="9">
+         <tuv lang="sme-FI">
+            <seg>Dán geahččanguovllus hálan odne sisafárremis, dorvvolašvuođas ja ekonomiijas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Taan uáinust mun sáárnum onne siisâvarriimist, torvolâšvuođâst já ekonomiast.</seg>
+         </tuv>
+      </tu>
+      <tu id="10">
+         <tuv lang="sme-FI">
+            <seg>Riikkavuložat,</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Aalmugjesâneh,</seg>
+         </tuv>
+      </tu>
+      <tu id="11">
+         <tuv lang="sme-FI">
+            <seg>Báhtareaddjit heahkastuhtte Eurohpá das fuolakeahttá, ahte juo jagiid leimmet čuvvon olmmošvalji, mii rasttildii Gaskameara.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Patâreijeeh olâttii Euroop tast huolâhánnáá, et jo iivijd mij lâim čuávvum olmoošhivvâduv, mii rasteldij Koskâmeerâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="12">
+         <tuv lang="sme-FI">
+            <seg>Báhtareami luonduge lea rievdan: johtui vulget eará sajisge go heađi guovdu.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Patârem luándu-uv lii muttum: ulmuuh vyelgih joton eres-uv saajeest ko kaskoo eđe.</seg>
+         </tuv>
+      </tu>
+      <tu id="13">
+         <tuv lang="sme-FI">
+            <seg>Báhtareapmi ja álmogiidvádjolus johtiba dál giehtalágaid Eurohpá guovlluid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Patârem já almugijvajâldem jotteev tääl kietâluvâi Euroop kuávlun.</seg>
+         </tuv>
+      </tu>
+      <tu id="14">
+         <tuv lang="sme-FI">
+            <seg>Leat Suomas deaividan dakkára man eat leat deaividan ovdal.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij lep Suomâst teivâm taggaar, mon ep lah teivâm ovdil.</seg>
+         </tuv>
+      </tu>
+      <tu id="15">
+         <tuv lang="sme-FI">
+            <seg>Jahkebeali siste deike leat boahtán badjel 30 000 báhtareaddji ja sii bohtet ain lasi.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ihepele siste teehin láá puáttám paijeel 30 000 patâreijed, já sij puátih ain lase.</seg>
+         </tuv>
+      </tu>
+      <tu id="16">
+         <tuv lang="sme-FI">
+            <seg>Oassi báhtara heađi, oassi ohcá buorebu, goabbáge lunddolaš ja olmmošlaš motiivvat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Uási paattâr eđe, uási ocá pyereeb, kuohtuuh luánduliih já olmoošliih motiveh.</seg>
+         </tuv>
+      </tu>
+      <tu id="17">
+         <tuv lang="sme-FI">
+            <seg>Fárredeami duohkin sáhttá leat maid buorringeavaheapmi, man sáhttet geavahit fápmopolitihkage gaskaoapmin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Varriistâllâm tyehin puáhtá leđe meid pyerrinanneem, mon puáhtá kevttiđ vyeimipolitiik koskâuámmin-uv.</seg>
+         </tuv>
+      </tu>
+      <tu id="18">
+         <tuv lang="sme-FI">
+            <seg>Máilmmis boahttit livčče mearihis mearri, muhto min návccat fuolahit sis leat rájálaččat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Maailmist puátteeh liččii merettes meeri, mut mii naavcah huolâtteh sist láá rájáliih.</seg>
+         </tuv>
+      </tu>
+      <tu id="19">
+         <tuv lang="sme-FI">
+            <seg>Gáttán, ahte Ruoŧa stáhtaministtar Löfven dajai dehálaččamusa govvedettiinis "mii leat naiivvat".</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mun jurdám, et Ruotâ uáiviminister Löfven eeđâi tehálumos, ko sun kuvvij, et "mij lep naiveh".</seg>
+         </tuv>
+      </tu>
+      <tu id="20">
+         <tuv lang="sme-FI">
+            <seg>Ruoŧŧa, máŋggaid earáid riikkaid láhkai, leage čavgen sisafárrenpolitihkas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ruotâ, maaŋgâi eres riijkâi náál, lii-uv čovgim siisâvarrimpolitiikâs.</seg>
+         </tuv>
+      </tu>
+      <tu id="21">
+         <tuv lang="sme-FI">
+            <seg>Lean ádden Suoma ráđđehusa čovdosa nu, ahte háliidat dorvvastit resurssaid daid veahkeheapmái, geat leat stuorámus heađis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lam addim Suomâ haldâttuv čuávdus nuuvt, et mij halijdep turvâstiđ resursijd toi iššeedmän, kiäh láá stuárráámuu eeđeest.</seg>
+         </tuv>
+      </tu>
+      <tu id="22">
+         <tuv lang="sme-FI">
+            <seg>Dalle veahkki reahkká dušše váinnu dihte boahttiide.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Talle iše keelijd tuše vááinu tiet puátteid.</seg>
+         </tuv>
+      </tu>
+      <tu id="23">
+         <tuv lang="sme-FI">
+            <seg>Misge leat bohciidan váttisvuođat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mist-uv láá šoddâm vädisvuođah.</seg>
+         </tuv>
+      </tu>
+      <tu id="24">
+         <tuv lang="sme-FI">
+            <seg>Lean ieš boares oahpu jurista, dalá lága mielde boaldinboahtalis vistái, mas sáhtte leat olbmot, lei namahussan olmmošgoddinboaldin ja dan dat lea munnje velge.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lam jieš puáris uápu juuriist, tallaa laavâ mield puáldimputtâl leggistem viistán, mast sattii leđe ulmuuh, nomâttui koddempuáldimin, já siämmáánáál mun ain uáinám.</seg>
+         </tuv>
+      </tu>
+      <tu id="25">
+         <tuv lang="sme-FI">
+            <seg>Lossa rihkus.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lusis rikos.</seg>
+         </tuv>
+      </tu>
+      <tu id="26">
+         <tuv lang="sme-FI">
+            <seg>Nu go lea báhtareaddjiide čuohci váidnu dahje vaši biebman.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tego lii patâreijeid čyeccee váinu teikkâ vaje piemmâm.</seg>
+         </tuv>
+      </tu>
+      <tu id="27">
+         <tuv lang="sme-FI">
+            <seg>Menddo ollu dakkár lea dáhpáhuvvan.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Meendu ennuv taggaar lii tábáhtum.</seg>
+         </tuv>
+      </tu>
+      <tu id="28">
+         <tuv lang="sme-FI">
+            <seg>Buot boahttitge eai leat beare buriin jođus.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Puoh puátteehkin iä lah peri puorijn joođoost.</seg>
+         </tuv>
+      </tu>
+      <tu id="29">
+         <tuv lang="sme-FI">
+            <seg>Muhtimiin lea terroristaduogáš ja muhtimat dahket eará bahá.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Motomijn lii terroristtuávááš já motomeh taheh eres paa.</seg>
+         </tuv>
+      </tu>
+      <tu id="30">
+         <tuv lang="sme-FI">
+            <seg>Muhtin hárvvi duogážat ja dagut dahket dárbbašmeahttun balahahkesvuođa buot sisafárrejeddjiid vuostá.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Motomij hárvásij tuávááh já tavoh tovâtteh tarbâšmettum vávjálâsvuođâ puoh siisâvärrejeijei vuástá.</seg>
+         </tuv>
+      </tu>
+      <tu id="31">
+         <tuv lang="sme-FI">
+            <seg>Lei bahádahkki dalle suopmelaš dahje riikiiboahtti, lea virgeoapmahaččaid bargun muitalit rahpasit daguin ja daid čuovvumušain.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lâibâ paatahhee talle syemmilâš teikkâ riijkânpuáttee, lii virgeomâhái pargon muštâliđ ávusmielâlávt tavoin já toi čuávumušâin.</seg>
+         </tuv>
+      </tu>
+      <tu id="32">
+         <tuv lang="sme-FI">
+            <seg>Dat caggá duoldi dovdduid ja váiduda vearrámus šláddariid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tot táránid vuáimálâš tobdoid já jávuttut viärráámuid šladdârijd.</seg>
+         </tuv>
+      </tu>
+      <tu id="33">
+         <tuv lang="sme-FI">
+            <seg>Buot ravddamuš fenomenat leat fuolastuhttán min.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Puoh robdâalmoonmeh láá huolâstuttâm mii.</seg>
+         </tuv>
+      </tu>
+      <tu id="34">
+         <tuv lang="sme-FI">
+            <seg>Jáhkán goittotge nannosit, ahte buot suopmelaččaid mielaid ii gease dakkár buot ravddamuš jurddašeapmi.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mun oskom kuittâg-uv nanosávt, et puohâi syemmilij mielâid ij kiäsut puoh robdâmus jurdâččem.</seg>
+         </tuv>
+      </tu>
+      <tu id="35">
+         <tuv lang="sme-FI">
+            <seg>Duiskka almmolaš dovdduid sisafárremis lea doppe orru proavásgotti ovdaolmmoš Lilie govvidan nu, ahte "skeptalašvuohta ja iešluohttámuš leaba dássedeattus nuppiideaskka vuostá".</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Almolijd tobdoid siisâvarriimist Saksaast lii tobbeen orroo ruávástkode ovdâolmooš Lilie kuvvim nuuvt, et "skeptisâšvuohta já jiešluáttámuš lává täsitiädust nubijdis vuástá".</seg>
+         </tuv>
+      </tu>
+      <tu id="36">
+         <tuv lang="sme-FI">
+            <seg>Ná dáidá leat Suomasge, leat eahpideaddjit ja leat dat, geat luhttet ahte ceavzit hástalusas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Náávt táiđá leđe Suomâst-uv, láá epideijeeh já láá toh, kiäh lyettih, et mij piergiittâllâp hástoin.</seg>
+         </tuv>
+      </tu>
+      <tu id="37">
+         <tuv lang="sme-FI">
+            <seg>Čujuhan vel boares dadjanvuohkái, mii ii leat manahan áigeguovdilvuođas, namalassii "Riikkas riikka dábiid mielde".</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Čujottâm val puáris ettâmvuáhán, mii ij lah monâttâm äigikyevdilvuođâs, nomâlâssân "Riijkâst riijkâ vuovij mield".</seg>
+         </tuv>
+      </tu>
+      <tu id="38">
+         <tuv lang="sme-FI">
+            <seg>Sisafárren ii goassige sáhte dárkkuhit dan, ahte min guovddáš árvvut, demokratiija, dásseárvu ja olmmošvuoigatvuođat, biddjojuvvojit gažaldatvuložin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Siisâvarrim ij kuássin pyevti merhâšiđ tom, et mii kuávdáš áárvuh, demokratia, täsiárvu já olmoošvuoigâdvuođah, piäijojeh koččâmušvuáláážin.</seg>
+         </tuv>
+      </tu>
+      <tu id="39">
+         <tuv lang="sme-FI">
+            <seg>Buorit suopmelaččat,</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Pyereh syemmiliih,</seg>
+         </tuv>
+      </tu>
+      <tu id="40">
+         <tuv lang="sme-FI">
+            <seg>Min áddejupmi dorvvolašvuođas lea rievdan.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mii ibárdâs torvolâšvuođâst lii muttum.</seg>
+         </tuv>
+      </tu>
+      <tu id="41">
+         <tuv lang="sme-FI">
+            <seg>Moriheimmet soahtái duođai eaklla, go dat ollii Eurohpái.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij morettijm suátán tuođâlávt eskin talle, ko tot poođij Euroopân.</seg>
+         </tuv>
+      </tu>
+      <tu id="42">
+         <tuv lang="sme-FI">
+            <seg>Ruošša dubmejuvvon doaimmat Krimis ja Ukrainas dolvo idylla ráfi ruohttasis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ruošâ tyemmejum tooimah Krimist já Ukrainast tolvuu iidyyl ráávhu ruottâsist.</seg>
+         </tuv>
+      </tu>
+      <tu id="43">
+         <tuv lang="sme-FI">
+            <seg>Lahka-Nuorttis ja Davvi-Afrihkás seamma idylla ii leat oba leamašge, ja soahtama sturrodat lea máŋggageardásaš Ukrainai veardidettiin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Alda-Nuorttân já Tave-Afrikist siämmáš iidyyl ij lah kuássin lamašgin, já soottâm styeresvuotâ lii maaŋgâkiärdásâš Ukrainan verdiddijn.</seg>
+         </tuv>
+      </tu>
+      <tu id="44">
+         <tuv lang="sme-FI">
+            <seg>Dat vuodjá olbmuid báhtareaddjin, dat nanne terrorismma.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tot vyejeet ulmuid patâreijen, tot nannee terrorism.</seg>
+         </tuv>
+      </tu>
+      <tu id="45">
+         <tuv lang="sme-FI">
+            <seg>Čoavddus Syria kriisii lea guovddážis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Čuávdus Syyria kriisân lii kuávdáást.</seg>
+         </tuv>
+      </tu>
+      <tu id="46">
+         <tuv lang="sme-FI">
+            <seg>USA ja Ruošša lea oasálaččat, goabbáge dain dáistaleaba seamma soahtešiljus, muhto oassái earálágan vašálašgovain.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>USA já Ruošâ lává uásálâžžân, toh kuohtuuh taištâlává siämmáá suátišiljoost, mut uássin ereslágán vajalâškuuvijn.</seg>
+         </tuv>
+      </tu>
+      <tu id="47">
+         <tuv lang="sme-FI">
+            <seg>Dakkár dilli rahpá vára gálduid, muhto rahpá maid bákku oktasaš čovdosiidda.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Taggaar tile leehâst vaarâ käldeid, mut tot leehâst meid páágu ohtâsijd čuávdusáid.</seg>
+         </tuv>
+      </tu>
+      <tu id="48">
+         <tuv lang="sme-FI">
+            <seg>Jos dakkárat šattašedje Syrias, šattašii doaivvu mielde maid vejolašvuohta gealdagasaid čoavdáseapmái eará guovlluinge.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Jis tagareh šodâččii Syyriast, šodâččij tuáivu mield meid máhđulâšvuotâ keldui čuávdimân eres-uv kuávluin.</seg>
+         </tuv>
+      </tu>
+      <tu id="49">
+         <tuv lang="sme-FI">
+            <seg>Čavgan riikkaidgaskasaš dovddut leat oidnon maid lahka min.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Čovgâsâm almugijkoskâsiih tobdoh láá oinum meid mii alda.</seg>
+         </tuv>
+      </tu>
+      <tu id="50">
+         <tuv lang="sme-FI">
+            <seg>Nuortameara guovllus sihke Ruošša ja Nato militearalaš mieldeorrun lea lassánan.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Nuorttâmeerâ kuávlust sehe Ruošâ já Nato suáldátlâš mieldiorroom lii lasanâm.</seg>
+         </tuv>
+      </tu>
+      <tu id="51">
+         <tuv lang="sme-FI">
+            <seg>Dadjen diimmá sáhkavuorustan, ahte Suopma hárjeha aktiivvalaš stáđásmahttinpolitihka.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ettim tijmáá sahâvuárustân, et Suomâ háárjut aktiivlâš stáđásmittempolitiik.</seg>
+         </tuv>
+      </tu>
+      <tu id="52">
+         <tuv lang="sme-FI">
+            <seg>Min olgopolitihka geahččanguovllus dás guovddážis leat gaskavuohtamet Ruŧŧii ja Ruššii, davviriikkalašvuohta ja ovttasbargu nu Eurohpá uniovnnas go maiddá Nato-riikkaid gaskka.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mii olgopolitiik uáinust kuávdáást láá ohtâvuođah Ruotân já Ruošân, taveriijkâlašvuotâ já ohtsâšpargo nuuvt Euroop unionist ko meiddei Nato-enâmijgijn.</seg>
+         </tuv>
+      </tu>
+      <tu id="53">
+         <tuv lang="sme-FI">
+            <seg>Stáđásmahttinpolitihka vuolggasajit leat Nuortameara guovllus govttolaš buorit.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Stáđásmittempolitiik vuolgâsajeh láá Nuorttâmeerâ kuávlust viehâ pyereh.</seg>
+         </tuv>
+      </tu>
+      <tu id="54">
+         <tuv lang="sme-FI">
+            <seg>Riikkat eai gáibit guovlluid nuppi nuppis ja riikkaid siskkáldas politihkalaš dilli lea stáđis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Riijkah iä vaađâ kuávluid kyeimistis, já riijkâi siskáldâs pooliitlâš tile lii stääđis.</seg>
+         </tuv>
+      </tu>
+      <tu id="55">
+         <tuv lang="sme-FI">
+            <seg>Dego iešalddes šloavggeheaddji goahti ii nappo leat, vaikko viidásut gealdagasat dáppe oidnostitge.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tego jiešmeidlist cokkâneijee tullâ ij lah, veik viijđásub kelduuh tääbbin oinuustâlleh-uv.</seg>
+         </tuv>
+      </tu>
+      <tu id="56">
+         <tuv lang="sme-FI">
+            <seg>Suopma ja Ruoŧŧa leat Nato earenoamášguoimmit.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Suomâ já Ruotâ lává Nato eromâš kyeimih.</seg>
+         </tuv>
+      </tu>
+      <tu id="57">
+         <tuv lang="sme-FI">
+            <seg>Hárjehat gaskaneamet nanosmuvvi militeara ovttasbarggu, mii doaibmá bures ja man goappáge riikkas atnet árvvus.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij hárjuttep koskânân nanosmuvvee suáldátlii ohtsâšpargo, mii tuáimá pyereest já mii kuábbáá-uv riijkâst annoo áárvust.</seg>
+         </tuv>
+      </tu>
+      <tu id="58">
+         <tuv lang="sme-FI">
+            <seg>Sáhttit goittotge dahkat eanet.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij pyehtip kuittâg-uv porgâđ eenâb.</seg>
+         </tuv>
+      </tu>
+      <tu id="59">
+         <tuv lang="sme-FI">
+            <seg>Mii leat goabbáge maid militearalihttui gullameahttun riikkat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Muoi láán kuohtuuh meid suáldátliiton kulâhánnáá riijkah.</seg>
+         </tuv>
+      </tu>
+      <tu id="60">
+         <tuv lang="sme-FI">
+            <seg>Ovttas mis leat nana oktavuođat nu oarjjás go nuorttas, ja dát lokte min ovttas Ruoŧain earenoamášsajádahkii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Oovtâst munnust láá noonâ ohtâvuođah nuuvt uárjás ko nuortâs, já taat loptee munnuu oovtâst Ruotáin eromâš sajan.</seg>
+         </tuv>
+      </tu>
+      <tu id="61">
+         <tuv lang="sme-FI">
+            <seg>Dat fas bealistis láhčá vejolašvuođaid mearkkašáhtti bargui Davvi-Eurohpá dorvvolašvuođa ja stáđisvuođa ovddideapmi ovdii.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tot vuod addel máhđulâšvuođâid merhâšittee paargon Tave-Euroop torvolâšvuođâ já stäđisvuođâ oovdedmân.</seg>
+         </tuv>
+      </tu>
+      <tu id="62">
+         <tuv lang="sme-FI">
+            <seg>Livččiige logalaš, ahte huksešeimmet maid olgo- ja dorvvolašvuođa politihkalaš ovttasbarggu viidásabbot.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ličij-uv loogilâš, et mij huksiiččijm meid olgo- já torvolâšpooliitlii ohtsâspargo vijđásubbooht.</seg>
+         </tuv>
+      </tu>
+      <tu id="63">
+         <tuv lang="sme-FI">
+            <seg>Goappáge ovdu lea figgat ovddidit ovttasbargui vuođđuduvvi dorvvolašvuođa, mii sisttisdoallá maid geahččaleami ovddidit dakkár doaimmaid, mat boktet luohttámuša.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Kuohtui hiätu lii viggâđ ovdediđ ohtsâšpaargon vuáđuduvvee torvolâšvuođâ, mii siskeeld meid viggâmuš ovdediđ tagarijd tooimâid, moh pajedeh luáttámuš.</seg>
+         </tuv>
+      </tu>
+      <tu id="64">
+         <tuv lang="sme-FI">
+            <seg>Buorit guldaleaddjit,</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Pyereh kuldâleijeeh,</seg>
+         </tuv>
+      </tu>
+      <tu id="65">
+         <tuv lang="sme-FI">
+            <seg>Riikkaidgaskasaš gealdagasat, báhtareaddjit ja terrorisma heajudit návccaid boahttevuođa einnosteapmái.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Almugijkoskâsiih kelduuh, patâreijeeh já terrorism hiäjusmitteh áppádem ennustiđ puátteevuođâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="66">
+         <tuv lang="sme-FI">
+            <seg>Lea váttis oanehisge áiggis oaidnit, mii dakkár áššiin čuovvu, mat eai leat mis gitta.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lii väädis uánihis-uv äigimuddoost uáiniđ tagarij aašij čuávumušâid, moh iä lah mist kiddâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="67">
+         <tuv lang="sme-FI">
+            <seg>Mu jurdda lea, ahte Suomas ii leat dárbu váldit giđa vuostá riidduid ja sierramielalašvuođaid siste.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Muu juurdâ lii, et Suomâst ij lah tárbu väldiđ kiiđâ vuástá riijdoi já sierrâmielâlâšvuođâi siste.</seg>
+         </tuv>
+      </tu>
+      <tu id="68">
+         <tuv lang="sme-FI">
+            <seg>Háliidan fas muittuhit, ahte servodatlaš čavduvuohta lea min buoremus gáldu.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Halijdâm oppeet muštottiđ, et siärvádâhlâš čavosvuotâ lii mii pyeremus nahcâkäldee.</seg>
+         </tuv>
+      </tu>
+      <tu id="69">
+         <tuv lang="sme-FI">
+            <seg>Ekonomiija geahččanguovllus mii leat oaidnán heajos jagiid, muhto buorit jagit eai vel dihtto.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ekonomia uáinust mij lep uáinám hiäjus iivijd, mut šiev iveh iä val tiettuu.</seg>
+         </tuv>
+      </tu>
+      <tu id="70">
+         <tuv lang="sme-FI">
+            <seg>Eallit vel guhká vealggás vaikko nuppástusat leat dahkkon.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mij eellip val kuhháá viälgás, veik nubástuseh láá tohhum.</seg>
+         </tuv>
+      </tu>
+      <tu id="71">
+         <tuv lang="sme-FI">
+            <seg>Dákkár áigge vihkkejuvvo maid min riektavuođadovdu: ahte juohke okta guoddá vástu dan mielde maid nagoda ja bastá ja ahte eat dál vuovdduš muhto baicce dorvvastat boahttevuođa.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tággáár ääigi viekkiistâlloo meiddei mii vuoigâlâšvuođâtobdo: et juáháš kuáddá ovdâsvástádâs ton mield ko pasta já et mij ep tääl snielâhist, pic turvâstep puátteevuođâ.</seg>
+         </tuv>
+      </tu>
+      <tu id="72">
+         <tuv lang="sme-FI">
+            <seg>Válddán ovdan guokte detálja ekonomiijaságastallamis.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Puávtám oovdân kyehti ovtâskâsčuággá ekonomiasavâstâlmist.</seg>
+         </tuv>
+      </tu>
+      <tu id="73">
+         <tuv lang="sme-FI">
+            <seg>Nubbi guoská olahuvvon ovddu ja nubbi haddegilvonávccaid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Nubbe kuáská jo juksum hiätun já nubbe haddekištonavccáid.</seg>
+         </tuv>
+      </tu>
+      <tu id="74">
+         <tuv lang="sme-FI">
+            <seg>Olahuvvon ovdu lea dehálaš ášši, dasa máŋgasat vuođđudit diliset ja boahttevuođaset.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Juksum hiätu lii tehálâš äšši, toos maaŋgâs vuáđudeh eellimtiilees já puátteevuođâs.</seg>
+         </tuv>
+      </tu>
+      <tu id="75">
+         <tuv lang="sme-FI">
+            <seg>Ovddut leat olahuvvon dan mielde go dat leat vuos ánssášuvvon ja dasto juhkkojuvvon.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Hiäđuh láá juksum ton mield ko toh láá vist ánsásum já tastmaŋa juohhum.</seg>
+         </tuv>
+      </tu>
+      <tu id="76">
+         <tuv lang="sme-FI">
+            <seg>Mielain lea sihkkarit jagi 2007 ságat miljárddaid "juohkinmunis".</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mielân pajaneh vissásávt ive 2007 saavah miljardij "jyehimjáválâšvuođâst".</seg>
+         </tuv>
+      </tu>
+      <tu id="77">
+         <tuv lang="sme-FI">
+            <seg>Dainna oaivvildedje buori, mii galggai čuovvovaš jagiin boahtit.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Toin uáivildii pyere, mii koolgâi čuávuvâš iivij ääigi puáttiđ.</seg>
+         </tuv>
+      </tu>
+      <tu id="78">
+         <tuv lang="sme-FI">
+            <seg>Juohkin dahkui dalán ovddalgihtii, muhto buorre ii goassige dihtton.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Jyehim tohhui tállán muuneeld, mut pyeri ij kuássin kullum.</seg>
+         </tuv>
+      </tu>
+      <tu id="79">
+         <tuv lang="sme-FI">
+            <seg>Juhkkojuvvon ovdu bázii nappo ánssáškeahttá, dego olatkeahttá.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Juohhum hiätu paasij áánsášhánnáá, tegu juvsâhánnáá.</seg>
+         </tuv>
+      </tu>
+      <tu id="80">
+         <tuv lang="sme-FI">
+            <seg>Gažaldat oanehaččat leage:</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Koččâmâš lii-uv uánihávt:</seg>
+         </tuv>
+      </tu>
+      <tu id="81">
+         <tuv lang="sme-FI">
+            <seg>Sáhttágo olahuvvon ovdu vuođđuduvvat dasa, man ii leat goassige rievtti mielde olahan?</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Puáhtá-uv juksum hiätu vuáđuduđ toos, mii ij lah kuássin rievti mield juksumgin?</seg>
+         </tuv>
+      </tu>
+      <tu id="82">
+         <tuv lang="sme-FI">
+            <seg>Lea árvvoštallojuvvon, ahte dálá váttisvuođain, nu almmolaš ekonomiija váilivuođas go ovttaskas sektora haddegilvonávccas duon "olatkeahtes ovddu" mearkkašupmi lea máŋggaid proseantaovttadagaid.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lii arvâlum, et tááláin vädisvuođâin, nuuvt almolii ekonomia vááijuvvuođâst ko ovtâskâs sektor haddekištonaavcâin tuon "juvsâhánnáá hiäđu" merhâšume lii maaŋgâid prooseentohtâduvâid.</seg>
+         </tuv>
+      </tu>
+      <tu id="83">
+         <tuv lang="sme-FI">
+            <seg>Lea maid buorre muitit, stuorámus ovddu ožžo dat, geain juo ovddežis ledje stuorámus ovddut.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lii meid pyeri mušteđ, et stuárráámuu hiäđu ožžuu toh, kiäin jo ovdiist-uv lijjii stuárráámuuh hiäđuh.</seg>
+         </tuv>
+      </tu>
+      <tu id="84">
+         <tuv lang="sme-FI">
+            <seg>Haddegilvonákca lea váttisvuohta, man oassebeali leat dovdán, vaikko ovttaoaivilvuohta ii leatge vel gávdnon.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Haddekištonahcâ lii vädisvuotâ, mon kuohtuuh peleh lává tubdâm, veik oovtâmielâlâšvuotâ ij lahkin vala kavnum.</seg>
+         </tuv>
+      </tu>
+      <tu id="85">
+         <tuv lang="sme-FI">
+            <seg>Ovddus loahpan ii leat álki ja máŋggain leat eahpádusat das, gii das loahpaloahpas ávkašuvvá.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Hiäđust šeštim ij lah älkkee, já maaŋgâin láá iäpádâsah tast, kii tast loopâloopâst hiätá.</seg>
+         </tuv>
+      </tu>
+      <tu id="86">
+         <tuv lang="sme-FI">
+            <seg>Haddegilvonávcca buorideapmi ii sáhtege mearkkašit dušše vuoittujuohkinnávcca buorideami.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Haddekištonaavcâ pyeredem ij pyevtigin merhâšiđ tuše vuáittujyehimnaavcâ pyeredem.</seg>
+         </tuv>
+      </tu>
+      <tu id="87">
+         <tuv lang="sme-FI">
+            <seg>Livččii buorre gávdnat doarvái almmolaš dahje juobe fitnodagaid buohta čatnašumiid das, ahte dat ávki, mii boahtá, geavahuvvo dan mielde go leamaš sáhka, nappo bargosajiid dorvvasteapmái.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ličij pyeri kavnâđ tuárvás almolijd teikkâ jobâ irâttâsâi miäldásijd čonnâsmijd tast, et tot ävkki, mii puátá, kiävttoo tego lii lamaš saahâ-uv, adai pargosoojij tuurvâstmân.</seg>
+         </tuv>
+      </tu>
+      <tu id="88">
+         <tuv lang="sme-FI">
+            <seg>Lea buorre, ahte bargomárkaniid ságastallanoktavuohta lea ain rabas.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Lii pyeri, et pargomarkkânij savâstâllâmohtâvuotâ siäilu.</seg>
+         </tuv>
+      </tu>
+      <tu id="89">
+         <tuv lang="sme-FI">
+            <seg>Ávžžuhan din soabadallat.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Avžuum tii sovâdâtmân.</seg>
+         </tuv>
+      </tu>
+      <tu id="90">
+         <tuv lang="sme-FI">
+            <seg>Buorre ii leat giđa riidalemiin váldit vuostá.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ij lah pyeri väldiđ kiiđâ rijdâlmáin vuástá.</seg>
+         </tuv>
+      </tu>
+      <tu id="91">
+         <tuv lang="sme-FI">
+            <seg>Buorit suopmelaččat,</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Pyereh syemmiliih,</seg>
+         </tuv>
+      </tu>
+      <tu id="92">
+         <tuv lang="sme-FI">
+            <seg>Loahppageasi ja čavčča mielde bessen čuovvut nuorra albmá Oscar Taipale stuorra muitalusa unna muorjjážiin.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Loppâkeesi já čoovčâ mield mun peessim čuávvuđ nuorâ almaa Oscar Taipale stuorrâ mainâs uccâ muorjijn.</seg>
+         </tuv>
+      </tu>
+      <tu id="93">
+         <tuv lang="sme-FI">
+            <seg>Son čokkii čuđiid lihtteriid meahccemurjjiid ja dinii bures.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Sunbâ nuurâi čuođijd litterijd meccimuorjijd já ánsášij pyereest.</seg>
+         </tuv>
+      </tu>
+      <tu id="94">
+         <tuv lang="sme-FI">
+            <seg>Das boahtá dakkár buorre miella, ahte gal mu nu illudahttá dakkár ášši, ahte gánda murje ja movttiidahttá vel skihpáriiddisge ja máŋggaid earáidge dahkat seamma.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Tast puátá taggaar šiev mielâ, et kal muu nuuvt moovdid taggaar äšši, et kandâ norá muorjijd já movtijdit val skipárijdis já maaŋgâid iärásijd-uv porgâđ siämmáánáál.</seg>
+         </tuv>
+      </tu>
+      <tu id="95">
+         <tuv lang="sme-FI">
+            <seg>Ollu leat váttisvuođat, muhto ollu lea maid dakkár, mas sáhttá iežas miela ilosmahttit.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Ennuv láá vädisvuođah, mut ennuv lii meid taggaar, mast puáhtá ilodiđ.</seg>
+         </tuv>
+      </tu>
+      <tu id="96">
+         <tuv lang="sme-FI">
+            <seg>Vaikkoba dat, ahte hállu veahkehit lea badjánan.</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Veikkâba tot, et haalu iššeedmân lii pajanâm.</seg>
+         </tuv>
+      </tu>
+      <tu id="97">
+         <tuv lang="sme-FI">
+            <seg>Eaktodáhtolašbargu báhtareaddjiid buorrin dahje lagamuččaid veahkeheapmi dain áibbas dábálaš áššiin, gal dat movttiidahttet; veahkki oažžuid, veahkeheaddjiid, ja dat ávkkuha min buohkaid!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Rijjâtátulâšpargo patâreijei pyerrin teikkâ aldemui išedem tain aaibâs táválijn aašijn, kal toh movtijditteh; išeuážžoid, išedeijeid, já toh láá ävkkin mijjân puohháid!</seg>
+         </tuv>
+      </tu>
+      <tu id="98">
+         <tuv lang="sme-FI">
+            <seg>Sávan didjiide buohkaide buori álgán jagi ja Ipmila buressivdnádusa!</seg>
+         </tuv>
+         <tuv lang="smn">
+            <seg>Mun tuáivuttâm tijjân puohháid šiev álgám ive já Immeel sivnádâs!</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>
