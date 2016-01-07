@@ -111,6 +111,11 @@
       <cat-item tags="n.*.@HNOUN"/>
       <cat-item tags="np.*.@HNOUN"/>
       <cat-item tags="np.*.@VOC"/>
+      <cat-item tags="np.*.@SPRED→"/>
+      <cat-item tags="np.*.@←SPRED"/>
+      <cat-item tags="np.*.@SUBJ→"/>
+      <cat-item tags="np.*.@←SUBJ"/>
+      <cat-item tags="np.*.@←OBJ"/>
     </def-cat>
     <def-cat n="word">
       <cat-item tags="n.*"/>
@@ -286,7 +291,8 @@
      <cat-item tags="n.*.*.pl.com.*"/>      
     </def-cat>  
       <def-cat n="attr">                             
-      <cat-item tags="adj.attr.*"/>                    
+      <cat-item tags="*.attr.*"/>                    
+      <cat-item tags="*.attr"/>                    
     </def-cat>  
     <def-cat n="birra-po">                             
       <cat-item lemma="birra" tags="post.*"/>                    
@@ -1143,6 +1149,68 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: OBJ to left">
+      <pattern>
+         <pattern-item n="attr"/>
+       <pattern-item n="obj_l"/>
+      </pattern>
+      <action>
+        <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
+        <call-macro n="remove-semtag1"><with-param pos="2"/></call-macro>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+         <let><var n="object"/><lit v="obj_l"/></let>
+        <out>
+          <chunk namefrom="object" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b/>
+             <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: OBJ to left">
+      <pattern>
+         <pattern-item n="attr"/>
+         <pattern-item n="attr"/>
+       <pattern-item n="obj_l"/>
+      </pattern>
+      <action>
+        <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
+        <call-macro n="remove-semtag1"><with-param pos="2"/></call-macro>
+        <call-macro n="remove-semtag1"><with-param pos="3"/></call-macro>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
+         <let><var n="object"/><lit v="obj_l"/></let>
+        <out>
+          <chunk namefrom="object" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b/>
+             <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <b/>
+             <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
 
     <rule comment="REGLA: nnomcmp 2"><!-- Ándde-guovttos - Aanti-kyehtis  -->
