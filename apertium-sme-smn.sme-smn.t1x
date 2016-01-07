@@ -70,8 +70,10 @@
       <cat-item tags="vblex.der_nomact.n.cmp_sgnom.cmp"/> 
       <cat-item tags="adj.cmp_sgnom.cmp"/> 
       <cat-item tags="adj.cmp_attr.cmp"/> 
+      <cat-item tags="adj.*.cmp_attr.cmp"/> 
       <cat-item tags="adj.attr.cmp"/> 
-      <cat-item tags="adj.cmp_sgnom.cmp"/> 
+      <cat-item tags="adj.*.attr.cmp"/> 
+      <cat-item tags="adj.*.cmp_sgnom.cmp"/> 
       <cat-item tags="num.cmp.guio"/> 
       <cat-item tags="n.cmp.guio"/> 
     </def-cat>
