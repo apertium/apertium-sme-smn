@@ -26,6 +26,7 @@ dev/fi_depts.N.missing -text
 dev/fi_depts.V.missing -text
 dev/fi_depts.freq -text
 dev/missinglist.txt -text
+dev/sme_FI.freq -text
 dix_pairs4manual_check/vblex_pairs.txt -text
 /gt2apertium.cg3r -text
 inc/parallell-text-not-bidix.freq -text
