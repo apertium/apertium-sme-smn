@@ -170,7 +170,6 @@
     <e><p><l>buohkat<s n="prn"/></l><r>puohah<s n="prn"/></r></p></e>
     <e><p><l>dakkár<s n="prn"/></l><r>taggaar<s n="prn"/></r></p></e>
     <e><p><l>diet<s n="prn"/></l><r>tiet<s n="prn"/></r></p></e>
-    <e><p><l>dii<s n="prn"/></l><r>tij<s n="prn"/></r></p></e>
     <e><p><l>dot<s n="prn"/></l><r>tot<s n="prn"/></r></p></e>
     <e><p><l>duot<s n="prn"/></l><r>tuot<s n="prn"/></r></p></e>
     <e><p><l>dákkár<s n="prn"/></l><r>tággáár<s n="prn"/></r></p></e>
@@ -388,7 +387,6 @@
     <e><p><l>unni<s n="adj"/></l><r>ucce<s n="adj"/></r></p></e>
     <e><p><l>ođas<s n="adj"/></l><r>uuđâs<s n="adj"/></r></p></e>
     <e><p><l>dárkil<s n="adj"/></l><r>tärkkil<s n="adj"/></r></p></e>
-    <e><p><l>nuorra<s n="adj"/></l><r>nuorrâ<s n="adj"/></r></p></e>
     <e><p><l>jealahas<s n="adj"/></l><r>jalahâs<s n="adj"/></r></p></e>
     <e><p><l>barggán<s n="adj"/></l><r>porgiš<s n="adj"/></r></p></e>
     <e><p><l>máŋggabeallásaš<s n="adj"/></l><r>maaŋgâpiälásâš<s n="adj"/></r></p></e>
@@ -462,7 +460,7 @@
     <e><p><l>sitkatvuohta<s n="n"/></l><r>siđhesvuotâ<s n="n"/></r></p></e>
     <e><p><l>iešráđđen<s n="n"/></l><r>jiešhaldâšem<s n="n"/></r></p></e>
     <e><p><l>álbmotbeaivi<s n="n"/></l><r>jotkuuvâšvuođâ<s n="n"/></r></p></e>
-    <e><p><l>jotkkolašvuohta<s n="n"/></l><r>jotkuuvâšvuođâ<s n="n"/></r></p></e>
+    <e><p><l>jotkkolašvuohta<s n="n"/></l><r>jotkuuvâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>stereotypiija<s n="n"/></l><r>stereotypia<s n="n"/></r></p></e>
     <e><p><l>muvra<s n="n"/></l><r>muvrâ<s n="n"/></r></p></e>
     <e><p><l>vašši<s n="n"/></l><r>vaje<s n="n"/></r></p></e>
@@ -1509,6 +1507,10 @@
 
     <!-- ASECTION: other proper nouns -->
 
+
+    <e><p><l>Áhkguoika<s n="np"/></l><r>Áhukuoškâ<s n="np"/></r></p></e> 
+    <e><p><l>Gáregasnjárga<s n="np"/></l><r>Kärigâsnjargâ<s n="np"/></r></p></e> 
+    <e><p><l>Gámas<s n="np"/></l><r>Kaamâs<s n="np"/></r></p></e> 
     <e><p><l>Leavdnja<s n="np"/></l><r>Levnjâ<s n="np"/></r></p></e> 
     <e><p><l>Duortnus<s n="np"/></l><r>Tuárnus<s n="np"/></r></p></e> 
     <e><p><l>Gáivuotna<s n="np"/></l><r>Kaivuonâ<s n="np"/></r></p></e> 
@@ -2203,7 +2205,7 @@
     <e><p><l>Roaveduogejeaggi<s n="np"/></l><r>Váreduogejeaggi<s n="np"/></r></p></e>
     <e><p><l>Roavvegoaskinjávri<s n="np"/></l><r>Ruávikuáskimjävri<s n="np"/></r></p></e>
     <e><p><l>Roavvenjárga<s n="np"/></l><r>Ruávinjargâ<s n="np"/></r></p></e>
-    <e><p><l>Roavvesavu<s n="np"/></l><r>Ruávisavvoon<s n="np"/></r></p></e>
+    <e><p><l>Roavesavu<s n="np"/></l><r>Ruávisavvoon<s n="np"/></r></p></e>
     <e><p><l>Roavveskáidi<s n="np"/></l><r>Ruáviskäiđi<s n="np"/></r></p></e>
     <e><p><l>Roavvečoalbmi<s n="np"/></l><r>Ruávičuálmi<s n="np"/></r></p></e>
     <e><p><l>Ruovdebogijávri<s n="np"/></l><r>Ryevdipohjävri<s n="np"/></r></p></e>
@@ -2323,7 +2325,7 @@
     <e><p><l>Sávzavárri<s n="np"/></l><r>Savzâčokke<s n="np"/></r></p></e>
     <e><p><l>Tobejasčohkka<s n="np"/></l><r>Tobiasčokke<s n="np"/></r></p></e>
     <e><p><l>Troanddin<s n="np"/></l><r>Ruándim<s n="np"/></r></p></e>
-    <e><p><l>Tromsa<s n="np"/></l><r>Tromsa<s n="np"/></r></p></e>
+    <e><p><l>Tromsa<s n="np"/></l><r>Tromssa<s n="np"/></r></p></e>
     <e><p><l>Ubmi<s n="np"/></l><r>Ume<s n="np"/></r></p></e>
     <e><p><l>Uhcaluovttaš<s n="np"/></l><r>Uccâluovtâš<s n="np"/></r></p></e>
     <e><p><l>Uhcalássáš<s n="np"/></l><r>Uccláássáš<s n="np"/></r></p></e>
@@ -2468,6 +2470,7 @@
     <e><p><l>Čáhppesgahperjávri<s n="np"/></l><r>Čapiskappeerjävri<s n="np"/></r></p></e>
     <e><p><l>Čálkk-Ovllá<b/>jeaggi<s n="np"/></l><r>Hánssa<b/>ládjosaijeaggi<s n="np"/></r></p></e>
     <e><p><l>Čálku<s n="np"/></l><r>Lismá<s n="np"/></r></p></e>
+    <e><p><l>Lismá<s n="np"/></l><r>Lismá<s n="np"/></r></p></e>
     <e><p><l>Čáppoaivi<s n="np"/></l><r>Čaabuáivi<s n="np"/></r></p></e>
     <e><p><l>Čárajohka<s n="np"/></l><r>Čaarâjuuhâ<s n="np"/></r></p></e>
     <e><p><l>Čárajávrrit<s n="np"/></l><r>Čaarâjäävrih<s n="np"/></r></p></e>
@@ -3924,7 +3927,7 @@
     <e><p><l>dulkon<s n="n"/></l><r>tulkkum<s n="n"/></r></p></e>
     <e><p><l>dulpu<s n="n"/></l><r>nurssáá<s n="n"/></r></p></e>
     <e><p><l>duoggi<s n="n"/></l><r>tyeggi<s n="n"/></r></p></e>
-    <e><p><l>duogáš<s n="n"/></l><r>tuávváš<s n="n"/></r></p></e>
+    <e><p><l>duogáš<s n="n"/></l><r>tuávááš<s n="n"/></r></p></e>
     <e><p><l>duohpi<s n="n"/></l><r>tuopâ<s n="n"/></r></p></e>
     <e><p><l>duohtavuohta<s n="n"/></l><r>tuotâvuotâ<s n="n"/></r></p></e>
     <e><p><l>duohčču<s n="n"/></l><r>šiäštu<s n="n"/></r></p></e>
@@ -3977,7 +3980,7 @@
     <e><p><l>eallisilba<s n="n"/></l><r>elleesilbâ<s n="n"/></r></p></e>
     <e><p><l>eallu<s n="n"/></l><r>iälu<s n="n"/></r></p></e>
     <e><p><l>eanadoalli<s n="n"/></l><r>eennâmviljâleijee<s n="n"/></r></p></e>
-    <e><p><l>eanamuorji<s n="n"/></l><r>mansikka<s n="n"/></r></p></e> 
+    <e><p><l>eanamuorji<s n="n"/></l><r>eennâmmyerji<s n="n"/></r></p></e> 
     <e><p><l>eananoassi<s n="n"/></l><r>eennâmuási<s n="n"/></r></p></e>
     <e><p><l>eapmi<s n="n"/></l><r>eemi<s n="n"/></r></p></e>
     <e><p><l>eappel<s n="n"/></l><r>oomeen<s n="n"/></r></p></e>
@@ -4030,7 +4033,7 @@
     <e><p><l>fága<s n="n"/></l><r>aamnâs<s n="n"/></r></p></e>
     <e><p><l>fággi<s n="n"/></l><r>fäggi<s n="n"/></r></p></e>
     <e><p><l>fáhkan<s n="n"/></l><r>miekkiväälis<s n="n"/></r></p></e>
-    <e><p><l>fális<s n="n"/></l><r>välis<s n="n"/></r></p></e>
+    <e><p><l>fális<s n="n"/></l><r>fäälis<s n="n"/></r></p></e>
     <e><p><l>fárvealla<s n="n"/><s n="sg"/></l><r>iärutiervuođah<s n="n"/><s n="pl"/></r></p></e>  <!-- not in sme -->
     <e><p><l>fástu<s n="n"/></l><r>vástu<s n="n"/></r></p></e>
     <e><p><l>gaccastat<s n="n"/></l><r>sargâstâh<s n="n"/></r></p></e>
@@ -5561,7 +5564,7 @@
     <e><p><l>gállis<s n="n"/></l><r>käälis<s n="n"/></r></p></e>
     <e><p><l>gálojenežat<s n="n"/></l><r>iimiš<s n="n"/></r></p></e>
     <e><p><l>gálvu<s n="n"/></l><r>kálvu<s n="n"/></r></p></e>
-    <e><p><l>gáma<s n="n"/></l><r>kaamâ<s n="n"/></r></p></e>
+    <e><p><l>gáma<s n="n"/></l><r>kaamâ<s n="n"/></r></p></e> <!-- kaamuv ? -->
     <e><p><l>gámmir<s n="n"/></l><r>káámmár<s n="n"/></r></p></e>
     <e><p><l>gámmár<s n="n"/></l><r>káámmár<s n="n"/></r></p></e>
     <e><p><l>gáranasmuorji<s n="n"/></l><r>káránâsmyerji<s n="n"/></r></p></e>
@@ -6774,7 +6777,7 @@
     <e><p><l>bivdit<s n="vblex"/><s n="tv"/></l><r>pivdeđ<s n="vblex"/></r></p></e>
     <e><p><l>biđget<s n="vblex"/><s n="tv"/></l><r>pieđgiđ<s n="vblex"/></r></p></e>
     <e><p><l>biškut<s n="vblex"/><s n="iv"/></l><r>piškođ<s n="vblex"/></r></p></e>
-    <e><p><l>boagustit<s n="vblex"/><s n="tv"/></l><r>povustiđ<s n="vblex"/></r></p></e>
+    <e><p><l>boagustit<s n="vblex"/><s n="tv"/></l><r>povvustiđ<s n="vblex"/></r></p></e>
     <e><p><l>boahkánastit<s n="vblex"/><s n="tv"/></l><r>puáhánjistiđ<s n="vblex"/></r></p></e>
     <e><p><l>boatkanaddat<s n="vblex"/><s n="iv"/></l><r>potkânâddâđ<s n="vblex"/></r></p></e>
     <e><p><l>bodnjasit<s n="vblex"/><s n="iv"/></l><r>punjâgiđ<s n="vblex"/></r></p></e>
@@ -8339,7 +8342,7 @@
     <e><p><l>náittosbárra<s n="n"/></l><r>hejâpaarâ<s n="n"/></r></p></e>
     <e><p><l>náittospárra<s n="n"/></l><r>hejâpaarâ<s n="n"/></r></p></e>
     <e><p><l>oahppa<s n="n"/></l><r>oppâ<s n="n"/></r></p></e>
-    <e><p><l>organisašuvdna<s n="n"/></l><r>seervi<s n="n"/></r></p></e>
+    <e><p><l>organisašuvdna<s n="n"/></l><r>servi<s n="n"/></r></p></e>
 <!--    <e><p><l>organisašuvdna<s n="n"/></l><r>ornijdume<s n="n"/></r></p></e>-->
     <e><p><l>paragráfa<s n="n"/></l><r>ceehis<s n="n"/></r></p></e>
     <e><p><l>paragráfa<s n="n"/></l><r>cekki<s n="n"/></r></p></e>
@@ -8557,7 +8560,7 @@
     <e><p><l>eatnu<s n="n"/></l><r>juuhâ<s n="n"/></r></p></e>
     <e><p><l>cuoŋománnu<s n="n"/></l><r>cuáŋuimáánu<s n="n"/></r></p></e>
     <e><p><l>cuoŋosmánnu<s n="n"/></l><r>cuáŋuimáánu<s n="n"/></r></p></e>
-    <e><p><l>ođđajagemánnu<s n="n"/></l><r>uđđivemáánu<s n="n"/></r></p></e>
+    <e><p><l>ođđajagemánnu<s n="n"/></l><r>uđđâivemáánu<s n="n"/></r></p></e>
     <e><p><l>listu<s n="n"/></l><r>listo<s n="n"/></r></p></e>
     <e><p><l>bigán<s n="n"/></l><r>pikkáin<s n="n"/></r></p></e>
     <e><p><l>bigán<s n="n"/></l><r>puárkkáá<s n="n"/></r></p></e>
@@ -9232,7 +9235,6 @@
     <e><p><l>dearvvašmuvvat<s n="vblex"/><s n="iv"/></l><r>puárániđ<s n="vblex"/></r></p></e>
     <e><p><l>vealgáduvvat<s n="vblex"/><s n="iv"/></l><r>viälgáduđ<s n="vblex"/></r></p></e>
     <e><p><l>gefot<s n="vblex"/><s n="iv"/></l><r>kievhuđ<s n="vblex"/></r></p></e>
-    <e><p><l>bosodit<s n="vblex"/><s n="tv"/></l><r>posodiđ<s n="vblex"/></r></p></e>
     <e><p><l>áššáiduhttit<s n="vblex"/><s n="tv"/></l><r>lasniđ<s n="vblex"/></r></p></e>
     <e><p><l>áššáiduhttit<s n="vblex"/><s n="tv"/></l><r>sujâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>áššáiduhttit<s n="vblex"/><s n="tv"/></l><r>ášáskuttiđ<s n="vblex"/></r></p></e>
@@ -9892,7 +9894,8 @@
     <e><p><l>Affairs<s n="np"/></l><r>Affairs<s n="np"/></r></p></e>
     <e><p><l>Affonso<s n="np"/></l><r>Affonso<s n="np"/></r></p></e>
     <e><p><l>Afghanistan<s n="np"/></l><r>Afghanistan<s n="np"/></r></p></e>
-    <e><p><l>Afrika<s n="np"/></l><r>Afrika<s n="np"/></r></p></e>
+    <e><p><l>Afrika<s n="np"/></l><r>Afrik<s n="np"/></r></p></e>
+    <e><p><l>Afrihká<s n="np"/></l><r>Afrik<s n="np"/></r></p></e>
     <e><p><l>Afrodite<s n="np"/></l><r>Afrodite<s n="np"/></r></p></e>
     <e><p><l>Afset<s n="np"/></l><r>Afset<s n="np"/></r></p></e>
     <e><p><l>Afseth<s n="np"/></l><r>Afseth<s n="np"/></r></p></e>
@@ -12256,10 +12259,6 @@
     <e><p><l>Bjørkåselva<s n="np"/></l><r>Bjørkåselva<s n="np"/></r></p></e>
     <e><p><l>Bjørkåsen<s n="np"/></l><r>Bjørkåsen<s n="np"/></r></p></e>
     <e><p><l>Bjørlo<s n="np"/></l><r>Bjørlo<s n="np"/></r></p></e>
-    <e><p><l>Bjørn-Erik<s n="np"/></l><r>Bjørn-Erik<s n="np"/></r></p></e>
-    <e><p><l>Bjørn-Inge<s n="np"/></l><r>Bjørn-Inge<s n="np"/></r></p></e>
-    <e><p><l>Bjørn-Ivar<s n="np"/></l><r>Bjørn-Ivar<s n="np"/></r></p></e>
-    <e><p><l>Bjørn-Tore<s n="np"/></l><r>Bjørn-Tore<s n="np"/></r></p></e>
     <e><p><l>Bjørn<s n="np"/></l><r>Bjørn<s n="np"/></r></p></e>
     <e><p><l>Bjørnar<s n="np"/></l><r>Bjørnar<s n="np"/></r></p></e>
     <e><p><l>Bjørnback<s n="np"/></l><r>Bjørnback<s n="np"/></r></p></e>
@@ -15836,7 +15835,6 @@
     <e><p><l>Finlux<s n="np"/></l><r>Finlux<s n="np"/></r></p></e>
     <e><p><l>Finmarchiæ<s n="np"/></l><r>Finmarchiæ<s n="np"/></r></p></e>
     <e><p><l>Finmarcken<s n="np"/></l><r>Finmarcken<s n="np"/></r></p></e>
-    <e><p><l>Finn-Erik<s n="np"/></l><r>Finn-Erik<s n="np"/></r></p></e>
     <e><p><l>Finn<s n="np"/></l><r>Finn<s n="np"/></r></p></e>
     <e><p><l>Finnair<s n="np"/></l><r>Finnair<s n="np"/></r></p></e>
     <e><p><l>Finncomm<b/>Airlines<s n="np"/></l><r>Finncomm<b/>Airlines<s n="np"/></r></p></e>
@@ -20708,17 +20706,6 @@
     <e><p><l>Jamna<s n="np"/></l><r>Jamna<s n="np"/></r></p></e>
     <e><p><l>Jamnagar<s n="np"/></l><r>Jamnagar<s n="np"/></r></p></e>
     <e><p><l>Jamtfjellet<s n="np"/></l><r>Jamtfjellet<s n="np"/></r></p></e>
-    <e><p><l>Jan-Arne<s n="np"/></l><r>Jan-Arne<s n="np"/></r></p></e>
-    <e><p><l>Jan-Einar<s n="np"/></l><r>Jan-Einar<s n="np"/></r></p></e>
-    <e><p><l>Jan-Eirik<s n="np"/></l><r>Jan-Eirik<s n="np"/></r></p></e>
-    <e><p><l>Jan-Erik<s n="np"/></l><r>Jan-Erik<s n="np"/></r></p></e>
-    <e><p><l>Jan-Inge<s n="np"/></l><r>Jan-Inge<s n="np"/></r></p></e>
-    <e><p><l>Jan-Ivar<s n="np"/></l><r>Jan-Ivar<s n="np"/></r></p></e>
-    <e><p><l>Jan-Olav<s n="np"/></l><r>Jan-Olav<s n="np"/></r></p></e>
-    <e><p><l>Jan-Ove<s n="np"/></l><r>Jan-Ove<s n="np"/></r></p></e>
-    <e><p><l>Jan-Roger<s n="np"/></l><r>Jan-Roger<s n="np"/></r></p></e>
-    <e><p><l>Jan-Steve<s n="np"/></l><r>Jan-Steve<s n="np"/></r></p></e>
-    <e><p><l>Jan-Tore<s n="np"/></l><r>Jan-Tore<s n="np"/></r></p></e>
     <e><p><l>Jan<s n="np"/></l><r>Jan<s n="np"/></r></p></e>
     <e><p><l>Janatuinen<s n="np"/></l><r>Janatuinen<s n="np"/></r></p></e>
     <e><p><l>Janbo<s n="np"/></l><r>Janbo<s n="np"/></r></p></e>
@@ -20850,7 +20837,6 @@
     <e><p><l>Jenni<s n="np"/></l><r>Jenni<s n="np"/></r></p></e>
     <e><p><l>Jennifer<s n="np"/></l><r>Jennifer<s n="np"/></r></p></e>
     <e><p><l>Jenny<s n="np"/></l><r>Jenny<s n="np"/></r></p></e>
-    <e><p><l>Jens-Jørgen<s n="np"/></l><r>Jens-Jørgen<s n="np"/></r></p></e>
     <e><p><l>Jens<s n="np"/></l><r>Jens<s n="np"/></r></p></e>
     <e><p><l>Jensby<s n="np"/></l><r>Jensby<s n="np"/></r></p></e>
     <e><p><l>Jensen<s n="np"/></l><r>Jensen<s n="np"/></r></p></e>
@@ -35435,7 +35421,6 @@
     <e><p><l>Svarstad<s n="np"/></l><r>Svarstad<s n="np"/></r></p></e>
     <e><p><l>Svarta<s n="np"/></l><r>Svarta<s n="np"/></r></p></e>
     <e><p><l>Svartbekken<s n="np"/></l><r>Svartbekken<s n="np"/></r></p></e>
-    <e><p><l>Svartedauen<s n="np"/></l><r>Svartedauen<s n="np"/></r></p></e>
     <e><p><l>Svartehavet<s n="np"/></l><r>Svartehavet<s n="np"/></r></p></e>
     <e><p><l>Svartemyr<s n="np"/></l><r>Svartemyr<s n="np"/></r></p></e>
     <e><p><l>Svarten<s n="np"/></l><r>Svarten<s n="np"/></r></p></e>
