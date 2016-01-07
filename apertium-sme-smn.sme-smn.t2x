@@ -98,7 +98,7 @@
     </out>
       </action>
     </rule>
-    <rule comment="REGLA: SN">
+    <rule comment="REGLA: PR_PO">
     <pattern>
        <pattern-item n="PR_PO"/>
        <pattern-item n="GenCompl"/>
