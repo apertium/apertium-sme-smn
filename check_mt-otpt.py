@@ -9,9 +9,9 @@
 # Usage:
 # (1) python check_mt-otpt.py
 #     - the input dir is tmx_data
-# (2) pyton check_mt-otpt.py -d DIRECTORY_NAME
+# (2) python check_mt-otpt.py -d DIRECTORY_NAME
 #     - the input dir is DIRECTORY_NAME
-# (3)  pyton check_mt-otpt.py -f FILE_NAME
+# (3)  python check_mt-otpt.py -f FILE_NAME
 #     - the input file is FILE_NAME
 #
 # the output dir is 'otpt_dir' in the current directory
