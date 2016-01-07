@@ -119,14 +119,26 @@ table_style = '<style type="text/css">\n.tg  {border-collapse:collapse;border-sp
 # parameters to be adjusted as needed
 s_lang = 'sme'
 t_lang = 'smn'
-atm_dir = '/Users/cipriangerstenberger/aprtm/apertium-sme-smn'
+
+try:
+    os.environ["APERTIUM_HOME"]
+except KeyError:
+    print("Please set the environment variable APERTIUM_HOME.\n" +
+    "This is the path to the directory where all apertium-SOURCE_LANG-TARGET_LANG reside.\n" +
+    "To set the variable you open the $HOME/.profile file and add the following two line:\n" +
+    "APERTIUM_HOME=/path/to/your/apertium/directory\n" +
+	"export APERTIUM_HOME\n" +
+	"The close the terminal and open it anew.")
+    sys.exit(1)
+apertium_home=os.environ["APERTIUM_HOME"]
+
+atm_dir = apertium_home + '/apertium' + '-' + s_lang + '-' + t_lang
+#print("APT home is " + atm_dir)
 cmd = "| apertium -d " + atm_dir + " " + s_lang + '-' + t_lang
-        
 
 def main():
     # parameters to be adjusted as needed
     total = len(sys.argv)
-
     i_file = ''
     i_dir = 'tmx_data_test'
     o_dir = 'otpt_dir'
