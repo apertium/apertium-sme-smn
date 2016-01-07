@@ -1176,7 +1176,7 @@
 
 
 
-    <rule comment="REGLA: nnomcmp">
+    <rule comment="REGLA: nnomcmp 2">
       <pattern>
         <pattern-item n="nnomcmp"/>
         <pattern-item n="nom"/>
@@ -1205,6 +1205,46 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: nnomcmp 3">
+      <pattern>
+        <pattern-item n="nnomcmp"/>
+        <pattern-item n="nnomcmp"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <call-macro n="convert-deriv1"><with-param pos="3"/></call-macro>
+        <call-macro n="remove-semtag1"><with-param pos="3"/></call-macro>
+        <call-macro n="convert-deriv1"><with-param pos="2"/></call-macro>
+        <call-macro n="remove-semtag1"><with-param pos="2"/></call-macro>
+        <call-macro n="convert-deriv1"><with-param pos="1"/></call-macro>
+        <call-macro n="remove-semtag1"><with-param pos="1"/></call-macro>
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
+        <out>
+          <chunk name="nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <mlu>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+             <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+             <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+             </mlu>
+        </chunk>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: npnomcmpadj"> <!-- Estelle-nammasaš . Estelle-nommâsâš -->
       <pattern>
         <pattern-item n="propcmp"/>
