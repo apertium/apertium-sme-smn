@@ -32,6 +32,7 @@
     </def-cat>
      <def-cat n="propcmp">
       <cat-item tags="np.*.cmp_sgnom.cmp"/>
+      <cat-item tags="np.cmp_sgnom.cmp"/>
       <cat-item tags="np.cmp_sgnom.cmp.guio"/>
       <cat-item tags="np.cmp_sggen.cmp.guio"/> 
       <cat-item tags="np.*.cmp_sggen.cmp.guio"/> 
@@ -72,6 +73,7 @@
       <cat-item tags="adj.attr.cmp"/> 
       <cat-item tags="adj.cmp_sgnom.cmp"/> 
       <cat-item tags="num.cmp.guio"/> 
+      <cat-item tags="n.cmp.guio"/> 
     </def-cat>
   <def-cat n="negverb">
       <cat-item tags="vblex.iv.neg.indic.p3.sg"/>
@@ -127,6 +129,7 @@
       <cat-item tags="n.*.@P→"/>
       <cat-item tags="n.*.@X"/>
       <cat-item tags="n.*.@HNOUN"/>
+      <cat-item tags="np.*.@HNOUN"/>
 <!--      <cat-item tags="adj.der_vuohta.n.*.@SUBJ→"/>
       <cat-item tags="adj.der_vuohta.n.*.@←SUBJ"/>
       <cat-item tags="adj.der_vuohta.n.*.@←OBJ"/>
