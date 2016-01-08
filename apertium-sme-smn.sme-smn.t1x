@@ -811,11 +811,11 @@
     </def-macro>
     <def-macro n="agreement-adj-ind-sg-2Posit" npar="2">   <!-- sg prn, num, ord , full agreement -->
         <let>
-          <clip pos="2" side="tl" part="tags"/>
+          <clip pos="1" side="tl" part="tags"/>
 		<concat>
-		  <clip pos="2" side="tl" part="a_npagree_type"/>
-		  <clip pos="1" side="tl" part="a_nbr"/>
-		  <clip pos="1" side="tl" part="a_cas"/> 
+		  <clip pos="1" side="tl" part="a_npagree_type"/>
+		  <clip pos="2" side="tl" part="a_nbr"/>
+		  <clip pos="2" side="tl" part="a_cas"/> 
 		</concat>                
         </let> 
     </def-macro>
@@ -826,29 +826,29 @@
             <test>
 	      <and>
 		<equal>
-		  <clip pos="1" side="tl" part="a_cas"/>
+		  <clip pos="2" side="tl" part="a_cas"/>
 		  <lit-tag v="com"/>
 		</equal>
                 <equal>
-		  <clip pos="1" side="tl" part="a_nbr"/>
+		  <clip pos="2" side="tl" part="a_nbr"/>
 		  <lit-tag v="pl"/>
 		</equal>
               </and>
 	    </test>
          <let>
-            <clip pos="1" side="tl" part="tags"/>
+            <clip pos="2" side="tl" part="tags"/>
 	    <concat>
 	      <lit-tag v="n"/>
-	      <clip pos="1" side="tl" part="a_ntype"/>
-	      <clip pos="1" side="tl" part="a_nbr"/>
-	      <clip pos="1" side="tl" part="a_cas"/>
+	      <clip pos="2" side="tl" part="a_ntype"/>
+	      <clip pos="2" side="tl" part="a_nbr"/>
+	      <clip pos="2" side="tl" part="a_cas"/>
 	    </concat>  
         </let> 
         <let>
-          <clip pos="2" side="tl" part="tags"/>
+          <clip pos="1" side="tl" part="tags"/>
 	  <concat>
-            <clip pos="2" side="tl" part="a_npagree_type"/>
-	    <clip pos="1" side="tl" part="a_nbr"/>
+            <clip pos="1" side="tl" part="a_npagree_type"/>
+	    <clip pos="2" side="tl" part="a_nbr"/>
 	    <lit-tag v="gen"/> 
 	  </concat>                
         </let> 
@@ -856,20 +856,20 @@
         <otherwise>
                 <!-- default -->
         <let>
-       	  <clip pos="1" side="tl" part="tags"/>
+       	  <clip pos="2" side="tl" part="tags"/>
 	  <concat>
             <lit-tag v="n"/>
-	    <clip pos="1" side="tl" part="a_ntype"/>
+	    <clip pos="2" side="tl" part="a_ntype"/>
 	    <lit-tag v="pl"/>
-	    <clip pos="1" side="tl" part="a_cas"/> 
+	    <clip pos="2" side="tl" part="a_cas"/> 
 	  </concat>                
         </let> 
         <let>
-          <clip pos="2" side="tl" part="tags"/>
+          <clip pos="1" side="tl" part="tags"/>
 	  <concat>
-            <clip pos="2" side="tl" part="a_npagree_type"/>
-	    <clip pos="1" side="tl" part="a_nbr"/>
-	    <clip pos="1" side="tl" part="a_cas"/> 
+            <clip pos="1" side="tl" part="a_npagree_type"/>
+	    <clip pos="2" side="tl" part="a_nbr"/>
+	    <clip pos="2" side="tl" part="a_cas"/> 
 	  </concat>                
         </let> 
         </otherwise>
@@ -1992,7 +1992,7 @@
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="agreement-adj-ind-sg-2Posit"><with-param pos="2"/><with-param pos="1"/></call-macro>
+        <call-macro n="agreement-adj-ind-sg-2Posit"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <out>
           <chunk name="agreement-np">
             <tags>
@@ -2023,7 +2023,7 @@
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
-        <call-macro n="agreement-adj-ind-sg-2Posit"><with-param pos="3"/><with-param pos="1"/></call-macro>
+        <call-macro n="agreement-adj-ind-sg-2Posit"><with-param pos="1"/><with-param pos="3"/></call-macro>
         <out>
           <chunk name="agreement-np">
             <tags>
@@ -2164,7 +2164,7 @@
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="agreement-adj-ind-pl-2Posit"><with-param pos="2"/><with-param pos="1"/></call-macro>
+        <call-macro n="agreement-adj-ind-pl-2Posit"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <out>
           <chunk name="agreement-np">
             <tags>
@@ -2192,7 +2192,7 @@
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="agreement-adj-ind-pl-2Posit"><with-param pos="2"/><with-param pos="1"/></call-macro>
+        <call-macro n="agreement-adj-ind-pl-2Posit"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <out>
           <chunk name="agreement-np">
             <tags>
@@ -2223,7 +2223,7 @@
         <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="agreement-adj-ind-pl-2Posit"><with-param pos="3"/><with-param pos="1"/></call-macro>
+        <call-macro n="agreement-adj-ind-pl-2Posit"><with-param pos="1"/><with-param pos="3"/></call-macro>
         <out>
           <chunk name="agreement-np">
             <tags>
