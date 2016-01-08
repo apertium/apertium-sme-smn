@@ -116,6 +116,14 @@
       <cat-item tags="np.*.@SUBJ→"/>
       <cat-item tags="np.*.@←SUBJ"/>
       <cat-item tags="np.*.@←OBJ"/>
+      <cat-item tags="np.*.@→N"/>
+      <cat-item tags="np.*.@ADVL→"/>
+      <cat-item tags="np.*.@←ADVL"/>
+      <cat-item tags="np.*.@OPRED→"/>
+      <cat-item tags="np.*.@←OPRED"/>
+      <cat-item tags="np.*.@P←"/>
+      <cat-item tags="np.*.@P→"/>
+      <cat-item tags="np.*.@X"/>
     </def-cat>
     <def-cat n="word">
       <cat-item tags="n.*"/>
