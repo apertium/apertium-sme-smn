@@ -25,7 +25,6 @@ dev/fi_depts.Adv.missing -text
 dev/fi_depts.N.missing -text
 dev/fi_depts.V.missing -text
 dev/fi_depts.freq -text
-dev/fi_depts_ficti_notgenerated.freq -text
 dev/missinglist.txt -text
 dev/sme_FI.A.cmp.missing -text
 dev/sme_FI.A.nocmp.missing -text
