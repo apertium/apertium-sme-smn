@@ -13,7 +13,8 @@
     </def-cat>
       <def-cat n="obj_l">
       <cat-item tags="*.@OBJ→"/>
-      <cat-item tags="n.*.@OBJ→"/>
+      <cat-item tags="n.*.@OBJ→"/>       
+      <cat-item tags="n.*.@-FOBJ→"/>
     </def-cat>
       <def-cat n="giittos">
       <cat-item lemma="giittos" tags="n.*"/>
@@ -85,31 +86,54 @@
     <def-cat n="nom"> <!-- not @OBJ→ because of change of wordorder   -->
       <cat-item tags="*.n.*.@←ADVL"/>
       <cat-item tags="*.n.*.@ADVL→"/>
-      <cat-item tags="*.n.*.@SUBJ→"/>
-      <cat-item tags="*.n.*.@←SUBJ"/>
-      <cat-item tags="*.n.*.@SPRED→"/>
-      <cat-item tags="*.n.*.@←SPRED"/>
+      <cat-item tags="*.n.*.@←OBJ"/>
       <cat-item tags="*.n.*.@OPRED→"/>
       <cat-item tags="*.n.*.@←OPRED"/>
-      <cat-item tags="*.n.*.@←OBJ"/>
       <cat-item tags="*.n.*.@P←"/>
       <cat-item tags="*.n.*.@P→"/>
+      <cat-item tags="*.n.*.@SPRED→"/>
+      <cat-item tags="*.n.*.@←SPRED"/>
+      <cat-item tags="*.n.*.@←SUBJ"/>
+      <cat-item tags="*.n.*.@SUBJ→"/>
       <cat-item tags="*.n.*.@X"/>
-      <cat-item tags="n.*.@→N"/>
       <cat-item tags="n.*.@ADVL→"/>
+      <cat-item tags="n.*.@→ADVL"/>
       <cat-item tags="n.*.@←ADVL"/>
-      <cat-item tags="n.*.@SUBJ→"/>
-      <cat-item tags="n.*.@←SUBJ"/>
-      <cat-item tags="n.*.@SPRED→"/>
-      <cat-item tags="n.*.@←SPRED"/>
-      <cat-item tags="n.*.@OPRED→"/>
-      <cat-item tags="n.*.@←OPRED"/>
-      <cat-item tags="n.*.@←OBJ"/>
-      <cat-item tags="n.*.@P←"/>
-      <cat-item tags="n.*.@P→"/>
-      <cat-item tags="n.*.@X"/>
+      <cat-item tags="n.*.@ADVL→"/>
+      <cat-item tags="n.*.@→ADVL"/>
+      <cat-item tags="n.*.@ADVL→CS"/>
+      <cat-item tags="n.*.@ADVL←OBJ"/>
+      <cat-item tags="n.*.@ADVL→SUBJ"/>
+      <cat-item tags="n.*.@APP"/>
+      <cat-item tags="n.*.@APP-ADVL←"/>
+      <cat-item tags="n.*.@APP-N←"/>
+      <cat-item tags="n.*.@APP-Num←"/>
+      <cat-item tags="n.*.@APP-Pron←"/>
+      <cat-item tags="n.*.@APP→Pron"/>
+      <cat-item tags="n.*.@-F←OBJ"/>
+      <cat-item tags="n.*.@-F←ADVL"/>
+      <cat-item tags="n.*.@-FADVL"/>
+      <cat-item tags="n.*.@-FADVL→"/>
+      <cat-item tags="n.*.@-FOBJ"/>
+      <cat-item tags="n.*.@-F←OPRED"/>
+      <cat-item tags="n.*.@-FOPRED→"/>
+      <cat-item tags="n.*.@-F←SPRED"/>
+      <cat-item tags="n.*.@-FSPRED→"/>
+      <cat-item tags="n.*.@-FSUBJ→"/>
       <cat-item tags="n.*.@HNOUN"/>
       <cat-item tags="np.*.@HNOUN"/>
+      <cat-item tags="n.*.@→N"/>
+      <cat-item tags="n.*.@Num←"/>
+      <cat-item tags="n.*.@←OBJ"/>
+      <cat-item tags="n.*.@OPRED→"/>
+      <cat-item tags="n.*.@←OPRED"/>
+      <cat-item tags="n.*.@P→"/>
+      <cat-item tags="n.*.@SPRED→"/>
+      <cat-item tags="n.*.@←SPRED"/>
+      <cat-item tags="n.*.@SUBJ→"/>
+      <cat-item tags="n.*.@←SUBJ"/>
+      <cat-item tags="n.*.@VOC"/>
+      <cat-item tags="n.*.@X"/>
       <cat-item tags="np.*.@VOC"/>
       <cat-item tags="np.*.@SPRED→"/>
       <cat-item tags="np.*.@←SPRED"/>
@@ -1136,7 +1160,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: OBJ to left">
+    <rule comment="REGLA: OBJ to left simple">
       <pattern>
         <pattern-item n="obj_l"/>
       </pattern>
@@ -1157,7 +1181,39 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: OBJ to left">
+    <rule comment="REGLA: OBJ to left cmp">
+      <pattern>
+        <pattern-item n="nomcmp"/>
+        <pattern-item n="obj_l"/>
+      </pattern>
+      <action>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+         <let><var n="object"/><lit v="obj_l"/></let>
+       <out>
+          <chunk name="object" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <mlu>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+             <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+             </mlu>
+        </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: OBJ to left attr">
       <pattern>
          <pattern-item n="attr"/>
        <pattern-item n="obj_l"/>
@@ -1185,7 +1241,9 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: OBJ to left">
+
+
+    <rule comment="REGLA: OBJ to left attr attr">
       <pattern>
          <pattern-item n="attr"/>
          <pattern-item n="attr"/>
