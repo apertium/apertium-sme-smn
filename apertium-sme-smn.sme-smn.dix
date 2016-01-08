@@ -494,7 +494,30 @@
     <e><p><l>ovcceš<s n="n"/></l><r>oovcáš<s n="n"/></r></p></e>
     <e><p><l>orrunguovlu<s n="n"/></l><r>aassâmkuávlu<s n="n"/></r></p></e>
     <e><p><l>ássanguovlu<s n="n"/></l><r>aassâmkuávlu<s n="n"/></r></p></e>
-    <e><p><l>arkeologa<s n="n"/></l><r>arkeologi<s n="n"/></r></p></e>
+    <e><p><l>arkeologa<s n="n"/></l><r>arkeolog<s n="n"/></r></p></e> 
+    <e><p><l>filologa<s n="n"/></l><r>filolog<s n="n"/></r></p></e> 
+    <e><p><l>sosiologa<s n="n"/></l><r>sosiolog<s n="n"/></r></p></e> 
+    <e><p><l>teologa<s n="n"/></l><r>teolog<s n="n"/></r></p></e> 
+    <e><p><l>biologa<s n="n"/></l><r>biolog<s n="n"/></r></p></e> 
+    <e><p><l>meteorologa<s n="n"/></l><r>meteorolog<s n="n"/></r></p></e> 
+    <e><p><l>gynekologa<s n="n"/></l><r>gynekolog<s n="n"/></r></p></e> 
+    <e><p><l>ornitologa<s n="n"/></l><r>ornitolog<s n="n"/></r></p></e> 
+    <e><p><l>geologa<s n="n"/></l><r>geolog<s n="n"/></r></p></e> 
+    <e><p><l>astrologa<s n="n"/></l><r>astrolog<s n="n"/></r></p></e> 
+    <e><p><l>ideologa<s n="n"/></l><r>ideolog<s n="n"/></r></p></e> 
+    <e><p><l>teknologa<s n="n"/></l><r>teknolog<s n="n"/></r></p></e> 
+    <e><p><l>zoologa<s n="n"/></l><r>zoolog<s n="n"/></r></p></e> 
+    <e><p><l>patologa<s n="n"/></l><r>patolog<s n="n"/></r></p></e> 
+    <e><p><l>paleontologa<s n="n"/></l><r>paleontolog<s n="n"/></r></p></e> 
+    <e><p><l>radiologa<s n="n"/></l><r>radiolog<s n="n"/></r></p></e> 
+    <e><p><l>etnologa<s n="n"/></l><r>etnolog<s n="n"/></r></p></e> 
+    <e><p><l>fysiologa<s n="n"/></l><r>fysiolog<s n="n"/></r></p></e> 
+    <e><p><l>glasiologa<s n="n"/></l><r>glasiolog<s n="n"/></r></p></e> 
+    <e><p><l>mikrobiologa<s n="n"/></l><r>mikrobiolog<s n="n"/></r></p></e> 
+    <e><p><l>farmakologa<s n="n"/></l><r>farmakolog<s n="n"/></r></p></e> 
+    <e><p><l>genealoga<s n="n"/></l><r>genealog<s n="n"/></r></p></e> 
+    <e><p><l>bioteknologa<s n="n"/></l><r>bioteknolog<s n="n"/></r></p></e> 
+    <e><p><l>bakteriologa<s n="n"/></l><r>bakteriolog<s n="n"/></r></p></e> 
     <e><p><l>guolbba<s n="n"/></l><r>kuolbâ<s n="n"/></r></p></e>
     <e><p><l>guolban<s n="n"/></l><r>kuolbâ<s n="n"/></r></p></e>
     <e><p><l>gohttensadji<s n="n"/></l><r>kuáticeggimsaje<s n="n"/></r></p></e>
@@ -3615,6 +3638,7 @@
 
     <!--    BSECTION: Nouns -->
 
+    <e><p><l>video<s n="n"/></l><r>video<s n="n"/></r></p></e>
     <e><p><l>bovdejupmi<s n="n"/></l><r>povdim<s n="n"/></r></p></e>
     <e><p><l>admirála<s n="n"/></l><r>amiraal<s n="n"/></r></p></e>
     <e><p><l>niesti<s n="n"/></l><r>evvis<s n="n"/></r></p></e><!-- added niesti in FST, but I would rather use evvis as an equivalent -->
