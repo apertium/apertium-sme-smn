@@ -37,6 +37,12 @@ dev/sme_FI.Pron.missing -text
 dev/sme_FI.V.der.missing -text
 dev/sme_FI.V.noder.missing -text
 dev/sme_FI.freq -text
+dev/sme_blogspot.A.cmp.missing -text
+dev/sme_blogspot.A.nocmp.missing -text
+dev/sme_blogspot.N.cmp.missing -text
+dev/sme_blogspot.N.nocmp.missing -text
+dev/sme_blogspot.V.der.missing -text
+dev/sme_blogspot.V.noder.missing -text
 dix_pairs4manual_check/vblex_pairs.txt -text
 /gt2apertium.cg3r -text
 inc/parallell-text-not-bidix.freq -text
