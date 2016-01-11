@@ -988,6 +988,7 @@
 
     <!-- ASECTION: sme-person names x=x -->
 
+    <e><p><l>Heandarat<s n="np"/></l><r>Heandarat<s n="np"/></r></p></e>
     <e><p><l>Aanna<s n="np"/></l><r>Aanna<s n="np"/></r></p></e>
     <e><p><l>Aarne<s n="np"/></l><r>Aarne<s n="np"/></r></p></e>
     <e><p><l>Aarre<s n="np"/></l><r>Aarre<s n="np"/></r></p></e>
@@ -1752,6 +1753,7 @@
     <e><p><l>Anárjávri<s n="np"/></l><r>Aanaarjävri<s n="np"/></r></p></e>
     <e><p><l>Anármárkan<s n="np"/></l><r>Aanaarmarkkân<s n="np"/></r></p></e>
     <e><p><l>Anárskuvla<s n="np"/></l><r>Aanaarškovlâ<s n="np"/></r></p></e>
+    <e><p><l>Avvil<s n="np"/></l><r>Avveel<s n="np"/></r></p></e>
     <e><p><l>Avvil-Máhtte<s n="np"/></l><r>Avveel-Matti<s n="np"/></r></p></e>
     <e><p><l>Avviljohka<s n="np"/></l><r>Avveeljuuhâ<s n="np"/></r></p></e>
     <e><p><l>Avvilskáidi<s n="np"/></l><r>Avveelskäiđi<s n="np"/></r></p></e>
@@ -2593,13 +2595,12 @@
     <!-- ASECTION: Verbs -->
     
     <e><p><l>seailudit<s n="vblex"/><s n="tv"/></l><r>siäiluttiđ<s n="vblex"/></r></p></e> 
-    <e><p><l>fárret<s n="vblex"/><s n="tv"/></l><r>varriistâllâđ<s n="vblex"/></r></p></e> 
     <e><p><l>vuodjut<s n="vblex"/><s n="iv"/></l><r>vuáijuđ<s n="vblex"/></r></p></e> 
-    <e><p><l>deaividit<s n="vblex"/><s n="iv"/></l><r>teivâđ<s n="vblex"/></r></p></e> 
-    <e><p><l>heahkastuhttit<s n="vblex"/><s n="iv"/></l><r>olâttiđ<s n="vblex"/></r></p></e> 
+    <e><p><l>deaividit<s n="vblex"/><s n="tv"/></l><r>teivâđ<s n="vblex"/></r></p></e> 
+    <e><p><l>heahkastuhttit<s n="vblex"/><s n="tv"/></l><r>olâttiđ<s n="vblex"/></r></p></e> 
     <e><p><l>sibildit<s n="vblex"/><s n="tv"/></l><r>vigâttiđ<s n="vblex"/></r></p></e> 
     <e><p><l>fuollat<s n="vblex"/><s n="tv"/></l><r>huollâđ<s n="vblex"/></r></p></e> 
-    <e><p><l>rahpasit<s n="vblex"/><s n="tv"/></l><r>lekkâsiđ<s n="vblex"/></r></p></e> 
+    <e><p><l>rahpasit<s n="vblex"/><s n="iv"/></l><r>lekkâsiđ<s n="vblex"/></r></p></e> 
     <e><p><l>loddet<s n="vblex"/><s n="iv"/></l><r>loddiđ<s n="vblex"/></r></p></e> 
     <e><p><l>gáfestallat<s n="vblex"/><s n="iv"/></l><r>káhvástâllâđ<s n="vblex"/></r></p></e> 
     <e><p><l>čatnasit<s n="vblex"/><s n="iv"/></l><r>čonâsiđ<s n="vblex"/></r></p></e> 
@@ -3647,6 +3648,7 @@
     <e><p><l>niesti<s n="n"/></l><r>evvis<s n="n"/></r></p></e><!-- added niesti in FST, but I would rather use evvis as an equivalent -->
     <e><p><l>veasku<s n="n"/></l><r>viäsku<s n="n"/></r></p></e>
     <e><p><l>TV<s n="n"/></l><r>TV<s n="n"/></r></p></e>
+    <e><p><l>tv<s n="n"/></l><r>tv<s n="n"/></r></p></e>
     <e><p><l>adreassa<s n="n"/><s n="g3"/></l><r>čujottâs<s n="n"/></r></p></e>
     <e><p><l>válgabadji<s n="n"/></l><r>vaaljâpaje<s n="n"/></r></p></e>
     <e><p><l>adveanta<s n="n"/></l><r>advent<s n="n"/></r></p></e>
@@ -4383,6 +4385,7 @@
     <e><p><l>kantuvra<s n="n"/></l><r>toimâttâh<s n="n"/></r></p></e>
     <e><p><l>kaseahtta<s n="n"/></l><r>kasseet<s n="n"/></r></p></e>
     <e><p><l>keaisár<s n="n"/></l><r>kiäisár<s n="n"/></r></p></e>
+    <e><p><l>geaisár<s n="n"/></l><r>kiäisár<s n="n"/></r></p></e>
     <e><p><l>kempe<s n="n"/></l><r>almaš<s n="n"/></r></p></e>
     <e><p><l>kievkkan<s n="n"/></l><r>kievkkân<s n="n"/></r></p></e>
     <e><p><l>kihtet<s n="n"/></l><r>kettig<s n="n"/></r></p></e>
@@ -6324,7 +6327,6 @@
 
     <!--    BSECTION: Verbs  -->
 
-    <e><p><l>juhkkojuvvot<s n="vblex"/><s n="iv"/></l><r>juohhuđ<s n="vblex"/></r></p></e>
     <e><p><l>adopteret<s n="vblex"/><s n="tv"/></l><r>adoptistiđ<s n="vblex"/></r></p></e>
     <e><p><l>agáiduvvat<s n="vblex"/><s n="iv"/></l><r>eliluđ<s n="vblex"/></r></p></e>
     <e><p><l>aiddostahttit<s n="vblex"/><s n="tv"/></l><r>tärkkilistiđ<s n="vblex"/></r></p></e>
