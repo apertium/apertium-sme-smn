@@ -252,6 +252,7 @@
     <e><p><l>vulobealde<s n="post"/></l><r>vuoluubeln<s n="post"/></r></p></e>
     <e><p><l>vuolde<s n="post"/></l><r>vyelni<s n="post"/></r></p></e>
     <e><p><l>čađa<s n="post"/></l><r>čoođâ<s n="post"/></r></p></e>
+    <e><p><l>duohkin<s n="post"/></l><r>tyehin<s n="post"/></r></p></e>
 
 <!-- Moved from the bottom up here,  -->
 
@@ -287,6 +288,7 @@
     <!-- ASECTION: Adverbs -->
 
     <e><p><l>vehá<s n="adv"/></l><r>váhá<s n="adv"/></r></p></e>
+    <e><p><l>duohkin<s n="adv"/></l><r>tyehin<s n="adv"/></r></p></e>
     <e><p><l>jaska<s n="adv"/></l><r>joskâd<s n="adv"/></r></p></e>
     <e><p><l>ohcanláhkai<s n="adv"/></l><r>uuccâmnáál<s n="adv"/></r></p></e>
     <e><p><l>maŋŋelis<s n="adv"/></l><r>maŋeláá<s n="adv"/></r></p></e>
@@ -372,7 +374,8 @@
 
     <!-- ASECTION: Adjectives -->
     
-    <e><p><l>velttidmettum<s n="adj"/></l><r>vealtameahttun<s n="adj"/></r></p></e>
+    <e><p><l>naiiva<s n="adj"/></l><r>naiivâ<s n="adj"/></r></p></e>
+    <e><p><l>vealtameahttun<s n="adj"/></l><r>velttidmettum<s n="adj"/></r></p></e>
     <e><p><l>humanisttalaš<s n="adj"/></l><r>humanistlâš<s n="adj"/></r></p></e>
     <e><p><l>olmmošlaš<s n="adj"/></l><r>olmoošlâš<s n="adj"/></r></p></e>
     <e><p><l>arkeologalaš<s n="adj"/></l><r>arkeologâlâš<s n="adj"/></r></p></e>
@@ -458,6 +461,12 @@
 
     <e><p><l>dikšungoddi<s n="n"/></l><r>tipšomkodde<s n="n"/></r></p></e>
     <e><p><l>fápmu<s n="n"/></l><r>vyeimi<s n="n"/></r></p></e>
+    <e><p><l>sisafárrenpolitihkka<s n="n"/></l><r>siisâvarrimpolitiik<s n="n"/></r></p></e>
+    <e><p><l>buorringeavaheapmi<s n="n"/></l><r>pyerrinanneem<s n="n"/></r></p></e><!--buorringeavaheapmi váilu sme -->
+    <e><p><l>álbmogiidvádjolus<s n="n"/></l><r>almugijvajâldem<s n="n"/></r></p></e>
+    <e><p><l>olmmošvallji<s n="n"/></l><r>olmoošhivvâdâh<s n="n"/></r></p></e>
+    <e><p><l>sisafárren<s n="n"/></l><r>siisâvarrim<s n="n"/></r></p></e>
+    <e><p><l>motiiva<s n="n"/></l><r>suijâ<s n="n"/></r></p></e>
     <e><p><l>gaskaoapmi<s n="n"/></l><r>koskâuámi<s n="n"/></r></p></e>
     <e><p><l>eanagoddi<s n="n"/></l><r>eennâmkodde<s n="n"/></r></p></e>
     <e><p><l>geahččanguovlu<s n="n"/></l><r>uáinu<s n="n"/></r></p></e>
@@ -2595,6 +2604,9 @@
     <!-- ASECTION: Verbs -->
     
     <e><p><l>seailudit<s n="vblex"/><s n="tv"/></l><r>siäiluttiđ<s n="vblex"/></r></p></e> 
+    <e><p><l>bohciidit<s n="vblex"/><s n="tv"/></l><r>šoddâđ<s n="vblex"/></r></p></e> 
+    <e><p><l>vássit<s n="vblex"/><s n="iv"/></l><r>moonnâđ<s n="vblex"/></r></p></e> 
+    <e><p><l>reahkkát<s n="vblex"/><s n="tv"/></l><r>kelijdiđ<s n="vblex"/></r></p></e> 
     <e><p><l>vuodjut<s n="vblex"/><s n="iv"/></l><r>vuáijuđ<s n="vblex"/></r></p></e> 
     <e><p><l>deaividit<s n="vblex"/><s n="tv"/></l><r>teivâđ<s n="vblex"/></r></p></e> 
     <e><p><l>heahkastuhttit<s n="vblex"/><s n="tv"/></l><r>olâttiđ<s n="vblex"/></r></p></e> 
