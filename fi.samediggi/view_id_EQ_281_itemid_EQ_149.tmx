@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bures boahtin Sámenuoraid dáiddadáhpáhussii !</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tiervâpuáttim Säminuorâi taaidâtábáhtusân !</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhus álgá Vuohču skuvllas duorastaga 26.3. dmu 11 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tábáhtus álgá Vuáču škoovlâst tuorâstuv tme 11 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáiddadáhpáhusa temán dán jagi leat teáhter ja oanehisfilbma .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taaidâtábáhtus teeman taan ive láá teatter já uánihiselleekove .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Teáhterbihtáid oaidnit dmu 11.30 rájes .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Teatterčáittuseh láá uáinimnáálá tme 11.30 rääjist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mini-filbmafestivála nuoraid ieža ráhkadan filmmain álgá teáhterbihtáid maŋŋá .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mini-filmifestivaalâ nuorâi jieijâs rähtim uánihiselleekuuvijn álgá teatterčáittusij maŋa .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhussii leat almmuhuvvon sullii 300 oasseváldi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tábáhtusân láá almottâttâm suullân 300 uásálisted .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dasa lassin vuordit báikki ala maiddái ollu báikkálaš olbmuid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasseen tábáhtusân láá vyerdimist ovdii vyevi mield ennuu páihálâš ulmuuh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenuoraid dáiddadáhpáhus 26.3.2009</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>DD Prográmma TT Ohjelma 26032009</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säminuorâi taaidâtábáhtus 2009</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

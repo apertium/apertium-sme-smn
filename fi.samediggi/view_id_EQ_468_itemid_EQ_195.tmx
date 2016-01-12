@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámekulturguovddáš Sajosa hárjeloktendilálašvuohta</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kultturkuávdáš Sajos härjijuhletilálâšvuotâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámekulturguovddáš Sajosa hárjeloktendilálašvuohta dollojuvvo huksenbáikkis ( Anár ) duorastaga cuoŋománu 14. beaivve 2011 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kultturkuávdáš Sajos härjijuhletilálâšvuotâ tuálloo pargoenâmist ( Aanaar ) tuorâstuv 14. cuáŋuimáánu 2011 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dilálašvuohta álgá huksenbáikái oahpásmuvvamiin dmu 13.30 ja ieš hárjeloktemat leat dmu 14.00 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tilálâšvuotâ álgá pargoenâmân uápásmem häämist tijme 13.30 já eidusiih härjijuhleh tme 14.00 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>TIÄĐÁTTÂS</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kuva : Ulla Isotalo</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kuva : Ulla Isotalo .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

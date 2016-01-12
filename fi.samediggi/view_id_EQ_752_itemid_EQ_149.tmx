@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi ja Mii rs gárteba giellabeassedoaimma dárbbu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge já Mii rs kärttejeh kielâpiervâltooimâ táárbu</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi ohcá jahkásaččat oahpahus- ja kulturministeriijas stáhtadoarjaga sámiid giellabeasse- ja giellalávgunriekkesdoaimma várás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge ocá máttááttâs- já kulttuurministeriöst staatâtorjuu kielâpiervâl- já kielâlávgumkerhotooimâ várás .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi ja Mii rs gárteba sámebearrašiid giellabeassedoaimma dárbbu Roavvenjárggas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Puáttee tooimâ vuávám várás Sämitigge já Mii rs kärttejeh sämiperrui halulâšvuođâ uásálistiđ sämikielâlii kielâpiervâltooimân Ruávinjaargâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Luđe jearahallan</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Luođii koijâdâllâm</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>dákko</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>täst</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi attii stipeanddaid Sámi oahpahusguovddážis válmmaštuvvan oahppiide</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge adelij stipendijd Säämi máttááttâskuávdáást valmâštum uáppeid</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi attii stipeandda guđa viššalis sámegiela oahppái , geat válmmaštuvve Sámi oahpahusguovddážis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge adelij stiipeend kuuđâ iäljáris sämikielâ uáppei , kiäh valmâštuvvii Säämi máttááttâskuávdáást .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Golmmas sis čađahedje nuortalašgiela stuđeantaiskosa giđa stuđeantačállimiin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kuulmâs sist čođâldittii nuorttâlâškielâ pajeuáppeeiskos kiiđâ pajeuáppeečälimijn .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi oahpahusguovddáža giđđafeasta dollojuvvui gaskavahku geassemánu njealját beaivve .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi máttááttâskuávdáá kiđđâjuhleh onnii koskoho kesimáánu niäljád peeivi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki stipeanddda ožžo čuovvovaš stuđeanttat :</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige stiipeend finnejii čuávuvááh uáppeeh :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Davvisámegiella : Juulienna Näkkäläjärvi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tavesämikielâ : Juulienna Näkkäläjärvi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anárašgiella : Henna Aikio</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Anarâškielâ : Henna Aikio</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalašgiella : Jarno Mäki</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâlâškielâ : Jarno Mäki</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalašgiela stuđeantaiskosa giđa čállimiin čađahan oahppit :</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâlâškielâ pajeuáppeeiskos kiiđâ čälimijn čođâldittâm uáppeeh :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Minna Lehtola , Heidi Gauriloff ja Hannu Pessa .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Minna Lehtola , Heidi Gauriloff já Hannu Pessa .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi sávvá lihku ja buori geasseluomu buohkaide !</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge tuáivut luho já šiev kesiluámu puohháid !</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

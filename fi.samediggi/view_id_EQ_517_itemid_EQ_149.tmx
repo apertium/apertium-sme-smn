@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Njuolggoliŋka seminára suomagielat muittuhančállagii 13.9.2011 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Muštottemčáálus sämi- já maorikielâi kielâiäláskittemseminaarist 13.9.2011</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Njuálguliŋkkâ seminaar muštottemčálusân 13.9.2011</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>tast .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

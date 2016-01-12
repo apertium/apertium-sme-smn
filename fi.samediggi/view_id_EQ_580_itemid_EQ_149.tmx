@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čađa áiggiid stuorámus sámenuoraid dáiddadáhpáhus álgá Anáris</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Puoh aaigij stuárráámus säminuorâi taaidâtábáhtus vuálgá joton Anarist</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegielat musihkka skádjá ja suohpanat njurgot go čađa áiggiid stuorámus sámenuoraid dáiddadáhpáhus álgá Anáris gaskavahku 28.3 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâlâš muusik škáájá já suopânjeh njurgoh ko puoh aaigij stuárráámus Säminuorâi taaidâtábáhtus vuálgá joton Anarist koskoho 28.3 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhus álgá njoarostan- sihke njoarostansáttagilvvuin Anára čuoiganstašuvnnas dmu 13.30 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tábáhtus álgá njuárustem- já njuárustemviestâkištoin Aanaar čuoigâmstadionist tme 13.30 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eahkedis čoahkkanuvvo dáiddadáhpáhusa rahpamiidda , sámenuoraid ođđa joavkku Irdon konsertii ja bálkkašumiid juohkindilálašvuhtii Sajosii dmu 18 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ehidist čokkânep taaidâtábáhtus lekkâmáid , uđđâ säminuorâi muusikjuávhu Irdon konserttân já palhâšumij jyehimtilálâšvuotân Sajosân tme 18 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lágideaddjit vurdet báikki ala buriin muniin badjel 400 oassálasti .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uárnejeijeeh vyerdih Anarân pyereest-uv paijeel 400 uásálisted .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Njuolggosátta neahtas duorastaga dmu 9.55-17 čujuhusas : http://yle.fi/livestream/saamevideo.asx .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>29.03. tme 9.55-17 : http://yle.fi/livestream/saamevideo.asx .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenuoraid dáiddadáhpáhusat leat lágiduvvon 1970-logu rájes ja dáhpáhus lea stáđásmahttán sajádaga sámeguovllu skuvllaid bargoprográmma ja sámedikki doaimma oassin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säminuorâi taaidâtábáhtusah láá uárnejum 1970-lovo rääjist já tábáhtus lii vuáháduttâm sajattuvâst uássin sämikuávlu škoovlâi pargo-ohjelm já sämitige tooimâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhus lágiduvvo vuorrojagiin sámiid ruovttuguovllu gielddain ovttasbarggus báikkálaš skuvllaiguin ja báikkálaš sámeservviiguin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tábáhtus uárnejuvvoo vuáruiivij sämikuávlu kieldâin oovtâstpargoost páiháláin škovláin já páihálij sämiservijguin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dán jagi ordnedallamiidda oassálastet sámedikki lassin Anára skuvla , Sámi oahpahusguovddáš ja báikkálaš sámesearvi , Anára Sámisearvi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taan ive orniimân uásálisteh sämitige lasseen Aanaar škovlâ , Säämi máttááttâskuávdáš já páihálâš sämiservi Anára Sámi searvi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gaskavahku nuorat gilvvohallet njoarosteamis ja njoarostansáttačuoigamis golmma sierraahkásaččaide dárkkuhuvvon gilvoluohkás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Koskoho nuorah kištodeh njuárustmist já njuárustemviestâčuoigâmist kuulmâ jieškote-uv ahasáid uáivildum rááiđust .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Njoarostan- ja njoarostansáttagilvvu lágidit ovttasbarggus Sámi oahpahusguovddáža luondo- ja meahcceoahpisteaddji oahppit sihke Inarin Yritys ja Anára Sámisearvvi aktiivvat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Njuárustem- já njuárustemviestâkišto uárnejeh oovtâstpargoost Säämi máttááttâskuávdáá luándu- já mecciuápislinjáá uáppeeh sehe Inarin yritys já Anára Sámi searvi aktiiveh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gilvvu jođiheaddjin doaibmá Áslak Paltto .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kišto jođetteijen tuáimá Aslak Paltto .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhusa váldobeaivi lea duorastat , goas ođđa sámekulturguovddáš Sajosa teknihka ja stuorra auditorio leat vuosttas háve dievas anus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tábáhtus váldupeivi lii tuorâstâh , kuás uđđâ Säämi kulttuurkuávdáš Sajos tekniik já stuorrâ auditorio láá vuossâmuu keerdi oles kiävtust .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sále dievvá Njuorggámis , Ohcejogas , Norgga beale Sirpmás , Gáregasnjárggas , Čeavetjávrris , Heahtás , Gárasavvonis , Roavvenjárggas , Soađegilis , Vuohčus , Avvilis , Dearpmážis ja Anáris dáhpáhussii oassálasti nuorain fuolaheaddjiiguin ja oahpaheaddjiiguin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sali tiävá Njuárgámist , Ucjuuvâst , Taažâ Sirmáást , Kärigâsnjaargâst , Čevetjäävrist , Hettaast , Käresavonist , Ruávinjaargâst , Suáđigilist , Vuáčust , Avelist , Tiärmáást já Anarist tábáhtusan uásálistee nuorâin huolâtteijeinis já máttáátteijeinis .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhusa várás lea ráhkkanuvvon mánotbajiid skuvllain ja buđaldusjoavkkuin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tábáhtus láá valmâštâllâm mánuppoojijd škoovlâin já puđâldemjuávhuin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhusa válljugas oassálastin duođašta , ahte sámegielat musihkka geasuha sakka nuoraid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tábáhtus hirmâd stuorrâ uásálistei meeri čáittá tom , et sämikielâlâš muusikpuuđâldmeh láá pivnuuh nuorâi koskâvuođâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Duorastaga prográmmai gulavaš musihkkageahčalmassii leat almmuhan oktiibuot 20 bändi ja loaiddasteaddjijoavkku sámeguovllu buot guovlluin ja Roavvenjárgga gávpogis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tuorâstuv muusikkejâlmâsân láá almottâttâm ohtsis 20 muusik- já lávdástelleejuávkkud jyehi kuávlust sämikuávlu já Ruávinjaargâ kaavpugist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Duopmárat válljejit oassálastiid gaskavuođas sámenuoraid ovddasteaddjiid riikkadási Nuorra Kultuvra Sounds – dáhpáhussii , mii lágiduvvo Turkus miessemánus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tuámáreh väljejh uáslistei koskâvuođâst säminuorâi ovdâsteijeid väldikodálâš Nuorâ Kulttuur Sounds - tábáhtusân , mii uárnejuvvoo vyesimáánust Tuurkust .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gilvoluohkáid golbma buoremusa bálkkašuvvojit stipeanddain .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kištorááiđui kulmâ pyeremus palhâšuvvojeh stipendijguin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Duopmáriin nuortalašgiela ja rock-musihka ovddasta Tiina Sanila-Aikio , anárašgiela ja máŋggaid musihkkašlájaid Heikki Nikula , davvisámegiela ovddastit rap-musihkar Áilu Valle ja árbevirolaš juoigama meašttir Inga-Máret Gaup-Juuso .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tuámárijn nuorttâsämikielâ já rock-muusik oovdâst Tiina Sanila-Aikio , aanaarsämikielâ já maaŋgâid muusikšlaajâid Heikki Nikula , tavesämikielâ rap-musijkkár Áilu Valle já ärbivuáválii juoigâm miäštár Inga-Máret Gaup-Juuso .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhusa teknihkas vástidit sámedikki bálvalanovttadaga teknihkarat Joonas Saari ja Janne Lappalainen , sámi oahpahusguovddáža Erkki Feodoroff ja Tuupa Records Heikki Isokoski .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tábáhtus tekniikâst västideh sämitige palvâlemohtâduv tekniikalmaah Joonas Saari já Janne Lappalainen , säämi máttááttâskuávdáá Erkki Feodoroff já Tuupa Records Heikki Isokoski .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhusteknihka lágideapmái oassálastá maiddái Yle Sámi radio .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tábáhtustekniik orniimân uásálist meid Yle Sámi radio .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sajosa Dolla-auditorio addá dáhpáhussii fiinna birrasa , go anus leat teáhter- ja konseartadálu jietna- ja čuovgateknihkka buot lasiiguin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sajos Dolla-auditorio addel tábáhtusân fiijnâ raamijd , ko kiävtust lii teatter- já konserttáálu jienâ- já čuovâtekniik lasattâsâidiskuin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi lea lágidan linnjabiilasáhtuid , borademiid ja idjademiid buot Avvila Dearpmáža guhkkelebbos boahtti oassálastiide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge lii ornim linjâšautosáátuid , puurâdmijd já ijjâsoojijd puohháid Avveel Tiärmáást olgoláá puáttee uásálisteid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhusa gráfalaš bajiloainnu ( plakáhta , oassálastinduođaštusat , logo ja dáhpáhusa poastakorte ) lea plánen Tanja Sanila .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tábáhtus graafisii kejâstuv ( plaakaat , uásálistemtuođâštusah , logo já tábáhtus postâkorttâ ) lii vuávám Tanja Sanila .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhusa lágideapmái lea ožžojuvvon stáhtadoarjja oahpahus- ja kulturministeriijas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tábáhtus orniimân lep uážžum staatâtorjuu máttááttâs- já kulttuurministeriöst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhusa áigetávval gávdno dákko ja musihkkagilvvu loaiddastanortnet dákko .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tábáhtus äigitavlu kávnoo täst já muusikkišto lávdástemoornig täst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lassidieđut : -</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasetiäđuh :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- tábáhtusčällee Heli Huovinen , 050-401 8009</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- taaidâtábáhtusvästideijee Anni Näkkäläjärvi , 040-511 1821</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- vs. nuorâičällee Inka Nuorgam , 050-382 5179</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- škovlimčällee Ulla Aikio-Puoskari , 040-767 3101 .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

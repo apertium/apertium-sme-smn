@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámiide sosiála- ja dearvvášvuođafuolahusa ovddidanprográmma</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämmiláid sosiaal- já tiervâsvuođâhuolâttâs ovdedemohjelm</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi dohkkehii čoahkkimistis 27.10.2008 Sámiid sosiála- ja dearvvášvuođafuolahusa ovddidanprográmma jagiide 2008-2011 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge tuhhiittij čuákkimistis 27.10.2008 Sämmilij sosiaal- já tiervâsvuođâhuolâttâs ovdedemohjelm ivvijd 2008-2011 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Prográmma ulbmilin lea oasistis ovddidit sámiid gielalaš ja kultuvrralaš vuođđorivttiid ollašuvvama iešstivrejumi vuođul .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ohjelm uáivilin lii jieijâs uásild ovdediđ sämmilij kielâlâš já kulttuurlâš vuáđuvuoigâdvuođâi olášume jiešhaldâšem vuáđuld .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámit galget sáhttit boahttevuođasge eallit ja ovdanit iežas álbmogin , iežas vuolggasajiid vuođul , suddakeahttá váldoálbmogii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämmiliih kalgeh pyehtiđ puátteevuođâstuv eelliđ já ovdániđ jieijâs aalmugin , jieijâs vuolgâsoojijn sudâhánnáá válduáaalmugân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dát eaktuda sámegillii ja sámi kultuvrii vuođđuduvvi bálvalusaid lasiheami ja daid sisdoalu ovddideami .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taat váátá jieijâs kielân já kulttuurân vuáđuduvvee palvâlusâi lasettem já toi siskáldâs ovdedem .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámiid bálvalusaid ovddideamis deattuhuvvojit boarrásiid bálvalusat , arrabajásgeassin , sosiálabargu , psykososiála bálvalusat , mánnárávvehatdoaibma , eallindiliid ja sosiála dorvvu ovddideapmi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämmilij palvâlusâi oovdedmist tiäduttuvvojeh puárásij palvâlusah , aarâhšoddâdm , sosiaalpargo , psykososiaallâš palvâlusah , ravviittâstoimâ sehe eellimtile já sosiaaltorvo ovdedem .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi figgá dasa , ahte ovddidanprográmma doaibmabijut šattašedje sihke sámedikki iežas doaibmaprográmmaid ja sámeguovllu gielddaid ja eará dán suorggi ovddidanorganisašuvnnaid doaibmaprográmmaid oassin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdedemohjelm tooimah viggojeh siskáldittiđ Sämitige , sämikuávlu kieldâi já syergi eres ovdedemorganisaatioi tooimân já toimâohjelmáid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi lea šaddan dehálaš sosiála- ja dearvvášvuođasuorggis doaibmi orgánisašuvdna jagi 2002 rájes go dasa vuosttaš geardde čujuhuvvui earenoamáš stáhtaveahkki sámegielat sosiála- ja dearvvášvuođabálvalusaid buvttadeami várás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitiggeest lii šoddâm merhâšittee sosiaal- já tiervâsvuođâsyergi tuáimee ive 2002 rääjist , ko toos čujottui vuossâmuu keerdi sierânâs sämikielâlâš sosiaal- já tiervâsvuođâpalvâlusâi oovdedmân uaivildum staatâtoorjâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi ruhtada stáhtavehkiin sámeguovllu gielddaid sámegielat bálvalusaid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge ruttâd staatâtorjuin sämikuávlu kieldâi sämikielâlâš palvâlusâid .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

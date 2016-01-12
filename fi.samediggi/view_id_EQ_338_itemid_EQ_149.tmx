@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Birasdieđu girjjit almmustuvve anárašgillii</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pirâstiäđu kirjeh láá almostum aanaarsämikielân</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vuođđooahpahusa goalmmát luohkkái oaivvilduvvon birasdieđu oahppi girji ja bargogirji leat almmustuvvan anárašgillii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuáđumáttááttâs kuálmád luokan uáivildum aanaarsämikielâlâš pirâstiäđu uáppee kirje já pargokirje láá almostm .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girjjit leat Otava-goasttideaddji ´Koulun ympäristötieto´ – girjeráiddu sámegillii heivehuvvon jorgalusat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kirjeh láá Otava ´Koulun ympäristötieto´ – kirjerááiđu heiviittum jurgâlusah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girjjiid lea jorgalan Ilmari Mattus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kiirjijd lii jurgâlâm Ilmari Mattus .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ráiddu njealját luohká girjjit let barggu vuolde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Rááiđu niäljád luoka kirjeh láá pargo vyelni .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Loga lasi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Luuvâ lase</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>dás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>täst .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

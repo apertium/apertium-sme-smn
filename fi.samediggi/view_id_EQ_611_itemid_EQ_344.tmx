@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki nuoraidráđđi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige nuorâirääđi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuoraidčálli fástida</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorâičällee västid</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Diidalámpá lea riikkaviidosaš mánáidkulturguovddážiid fierpmádat – muhto mii lea Skáhppu ?</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tijdâlamppu lii taikalamppu – mut mii lii Skuáppu ?</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Binna Bánna mánáid radio</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Binna Bánna párnái radio</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Unna Junná álggii jagis 2007</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Unna Junná aalgij ive 2007</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Unna Junná video</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Njoammil</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Njuámmil</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suoma Sámi Nuorat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Rájehis sámenuorat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Räjittes säminuorah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuorat lagašgovas</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorah aldakooveest</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Pilvi álggaha</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pilvi aalgât ollâopâttuvâst</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uccâ uábáš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mun gal guoran máttaráddján</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mun kal kuorâm madâräijihâm</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Niiles</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Cokka fal ná</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SomBy Muu hobby</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kárvudât peri návt</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenuoraid dáiddadáhpáhus</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säminuorâi taaidâtábáhtus</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáiddadáhpáhus govvaráidu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taaidâtábáhtus koveráiđu</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Rájehis sámenuorat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Räjittes säminuorah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sápmelaččat lea álbmot , mii orru njealji riikkas . Dat oaivvilda dan ahte maiddái sámenuorat leat juhkkojuvvon njealji oassái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämmiliih láá neelji staatâst ässee aalmug , mii uáivild tom , et säminuorah láá še juohum neelji uásán .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dán áigge rájiin fuolakeahttá sápmelaččat leat goittotge “ rájehis álbmot ” , lagas ja oktilaš .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Onnáá peeivi raajijn peerusthánnáá sämmiliih láá kuittâg “ räjittes aalmug ” , čavos já ohtâlâs .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Rájehisvuohta dihtto maiddái sámenuorain , geat atnet rájiid rasttildeaddji ovttasbarggu dehálažžan .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Räjittesvuotâ tiättoo še säminuorâin , kiäh aneh raajijd rastaldittee oovtâstpargo tehálâžžân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenuorat leat aktiivvalaččat ja diđolaččat dan birra , ahte nuoraid barggus lea stuorra váikkuhus kultuvrra seailumii ja dan bajásdoallamii eallinaga .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säminuorah láá aktiivliih já tiäđuliih tast , et sii jieijâs naavcâi lasseetmist lii stuorrâ vaikuttâs kulttuur siäilumân já ton ellen tolâmân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenuoraid rájáid rasttildeaddji ovttasbarggu ulbmilin lea lasihit ja nannet oktiigullevašvuođadovddu buot sápmelaččaid gaskkas ja dákko bokte maiddái ráhkadit máŋgga láhkai nana álbmoga .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säminuorâi raajijd rastaldittee oovtâstpargo uáivilin lii lasettiđ já nanodiđ oohtânkulluuvâšvuođâ tobdo puohâi sämmilij kooskâ já tađe mield leđe mieldi lääjidmin maaŋgâ náálá noonâ aalmug .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sápmelaččaid ovttasteapmi vuolgá johtui juo nuorain .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämmilij ovtâstittem vuálgá joton jo nuorâin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suoma sámedikki nuoraidráđi ságadoalli Laura-Maija Niittyvuopio kommentere ovttasbarggu rájáid rastá ja máinnaša , ahte ii galggaše álo hállat Suoma , Norgga , Ruoŧa ja Ruošša sámiin , muhto baicce sámiin oktan álbmogin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suomâ sämitige nuorâirääđi saavâjođetteijee Laura-Maija Niittyvuopio kommentist raajij paijeel mannee oovtâstpargo já maainâš , et ij kolgâččij ovttuu sárnuđ Suomâ , Taažâ , Ruotâ já Ruošâ sämmilijn , pic sämmilijn ohtân siämmáá aalmugin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Jus fas galgá dahkat earu sápmelaččaid gaskii , dat dáhpáhuvvá lunddolaččat sápmelaččaid iežaset namahusaid vuođul . Ovdamearkka dihtii eará sámegielaid hálliid , dahje eará ealáhusaid mielde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Jis oppeet kalga iäruttiđ jieškote-uv sämmilijd , te tom kalga porgâđ luándulubbooht sämmilij jieijâs nomâttâsâi mield ovdâmerkkân jieškote-uv sämikielâi sárnoi , tâi jieškote-uv iäláttâsâi hárjutteijei mield. .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenuoraid gaskasaš ovttasbargu lea okta čájánas das , man aktiivvalaččat sámenuorat leat gáhttet iežaset kultuvrra .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säminuorâi koskâsâš oovtâstpargo lii ohtâ čááitus tast mon aktiivliih säminuorah láá jieijâs kulttuur aaitârdmist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dán áiggi ovttasbarggu lea álkit dahkat , daningo oktavuođa oažžun ja áššiid birra dieđiheapmi lea mealgat álki sosiálalaš media bokte .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Onnáá peeivi oovtâstpargo lii älkkep porgâđ , ko ohtâvuođâ uážžum já aašijn tieđettem lii viehâ älkkee sosiaallâš media pehti .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dás fuolakeahttá ovttasbargu ii leat iešalddis čielggas muhto dat baicce gáibida máŋggalágan resurssaid , dego ruđa , dáhtu doaibmat ja dihtolágan soddjilvuođa stáhtaid bealis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tast peerusthánnáá oovtâstpargo ij lah jiešmeidlist čielgâs pic tot váátá sierâlágán naavcâid , tegu ruuđâ já haalu toimâđ , sehe tiätulágán njyebžilvuođâ staatâi tááhust .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Laura-Maija Niittyvuopio atná iešguđetlágan konfereanssaid ja semináraid buorrin konkrehtalaš ovdamearkan ovttasbarggus rájáid rastá .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laura-Maija Niittyvuopio ana sierâlágán konfereensijd já seminaarijd šiev koŋkreetlâš ovdâmerkkân raajijd rastaldittee oovtâstpargoost .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dat čohkkejit oktii olu sámenuoraid miehtá Sámi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toh čuákkejeh oohtân valjeest säminuorâid pirrâ sämieennâm .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Konfereanssaid fáttát molsašuddet sámepolitihkas sámekultuvrra gáhttemii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Konfereensij fáádáh molsâšudeh sämipolitiikâst sämikulttuur aaitârdmân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Konfereanssaid ja semináraid bokte lea olahuvvon ovdánupmi ja daiguin lea ožžojuvvon áigái konkrehtalaš bohtosat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Konfereensij já seminaarij pehti lep juksâm ovdánemlaavhijd já toi vievâst lep uážžum ááigán koŋkreetlâš puáđusijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovdamearkka dihtii čakčat 2011 suoma sámedikkiid nuoraidráđđi ordnii Suoločielggis davviriikkalaš sámenuoraid konfereanssa , mii čohkkii oktii lagabui 100 sámenuora .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdâmerkkân čohčuv 2011 Suomâ sämitige vuálásâš nuorâirääđi ornij Suáluičielgist ohtsâštave-eennâmlâš säminuorâi konferens , mii čokkij oohtân suullân 100 säminuorrâd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Konfereanssas gieđahalle áigeguovdilis sámeáššiid earret eará panelaid ja bargobájiid bokte .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Konfereensist kieđâvuššojii äigikyevdiliih sämiääših eres lasseen paneelij já pargopáájái pehti .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dán konfereanssas oaččui álggu sámenuoraid oktasaš nuoraidlávdegoddi , mas leat ovddasteaddjit buot njealji riikkas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Siämmáá konfereensist uážui aalgâ säminuorâi ohtsâš nuorâilävdikodde , mast láá ovdâsteijeeh jyehi neelji enâmist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Laura-Maija muitala iežas vuordit ođđa nuoraidlávdegotti doaimma álggaheami ja ovttasbarggu , mii dahkko dan bokte .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laura-Maija muštâl , et sun vuárdá uđđâ nuorâilävdikode tooimâ algâttem já tađe mield oovtâstpargo .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vuosttamuš čoahkkin lea jagi 2012 čakčabeale .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuossâmuš čuákkim lii čohčuv 2012 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govas nuoraidráđi ságadoalli Laura Niittyvuopio .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kooveest nuorâirääđi saavâjođetteijee Laura Niittyvuopio .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gova váldán Unna-Maari Pulska .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kove lii váldám Unna-Maari Pulska .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nubbi buorre ovdamearka lea giđđat 2012 ordnejuvvon Ruoŧa sámenuoraid searvvi jahkečoahkkin Björklidenis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nubbe šiev ovdâmerkkâ lâi kiđđuv 2012 uárnejum Ruotâ säminuorâi seervi ihečuákkim Björklidenist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Jahkečoahkkima oktavuođas ordnejuvvui konfereansa , mii čohkkii oktii sullii 150 sámenuora miehtá sámeeatnama .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ihečuákkim ohtâvuođâst uárnejui konferens , mii čokkij oohtân suullân 150 säminuorrâd pirrâ sämieennâm .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Konfereanssa temán lei Rájehis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Konferens teeman oli Räjittem , rajaton .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Konfereanssa temán lei nannet sámenuoraid oktiigullevašvuođa dovddu rájáid rastá ja oažžut sámenuoraide oktasaš jiena .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Konferens teeman lâi nanodiđ raajij paijeel säminuorâi oohtânkulluuvâšvuođâ tobdo já uážžuđ säminuoráid ohtsii jienâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhusas čállojuvvui Rákkasorda - julggaštus , man ulbmilin lea ovdanbuktit buot njealji riikka sámenuoraid ulbmiliid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tábáhtusâst čallui Rákkasorda - julgáštus , mon ulmen lâi pyehtiđ uáinusân puohâi neelji eennâm säminuorâi uulmijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Julggaštus lea oaidnin láhkai earret eará Suoma sámenuoraid bloggas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Julgáštus lii luuhâmnáál eres lasseen Suomâ säminuorâi seervi blogist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dehálaš ášši oktasašbarggus lea dáhpáhusaid ja deaivvademiin máŋggabealatvuohta , ja dat ahte fárrui fátmmastuvvo nu máŋga nuora go vejolaš .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tehálâš äšši oovtâstpargoost lii tábáhtusâi já teividmij maaŋgâpiälásâšvuotâ , já tot et fáárun fättee nuuvt maŋgâs ko máhđulâš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Politihkalaš doaimma lassin galgá leat maiddái earáge doaibma eará áššiin beroštuvvan nuoraide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Poolitlâš tooimâi lasseen ferttejeh leđe še eres-uv tooimah jieškote-uv aššijd mielâkiddiivâšvuođâ tobdeid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dasa oktan ovdamearkan Laura-Maija máinnaša jahkásaččat ordnejuvvon salibandy sámemeašttirgilvvuid , mat čohkkejit oktii njealji riikka sámenuoraid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taas ohtân ovdâmerkkân Laura-Maija maainâš ihásijd salibandy sämimiäštárvuođâkištoid , moh čuákkejeh oohtân neelji eennâm säminuorâid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gilvvuin lea šaddán juo juohke jahkásaš vierru , mii geahččaluvvo seailluhit .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kištoin lii jo šoddâm jyehi-ihásâš ärbivyehi , mon viggâp siäiluttiđ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gilvvuid lea ulbmilin ordnet vurrolagaid juohke njealji riikkas . ”</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kištoid lii uáivil toollâđ vuáruttuvâi jyehi neelji staatâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Iešguđetlágan dáhpáhusain oahpásmuvvá olbmuide eará láhkai .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>“ Sierâlágán tábáhtusâin uápásmuvá ulmuid eres náálá .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Olbmuin bohtet ovdan earálágan bealit seminárain , go vaikkobe salibandy spealadettiin dahje sámemusihka festiválain ” , Laura-Maija govvida .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ulmuin iteh uáinusân sierâlágáneh peleh seminaarist , tegu veikkâ salibandy spelâdijn tâi sämimuusik festarijn ” , Laura-Maija valdâl .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Laura-Maija deattuha ovttasbarggu leahkit dehálaš maiddái dan dihtii , ahte dalle go olbmot orrot eará riikkain de lea vejolaš veardidit diliid riikkaid gaskkas ja vejolaččat maiddái bidjat deattu dakko bokte stáhtii , jus seamma áššit leat dikšojuvvon eará láhkai nuppi riikkas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laura-Maija tiäddud , et oovtâstpargo lii tehálâš meid tondiet , et ko áásá eres staatâin , te puáhtá verdidiđ tilálâšvuođâid koskânis staatâi kooskâ já máhđulávt še tađe mield asâttiđ tedduid staatáid , jis siämmááh ääših láá hoittájum eresnáál nube staatâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Diliid veardidettiin sáhttá váldit málle dakkár áššiin , mat leat buorebut dikšojuvvon nuppi riikkas ja ovddidit iežas riikkas sápmelaččaid áššiid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tilálâšvuođâid viärdádâlmáin puáhtá väldiđ myenster pyerebeht hoittájum áášijn já ovdediđ jieijâs staatâst sämmilij aašijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovttasbarggu bokte lea vejolaš hukset maiddái dehálaš sosiálalaš fierpmádagaid , oažžut ođđa jurdagiid , oahpásmuvvat ja oažžut skihpáriid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Oovtâstpargo pehti läjiduvvojeh še tááláá ääigi eromâš teháliih sosiaalliih viärmáduvah , main uážžu uđđâ jurduid , uápásmuvá já uážžu ustevijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Laura-Maija lohká doaimma leahkit maiddái sámenuoraid identitehta dáfus dehálaš , go beassá oahpásmuvvan seamma vuoiŋŋat ja etnisitehtalaččat sápmelaš nuoraide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laura-Maija iätá , et tooimah láá še säminuorâi identiteet tááhust teháliih , ko piäsá uápásmuđ siämmáávuoiŋâlâš já etnisiteetis tááhust sämmilâš nuoráid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovttasbargu váikkuha maiddái sámegiela seailluheapmái ja ealáskahttimii , daningo deaivvadettiin eará riikkaid sámenuoraid lea bággu hállat eará giela go iežas ruovtturiikka váldoálbmoga giela .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Oovtâstpargo vaikut meid sämikielâ paijeentolâmân já iäláskitmân , ko kuáhtáádijn eres enâmij nuorâid lii pággu sárnuđ eres kielâ ko jieijâs päikkieennâm válduaalmug kielâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Davvisámegiella lea sámegielain viidásepmosit hállojuvvon giella , ja dat lea atnugiellan dávjá .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tavesämikielâ lii sämikielâin vijđásumosávt sarnum kielâ , já tot lii távjá kevttimkiellân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Davvisámegiela leat máŋgii gohčodan ” sápmelaččaid eaŋgalsgiellan ” .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tavesämikielâ lii maŋgii nomâttum ‘ sämmilij eŋgâlâskiellân ’ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eará olbmuid deaivvadettiin hállangiella ii leat goittotge automáhtalaččat sámegiella , daningo muhtun sámegielat leat nu guhkkin nuppiideasetguin ahte gulahallan lea váttis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kuhtáádijn sárnumkielâ ij kuittâg lah automaatlávt sämikielâ , ko motomeh sämikielah láá nuuvt kukken nubijnis , et savâstâllâm lii väädis .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dan lassin leat sápmelaččat , geat leat mássán iežaset giela .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasseen láá sämmiliih , kiäh láá monâttâm kielâs .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gulahallangiellan doaibmáge máŋgii eaŋgalsgiella .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Savâstâllâmkiellân tuáimá-uv viehâ távjá eŋgâlâskielâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bissovaš ovttasbargu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Oovtâstpaargon vuáhádum sajattâh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovttasbarggu geahččalit geažos áigge buoridit ja ovddidit , ja das geahččalit oažžut stáđásmuvvan ja iešalddis čielga ášši sámenuoraide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Oovtâstpargo viggâp čoođâg pyerediđ já ovdediđ , já tast viggâp toohâđ vuáhádum já jiešmeidlist čielgâ ääši säminuoráid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Fárrui geahččalit oažžut ođđa olbmuid ja doaimma geahččalit viiddidit .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Fáárun viggâp uážžuđ lase uđđâ muáđuid já tooimâ viggâp šoddâdiđ vijđásubbon .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhusaid geahččalit ordnet máŋggabealagabbot ja dávjjibut , daningo dál oktasaš dáhpáhusat leat ovttasbarggu aktiivvalašvuođas gitta dušše moddii jagis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tábáhtusâid viggâp orniđ maaŋgâpiälásubbon já tävjibeht , ko tääl ohtsiih tábáhtusah láá oovtâstpargo aktiivlâšvuođâ keežild tuše motomeh ivveest .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dan lassin ovttasbarggu Ruoššain geahččalit lasihit , daningo dat lea unnit go Suoma , Ruoŧa ja Norgga gaskasaš ovttasbargu .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasseen oovtâstpargo eromâšávt Ruoššáin viggâp lasettiđ , ko tot lii ucceeb ko Suomâ , Ruotâ já Taažâ koskâsâš oovtâstpargo .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Laura-Maija jáhkká iežas vásáhusaid vuođul ahte boahttevuohta lea čuovgat , daningo buohkain leat seamma vuolggasajit ja oppalohkái buohkat leat leamašan beroštuvvan dahkat ovttasbarggu sámenuoraid ovdii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laura-Maija osko jieijâs vuáttámušâi vuáđuld , et puátteevuotâ lii čuovvâd , ko puohâin láá siämmááh vuolgâsajeh já almolávt puohâin lii lamaš mielâkiddiivâšvuotâ porgâđ oovtâstpargo säminuorâi oovdân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Laura-Maija lohká buorrin mearkan dan , ahte beroštupmi gávdno juohke bealde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laura-Maija iätá et lii šiev merkkâ , ko mielâkiddiivâšvuotâ kávnoo jyehi kuávlust .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dat dáhkida dan , ahte ovttasbargu lihkostuvvá ja boahtá joatkašuvvat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tot täähid tom , et oovtâstpargo luhostuvá já šadda jotkuđ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Go ovttasbargu stáđásmuvvá , de das šaddá bissovaš ja lunddolaš oassi sámenuoraid doaimma .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ko oovtâstpargo vuáháduvá , te tast šadda pissoo já luándulâš uási säminuorâi tooimâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ruoŧabeale sámedikki nuoraidlávdegotti ovddasteaddji Helena Partapuoli kommentere maiddái ovttasbarggu ja lohká ahte ovttasbargu mii čielgasit oidno leat konferánssat ja čoahkkimat , maidda nuorat olles Sámis čoahkkanit ságastit sápmelaččaid boahtteáiggi birra .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ruotâpele sämitige nuorâilävdikode ovdâsteijee Helena Partapuoli kommentist še oovtâstpargo já iätá oovtâstpargo enâmustáá uáinojeijee häämmin lemin konfereensah já čuákkimeh , main nuorah jyehi kuávlust Sämienâmist čokkâneh savâstâllâđ sämmilij puátteevuođâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Partapuoli muitala : “ Buot konferánssat , mat leat leamaš jagiid mielde čájehit čielgasit ahte mii leat álbmot ja mii háliidit ovttasbargat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Partapuoli pááhud : ” Puoh iivij miätá uárnejum konfereensah láá čielgâsávt čáittám , et mij lep aalmug já halijdep porgâđ oovtâstpargo .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Boađus juohke konferánssas lea ahte nuorat háliidit buorit oktavuođa , vai Sápmi sáhttá ovdánit .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Jyehi konferens puáđus lii , et nuorah halijdeh pyerebijd ohtâvuođâid vâi Säämi puávtáččij ovdániđ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Diibmá čakčat doalai Suoma Sámedikki Nuoraidlávdegoddi konferánssa Suoločielggis ja doppe mii mearrideimmet ahte mii háliidit oktasaš nuoraidlávdegotti riikkaid gaskkas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Moonnâm čoovčâ Suomâ sämitige nuorâirääđi toolâi konferens Suáluičielgist já tobbeen meridijm , et halijdep ohtsii nuorâi lävdikode .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>De maŋŋelas leai Sámi parlamentáralaš ráđi čoahkkin Girkonjárggas ja nuoraidlávdegottit dolle logaldallamiid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Maŋeláá Säämi parlamentaarlâš rääđi ( SPR ) toolâi čuákkim Kirkkonjaargâst já nuorâi lävdikodeh tollii tobbeen ovdâsaavâid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mii muitaleimmet maid mii bargat iešguđet nuoraidlávdegottis , makkár váttisvuođat ja makkár vuordámušat mis leat boahtteáiggis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Muštâlijm maid mij porgâp nuorâi lävdikuudijn sehe magareh hástuseh já vuárdámušah mist láá puátteevuođâ háárán .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>SPR mearridii ahte oktasaš nuoraidlávdegoddi lea dárbbašlaš .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SPR meridij et ohtsâš nuorâilävdikodde lii tárbulâš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovttasbargu sámenuoraid gaskkas lea hui dehálaš danin go mii leat boahtteáigi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säminuorâi oovtâstpargo lii uáli tehálâš ko mij lep puátteevuotâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámis eai galggaše rájit leahkit , danin go mii leat okta álbmot . ”</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämienâmist iä kolgâččii leđe rääjih , ko mij lep ohtâ aalmug . ”</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Partapuoli joatká ja muitala ahte ovttasbarggu ulbmilin lea iešmearrideapmi ja ahte Ruošša , Suopma , Ruoŧŧa ja Norgga duođain dohkkehivčče sápmelaččaid vuoigatvuođaid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Partapuoli juátká já muštâl oovtâstpargo mittomere lemin jiešmeridemvuoigâdvuotâ , já et Ruoššâ , Suomâ , Ruotâ já Taažâ tuođâi tubdâstiččii sämmilij vuoigâdvuođâid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Juohke riikkas leat iešguđet váttisvuođat ja vuoigatvuođat , lea dehálaš ahte mii ovttasbarggu čađa sáhttit ovdánit .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Jyehi staatâst láá jieijâs probleemeh já vuoigâdvuođâvuáháduvah , nuuvtpa lii tehálâš et pyehtip ovdániđ oovtâstpargo vievâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Jus mii eat bargga ovttas de sáhttá Sápmi “ mollanit ” .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Jis ep poorgâ oovtâstpargo , te lii vaarâst et Sämieennâm ” pieđgân ” .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Partapuoli loahpaha iežas kommeantta : “ Mii sápmelaččat leat guhká bargan politihkalaččat buoridan dihte min vuoigatvuođaid , ja mis lea ain guhkes mátki .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Partapuoli looppât kommenttis : ” Mij sämmiliih lep toimâm kuhháá politiikâst jieččân vuoigâdvuođâi pyereedmân já mist lii ain-uv kuhes kiäinu jotteemnáál .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Min bargovuohki leat čoahkkimat ja konferánssat ja dat leat dán rádjái leamašan buorre vuohki .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mii pargovyevih láá čuákkimeh já konfereensah , já taan räi toh láá lamaš šiev pargovyevih .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Juohke čoahkkimis leat buorit ságat ja mearrádusat , das de sáhttá joatkit bargat stáhtaid , ON .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Jyehi čuákkimist toollâp šiev savâstâlmijd já porgâp šiev miärádâsâid , mast puáhtá tastoo juátkiđ pargo OA .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>, EO ja Sámedikkiid guvlui .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>, EU já sämitige kulij .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Okta hui dehálaš oassi dán barggus leat ahte mii gávdnat nuoraid geat háliidit bargat politihkalaččat ja dat lea hástalus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ohtâ uáli tehálâš uási taam pargo lii kavnâđ nuorâid , kiäh halijdeh toimâđ politiikâst , já tot lii háástus .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mon oainnán čuvges boahttevuođa vaikko Sámis juste dal leat hui ollu hástalusat ja váttisvuođat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mun uáinám puátteevuođâ čuovâdin , veikkâ Sämienâmist láá eidu tääl ennuv hástuseh já čuolmah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Danin go nuorain lea iežá oaidnu ja eat leat vel vavdan boares luottaide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorâin láá sierâlágáneh uáinuh , epke lah vala áhásâm puáris pálgáid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuorat oidnet vuoigatvuođaid iežá ládje , rájit olbmuid ja riikkaid gaskkas eai leat seammá čielgasat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorah uáinih vuoigâdvuođâid eres náálá , rääjih ulmui já enâmij kooskâ iä lah siämmáá čielgâseh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mu mielas lea juohke konferánsa mas lean oassálasttán addán munnje vuoimmi , olbmot váldet vuhtii mu jurdagiid ja seammás beasan gullát ieža olbmuid oaiviliid . ”</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Muu mielâst jyehi konferens , moos lam uásálistám , lii adelâm munjin vyeimi , ulmuuh väldih vuotân muu jurduid já siämmást peesâm kuldâliđ sii uáivilijd . "</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govas Ruoŧa sámedikki nuoraidlávdegotti Helena Partapuoli .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kooveest Ruotâ sämitige nuorâilävdikoodán kullee Helena Partapuoli .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gova váldán Laila Stenberg .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kove lii váldám Laila Stenberg .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eará govaid váldán Sergey Gavrilov .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Eres kuuvijd lii váldám Sergey Gavrilov</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lasi su váldán govaid gávnnat dá .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lase suu váldám kuuvijd kaavnah tääbbi .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anárašgiella</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Aanaarkielâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Geahča oanehisvideo anárašgiela dili birra</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Keejâ uánihisvideo aanaarsämikielâ tiileest</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Rap artista Amoc alias Mikkâl Antti Morottaja dahká musihka anárašgillii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Räppär Amoc alias Mikkâl Antti Morottaja ráhtá muusik aanaarsämikielân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Amoca ja rap musihka bokte maid mánát beroštišgohtet giela hállamis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Amoc ja räp pehti meid párnááh tobdeh mielâkivviivâšvuođâ kielâ sárnumân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Räppäreh : Mikkâl Antti Morottaja , Jouni Petteri Morottaja</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bagadallan / čuohppan : Ima Aikio-Arianaick , govven : Antti Kyrö</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stivrim / čuoppâm : Ima Aikio-Arianaick , kuvvim : Antti Kyrö</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Buvttadeapmi : Sámi oahpahusguovddáš 2004</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pyevtittâs : Säämi máttááttâskuávdáš 2004</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

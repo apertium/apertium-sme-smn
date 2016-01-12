@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Prošeavttat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámekulturguovddáš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi mánáidkulturguovddaš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Skábma Filbmaguovváš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikulttuurkuávdáš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámemusihkkaguovddáš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Párnáikulttuurkuávdáš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi Giellagáldu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi muusikkuávdáš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegielat giellalávgun skuvllas</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SaKaste Säämi kielâlávgum škoovlâst</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi mánáidkulturguovddaš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi párnáikulttuurkuávdáš</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

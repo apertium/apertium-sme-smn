@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Buresboahtin almmustahttindilálašvuohtii !</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pyereestpuáttim almostittemtilálâšvuotân</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámekulturguovddáža NAMMAGILVVU bohtosiid ja gilvvu vuoitievttohusa almmustahttindilálašvuohta lágiduvvo gaskavahko miessemánu 12. beaivve 2010 dmu 12.00 Siidda auditoriijas Anára girkosiiddas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kulttuurkuávdáá NOMMÂKIŠTO puátusij já kišto vyeitteeiävtuttâs almostittemtilálâšvuotâ läjiduvvoo koskoho vyesimáánu 12. peeivi 2010 tme 12.00 Siijdâ auditoriost Aanaar kirkkosiijdâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dilálašvuohta lea rabas buohkaide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tilálâšvuotâ lii áávus puohháid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Buresboahtin !</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pyereestpuáttim !</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

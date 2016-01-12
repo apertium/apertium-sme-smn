@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toimâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doaibma</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oahppamateriálabargu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Škovlim Oppâmateriaalpargo</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sosiála- ja dearvvašvuohta</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sosiaal- já tiervâsvuođâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sosiálasuorggi máhttinguovddáš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sosiaalsyergi mättimkuávdáš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuoraid dáiddadáhpáhus</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorâi taaidâtábáhtus</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Artikla 8(j ) olášuttem</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikkis sámegillii laktáseaddji áššiin vástida sámi giellaráđđi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielân lohtâseijee aašijn Sämitiggeest västid säämi kielârääđi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi giellaráđi lahtuid gaskkas sámediggi vállje ovddasteaddjiid maiddái sámi parlamentáralaš ráđi vuollásažžan doaibmi oktasaš giellalávdegoddái</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kielârääđi koskâvuođâst väljee sämitigge ovdâsteijes meid säämi parlamentaarlâš rääđi vuálásâžžân tuáimee säämi kielâlävdikoodán .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dasa lassin sámedikkis lea</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>sámegiela doaimmahat , mii vástida ee. sámi giellaláhkii laktáseaddji jorgalusaid doaimmaheamis eiseválddiide , bargá sámegiela sajádaga buorideami buorrin ja oassálastá terminologiijaprošeavttaide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasseen sämitiggeest lii sämikielâ toimâttâh , mii västid ereslasseen säämi kielâlaahân lohtâseijee jurgâlusâi tooimâtmist virgeomâháid , parga sämikielâ sajattuv pyereedmân sehe uásálist sierâlágán terminologia projektáid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SáFá- ovdâčielgiittâshaavâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>SáFá - davviriikkalaš sámi giellafágaguovddáža ásaheami čielggadus</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kielâtaho - palhâšume Kollekielâ – Tave-eennâmlâš sämikielâ kielâpalhâšume</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi gielladahku - bálkkašupmi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kielâ- já jurgâlempalvâlusah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gollegiella - Davviriikkalaš sámegiela giellabálkkašupmi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegielat bálvalusat interneahtas</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâg palvâlusah interneetist</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâ toimâttuv palvâlemmáávsuh pajaneh 1.1.2011</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki sámegiela doaimmahaga ( maŋŋelaš gielladoaimmahat ) bálvalusmávssut badjánit 1.1.2011 rájes .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige sämikielâ toimâttuv ( maŋeláá kielâtoimâttâh ) palvâlemmáávsuh pajaneh 1.1.2011 rääjist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Jorgalanbálvalusaid mávssut loktanit 45 euros 65 euroi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Jurgâlempalvâlusâi máávsuh pajeduvvojeh 45 eurost 65 euron .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Jorgalanbálvalusat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Jurgâlempalvâlusah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gielladoaimmahaga addin jorgalusas berrojuvvo máksu suomagielas sámegillii dahje nuppe gežiid 65 euro siiddus 2000 mearkka , mii ii sisttisdoala gaskamearkkaid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kielitoimâttuv adelem jurgâlusâst piärroo máksu suomâkielâst sämikielân teikâ nubujkejij 65 eurod siijđost 2000 merkkâd , moos iä kuulâ koskâmeerhah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gielladoaimmahaga eará bálvalusat leat dulkonbálvalus ja eará gielalaš bálvalusat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kielitoimâttuv eres palvâlusah láá tulkkumpalvâlusah já eres kielâliih palvâlusah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bálvalusmávssut leat ovddit háve bajiduvvon 22.2.2005 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Palvâlemmáávsuh láá ovdebáá keerdi pajejum ive 2005 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dárkkit čilgehus bálvalusaid mávssuid birra gávnnat dás : Jorgalanbálvalusat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Täärhib čielgiittâs palvâlemmáávsuin kávnoo täst : Jurgâlempalvâlusah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- Gielladoaimmahat jorgala váldoáššis áššegirjejorgalusaid , dadjá gielladorvočálli Siiri Jomppanen .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>– Kielâtoimâttâh jurgâl válduášálávt äššikiirjijd , iätá kielâtorvočällee Siiri Jomppanen .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Freelancer-jorgaleaddjit fuolahit dábálaččat guhkit jorgalusteavsttain , dego čáppa- ja diehtogirjjálašvuođa teavsttain ja oahppomateriálain , joatká Jomppanen .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Freelance - jurgâleijeeh huolâtteh táválávt kuhebijn jurgâlusâin , tegu čaabâ- já tiätukirjálâšvuođâ teevstâin já oppâmateriaalâin , juátká Jomppanen .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gielladoaimmahat fuolaha láhkateavsttaid jorgaleamis sámegielaide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kielâtoimâttâh huolât asâttâsteevstâi jurgâlmist sämikieláid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doaimmahagas jorgaluvvo ollu čoahkkinbovdehusaid , áššelisttáid , beavdegirjjiid , muitalusat , plánat ja bušeahttaárvalusat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ennuv jurgâluvvojeh še čuákkimij äššikirjeh tegu čuákkimpovdiittâsah , äššilistoh , pevdikirjeh , muštâlusah , vuáváámeh já budjeteh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eará jorgaluvvon teavsttat leat iešguđege eisseválddiid skovit ja prentosat , almmuhusat , gulahusat ja dieđáhusat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Eres äššikirjeh , moh jurgâluvvojeh , láá jieškote-uv virgeomâhái luámáttuvah já olgosadalduvah , almottâsah , kulluuttâsah já tiäđáttâsah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lassin jorgaluvvojit eisseválddiid mearrádusat , lohpeáššit dego birasteknihkalaš áššegirjjit sihke brošyrat , galbbat , neahttasiiddut ja risttalaš teavsttat dego rohkosat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasseen jurgâluvvojeh virgeomâhâšmiärádâsah , lopeääših , tegu pirâsteknisiih äššikirjeh sehe tieđettemčáluseh , koolbah , viärmádâhsiijđoh já oskoldâhliih teevstah , tegu rukoseh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gielladoaimmahat koordinere jorgalandoaimma ja dakkár dáhpáhusas , mas gielladoaimmahagas lea hohpolaš jorgalandilli , rávvejuvvo jorgalusa diŋgojeaddji váldit oktavuođa freelancer-jorgaleaddjiide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kielâtoimâttâh koordinist jurgâlemtooimâ já tagarijn tábáhtusâin , main kielitoimâttuv jurgâlemtile pokkâšuvá , stivrejuvvoo tiilájeijee väldiđ ohtâvuođâ freelance-jurgâleijeid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gielladoaimmahagas lea listu sámegiela jorgaleaddjiin ja dulkkain , geat leat addán lobi almmuhit oktavuođadieđuideaset .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kielâtoimâttâh tuálá luvâttâllâm tain sämikielâ jurgâleijein já tuulhâin , kiäh láá adelâm love ohtâvuođâtiäđuidis almostmitmân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sin oktavuođadieđuid gávdná maid sámedikki interneahttasiidduin čujuhusas www.samediggi.fi - Dokumeantat - Jorgaleaddjit ja dulkkat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sii ohvuođâtiäđuh kávnojeh meiddei Sämitige päikkisiijđoin čujottâsâst www.samediggi.fi – Dokumeentah – Jurgâleijeeh já tuulhah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oanehaččat sámegiela doaimmahaga birra</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uánihávt sämikielâ toimâttuvâst</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki sámegiela doaimmahat ollašuhttá doaimmaid sámi giellalága ja – ásahusa mielde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige sämikielâ toimâttâh olášit säämi kielâlaavâ já - asâttâs miäldásijd pargoid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gielladoaimmahat fuolaha lágas oaivvilduvvon jorgalusaid doaimmaheamis iešguđege eiseválddiide ja lágádusaide , veahkeha daid sámegielat dulkkaid skáhppomis ja eará sámi giellalágas oaivvilduvvon bargguin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kielâtoimâttâh huolât laavâst uáivildum jurgâlusâi tooimâtmist jieškote-uv virgeomâháid já lájádâssáid , iššeed taid sämikielâ táiđusij tuulhâi hahâmist sehe eres säämi kielâlaavâst uáivildum pargoin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gielladoaimmahat vuođđuduvvui jagis 1992 , go sámi giellaláhka bođii fápmui .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kielâtoimâttâh vuáđudui ive 1992 , ko säämi kielâlaahâ šoodâi vuáimán .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Guokte vuosttas giellajorgaleaddji álggaheigga barggu jagis 1992 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ton kyehti vuossâmuu kielâjurgâleijee algâttáin pargoos ive 1992 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasetiäđuh : kielâtorvočällee Siiri Jomppanen , puh 010 839 3111 , ovdânommâ.suhânommâ@samediggi.fi</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

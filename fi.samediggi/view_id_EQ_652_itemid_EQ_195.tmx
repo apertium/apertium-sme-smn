@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čoahkkinlatnja Sisti heive unna čoahkkimii dahje joavkobargui 15-20 olbmui .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čuákkimviste Sisti Čuákkimviste Sisti heivee pargoujuávkkutilen 15-20 ulmui .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sisti lea goalmmát gearddis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sisti lii kuálmád keerdist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sisti lii tavesämikielâ já meerhâš šišne .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SAIJAASVUOTÂ :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>STURRODAT Viidodat : 40 m2</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vijđodâh:40 m2 KAPASITEET :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>KAPASITEAHTTA : * Diplomáhtahámis : 15-20 olbmui TEKNIHKKA JA RUSTTEGAT :</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Diplomaathäämist : 15-20 ulmui TEKNIIK JÁ PIERGÂSEH :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Blueray-čuojânâs</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Lostâdâhtavlu</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Huám ; visteest iä lah laasah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Fuom ! lanjas eai leat lásat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>LASEMÁÁVSUST / SIERÂTIILÁÁMIST :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Videoráđđádallanteknihkka ja - oktavuohta</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Videoráđádâllâmtekniik já - ohtâvuotâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Čoahkkinfáladeamit .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Čuákkimfaalâdmeh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Galgá diŋgot ovddalgihtii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kalga tiilááđ muuneeld .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámekulturguovddáš Sajosa váldogeavaheaddji sámediggi ohcá Sajosii</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kulttuurkuávdáš Sajos váldukevttee sämitigge ocá Sajosân</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Áššehašrávvejeaddji</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Äššigâšrävvejeijee</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>mearreáigásaš ja ollesbeaivásaš virgegaskavuhtii 4.6. – 31.8.2012 gaskasaš áigái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>meriáigásâš já olespiäiválâš virgekoskâvuotân 4.6. – 31.8.2012 koskâsii ááigán .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Áššehasrávvejeaddji bargun lea dikšut Sajosa infobáikki , fuolahit čoahkkinlatnjavárremiin , johtaleamigohcimis ja maiddái čoahkkin- ja dáhpáhusordnedallamiin ja lassin čájehit Sajosa vistti .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Äššigâšrävvejeijee pargon lii tipšođ Sajos infočuágástuv , huolâttiđ čuákkimsajeväärridmijn , jotteemkocemist sehe čuákkim- já tábáhtusorniimijn sehe vala oovdânpyehtiđ Sajos táállun .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

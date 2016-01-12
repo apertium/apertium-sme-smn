@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Geahča oanehisvideo vuovdaguoikalaš Niillasa birra .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Niiles Keejâ uánihisvideo vuovdâkuoškâlii Nijlâsist</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Niillas orru Vuovdaguoikkas Ohcejoga gielddas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Niijlâs áásá Vuovdâkuoškâst Ucjuv kieldâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Skuvlii ja gillái lea mátki 30 km ja áigi gollá guollebivddus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Škoovlân já siijdân lii mätki 30 km já äigi kolá kyelipiivdost .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Muhtumin Niillas idjada áhči ja unnavielja luhtte Norgga Kárášjogas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Motomin Niijlâs ijâstâl eeji já uccâviljii lunne Taažâ Kárášjuuvâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Váldoolmmoš : Niillas West</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Válduolmooš : Niiles West</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bagadallan / govven / čuohppan : Jovnna West</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stivrim / kuvvim / čuoppâm : Jouni West</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Buvttadeapmi : Sámi oahpahusguovddáš 2008</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pyevtittâs : Säämi máttááttâskuávdáš 2008</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Guhkkodat : 0,44</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kukkodâh : 0,44</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

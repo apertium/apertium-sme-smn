@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámekulturguovddáš Sajosa huksenagoartta ollašuhttin Senaatti-kiinteistöt lea válljen Keski-Suomen Betonirakenne Oy ( KSBR ) .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kulttuurkuávdáá Sajos huksimurko olášutten lii Senaatti-kiddoduavh valjim Keski-Suomen Betonirakenne Oy ( KSBR ) .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>KSBR bargá agoartan maiddái kulturguovddáža vuođđobargguid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>KSBR urkkod meiddei kulttuurkuávdáá vuáđupargoid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Huksenagoarta álgá golggotmánu álggus 2010 ja bistá skábmamánu 2011 rádjai .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Huksimurkko álgá roovvâdmáánu aalgâst 2010 já pištá skammâmáánu 2011 räi .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

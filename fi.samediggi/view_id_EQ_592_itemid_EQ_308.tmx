@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Jahki 2013 Jahki 2012</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Saijoos lekkâmeh 2012</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sajosa rahpan 2012</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Saijoos taiđuuh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sajosa dáidagat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Härjijuhleh 2011</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Hárjjiceggenávvudeapmi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vuođu muvrendilálašvuohta</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuáđukeeđgi muvrámtilálâšvuotâ 2010</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sajosa dáidagat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Saijoos taiđuuh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Outi Pieski ;</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Outi Pieski ;</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

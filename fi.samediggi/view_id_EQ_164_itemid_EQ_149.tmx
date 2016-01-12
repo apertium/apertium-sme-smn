@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámekulturguovddáža arkitektuvragilvvu barggut</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kulttuurkuávdáá arkkitehtkišto kištopargoh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámekulturguovddáža arkitektuvragilvvohallama vuosttaš muddu nogai 30.6.2008 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kulttuurkuávdáá arkkitehtkišto 1. muddo nuuvâi 30.6.2008 . Meriááigán pottii</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mearreáigái bohte oktiibuot</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>58 gilvvohallanevttohusa .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>58 kištoiävtuttâssâd .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi ohcá mearreáigásaš prošeaktačálli</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge ocá meriáigásii projektčällee</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi ohcá mearreáigásaš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge ocá meriáigásii</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>prošeaktačálli</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>projektčällee</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sáfá2-prošektii ( Sámi Giellagáldu ) .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sáfá2- projektin ( Säämi Kielâkäldee ) .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargu álgá soahpamuša mielde ja bistá 30.6.2014 rádjai .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargo álgá sopâmuš mield já pištá 30.6.2014 räi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Prošeaktačálli bargui gullet prošeavtta beaivválaš doaimmahatbarggut , čoahkkimiid ordnen ja prošeavtta rehketdoallobargguid dikšun .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargái sáhttet maiddái biddjot eará barggut , mat gullet davviriikkalaš sámegiela fága- ja resursaguovddáža doibmii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Projektčällee pargoid kuleh projekt piäiválâš toimâttâhpargoh , čuákkimij ornim sehe projekt ruttâtuálupargoh .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

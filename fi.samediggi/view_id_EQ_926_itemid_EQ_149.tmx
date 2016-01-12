@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki stivrra čavčča vuosttas čoahkkima mearrádusat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige stiivrâ čoovčâ vuossâmuu čuákkim miärádâsah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki stivra čoahkkanii 16.9.2014 čavčča vuosttas čoahkkimii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige stivrâ čokkânij 16.9.2014 čoovčâ vuossâmuu čuákkimân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stivra dohkkehii evttohusaid Lappi eanagoddeprográmma dahjege Lappi-soahpamuša ollašuhttinplánan jagiide 2015-2016 sámekultuvrra oasil .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stivrâ tuhhiittij iävtuttâsâid Laapi eennâmkoddeohjelm ađai Lappi-sopâmuš tooimânpieijâmvuáváámmin ivvijd 2015-2016 sämikulttuur uásild .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi evttoha ollašuhttinplánii oktiibuot čieža sierra fidnu .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge iävtut tooimânpieijâmvuáváámân ohtsis čiččâm sierâ projektid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki iežas fidnut dáin leat vihtta .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige jieijâs projekteh tain láá vittâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki iežas fidnut leat 1 ) Sámi Giellagáldu – davviriikkalaš sámegielaid resursaguovddáš , 2 ) Sámeealáhusaid ovddideapmi ja ealáhusfoandda vuođđudeapmi – fidnu , 3 ) Oahppoofelaš-sámenuoraide oaivvilduvvon oahppoofelaš ( Sámedikki nuoraiddráđđi ) , 4 ) Sámeoahpahusa ovddidanfidnu , 5 ) Sámegiela hálliid meari čielggadeapmi ja sámi giellalága ollašuvvan - fidnu .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige jieijâs projekteh láá 1 ) Säämi Kielâkäldee – ohtsâštave-eennâmlâš sämikielâi reesuurskuávdáš , 2 ) Sämi-iäláttâsâi ovdedem já iäláttâsruttârááju vuáđudem – proojeekt , 3 ) Oahppoofelaš-säminuoráid uáivildum uáppuraavâkirje ( Sämitige nuorâirääđi ) , 4 ) Sämimáttááttâs ovdedemproojeekt , 5 ) Sämikielâ sárnoi mere selvâttem já säämi kielâlaavâ olášum – proojeekt .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi evttoha lassin ahte ollašuhttinplánii váldojuvvošii Tä ´lvvsijdd – ealli nuortalaš kultuvrra guovddáš – huksenfidnu .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge iävtut lasseen , ete tooimânpieijâmvuáváámân väldih Tä ´lvvsijdd – ellee nuorttâlâšâi kulttuur kuávdáš – huksimproojeekt .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi maid evttohii , ahte Lappi lihttu válmmaštalašii fidnu sámiid ruovttuguovllu eallinvuoimmi dorvvasteami várás ja skuvlejuvvon sámegielat veahkadaga hohkahallama várás ruovttoluotta sámiid ruovttuguvlui .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge meid iävtuttij , ete Laapi litto valmâštâlâččij proojeekt sämikuávlu eellimvuáimálâšvuođâ turviimân já škuávlejum sämikielâlii aalmug hokâttâlmân maasâd sämikuávlun .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi doarjjui Ohcejoga gieldda dahkan evttohusaid ollašuhttinplánii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge tuárjui Ucjuv kieldâ toohâm iävtuttâsâid tooimânpieijâmvuáváámân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi dagai evttohusaid eanagotti oktasašbargoáššegirjái sámekultuvrra oasil .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge toovâi iävtuttâsâid eennâmkode oovtâstpargoäššikiirján sämikulttuur uásild .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stivra dohkkehii cealkámuša ráđđehusa evttohushápmosis sosiála- ja dearvvasvuođafuolahusa ordnenláhkan .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stivrâ tuhhiittij ciälkkámuš haldâttâs oovdânpyehtimhammiittâsâst sosiaal- já tiervâsvuođâhuolâttâs ornimlaahân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi giddii cealkámušastis fuopmášumi máŋggaide ráđđehusa evttohushápmosa problemáhtalaš báikkiide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge kiddij ciälkkámušâstis huámmášume maŋgáid haldâttâs oovdânpyehtimhammiittâs čuolmâsoojijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi lea fuolas das , ahte evttohusa váikkuhusat eai leat doarvái dutkojuvvon eaige čielggaduvvon .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge lii huolâstum tast , ete oovdânpyehtim vaikuttâsâid iä lah tuárvi tutkâm iäge selvâttâm .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Evttohus váikkuha dovdomassii vuođđorivttiide ja evttohusa váikkuhusat galggašedje leat bures ja sorjjasmeahttun vugiin árvvoštallojuvvon .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Oovdânpyehtim vaaikut merhâšitteht vuáđuvuoigâdvuođáid já oovdânpyehtim vaikuttâsah kolgâččii leđe pyereest já pelettemeht árvuštâllum .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi deattuhii cealkámušastis , ahte bálvalusaid čohkken ovtta sadjái ii oaččo heajudit vuođđorivttiid iige doalvut govttohis guhkes gaskkaide vuođđobálvalusaid lusa .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge tiäduttij ciälkkámušâstis , ete palvâlusâi kuávdásmittem ij uážu hiäjusmittiđ vuáđuvuoigâdvuođâid ige jođettiđ merettemes kuhes koskáid vuáđupalvâlussáid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ráđđehusa evttohushápmosis sosiála- ja dearvvasvuođafuolahusa ordnenláhkan evttohuvvo vehádatgiela juhkosa vuođđudeami ordnenguvlui .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stiivrâ oovdânpyehtimhammiittâsâst sosiaal- já tiervâsvuođâhuolâttâs ornimlaahân iävtutteh ucceeblovokielâ juáhus vuáđudem ornimkuávlun .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámiid ruovttuguvlui evttohuvvon sámegiela lávdegotti lahtuid válljenmálle lea Suoma láhkamearrádusaid vuostá .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikuávlun iävtuttum sämikielâ lävdikode jesânij valjimmalli lii Suomâ lahâasâttem vuástásâš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Paragráfaevttohusa ( 24 § ) mielde lávdegotti lahttun válljejuvvojit sámedikki birra addojuvvon lága ( 974/1995 ) 3 §:s oaivvilduvvon sápmelaččat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Cekki-iävtuttâs ( 24 § ) mield lävdikode jesânin väljejeh sämitiggeest adelum laavâ ( 974/1995 ) 3 §:st uáivildum sämmilijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggelága 25 a §:a 2 mielde sámedikki válgalogahallan galgá dollot suollemassan .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitiggelaavâ 25 a § 2 mield sämitige vaaljâluvâttâllâm kalgeh toollâđ syeligâsâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi evttohage ahte láhka dárkkálmahttojuvvošii nu , ahte ovddasteaddjiid sámegiela lávdegoddái nammada sámediggi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge iävtut-uv , ete laavâ tärkkilisteh nuuvt , ete ovdâsteijeid sämikielâ lävdikoodán noomât sämitigge .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lávdegottis galget leat ovddasteaddjit sierra sámegiela joavkkuin ja sámi ruovttuguovllu sierra gielddain sihke nuortalaččaid giličoahkkimis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdâsteijein kalgeh leđe ovdâstum jieškote-uv säämi kielâjuávhuh já jieškote-uv sämikuávlu kieldâi äššitubdâm sehe nuorttâlâšâi sijdâčuákkim nomâttem ovdâsteijee .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi ja sosiála- ja dearvvasvuođaministeria ráđđádallet evttohusa birra 22.9.2014 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge já sosiaal- já tiervâsvuođâministeriö ráđádâleh oovdânpyehtimist 22.9.2014 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stivra dohkkehii bealiváldima sosiála- ja dearvvasvuođaministeriai ja riikkabeivviide Davvi-Suoma sosiálasuorggi máhttinguovddáža mearreruhtageahpedemiin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stivrâ tuhhiitij peleväldim sosiaal- já tiervâsvuođâministeriön já ovdâskoodán Tave-Suomâ sosiaalsyergi mättimkuávdáá meriruttâčuopâdâsâin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Davvi-Suoma sosiálasuorggi máhttinguovddážii juolluduvvon mearreruđas gáibiduvvo geavahuvvot 1,5 % sámegielat veahkadaga dárbbuide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tave-Suomâ sosiaalsyergi mättimkuávdážân mieđettum meriruuđâst väätih kevttiđ 1,5 % sämikielâlii aalmug tárboid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ruhtadeapmi lea stivrejuvvon sámediggái , man sámeovttadagas bargá dál okta plánejeaddji .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ruttâdem lii stivrejum sämitiigán , mon sämiohtâduvvâst parga taantovváá ohtâ vuávájeijee .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ruhtaministeria bušeahttaevttohusas máhttinguovddážiid mearreruhta evttohuvvo geahpeduvvot 33 % dálážis oktiibuot miljovnnain euroin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Staatâvarijministeriö budjetiävtuttâsâst mättimkuávdáá meriruuđâ iävtutteh čuoppâđ 33 % tááláást ohtsis miljovn euroin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámeovttadaga ruhtadeapmi geahpeduvvui juo dán jagi 7000 euroin 45 000 euroi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämiohtâduv ruttâdem čuoppii jo taan ive 7000 euroin 45 000 euron .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stáhtaossodatgeahpedeapmi oaivvilda ollašuvadettiin sámeovttadaga oasil dan , ahte plánejeaddji bargomearri rievddašii oasseáigásažžan ja ovttadaga doaibma geahppánivččii čielgasit dálážis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Staatâuásičuoppâm uáivild olášuudijn sämiohtâduv uásild tom , ete vuávájeijee pargouási muttuuččij uásiáigásâžžân já ohtâduv toimâ kiäppáničij tááláást merhâšitteht .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi evttoha , ahte evttohuvvon mearreruhtačuohppamat eai čađahuvvoše ja ahte sierrastáhtadoarjja sámegielat veahkadaga bálvalusdárbbuid vuhtiiváldima várás seailluhuvvo uhcimuštá dála dásis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge iävtut , ete iävtuttum čuopâdâsah iä olášuttuu já ete spesiaalstaatâtorjuu sämikielâlii aalmug palvâlemtáárbui vuotânväldim várás siäilutteh ucemustáá tááláá tääsist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stivra dohkkehii evttohusa sosiála- ja dearvvasvuođa- ja oahpahus- ja kulturministeriaide , oahpahusráđđehussii ja sierra oahppolágádusaide doaibmabidjun sámegielat sosiála- , dearvvasvuođa- ja árrabajásgeassinsuorggi skuvlejuvvon bargoveaga oažžuma ovddideami várás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stivrâ tuhhiittij iävtuttâs sosiaal- já tiervâsvuođâ- já máttááttâs- já kulttuurministeriöid , máttááttâshaldâttâsân já sierâ oppâlájádâssáid toimân sämikielâlii sosiaal- , tiervâsvuođâ- já arâšoddâdemsyergi škuávlejum pargovievâ finnim oovdedmân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi evttoha gávcci sierra doaibmabiju , maid galggašii váldit vuhtii skuvlema plánemis , skuvlemis ja hovdenbarggus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge iävtut käävci sierâ toimâd , maid kolgâččii väldiđ vuotân škovlim vuáváámist , škovliimist já hovdâpargoost .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi ee. evttohii ahte ordnejuvvo sámegiela ja kultuvrra dievasmahttin- ja lasseskuvlen , mii plánejuvvo namalassii dikšosuorggi bargiid várás oppa riikkas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge el . iävtuttij ohtâgâslávt vuávájum sämikielâ já – kulttuur tievâsmittem- já laseškovlim ornim tipšosyergi pargeid ubâ enâmist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi ásahii bargojoavkku válmmaštallat sámedikki bargoortnega oppalašođastusa .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge asâttij pargojuávhu valmâštâllâđ sämitige pargo-oornig olesuđâsmittem .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargojoavkku bargun lea gárvvistit evttohusaid bargoortnega ođasmahttima várás nu , ahte ođasmahtton bargoortnet livččii dohkkehuvvon jagi 2015 loahpa rádjai .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargojuávhu pargon lii rähtiđ iävtuttâsâid pargo-oornig uđâsmitmân nuuvt , ete uđâsmittum pargo-oornig ličij tuhhiittum ive 2015 loopâ räi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargojoavku galgá gullat barggustis bargiid ja váldit vuhtii láhkaásaheami ja hálddahusa oppalaš ovdáneami .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargojuávkku kalga kuullâđ pargostis pargovievâ já väldiđ vuotân lahâasâttem já haldâttuv almos ovdánem .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargojovkui nammaduvvojedje sámedikki ságadoallit , hálddahushoavda ja bargiid nammadan ovddasteaddji .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargojuávkun nomâttii sämitige saavâjođetteijeid , haldâttâhhoovdâ já pargovievâ nomâttem ovdâsteijee .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargojoavku dievasmahtto vel bargiid nammadan ovddasteaddjiin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargojuávhu tievâsmiteh lasseen pargovievâ nomâttem ovdâsteijein .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargojoavkku čállin nammaduvvui má láhkačálli .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargojuávhu čällen nomâttii má lahâčällee .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stivra mearridii evttohit sámedikki čoahkkimii hohpolaš áššin bargoortnega 56 § rievdadeami nu , ahte bovdehusat ja áššelisttut sámedikki čoahkkimiidda sáddejuvvošedje čieža beaivve ovdal čoahkkima dálá logi beaivve sajis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stivrâ meridij iävtuttiđ sämitige čuákkimân huápulâžžân pargo-oornig 56 § muttem tienuuvt , ete povdiittâsâid já äššilistoid sämitige čuákkimáid vuolgâttiččii čiččâm peivid ovdil čuákkim tááláá love peeivi saajeest .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Evttohusa sivvan lea dat , ahte dikki čoahkkima sáhttá gártat bovdet johtilit čoahkkái gieđahallat sámedikki válgalogahallama dievasmahttimis dahkkon njulgengáibádusaid ođđa sámediggelága mielde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Iävtuttâs suijân lii tot , ete tige čuákkim sättih kolgâđ čuákánkoččođ jotelávt kieđâvuššâđ sämitige vaaljâluvâttâllâm tievâsmitmist toohum njuolgimvátámâšâid uđđâ sämitiggelaavâ mield. .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stivra mearridii evttohit dievasčoahkkimii , ahte dat mearrida dievasčoahkkimiid almmolaš čoahkkimiid live-streamemis dahjege dievasčoahkkima sáddemis interneahta bokte .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stivrâ meridij oovdânpyehtiđ almosčuákkimân , ete tot meerrid almosčuákkimij almolij čuákkimij live-stream- vuolgâtmist ađai almosčuákkim videovuolgâtmist interneetân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Streamen boađášii máksit sullii 1000 euro jagis dan mielde , man guhká dievasčoahkkimat bistet ja galle dat leat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stream-vuolgâttâs sodâččij mäksiđ almosčuákkimij pištem já meerij mield suulân 1000 eurod ivveest .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oahpahus- ja kulturministeria lea bivdán sámedikki nammadit lahtu ja várrelahtu áššedovdibargojovkui , man bargun lea válmmaštallat Unesco ii-materiálalaš kulturárbbi suodjalansoahpamuša lágideami ja meroštallat soahpamuša heivehansuorggi Suomas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Máttááttâs- já kulttuurministeriö lii pivdám sämitige nomâttiđ jeessân já värijeessân äššitobdeepargojuávkun , mon pargon lii valmâštâllâđ Unesco immateriaallii kulttuuräärbi suojâlemsopâmuš olášuttem já miäruštâl sopâmuš heiviittemsyergi Suomâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi lea dahkan jagis 2010 álgaga oahpahus- ja kulturministeriai soahpamuša ratifiseremis ja leamašan nannosit válmmaštallamin ja doarjumin soahpamuša ratifiserema .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge lii toohâm ive 2010 alguu máttááttâs- já kulttuurministeriön sopâmuš ratifisistmist já lii lamaš nanosávt valmâštâlmin já tuárjumin sopâmuš ratifisistem .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargojoavku ásahuvvo njealje jahkái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargojuávhu asâtteh neelji ihán .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stivra nammadii bargojovkui Klemetti Näkkäläjärvi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stivrâ nomâttij pargojuávkun Klemetti Näkkäläjärvi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáidaga ovddidanguovddáš lea bivdán sámedikkis evttohasaid stáhta dáiddadoaibmagottiide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taiđuu ovdedemkuávdáš lii pivdám sämitiggeest iävtukkâsâid staatâ taaiđâtoimâkuddijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáiddadoaibmagottit leat oktiibuot čieža .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taaiđâtoimâkodeh láá ohtsis čiččâm .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki stivra mearridii evttohit evttohassan musihkkadoaibmagoddái Oula Guttorma , audiovisuálalaš dáiddadoaibmagoddái Anne Risten Juuso ja Pekka Aikio .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige stivrâ meridij iävtuttiđ iävtukkâssân muusiktoimâkoodán Oula Guttorm , audiovisuaallii taaiđâtoimâkoodán Anne Risten Juuso já Pekka Aikio .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stáhta dáiddadoaibmagottiid bargun lea ee. doaibmat iežas doaibmasuorggi áššedovdin ja mearridit muhtun veahkkeruđain .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Staatâ taaiđâtoimâkuudij pargon lii el . toimâđ jieijâs toimâsyergi äššitobden já meerrid motomijn išeruudâin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dán bajis sámekultuvrras eai leat ovddasteaddjit dáiddadoaibmagottiin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taan paajeest sämikulttuurist iä lah lamaš ovdâsteijeeh taaiđâtoimâkuudijn .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stivra čoahkkana čuovvovaš geardde telefončoahkkimii guovtti vahku geažes .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stivrâ čokkân čuávuváá keerdi puhelinčuákkimân kyevti oho keččin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki dievasčoahkkima áigi mearriduvvo maŋŋelebbos čakčat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige almosčuákkim ääigi merideh maŋeláá čohčuv .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

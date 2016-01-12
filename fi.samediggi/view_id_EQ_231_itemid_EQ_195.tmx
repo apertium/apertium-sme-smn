@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dálvemáilmmi bivut</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tälvimaailm pivoh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Geahča oanehisvideo beaskka birra</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Keejâ uánihisvideo peeskâst ( possuunähkituurhâst )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Jiella-joavkku lahtuguovttos gárvodeaba beskii ja luhkkai vai sudnos sáhttá váldit govaid ođđa CD-skearru várás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Jiella-juávhu jesâneh kárvudeteh peeskân já luukân vâi sist puáhtá väldiđ kuuvijd uđđâ CD-skiäru lookán .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Jiella-joavkku lahtut : Niilo ja Jenna Rasmus</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Jiella-juávhu jesâneh : Niilo já Jenna Rasmus</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bagadallan / govven : Ima Aikio-Arianaick , čuohppan : Anne Kirste Aikio Jorgalus : Jouni S. Laiti</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stivrim / kuvvim : Ima Aikio-Arianaick , čuoppâm : Anne Kirste Aikio Jurgâlus : Jouni S. Laiti</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Buvttadeapmi : Sámi Siida Ohcejohka 2006</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pyevtittâs : Sámi Siida Ucjuuhâ 2006</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Guhkkodat : 2,37</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kukkodâh : 2,37</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

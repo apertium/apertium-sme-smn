@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Olggosaddimat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Olgosadalduvah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oahppamateriálat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Oppâmateriaal</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dieđihančállosat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tieđettemčáluseh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Raporttat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Raporteh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki skuvlenraporta nr 1</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige škovlimraapoort nr 1</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Petra Biret Magga ( pj ) , Ellen Näkkäläjärvi , Eeva-Liisa Rasmus ja Rauna Rahko .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Teksti : Ulla Aikio-Puoskari</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki skuvlenraporta nr 1</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige škovlimraapoort nr 1</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámeoahpahus ruovttuguovllu olggobealde</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>čielggada sámegiela ja sámegielat oahpahusa ollašuvvama ja eavttuid sámiid ruovttuguovllu olggobealde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>čielgee sämikielâ já sämikielâlâš máttááttâs olášume já iävtuid sämikuávlu ulguubeln .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Raporta kárte fámus leahkki oahpahusa guoski njuolggadusaid ja mearrádusaid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Raapoort kärttee vyeimistorroo máttááttâs kyeskee njuolgâdusâid já virgeomâhâšmiärádâsâid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dasa lassin raporttas dahkkojuvvojit evttohusat oahpahusdiliid ovddideamis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasseen raportist tahhojeh iävtuttâsah máttááttâstile oovdedmân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargojoavku / Työryhmä :</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

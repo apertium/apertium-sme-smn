@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Olggosaddimat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Olgosadalduvah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oahppamateriálat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Oppâmateriaal</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dieđihančállosat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tieđettemčáluseh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Raporttat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anárašgiella , eará materiálat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Plakáhtain</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Raporteh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>leat govat ja namahusat árgabeaibiktasiin arvebiktasiid rájes gitta vuolildusbáiddiide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>aneh sistees kuuvijd já noomâid argâpihtâsijn já káárvuloosijn , heŋkselijn sävnitakkijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Plakáhtat leat oaivvilduvvon giellabesiide , beaivedikšunsajiide ja sámegielat luohkáide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Posterih láá uáivildum máttááttâs toorjân kielâpiervâláid , peivikiäččusoojijd já sämikielâlijd luokkaid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anárašgielat plakáhtaid teavsttaid lea ráhkadan Tanja Kyrö .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Posterij teevstâid lii čáállám Tanja Kyrö .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Plakáhtaid čuovgagovaid lea váldán Ulla Isotalo .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Posterij koveh láá čuovâkoveh já taid lii váldám Ulla Isotalo .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>haddi : á 5,00 €.</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi 2014</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge 2014</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Speelâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>rähteeh : Elina Pulli , Helena Heinonen , Tuija Heikkilä</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Somás lávdespeallu , masa lea govviduvvon okta kaleandarjahki .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Speellâ lii hitruus lyevdispellâ . Spellâluávdán lii kovvejum ohtâ kalenderihe .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Spealus ii leat álginčuokkis iige moalla .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Spellaluávdán ij lah merkkejum vyelgimsaje ige mollâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Juohke spealli álggaha iežas riegádanbeaivve buohta ja loahpaha seamma sajis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uáivilin lii , ete jyehi spellee aalgât speelâ jieijâs šoddâmpeeivi pehti já jaska speelás siämmáá sajan .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ii heive vuollái 3-jahkásaččáide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ij heivi vuálá 3-ihásiih .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Spealus leat uhca oasit .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Speellâst láá uccâ tiiŋgah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>haddi : 20,00 €</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säničielgimspellâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sátnedáidospeallu , mii heive vuođđoskuvllaid eatnigiela oahpahussii , sihke buohkkaide servvoštallanspeallun .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Spealus leat davvi- , anár- ja nuortalašgielat sánit seamma goarttaid alde , muhto sánit eai vástit nuppiideaset , nu ahte spealu ii heive geavahit “ sátnegirjin ” sámegielaid gaskkas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Hitruus spellâ , mast kalga mättid čielgid nubenáál , ađai finniđ spellmaskiippáár ettâd nuuvt maŋgâ sääni ko máhđulâš jotelis čielgiittâsâid addelmáin . ALIAS - spellâ lii vuorâsulmui spellâ , maid párnááh-uv pyehtih spellâđ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ii heive vuollái 3-jahkásaččáide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ij heivi vuálá 3-ihásiih .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Spealus leat uhca oasit .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Speellâst láá uccâ tiiŋgah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>haddi : 20,00 €</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi 2003</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge 2003</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>sánit , nuohtat ja govat : Kerttu Vuolab</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Muusik ( säänih , nuotah já koveh )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>jorgalan : Matti Morottaja</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Jurgâlâm Matti Morottaja</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>siiddut : 40</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>sijđoh : 51</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>haddi : 2,00 €</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge 2009</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>dássi : 1-3 lk Stáhta prentenguovddáš 1989</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taat kirje almostui vuossâmuu keerdi ive 1979 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ko sämikielâ algâmáttááttâsâst kevtiškuottii uccâ puustavaid , te šoodâi tárbu teddilittiđ uđđâsist taan kirje .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lâi meiddei tárbu uđâsmitteđ nuotâi aloduv já lasettiđ nuotâid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tääl kirje almostuvá uđđâ häämist : puoh kulmâ Suomâst sarnum sämikielâ láá kevttum siämmáá kirjeest .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>( Sámi soga lávlla )</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tavesämikielâ lii čuovjis , anarâškielâ ruánáá já nuorttâlâškielâ oppeet ruopsis ivnijn .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>jorgalan : Matti Morottaja</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>jurgâlâm : Matti Morottaja</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>buvttadeaddji : Magnus Vuolab &amp;amp; Frode Fjellheim</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>säänih , nuotah já koveh : Kerttu Vuolab</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>haddi : 6,50 €</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>bádden : SKÁDJA – studio , Kárášjohka 1998 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>tääsi : ovdâmáttááttâs - 3 lk sijđoh : 28</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eará</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sáminuoraid dáidaga antologiija</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Škovlaháldáttas 1989 Säämi suuvâ laavlâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>jurgâlâm : Matti Morottaja</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>lávlumjuávkku : Matti Morottaja , Ilmari Mattus , Aune Kuuva ja Kirsti Ranta</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säminuorâi taaidâantologia</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>anár- , nuorta- ja davvisámegillii</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>toim . já layout : Anni Näkkäläjärvi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Siiddut : 86</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>sijđoh : 86</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Muštâlusah , mainâseh , tiivtah , koveh ,</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>kuáluskoveh já teatterpittá Säminuorâi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>haddi : 25,00 €</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>taaidâtábáhtusâin 2001-2007 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi 2008</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge 2008</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girjjis lea oassi čállosiin , divttain , govain ja ráidogovain , mat leat leamašan fárus Sámenuoraid dáiddadáhpáhusainjagiin 2001-2007 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáiddaduojit sullii 50 nuoras ja mánásmiehtá Sámi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oahpahusministeriija lea dorjon girjjiolggosaddima sierra mearreruđain .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

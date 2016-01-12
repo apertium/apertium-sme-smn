@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenuoraid davviriikkalaš konferánsa Suoločielggis</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tave-eennâmlâš säminuorâi konferens Suáluičielgist</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenuoraid davviriikkalaš konferánsa ordnejuvvo Suoločielggis golggotmánus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ohtsâštave-eennâmlâš nuorâi konferens uárnejuvvoo Suáluičielgist roovvâdmáánust .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Konferánsa lea golmmabeaivvásaš , dat álgá duorastaga 13.10. ja bistá lávvardaga 15.10. rádjái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Konferens pištá kulmâ peeivi , mii álgá tuorâstuv 13.10 já nohá lávurduv 15.10 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Konferánssa váldoordnejeaddjin bargá Suoma sámedikki nuoraidráđđi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Konferens váldutoimâlâš uárnejeijen tuáimá Sämitige nuorâirääđi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Konferánsii bohtet maiddái Norgga ja Ruoŧa sámi nuoraidráđiid lahtut .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Konfereensân láá puátimin meid Taažâ já Ruotâ nuorâiraađij jesâneh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Konferánsa lea hábmejuvvon temáid mielde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Konferens lii juohum teemai mield. .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Duorastaga temán leat ´árbevirolaš diehtu´ ja ´turisma´ .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tuorâstuv teeman láá “ ärbivuáválâš tiätu ” já “ tuurism ” .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Iešguđet suorggi áššedovdit bohtet doallat ságaid áššiin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toho láá puátimin jieškote-uv suorgij spesiaalmätteeh toollâđ saavâid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Duorastateahkes ordnejuvvo gáktečájahus , mas oaidnit iešguđetlágán gávttiid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tuorâstuveehid uárnejuvvoo mááccuh-muotičájáttâs , mast uáinip jieškote-uvlágánijd sämimáccuhijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bearjadaga temán lea ´gákti ja dan ođasmuvvan´ .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vástuppeeivi fáddán lii “ mááccuh já ton uđâsmem ” .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Temás dollojuvvojit ovdaságat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Joavkoságastallamiid várás leat várrejuvvon sajit ja áigi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Fáádán láá väridum sárnooh , sehe sajeh já äigi juávkkusavâstâlmáid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bearjadateahket lea várrejuvvon friija ovttas leahkimii ja lávddi ala boahtá SomBy .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vástuppeiveehid lii väridum muássáás oovtâstoromân já läävdi oolâ kuárŋee Somby .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lávvardaga dollojuvvo nuoraidráđi čoahkkin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lávurduv lii nuorâirääđi čuákkim .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Konferánsa lea rabas ja friija buot berošteaddjiide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Konferens lii áávus já nuuvtá puohháid mielâkiddiivâšvuođâ tobdeid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Almmuheamit maŋimustá 30.9.2011 , henriikka .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Almottâtmeh majemustáá 30.9.2011 ; henriikka .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>mikkola ( at ) samediggi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>mikkola ( at ) samediggi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>fi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>fi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sávvat buot berošteaddjiide buresboahtima Nuoraid konferánsii Suoločielgái !</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tuáivuttep puohâid halulijd pyereest puáttám Nuorâi konfereensân Suáluičiälgán !</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

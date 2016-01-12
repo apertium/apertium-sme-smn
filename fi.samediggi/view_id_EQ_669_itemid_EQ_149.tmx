@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenuoraid dáiddadáhpáhus 2013 ordnejuvvo Heahtás</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säminuorâi taaiđâtábáhtume 2013 uárnejuvvoo Hettast</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čuovvovaš Sámenuoraid dáiddadáhpáhus ordnejuvvo Márjjábeaivahkus duorastaga 14.3 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čuávuvâš Säminuorâi taaiđâtábáhtume uárnejuvvoo Máárjápeiohhoost tuorâstuv 14.3 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Heahtá skuvlaguovddážis Eanodagas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Hetta škovlâkuávdáást Iänuduvâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhusa temán lea teáhter .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tábáhtume teeman lii teatter .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Heahtás válljejuvvojit sámenuoraid ovddasteaddjit Nuorra Kultuvra - dáhpáhussii , mii ordnejuvvo Helssegis miessemánus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Hettast välljejuvvoo säminuorâi ovdâsteijee Helssigân Nuori Kulttuuri 2013 tábáhtumân , mii tolluu Helssigâst vyesimáánust .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhusa ordnemis Sámedikkis vástida plánejeaddji Anni Näkkäläjärvi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige peeleest uárnijumijn västid vuávájeijee Anni Näkkäläjärvi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čuovo neahttasiidduid - doaimmahit lassedieđuid dáiddadáhpáhusas nu fárgga go vejolaš .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čuávu nettisijđoid - tuáimáttep lasetiäđuid taaiđâtábáhtumest nuuvt vorgâ ko peri máhđulâš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhusa báikkis mearridii skuvlen- ja oahppamateriálalávdegoddi čoahkkimisttis 17.12 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taaiđâtábáhtume toollâmpääihist meridij škovlim- já oppâmateriaallävdikodde čuákkimistis 17.12. 2012 .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

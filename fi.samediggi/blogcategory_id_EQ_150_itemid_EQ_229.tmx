@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámit - okta álbmot njealji riikkas</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ohtâ aalmug neelji enâmist</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámit leat álgoálbmot</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Algâaalmug</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Beaivvi bárdni</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Peeivi pärni</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi leavga</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi lippu</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi soga lávlla</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi suuvâ laavlâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámiid álbmotbeaivi 6.2 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi aalmugpeivi 6.2 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dávjá jerrojuvvon gážaldagat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Love tävjimustáá toohum koččâmâššâd</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

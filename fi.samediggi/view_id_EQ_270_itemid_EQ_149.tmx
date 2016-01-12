@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki telefonguovddáš lea gitta 23.12.2008-5.1.2009</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige puhelinnummeer lii kiddâ 23.12.2008 - 5.1.2009</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki telefonguovddáš lea gitta 23.12.2008-5.1.2009 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige puhelinnummeer lii kiddâ 23.12.2008 - 5.1.2009 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oktavuođaváldimat Sámedikki bargiid njuolggonummiriidda , mat gávdnojit čujuhusas www.samediggi.fi&amp;amp;gt;Oktavuođadieđut&amp;amp;gt;Bargit</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ohtâvuođâväldimeh sämitige pargei njuálgu numeráid , moh kávnojeh čujottâsâst www.samediggi.fi &amp;amp;gt ; Ohtâvuođâtiäđuh &amp;amp;gt ; Pargojuávkku</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

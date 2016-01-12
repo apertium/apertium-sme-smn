@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vuoigatvuohtaministtar Henriksson : buot sámemánáide duohta vejolašvuohta oahppat iežaset giela</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Riehtiminister Henriksson : puohháid sämipárnáid puigâ máhđulâšvuotâ jieijâs kielâ oppâmân</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- Giela ealáskahttindoaimmain galgá bisuhit mielas , ahte sámiide vuođđolágas dorvvastuvvon vuoigatvuohta iežaset gillii ja kultuvrii guoská olles riikii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>" Kielâ iäláskitmân sihtejeijee tooimâin kalga anneeđ mielâst , et sämmilij vuáđulavâlâš vuoigâdvuotâ jieijâs kielân já kulttuurân kuáská ubâ eennâm .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Galgá giddet earenoamáš fuomášumi dasa , ahte buot sámimánáin lea duohta vejolašvuohta oahppat gielaset ja kultuvrraset olles riikkas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Eromâš huámášume kalga kiddiđ toos , et puohâin sämipárnáin lii puigâ máhđulâšvuotâ oppâđ jieijâs kielâ já kulttuur ubâ väldikoddeest . "</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vuoigatvuohtaministtar Anna-Maja Henriksson deattuhii ságastis sáme- ja maorigielaid ealáskahttinsemináras 13.09. , ahte sámegielaid ealáskahttima várás galgá hábmet bissovaš doaibmamálle .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Riehtiminister Anna-Maja Henriksson tiäduttij jieijâs sahâvuárust sämikielâ já maorikielâ iäláskittemseminaarist 13.09. táárbu läjidiđ pissoo toimâmmaali sämikielâi iäláskitmân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Leat ožžon buriid vásihusaid sámegiela ealáskahttimis omd. giellabesiin ja eará ealáskahttinprošeavttain .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâ iäláskitmist láá finnim šiev vuáttámušâid ovdâmerkkân párnái kielâpiervâlijn já eres kielân lohtâseijee haavâin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ministtar máinnašii ságastis anárašgiela diliid buorre ovdamearkan lihkkostuvvan gielaealáskahttimis . Anárašgiela ealáskahttima ovdanbuvttii semináras Marja-Liisa Olthuis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Minister mainâšij savâstis anarâškielâ iäláskittem miänástusmainâs , maid kielâiäláskittemseminaarist oovdânpuovtij Marja-Liisa Olthuis .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- Sámegiela ealáskahttinprográmma doaibmabijuiguin galgá oažžut áigái guhkitáigásaš ja nannosut suoji buot Suomas hubmojuvvon golmma sámegillii , gávnnahii ministtar .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- Sämikielâ iäláskittemohjelm toimâiguin , moh tääl láá joođoost , kalga juksâđ tááláást meritiätulub já nanosub syeje puohâi kuulmâ Suomâst sarnum sämikielâ uásild , minister páhudij .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- Sámegiela ealáskahttinprográmma doaibmabijuid ollašuhttin lea čállojuvvon maiddái ráđđehusprográmmii ja doaibmabijut galgetge álggahuvvot nu fárgga go vejolaš dan maŋŋá go prográmma lea dohkkehuvvon .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- Sämikielâ iäláskittemohjelm tooimâi olášuttem lii kirjejum haldâttâsohjelmân , já toimáid kalga-uv riemmâđ ohjelm tuhhiittem maŋa nuuvt jotelávt ko máhđulâš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Hálddahushoavda Juha Guttorm , láhkaásaheami hoavda Sami Manninen , sámedikki stivrra lahttu Petra Magga-Vars , ságadoalli Klemetti Näkkäläjärvi , vuoigatvuohtaministtar Anna-Maja Henriksson ja stivrra lahtut Anu Avaskari ja Asko Länsman Helssegis 13.9.2011 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Haldâttâshovdâ Juha Guttorm , lahâasâttâsjođetteijee Sami Manninen , sämitige stiivrâ jeessân Petra Magga-Vars , saavâjođetteijee Klemetti Näkkäläjärvi , riehtiminister Anna-Maja Henriksson sehe stiivrâ jesâneh Anu Avaskari já Asko Länsman Helsigist 13.9.2011 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Loga vuoigatvuohtaministtar Anna-Maja Henriksson olles sága sámedikki ordnen sáme- ja maorigielaid ealáskahttinsemináras Helssegis 13.09.2011 dás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Luuvâ riehtiminister Anna-Maja Henrikssonin saavâ sämitige ornim sämikielâ já maorikielâ iäláskittemseminaarist Helsigist 13.09.2011 ollásávt täst .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

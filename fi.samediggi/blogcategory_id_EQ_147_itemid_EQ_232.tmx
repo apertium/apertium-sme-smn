@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi vuohki ?</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi vyehi ?</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ärbi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oarjul buođđu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uárjul puáđu</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi duodji</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi tyeji</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi duodji govvaráidu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi tyeji koveráiđu</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Buoremus bivttas</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pyeremus piivtâs</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dálvemáilmmi bivut</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tälvimaailm pivoh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi gákti muitala máŋgga ášši</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämimááccuh muštâl maŋgâ ääši</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi gákti govvaráidu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämimááccuh koveráiđu</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Miesi riegádeapmi álggaha bohcco jagi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Poccuu ihe álgá vuássáá šoddâmist</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bohcco jahki govvaráidu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Poccuu ihe koveráiđu</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuáččulâš pajeolmooš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi musihkka</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämimuusik</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalaš lávlla</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâlâšlaavlâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi girjjálašvuohta</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kirjálâšvuotâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi filbma</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi elleekove</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Muohtateáhter</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Muotâteatter</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi dáidda</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi taaidâ</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

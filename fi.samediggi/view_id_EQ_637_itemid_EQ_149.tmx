@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doaimmahatčálli virgi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toimâttâhčällee virge</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi almmuha , ahte dan čállingotti skuvlen- ja oahppamateriáladoaimmahagas Sajosis lea ohcanláhkái</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge almoot , et ton čäällimkode škovlim- já oppâmateriaaltoimâttuvâst Sajosist lii uuccâmnáál</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>doaimmahatčálli virgi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>toimâttâhčällee virge .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargojoavkoovddastus</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargojuávkkuovdâstem</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegiela doaimmahat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâ toimâttâh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegiela doaimmahaga bargit</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâ toimâttuv pargeeh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kielâtorvočällee</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Siiri Jomppanen</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- doaimmahaga hoavda</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- toimâttuv hovdâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- sámi giellalága ollašuvvama gohcin ja čuovvun</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- säämi kielâlaavâ olášume kocceem já čuávvum</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- giellalágas ja eará sámiid gielalaš vuoigatvuođain dieđiheapmi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- kielâlaavâst já eres sämmilij kielâlâš vuoigâdvuođâin tieđettem .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- sámiid ja virgeoapmahaččaid rávven ja oahpisteapmi sámi giellalága geavaheamis ja heiveheamis</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- sämiaalmug já virgeomâhij ravvim já uápistem säämi kielâlaavâ kevttimist já heivitmist</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- doaibmasuorgái gullevaš sámiid guoskevaš áššiid gieđahallama čuovvun sierra virgeoapmahaččain</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- toimâsuárgán lohtâseijee sämmilijd kyeskee aašij kieđâvuššâm čuávvum jieškote-uv virgeomâhijn</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- sámi giellaráđi áššemeannudeaddji ja čálli ja maiddái mearrádusaid ollašuhtti bargguide gullevaš áššiin</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- säämi kielârääđi oovdânpyehtee já čällee sehe - miärádâsâi olášutten jieijâs pargoid kullee aašijn</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Má. kielâašijčällee</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- sámi giellaovttasbargui gulavaš barggut</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- säämi kielâoovtâstpaargon lohtâseijee pargoh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Giellajorgaleaddjit</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kielâjurgâleijeeh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>I Giellajorgaleaddji - Irma Laiti , doaibmabáiki Anár</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>I Kielâjurgâleijee – Irma Laiti , toimâpäikki Aanaar ,</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>II Giellajorgaleaddji - Anja Vest , doaibmabáiki Anár ,</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>II Kielâjurgâleijee – Anja Vest , toimâpäikki Aanaar</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>má. giellajorgaleaddji - Leena Aikio , doaibmabáiki Ohcejohka ,</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kielâjurgâleijee – Leena Aikio , toimâpäikki Ucjuuhâ ,</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>má. giellajorgaleaddji Maria Sofia Aikio , doaibmabáiki Ohcejohka ,</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kielâjurgâleijee Maria Sofia Aikio , toimâpäikki Ucjuuhâ ,</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>IV Giellajorgaleaddji - Kirsti Guttorm , doaibmabáiki Ohcejohka</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>IV Kielâjurgâleijee – Kirsti Guttom , toimâpäikki Ucjuuhâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Aanaarsämikielâ jurgâleijee – Tanja Kyrö</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalašgiela giellabargi / jorgaleaddji - Katri Fofonoff</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämikielâ kielâpargee / jurgâleijee – Katri Fofonoff</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Giellajorgaleaddjit veahkehit dárbbu mielde virgeoapmahaččaiguin áššiiddikšumis dárbbašuvvon áššebáhpáriid jorgaleamis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kielâjurgâleijeeh išedeh táárbumield virgeomâhijguin ášástâldijn tárbulij sämikielâlâš äššikirjij jurgâlmist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>SÁMEGIELA DOAIMMAHAT VEAHKEHA JA RÁVVE MIELAS SÁMEGILLII JA SÁMI GIELLALÁHKII GUOSKI ÁŠŠIIN .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SÄMIKIELÂ TOIMÂTTUV PARGOJUÁVKKU RÄVVEE JÁ IŠŠEED MIELÂSTIS SÄMIKIELÂN JÁ SÄÄMI KIELÂLAAHÂN KULLEE AAŠIJN .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Go dárbbašat sámegiela jorgaleaddji dahje dulkka gávnnat sin oktavuohtadieđuid vuolábealde liŋkkas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ko tarbâšâh sämikielâ jurgâleijee tâi tuulhâ , kaavnah sii ohtâvuođâtiäđuid vuoluupiäláá liiŋkâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>www.samediggi.fi/sanastot</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Davvisámegiela jorgaleaddjit ja dulkkat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anárašgiela jorgaleddjit ja dulkkat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalašgiela jorgaleaddjit ja dulkkat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tavesämikielâ jurgâleijeeh / tuulhah Aanaarsämikielâ jurgâleijeeh / tuulhah Nuorttâsämikielâ jurgâleijeeh / tuulhah Sämikielâ – eŋgâlâskielâ – ruotâkielâ – suomâkielâ jurgâleijeeh / tuulhah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sáme-Eŋgelas-Norgga-Ruoŧagiela jorgaleaddjit ja dulkkat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

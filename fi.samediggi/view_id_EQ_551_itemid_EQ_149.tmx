@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dieđihandilálašvuohta Sajosa gudnin almmustahtton poastamearkkas</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tieđettemtilálâšvuotâ almostittum postâmeerhâst , mii tuálloo Sajos kunnen</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bures boahtin ávvudit sámekulturguovddáš Sajosa iežas poastamearkaárkka olggosaddima !</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tiervâpuáttim avudiđ säämi kulttuurkuávdáš Sajos jieijâs postâmerkkâaarkâ almostittem !</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dieđihandilálašvuohta Sajosa parlameantasáles álgá vuossárgga 23.01. dmu 12 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tieđettemtilálâšvuotâ Sajos parlamentsalist álgá vuossaargâ 23.01. tme 12 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dilálašvuođas ovdanbukto njeallje poastamearkka sisttisdoalli Sámekultuvra - smávvaárka ja muitaluvvo poastamearkaárkka duogážiin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tilálâšvuođâst oovdânpuáhtoo nelji postâmeerhâ sistetuállee Sämikulttuur - uccâarkkâ já muštâluvvoo postâmerkkâaarkâ tuávváin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dilálašvuođas lea maiddái vejolašvuohta oastit ođđa poastamearkkaid ja vuosttasbeaivve konfeluhtaid , mat leat oažžumis rájálaš mearri .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tilálâšvuođâst lii meid máhđulâšvuotâ uástiđ uđđâ postâmeerehâid já vuosâpeeivi kooverttijd , moh láá finniimist rájálâš meeri .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Itella Posti almmustahttá Sámekultuvra- poastamearkaárkka seammá beaivve Helssegis , gos lágiduvvon dilálašvuođas lea mielde maiddái árkka govaid plánen sámedáiddár Merja Aletta Ranttila .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Itella Posti almostit já uárnee Sämikulttuur - postâmerkkâaarkâ siämmáá peeivi Helsigist , mon tilálâšvuođâst lii mieldi meid aarkâ kuuvijd vuávám sämitaaidâr Merja Aletta Ranttila .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anára Sajosis lágiduvvon dilálašvuođas lea mielde Itella Posti Oy oktavuođahoavda Pirjo Kumpula .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tilálâšvuođâst , mii uárnejuvvoo Aanaar Sajosist , lii mieldi Itella Posti Oy ohtâvuođâhovdâ Pirjo Kumpula .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mielčuovvun Itella Posti Oy dieđáhusat dás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mieldi lahtosin Itella Posti Oy tiäđáttâsah täst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gáfestallan , man oktavuođas girječálli-oahpaheaddji - historihkar Matti Lehtola muittaša Anára poastahistorjjá dáhpáhusaid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kähvikuásuttem , mon ohtâvuođâst kirječällee-máttáátteijee-historjáčällee Matti Lehtola muuštâš Aanaar postâhistorjá tábáhtusâid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>BURES BOAHTIN !</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>TIERVÂPUÁTTIM !</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>DILÁLAŠVUOHTA LEA RABAS BUOHKAIDE !</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>TILÁLÂŠVUOTÂ LII ÁÁVUS PUOHHÁID !</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

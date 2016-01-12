@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čállingilvu sámemánáide ja – nuoraide</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čäällimkišto sämipárnáid já – nuoráid</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi mánáidkulturguovddáš ja Nuoraidlávdegoddi-prošeakta almmuhit čállingilvvu sámemánáide ja – nuoraide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi párnáikulttuurkuávdáš já Nuorâilävdikodde-haahâ kulluuttává čäällimkisto sämipárnáid já – nuoráid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Fáddán gilvvus lea Mu Sápmi j. 2030 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Arttân kištoost lii Muu Säämi ive 2030</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čálus sáhttá leat jurdda , sávaldat dahje ulbmil das , man dilis sámit ellet ja leat badjel guovttelogi jagi geahčen .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čaalâ puáhtá leđe juurdâ , tuoivâ tâi ulme tast , mon tiileest sämmiliih eellih já láá pajeláhháá kyevtlov ive keččin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Maid sápmelaččat barget ja makkár máilmmis sámit ellet j. 2030 ?</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Maid sämmiliih pargeh já maggaar mailmist sämmiliih eellih ive 2030 ?</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čállingilvui sáhttet oassálastit 10–29- jahkásaš sámenuorat , geat eai leat almmustahttán čáppagirjjálašvuođa girjji dahje iežasgoasttádussan girjji .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čäällimkiišton pyehtih uáslistiđ 10–29-ihásiih säminuorah , kiäh iä lah almostittám čaabâkirjálâš kirje tâi jieškuástádâs .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gilvui sáhttá oassálastit eanemustá 4 siiddu teavsttain , muhto gilvoteavsttat sáhttet leat oanehutge .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kiišton puáhtá uásálistiđ enâmustáá 4 siijđo tevstáin , mut kištodemteevstah pyehtih leđe uánihuboh-uv .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čállosiid stiila lea friija ja giellan sáhttet leat sáme- ja suomagielat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čallui stijlâšlaajâ lii rijjâ já kiellân pyehtih leđe sämikielah já suomâkielâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čállingilvvus leat golbma luohká .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čäällimkiištoost láá kulmâ rááiđu .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gilvvohalli luohkká mearrašuvvá agi mielde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kištodeijee ráiđu miärášuvá ave mield. .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Luohkáid buoremusat bálkkašuvvojit Sámedikki Nuoraidlávdegoddi-prošeavtta lágidan Sámenuoraid konfereanssas golggotmánu 16. beaivve 2009 Suoločielggis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Rááiđui pyeremusah palhâšuvvojeh Sämitige Nuorâilävdikodde-haavâ ornim säminuorâi konfereensâst Suáluičielgist 16. roovvâdmánnu 2009 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Konfereanssas buktojuvvojit lassin ovdan čállingilvvu čállosat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasseen konfereensâst puáhtojeh uáinusân čäällimkištoost finnejum puátuseh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Duopmárin čállingilvvus leat Rauna Paadar-Leivo ja Mikkal Morottaja .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tuámárin čäällimkiištoost toimâv Rauna Paadar-Leivo já Mikkal Morottaja .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gilvoluohkát :</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kištodemrááiđuh :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>1. 10–13-jahkásaččat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>1. 10–13-ihásiih</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>2. 13–18-jahkásaččat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>2. 13–18-ihásiih</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>3. 18–29-jahkásaččat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>3. 18–29-ihásiih</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čállosat eai máhcahuvvo , muhto dat seailluhuvvojit Sámedikki arkiivvas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čalluuh iä macâttuu , pic toh siäiluttuvvojeh Sämitige arkkâduvâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi mánáidkulturguovddáža ulbmilin lea doaimmahit prentosa čállingilvvu teavsttain j. 2010 áigge .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi párnáikulttuurkuávdáá ulmen lii toimâttiđ kirje čäällimkišto teevstâin ive 2010 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girjji govaid várás čállosiidda sáhttá laktit maiddái fáddái heivvolaš čuovgagovaid dahje tevnnegiid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kirje kuvvim várás puáhtá čalluid lahteđ meiddei aartân suáppee čuovâkuuvijd tâi sárgusijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gilvui oassálastit sáhttet deavdit mielčuovvu lobi čállosiid almmustahttima várás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kiišton uáslisteeh pyehtih tevdiđ mieldičuávvoo love čallui almostitmân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vuollái 18- jahkásaččat galget bivdit fuolaheaddji miehtama .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuálá 18-ihásiih kalgeh pivdeđ huolâtteijee mietâmâš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čállosiid , maidda merkejuvvojit čálli namma , ahki ja oktavuohtadieđut , galgá doaimmahit maŋimustá golggotmánu 2. beaivve 2009 rádjai .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čalluid , main lii čällee nommâ , ahe já ohtâvuođâtiäđuh , kalga toimâttiđ majemustáá 2. roovvâdmáánu 2009 räi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gilvobarggut sáddejuvvojit čujuhussii :</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kištočalluuh vuolgâttuvvojeh čujottâsân :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuoraidlávdegoddi-fidnu / Sámediggi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorâilävdikodde-haahâ / Sämitigge</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>99800 ANÁR</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lassidieđut :</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasetiäđuh :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mánáidkulturguovddáš Nuoraidlávdegoddi-fidnu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Párnáikulttuurkuávdáš Nuorâilävdikodde-haahâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doaibmajođiheaddji Petra Biret Magga Prošeaktabargi Anne Länsman</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toimâjođetteijee Petra Biret Magga Proojeektpargee Anne Länsman</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>petra .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>magga ( at ) samediggi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>fi anne .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>lansman ( at ) samediggi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>fi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Prošeavttat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámekulturguovddáš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi mánáidkulturguovddaš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Skábma Filbmaguovváš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikulttuurkuávdáš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámemusihkkaguovddáš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Párnáikulttuurkuávdáš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi Giellagáldu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi muusikkuávdáš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegielat giellalávgun skuvllas</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SaKaste Säämi kielâlávgum škoovlâst</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi mánáidkulturguovddaš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi párnáikulttuurkuávdáš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi mánáidkulturguovddáš doarju doaimmainis sámemánáid ja nuoraid identitehta ovdáneami .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi párnáikulttuurkuávdáš tuárju jieijâs toimáin sämipárnái já nuorâi identiteet ovdánem .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovttasbargin doibmet váldoáššis skuvllat , beaiveruovttut ja giellabeasit , maid bokte prošeavtta ulbmiljoavku , nuppiid sániiguin sámeguovllu vuollái 18-jahkásaš sámemánát ja nuorat juksojit njuovžilit .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ohtsâšpargopeellin tuáimih iänááš škoovlah , peivipääihih já kielâpiervâleh , moi pehti haavâ čuásáttâhjuávhu ađai sämikuávlu vuálá 18-ihásijd sämipárnáid já nuorâid fáttee älkkeemusâht .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Geavadis mánáidkulturguovddáš lágida sámekultuvrra doarju doaimma skuvllaide , beaiveruovttuide ja giellabesiide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Keevâtlávt párnáikulttuurkuávdáš uárnee sämikulttuur tuárjoo tooimâ škovláid , peivipaihijd já kielâpiervâláid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi mánáidkulturguovddáš oassálastá vejolašvuođaid mielde maiddái sámedáhpáhusaid ordnemiidda ovdamearkan fállamiin prográmma mánáide ja nuoraide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi párnáikulttuurkuávdáš uásálist máhđulâšvuođâi mield meid sämitábáhtusâi orniimáid ovdâmerkkân pyevtitmáin ohjelm párnáid já nuoráid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi mánáidkulturguovddáža ovddidansuorggit jagiide 2009–2013 leat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi párnáikulttuurkuávdáá ovdedemsektoreh ivvijd 2009–2013 láá</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>sámenuoraid kulturidentitehta nannen ,</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>säminuorâi kulttuuridentiteet nanodem ,</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>árbevirolaš duodjedáiddut ,</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>ärbivuáváliih kieđâ tááiđuh ,</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>kultuvrralaš sisdoallobuvttadeapmi ja</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>kulttuurlâš siskáldâspyevtittem já</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>rájáid gaskasaš ovttasbarggu ovddideapmi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>raajij koskâsii oovtâstpargo ovdedem .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ulbmilat ollašuhttojit ovttasbarggus sámiid resursaolbmuiguin , geat vástidit bargobájiid ja temábeivviid jođiheamis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ulmeh olášittojeh oovtâstpargoost säämi reesuursulmuiguin , kiäh västideh pargopáájái já teemapeeivij stivriimist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Resursaolbmot sirdet máhttima ja árbevirolaš dieđuid nuorabuidda .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Reesuursulmuuh sirdeh mättimis já ärbivuáválâš tietimis nuorâb ulmuid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Kultuvrra dovdan veahkeha mánáid ja nuoraid sámeidentitehta nanosmuvvama , mii lea eaktun sámekultuvrra seailumii ja eaktodáhtolaš ovdáneapmái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kulttuur tubdâm iššeed párnái já nuorâi sämi-identiteet nanosmem , mii lii iähtu sämikulttuur siäilumân já jiešiävtulâš ovdánmân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi mánáidkulturguovddáš - prošeakta álggahii ođđa viđajahkásaš áigodaga jagi 2009 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi párnáikulttuurkuávdáš - haahâ algâttij uđđâ viiđâivepaje ive 2009 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Prošeakta lea Taikalamppu Lappi mánáidkulturfierpmádaga oassi , man ulbmilin lea doaibmat mánáidkultuvrra doarjun , lágideaddjin ja vejolašvuođaid láhččin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Haahâ lii uási Tijdâlamppu Laapi párnáikulttuurviärmáduv , mon ulmen lii toimâđ párnáikulttuur tuárjon , uárnejeijen já máhđulâšvuođâi läččen .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Jagiin 2009–2013 Lappi mánáidkulturfierpmádaga lahttut leat Giema , Giemajávrri , Roavvenjárgga ja Durdnosa gávpogat , Ranua gielda ja maiddái Sámediggi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Iivijn 2009–2013 Laapi párnáikulttuurviärmáduv jesâneh lijjii Kiemâ , Kiemâjäävsi , Ruávinjaargâ já Tuárnus kaavpugeh , Ranua kieldâ sehe Sämitigge .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi mánáidkulturguovddáš doaibmá olles sámeguovllus : Eanodaga , Anára , Soađegili ja Ohcejoga gielddain .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi párnáikulttuurkuávdáš tuáimá ubâ sämikuávlust : Iänuduv , Aanaar , Suáđigil já Ucjuv kieldâin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi mánáidkulturguovddáža doaimma ruhtadit oahpahusministeriija , sámeguovllu gielddat ja Sámediggi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi párnáikulttuurkuávdáá tooimâ ruttâdeh máttááttâsministeriö , sämikuávlu kieldah já sämitigge .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Taikalamppu-mánáidkulturfierpmádaga doaibma lea viidánan jagiid áigge árbevirolaš kultursektoras viidásut dáidda- ja kulturbajásgeassima , dearvvasvuođa ja buorredili guoski barggu guvlui .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tijdâlamppu- párnáikulttuurviärmáduv toimâ lii vijđánâm iivij ääigi ärbivuáválii kulttuursektorist vijđásub taaidâ- já kulttuuršoddâdem sehe tiervâsvuođâ já pyereestvaijeem kyeskee pargo kuávlun .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lassidieđut : doaimmajođiheaddji Petra Biret Magga-Vars</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

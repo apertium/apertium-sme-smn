@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenuoraide earenoamáš orgána sámedikki oktavuhtii</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säminuoráid jieijâs orgaan sämitige ohtâvuotân</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenuoraide plánejuvvo sierra orgána sámedikki vuogádahkii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säminuoráid vuávájuvvoo sierânâs orgaan sämitiigán .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuoraidorgána plánenbargu leamaš jođus oahpahusministeriija ruhtadan prošeaktan jagi álggu rájes .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorâiorgaan vuávám lii lamaš joođoost máttááttâsministeriö ruttâdem projektin ive aalgâ rääjist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi lea ásahan ášši válmmaštallama várás earenoamáš bargojoavkku , man ságadoallin bargá sámedikki nuoramus lahttu Gáijjot Ántte Issaha Duomma , Tuomas Áslat Juuso , ja masa ášševálmmaštallin bargá prošeaktabargi Anne Länsman .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge lii asâttâm ääši valmâštâllâm várás sierânâs pargojuávhu , mon saavâjođetteijen tuáimá sämitige nuorâmus jeessân Tuomas Aslak Juuso já mon áášij valmâštellen parga proojeektpargee Anne Länsman .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oahpahusministeriija lea mieđihan sámediggái 40.000 euro lasse-doarjaga plánenbarggu joatkimii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Máttááttâsministeriö lii mieđettâm sämitiigán 40.000 euro lasetorjuu vuávámpargo juátkimân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi gávnnahii duhtavažžan nuoraid ášši ovdáneami čoahkkimistis Njellimis gaskavahku 24.6 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge páhudij tuđâvâžžân čuákkimistis nuorâi ääši ovdánem .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

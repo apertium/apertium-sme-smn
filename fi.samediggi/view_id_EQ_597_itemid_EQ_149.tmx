@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalašgiela ja kultuvrra konferánsa Sajosis</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämikielâ já kulttuur konferens Sajosist</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalašgiela ja kultuvrra konferánsa čohkke nuortalaččaid , mearrideaddjiid ja áššedovdiid golmma riikkas Sámekulturguovddáš Sajosii geassemánu 14.-15. beivviin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämikielâ já kulttuur konferens čuákkee nuorttâsämmilijd , merideijeid já äššitobdeid kuulmâ enâmist Säämi kulttuurkuávdáš Sajosân kesimáánu 14.– 15. peeivi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Konferánssa temán lea giela ja kultuvrra ealáskahttin golmma riikkas , Suomas , Norggas ja Ruoššas ja ulbmilin nannet nuortasápmelaš servoša .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Konferens teeman lii kielâ já kulttuur iäláskittem kuulmâ staatâst , Suomâst , Taažâst já Ruošâst já viggâmuššân lii nanodiđ nuorttâsämmilâš siärváduv .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Konferánssa vuosttaš ulbmiljoavkun leat nuortalaččat Suomas , Norggas ja Ruoššas , muhto maiddái buohkat geat lea beroštuvvan sámi kultuvrras dahje barget sámekultuvrrain leat bures boahtán konferánsii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Konferens vuosâsajasâš čuásáttâhjuávkkun láá nuorttâsämmiliih Suomâst , Taažâst já Ruošâst , mut meid puohah , kiäh tobdeh mielâkiddiivâšvuođâ sämikulttuurân já ton ohtâvuođâst pargeldeijeeh láá tiervâpuáttám .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Prográmmas leat logaldallamat , main áššedovdit gieđahallet iešguđet perspektiivvain nuortalašgiela ja kultuvrra ealáskahttima .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ohjelm čokkân luvâlduvâin , main äššitobdeeh kieđâvušeh nuorttâsämikielâ já kulttuur iäláskittem jieškote-uv uáinimčievâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Konferánssa giellan leat nuortalašgiella , suomagiella , dárogiella ja ruoššagiella .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Konferens kiellân láá nuorttâsämikielâ , suomâkielâ , tárukielâ já ruošâkielâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Loga olles dieđáhusa ja prográmma dás : Koltansaamen kielen ja kulttuurin konferenssi Sajoksessa 14.-15.06.2012 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Luuvâ ubâ tiäđáttâs já ohjelm täst : Koltansaamen kielen ja kulttuurin konferenssi Sajoksessa 14.-15.06.2012</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

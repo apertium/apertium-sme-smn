@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dieđáhus</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi váldá geavahussii ođđa šleađgapoastavuogádaga vahkus 11 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge váldá kiävtun uđđâ šleđgâpostâvuáháduv oho 11 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vuogádaga atnuiváldin álggahuvvo vuossárgga 14.3.2014 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuáháduv kiävtunväldim algâttep vuossaargâ 10.3.2014 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vuogádaga atnuiváldima áigge šleađgapoasttaid johtin sáhttá ádjánit .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuáháduv kiävtunväldim ääigi šleđgâpoostah sättih ájániđ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Hohpolaš áššiin ávžžuhit váldit oktavuođa sámediggái telefovnnain .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Huápulâš aašijn pivdep väldiđ ohtâvuođâ sämitiigán puhelimáin .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

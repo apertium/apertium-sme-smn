@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ođasvuorká</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uđâsarkkâdâh</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

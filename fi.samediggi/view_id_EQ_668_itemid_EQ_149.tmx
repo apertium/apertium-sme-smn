@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ođđa davvisámegielat matematihká ráidu lea gárvvis</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uđđâ orjâlâškielâlâš matematiik rááiđu lii valmâštum</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vuođđooahpahusa 1-6 luohkáide oaivvilduvvon ođđa davvisámegielat matematihká oahppogirjeráidu lea gárvánan .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuáđđumáttááttâs 1 - 6 iheluokáid uáivildum uđđâ orjâlâškielâlâš matematiik rááiđu lii valmâštum .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lohkoleaika - nammasaš ráiddu guokte maŋimuš jorgalusa , viđat ja guđat luohkáid oahppi girjjit giđđalohkanbadjái leat gárvánan ja daid lea vejolaš váldit atnui jagi 2013 álggus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lohkoleaika - nommâsâš rááiđu kyehti majemuš jurgâlus , viiđât já kuuđât luoká uáppeekirjeh kiđđâ- luuhâmpajân láá valmâštum já taid puáhtá väldiđ anon ive 2013 aalgâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lohkoleaika - ráidu lea jorgaluvvon Sanoma Pro Matikka - nammasaš ráiddus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lohkoleaika - räiđu lii jurgâlum Sanoma Pro Matikka - nommâsâš rááiđust .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Olles ráidu almmuhuvvo maiddái anárašgillii , mainna leat dán rádjái almmuhuvvon golbma vuolleluohkáid oahppogirjji .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ubâ räiđu almostuvvoo meiddei anarâškielân . Taan räi anarâškielân lii almostum kulmâ vyeliškoovlâ oppâkirje .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lassedieđut dás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasetiäđuid finniih täst .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

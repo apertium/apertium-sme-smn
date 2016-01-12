@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi giellaovttasbargu galgá nannejuvvot</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kielâohtsâšpargo kalga nanodiđ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi giellaovttasbarggu galgá buoridit daningo giella ovttasta sámiid badjel rájáid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kielâohtsâšpargo kalga nanodiđ , ko kielâ oovtâst sämmilijd väldikudij raajij paijeel .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Álgoálbmotgielat , nugo sámegielat , leat hui áitojuvvon unna gielat , mat dárbbašit stáhtain nannosut doarjaga , gávnnahii Sámedikki várreságadoalli Irja Seurujärvi-Kari Sámi parlamentarihkáriid konferánssas Roavvenjárggas 28.10 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Algâalmugij kielah , tegu sämikielah , láá uhkevuálásâš uccâ kieliih , moh tarbâšeh nanosub torjuu staatâst , páhudij sämitige värisaavâjođetteijee Irja Seurujärvi-Kari Säämi parlamenttârij konfereensâst Ruávinjaargâst 28.10 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- Maiddái sámeservodat galgá duođalaččat bargat sámegielaid ealáskahttima ovdii , dajai Seurujärvi-Kari .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- Meid sämisiärváduvah jiejah kalgeh rooččâđ korrâsávt sämikielâi naanoodmân , páhudij Seurujärvi-Kari .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Álgoálbmotgielat leat badjel bealli buot máilmmi 7000 gielas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Eenâb ko peeli maailm 7000 kielâst láá algâaalmugij kielah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Váldooassi máilmmi áitojuvvon gielain leat álgoálbmotgielat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Eenâbloho maailm uhkevuálásâš kielâin láá algâaalmugij kielah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Irja Seurujärvi-Kari sáhkavuoru sámiid giellapolitihkas gávnnat dás Irja Seurujärvi-Kari sáhkavuorru giellaoktasašbarggus 28102008 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Irja Seurujärvi-Kari sahâvuáru ollásávt säämi kielâpolitiikâst lii täst Irja Seurujärvi-Kari sáhkavuorru giellaoktasašbarggus 28102008 .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

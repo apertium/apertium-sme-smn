@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Prošeavttat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámekulturguovddáš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi mánáidkulturguovddaš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Skábma Filbmaguovváš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikulttuurkuávdáš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámemusihkkaguovddáš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Párnáikulttuurkuávdáš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi Giellagáldu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi muusikkuávdáš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SaKaste</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegielat giellalávgun skuvllas</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kielâlávgum škoovlâst SaKaste</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>SaKaste- Sámi sosiála- ja dearvvasvuođabálvalusaid ovddidanráhkadus-fidnu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SaKaste- Sämmilij sosiaal- já tiervâsvuođâpalvâlusâi ovdedemrááhtus-proojeekt</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>PaKaste 2 – Davvi guovllu Kaste-fidnu oassefidnu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>PaKaste 2 – Tavekuávlu Kaste-proojeekt uásiproojeekt</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>SaKaste- fidnu áigge buoriduvvui sámegielat ja kultuvrii vuođđuduvvi bálvalusaid kvalitehta , váik-kuheaddjivuohta ja oažžun sihke geahpeduvvojedje guovlluguovdasaš earut láhčimiin sámegielat ja – kultuvrii vuođđuduvvi buriid bargometodaid ja doaibmamálliid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SaKaste- proojeekt ääigi pyeredii sämikielâlij já kulttuurân vuáđuduvvee palvâlusâi kvaliteet , vai-kuttemvuođâ , finnim sehe kezidii kuávlulijd iäruid läčimáin sämikielâlijd já - kulttuurân vuáđuduvvee šiev pargovuovijd já toimâmaalijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovddidanbargoproseassa áigge sápmelaš bargiid iežaset ámmátidentitehta nanosmuvai ja sin gaskasaš áššedovdifierpmádat viiddui .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdedempargoproosees ääigi sämmilij pargei jieijâs áámmátidentiteet nanodui já koskânâs äššitobdeeviärmádâh vijđánij já šoodâi čavosin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovddidanbargu dahkkojuvvui proseassalundosaččat ja dan vuođđun lei sámekultuvra .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdedempargo porgui prooseesluándulávt já sämikulttuur vuolgâsoojijn .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi árra-bajásgeassima ja boarrásiidbarggu sámegielat bargoveahka doaimmai bargojoavkobargama áigge ovddidanáššedovdin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi arâšoddâdmist já puárásijpargoost pargee sämikielâlâš pargoviehâ toimâi juávkkupargo ääigi ovdedeijeeäššitobden .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sin ovddit čehppodat sihke kultuvrralaš sámi árbediehtu lei mearkkašahtti oasis ođđa doaibmamálliid ovddideamis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sii oovdeb mättim sehe kulttuurlâš sämmilâš ärbitiätu lijjii merhâšittee uásist uđđâ toimâmaalij rähtimist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Áššehasaid vuhtiiváldin oidnui dan láhkai ahte bargit dov-de áššehasaid dárbbuid ja bargiid rávvejedje ovddidanbarggu áigge leat diđolaččat áššehasa sáme-gillii ja – kultuvrii vuođđuduvvi bálvalusaid dárbbuin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Äššigâsvuolgâvuotâ oinui tast , ete pargeeh tubdii äššigâsâi táárbuid já sii stivrejii ovdedempargo ääigi tubdâđ äššigâs sämikielân já kulttuurân vuáđuduvvee palvâlusâi táárbuid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki lassin ovddidanbarggus ledje mielde sámiid ruovttuguovllu gielddat , SámiSoster ro , Davvi-Suoma sosiálasuorggi máhttinguovddáža sámeovttadat ja Sámi oahpahusguovddáš .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige lasseen ovdedempargoost lijjii fáárust sämikuávlu kieldah , Sámi Soster ry . , Tave-Suomâ sosiaalsyergi mättimkuávdáá sämiohtâdâh já Säämi máttááttâskuávdáš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi boarrásiidbargu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi puárásijpargo</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovddidanráhkadusa vehkiin ohccojuvvojedje sámi boarrásiidbargui dakkár bargomállet , mat ovddidit sápmelaš ahkeolbmo gielalaš ja kultuvrralaš vuoi-gatvuođaid ollašuvvama .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdedemráhtus vievâst uccii puárásijpaargon , maid pargeh sämmilij juávhust , tagarijd pargomaalijd , moh ovdedeh sämmilii elilâmulmuu kielâlij já kult-tuurlij vuoigâdvuođâi olášume .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi boarrásiidbarggu bargoneavvolođá</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi puárásijpargo tyejipiergâskassâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi árrabajásgeassin</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi arâšoddâdem</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Árrabajásgeassinbargui sámiid ruovttuguovllus ja dan olggobealde ohccojuvvojedje ovddidanbarggu vehkiin sámi árrabajásgeassinbargiide dakkár bar-gomállet , mat veahkehit ja dorjot bargiid máhtolaš-vuođa bajásgeassinbarggus nu , ahte sámemánáid gielalaš ja kultuvrralaš vuoigatvuođat ollašuvašedje .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Arâšoddâdempaargon , maid pargeh sämikuávlust já ton ulguubeln , uccii ovdedempargo vievâst sämmilii arâšoddâdempargoviehân tagarijd pargomaalijd , moh išedeh já tuárjuh pargovievâ mättim soddâdempargoost nuuvt , ete sämipárnái kielâliih já kulttuurliih vuoigâdvuođah olášuttuuččii .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sápmelaš Árabajásgeassinplána</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi arâšoddâdemvuávám</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi árrabajásgeassima rávagirji árgabeaivve diliide</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi arâšoddâdem aargâ tooimâi ravvuuh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>kuati .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Máhtolašvuođa nannen ja dieđubuvttadeapmi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>fi oovdânpyehtimvideo Mättim nanodem já tiäđupyevtittem</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>SaKaste – fidnu áigge nannejuvvui sámiid ruovt-tuguovllu sosiála- ja dearvvasvuođasuorggi bargo-veaga sámegiela ja – kultuvrra máhtolašvuohta sihke lasihuvvui mearrideaddjiid sámegiela ja – kultuvrra vuhtiiváldi doaimma diđolašvuođa mearkkaš-upmi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SaKaste – proojeekt ääigi nanodii sämikuávlust pargee sosiaal- já tiervâsvuođâsyergi pargovievâ sämikielâ já - kulttuur mättim sehe lasettii merideijei sämikielâ já - kulttuur vuotânväldee tooimâ tiäđulâšvuođâ merhâšume .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Loga lasi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Luuvâ lase</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>SaKaste- fidnu dáhpáhusat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SaKaste- proojeekt tábáhtusah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Raporttat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Raporteh</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

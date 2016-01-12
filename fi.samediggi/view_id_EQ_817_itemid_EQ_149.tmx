@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi jugii jagi 2014 kulturdoarjagiid</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kulttuurmeriruuđâst mieđettum kulttuurtorjuuh ive 2014</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki kulturlávdegoddi jugii čoahkkimis 24.1.2014 jagi 2014 sámedikki kulturdoarjagiid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige kulttuurlävdikodde juovij čuákkimistis 24.1.2014 ive 2014 sämitige kulttuurtorjuid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stáhta bušeahtas sámegielat kultuvrra ovddideapmái ja sámeservviid doaibmamii ( ng. sámi kulturmearreruhta ) jahkái 2014 lea čujuhuvvon 176 000 euro , mas 10 340 euro Ohcejoga kirkostobuid bajásdoallamii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Staatâ budjetist sämikielâlii kulttuur oovdedmân ja sämiseervij tooimân ( nk. säämi kulttuurmeriruttâ ) ihán 2014 lii čujottum 176 000 eurod , mast 10 340 eurod Ucjuv kirkkotuuvij paijeentolâmân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki kulturlávdegoddi vuostáiválddii ohcamušaid 80 st oktiibuot 754 025,25 euro ovddas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige kulttuurlävdikodde vaaldij vuástá ucâmušâid 80 pittád ohtsis 754 025,25 euro oovdâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Aitosaš kulturdoarjjan mieđihuvvui oktiibuot 81 780 € , servviid doaibmandoarjjan 60 000 € ja almmustaht-tindoarjjan 20 380 €.</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Eidusâš kulttuurtoorjân mieđettuvvojii ohtsis 81 780 € , seervij toimâtoorjân 60 000 € já almostittemtoorjân 20 380 €.</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doarjagat mieđihuvvojedje čuovvovaččat :</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Torjuuh mieđettuvvojii čuávuvávt :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Veahkkeruđa oažžuin ráhkaduvvon dievaslaš listá lea Sámedikkis . Listtás leat maiddái lunddolaš olbmo nammadieđut .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Išeruuđâ finnim ulmuin rahtum tievâslâš listo lii Sämitiggeest , tot ana sistees meid luándulii ulmuu nommâtiäđuid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nammadieđut luohpaduvvojit bivdagis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nommâtiäđuid luovâttep pivdem vuáđuld .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Rávvagat áššegirjebivdagis</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Raavâ äššikirjepivdemist</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Áššegirjebivdda</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Äššikirjepivdem</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

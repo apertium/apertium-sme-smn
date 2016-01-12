@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Heikki Paltto ollesáigásaš ságajođiheaddji sadjásažžan</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Heikki Paltto váldutoimâlii saavâjođetteijee sajasâžžân</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki II várreságajođiheaddji</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige II värisaavâjođetteijee</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Heikki Paltto</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Leammis doaibmá sámedikki ollesáigásaš ságajođiheaddjin 25.4.2014 - 26.5.2014 áigge .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lemmest tuáimá sämitige váldutoimâlâš saavâjođetteijen 25.4.2014 - 26.5.2014 koskâsii ääigi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki stivra lea čoahkkimisttis 5.3.2014 mieđihan ollesáigásaš ságajođiheaddjái Klemetti Näkkäläjärvii bálkkáhis virgelobi máinnašuvvon áigái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige stivrâ lii čuákkimistis 5.3.2014 mieđettâm váldutoimâlâš saavâjođetteijei Klemetti Näkkäläjärvin pälhittes virgerijjâvuođâ áášánkullee ááigán .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

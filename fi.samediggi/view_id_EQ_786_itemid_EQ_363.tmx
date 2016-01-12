@@ -1,0 +1,1570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargojoavkoovddastus</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargojuávkkuovdâstus</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki nammadan ovddasteaddjit bargojoavkkuin</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige nomâttem ovdâsteijeeh pargojuávhuin</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámiid vuoigatvuođat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämmilij vuoigâdvuođah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doaibmabadji</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toimâpaje</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdâsteijee / - h</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovddasteaddji / - t</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Väriovdâsteijee / - h</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Árktalaš duogášjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Arktâlâš tuávvášjuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Jotkkolaš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Juátkojeijee</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Árktalaš guovllu ráđđádallangoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Arktâlâš kuávlu ráđádâllâmkodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Barents-duogášjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Heikki Paltto</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Jotkkolaš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Juátkojeijee</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eurohpa Ráđi vaššiságaid vuostálasti kampánja</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Euroop Rääđi vajesaavâ vuástásâš kampanja</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tuomas-Aslak Juuso</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Olmmošvuoigatvuođadelegašuvdna</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Olmoošvuoigâdvuotairâskodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Interreg Davvi - prográmma válmmaštallanproseassa stivrenjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Interreg Tave- ohjelm valmâštâllâmproosees njunošjuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Heikki Paltto</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Interreg Davvi-prográmma válmmaštallanproseassa bargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Interreg Tave- ohjelm valmâštâllâmproosees pargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Heikki Paltto</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lappi ELY-guovddáža ráđđádallangoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laapi IPI-kuávdáá ráđádâllâmkodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ilmari Tapiola</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Heikki Paltto</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lappi lihtu stivra</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laapi lito stivrâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Eennâmkode oovtâstpargojuávkku ( EOJ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>( MYR ) )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anne Nuorgam</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Heikki Paltto</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Meahcceráđđehusa Anára ja Soađegili oktasašbargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Meccihaldâttâs Aanaar já Suáđigil oovtâstpargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Meccihaldâttâs Iänuduv oovtâstpargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Meahcceráđđehusa Eanodaga oktasašbargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Juha Magga , Saara Ketola ja Tuomas Aslak Juuso</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Meahcceráđđehusa Lappi ráđđádallangoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Meccihaldâttâs Laapi ráđádâllâmkodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tiina Sanila-Aikio</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Meccihaldâttâs Ucjuv oovtâstpargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Meahcceráđđehusa Ohcejoga oktasašbargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Rauna Guttorm , Olavi Aikio ja Urpo Vuolab</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Meccirääđi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Anu Avaskari</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Osmo Seurujärvi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vuovderáđđi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Heikki Paltto</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Davviriikkaid sámesoahpamuša Suoma delegašuvnna álbmotlaš duogášjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tave-enâmij sämisopâmuš Suomâ airâskode aalmuglâš tuávvášjuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ulla Magga</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Davviriikkalaš sámeáššiid</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Anu Avaskari , Nilla Tapiola ,</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>virgeolmmošorgána Suoma delegašuvdna</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tave-eennâmlii sämiašij virgeolmoošorgaan Suomâ airâskodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Davviriikkalaš sámesoahpamuša ráđđádallandelegašuvdna</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Aimo Guttorm Tave-eennâmlii sämisopâmuš ráđádâllâmairâskodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anne Nuorgam</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vehádatáššiid ráđđádallangoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ucceeblohoašij ráđádâllâmkodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovttaveardásašvuohta ovdasadjái 7-prošeavtta stivrenjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Oovtviärdásâšvuotâ ovdâsajan 7-proojeekt stivrimjuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ulla Magga</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nihkolas Valkeapää</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Biras</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Piirâs</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doaibmabadji</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toimâpaje</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdâsteijee / - h</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovddasteaddji / - t</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Väriovdâsteijee / - h</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Biodiversitehtabargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Biodiversiteetpargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ekologalaš árbevierrodiehtu sámiid ruovttuguovllus– prošeavtta stivrenjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Fennoskandia ruonáavádat - bargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Avvila dulvesuodjalan áššedovdibargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Avveel tulvesuojâlem- äššitobdeepargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bigga-Helena Magga</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Álbmotlaš artihkkala 8(j ) áššedovdibargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Aalmuglâš artikla 8(j ) äššitobdeepargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Petra Magga-Vars ,</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Heikki Paltto ( áššedovdi )</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Heikki Paltto ( äššitobdee )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Riikkaidgaskasaš biodiversitehtabargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Aalmugijkoskâsâš biodiversiteetpargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suvdilis ovdáneami doaibmagoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pištee ovdánem toimâkodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tiina Sanila-Aikio</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Geavu dikšun- ja geavahanplána – prošeavtta oktasašbargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kiävu hoittám- já kevttim-vuávám- proojeekt oovtâstpargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ilmari Tapiola</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Geavu dikšun- ja geavahanplána Akwé : Kon – bargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kiävu hoittám- já kevttimvuávám Akwé : Kon - pargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Aikio , Suvi Somby-Rasmus ,</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ilmari Tapiola ( sj ) , Ari-Heikki</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Giehtaruohttasa meahcceguovllu , Malla luonddumeahci ja Saana luonddusuodjalanguovlluid dikšuma ja geavaheami plánenfidnu oktasašbargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kietâruotâs meccikuávlu , Malla luándumeeci já Saana luándusuoijâlemkuávlui hoittám já kevttim vuávámproojeekt oovtâstpargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Per Oula Juuso , Tuomas Aslak</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Meahcceráđđehusa Akwé:Kon – joavku Urho Kekkonen álbmotmeahci dikšun- ja geavahanplána gárvvisteames</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Meccihaldâttâs Akwé:Kon - juávkku Urho Kekkos aalmuglâšmeeci hoittám- já kevttimvuávám rähtimist</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Inga-Briitta Magga , Jouni Alakorva</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nagoya beavdegirjji álbmotlaš ollašuhttima válmmaštalli bargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nagoyan pevdikirje aalmuglâš olášuttem valmâštellee pargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Resursamobilisašuvdna ja luonddu máŋggahámatvuođa dáfus vahátlaš álbmotlaš doarjagat-áššedovdifierpmádat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámeguovllu duovddaguovlluid árvvoštallanjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Heikki Paltto</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ealáhusat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Iäláttâsah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doaibmabadji</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toimâpaje</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdâsteijee / - h</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovddasteaddji / - t</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Väriovdâsteijee / - h</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eanodaga guolledoalloráđđádallangoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Iänuduv kyelituáluráđádâllâmkodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Marjatta Magga</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Antti-Oula Juuso</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anára guolledoalloáđđádallangoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Aanaar kyelituáluráđádâllâmkodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Osmo Seurujärvi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Guolledoalu ovddidanfoandda stivra</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kyelituálu ovdedemruttârááju stivrâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Jouni Aikio</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lappi lihtu luossabargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laapi lito luosâpargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lappilaš ealáhusat boazobargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lappiliih iäláttâsah puásuipargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>MELA guollebivdiid ja badjeolbmuid ráđđádallangoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anne Nuorgam</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Heikki Paltto</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Eennâmtuáluirâtteijei iäláttâslájádâs ( Mela ) kuálásteijei já puásuituállei ráđádâllâmkodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bálgosiid ovttastusa stivra</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Palgâsij ovtâstus stivrâ Asko Länsman</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Boazoáiddiid fuođđodorvvolašvuohta – fidnu stivrenjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Heikki Paltto Puásuituálukuávlu stuorrâpiäturáđádâllâmkodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Petra Magga-Vars</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Heikki Paltto</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Boazodoalloguovllu spireráđđádallangoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Boazodoallo- ja luondduealáhusdutkamuša ráđđádallangoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Puásuituálu- já luánduiäláttâstutkâm ráđádâllâmkodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Spirepolitihka árvvoštallanbargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Deanu guolástansoahpamuša ráđđádallan sáttagoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stuorrâpiätupolitiik árvustâllâm-pargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Marita Lukkari</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Heikki Paltto</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tiänu kuálástussopâmuš ráđádâllâmairâskodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Deatnu-bargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tiänu-pargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nilla Tapiola , Ilmari Tapiola ,</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anne Nuorgam</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Asko Länsman , Anne Nuorgam , Arto Pohjanrinne , Veikko Porsanger ,</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>, Aimo Guttorm ( čálli )</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>V eikko Guttorm ja Aimo Guttom ( čällee )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ohcejoga guolledoalloráđđádallangoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ucjuv kyelituáluráđádâllâmkodde Maarit K. Pieski</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sosiála- ja dearvvasvuođabálvalusat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sosiaal- já tiervâsvuođâpalvâlusah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doaibmabadji</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toimâpaje</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdâsteijee / - h</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovddasteaddji / - t</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Väriovdâsteijee / - h</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laapi pyereestvaijeempargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>bargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nihkolas Valkeapää</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lappi buohccedikšunbire veajuiduhttima áššehas oktasašdoaibmagoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laapi pyecceitipšompirrâduv vajoidittem äššigâsohtsâštoimâkodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ulla Magga</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lappi buohccedikšunbire vuođđodearvvasvuođafuolahusa ovttadaga stivrenjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laapi pyecceitipšompirrâduv vuáđutiervâsvuođâhuolâttâs ohtâduv stivrimjuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Poske sámeovttadaga plánejeaddji (</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Poske sämiohtâduv vuávájeijee</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lappi buohccedikšunbire vuođđodearvvasvuođa fuolahusa ovttadaga sámegielat bálvalusat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laapi pyecceitipšompirrâduv vuáđutiervâsvuođâhuolâttâs ohtâduv sämikielâliih palvâlusah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nihkolas Valkeapää</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lappi sosiálabarggu ja sosiálasuorggi oahpahus ja dutkanguovddáža stivrenjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laapi sosiaalpargo já sosiaalsyergi máttááttâs- já tutkâmkuávdáá stivrimjuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Anu Avaskari</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lappi doaibmaovttadaga stivrenjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laapi sosiaalpargo já sosiaalsyergi máttááttâs- já tutkâmkuávdáá stivrimjuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sosiaal- já tiervâsvuođâlävdikode saavâjođetteijee ,</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ilmari Tapiola</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sosiála- ja dearvvasvuođalávdegotti várreságajođiheaddji ,</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sosiaal- já tiervâsvuođâlävdikode värisaavâjođetteijee , ,</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nihkolas Valkeapää</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lappi lápmásiidbargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laapi vádulâšpargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Davvi-Suoma guovlostivrenjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tave-Suomâ kuávlunanošjuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Davvi-Suoma sosiálasuorggi máhttinguovddáža ráđđádallangoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tave-Suomâ sosiaalsyergi mättimkuávdáá ráđádâllâmkodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Poske sámeovttadaga plánejeaddji (</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>POSKE : sämiohtâduv vuávájeijee (</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sosiála- ja dearvvasvuođa čálli (</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sosiaal- já tiervâsvuođâčällee (</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Škovlim</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doaibmabadji</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toimâpaje</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdâsteijee / - h</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovddasteaddji / - t</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Väriovdâsteijee / - h</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovda- , vuođđo- ja lasseoahpahusa oahppoplána vuođuštanbarggu stivrenjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdâ- , vuáđu- já lasemáttááttâs máttááttâsvuávám vuáđupargo stivrimjuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Petra Magga-Vars</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lappi allaskuvlakonsearnna ráđđádallangoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laapi ollâškovlâkonsern ráđádâllâmkodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>( kočodum )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>( bovdejuvvon )</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ulla Aikio-Puoskari</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Davviriikkalaš oahppamateriála oktasašbarggu ovddideaddji virgeolmmošjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámekultuvrra dutkkusdoaibmagoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikulttuur tuđhostoimâkodde Ilmari Tapiola</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámiid skuvlenáššiid oktasašbargoorgána</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämmilij škovlimašij oovtâstpargo-orgaan</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Outi Länsman , Pigga Keskitalo</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>SOG:a stivra</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SMK stivrâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ilmari Tapiola , Annukka</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Kultuvra</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Hirvasvuopio-Laiti , Aslak Paltto , Veikko Feodoroff , Berit-Ellen Juuso ja Jouko Hetta</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doaibmabadji</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toimâpaje</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdâsteijee / - h</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovddasteaddji / - t</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Väriovdâsteijee / - h</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Evangelalaš-luteralaš girkolaščoahkkin</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Evankellâs-luterilâš kirholâščuákkim</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Veikko Guttorm</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Johtti girjerádju – fidnu stivrenjoavku Gábe Jovnna eanasaji stivra</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Johtti girjerádju / Jottee kirjerááju – proojeekt stivrimjuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalaškulturguovddáža stivra</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kaabi Joovnâ tile stivrâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lappi guovlluguovdasaš lihkadanráđđi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lappi dáiddadoaibmagoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Heikki Paltto Ilmari Tapiola</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámemusihka rávesolbmuidskuvlema ovdačilgehusprošeavtta stivrenjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anu Magga</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Veikko Guttorm</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Tä ´lvvsijdd – nuortalaškulturguovddáš Čeavetjávrái prošeavtta stivrenjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mánát ja nuorat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Párnááh já nuorah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doaibmabadji</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toimâpaje</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdâsteijee / - h</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovddasteaddji / - t</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Väriovdâsteijee / - h</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mánáid ja nuoraid dáiddaguovddáža vuođđudusa ráđđádallangoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Párnái já nuorâi taaiđâkuávdáá vuáđudâs ráđádâllâmkodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Petra Magga-Vars</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuoraid Lappi II - stivrenjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorâi Lappi II-stivrimjuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuoraid bálvalusat ortnegii – fidnu stivrenjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorâi palvâlusâid oornigân – proojeekt stivrimjuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nilla Rahko , Anna-Maret Labba</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi parlamentáralaš ráđi nuoraidlávdegoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Aslak Holmberg , Elli-Marja Hetta Sämikielâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargojoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargojuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doaibmabadji</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toimâpaje</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdâsteijee / - h</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovddasteaddji / - t</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Väriovdâsteijee / - h</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>FiBLUL stivra</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>FiBLUL stivrâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi giellaguovddáš Ohcejohkii - ovdačielggadanfidnu stivrenjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>sámi giellaráđi ságajođiheaddji</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>kielâtorvočällee , Siiri Jomppanen</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>sámi giellaráđi várreságajođiheaddji ,</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ulla Magga</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gollegiella árvvoštallankomitea</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kollekielâ árvuštâllâmkomitea</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Giellaáššiid ráđđádallangoddi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kielâašij ráđádâllâmkodde</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>( áššedovdi )</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Siiri Jomppanen ( äššitobdee )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>giellaáššiidčálli</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>kielâašijčällee</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bolesa ja čearddalaš servošiid oktasašbargoforum</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Poolis já etnisij siärváduvâi oovtâstpargofoorum</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Siiri Jomppanen</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>giellaáššiidčálli</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>kielâašijčällee</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>SáFá2 – fidnu nuortalašgiela giellajuogus</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SáFá2- proojeekt nuorttâlâškielâ kielâjuávus</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Natalia Vaskova</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Miika Lehtinen , Hilkka Fofanoff , Raija Lehtola , Zoja Nosova</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>SáFá2 – fidnu anárašgiela</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SáFá2-proojeekt anarâškielâ kielâjuávus</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>( sj ) , Petter Morottaja , Marja-Liisa Olthuis</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>SáFá2 – fidnu stivrenjoavku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SáFá2-proojeekt stivrimjuávkku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tiina Sanila-Aikio</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>( saavâjođetteijee )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>SáFá2 – fidnu davvisámegiela giellajuogus</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SáFá2-proojeekt tavesämikielâ kielâjuávus</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ulla Magga , Ailu Valle</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ellen Pautamo , Kaarina Vuolab-Lohi</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

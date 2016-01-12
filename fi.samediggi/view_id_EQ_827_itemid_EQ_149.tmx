@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anárašgiela giđđaáppes almmustuvai</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Anarâškielâ kiđđâaabis almostui</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anárašgiela giđđaáppes</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>lea almmustuvvan .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girjji lea čállán Matti Morottaja ja govaid dasa ráhkadan Tanja Severikangas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Matti Morottaja čáállám já Tanja Severikangas kuvvim anarâškielâ kiđđâaabis Muu Aabis , kiđđâ lii almostum .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girji lea joatkka ovdal almmuhuvvon čakčaáppesii ja dasa gullevaš bargogirjái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kirje lii jotkâ ovdil almostittum čohčâaabisân já toos kullee pargokiirján .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Maiddái giđđaáppesii boahtá maŋŋelis bargogirji .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Meid kiđđâaabisân lii puátimin pargokirje .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ánárašgiela eatnigiela lohkkit ožžot čuovvovažžan atnui Petter Morottaja čállin nuppi luohká oahppogirjji , mii galggašii boahtit prentemis giđđat 2014 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Anarâškielâ eenikielâ uáppeeh finnejeh čuávuvâžžân kieđâidis Petter Morottaja čáállám 2. luoka oppâkirje , maid vyerdip teddilâsâst kiđđuv 2014 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lassedieđut sámedikki almmuhan anárašgielat oahppamateriálain gávdnojit dás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasetiäđuh sämitige almostittem anarâškielâlijn oppâmateriaalijn täst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki almmuhan oahppamateriálat leat fidnemis Sámi duodjegávppis Sajosis Anáris , ovttastusa fierbmegávppis dahje sámedikki skuvlen- ja oahppamateriáladoaimmahagas ritva .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige almostittem oppâmateriaaleh láá finniimist Sámi duodji-käävpist Sajosist Anarist , seervi nettikäävpist teikâ sämitige škovlim- já oppâmateriaaltoimâttuvvâst ritva .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>tammela ( at ) samediggi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>tammela ( at ) samediggi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>fi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>fi .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

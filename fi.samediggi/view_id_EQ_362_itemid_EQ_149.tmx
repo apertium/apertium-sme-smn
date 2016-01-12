@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki kulturlávdegoddi jugii jagi 2010 kulturdoarjagiid</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige kulttuurlävdikodde juovij ive 2010 kulttuurtorjuid</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki kulturlávdegoddi jugii čoahkkimis 30.3.2010 dán jagi kulturdoarjagiid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige kulttuurlävdikodde juovij čuákkimistis 30.3.2010 taan ive kulttuurtorjuid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Aitosaš kultur-doarjjan juhkkui 72 000 euro .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Eidusâš kulttuurtoorjân juohhui 72 000 eurod .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Riikkaidgaskasaš kulturovttasbargui juhkkui 35 000 duhát euro .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Aalmugijkoskâsâš kulttuuroovtâstpaargon juohhui 35 000 eurod .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki kulturlávdegoddi vuostái válddii ohcamušaid 86 st oktiibuot 701 073,00 euro ovddas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige kulttuurlävdikodde vaaldij ucâmušâid vuástá 86 pittád ohtsis 701 073,00 euro oovdâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doarjagat mieđihuvvojedje čuovvovaččat :</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Torjuuh mieđettuvvojii čuávvoo oornigist :</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

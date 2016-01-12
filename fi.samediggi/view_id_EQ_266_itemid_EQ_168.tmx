@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Arkitektuvragilvvu bohtosat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Arkkitehtuurkišto puátuseh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>” ađa ” vuittii Sámi kulturguovddáža arkitektuvragilvvu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>” ađa ” vuoitij Säämi kulttuurkuávdáá arkkitehtuurkištottâllâm</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Senaatti-kiinteistöt lágidii guovtte oasat arkitektuvragilvvu Sámi kulturguovddážis , mii huksejuvvo Anára kirkosiidii Juvdujoga gáddái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Seenaat-kiddoduvah ornij arkkitehtuurkištottâllâm Säämi kulttuurkuávdáást , mii huksejuvvoo Aanaar markkânân Juvduu riidon .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gilvvu vuoitit almmustahttojedje otne 4.12.2008 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kištottâllâm vyeitteeh almostittojeh onne 4.12.2008 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vuosttas bálkkašumi , 40 000 euro , vuittii evttohus nammamearkkain ” ađa ” , man dahkkit leat arkiteakta SAFA Janne Laukka , arkiteakta studeanta Tuomas Niemelä ja arkiteakta studeanta Milla Parkkali .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuossâmuu palhâšume 40 000 eurod vuoitij iävtuttâs nommâmerháin ” ađa ” ( oođâ ) , mon tahheeh lijjii arkkiteht SAFA Janne Laukka , arkkit . pu Tuomas Niemelä já arkkit .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bálkkašupmelávdegotti mielde evttohus lea doaimmaid dáfus čoavddusin beaktil ja ovddidandohkálaš ja evttohus deavdá buoremusat gilvui biddjon hástaleaddji mihttomeriid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>pu Milla Parkkali . Palhâšumelävdikode mield iävtuttâs lâi toimâlâs čuávdusin pehtil já ovdánemtohálâš já tiävdá pyeremustáá kištottâlmân asâttum hästee uulmijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gilvvus juhkkojedje oktiibuot golbma bálkkašumi , lodnujuvvui okta evttohus ja mieđihuvvojedje guokte gudnemáinnašumi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kištottâlmist juáhhojii ohtsis kulmâ palhâšume , ohtâ iävtuttâs lonestui já oohtân mieđettuvvojii kyehti kunneemainâšume .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Loga ollislaš dieđáhus</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Luuvâ ubâ tiäđáttâs suomâkielâlâžžân</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

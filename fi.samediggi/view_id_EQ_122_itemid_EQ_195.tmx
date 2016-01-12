@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Prošeavttat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáppe gávnnat Sámedikki proševttaid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tääbbin puávtáh eelliđ keččâmin projektijd , moh láá Sämitiggeest joođoost .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čađahuvvon proševttaid loahparaportaid gávnnat dokumeantabáŋkku PROŠEAVTTAT-máhpas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuuhâm projektij loppâraportijd kaavnah dokumentpaaŋkist PROJEKTEH-maapist .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

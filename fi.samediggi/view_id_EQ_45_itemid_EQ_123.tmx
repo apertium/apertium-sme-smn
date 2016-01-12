@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toimâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doaibma</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oahppamateriálabargu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Škovlim Oppâmateriaalpargo</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sosiála- ja dearvvašvuohta</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sosiaal- já tiervâsvuođâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sosiálasuorggi máhttinguovddáš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sosiaalsyergi mättimkuávdáš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuoraid dáiddadáhpáhus</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorâi taaidâtábáhtus</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Artikla 8(j ) olášuttem</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sosiála- ja dearvvasvuohtabálvalusaid</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâlâš sosiaal- já tiervâsvuođâpalvâlusah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sápmelaččaid sosiála- ja dearvvasvuohtafuolahusa ovddideapmin sámediggi lea geahččan , ahte sámiid gielalaš ja kultuvrralaš vuoigat- vuođaid ollašuhttimii sosiála- ja dearvvasvuohtafuolahusa bálvalusat fállojit sámiid iežaset eatnigielain , plánejuvvojit sámiid iežaset vuolggasajiin nu ahte váldojit vuhtii sámi kulturduogáš , árbevirolaš árvvut ja eallinvuohki ja jurddašanvuohki sihke bálvalusat ordnejuvvojit sámi kulturiešráđđema vuođul .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämiaalmug sosiaal- já tiervâsvuođâhuolâttâs oovdedmân lii Sämitigge uáinám , et sämmilij kielâlâš já kulttuurlâš vuoigâdvuođâi olášutmân sosiaal- já tiervâsvuođâhuolâttâs palvâlusah fállojeh sämmilij jieijâs eenikielân , vuávájuvvojeh sämmilij jieijâs vuolgâsoojijn , sämmilâš kulttuurtuávááš , ärbivuáválijd áárvuid sehe eellimvyevi já jurdâččemvuovijd vuotânväldimáin sehe palvâlusah uárnejuvvojeh sämmilij kulttuurjiešhaldâšem vuáđuld .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Riikkabeaivvit dohkkehedje jagis 2002 vuosttas háve stáhta bušehttii sierra stáhtadoarjaga sámegielat sosiála- ja dearvvasvuohtabálvalusaid fállama várás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdâskodde tuhhiittij ive 2002 vuosmuu keerdi staatâ budjetân sierânâs staatâtorjuu sämikielâlâš sosiaal- já tiervâsvuođâpalvâlusâi pyevtittem várás .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sierramearreruhta lea sámiid vuođđolágalaš iešráđđema dehalaš oassi sámiid ruovttuguovllus , man bokte sámit sáhttet mearkkašahttiláhkai váikkuhit sidjiide dárkkuhuvvon bálvalusaid buvttadeapmái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sierânâsmeriruttâ lii tehálâš uási sämmilij vuáđulavâlâš jiešhaldâšem sämikuávlust , mon pehti sämmiliih pyehtih merhâšitteht vaikuttiđ sijjân čujottum palvâlusâi pyevtitmân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bušeahta mielde 480 000 euro mearreruđa oažžu geavahit stáhtadoarjaga máksimii Sámedikki bokte sámeguovllu gielddaide sámegielat sosiála- ja dearvvasvuođabálvalusaid dorvvasteami várás buot sámegielaiguin , sihke 120 000 euro mearreruđa sámegielat beaivedikšobálvalusaid dorvvasteami várás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Budjet mield 480 000 euro meriruuđâ uážžu kevttiđ staatâtorjuu mäksimân Sämitige peht sämikuávlu kieldáid sämikielâlij sosiaal- já tiervâsvuođâpalvâlusâi turviimân puoh sämikieláid , sehe 120 000 euro meriruuđâ sämikielâlij peivitipšopalvâlusâi turviimân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stáhtadoarjaga geavaheapmi vuođđuduvvá Sámedikki ja sámiid ruovttuguovllu gielddaid gaskasaš soahpamušmeannudeapmái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Staatâtorjuu kiävttu vuáđuduvá Sämitige já sämikuávlu kieldâi koskâsii sopâmušlattiimân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi sosiála- ja dearvvasvuođabálvalusaid ovddidanfidnut</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämmilij sosiaal- já tiervâsvuođâpalvâlusâi ovdedemprojekteh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámiid ruovttuguovllu gielddain Eanodagas , Anáris , Soađegilis ja Ohcejogas leat čađahuvvon ovttas Sámedikkiin Sámi sosiálabálvalusaid ovddidanovttadat-fidnu 1.9.2007–31.12.2009 sihke Sámi sosiála- ja dearvvasvuođabálvalusaid ovddidanfidnu SaKaste 1.10.2011 - 31.10.2013 . Fidnuid ovddidanbargguin ohccojuvvojedje sámi boarrásiid- ja árrabajásgeassinbargui bargomállet , mat ovddidit sámiid gielalaš ja kultuvrralaš vuoigatvuođaid ollašuvvama .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikuávlu kieldâin Iänuduvvâst , Anarist , Suáđigilist já Ucjuuvâst lii olášuttum oovtâstpargoost Sämitiggijn Sämmilij sosiaalpalvâlusâi ovdedemohtâdâh-proojeekt ääigist 1.9.2007–31.12.2009 sehe Sämmilij sosiaal- já tiervâsvuođâpalvâlusâi ovdedem-proojeekt SaKaste ääigist 1.10.2011 - 31.10.2013 Projektij ovdedempargo vievâst uccii puárásij- já arâšoddâdempaargon , maid pargeh sämmilij juávhust , pargomaalijd , moh ovdedeh sämmilij kielâlij já kulttuurlij vuoigâdvuođâi olášume .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi boarrásiidbargu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi puárásijpargo</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámiid ruovttuguovllus boarrásiidfuolahusa ( ruoktobálvalus , bálvalusássan , beavttálmahtton bálvalusássan ja lágádusdikšu ) bálvalusain buori divššu ja fuolaatnima ulbmilin lea , ahte sámi ahkeolbmuid iežaset giella ja kultuvra váldojuvvo vuhtii buot dikšun- ja fuolaatninbálvalusain .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikuávlust puárásijhuolâttâs ( päikkipalvâlem , palvâlemaassâm , pehtilittum palvâlemaassâm já lájádâstipšo ) palvâlusâin šiev tipšo já huolâttâs ulmen lii , ete elilâm sämmilij jieijâs kielâ já kulttuur váldojeh vuotân puoh tipšo- já huolâttâspalvâlusâin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi boarrásiidbarggu áššehas oažžu buori divššu ja fuolaatnima dalle , go bálvalusat lágiduvvojit sámi árvvuid mielde ja iežas eatnigillii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi puárásijpargo äššigâs finnee šiev tipšo já huolâttâs talle , ko palvâlusah olášuttojeh sämmilij áárvui mield já jieijâs eenikielân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ná áššehassii boahtá dovdu das , ahte son sámegielagin ja sámi eallinvuogi vásihan olmmožin oažžu eallit iežas kultuvrra mielde gitta loahpa rádjai .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Návt äššigâsân šadda tobdo tast , ete sun sämikielâlâžžân já säämi eellimvyevi mield iällám olmožin uážžu eelliđ jieijâs kulttuur miäldásávt suu eellim loopâ räi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>SaKaste – fidnus gárvvistuvvui Sámi boarrásiidbarggu bargoneavvolođá , , mii sisttisdoallá rávvagiid ja ávžžuhusaid sámegiela ja – kultuvrra vuhtiiváldi dikšun- ja fuolaatninbarggus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SaKaste – projektist rahtui Säämi puárásijpargo tyejipiergâskassâ , mii ana sistees ravvuid já avžuuttâsâid tipšo- já huolâttâspargoost , mii váldá vuotân sämikielâ já - kulttuur .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dát bargomállet gávdnet saji sámi boarrásiidbarggus , go kultuvrra ja giela vuhtiiváldi bargomállet váldojuvvojit aktiivvalaččat atnui bargobáikkiin ja skuvlenprográmmain .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taah pargomaalih ruotâsmuveh säämi puárásijpaargon , ko kulttuur já kielâ vuotânväldee pargomaalih váldojeh aktiivlávt kiävtun pargosoojijn já škovlimohjelmijn .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi árrabajásgeassin</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi arâšoddâdem</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi árrabajásgeassima rola giela , kultuvrra ja árbevirolaš dieđu sirdin nuorat buolvvaide lea mearkkašahtti .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi arâšoddâdem uási kielâ , kulttuur já ärbivuáválij tiäđu sirden nuorâbijd suhâpuolváid lii merhâšittee .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegielat árrabajásgeassiid čehppodaga doarjun ja sámi bajásgeassinárvvuid mieldásaš bargomállet leat guovddážis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâlij arâšoddâdeijei mättim tuárjum já sämmilij šoddâdemáárvui miäldásiih pargomaalih láá kuávdáást .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi sosiálabálvalusaid ovddidanovttadat-fidnu boađusin dahkkojuvvui Sámi árrabajásgeassinplána , man ruohtasmahttin ja bargomálliid ovddideapmi jotkojuvvui Sámi sosiála- ja dearvvasvuođabálvalusaid ovddidanfidnu áigge .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämmilij sosiaalpalvâlusâi ovdedemohtâdâh-proojeekt puátusin rahtui Säämi arâšoddâdemvuávám , mon ruotâsmittem já pargomaalij ovdedem juátkojii Sämmilij sosiaal- já tiervâsvuođâpalvâlusâi ovdedemproojeekt ääigi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Fidnu boađusin válmmaštuvve Sámi árrabajásgeassima rávagirji árgabeaivve diliide ja anáraš- , nuortalaš- ja davvisámegielat árrabajásgeassinbargiid kuati .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Proojeekt puátusin šoddii Säämi arâšoddâdem aargâ tooimâi ravvuuh já anarâš- , nuorttâlâš- já tavesämikielâlii arâšoddâdempargovievâ kuati .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>fi – materiálabáŋkosiidduid rámat ja váldoprinsihpat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>fi – materiaalpaŋkkisiijđoi raamih já válduprinsiipeh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Materiálabáŋku lea dál anus dušše sámegielat giellabesiid ja beaivedikšoovttadagaid bargiide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Materiaalpaŋkki lii tääl kiävtust tuše sämikielâlij kielâpiervâlij já peivitipšo-ohtâduvâi pargoviehân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Siidduid gárvemii vurdojuvvo joatkkafidnu .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Siijđoi loopân rähtim várás vyerdih jotkâproojeekt .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Materiálabáŋkku ovdanbuktin</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Materiaalpaaŋki oovdânpyehtim</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegielat beaivedikšoovttadagat Suomas</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâliih peivitipšo-ohtâduvah Suomâst</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki sosiála- ja dearvvasvuođalávdegoddi čoaggá jagi 2014 loahpas máhcahaga Sámi boarrásiidbarggu bargoneavvolođá ja Sámi árrabajásgeassima rávagirjji sisdoaluin ja doaibmilvuođas , man vuođul rávagirjjit dievasmahttojit ja beaividuvvojit doaibmilabbon .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige sosiaal- já tiervâsvuođâlävdikodde norá ive 2014 loopâst macâttâs Säämi puárásijpargo tyejipiergâskaasâ já Säämi arâšoddâdem aargâ tooimâi ravvui siskáldâsâst já toimâmist , mon vuáđuld ravvuuh tievâsmittojeh já peividuvvojeh pyerebeht tuáimen .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lassedieđut Sámedikki sosiála- ja dearvvašvuođačállis</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasetiäđuh Sämitige sosiaal- já tiervâsvuođâčällest</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

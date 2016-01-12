@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Plánejeaddji virgesadjásašvuođa</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuávájeijee virgesajasâšvuođâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi almmuha ohcanláhkai sámedikki oktavuođas doaibmi Davvi-Suoma sosiálasuorggi máhttinguovddáža sámeovttadaga plánejeaddji virgesadjásašvuođa</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge almoot uuccâmnáál ton ohtâvuođâst tuáimee Tave-Suomâ sosiaalsyergi mättimkuávdáá sämiohtâduv vuávájeijee virgesajasâšvuođâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Plánejeaddji doaibmabáiki lea sámedikki čállingottis sámekulturguovddáš Sajosis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuávájeijee toimâsaje lii sämitige čäällimkoddeest säämi kulttuurkuávdáš Sajosist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Plánejeaddji barggut leat meroštallon sámedikki bargoortnegis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuávájeijee pargoh láá miäruštâllum sämitige pargo-oornigist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gelbbolašvuođagáibádussan lea virggi eaktudan skuvlejupmi ja lassin gáibiduvvo sámegiela dáidu ( ásahus 1727/95 ) .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tohálâšvuođâvátámâššân lii virge vaattâm škovlim já lasevátámâššân sämikielâ táiđu ( asâttâs 1727/95 ) .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Barggu ceavzilis dikšuma veahkehit heivvolaš allaskuvladutkkus ja doarvái buorre sosiálafuolahusa dovdamuš .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargo miänástuvvee tipšom iššeed hiäivulâš ollâškovlâtuđhos já kelijdeijee sosiaalhuolâttâs tubdâmuš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bálká mearrašuvvá sámedikki bálkávuogádaga gáibádusdási IV .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pälkki miärášuvá sämitige pälkkivuáháduv vátávâšvuođâtääsi IV .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>/ IV-III mielde ( vuođđobálká gaskkas 2 391,60 – 2 448,54 euro / mb ) .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>/ IV-III mield ( vuáđupälkki kooskâst 2 391,60 – 2 448,54 eurod / mp ) .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sadjásašvuohta álgá 1.1.2013 ja bistá 24.5.2013 rádjai .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sajasâšvuotâ álgá 1.1.2013 já pištá 24.5.2013 räi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ohcamušaid oktan mildosiiguin galgá doaimmahit sámedikki čállingoddái 3.12.2012 dmu 16.00 rádjai čujuhusain Sajos , 99870 Inari .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ucâmušâid lahtosijdiskuin kalga toimâttiđ sämitige čäällimkoodán 3.12.2012 tme 16.00 räi čujottâssáin Sajos , 99870 Aanaar .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasetiäđuid pargoost uážžu sosiaal- já tiervâsvuođâčällee Pia Ruotsast puh. .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lassedieđu barggu birra oažžu sosiála- ja dearvvasvuođačálli Pia Ruotsalas tel. 010 839 3106 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>010 839 3106 .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

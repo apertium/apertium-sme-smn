@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Restauráŋŋa láigohuvvo</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Raavâdviäsu laiguuttemnáál</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi gilvalahttá Sámi kulturguovddážii boahtti restauráŋŋa láigosoahpamuša .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge kištoot Säämi kulttuurkuávdážân šaddee raavâdviäsu láigusopâmuš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi kultur-guovddáža , mii huksejuvvo Anárii , lea mearri álggahit doaimma j. 2012 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kulttuur-kuávdás kalga algâttiđ tooimâs ive 2012 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Láigolaččain bargojuvvo doisttážii fámus leahkki láigosoahpamuš ja láigoáigi álgá ođđajagemánu 1. beaivve 2012 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Láigulâžžáin tahhoo vyeimist orroo láigusopâmuš tuáistáážân já láiguäigi álgá 1. uđđâivemáánu 2012 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lassidieđut</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasetiäđuh</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

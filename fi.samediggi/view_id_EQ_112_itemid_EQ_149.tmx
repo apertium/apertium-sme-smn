@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bajásdoalu ja bargiid iežaset siiddut</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Alnetoollâm já pargojuávhu jieijâs siijđoh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sisačáliheapmi lea oaivvilduvvon Sámedikki bargiide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Siisâčäällim lii uáivildum Sämitige pargojuávkun .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čálit iežat sisa vuolábeale skoviin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čääli jieijâd siisâ vuoluupiäláin luámáttuvváin .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

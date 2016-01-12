@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Geahča oanehisvideo davvisápmelaš luođi birra .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Keejâ uánihisvideo tavesämmilâš juáigusist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Synopsis : Leammi almmái Nils Heikki Paltto rohttesta Leammerokki luođi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Synopsis : Lemmeelâš Nils Heikki Paltto juáigá Lemmee äävži .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Juoigi : Nils Heikki Paltto Bagadallan / čuohppan : Kirsti Länsman , govven : Heli Ahola</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Jyeigee : Nils Heikki Paltto Stivrim / čuoppâm : Kirsti Länsman , kuvvim : Heli Ahola Pyevtittâs :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Buvttadeapmi : Sámi oahpahusguovddáš 2008</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi máttááttâskuávdáš 2008</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Guhkkodat : 1,23</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kukkodâh : 1,23</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dieđut máná vuoigatvuođain anáraš- ja nuortalašgillii</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tiäđuh párnáá vuoigâdvuođâin aanaar- já nuorttâsämikielân</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Máná vuoigatvuođaid dieđihančálus lea dál almmustahtton maiddái anáraš- ja nuortalašgillii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Párnáá vuoigâdvuođâi tieđettemčáálus lii tääl almostittum meid aanaar- já nuorttâsämikielân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovdal dieđihančálus almmustuvai jo davvisámegillii mánáidáittardeaddji internetsiidduin</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdeláá tieđettemčáálus almostui juo tavesämikielân pärniäššiváldálii viermisiijđoin</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dieđihančállosii leat čohkkejuvvon dieđut ON máná vuoigatvuođaid oktasašsoahpamušas , mii geahččala sihkkarastit buot mánáid ovddu ja erenomáš dárbbuid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tieđettemčálusân láá čuákkejum tiäđuh OA párnáá vuoigâdvuođâi almossopâmušâst , mii viggá turviđ puohâi párnái hiäđu já sierânâs táárbuid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Davvisámegielat dieđihančálus lea oažžumis maiddái prentejuvvon veršuvdnan mánáidáittardeaddji doaimmahagas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tavesämikielâlâš tieđettemčáálus lii finniimist meiddei teddilum version pärniäššiváldálii toimâttuvâst .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

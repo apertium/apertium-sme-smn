@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Olggosaddimat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Olgosadalduvah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oahppamateriálat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Oppâmateriaal</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dieđihančállosat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tieđettemčáluseh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Raporttat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Raporteh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalašgiella</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämikielâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalašgiela giellaoahppagirjji ,</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>man ulbmilin lea veahkehit stáđásmahttit čálalaš nuortalašgiela .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Siiddut : 404</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>siijđoh : 404</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Haddi : 27,00 €</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi 2009</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge 2009</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämikielâ škovlâkielâoopâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girji addá skuvllaide gaskaoami , mainna čálalaš nuortalašgiela njuolggadusat ovdanbuktojuvvojit oanehaččat , ja oahpahuvvojit eanáš ovdamearkkaid bokte .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>uáivilin lii toimâđ iššeen čaallum nuorttâsämikielâ vuáhá dutmist já adeliđ škoovlâi kiävtun riäidu , mon vievâst nuorttâsämikielâ kirjekielâ laavâvuálásâšvuođah já njuolgâdusah čielgejuvvojeh uánihávt , já toh uáppojeh iänááš ovdâmeerhâi vievâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ulbmilin leat maiddái oahpásmahttit eatnigiela čállojuvvon hámis nuortalašgielat rávesolbmuide , sihke veahkehit sin , geat leat vajálduhttán eatni gielaset muhto háliidit dál lohkagoahtit dan .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ulmen lii meiddei uápásmittiđ nuorttâsämikielâlâš rävisaalmug jieijâs eenikielâ čaallum háámán sehe adeliđ išeriäidu toid nuorttâlâššáid , kiäh láá vájál dâttám eenikielâs já halijdeh algâttiđ tom oppâm .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuuvtpa kielâoopâ kevttimkiellân lii väljejum suomâkielâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oahpahusgiellan lea su omagiella , muhto heivvolaš sajiin bálddas lea geavahuvvon nuortalašgiella , vai giellaoahpa doahpagat šattaše oahpisin maiddái nuortalašgillii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuovâs soojijn ton paaldâst lii nuorttâsämikielâ , vâi nuorttâsämikielâlâš-uv kielâoppâterminologia</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>šodâččij uápisin .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

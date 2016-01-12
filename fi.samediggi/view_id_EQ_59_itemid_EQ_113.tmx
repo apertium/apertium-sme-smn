@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toimâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doaibma</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oahppamateriálabargu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Škovlim Oppâmateriaalpargo</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sosiála- ja dearvvašvuohta</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sosiaal- já tiervâsvuođâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sosiálasuorggi máhttinguovddáš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sosiaalsyergi mättimkuávdáš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuoraid dáiddadáhpáhus</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorâi taaidâtábáhtus</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Artikla 8(j ) olášuttem</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegielat kultuvrra ja sámeservviid doaimma doarjuma</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâlâš kulttuur já sämiseervij tooimâ tuárjumâ</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

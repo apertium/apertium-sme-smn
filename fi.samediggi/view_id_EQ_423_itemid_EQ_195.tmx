@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vuođu muvrendilálašvuohta</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuáđukeeđgi muvrámtilálâšvuotâ 2010</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámekulturguovddáža vuođu muvrendilálašvuohta 10.6.2010 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kulttuurkuávdáá vuáđukeeđgi muvrámtilálâšvuođâ 10.6.2010 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govat : Ulla Isotalo</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Koveh : Ulla Isotalo</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

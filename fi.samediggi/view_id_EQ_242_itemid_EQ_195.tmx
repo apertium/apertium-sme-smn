@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Muu hobby</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Geahča oanehisvideo anárlaš Eero áiggeájiin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Keejâ uánihisvideo anarâš Eero puđâldâsâin</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Menešjávrelaš Eero niehkun lea beassat vuodjit mohtorgielkkáin geasseguovdil .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Menišjávrálâš Eero juurdâš moottorkiälhástâlmist kaskoo keesi . Válduolmooš : Eero Mattus</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bagadallan / govven / čuohppan : Eero Mattus</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stivrim / kuvvim / čuoppâm : Eero Mattus</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Buvttadeapmi : Sámi oahpahusguovddáš 2008</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pyevtittâs : Säämi máttááttâskuávdáš 2008</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Guhkkodat : 1,30</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kukkodâh:1,30</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

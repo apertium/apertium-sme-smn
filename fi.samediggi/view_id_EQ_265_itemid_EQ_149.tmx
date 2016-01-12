@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ijahis Idja musihkkafestivála borgemánus 2009</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ijâttis Ijjâ muusikfestivaalâ porgemáánust 2009</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Álgoálbmogiid musihkkafestivála Ijahis Idja ordnejuvvo boahtte jagi borgemánu 21.-23. beivviin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Algâaalmugij muusikfestivaalâ Ijâttis Ijjâ uárnejuvvoo puáttee ive porgemáánu 21.-23. peeivij .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Festivála lea ordnejuvvon jagi 2004 rájes ja ovddit jagiin miessemánu loahpas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Festivaalâ lii uárnejum ive 2004 rääjist já ovdebijn iivijn vyesimáánu loopâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Festivála prográmmaplána bissu seammálágánin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Festivaalâ ohjelmvuávám piso siämmáálágánin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mielde prográmmas boahtá leahkit sihke sámi ja eará álgoálbmogiid musihkka .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ohjelmist puátá leđe mieldi sehe säämi já eres algâaalmugij muusik .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lassedieđut : www.ijahisidja.fi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasetiäđuh : www.ijahisidja.fi .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

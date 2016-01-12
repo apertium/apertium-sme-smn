@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovdasiidu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Almos tiätu</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Saijoos čuákkimtileh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čuákkimpaketteh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sajosa lanjat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Raavâdviäsu Galla</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čoahkkinpakeahtat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mađhâšempalvâlusâid</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Turismabálvalusat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sajadâh já väridem</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Várreneavttut 2012</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Raavâdviäsu Galla</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sajosa restoráŋŋa Galla bálvala kongreassaid ja eará dáhpáhusaid diŋgonborademiin ja dálu kunddáriid ja gussiid boradan- ja káfestallanbáikin sihke guovddáža bargiid boradanbáikin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Galla-raavâdviäsu stuorrâ laasâi čoođâ lii fiijnâ uáinus Juvduujuuhân já uásild meid Aanaarjáávrán . Saijoos raavâdviäsu Galla palvâl kongres- já tábáhtusäššigâsâid , Saijoos pargovievâ já kuávdáá äššigâsâid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gallas leat 60 čohkkánsaji . Máŋggadoaimmasále Dollagátti , mii lea restoráŋŋasále bálddas , sáhttá ovttastahttit restoráŋŋii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Gallast láá 60 äššigâssaijeed já maaŋgâtoimâsali Dollagáddi , mii lii raavâdviäsu paaldâst , puáhtá ovtâstittiđ raavâdviäsun , kuás čokkámsajeh láá 140 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dalle čohkkánsajit šaddet 140 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Galla-restoráŋŋa stuorra lásain oaidná Juvdujoga ja muhtun muddui maid Anárjávrri .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>OAHPÁSMUVA MIN MENUIDE :</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Čoahkkinfáladeamit . Loga lasi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Čuákkimfaalâdmeh : Luuvâ lase .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* À la carte - menu joavkkuide . Loga lasi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Tiilámmenu juávhoid : Luuvâ lase .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Juovlabeavdi 2013 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Uccâjuovlâpevdi 2013 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bivdde fálaldaga .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pivde falâlduv .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Restoráŋŋa Gallas lea fállun maid káffe ja láibbastagat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Raavâdviäsu Gallast láá fáállun meid kähvi já liäibustuvah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Geasseáigge Galla terássas lea fiinna oainnus Juvdujohkii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kesiääigi Galla terassist lii fiijnâ uáinus Juvduujuuhân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Kafea Gallas lea iešbálvaleapmi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kähviviäsu Gallast lii jiešpalvâlem .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Restoráŋŋa Galla fállá valjis iešguđetlágan molssaeavttuid sierra dilálašvuođaide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Raavâdviäsu Galla fáálá valjeest molsoiävtuid ton mield , maggaar tilálâšvuotâ uárnejuvvoo .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Menu plánejuvvo vástidit dilálašvuođa luonddu ja kunddára dárbbuid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Menu suunnâttâlloo nuuvt , ete tot västid tilálâšvuođâ luándu já äššigâs táárbuid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Fálademiid sáhttá ordnet restoráŋŋas , čoahkkinsajiin dahje Sajosa váldofeaskáris .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Faalâdmijd puáhtá olášuttiđ raavâdviäsust , čuákkimviistijn teikâ Saijoos aulast .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Restoráŋŋa Galla ordne maid heajaid ja eará bearašávvudemiid sihke eahketdoaluid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Raavâdviäsu Galla uárnee meid heejâid já eres peerâjuuhlijd sehe eehidtuáluid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čoahkkimiid oktavuhtii sáhttá válljet máŋggabealat fálademiid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čuákkimij ohtâvuotân puáhtá valjiđ maaŋgâlágánijd faalâdmijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Boradeami lea vejolaš diŋgot maid čoahkkinsajiide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Purâdem puáhtá tiiláđ meid čuakkimviistijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Galla-restoráŋŋa lea kulturguovddáža vuosttas gearddis , váldofeaskára ja čoahkkinsajiid oktavuođas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Galla-raavâdviäsu lii kulttuurkuávdáá vuossâmuu keerdist , aula já čuákkimviistij ohtâvuođâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Restoráŋŋa Galla lea rabas vuossárggas bearjadahkii dmu 9-16 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Raavâdviäsu Galla lii áávus vuossaargâst vástuppiäiván tme 9-16 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Beaivemális lea fállun árgan vu-be dmu 11-15 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Peivimäälis fálloo argâpeeivij vu-vá tme 11-15 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eará áigge soahpamuša mielde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Eres aaigijn sopâmuš mield. .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sajos / Čoahkkin- ja dáhpáhusbálvalusat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sajos / Čuákkim- já tábáhtuspalvâlusah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>PEIVIMÄÄLIS- JÁ ČUÁKKIMFAALÂDMEH já Á LA CARTE-MENUH :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Málli ja saláhtta 8,50 euro / olmmoš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Määli já saalaat 8,50 eur / olmooš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Beaivvi málli ja saláhttabeavdi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Peeivi määli já saalaatpevdi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Láibbit , njuvddáldat , juhkamuššan čáhci ja sákta</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Leeibih , vuojâ , juhâmuššân čääci já säppi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Káffe / teadja ja deattáldat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Kähvi já teejâ teikâ pajalâš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Beaivemálesbuffet 12,00 euro / olmmoš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Peivimäälis , 12 eur / olmooš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Málle- dahje saláhttabeavdi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Määli- teikâ saalaatpevdi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Dábálaš lieggaborramuš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* táválâš lieggâpurrâmuš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Láibbit , njuvddáldat , juhkamuššan čáhci ja sákta</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Leeibih , vuojâ , juhâmuššân čääci já säppi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Káffe / teadja ja deattáldat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Kähvi já teejâ teikâ pajalâš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Biffabeaivemális ja saláhttabeavdi 14,50 euro / olmmoš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pihvipeivimäälis já saalaatpevdi , 14,50 eur / olmooš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Saláhttabeavdi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Beaivvi biffa</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Peeivi pihvi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Láibbit , njuvddáldat , juhkamuššan čáhci ja sákta</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Leeibih , vuojâ , juhâmuššân čääci já säppi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Káffe / teadja ja deattáldat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Kähvi já teejâ teikâ pajalâš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čoahkkiniđitbiebmu 10,50 euro / olmmoš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čuákkimiiđeedpittá , 10,50 eur / olmooš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Hávvarsuohkat , gárjilpirogat , mannevuodja , jugurta , varas jorbbuhat , vajastagat , vuostá , njuvddáldat , gurka ja tomáhtta , mysli , juvsa , káffe / teadja ja varas gáhkut .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Kavrâsuohâd , kärjilpiirakah , manevuojâ , jogurt , vorâs sämpyláh , čuopâstuvah , vuástá , vuojâ , kurkkâ já toomaat , mysli , vorâs säppi , kähvi / teejâ já vorâs liäibustuvah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Čoahkkiniđitbiebmu dušše diŋgojumis</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Čuákkimiiđeedpittá tuše tiilámáin</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čoahkkinkáffe 5,50 euro / olmmoš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čuákkimkähvi , 5,50 eur / olmooš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Čoahkkinkáffe ja - teadja</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Čuákkimkähvi já teejâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Sálte dahje njálgga káffeláibi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Sálttáá teikâ njálgá kähvileibi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vállje njálgga káffeláibbi:bullá ( mas binná vuodja gasku ) , kánelbullá , wiener , muorjegáhkku , eppelgáhkku dahje toscagáhkku .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Valjii jieš njálgá kähvileeibi : vuojâčalmenisu , kaaneelnisu , wiener , myerjipiirakka , oomeenpiirakka teikâ toscapiirakka .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vállje sálte káffeláibbi : vuostávuodjaláibi , spiinnebiergo-vuostávuodjaláibi dahje cocktailpirogat ja njuvddáldat / mannevuodja .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Valjii sálttáá kähvileeibi : vuástáleibi , šavepiärgu-vuástáleibi teikâ cocktailpiirakah já vuojâ / manevuojâ . * Jieŋâčääci</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Beaivečoahkkima čoahkkinmenu 23,00 euro / olmmoš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Peivičuákkim čuákkimmenu , 23,00 eur / olmooš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Kähvi , teejâ já jieŋâčääci</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Iđitbeaikáffe ja - teadja viežžanbeavddis ja sálte káffeláibi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Iiđeedpeivikähvi já teejâ viežžâmpeevdist já sálttáá kähvileibi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Beaivemális viežžanbeavddis ( gč. beaivemállása sisdoalu badjin )</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Peivimäälis ( kj . peivimáállás siskáldâs paajaabeln )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>* Veaigekáffe ja - teadja viežžanbeavddis ja njálgga káffeláibi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>* Eehidpeivikähvi já teejâ viežžâmpeevdist já njálgá kähvileibi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>( ucemustáá 10 olmožid )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lahcaa peljikuobârmääli algâmäällin 9,90 € / váldupurrâmuššân 13,40 € o pihtemleibi já vuojâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Meccikuobârmääli 8,90 €/12,50 €</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o patoŋg já orttâvuojâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi luosâmääli 8,90 €/12,50 € o tevgis pihtemleibi já vuojâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Poccuupiärgumääli 9,40 €/13,00 € o monnjâuvnâleibi já vuojâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ruánáá algâsaalaat 4,50 euro</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o toomaat , jieŋâsaalaat , kurkkâ , paprika , patoŋg já orttâvuojâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Táálu saalaat 9,50 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o ruánáá saalaatvuáđu , njálgá ruopsissiipuul , sälttiluosâ , kolmâsuovâpuásui , kaaicâ vuástá , vielgissipulipatoŋg</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Rommáin njadostum sälttiluosâ 10,80 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o kuobârsaalaat , tillismetana , šaapšâ meini , pihtum sämikákku</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Poccuu kuátičuárbpeeli 12,40 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o njadosliemâst njadostum meccikuobâreh , mietâruonâseh , čapisjiereehpuánjumuš , pihtemčuárbpeeli</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Illoos alne possum Aanaar šapšâ 21,00 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o siipuulvuojâpuánjumuš , sämipotákkeh , ruonâseh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Possum ruvâšmuuikuh 18,30 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o tillipotákkeh , lahcaa sherrypuánjumuš , paje ruonâseh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Luosâ muvrâponnepáánust 19,80 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o syeinisiipuulpariispotákkeh , kurkumapuánjumuš , sherryvuojâ , paje ruonâseh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Muvrâponnepáánust šaddo- , rapuellee- , kyeli- teikâ puásuipaella 26,00 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>BURESBOAHTIN JA BUOR I BORRANLUSTTU !</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o smetana , ruopsisruotâs , sälttikurkkâ , patoŋg</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämiväärdis 26,50 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o Luosâ já poccuusavotekki várdást , peljikuobârnjuvdos , meccivaljepuánjumuš , sämipotákkeh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Palgâs poccuusteikkâ 20,00 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Šave sissavotekki 17,40 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o vielgissipulipotákkeh , atamanpuánjumuš , mietâruonâseh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuáksápihvi 20,50 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o 180 g , possum rosmariinipotákkeh , paje ruonâseh , táálu njadosvuojâpuánjumuš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o olgosavotekkipihvi , auravuástá , laigospotákkeh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Njadosliemâst njadostum myerjih lahcâsuptáin 6,50 euro</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Táálu leetuh 7,90 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o njadosliemâst njadostum myerjih , lahcâsuptâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämivuástá 7,50 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o Säämi luámáneh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Táálu vorâsvuástákákku 8,40 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o myerjimelba , lahcâsuptâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o Valjim mield ; vuojâčalmenisu , kaaneelnisu teikâ myerjipiirakka</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Oopperaleibi 12,50 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o millumpiärgupihvi , possum känemane</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Miäcásteijeeleibi 14,00 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o olespiärgupihvi , kuobârnjuvdos</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Puásuialmaileibi 15,00 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o poccuučuárbpeelipihvi , kuobârnjuvdos</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Táálu leibi 13,50 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o šavepihvi , possum siipuul-paprika-kuobâr njadosvuojâst</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Oskarleibi 13,50 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o šavepihvi , parsa , merâkaccuuh , choron-puánjumuš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Luosâkappelleibi 14,50 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o luosâ , possum känemane</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Gratinistum luosâleibi 14,50 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o luosâ , emmenthal vuástá</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Gratinistum känileibi 14,50 eurod</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>o kääni peeđi , persik , vuástá , bearnaisepuánjumuš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lieggâ leeibih fállojeh salatáin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ucemustáá 10 olmožid / juávkku .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Purrâmušâid puáhtá finniđ laktoosttáá já gluteenttáá .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>PYERI PUÁTTIM JÁ PYERI PURRÂMLUSTO !</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>( 1.1.13/mm )</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

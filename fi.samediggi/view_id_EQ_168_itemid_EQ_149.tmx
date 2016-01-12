@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi giellaláhkačielggadeapmi almmustuvai girjin</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kielâlahâčielgiittâs almostui kirjen</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Fil . lis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Fil lis .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Klemetti Näkkäläjärvi ( Juvvá Lemet ) ráhkadan čielggadeapmi ´Sámi giellalága ollašuvvan jagiin 2004-2006´ , lea almmustuvvan suomagillii prentejuvvon girjin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Klemetti Näkkäläjärvi ( Juvá Leemit ) rähtim čielgiittâs ´Säämi kielâlaavâ olášume iivijn 2004-2006´ , lii almostum kirjen .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čielggadeapmi guorahalla viidát jagi 2004 fápmui boahtán ođđa Sámi giellalága ollašuvvama Suomas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čielgiittâs árvuštâlâi vijđáht ive 2004 vuáimán puáttám uđđâ säämi kielâlaavâ olášume Suomâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čielggadeapmi válmmaštuvai mannan jagi loahpas ja lea dál almmuhuvvon measta 400-siidosaš girjin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čielgiittâs valmâštui moonnâm ive loopâst já tääl tot lii almostittum masa 400 sijđosâš kirjen .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čielggadeapmi árvvoštallá man veardde sámegielat bálvalusat leat fidnemis sámiid ruovttuguovllu gielddain , sámiid ruovttuguovllu stáhta eisseváldiin ja sámiid ruovttuguovllu olggobeale stáhta virgeeisseváldiin ja maiddái sámeorganisašuvnnain ja sámeservviin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čielgiittâs árvuštâl mommit sämikielâlâš palvâlusah láá finniimist sämikuávlu kieldâin , sämikuávlu staatâ virgeomâháin , sämikuávlu ulguupiäláin staatâ já almossiärváduvâi virgeomâháin sehe sämiorganisaatioin já sämiseervijn .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čielggadeapmi sisttisdoallá maiddái viiddis doaibmabidjoevttohusaid mo ollašuhttit lága buorebut .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čielgiittâs tuálá siste meiddei vijđes toimâiävtuttâsâid laavâ pyereeb olášutmân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Prentejuvvon čielggadeapmi lea fidnemis Sámedikki sámegiela doaimmahagas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Teddilum čielgiittâs lii finniimist Sämitige sämikielâ toimâttuvâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegielat oanádus lea lohkan láhkái sámedikki internet-siidduin ( dokumenttat &amp;amp;gt ; čilgehusat ) , gos Selvitys Saamen kielilain toteutumisesta lea fidnemis pdf-fiilan .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâlâš uánádâs lii luuhâmnáálá sämitige internet-siijđoin ( Dokumentah &amp;amp;gt ; Sämitige čielgiittâsah já muštâlusah ) , main Selvitys Saamen kielilain toteutumisesta lii finniimist pdf-vuárkkán .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

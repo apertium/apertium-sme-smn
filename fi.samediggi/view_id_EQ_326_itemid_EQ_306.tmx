@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Restauráŋŋa láigohuvvo</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Raavâdviäsu laiguuttemnáál</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi gilvalahttá Sámi kulturguovddážii boahtti restauráŋŋa láigosoahpamuša .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge kištoot Säämi kulttuurkuávdážân šaddee raavâdviäsu láigusopâmuš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi kulturguovddáža , mii huksejuvvo Anárii , lea mearri álggahit doaimma j. 2012 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kulttuur-kuávdás kalga algâttiđ tooimâs ive 2012 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Láigolaččain bargojuvvo doisttážii fámus leahkki láigosoahpamuš ja láigoáigi álgá ođđajagemánu 1. beaivve 2012 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Láigulâžžáin tahhoo vyeimist orroo láigusopâmuš tuáistáážân já láiguäigi álgá 1. uđđâivemáánu 2012 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Fálaldagaid galgá doaimmahit giddejuvvon konfeluhtas mildosiiguin 14.8.2009 dmu 16.00 rádjai Sámedikki doaimmahahkii Angelintie 696 , 99870 Anár. Konfeluhttii galgá merket čujuheami ” Sámi kulturguovddáža restauráŋŋa ” .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Falâlduvâid lahtosijdiskuin kalga toimâttiđ toppum kirjekooverttist 14.8.2009 tme 16.00 räi Sämitige toimâttâhân Angelintie 696 , 99870 Inari . Kooverttân kalga merkkiđ čujos ” Saamelais-kulttuurikeskuksen ravintola ” .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Fálaldagat eai vuostái váldojuvvo elektrihkalaččat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Falâlduvah iä vuástávalduu šleđgâlávt .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Fálaldatbivddaáššebábir obban</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Falâldâhpivdemäššikirje ollásávt</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasetiäđuh 6.7.2009 tme 16.00 räi proojeektpargee Marja-Riitta Lukkarist Tämä sähköpostiosoite on suojattu roskapostia vastaan , aseta javascripttuki päälle nähdäksesi osoitteen .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

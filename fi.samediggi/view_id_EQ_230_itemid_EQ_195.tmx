@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi gákti muitala máŋgga ášši</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämimááccuh muštâl maŋgâ ääši</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govas Susanna Maggas Eanodat-Guovdageaingákti ( gurutbealde ) ja Rauna Rahkos Ohcejotgákti .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kooveest Susanna Maggaast lii Iänuduv-Kuovdâkiäinu sämimááccuh ( čiž ) já Rauna Rahkoost tiänulâš sämimááccuh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govva Ulla Isotalo , sámedikki rahpandilálašvuohta Ohcejogas 2008 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kove Ulla Isotalo , sämitige lekkâmeh Ucjuuvâst 2008 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegákti lea sápmelaččaid álbmotlaš dovdomearkkain oinnoleamos .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämimááccuh lii sämmilijn aalmuglijn tubdâlduvâin pyeremustáá uáinojeijee .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gáktemállet molsašuddet guovlluid mielde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mááccuh maalih muttuusteleh kuávlui mield. .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mállet , ivnnit ja hearvabáttiid stellen muitalit , man sámejovkui gávttehas gullá , dávjá dange man sohkii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Maalih , iivneh já hervâpaadij tiälláástâllâm muštâleh kyeddes sämmilâšjuávhu , távjá suuvâ-uv .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ii nappo leat áibbas seamma , makkár gákti , gahpir dahje boagán geavahuvvo .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuuvtpa ij lahkin siämmáá , maggaar mááccuh , kappeer tâi puáhháá kiävttá .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suoma bealde leat anus vihtta váldogáktemálle : Ohcejoga , Eanodat-Guovdageainnu , Soađegili Vuohču , anáraš- ja nuortalašgákti .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suomâbeln láá kiävtust vittâ Sämimááccuh váldumaali : Tiänu leve , Iänuduv-Kuovdâkiäinu , Suáđigil Vuáču , Aanaar já Nuorttâsämmilâš mááccuh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegávtti historjá spiehkkasa suoma álbmotbiktasiid historjjás das , ahte dan geavaheapmi ii leat goasge boatkanan .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämimááccuh historjá spiekâst syemmilij aalmugmáccuhij historjásta nuuvt , et tom kevttim ij lah moonnân historjá muddoost potkânâm .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegávtti vuođđomállet leat náhkis ja gággásis válmmaštuvvon álbmotbiktasat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämimááccuh vuáđumaalih láá näähkist já kággást rahtum aalmugmáccuheh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegákti eallá seamma ilolaš ja aktiivvalaš áiggi go oppa sámekultuvrage otne .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämimááccuh iälá tääl oovtâ ilolâš já aktiivlâš ääigis siämmáá ko ubâ sämikulttuur-uv .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gávttit gorrojuvvojit dán beaivve máŋggalágan materiálain ( láđđis , bummolliinnis ja dahkufiberliinniin , silkkis ja juoba betses ) ja iešguđetlágan ivnniin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Máccuheh kuárrojeh tááláá ääigi maaŋgâlágán materiaalâin ( läđđest , pumbul- já rahtumsáigukággáin , silheest já joba piicist ) já jieškote-uv iivnijn .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Guovddážis lea goit álo iežas sámejoavkku , guovllu dahje juoba soga málle seailluheapmi . Ja das sápmelaččat leat dárkkit .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tehálâš lii kuittâg ovttuu jieijâs sämmilâšjuávhu , kuávlu tâi joba suuvâ maali siäiluttem – já tast sämmiliih láá täärhih .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegákti lea maid čikŋabivttas ja dakkárin álbmotbivttas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämimááccuh lii meid juhlelâš kárvu já tagarin aalmuglâšmááccuh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ivnniid ilolamos šearratvuođa oaidná álo doppe , gos sápmelaččat čoahkkanit stuorra ávvudemiide dahje čoahkkimiidda .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mučis mááccuhkorâduv uáiná ain tobbeen , kost sämmiliih čokkâneh stuorrâ juhlijd tâi čuákkimáid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegávttit leat máŋggaláganat jagiáiggiid ja geavahanulbmila mielde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämimááccuh muttuustâl iveaaigij já kevttimuáivil mield. .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Árgabivttas hervejuvvo oktageardánabbot go čiknabivttas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Argâmááccuh ij lah hervejum siämmáánáál ko juhlemááccuh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nissonolbmo geassegákti gorrojuvvo dávjá bummolliinnis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nisonji kesimááccuh kuárroo távjá pumbulkággást .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Geassegávttiin geavahuvvojit čázehat ja asehut gahpirat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kesimáccuháin kiävttojeh šišnekammuuh ađai čässiheh já asettebeh kapereh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dálvebiktasiidda gullet bohcco gápmasiin gorrojuvvon goikkehat , ulloliidni , nissonolbmuin miesenáhkis gorrojuvvon liegga gahpir ja albmáin skoađastuvvon ja virggiin hervejuvvon gahpir .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tälvikárvoid kuleh poccuukamâsijn koorrum sosvskámmuuh , ullolijne , nisonijn lieggâ vyesinähkikappeer já almain skođâstum já viergičevđin hervejum kappeer .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govas musihkárat Annukka Hirvasvuopio-Laiti ja Anna Näkkäläjärvi , geain guktuin sámegávtti dálvegárvvuide gullevaš ulloliidni .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kooveest musijkkáreh Annukka Hirvasvuopio-Laiti já Anna Näkkäläjärvi , kiäin kuohtuin lii sämimááccuh tälvikárvoid kullee ullolijne .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govva Ulla Isotalo 2006 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kove Ulla Isotalo 2006 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Meahccebivuide gullet vel biekkas ja borggas suddjejeaddji luhkka , gálssohat ja bittut .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Meccikárvoid kuleh vala piegâst já puurgâst syeijejeijee lukkâ já kamâspidoh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Náhkkebuvssat geavahuvvojit sihke čikŋabivttasin ja liegga gárvun garra dálkin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nähkipuuvsah kiävttojeh sehe juhlekárvun et lieggâ syeijin kolmâ šooŋâin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lassin guhtege sámegáktemállii gullet dihtolágan gistát ja iežas guovllu fáhcat , main guktuin leat seammasullasaš hearvvat go ieš gávttis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasseen jyehi sämimááccuhmaalin kuleh tiätulágáneh , eres pivtâskerdijn siämmáánáál hervejum kistuuh já jieijâs kuávlu vaacah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Fáhcain ja gápmagiid vuoddagiin guktuin leat seamma , guđege mállii gullevaš hearvaivnnit .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vaacâin já vuoddun kiärduh jieškote-uv maalin kullee hervâiivneh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Albmáid vuoddagiid vuođđoivdni lea dábálaččat vielgat ja nissoniid ruoksat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Almai vuoddui vuáđuivne lii iänááš vielgâd já nisonij ruopsâd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mánáid vuoddagat čuldojuvvojit seakkibun go rávesolbmuid vuoddagat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Párnái vuodduuh čuáldojeh kezibân ko rävisulmui vuodduuh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nissona gávttiin geavahuvvon dábálamos boagánmálle lea njuikumiin golmma stielasin čuldojuvvon láigeboagán .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nissoon máccuháin kevttum táválumos povijmalli lii njuškomáin njuškottum läigipoovij .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Náhkkeboahkániid geavahit sihke nissonat ja albmát .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nähkipuáhháá kevttih sehe nisoneh et almaah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Náhkkeboagán hervejuvvo dávjá siviilaseađu mielde sierramállesaš silbaboaluiguin dahje čiŋaiguin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nähkipoovij hervejuvvoo távjá siiviilsiäđu mield jieškote-uv mallisij silbâpuáluiguin tâi čiŋâiguin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sihke albmáid ja nissoniid gávttiide gullá vel silki , man nissonat giddejit ohcii soljjuiguin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sehe almai et nisonij máccuháid kulá vala silkkelijne , mon nisoneh kiddejeh radebel šoljoiguin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Silki giddejuvvo earáláhkai iešguđet málliin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lijne kiddejuvvoo sierâlágán vuovijguin jieškote-uv mallijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Deatnolaš nisu gidde silkkis ohcii vehá dego láskut , go fas anárlaš ja Soađegili vuohččulaš v-hápmái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tiänu nissoon kiddee liijnes radebel masa láskud , ko oppeet anarâš já Suáđigil vuáččulâš v-háámán .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalaččaid gákti lea čielgasit earálágan go eará sámegávttit .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämmilij mááccuh lii čielgâsávt ereslágán ko eres sämimáccuheh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dat sulastahttá gárjilaččaid álbmotbiktasa ja lea dakkárin historjjálaš dokumeanta nuortalaččaid nana oktavuođain nuorttabeallái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tot sulâstit kärjillij aalmuglâšpihtâs já lii tagarin historjállâš dokument nuorttâsämmilij covgâ ohtâvuođâin nuortâs .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anárašgákti</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Anarâšmááccuh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anárašgákti lea iežas álbmotjoavkkus oinnolamos dovddaldat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Anarâšmááccuh lii jieijâs aalmugjuávhu pyeremustáá uáinojeijee tubdâldâh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dan ruoktoguovlu lea Anárjávrri biras .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ton päikkikuávlu lii Aanaarjäävri piirâs .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gákti gorrojuvvo dávjá čáhppes láđđis ja dan hearvaivnnit leat ruoksat , fiskat ja ruoná .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mááccuh kuárroo távjá čapis läđđest já ton hervâiivneh láá ruopsâd , fiskâd já ruánáá .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gáktemálle sulastahttá Soađegili Vuohču gávtti .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mááccuhmalli lii alda Suáđigil Vuáču maali .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Earrun leat lagamustá hearvastiellasat , mat anárašgávttis geavahuvvojit čikŋaláđđiid ravddain .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taid iärut nubijnis iänááš puddiistuvâin , moh anarâšmáccuhist kiävttojeh hervâläđđei roobdâin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govas Ilmari Mattus ja Petra Kuuva Anárašgiela searvvi 20-jagiávvudeamis Anáris jagis 2006 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kooveest Ilmari Mattus já Petra Kuuva Anarâškielâ seervi 20-ive juhleest Anararist ive 2006 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govva Matti Morottaja . .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kove Matti Morottaja .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eanodat-Guovdageaingákti</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Iänuduv-Kuovdâkiäinu mááccuh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eanodat-Guovdageaingáktemálle lea buot eanemus hervejuvvon .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Iänuduv-Kuovdâkiäinu maaccuhmalli lii puoh enâmustáá hervejum .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Hervemii geavahuvvojit láđđi ala stellejuvvon ivdnás stiellasat guđege soga ja bearraša árbevieru mielde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Herviimân kiävttojeh läđđee oolâ stellejum ivnáás päädih jieškote-uv suuvâ já perruu ärbivyevi mield. .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Hearvvat leat govdadat ja alladat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Herviimeh láá kubduuh já olluuh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sihke nissoniid ja albmáid gahpirat gorrojuvvojit alladabbon go eará mállet .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sehe nisonij et almai kapereh kuárrojeh ollâgubbon ko eres maalih .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govas sámedikki lahtut Jouni Ilmari Jomppanen ja Petra Biret Magga sámeparlamentarihkáriid konfereanssas Roavvenjárggas golggotmánus 2008 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kooveest sämitige jesâneh Jouni Ilmari Jomppanen já Petra Biret Magga säämi parlamiänttárij konfereensâst Ruávinjaargâst roovvâdmáánust 2008 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Guktuin sudnos lea badjelis Eanodat-Guovdageaingákti .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kuohtuin sunnust lii pajalist Iänuduv-Kuovdâkiäinu mááccuh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuppi govas eanodaga albmá gáktehealbmi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nube kooveest iänuduvlii almaa mááccuh helmi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govat Ulla Aikio-Puoskari .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Koveh Ulla Aikio-Puoskari .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ohcejotgákti</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tiänu mááccuh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ohcejoga gáktemálle lea govttolaččat hervejuvvon , goit jos dan veardida Eanodat-Guovdageaingáktái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tiänu mááccuhmalli lii rávhálávt hervejum , aainâs jis tom verdit Iänuduv-Kuovdâkiäinu máccuhân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gávtti geavahit oppa Deanu čázádatguovllu sulain .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mááccuh kevttimkuávlu lii ruávásávt vääldin ubâ Tiänu čácádâshkuávlu .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gákti hervejuvvo ruoksadiin ja fiskadiin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mááccuh hervâiivneh láá ruopsâd já fiskâd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nissona gávtti healbmi durrojuvvo , mii spiehkkasa eará málliin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Eres maalijn spiekâstmáin nissoon mááccuh helmi tuárroo .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Healbmái manná hearvabáddi lagabui logi mehtera .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Hiälmán mana olbepäddi masa love meetterid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Albmá gávtti healbmi ii hervejuvvo ollege .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Almaa mááccuh helmi ij hervejuu ollágin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govas Ohcejoga logahaga stuđeanttat giđđat 2008 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kooveest Ucjuv luvâttuv pajeuáppeeh kiđđuv 2008 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Earet vilges gávtti buot eará gávttit ovddastit Ohcejoga sámegáktemálle .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Eereeb vielgis mááccuh puoh eres máccuheh ovdâsteh tiänulâš sämimááccuh maali .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govva Ulla Aikio-Puoskari .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kove Ulla Aikio-Puoskari .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soađegili Vuohču gákti</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suáđigil Vuáču mááccuh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vuohču gákti lea Soađegili sápmelaččaid árbevirolaš málle ja ivnniidis dáfus lahka Anára gávtti .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuáču mááccuh lii Suáđigil sämmilij ärbivuáválâš malli já ivnijdis peeleest alda Aanaar mááccuh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Gákti hervejuvvo ruoksadiin , ruonáin ja fiskadiin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mááccuh hervâiivneh láá ruopsâd , ruánáá já fiskad .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nissoniid gahpir hervejuvvo goit Eanodat-Guovdageaingahpira láhkai ivdnás báttiiguin – muhto vehá oktageardánabbot .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nisonij kappeer hervejuvvoo kuittâg Iänuduv-Kuovdâkiäinu kappeer náálá ivnáás padijguin – ij kuittâg nuuvt korrâsávt .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govas sámedikki ságajođiheaddjin sámiid álbmotbeaidoaluin gussiid vuostáváldán Pekka Aikio , geas lea badjelis Soađegili Vuohču gákti .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kooveest sämitige saavâjođetteijee säämi aalmugpeeivi juuhlijn kuosijd vuástáváldám Pekka Aikio , kiäst lii pajalist Suáđigil Vuáču mááccuh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dearvvahanvuorus girječálli Ima Aikio-Arianaick fiskes Ohcejotgávttis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tiervâttemvuárust kirječällee Ima Aikio-Arianaick fiskis tiänulii máccuhist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govva Ulla Isotalo .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kove Ulla Isotalo .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalašgákti</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämmilâš mááccuh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govas ( gurutbealde ) nuortalašgielat girkolávlunjoavku sámedikki rahpandilálašvuođa ávvoipmilbálvalusas Ohcejogas giđđat 2008 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kooveest ( čiž ) nuorttâsämikielâlâš kirkkolaavlâjuávkku sämitige lekkâm juhleimmeelpalvâlusâst Ucjuuvâst kiđđuv 2008 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuppi govas ( olgešbealde ) Guoládaga sápmelaš Nina Afanasjeva , geas nuortalašnissona gahpir .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nube kooveest ( uálg ) Kuáláduv sämmilâš Nina Afanasjeva , kiäst lii nuorttâlâšnissoon kappeer .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vávvás lea badjelis Ohcejotgákti .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Umogáást lii pajalist tiänulâš mááccuh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govat Ulla Isotalo .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Koveh Ulla Isotalo .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalašnissona gákti lea lahka gárjilaš nissona álbmotbiktasa .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämmilâš nissoon mááccuh lii alda kärjillii nissoon aalmuglâšmááccuh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dasa gullá siviilaseađu mielde mearrašuvvi gahpermálle , sarafánačuvlla ja bearalhervejuvvon boagán .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toos kulá siiviilsiäđu miäldásâš kappeermalli , sarafaanhaamid já kässeekeđgijguin čiŋâttum poovij .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Maiddái gahpir lea hervejuvvon bearraliiguin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Meid kappeer lii hervejum kässeekeđgijguin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalaš albmá gákti lea rievdaduvvon maŋimuš jagiin ja dat orru rievdamin eará sámejoavkkuid gáktemálliid guvlui .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämmilâš almaa mááccuh lii ovdedum majemui iivij ääigi já tot oro ovdánmin eres sämmilâšjuávhui almai mááccuhmaali suundán .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalaš albmáid árbevirolaš gárvvuin buoremusat lea seilon njealječiegat riebana náhkis válmmaštuvvon dálvegahpir .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämmilij almai ärbivuáválii kárvukeerdist pyeremustáá lii siäilum neeljičievvâg riämnjánäähkist koorrum tälvikappeer .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

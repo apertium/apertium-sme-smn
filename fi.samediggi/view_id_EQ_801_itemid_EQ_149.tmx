@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ođđa tearpmat ja normeremat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uđđâ teermih já noormih</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi Giellagáldu almmustahttá sámegielaid ođđa terminologiija ja normeremiid čujuhusas samigiellagaldu .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi Kielâkäldee almostit sämikielâi uđđâ terminologia já noormâid čujottâsâst samigiellagaldu .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>org</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>org</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikkis ohcanláhkai leamašan prošeaktabargi mearreáigásaš virgái lea válljejuvvon servodatdiehtagiid studeanta Anne Länsman .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitiggeest uuccâmnáálá lamaš proojeektpargee meriáigásâš viirgán lii väljejum ohtsâškoddetiettui pajeuáppee Anne Länsman .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Prošeaktabargi bargun lea válmmaštallat ja plánet sierra nuoraidlávdegotti ásaheami Sámedikki oktavuhtii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Proojeektpargee pargon lii valmâštâllâđ já vuáváđ sierânâs nuorâikerdilävdikode asâttem Sämitige ohtâvuotân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Länsman álggaha barggustis 9.2.2009 ja lea das mearreáigásaččat 31.5.2009 rádjai .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Länsman aalgât pargostis 9.2.2009 já lii tast meriáigásávt 31.5.2009 räi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Su doaibmabáiki lea dál álggus Roavvenjárggas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suu toimâsaje lii algâmuddoost Ruávinjaargâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lassidieđut hálddahushoavda Juha Guttormis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasetiäđuid haldâttâshovdâ Juha Guttormist .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

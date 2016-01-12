@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki kulturdoarjagiid ohcan 2013</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige kulttuurtorjui uuccâm 2013</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi almmuha ohcanláhkai doarjagiid , mat mieđihuvvojit sámegielat kultuvrra ovddideapmái ja sámeservviid doaibmamii jahkái 2013 čujuhuvvon mearreruđas ( Sápmelaš kulturmearreruhta ) .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge almoot uuccâmnáál torjuid , moh mieđettuvvojeh sämikielâlâš kulttuur oovdedmân já sämiseervij toimâmân ihán 2013 čujottum meriruuđâst ( Säämi kulttuurmeriruttâ ) .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toorjâucâmušâid kalga čujottiđ Sämitiigán majemustáá 30. skammâmáánu 2012 tme 16.15 räi čujottâssáin : Sämitigge , Sajos , 99870 Aanaar .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uuccâmluámáttuvâid já lasetiäđuid uážžu kulttuurčällest puh. .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doarjjaohcamušaid galgá čujuhit Sámediggái maŋimustá 30. skábmamánu 2012 d. 16.15 rádjai čujuhusain : Sámediggi , Sajos , 99870 Anár. Ohcanskoviid ja lassidieđuid fidne kulturčállis tel. 010 839 3103 ja šleađgapoastta bokte Tämä sähköpostiosoite on suojattu roskapostia vastaan , aseta javascripttuki päälle nähdäksesi osoitteen .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>010 839 3103 já šleđgâpoostâ pehti Tämä sähköpostiosoite on suojattu roskapostia vastaan , aseta javascripttuki päälle nähdäksesi osoitteen . .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ohcanskovi t leat maiddái printemis Sámedikki interneahttasiidduin čujuhusas www.samediggi.fi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uuccâmluámáttuvâid puáhtá meid printtiđ Sämitige internetsiijđoin čujottâsâst www.samediggi.fi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doarjjaohcamušaid sáhttá doaimmahit buktimiin ieš dahje áššealbmá mielde dahje sáddet poastta bokte , áirasa mielde , telekopiijan dahje šleađgapoastta bokte .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toorjâucâmušâid puáhtá toimâttiđ persovnlávt tâi äššialmaa pehti , teikkâ taid puáhtá vuolgâttiđ poostâst , äššialmaa mield , telekopion tâi šleđgâpoostâ pehti .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doarjjaohcamušaid sádden dáhpáhuvvá sáddejeaddji ovddasvástádusain .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toorjâucâmušâi vuolgâttem tábáhtuvá vuolgâtteijee ovdâsvástádâssáin .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

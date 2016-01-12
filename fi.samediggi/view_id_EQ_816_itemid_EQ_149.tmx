@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Almmuheapmi sámenuoraid dáiddadáhpáhussii álggii</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Almottâttâm säminuorâi taaiđâtábáhtusân aalgij</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenuoraid dáiddadáhpáhus lágiduvvo dán jagi Soađegilis 27.3.2014 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säminuorâi taaiđâtábáhtus uárnejuvvoo taan ive Suáđigilist 27.3.2014 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Temán lea Nuorra Kultuvra - temá mielde dánsun ja sámi temán lea govva eallis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Teemân lii Nuorâ kulttuur teemâ mield tanssâ já sämmilâš teemâ lii kove ellest .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáhpáhusssii galgá almmuhit maŋemustá 14.3.2014 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taaiđâtábáhtusân kalga vuolgâttiđ almottâtmijd majemustáá 14.3.2014 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govat , mat oassálastet govvagilvui , galget leat sámedikki doaimmahagas vahkus 12 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Koveh kalgeh leđe Sämitige toimâttuvvâst majemustáá ohhoost 12 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi ordne jahkásaččat ovttas gielddaiguin ja báikkálaš servviiguin sámenuoraid dáiddadáhpáhusa , masa bovdejuvvojit buot sámegiela ja sámegielat oahpahusas leahkki mánáid ja nuoraid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge uárnee ihásávt ohtsâšpargoin kieldâiguin já páihálij sämiservijguin säminuorâi taaidâtábáhtus , ja toos puávdejuvvojeh puoh sämikielâ tâi sämikielâlâš máttááttâs párnááh já nuorah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oassálastin skuvllaid olggobealde lea maiddái vejolaš .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uásálistem škoovlâi ulguubeln lee še máhđulâš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenuoraid dáiddadáhpáhus lea oassi Nuorra Kultuvra - dáhpáhusas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säminuorâi taaidâtábáhtus kulá väldikodálâš Nuorâ Kulttuur - tábáhtusân , mii lii kuávlukieldâi tábáhtusâi viärdásâš kavalkaad .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuorra Kultuvrra ordnen čohkke Suoma dánsu nuoraid Tamperei 11.-15.6.2014 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorâ Kulttuur- vuáđudâs ornim SottiisiMoves 2014 čuákkee Suomâ tánssájeijee nuorâid Tamperen 11.-15.6.2014 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasetiäđuid finniih täst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>dáppe .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

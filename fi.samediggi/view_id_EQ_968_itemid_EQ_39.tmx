@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bures boahtin Sámedikki ruoktosiidduide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tiervâpuáttim sämitige päikkisijdoid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi lea Suoma sápmelaččaid alimus politihkálas doaibmaorgána mii válljejuvvo juohke njealját jagi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge lii Suomâ sämmilij alemus poolitlâš orgaan já tot väljejuvvoo vaaljâiguin jyehi niäljád ive .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Áigeguovdil</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Äigikyevdilis</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eurohpa Ráđi historjjálaš seminára lei bivnnut</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Euroop Rääđi historjálâš seminaar lâi miänástus</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>28.11.2014 Anáris , Sajosis , lágiduvvui Eurohpa Ráđi vuosttas seminára sámiid birra .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>28.11.2014 Anarist , Sajosist , uárnejui vuossâmuš Euroop rääđi seminaar sämmilijn .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Seminárai oassálaste Eurohpa Ráđi soahpamušaid buot gozihanorgánat : vehádatrápmasoahpamuša , Eurohpa guovlluid ja vehádatgielaid guoski vuođđogirjji sihke Eurohpa rasismma ja utnohisvuođa vuostásaš komišuvnna ovddasteaddjit .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Seminaarân uásálistii puoh Euroop Rääđi sopâmušâi kocceemorgaaneh : ucceeblohoraamisopâmuš , Eurooplii kuávlulijd já ucceeblohokieláid kyeskee vuáđukirje sehe Euroop raasiism já soováášmettumvuođâ vuástásii komissio ovdâsteijeeh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Seminára lei áidnalunddot , daningo goassige ovdal ráđi sierra olmmošvuoigatvuohtaorgánat eai leat čoahkkanan gieđahallat ovttas ovtta álbmoga guoski vuoigatvuođaid Eurohpa Ráđi soahpamušaid dáfus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Seminaar lâi áinoošlajâsâš , ko kuássin ovdil rääđi sierâ olmoošvuoigâdvuođâorgaaneh iä lah čokkânâm kieđâvuššâđ oovtâst oovtâ aalmugân kyeskee vuoigâdvuođâid Euroop rääđi toos kyeskee sopâmušâi vuáđuld .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Semináras badjánedje ságastallamii Ruošša sámiid sajádat ja dilli .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Seminaarist pajanij savâstâlmân Ruošâ sämmilij sajattuv já tile .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ruošša sámiid dearvvuođaid seminárai buvttii sámi parlamentáralaš ráđi ovddasteaddjin Valentina Sovkina .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ruošâ sämmilij tiervuođâid seminaarân puovtij säämi parlâmentaarlii rääđi ovdâsteijen Valentina Sovkina .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sovkina buvttii ságastis ovdan Murmánskka leana virgeoapmahaččaid doaimma ja figgamuša stivredallat sámiid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sovkina puovtij savâstis oovdân Murmansk lääni virgeomâhái tooimâ já viggâmuš stivriđ sämmilijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sovkina gávnnahii , vaikke Murmánskka guovlohálddahus leage nammadan ođđa orgána , Ruošša sámiid lihtu , ja dat lea stáhta jođiheami vuolde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sovkina pahudij , ete veikâ Murmansk kuávluhaldâttâh lii-uv nomâttâm uđđâ orgaan , Ruošâ sämmilij lito , te tot lii staatâlávt stivrejum .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ruošša sámiid ovddasta Guoládaga sámeparlameanta , man jođiha Sovkina , ja dat joatká doaimmaidis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ruošâ sämmilijd oovdâst Kuáláduv sämiparlament jođetteijen Sovkina já tot juátká tooimâs .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ruošša stáhta ja Murmánskka virgeoapmahaččaid doaimmaid dubmejedje sáhkavuoruin sámedikki ságajođiheaddji Klemetti Näkkäläjärvi ja nuortalaččaid giličoahkkima ovddasteaddji Tauno Haltta .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ruošâ staatâ já Murmansk virgeomâhái tooimâid tuommijn savâinis sämitige saavâjođetteijee Klemetti Näkkäläjärvi já nuorttâlâšâi sijdâčuákkim ovdâsteijee Tauno Haltta .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Klemetti Näkkäläjärvi gieđahalai ságastis Suoma sámiid sajádaga ja deattuhii ságastis seminára historjjálaš mearkkašumi ja Eurohpa Ráđi soahpamušaid ja šiehtadallamiid gohcima mearkkašumi sámiide . ”</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Klemetti Näkkäläjärvi kieđâvušâi savâstis Suomâ sämmilij sajattuv já tiäduttij savâstis seminaar historjálii merhâšume já Euroop Rääđi sopâmušâi já sopâmij kocceem merhâšume sämmiláid . ”</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sávan , ahte dát seminára láidesta áibbas ođđalágan gulahallamii sámiid , virgeoapmahaččaid ja Eurohpa Ráđi gaskkas - ja lunddolaččat – sáhttit láhčit ođđa doaibmavugiid Eurohpa Ráđi doaimma ja sámiid vuoigatvuođaid ovddideapmái . ”</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tuáivum , ete taat seminaar joođeet aaibâs uđđâlágán vuáruvaikuttâsân sämmilij , virgeomâhái já Euroop rääđi kooskâst- já luándulávt – pyehtip rähtiđ uđđâ toimâtaavijd ovdediđ Euroop rääđi tooimâ já sämmilij vuoigâdvuođâid . ”</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Näkkälärvi gávnnahii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Näkkäläjärvi pahudij .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalaččaid giličoahkkima ovddasteaddji Tauno Haltta muitalii ságastis nuortalaččaid dilis Suomas , Norggas ja Ruoššas . ”</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâlâšâi sijdâčuákkim ovdâsteijee Tauno Haltta muštâlij savâstis nuorttâlâšâi tiileest Suomâst , Taažâst já Ruošâst . ”</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalaškultuvra lea hui áitatvuloš .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâlâškulttuur lii eromâs uhkevuálásâš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Smávva sámegiela ja kulturjoavkku lea váttis seailluhit iežas giela ja identitehta váldokultuvrra deattu vuolde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uccâ sämikielâ já kulttuurjuávhu lii vaigâd siäiluttiđ jieijâs kielâ já identiteet väldikulttuur teddust .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalašgiella lea geavadis jávkan Norggas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâlâškielâ lii keevâtlávt láppum Taažâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ruoššas nuortalašgiela máhttet dušše moadde olbmo .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ruošâst nuorttâlâškielâ sárnuh innig muáddi ulmuu .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suomas lea stuorra vástu das ahte nuortalašgiella ii jávkka máilmmis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suomâst lii stuorrâ ovdâsvástádâs tast , ete nuorttâlâškielâ ij lappuu mailmist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalaškultuvrra sihkkarastin eaktuda lasi ruđa giela oahpahussii , ealáskahttimii ja nuortalaš kultur- ja dáiddaeallima doarjumii . ”</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâlâškulttuur turvim váátá lase ruuđâ kielâ máttátmân , iäláskitmân já nuorttâlii kulttuur- já taaiđâeellim tuárjumân . ”</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Tauno Haltta deattuhii semináras .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tauno Haltta tiäduttij seminaarist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Riikkabeivviid veahkkevuoigatvuohtaáššealmmái Maija Sakslin gieđahalai ságastis sámemánáid ja nuoraid gielalaš vuoigatvuođaid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovdâskode išeriehtiäššialmai Maija Sakslin kieđâvušâi savâstis sämipárnái já nuorâi kielâlijd vuoigâdvuođâid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sakslin lei erenomáš fuolas árrabajásgeassinbálvalusaid fálaldagas sámiid ruovttuguovllu olggobealde ja sámegielaid ealáskahttinprográmma njoazes ollašuhttimis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sakslin lâi eromâš huolâstum arâšoddâdempalvâlusâi finnimvuođâst sämikuávlu ulguubeln já sämikielâi iäláskittemohjelm hiđes olášutmist . Ovdâskode išeriehtiäššialmai Maija Sakslin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kove : Sandro Weltin © Euroop Rääđi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Semináras gieđahallojedje sámegiela , bálvalusaid ja oahpahusa hástalusat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Seminaarist kieđâvuššojii sämikielâ , palvâlusâi já máttááttâs hástuseh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oasi moderáhtoran doaibman Petra Magga-Vars deattuhii ságastis sámegiela ja kultuvrra gaskasaš oktavuođa .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uási stivrejeijen toimâm Petra Magga-Vars tiäduttij savâstis sämikielâ já kulttuur koskâvuođâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>” Sámegielaid mearkkašupmi lea stuoris olles sámekultuvrai .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>” Sämikielâi merhâšume lii styeres ubâ sämmilii kulttuurháámán .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegiella ii leat dušše dieđuid juohkin dahje gulahallan , muhto dat lea čatnasis ealáhusaide , duodjái , luohtái , dáidagii ja lundui ” , Magga-Vars deattuhii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâ ij lah tuše tiäđusirdem teikâ viestâdem , peic čonnâšum iäláttâssáid , tuáján , juáigusân , taiđui já luándun ” , Magga-Vars tiäduttij .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Norgga beale sápmelaš Sven Roald Nystø muitalii julivgiela dilis ja mo julivgiella lea ealáskahtton .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taažâsämmilâš Sven Roald Nystø muštâlij juulevsämikielâ tiileest já maht juulevsämikielâ láá iäláskittâm .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oasis lei sáhka maiddái sámi virtuálaoahpahusa hástalusain ja ođđa internetvuđđosaš heivehusain sámegiela geavaheami lasiheami olis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uásist kullii meid säämi virtuaalmáttááttâs hástusijn já uđđâ internetvuáđulijn heiviittâsâin sämikielâ kevttim lasettem várás .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenissoniid panela ságajođiheaddjin lei vehádatáittardeaddji Eva Biaudet .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säminisonij paaneel saavâjođetteijen lâi ucceeblohováldálâš Eva Biaudet .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Panelas ságastallui erenomážit sámenissoniid vejolašvuođain beassat árbevirolaš sámeealáhusaid ollái ja maiddái sámenissoniid oassálastimis politihkai .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Paneelist sárnojii eromâšávt säminisonij máhđulâšvuođâin peessâđ ärbivuáválij sämi-iäláttâsâi pirrâdâhân já säminisonij uásálistmist politiikân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi nissonforuma ovddasteaddji Gudrun E. Lindi kritiserii ságastis , ahte dásseárvoáššit eai leat sámedikki doaimmas ovdasajis ja sámenissoniid dásseárvvus lea olu buoridanmunni .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi nissoonfoorum ovdâsteijee Gudrun E. Lindi árvuštâlâi savâstis , ete täsiárvuääših iä lah sämitige tooimâst ovdâsaajeest já säminisonij täsiáárvust lii ennuv maid pyerediđ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Norgga sámedikki stivrra lahttu Silje Katerine Muotka muitalii Norgga sámedikki dásseárvopolitihkas ja nissoniid vejolašvuođas beassat politihkai . ”</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taažâ sämitige stiivrâ jeessân Silje Katerine Muotka muštâlij Taažâ sämitige täsiárvupolitiikâst já nisonij máhđulâšvuođâst peessâđ politiikân . ”</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Norgga sámedikkis lea dohkkehuvvon dásseárvopolitihkalaš prográmma ja dán áigge sámenissonat besset fárrui politihkai .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taažâ sämitiggeest lii tuhhiittum täsiárvu-pooliitlâš ohjelm já taan ääigi säminisoneh peessih fáárun politiikân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Norgga sámedikkis leamašan erenomáš kampánja sámenissoniid oččodeamis oassálastit politihkai .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taažâ sämitiggeest lii lamaš eromâš kampanja , ete finniiččii säminisonijd uásálistiđ politiikân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dán válgabajis sámedikki 39 ovddasteaddjis 20 leat nissonat , ovdal kampánjja álggaheami dušše 18 % politihkáriin ledje nissonat ” , Muotka muitalii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taan vaaljâpaajeest sämitige 39 ovdâsteijest 20 láá nisoneh , ovdil kampanja algâttem tuše 18 % politijkkárijn lijjii nisoneh ” , Muotka muštâlij .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenissoniid panela .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govas gurotbealde olgešbeallái : Moderáhtor Eva Biaudet , Gudrun E. Lindi , Heli Huovinen , Ellen Maret Hætta , Silje Katerine Muotka ja Berit Marie Eira .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govva : Sandro Weltin © Eurohpa Ráđđi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Norgga sápmelaš badjeolbmát Ellen Maret Hætta ja Berit Marie Eira bođiiga seminárai njuolgga bigálusain . ”</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taažâ sämmiliih puásuituálleeh Ellen Maret Hætta já Berit Marie Eira poođijn seminaarân njuolgist pygálysâin . ”</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Boazodoalus sihke albmát ja nissonat leat dásseárvosaččat ja barggut juhkkojit buohkaid gaskkas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Puásuituálust sehe almaah ete nisoneh láá täsiárvusiih já pargoh juáhhojeh puohâi kooskân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámeservoša siste sámenissoniin eai leat váttisvuođat dásseárvvu ektui , Hætta muitalii ” .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämisiärváduv siste säminisonijn iä lah čuolmah täsiáárvu háárán , Hætta muštâlij ” .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sihke Hætta ja Eira deattuheigga , ahte ” stuorámus áitta badjeolbmáid kultuvrai ja maiddái sámenissoniid vejolašvuhtii bargat árbevirolaš ealáhusaiguin lea Norgga stáhta áigumuš bággonjuovvat beali Norgga bohccuin boahtte jage bealde ” .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sehe Hætta ete Eira tiäduttáin , ete ” stuárráámus uhke puásuisämmilij kulttuur kuáttá já meid säminisonij máhđulâšvuođáid hárjuttiđ ärbivuáválijd iäláttâsâid lii Taažâ staatâ áigumuš pággunjuovvâđ pele Taažâ poccuin puáttee ive beln ” .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Guktot badjenissonat duođalaččat balaigga boahttevuođa beales . ”</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kuohtuuh puásuituálunisoneh tuođâi pooláin puátteevuođâs peeleest . ”</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Olles min eallin lea boazodoallu , dan birra vuođđuduvvá buot , sámegiela geavaheapmi , dujiid materiála ja daid válmmašteapmi , mánáid fárrui beassan iežas kultuvrrai ja dán ii ádde Norgga stáhta ” , Eira konkretisere .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ubâ mii eellim lii puásuituálu , ton pirrâ huksejuvvojeh puoh , sämikielâ kevttim , tuojij materiaal já tai valmâštem , párnái peessâm mieldi sii jieijâs kulttuurân já taam ij ibbeerd Taažâ staatâ ” , Eira tärkkilistij .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenuoraid panelas ledje ovddastuvvon sámenuorat Suomas , Ruoŧas ja Norggas ja panela jođihii Tuomas Aslak Juuso . ”</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säminuorâi paneelist lijjii ovdâstittum säminuorah Suomâst , Ruotâst já Taažâst já paaneel jođettij Tuomas Aslak Juuso . ”</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenuorat leat jo gululdaga dolkan vuordit doaimmaid maidda stáhtat leat čatnasan .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säminuorah láá jo váhá tulkkum vyerdiđ tooimâid mooid staatah láá čonâdâttâm .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Resurssat leat geahnoheamet .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Resursseh láá heeitugeh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámiid árbevirolaš ealáhusat eai gierdda šat lasi doaibmanvejolašvuođaid ja gánnáheami geahpedeami .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämmilij ärbivuáváliih iäláttâsah iä killáá eenâb toimâmáhđulâšvuođâi já kannattetteevuođâ kepidem .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eurohpa Ráđđi galggašii maiddái beavttálmahttit gozihanproseassa ja buoridit sámiid osolašvuođa dan bargui . ”</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Euroop rääđi kolgâččij meid pehtilittiđ kocceemproosees já pyerediđ sämmilij uásálâšvuođâ ton paargon . ”</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Juuso gávnnahii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Juuso pahudij .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ruoŧa sámenuoraid ságajođiheaddji Per Jonas Partapuoli muitalii sámenuoraid dilis Ruoŧas . ”</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ruotâ säminuorâi saavâjođetteijee Per Jonas Partapuoli muštâlij säminuorâi tiileest Ruotâst . ”</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Boazodoalu dilli lea váttis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Puásuituálu tile lii vaigâd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Biebmat beađuid , ruvkeindustriija áitá ealáhusa , bieggamillot leat min duoddariid miehtá , ja luonddudili nuppástuvvan lea váttásmahttán min ealáhusa .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Piemmâp piäđuid , ruukiráhtulâšvuotâ uhked mii iäláttâs , pieggâvuáimáttuvâin láá mii tuoddâreh tievâ , já luándutiilij muttum lii toohâm mii iäláttâs vaigâdin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dilis leat kultuvrralaš , ekonomalaš ja psyhkalaš váikkuhusat olles sámekultuvrai ja dan boahttevuhtii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tiileest láá kulttuurliih , ekonomâliih já jiegâliih vaikuttâsah ubâ sämikulttuurân já ton puátteevuotân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Boazodoalu boahttevuođa galgá sihkkarastit ” , Partapuoli deattuhii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Puásuituálu puátteevuođâ kalgeh turviđ ” , Partapuoli tiäduttij .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki nuoraidráđi ovddastii sámenuoraid vuoigatvuođaid gieđahalli panelas ráđi várreságajođiheaddji Minna Lehtola .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige nuorâirääđi ovdâstij säminuorâi vuoigâdvuođâid kieđâvuššee paneelist rääđi värisaavâjođetteijee Minna Lehtola .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Su sáhkavuoru temán lei vehádat vehádaga siste .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suu saavâ teeman lâi ucceebloho ucceeblovvoost .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lehtola oaidná sámekultuvrra boahttevuođa positiivvalažžan ” Nuoraid jurddašeapmi lea rahpasut ja sii iežaset vugiin ovddidit ja dollet sápmelašvuođa eallinfámolažžan .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lehtola uáiná sämikulttuur puátteevuođâ positiivlâžžân ” Nuorâi vuáhádume lii eenâb ávus já sij jieijâs náál ovdedeh já aneh sämmilâšvuođâ eellimvuáimálâžžân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mu mielas kultuvrra árvvusatnin lea buorránan , ii leat šat heahpat leat sápmelaš . ”</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Muu mielâst kulttuur áárvust anneem lii puáránâm , ij lah innig heeppâd leđe sämmilâš . ”</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lehtola gieđahalai ságastis iežas duogáža ja doaladumi sámekultuvrai ” Vaikke gulange vehádaga vehádahkii , in dovdda dan heittot áššin , muhto dat lea šaddadan sidnáivuođa ja luonddu , hálo bargat áššiid iežan álbmoga ovdii ja doaibmat nu , ahte boahttevuođasge livččiimet ealli álbmot , eatge dušše muitu historjjá girjjiin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lehtola kieđâvušâi savâstis jieijâs tuávváá já vuáhádume sämikulttuurân ” Veikâ kuulâm-uv ucceeblovo ucceeblohon , jiem ane tom hyennin , peic tot lii lasettâm sine já luándu , háálu rähtiđ jieijâs aalmug oovdân aašijd já toimâđ tienuuvt , ete puátteevuođâst-uv liččijm ellee aalmug , epke tuše mušto historjá kiirjijn .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dovddan maiddái vástu das , ahte lean sámekultuvrra oassi eallimiin dan . ”</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tubdâm meid ovdâsvástádâs tast , ete lam uási sämikulttuur nuuvt ete iälám tom . ”</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>ná Lehtola loahpahii sáhkavuoru .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lehtola lopâttij suu oovdânpyehtim .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Easkkavuođđuduvvon Queer Sápmi searvvi ovddastedje semináras searvvi ságajođiheaddji Tobias Poggats Ruoŧas ja várreságajođiheaddji Stina Roos Suomas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Eidu vuáđudum Queer Sápmi seervi ovdâstáin seminaarist seervi saavâjođetteijee Tobias Poggats Ruotâst já värisaavâjođetteijee Stina Roos Suomâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stina Roos ávžžuhii sámedikkiid buoridit doaimmaid seksuálavehádagaid vuoigatvuođaid ovddideami várás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stina Roos avžuuttij sämitige pyerediđ tooimâs seksuaalucceeblovoi vuoigâdvuođâi oovdedmân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Poggats muitalii iežas ságastis Queer Sápmi searvvis ja dan barggus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Poggats muštâlij jieijâs savâstis Queer Sápmi seervist já ton pargoost .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Poggats skeŋkii Suoma sámediggái sámi seksuálavehádagain muitaleaddji girjjiid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Poggats skeŋkkij Suomâ sämitiigán sämmilij seksuaalucceeblovoin muštâleijee ráhtusijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Semináras doarjaledje Eurohpa Ráđđái ja dan veahkkái Ruošša sámiide ja Norgga boazodoalu sihkkarastimii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Seminaarist kessii Euroop rááđán já ton torjui Ruošâ sämmiláid já Taažâ puásuituálu turviimân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eurohpa Ráđđi válddii seminára fáttá duođalaččat ja sámit ožžo lohpádusa , ahte Eurohpa Ráđđi vuodju dán dillái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Euroop Rääđi vaaldij seminaar viestâ tuođâlávt já sämmiliih finnejii lopádâs , ete Euroop rääđi vuáju taan tilán .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eurohpa Ráđi rasismma ja utnohisvuođa komišuvnna ( ECRI ) ságajođiheaddji Christian Ahlund muitalii ECRI:a addin ávžžuhusain Supmii , Norgii ja Ruoŧŧii . ”</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Euroop rääđi raasism já soováášmettumvuođâ vuástásii komissio ( ECRI ) saavâjođetteijee Christian Ahlund muštâlij ECRI adelem avžuuttâsâin Suomân , Taažân já Ruotân . ”</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>ECRI lea ávžžuhan , ahte Suopma beavttálmahttá doaimmaid sámegielaid ealáskahttima dihtii , sámegiela oahpahusa ovddideami dihtii ja sámi giellalága duohtandahkama dihtii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>ECRI lii avžuuttâm , ete Suomâ pehtilit tooimâid sämikielâi iäláskittem várás , sämikielâ máttááttâs ovdedem várás já säämi kielâlaavâ olášuttem várás .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suoma virgeoapmahaččat galggašedje maiddái álgit doaimmaide lasihan dihtii almmolaš diđolašvuođa sámiid birra váldoálbmoga gaskavuođas nu oahpahusa go kampánjjaid vehkiin ; Ahlund deattuhii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suomâ virgeomâhááh kolgâččii meid riemmâđ toimáid vâi lasetteh almos tiäđulâšvuođâ sämmilijn väldiaalmug kooskâst nuuvt máttááttem ko kampanjai vievâst ; Ahlund tiäduttij .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>ECRI:a ságajođiheaddji Christian Ahlund .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>ECRI saavâjođetteijee Christian Ahlund .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govva : Sandro Weltin © Eurohpa Ráđđi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kove : Sandro Weltin © Euroop Rääđi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Semináras válmmaštuvvá raporta ja Suoma sámediggi ja Eurohpa Ráđđi čuvvot seminára buktin váikkuhusaid . ”</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Seminaarist valmâštuvá raapoort já Suomâ sämitigge já Euroop rääđi čuávvuv seminaar pyehtim vaikuttâsâid . ”</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Seminára buvttii lasi dieđu sámiin Eurohpa Ráđđái ja lasihii diđolašvuođa Eurohpa Ráđis ja dan mearkkašumis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Seminaar puovtij lase tiäđu sämmilijn Euroop rááđán já lasettij tiäđulâšvuođâ Euroop rääđist já ton merhâšuumeest .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dábálaččat vuorrováikkuhus Eurohpa Ráđiin dáhpáhuvvá čálalaččat ja lea duođaige dehalaš , ahte mis lei vejolašvuohta eakti vuorrováikkuhussii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Táválávt vuáruvaikuttâs Euroop raađijn tábáhtuvá kirjálávt já lii tuođâi tergâd , ete mist lâi máhđulâšvuotâ puigâ vuáruvaikuttâsân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vuorddán stuorra beroštumiin , mii seminára maŋŋá dáhpáhuvvá .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuárdám stuorrâ mielâkiddiivâšvuođáin , ete mii seminaar maŋa tábáhtuvá .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Semináras bođii maiddái ovdan , ahte sámedikki dásseárvo- ja ovttaveardásašvuohtabarggus eai leat doarvái dieđut sámiidge gaskavuođas ja mii galgat buoridit diehtojuohkima dáid áššiin ” ságajođiheaddji Näkkäläjävi muitalii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Seminaarist poođij meid uáinusân , ete sämitige täsiárvu- já oovtviärdásâšvuotâpargoost ij lah tuárvi tiätu sämmilijgin kooskâst já mij koolgâp pyerediđ tieđettem tai ašijguin ” saavâjođetteijee Näkkäläjärvi muštâlij .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Seminára čuvvo báikki alde vádjit 100 olbmo ja interneahtas 269 geahčči .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Seminaar čuovvuu saje alne vááijuv 100 olmožid já interneetist 269 keččed .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Valentina Sovkina sáhka suomagillii</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Valentina Sovkina saahâ suomâkielân</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Klemetti Näkkäläjärvi saahâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>suomâkielân</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>já</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>davvisámegillii</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>tavesämikielân</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tauno Haalta saahâ suomâkielân</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Minna Lehtola sáhka suomagillii</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Minna Lehtola saahâ suomâkielân</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Per Jonas Partapuoli sáhka davvisámegillii</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Per Jonas Partapuoli saahâ tavesämikielân</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Marko Marjomaa power point - oovdânpyehtim ( eŋgâlâškielân )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Eeva-Liisa Rasmus power point - oovdânpyehtim ( eŋgâlâškielân )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Liŋka Eurohpa Ráđi seminára you tube vurkkohusaide : ( eaŋgalsgillii</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Liŋkki Euroop Rääđi seminaar you tube vuárháid : ( eŋgâlâškielân</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uási 1</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uási 2</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uási 3</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uási 4 )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eurohpa Ráđi ođđasat semináras</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Euroop Rääđi uđđâseh seminaarist</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Seminára govvagalleriija</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eurohpa Ráđi ođasvurkkohus</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Euroop rääđi uđâsvuárkká</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Liŋka Sámedikki bargoveahkapolitihkalaš áššebáhpáriidda , masa gullet dásseárvo- ja ovttaveardásašvuohtaplánat sihke bargoveahkapolitihkalaš prográmma .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Liŋkki Sämitige pargoviehâpoolitlijd äššikirjijd , mooid kuleh täsiárvu- já oovtviärdásâšvuođâvuáváámeh sehe pargoviehâpoolitlâš ohjelm .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

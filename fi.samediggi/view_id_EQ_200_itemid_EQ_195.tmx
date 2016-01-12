@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Beaivvi bárdni</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Peeivi pärni</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Geahča mytologalaš oanehisvideo sámiid sohkaduogážis</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Keejâ mytologâlâš uánihisvideo sämmilij algâpuátimist</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ruoŧa sápmelaš Anders Fjellnera ( 1795-1876 ) vurken muitalussii vuođđuduvvi máinnas sámiid sohkaduogážis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ruotâ sämmilâš Anders Fjellner ( 1795-1876 ) vuorkkim muštâlusân vuáđuduvvee maainâs sämmilij algâpuátimist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Muitaleaddji : Kirsti Länsman</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Muštâleijee : Kirsti Länsman</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bagadallan : Kauko Mustonen , govven / čuohppan : Päivi Magga</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stivrim : Kauko Mustonen , kuvvim / čuoppâm : Päivi Magga</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Buvttadeapmi : Sámi oahpahusguovddáš 2008</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pyevtittem : Säämi máttááttâskuávdáš 2008</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Guhkkodat : 2,13</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kukkodâh : 2,13</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi duodjeávdnasiid oažžuma dorvvasteapmi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi tyejiamnâsij finnim turvim</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Meahcceráđđehus lea addán 14.3. rávvaga sámi duodjeárbevieru ávdnasiid skáhppomis daid Meahcceráđđehusa hálddašan guovlluin , mat leat luonddusuodjalanguovlluid olggobealde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Meccihaldâttâs lii adelâm 14.3. ravvuu säämi tyejiäärbi amnâsij hahâmist luándusuojâlemkuávlui ulguupiäláin kuávluin , maid Meccihaldâttâs haaldâš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi duodjeárbevieru luondduresurssaide laktáseaddji árbevirolaš dieđu dorvvasteami várás Meahcceráđđehus addá almmolaš vuoigatvuođa nuvttá váldit stáhta eatnamiin duodjeávnnasin unna meriid sieđgga , leaibbi , soagi ja subi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi tyejiäärbi luánduriggoduvváid lohtâseijee ärbivuávlii tiäđu turviimân addel Meccihaldâttâs almolii , nuuvtá vuoigâdvuođâ väldiđ staatâ enâmijn tyejiamnâsin ucessiähá meerijd poijuu , leeibi , suávi já suve .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Maiddái unna meriid vettiid , gámasuoinni , háisuoinni ja boskkaid sáhttá váldit nuvttá .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Meid ucessiähá meerijd viäddáid , kamuvsuoinijd , hajâsuoinijd já puurrâmraasijd puáhtá väldiđ nuuvtá .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Almmolaš váldinvuoigatvuohta ii guoskka álbmot- dahje luonddumehciid , iige ávnnasin dáhpáhuvvi vuovdin dahje gaskkusteapmi leat lobálaš .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Almolâš väldimvuoigâdvuotâ ij kuoskâ aalmug- tâi luándumeeccijd , ige amnâsin tábáhtuvvee uđđâsistvyebdim tâi nuubán sirdem lah loválâš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Reatkká váldimii mieđihuvvojit sierra lobit nuvttá ja báhkiid váldimii sierra lobit mávssu vuostá .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Rááđhá väldimân mieđettuvvojeh sierânâs , nuuvtá loveh já paahij väldimân sierânâs , mäksimnáál loveh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dákkár linjás lea sohppojuvvon sámedikkiin čađahuvvon ráđđádallamiid boađusin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tággáár linjim lii toohum sämitiggijn toollum ráđádâlmij puátusin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Linnjageassin vuođđuduvvá biodiversitehtasoahpamuša 8 j artihkkalii , mii geatnegahttá stáhtaid suodjalit eamiálbmogiid árbevirolaš dieđu ja Meahcceráđđehuslága 4 §:i , mii geatnegahttá Meahcceráđđehusa dorvvastit sámekultuvrra hárjeheami eavttuid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Linjim vuáđuduvá biodiversiteetsopâmuš 8 j artiklan , mii kenigit staatâid suojâliđ algâaalmugij ärbivuáválii tiäđu já Meccihaldâttâslaavâ 4 §:n , mii kenigit Meccihaldâttâsta turviđ sämikulttuur hárjuttem iävtuid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Linnjageassima lea nannen bajimus hoavda Jyrki Kangas 20.1.2011 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Linjim lii nanodâm váldujođetteijee Jyrki Kangas 20.1.2011 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Reatkkáid váldinlobit mieđihuvvojit stáhta buot eará eatnamiidda earet álbmot- ja luonddumehciide sihke muhtun sierra kártii ráddjejuvvon guvlui .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Rááđhái väldimloveh mieđettuvvojeh jyehi sajan staatâ enâmáid , eereeb muorâstuvâi já motomij sierâ káártán räijejum kuávloid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ráva váldojuvvo sámiid ruovttuguovllus atnui dalán .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Raavâ váldoo sämikuávlust kiävtun tállán .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lassedieđut : Ságadoalli Klemetti Näkkäläjärvi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasetiäđuh : Saavâjođetteijee Klemetti Näkkäläjärvi</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

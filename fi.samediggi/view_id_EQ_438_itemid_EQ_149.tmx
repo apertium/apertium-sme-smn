@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mu Sápmi jagi 2030 - girji almmustuvvan</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Muu Säämi ive 2030 - kirje almostum</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mu Sápmi jagi 2030 - čállingilvui oassálastan mánáid ja nuoraid teavsttat leat almmuhuvvon girjin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Muu Säämi ive 2030 - čäällimkiišton uásálistám párnái já nuorâi teevstah láá almostittum kirjen .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girjji leat almmuhan Sámi mánáidkulturguovddáš ja nuoraidlávdegoddi-prošeakta .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kirje lii almostittám Säämi párnáikulttuurkuávdáš já nuorâilävdikodde - proojeekt .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čállosiin mánát ja nuorat ovdanbuktet iežaset oainnuid ja sávaldagaid boahttevuođa birra , das makkár máilmmis sámit ellet 20 jagi geažes .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čálusijn párnááh já nuorah oovdânpyehtih jieijâs uáimuid tâi tuoivuid puátteevuođâst , tast maggaar maailmist sämmiliih eellih 20 ive keččin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girjji buot teavsttat leat ovttain Suomas hállon sámegielain ( anáraš- , nuortalaš- , ja davvisámegiella ) ja suomagillii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kirjeest puoh teevstah láá ovttáin Suomâst sarnum sämikielân ( aanaar- , nuorttâ- , já tavesämikielâ ) já suomâkielân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi mánáidkulturguovddáš ja nuoraidlavdegoddi – prošekta almmustahttá mánáid ja nuoraid teavsttaid čálliide , sámemánáide ja nuoraide , ja daidda ovttasbargoguimmiide , geat barget mánáid ja nuoraid áššiiguin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi párnáikulttuurkuávdáš ja nuorâilävdikodde - haahâ lii almostittám párnái já nuorâi teevstâid jyehimnáál čälleid , sämipárnáid já nuoráid , já toid oovtâstpargopeelijd , moh pargeh párnái já nuorâi ašijguin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Loga lasi Mu Sápmi jagi 2030 almmustuvvan / Minun Sápmi vuonna 2030 ilmestynyt .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mu Sápmi jagi 2030 / Minun Sápmi vuonna 2030 / Muu Säämi ive 2030 / Muu Sää ´mjannam ee ´jjest 2030 .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi jugii stipeanddaid alla ceahki stuđeanttaide</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge juovij stipendijd ollâtääsi uáppeid</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi mieđihii oktiibuot čieža 500 euro stipeandda sámegiela ja sámi kultuvrra alla ceahki stuđeanttaide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge mieđettij ohtsis čiččâm 500 euro stipendid sämikielâ já - kulttuur ollâtääsi uáppeid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stipeandda ohce oktiibuot 17 stuđeantta .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stipendijd uccii ohtsis 17 uápped .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stipendeh mieđettuvvojii čuávuváid uáppeid : Elli-Marja Hetta ( Vuáčču / Oulu ollâopâttâh ) , Riitta Lehtola ( Aanaar / Oulu ollâopâttâh ) , Arla Magga ( Aanaar / Oulu ollâopâttâh ) , Solja Magga ( Aanaar / Oulu ollâopâttâh ) , Risten Mustonen ( Suáđigil / Oulu ollâopâttâh ) , Outi Paadar ( Aanaar / Oulu ollâopâttâh ) , Magreta Sara ( Aanaar / Oulu ollâopâttâh ) .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stipeanddain mearridii sámedikki skuvlen- ja oahppamateriálalávdegoddi čoahkkimistis 21.11.2014 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stipendijn meridij sämitige škovlim- já oppâmateriaallävdikodde čuákkimistis 21.11.2014 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lávdegoddi gávnnahii iluin , ahte stipeandaohcamušat bohte ollu , sierra guovlluin ja máŋggain skuvlensurggiin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lävdikodde pahudij iloin , ete stiipeenducâmušah pottii ennuv , sierâ kuávluin já maaŋgâin škovlimsuorgijn .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Riikkaidgaskasaš soahpamušat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Aalmugijkoskâsiih sopâmušah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eamiálbmogiid guoski riikkaidgaskasaš soahpamušat ja julggáštusat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Algâaalmugáid kyeskee aalmugijkoskâsiih sopâmušah já julgáštušah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dán siiddu oanehis čujuhus lea www.samediggi.fi/kvsopimukset</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taan siijđo uánihis čujottâs lii www.samediggi.fi/kvsopimukset</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Riikkaidgaskasaš olmmošriektesoahpamušat leat stáhtasoahpamušat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Aalmugijkoskâsiih olmoošvuoigâdvuotsopâmušah láá staatâsopâmušah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dat ratifiserejuvvojit Suomas ásahemiin soahpamuša mearrádusaid sisttisdoalli ásahus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taid ratifisisteh Suomâst aasâtmáin asâttâs , mii ana sistees sopâmuš miärádâsâid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Olmmošriektesoahpamušaid galgá vuhtiiváldit Suomas go ođasmahtto láhkaásaheapmi , riektevuogádagas ja maiddái erenomážit vuođđoláhkaváljagotti bealiváldimiin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Olmoošvuoigâdvuotsopâmušâid kalga Suomâst väldiđ vuotân talle ko uđâsmiteh lahâasâttem , riehtivuáháduvvâst sehe eromâšávt vuáđulahâváljukode peleväldimijn .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámiid duođalaš suodji čohkiida riikkaidgaskasaš soahpamušaid ja sisriikkalaš láhkaásaheami nannen vuoigatvuođain .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämmilij tuođâlâš syeji šadda vuoigâdvuođâin , maid aalmugijkoskâsiih sopâmušah já aalmuglâš lahâasâttem tähideh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Olmmošriektesoahpamušaid ollašuhttima gohcet riikkaidgaskasaš áššedovdiorgánat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Olmoošvuoigâdvuotsopâmušâi olášuttem koceh aalmugijkoskâsiih äššitobdeeorgaaneh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suopma galgá raporteret orgánaidda jeavddalaččat soahpamuša ollašuhttimis Suomas ja das , mo dat lea vuhtiiváldán riikkaidgaskasaš soahpamušaid ollašuhttima gohcci orgánaid ávžžuhusaid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suomâ kalga raportistiđ orgaanáid merikoskâsávt sopâmuš olášutmist Suomâst já tast , maht tot lii váldám vuotân aalmugijkoskâsij sopâmušâi olášuttem koccee orgaanij avžuuttâsâid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mearreáigeraporteremis vástida Suomas olgoriikkaministeriija , mii gullá sierra ministeriijaid , virgeoapmahaččaid , sámedikki ja siviilaorganisašuvnnaid raportta ráhkadeami várás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Merikoskâsâš rapotistmist västid Suomâst olgoašijministeriö , mii kulá sierâ ministeriöid , virgeomâhâid , sämitige já aalmuglâšseervijd raapoort rähtim várás .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamušaid ollašuhttima gohcci orgánat sáhttet maiddái galledit Suomas ja gullat sierra čanasjoavkkuid raporttaid várás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmušâi olášuttem koccee orgaaneh pyehtih meid kolliđ Suomâ já kuullâđ sierâ čonâsjuávhuid raportij várás .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stáhtaid mearreáigeraporttaid lassin orgánat vuostáiváldet eamiálbmogiin ja siviilaorganisašuvnnain cealkámušaid ja oainnuid soahpamušaid ollašuhttimis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Staatâi merikoskâsâš raportij lasseen orgaaneh väldih vuástá algâaalmugijn já aalmuglâšseervijn ciälkkámušâid já uáinuid sopâmušâi olášutmist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi raportere ministeriijaidda ja njuolgga olmmošrivttiid gohcci orgánaidda sámiid vuoigatvuođaid ja riikkaidgaskasaš soahpamušaid ollašuhttimis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge raportist ministeriöid já njuolgist olmoošvuoigâdvuođâid koccee orgaanáid sämmilij vuoigâdvuođâin já aalmugijkoskâsij sopâmušâi olášutmist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Cealkámušain sámediggi evttoha sisriikkalaš láhkaásaheami ovddideami riikkaidgaskasaš geatnegasvuođaid ja olmmošrivttiid gohcci orgánaid ávžžuhusaid mielde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ciälkkámušâinis sämitigge oovdânpuáhtá aalmuglii lahâasâttem ovdedem aalmugijkoskâsij kenigâsvuođâi já olmoošvuoigâdvuođâi koccee orgaanij avžuuttâsâi miäldásávt .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi maiddái oassálastá olmmošrivttiid gieđahalli riikkaidgaskasaš soahpamušaid ráhkadeapmái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge meid uásálist olmoošvuoigâdvuođâid kieđâvuššee aalmugijkoskâsij sopâmušâi rähtimân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovttastuvvan našuvnnaid ( ON ) soahpamušat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ovtâstum aalmugij ( OA ) sopâmušah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>KP-soahpamuš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>KP-sopâmuš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suopma lea ratifiseren siviila- ja politihkalaš vuoigatvuođaid guoski oktasašsoahpamuša ( KP-soahpamuš ) jagi 1976 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suomâ lii ratifisistâm aalmugjeessân- já poolitlâš vuoigâdvuođáid kyeskee almossopâmuš ( KP-sopimus ) ive 197 6 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>KP-soahpamuš lea Suoma riektevuogádaga oassi , ja lea fámus lágadásis ja daninassii njuolgga heiveheamis ja čadni riektegeavat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>KP-sopâmuš lii uási Suomâ riehtivuáháduv , já lii vyeimist laavâtääsist já návt njuolgist heiviittettee já čannee riehtikäldee .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>KP-soahpamuša ollašuhttima gohcá ON:id olmmošriektekomitea .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>KP-sopâmuš olášuttem kocá OA olmoošvuoigâdvuotkomitea .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša mielde maiddái priváhtaolbmot sáhttet váidalit olmmošriektekomiteai KP-soahpamuša rihkkumušain .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš mield meid ovtâskâsulmuuh pyehtih väidiđ olmoošvuoigâdvuotkomitean KP-sopâmuš rikkomušâin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša 1 artikla dáhkida buot álbmogiidda iešmearridanvuoigatvuođa , man vuođul dat mearridit friija politihkalaš doaladuvvama ja ollašuhttet friija ekonomalaš , sosiálalaš ja čuvgehuslaš diliid ovddideami .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš 1 artikla täähid puoh almugáid jiešmeridemvuoigâdvuođâ , mon vuáđuld toh merideh rijjâ poolitlâš vuáhádumes já hárjutteh rijjâ ekonomâlij , sosiaallij já čuovviittâslij tiilij ovdedem .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Olmmošriektekomitea lea nannen , ahte soahpamuša 1 artikla guoská maiddái eamiálbmogiid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Olmoošvuoigâdvuotkomitea lii nanodâm , ete sopâmuš 1 artikla kuáská meid algâaalmugáid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>KP-soahpamusa 27 artikla mielde daid riikkain , gos leat álbmotlaš , oskkusearvvi dahje gielalaš vehádagat , dakkár vehádagaide gulavaš olbmuin ii oaččo gieldit vuoigatvuođa ovttas joavkku eará lahtuiguin návddašit iežas kultuvrras , dovddastit ja ollašuhttit iežas oskku dahje geavahit iežas giela .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>KP-sopâmuš 27 artikla mield tain staatâin , main láá aalmugliih , oskoldâhliih teikâ kielâliih ucceeblovoh , tágáráid ucceeblovoid kullee ulmuid ij uážu kieldiđ vuoigâdvuođâ oovtâst eres juávhu jesânijguin navdâšiđ jieijâs kulttuurist , tubdâstiđ já hárjuttiđ jieijâs oskolduv teikâ kevttiđ jieijâs kielâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Artikla sihkkarastá sámiid vuoigatvuođa návddašit ovttas joavkkuin iežas kultuvrras .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Artikla tuurvâst sämmilij vuoigâdvuođâ navdâšiđ oovtâst juávhoinis jieijâs kulttuurist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Olmmošriektekomitea lea KP-soahpamuša 27 artikla tulkoma oasil geahččan , ahte seađanjuolggadusas dárkkuhuvvon gieldin sáhttá leat ovdamearkan dakkár eatnama dahje luondduriggodagaid gilvaleaddji geavaheapmi , mii eastá eamiálbmogiid ealáhusaid ceavzima guovllus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Olmoošvuoigâdvuotkomitea lii KP-sopâmuš 27 artikla tulkkum uásild keččâm , ete njuolgâdusâst uáivildum kieldim puáhtá leđe ovdâmerkkân taggaar eennâm teikâ luánduvarij kištottellee kevttim , mii iästá algâaalmugij iäláttâs miänástum kuávlust .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>ON:id olmmošriektekomitea jagi 1994 addin oktasaškommeantta nr 23 ( 50 ) mielde soahpamuša artikla 27 eaktuda sátnehámis fuolakeahttá maiddái positiivvalaš sierradoaimmaid vehádahkii gulavaš kulturvuoigatvuođaid suodjaleapmin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>OA olmoošvuoigâdvuotkomitea ive 1994 adelem almoskomment nr 23 ( 50 ) mield sopâmuš artikla 27 váátá sänihäämist peerusthánnáá meid positiivlâš sierânâstooimâid ucceeblohon kullei kulttuurvuoigâdvuođâi suojâlmân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oktasaškommeantta mielde eamiálbmogiid kulturhápmi gehččojuvvo ahte gokčá maiddái sin eanageavaheapmái vuođđudeaddji eallinvuogi ja árbevirolaš ealáhusaid nugo meahcástusa , guolástusa ja boazodoalu .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Almoskomment mield keččih , ete algâaalmugij kulttuurhäämi luávdá meid tai eennâmkiävtun vuáđuduvvee eellimtäävi já ärbivuáválijd iäláttâsâid tego miäcástem , kuálástem já puásuituálu .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Kultuvrra suodjaleapmi eaktuda maiddái , ahte vehádatservošiid ovddasteaddjit ožžot beaktilit oassálastit sidjiide váikkuheaddji mearrádusbargamii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kulttuur suojâlem váátá meid , ete ucceeblohosiärváduvâi ovdâsteijeeh uážžuh pehtilávt uásálistiđ sijjân vaikutteijee miärádâsrähtimân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>TSS-soahpamuš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>TSS-sopâmuš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suopma lea ratifiseren ekonomalaš , sosiálalaš ja čuvgehuslaš vuoigatvuođaid guoski oktasašsoahpamuša ( T SS-soahpamuš ) jagi 1976 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suomâ lii ratifisistâm ekonomâlijd , sosiaallijd já čuovviittâslijd vuoigâdvuođáid kyeskee almossopâmuš ( TSS-sopâmuš ) ive 1976 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša ollašuhttima gohcá ekonomalaš , sosiálalaš ja čuvgehuslaš vuoigatvuođaid komitea ( TSS-komitea ) .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš olášuttem kocá ekonomâlij , sosiaallij já čuovviittâslij vuoigâdvuođâi komitea ( TSS-komitea ) .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suopma lea ratifiseren soahpamuša molssaevttolaš beavdegirjji eaŋkalolbmo váidalusain ja dat boahtá fápmui 30.4.2014 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suomâ lii ratifisistâm sopâmuš valjimiävtulii pevdikirje ohtâgâsväidimijn já tot šadda v uáimán 30.4.2014 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Váidalusaid sáhttet dahkat eaŋkalolbmot dahje priváhtaolbmuid joavkkut , geat čuoččuhit máinnašuvvon soahpamušriikka loavkidan sin oktasašsoahpamušas dovddastuvvon ekonomalaš , sosiálalaš ja čuvgehušlaš vuoigatvuođaid , ( 2 artikla ) .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Väidimijd pyehtih toohâđ ovtâskâsulmuuh teikâ ovtâskâsulmui juávhuh , moh eteh , ete koččâmâšâst leijee sopâmušstaatâ lii luávkkám sii almossopâmušâst tubdâstum ekonomâlijd , sosiaallijd já čuovviittâslijd vuoigâdvuođâid , ( 2 artikla ) .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Váidalusat dahkkojuvvojit TSS-komiteai ( 1 artikla ) .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Väidimeh tahhojeh TSS-komitean ( 1 artikla ) . .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša artikla 1 lea seammalágan KP-soahpamuša 1 artiklain dáhkidemiin álbmogiidda iešmearridanvuoigatvuođa .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš artikla 1 lii siämmáálágán KP-sopâmuš 1 artikláin täähidmáin návt almugáid jiešmeridemvuoigâdvuođâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša artikla 15 dáhkida juohkehažžii vuoigatvuođa oassálastit kultureallimii , návddašit dan ovdduin sihke návddašit suojis , mii lea addon vuoiŋŋalaš ja materiálalaš ovdduide guoskkadin dieđalaš , čálalaš dahje dáiddalaš buktagiid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš artikla 15 täähid juáhážân vuoigâdvuođâ uásálistiđ kulttuurelimân , navdâšiđ tom hiäđuin sehe navdâšiđ syejeest , mii lii suovvum sii tieđâlij , kirjálij teikâ taaiđâlij ráhtusij jiegâlâš já materiaallâš hiäđoid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nállevealahansoahpamuš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Näliolgoštemsopâmuš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Jagi 1970 ratifiserejuvvon buotlágan nállevealaheami eretváldima guoski riikkaidgaskasaš oktasašsoahpamuš suodjala ovttaskas olbmuid etnihkalaš duogážii vuođđudeaddji vealaheamis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ive 1970 ratifisistem jyehilágán näliolgoštem meddâlistmân kyeskee aalmugijkoskâsâš almossopâmuš suoijâl ovtâskâs ulmuid etnisâš tuávvážân vuáđuduvvee olgooštmist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša ollašuhttima gohcá nállevealahankomitea .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš olášuttem kocá näliolgoštemkomitea .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša 1 artikla gieldá nállái , liikeivdnái , sohka- dahje etnihkalaš duogážii vuođđudeaddji vealaheami .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš 1 artikla kiäldá náálán , liškeiivnán , suhâ- teikâ etnisâš tuávvážân vuáđuduvvee olgoštem .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Artikla mielde nállevealaheapmin ii galgga geahččat dakkár sierranas doaibmabijuid , maid dárkkuhussan lea sihkkarastit dáid joavkkuid ja ovttaskas olbmuid ovttalágan vuoigatvuođaid ja vejolašvuođaid návddašit ja geavahit olmmošrivttiid ja vuođđoluomusvuođaid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Artikla mield näliolgooštmin ij koolgâ keččâđ tagarijd sierânâstooimâid , moi ulmen lii turvâstiđ tai juávhui já ovtâskâs ulmui oovtviärdásâš vuoigâdvuođâid já máhđulâšvuođâid navdâšiđ já kevttiđ olmoošvuoigâdvuođâid já vuađuluovâsvuođâid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša 2 artikla mielde stáhtat galget álgit doaibmabijuide nállevealaheami eretváldimin ja gieldit nállevaššái oalgguheami . ( artikla 4 ) .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš 2 artikla mield staatah kalgeh riemmâđ toimáid näliolgoštem meddâlistmân já kieldiđ näliolgooštmân kihtâlem ( artikla 4 ) .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mánáid vuoigatvuođaid oktasašsoahpamuš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Párnái vuoigâdvuođâi almossopâmuš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suopma searvvai mánáid vuoigatvuođaid oktasašsoahpamuššii jagi 1991 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suomâ seervâi párnáá vuoigâdvuođâi almossopâmušân ive 1991 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša čuovvuma ja máná vuoigatvuođaid ollašuvvama čuovvu ON:id máná vuoigatvuođaid komitea .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš nuávdittem já párnái vuoigâdvuođâi olášum čuávu OA párnái vuoigâdvuođâi komitea .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuš guoská vuollái 18-jahkásaččaid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš kuáská vuálá 18-ihásijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suomas mánáid vuoigatvuođaid ollašuvvama čuovvu ja ovddida mánáidáittardeaddji .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suomâst párnái vuoigâdvuođâi olášum čuávu já oovded pärniäššiváldálâš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša 30 artikla lea seamma sisdoallosaš go KP-soahpamuša 27 artikla .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš 30 artikla lii siämmáásiskáldâsâš ko KP-sopâmuš 27 artikla .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Artikla mielde eamiálbmogii gulavaš mánás ii oaččo gieldit vuoigatvuođa návddašit ovttas joavkku eará lahtuiguin iežas kultuvrras , dovddastit ja ollašuhttit iežas oskku dahje geavahit iežas giela .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Artikla mield algâaalmugân kullee párnáást ij uážu kieldiđ vuoigâdvuođâ navdâšiđ oovtâst juávhu eres jesânijguin jieijâs kulttuurist , tubdâstiđ já hárjuttiđ jieijâs oskolduv teikâ kevttiđ jieijâs kielâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša 2 artikla gieldá mánáid vealaheami omd. sin giela ja etnihkalaš duogáža vuođul .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš 2 artikla kiäldá párnái olgoštem el . sii kielâ já suhâtuávááš vuáđuld .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša 17 artikla mielde stáhtat galget dáhkidit ahte mánát ožžot dieđu máŋggain sierra gálduin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš 17 artikla mield staatah kalgeh tähidiđ ete párnááh uážžuh tiäđu maaŋgâ sierâ käldein .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stáhtat galget roahkasmahttit mediaid giddet erenomáš fuopmášumi eamiálbmotmánáid gielalaš dárbbuide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Staatah kalgeh ruokâsmittiđ tieđettemniävvuid kiddiđ eromâš huámášume algâaalmugpárnái kielâlâš tárboid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša 29 artikla mielde mánáid oahpahus galgá vuođđuduvvat ee. olmmošrivttiid ja vuođđoluomusvuođaid sihke ON:id vuođđogirjji prinsihpaid gudnejahttima ovddideapmái ja gudnejahttima ovddideapmái máná vánhemiid , iežas čuvgehuslaš identitehta , giela ja árvvuid hárrái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš 29 artikla mield párnái máttááttâs kalga vuáđuduđ el . olmoošvuoigâdvuođâi já vuáđuluovâsvuođâi sehe Ovtâstum aalmugij vuáđukirje prinsiipij kunnijâttem oovdedmân já kunnijâttem oovdedmân párnái vanhimij , jieijâs čuovviittâslâš identiteet , kielâ já áárvui kuáttá .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Buot nissoniid vealaheami eretváldima gieđahalli oktasašsoahpamuš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Almossopâmuš , mii kieđâvuš jyehilágán nisonij olgooštem meddâlistem</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuš ratifiserejuvvui Suomas jagi 1986 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš ratifisistii Suomâst ive 1986 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša ollašuhttima gohcá nissoniid vealaheami eretváldima gieđahalli komitea .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš olášuttem kocá komitea , mii kieđâvuš nisonij olgoštem meddâlistem .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuš ii sisttisdoala erenomážit eamiálbmotnissoniid guoski mearrádusaid , muhto soahpamuša ollašuhttima gohcci komitea lea ávžžuhusain gidden erenomážit fuopmášumi eamiálbmotnissoniid seammalágan vejolašvuođaide oassálastit servodateallimii ja oažžut dásseárvosaš bálvalusa ja meannudeami .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš ij ana sistees eromâšávt algâaalmugnisonáid kyeskee miärádâsâid , mutâ sopâmuš olášuttem koccee komitea lii avžuuttâsâin kiddim eromâš huámášume algâaalmugnisonij oovtviärdásâš máhđulâšvuođáid uásálistiđ ohtsâškodde-elimân já finniđ täsiárvusâš palvâlem já kohtâlem .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuš gieldá nissoniid vealaheami ja geatnegahttá ovddidit nissoniid dásseárvvu ollašuvvama .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš kiäldá nisonij olgoštem já kenigit ovdediđ nisonij täsiáárvu olášum .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Biodiversitehtasoahpamuš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Biodiversiteetsopâmuš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Biologalaš máŋggahámatvuođa guoski oktasašsoahpamuš bođii Suomas fápmui jagi 1994 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Biologilâš maaŋgâhámásâšvuotân kyeskee almossopâmuš šoodâi vuáimán Suomâst ive 199 4 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša ollašuhttima ii goze sierranas komitea mii spiehkkasa olmmošriektesoahpamušain .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš olášuttem ij koce olmoošvuoigâdvuođâin spiekâstmáin sierânâs komitea .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša ollašuhttima čuovvuma ja soahpamuša ovddideami dihtii soahpamuša ratifiseren stáhtat ( oassebealit ) dollet guovtte jagi gaskkaid oassebeallečoahkkimiid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš olášuttem čuávum já sopâmuš ovdedem várás staatah ( uásipeleh ) , moh láá ratifisistâm sopâmuš , tuálih kyevti ive kooskâi uásipeličuákkimijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša ollašuhttin čuvvojuvvo riikkaid raporttaid bokte .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš olášuttem čuávuh staatâi raportij peht .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suomas soahpamuš ollašuhtto luonddusuodjalanláhkaásaheamis sihke stáhtaráđi dohkkehan biodiversitehtastrategiija ja dan doarju doaibmanprográmma vehkiin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suomâst sopâmuš olášuteh luándusuojâlemlahâaasâtmist sehe staatârääđi tuhhiittem biodiversiteetstrategia já tom tuárjoo toimâohjelm vievâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša ollašuhttima ovddidit sierra čanasjoavkkuid ovddasteaddjiin čohkiidan ng. biodiversitehtabargojoavku sihke dan vuollásaš artikla 8(j)-áššedovdibargojoavku .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš olášuttem ovdedeh sierâ čanosjuávhui ovdâsteijei nk. biodiversiteetpargojuávkku sehe ton vuálásâš artikla 8(j)-äššitobdeepargojuávkku .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suomas soahpamuša eamiálbmot- ja báikkálašservošiid gieđahalli artiklat gusket sámiid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suomâst sopâmuš algâaalmug- já páihálâš siärváduvvâid kieđâvuššee artiklah kyeskih sämmilijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša artikla 8(j ) geatnegahttá Suoma gudnejahttit , suodjalit ja doalahit sámiid biologalaš máŋggahámatvuođa suodjaleami ja suvdilis geavaheami dáfus mearkkašahtti diđolašvuođa sihke duvdit dán diđolašvuođa , innovašuvnnaid ja geavadiid anus ožžojuvvon ávkkiid dássebeallálaš juohkima .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš artikla 8(j ) kenigit Suomâ kunnijâttiđ , suojâliđ já paijeentoollâđ sämmilij biologilâš maaŋgâhámásâšvuođâ suojâlem já pištee kiävtu tááhust merhâšittee tiäđu sehe ruokâsmittiđ taan tiäđu , innovaatioi já vuáháduvâi kiävtust finnejum hiäđui täsipiälásâš jyehim .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Artikla 10(c ) eaktuda , ahte Suopma suodjala ja doarju biologalaš resurssaid árbevirolaš geavaheami árbevirolaš kultuvrralaš dábiid mielde , mat heivejit suodjaleami ja suvdilis geavaheami gáibádusaide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Artikla 10(c ) váátá , ete Suomâ suoijâl já movtijdit biologilâš resurssij ärbivuáválâš kiävtu ärbivuáválij kulttuurlij taavij miäldásávt , moh heivejeh suojâlem já pištee kiävtu vátámâššáid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>ILO oktasašsoahpamuš nr 111 bargomárkaniin ja ámmáha ollašuhttima oktavuođas dáhpáhuvvan vealaheamis</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>ILO almossopâmuš nr 111 olgooštmist , mii tábáhtuvá pargomarkkânijn já áámmát hárjuttem ohtâvuođâst</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suopma ratifiserii soahpamuša jagi 1970 ( SopS 63/1970 ) .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suomâ ratifisistij sopâmuš ive 1970 ( SopS 63/1970 ) .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuš lea dohkkehuvvon jagi 1958 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>S opâmuš lii tuhhiittum ive 1958 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuš gieđahallá vealaheami gildosa bargomárkaniin ja ámmáha ollašuhttima oktavuođas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš kieđâvuš olgooštem kieldim pargomarkkânijn já áámmát hárjuttem ohtâvuođâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuš gieldá ee. Etnihkalaš duogážii vuođđudeaddji vealaheami bargomárkaniin ja ámmáha ollašuhttima oktavuođas ( 1 artikla ) .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš kiäldá el . etnisâš tuávvážân vuáđuduvvee olgoštem pargomarkkânijn já áámmát hárjuttem ohtâvuođâst ( 1 artikla ) .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša artikla 5 mielde sierra suodjalan- ja veahkehandoaibmabijuid , maidda galgá álgit ILO:a soahpamušaid dahje ávžžuhusaid dihte , ii galgga doallat vealaheaddjin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš artikla 5 mield sierânâs suojâlem- já išedemtooimâid , moid kalga riemmâđ ILO sopâmušâi teikâ avžuuttâsâi tááhust , ij koolgâ toollâđ olgooštmin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lassin seamma artiklas namalassii mearriduvvo , ahte veaheapmin ii galgga doallat dakkár sierradoaibmabijuid , mat leat anolaččat dakkár olbmuid dárbbuid sihkkarastima dihte , geat dárbbašit sierra veahki dahje doarjaga ovdamearkan kultuvrralaš sajádaga vuođul .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasseen siämmáá artiklast eidu merideh , ete tagarijd sierânâstooimâid iä toolâ olgooštmin , moh láá tárbuliih tagarij ulmui táárbui tuurvâstmân , kiäh tarbâšeh sierânâs iše teikâ torjuu ovdâmerkkân kulttuurlâš sajattuv vuáđuld .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suoma EU:a searvansoahpamuša beavdegirji nr 3 sámiin</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suomâ EU servâmsopâmuš pevdikirje nr 3 sämmilijn</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suoma EU:a s earvansoahpamuša lassibeavdegirji nr 3 gieđahallá sámiid vuoigatvuođaid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suomâ EU servâmsopâmuš lasepevdikirje nr 3 kieđâvuš sämmilij vuoigâdvuođâid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Beavdegirji lea EU:a vuođđosoahpamuša oassi dahjege ng. Lissabon soahpamuš .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pevdikirje lii EU vuáđusopâmuš ađai nk. Lissabon sopâmuš uási .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Beavdegirji dovddasta , ahte Suomas , Norggas ja Ruoŧas leat sisriikkalaš ja riikkaidgaskasaš vuoigatvuođaid vuođul anus geatnegasvuođat ja čatnasumit sámiid ektui .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pevdikirje tuubdâst , ete Suomâst , Taažâst já Ruotâst láá aalmuglâš já aalmugijkoskâsâš vuoigâdvuođâ vuáđuld kenigâsvuođah já čonâsmeh sämmilij kuáttá .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamušoassebealit maiddái vuhtiiváldet , ahte Suopma , Norga ja Ruoŧŧa leat čatnasan sámiid ealáhusaid , giela , kultuvrra ja eallinvuogi seailluheapmái ja ovddideapmái ja gehččet , ahte árbevirolaš sámekultuvra ja sámeealáhusat leat sorjavaččat luondduealáhusain , nugo boazodoalus , sámiid árbevirolaš ássanguovlluin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmušuásipeleh meid vääldih vuotân , ete Suomâ , Taažâ já Ruotâ láá čonâdâttâm sämmilij iäláttâsâi , kielâ , kulttuur já eellimtäävi siäilutmân já oovdedmân já keččih , ete ärbivuáválâš sämikulttuur já sämi-iäláttâsah láá sorjoliih luánduiäláttâsâin , tego puásuituálust , sämmilij ärbivuáválâš eellimkuávluin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lassibeavdegirjji 1 mielde dan easttekeahttá , mii EY:a vuođđudansoahpamušas mearriduvvo , sámiide oažžu mieđihit oktovuoigatvuođaid boazodoaluin bargamii árbevirolaš sámeguovlluin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasepevdikirje 1 mield tom estihánnáá , maid EY vuáđudemsopâmušâst merideh , sämmiláid uážžu mieđettiđ priivaatvuoigâdvuođâid puásuituálu háárjutmân ärbivuáválâš sämikuávluin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Soahpamuša artikla 2 mielde beavdegirjji sáhttá viiddidit guoskat earáge árbevirolaš sámeealáhusaide gulavaš sámiid oktovuoigatvuođaid daid vuostásaš ovdáneami vuhtiiváldima várás</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sopâmuš artikla 2 mield pevdikirje puáhtá vijđediđ kuoskâđ eres-uv ärbivuáválâš sämiäláttâssáid lohtâseijee sämmilij priivaatvuoigâdvuođáid tai vuástásâš ovdedem vuotân väldimân</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

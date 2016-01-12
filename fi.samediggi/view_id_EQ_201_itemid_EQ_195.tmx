@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ortodoksalaš girku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ortodoksâlâš kirkko</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalaččat gullet árbevirolaččat ortodoksalaš girkui .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämmiliih kuleh ärbivuáválávt ortodoksâlâš kiirkon .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ortodoksalaš oskku čuohtejagiid boares árbevierut leat oassi nuortalaččaid kultuvrra ja oskkus lea stuorra mearkkašupmi nuortalaččaid ovttasteaddjin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ortodoksâlâš oskoldâhân lohtâseijee ihečuátásiih ärbivyevih láá uási nuorttâsämmilâš kulttuur já oskolduvâst lii stuorrâ merhâšume nuorttâsämmilijd ovtâsteijee tahhen .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalaččat gullet Suoma ortodoksalaš girku davimus searvegoddái , Lappi searvegoddái ja sii leat eanetlogus Anára guovllu searvegotti láhtuin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämmiliih kuleh Suomâ ortodoksâlâš kirho tavemuu servikoodán , Laapi servikoodán já hämmejeh eenâblovo Aanaar kuávlu servikodálijn .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lappi ortodoksalaš searvegoddi vuođđuduvvui jagi 1950 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laapi ortodoksâlâš servikodde vuáđudui ive 1950 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dan ovdal lei Beahcáma searvegoddi , mii heaittihuvvui sođiid maŋŋá .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tom ovdedij Piäccám servikodde , mii lopâttui soođij maŋa .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ortodoksalaš girkut gávdnojit Čeavetjávrris , Nellimis ja Avvilis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ortodoksâlâš kirhoh láá Čevetjäävrist , Njellimist já Avelist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Čeavetjávrris ja Nellimis lea maiddái hávdeeana .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Čevetjäävrist já Njellimist lii meid hävdieennâm .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Avvila Keväjávrris lea lassin ortodoksalaš rohkosvisti , tsasouna .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Avveel Kiđđâjäävrist lii vala ortodoksâlâš rukkoosviste ađai tsasouna .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalašgielas ii leat leamašan beare nana sajádat ortodoksalaš girkus , muhto maŋimuš jagiid sámegiela geavaheapmi girku doaimmas lea lassánan .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämikielâst ij lah lamaš meendu noonâ sajattâh ortodoksâlâš kirhoost , mut majemui iivij ääigi sämikielâ kevttim kirho tooimâst lii lasanâm .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ipmilbálvalusaid nuortalašgielat oasit leat lasihuvvon ja nuortalašgielat ipmilbálvalusat leat ordnejuvvon maiddái eará sajiin go Lappi searvegotti guovllus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Immeelpalvâlusâi nuorttâsämikielâlâš uásih láá lasettum já nuorttâsämikielâ kevttee immeelpalvâlusah láá uárnejum meid eres-uv saajeest ko Laapi servikode kuávlust .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Searvegotti girkohearrá , mátkebáhppa ja mátkekántor geavahit ipmilbálvalusain nuortalašgiela .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Servikode kirkkohiärrá , mätkipappâ já mätkikanttor kevttiv immeelpalvâlusâin nuorttâsämikielâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegielat ipmilbálvalusaid doaimmaheami dahket vejolažžan Johannes Krysostomusa báhpa giehtagirjji nappo liturgiija ja ortodoksadieđu giehtagirjji nuortalašgielat jorgalusat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâlâš immeelpalvâlusâi toimâttem taheh máhđulâžžân uásild Johannes Krysostomus paapâ kietâkirje ađai liturgia já ortodoksâtiäđu kietâkirje nuorttâsämikielâlâš jurgâlusah .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalašgielat rohkosgirji ( Mo lidvaǩe ´rjj ) almmustahttui jagi 1983 ja Johannesa evangelium ( Evvan Evaŋǧe ´lium ) jagi 1988 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämikielâlâš rukkooskirje ( Mo lidvaǩe ´rjj ) almostui ive 1983 já Johannes evaŋgelium ( Evvan Evaŋǧe ´lium ) ive 1988 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Rohkosgirji sisttisdoallá maiddái girkolávlagiid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Rukkooskirje tuálá siste meid kirkkolavluid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>YLE Sámi radio sádde nuortalašgielat rohkosprográmmaid oassin nuortalašgielat prográmmafálaldaga .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>YLE Sámi radio vuolgât nuorttâsämikielâlâš rukkoosohjelmijd uássin nuorttâsämikielâlâš ohjelmfalâlduvâs .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi lea 2008 almmustahttán skuvllaid oahpahusdárkkuhussii guokte nuortalašgielat CD:a , main nubbi sisttisdoallá nuortalašgielat girkolávlagiid ( Sää ´m Ceerkavlaulli ) ja nubbi Johannesa Evangeliuma ( Evvan Evaŋǧe ´lium ) .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge lii almostittám ive 2008 škoovlâi máttáátâsuáiviláid kyehti nuorttâsämikielâlâš CD , main nubbe tuálá siste nuorttâsämikielâlâš kirkkolavluid ( Sää ´m Ceerkavlaulli ) já nubbe Johannes evaŋgelium ( Evvan Evaŋǧe ´lium ) .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Luukasa evangeliuma jorgaleapmi nuortalašgillii lea jođus jagi 1012 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Luukkaa evaŋgelium jurgâlem nuorttâsämikielân lii joođoost ive 2012 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govas Lappi ortodoksalaš searvegotti girkohearrá Viacheslav Skopets .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kooveest Laapi ortodoksâlâš servikode kirkkohiärrá Viacheslav Skopets .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lappi ortodoksalaš searvegotti girkohearrá Viacheslav Skopets atná nuortalašgiela sajádaga nannema ortodoksalaš girku doaimmas dehálažžan .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laapi ortodoksâlâš servikode kirkkohiärrá Viacheslav Skopets ana nuorttâsämikielâ sajattuv nanodem ortodoksâlâš kirho tooimâst tehálâžžân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>– Nuortalašgiela gádjuma várás dárbbašit doaibmabijuid maiddái girkus , son lohká .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>– Nuorttâsämikielâ piäluštmân tarbâšuvvojeh tooimah še kirhoost , sun iätá .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalašgielas guhkes historjá ortodoksalaš girkus</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämikielâst kuhes historjá ortodoksâlâš kirhoost</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Skopets muitala , ahte nuortasápmelaš gielaid , maidda maiddái nuortalašgiela gullá , geavaheamis ortodoksalaš girkus lea juo guhkes historjá .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Skopets muštâl , et nuorttâsämmilij kielâi , moid kieláid nuorttâsämikielâ-uv kulá , kevttimist lii ortodoksâlâš kirhoost jo kuhes historjá .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>– Mii leat hárjánan gullat nuortalaččaid čuvgeheaddjis basuheaddji Trifona birra , gii gásttašii ja oahpahii Báhčaveaijoga sámiid masá vihttačuođi jagi dassái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>– Lep hárjánâm kuullâđ nuorttâsämmilij čuovviitteijest pasotteijee Trifonist , kote kaastij já máttááttij Paččveileve sämmilijd masa vittâčyet ihheed tassaaš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vajálduvvan lea goittotge nubbi dehálaš namma , Feodorit Kuolalainen , gii maiddái orui Báhčaveaileagis máŋggaid jagiid Trifon Petsamolačča áigge .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suoivui lii pááccám kuittâg nubbe merhâšittee nommâ , Feodorit Kuáládâhlâš , kote še aasâi Paččveileeveest maaŋgâid iivijd Trifon Piäccámlii aaigij .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- Ruošša girkohistorjjá dutki Mitrofan Badadin loktii 2000-logus Feodorita mearkkašumi ođđa láhkai ovdán .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- Ruošâ kirkkohistorjá totkee Mitrofan Badadin luptij 2000-lovvoost Feodorit merhâšume uđđâ čuovân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Historjjálaš gáldut govvidit Feodorita hui movttegis , čeahpes ja nuppe dáfus maiddái ruossalas persovdnan .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Historjálliih käldeeh kovvejeh Feodorit uáli iäljárin , čepis já nube tááhust ruossâlâs olmožin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Son lei olu dahkamušain báikkálaš olbmuiguin ja oahpahii sin , muhto maiddái cuoiggui girku ja kloastariid hálddahusa ruđa bálvaleamis ja oaččui dan dihtii maiddái ráŋggáštusaid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sun vietij ennuv ääigi páihálij ulmuiguin já máttááttij sii , mut sun še árvuštâlâi kirho já luostarij haldâttuv jáválâšvuođâ palvâlmist já uážui ton keežild še ráŋgáštusâid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- Feodorit jođii olu dálá Gáddeluovtta ja Báhčaveaijoga gaskka ja oahpai bures nuortasápmelaš gielaid suopmaniid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- Feodorit juuđij ennuv táálái Kantalahti já Piäccám kooskâ já oopâi pyereest nuorttâsämmilij kielâi suomânijd .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Leat seilon viehka luohtehahtti gáldut das , ahte Feodorit jorgalii ortodoksalaš rohkosiid ja evangeliuma lohkosiid sámegillii , muitala girkohearrá Skopets .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Láá siäilum viehâ lyetittittee käldeeh tast , että Feodorit jurgâlij ortodoksâ-lâš rukosijd já evaŋgelium luuhâmpittáid sämikielân , muštâl kirkkohiärrá Skopets .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>– Gažaldagas lei jáhkkimis okta áhkkil- ja kildinsámegiela suopmaniin , man áddejedje dan áiggi maiddái Báhčaveaijoga nuortalaččat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>– Saahâ lâi tuođânálásávt oovtâ äkkil- tâi kieldâsämikielâ suomânijn , mon tallaa ääigi iberdii še Paččveileve nuorttâsämmiliih .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>– Dađibahábut Feodorita jorgalusat eai leat seilon gitta min beivviid rádjai , lohká Skopets .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>– Lii vaidâlittee , et Feodorit jurgâlusah iä lah siäilum onnáá peeivi räi , pááhud Skopets .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- Easkka 1800-logu loahpageahčen Ruošša ortodoksalaš girku jorgalahtii evangeliuma ja rohkosgirjji kildinsámegillii , mii lea okta Guoládaga sámegielain mat ain ellet .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- Iäskán 1800-lovo loopâbeln Ruošâ ortodoksâlâš kirkko jurgâlitij evaŋgelium já rukkooskirje kieldâsämikielân , mii lii ohtâ ain ellee Kuáládâhnjaargâ sämikielâin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ortodoksalaš osku lea ná šaddan nuortalaččaide oahpisin juo measta 500 jagi dassái Trifon Petsamolačča áigge .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuuvtpa ortodoksâlâš usko lii šoddâm nuorttâsämmiláid uápisin jo masa 500 ihheed tassaaš Trifon Piäccámlii ääigi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Seammá áigge sii ožžo maiddái gullát ortodoksalaš rohkosiid sidjiide oahpes sámegielain , movttegis Feodorit vulggii ja dagai dan vejolažžan .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Siämmái aaigij sij ožžuu kuullâđ še ortodoksâlâš rukosijd sijjân iberdettee sämikielân . Moovtâ Feodorit vuolgij já toovâi tom máhđulâžžân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suoma ortodoksalaš girku lea nuorra</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suomâ ortodoksâlâš kirkko lii nuorâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Skopets muitala , ahte ortodoksalaš autonomalaš girku lea Suomas oalle nuorra .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Skopets muštâl , et ortodoksâlâš autonomâlâš kirkko lii Suomâst viehâ nuorâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>– Politihkalaš sivaid dihtii Suoma stáhta háliidii earuhit ortodoksalaš girku Moskova váikkuhanbire vuolde , ja dan dihtii Suoma ortodoksalaš girkogoddi laktojuvvui Konstantinopoli ekumenalaš patriarkáhta vuollái 1923 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>– Poolitlâš suujâi keežild Suomâ staatâ halijdij iäruttiđ ortodoksâlâš kirho Moskova vaikuttâspirrâduvâst , já tondiet Suomâ ortodoksâlâš kirkkokodde lohtui Konstantinopoli ekumeenlâš patriarkaattân ive 1923 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Historjjá moivviin 1920-logus nuortalaččat báhce golmma eará stáhta vuollái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Historjá muuivijn 1920-lovvoost nuorttâsämmiliih paccii kuulmâ sierâ staatâ kuávlun .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>1920- ja 1930-loguin unna ja bieđggus Suoma ortodoksalaš girkogoddi fertii dáistalit iežas seailuma ovddas , eaige das lean jur vejolašvuođat bidjat návccaid nuortalašgiela gažaldagaide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>1920- já 1930-lovvoin uccâ já piäđgui aassâm Suomâ ortodoksâlâš kirkkokodde taištâlij jieijâs ellensiäilum peeleest , iäge tast lamaš ennuv máhđulâšvuođah pieijâđ naavcâid nuorttâsämikielâ koččâmâššáid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>1970-logus álggii nuortalašgiela mihtolat , ortografiija stáđásmuvai ja vuosttamuš áppes almmustahttui .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>1970-lovvoost nuorttâsämikielâ tile puárránškuođij , ortografia vuáhádui já vuossâmuš aabis almostui .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Seamma áigge jorgaluvvojedje nuortalašgillii vuosttamuš girkolaš teavsttat ja rohkosat ja maŋŋelis Johannesa evangelium .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Siämmái aaigij jurgâluvvojii nuorttâsämikielân vuossâmuuh kirholiih teevstah já rukoseh sehe maŋeláá Johannes evaŋgelium .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáid jorgalusaid duohkin lei Suoma ortodoksalaš girkogotti juohkin golmma bismagoddái jagi 1980 , ja dalle Davvi-Suopma oaččui iežas bismá .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tai jurgâlusâi šoddâm tyehin lii lamaš Suomâ ortodoksâlâš kirkkokode jyehim kuulmâ pispekoodán ive 1980 , mast Tave-Suomâ uážui jieijâs pispe .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Skopets muitala Oulu bismagotti metropolihta Leona leamašan bálggesčuolli nuortalašgielat girkolaš teavsttaid jorgalusaid ollašuhttimis , danin go son duvddii rohkosgirjji , vánddárdeaddjiid lávlagiid ja liturgiija girjjiid jorgaleami .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Skopets muštâl , et Oulu pispekode metropoliitta Leo lii lamaš rađejalgejeijee nuorttâsämikielâ kirholâš teevstâi jurgâlusâi ááigánfinniimist , ko sun tuárjui rukkooskirjij , vajâldeijee lavlui sehe liturgia kiirjij jurgâlem .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- Nuortalašgiela jorgaleaddjit ledje oamastan iežaset giela seailluheapmái ja movttáskan jurdagis , ahte girkusge sáhttá doaimmahit bálvalusaid iežas eatnigillii – sidjiide girku lei dehálaš oassi sin eallima ja identitehta , muitala Skopets .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- Nuorttâsämikielâ jurgâleijeeh lijjii vihkuudâttâm kielâ siäilutmân já movtijdâm jurdust , et kirhoost-uv puáhtá toimâttiđ palvâlusâid jieijâs eenikielân – täid ulmuid kirkko lâi tehálâš uási sii eellim já identiteet , muštâl Skopets .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>1980-logus dáhpáhuvai maiddái nubbi nuortalašgiela dáfus stuorra ášši , danin go 1983 álggahii nuortalašgielat kántor Erkki Lumisalmi mátkekántora bargguid Avvilis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>1980-lovvoost tábáhtui ortodoksâlâš kirhoost nubbe nuorttâsämikielâ tááhust merhâšittee äšši , ko ive 1983 algâttij nuorttâsämikielâlâš kanttor Erkki Lumisalmi mätkikanttor pargoid Avelist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dan rájes lea nuortalašgiella gullon álo Davvi-Lappi ortodoksalaš girkuin , muitala Skopets .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ton rääjist lii nuorttâsämikielâ kullum ovttuu Tave-Laapi ortodoksâlâš kirhoin , muštâl Skopets .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vaikko muhtun girkolaš teavsttat gávdnojit juo nuortalašgillii , Skopetsa mielas olu livččii vel jorgalan láhkai .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Veikkâ motomeh kirholiih teevstah láá jo finnâšum nuorttâsämikielân , te Skopets mielâst liččii vala ennuv jurgâlemnáál .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>– Gástta , hávdádeami , ruovttu sivdnideami ja rihppabálvalusaid teavsttat buvttašedje nuortalašgiela gullosii maiddái ruovttuin ja bearašdilálašvuođaid bálvalusain .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>– Kastuu , hävdidem , pääihipasottem já ehidâspalvâlus teevstah puávtáččii nuorttâsämikielâ kulosân meid pääihist já peerâtilálâšvuođâin toimâttum palvâlusâin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>– Suoma pipliasearvi , earkebisma Leon njunnošis , lea álggahan olles evangeliuma jorgaleami nuortalašgillii ; mii sávvat , ahte jorgalus válbmanivččii lagamus boahtteáiggis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>– Suomâ pipliaservi lii pieijâm joton arkkâpispe Leo jođettâsâst ubâ evaŋgelium jurgâlem nuorttâsämikielân ; tuáivup , et jurgâlus valmâštuvá aldapuátteevuođâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalašgielat evangelium attašii vejolašvuođa geavahit evangeliuma lohkosiid buot ipmilbálvalusain , gos dat leat , lohká Skopets .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämikielâlâš evaŋgelium adeličij máhđulâšvuođâ kevttiđ evaŋgelium luuhâmpittáid puohâin immeelpalvâlusâin , main toh láá , iätá Skopets .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girkohearrá Skopets sávvá maiddái , ahte muhtun beaivvi Avvila báhpa ja kántora báikkiid ohcet davvin bajásšaddan , gielalaš ja Suomas teologalaš skuvlejumi ožžon nuorra nuortalaččat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kirkkohiärrá Skopets tuáivu še , et mottoom peeivi Avveel paapâ já kanttor soojijd oceh tavveen šoddâm , kielâ mättee já Suomâst teologâlâš škovlim uážžum nuorâ nuorttâsämmiliih .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>– Ollu lea dieđusge gitta searvegotti ja girkogotti njunnošis ja alimus orgánain – nuorra , movttegis , girku bargui čatnasan searvegotti olbmot gávdnojit doppe , gos nuoraidbargui biddjojuvvojit návccat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>– Pállu lii tääl tiäđust-uv servikode já kirkkokode njunnooš já merideijee orgaanij kieđâin – nuorâ , movtigis , kirho paargon vihkuudâttâm servikodáliih kávnojeh tobbeen , kost nuorâipaargon piäijojeh resursseh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vejolašvuođain leat maiddái rájit – olles Suoma ortodoksalaš girkogottis leat láhttut duššefal moaddeduhát eanet go ovdamearkka dihtii Roavvenjárgga luteralaš searvegottis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Máhđulâšvuođâin še láá jieijâs rääjih – ubâ Suomâ ortodoksâlâš kirkkokoddeest láá jesâneh tuše muáddi tuhháát eenâb ko ovdâmerkkân Ruávinjaargâ luterilâš servikoddeest .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalašgielat nuorat leat girkogottis duššefal moadde – dakkárat geat lohket teologiija eai gávdno obanassiige , muitala Skopets .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämikielâlâš nuorah láá pelestis kirkkokoddeest tuše motomeh – teologia lohheeh iä ollágin , iätá Skopets . Kooveest Anna-Katariina Feodoroff .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girkohearrá muitala , ahte Suoma ortodoksalaš girkogotti girkolaščoahkkimis jagi 2004 bođii ovdan jearaldat nuortalaččaid dihtoeari oažžumis girkolaščoahkkimii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kirkkohiärrá muštâl , et Suomâ ortodoksâlâš kirkkokode kirholâščuákkimist ive 2004 pajanij uáinusân koččâmâš nuorttâsämmilij tiätumere uážžumân kirholâščuákkimân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ságastallama maŋŋá čoahkkin hilggui álgaga ja čujuhii dasa , ahte nuortalaččaid oassi girkogotti láhttomearis lea unnit go ruoŧa- ja ruoššagielagiid mearri ja ahte sidjiide galggašii ná oažžut seamma vuoigatvuođaid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Savâstâllâm maŋa čuákkim hilgoi alguu kesimáin toos , et nuorttâsämmilij uási kirkkokode jeessânmeereest lii ucceeb ko ruotâ- já ruošâkielâlij meeri já et sijjân-uv kolgâččij uážžuđ siämmáid vuoigâdvuođâid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Jus dáin stuorimus vehádatgiellajoavkkuin livččii dihtoearreovddasteaddjit girkolaščoahkkimis , unnošii eará ovddasteaddjiid mearri dovdomassii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Jis täin stuárráámusâin ucceeblohokielâjuávhuin liččii tiätumereovdâsteijeeh kirholâščuákkimist , te ucoččij eres ovdâsteijei meeri merhâšitteht .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>– Mun ieš guottihan sápmelaččaid dihtoeari , danin go sápmelaččaid buohta lea gažaldat eamiálbmogis iige dušše giellavehádagas , ja dan lassin nuortalašgiella lea áitatvuložin ja soaitá jávkat máilmmi kártas , lohká Skopets .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>– Jieš tuárjum sämmilâštiätumere , ko sämmilij uásild lii saahâ algâaalmugist ige tuše kielâucceeblovvoost , já lasseen nuorttâsämikielâ lii uhkevuálásâš kielâ já vaarâst lappuđ maailm káártást , iätá Skopets .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>– Dán dihtii dainna galgá meannudit eará láhkai go eará giellajoavkkuiguin , ja visot galgá dahkkot vai giella ja kultuvrra seaillošedje .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>– Tondiet toos kalga leđe ereslágán jurdâččemvyehi ko eres kielâjuávhoid , já porgâđ puoh máhđulii kielâ já kulttuur siäilumân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mo nannet nuortalašgiela girkus ?</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Maht kalga nanodiđ nuorttâsämikielâ kirhoost ?</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mo livččii dasto vejolaš nannet nuortalašgiela Suoma ortodoksalaš girkogottis ?</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Maht talle ličij máhđulâš nanodiđ nuorttâsämikielâ Suomâ ortodoksâlâš kirkkokoddeest ?</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Skopetsa mielas sáhtášii álggahit čuovvovaš guđain doaibmabijuin :</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Skopets mielâst puávtáččij algâttiđ kuuđâ čuávuvâš tooimâst :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>1 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>1 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suoma ortodoksalaš girku girkolaščoahkkin galggašii gieđahallat ođđasit jearaldaga nuortalaččaid dihtoeari oažžumis girkolaščoahkkimii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suomâ ortodoksâlâš kirho kirholâščuákkim kolgâččij kieđâvuššâđ uđđâsist koččâmâš nuorttâsämmilij tiätumere uážžumân kirholâščuákkimân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- Gažaldat lea áitojuvvon nuortalašgielas , iige girkogotti ovddasvástádusa sáhte sirdit dušše beare unna Lappi ortodoksalaš searvegotti hárduid ala .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>– Saahâ lii uhkevuálásâš nuorttâsämikielâst , ige kirkkokode ovdâsvástádâs pyevti sirdeđ tuše uccâ Laapi ortodoksâlâš servikode ärdei oolâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovttasbargu nuortalašjearaldagain galgá nannejuvvot sihke Norgga ortodoksalaš ja Murmánskka ortodoksalaš bismagottiin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kalga meiddei nanodiđ oovtâstpargo nuorttâsämmilâškoččâmâšâin sehe Taažâ ortodoksâiguin já Murmansk ortodoksâlâš pispekuddijn .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>2 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>2 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girkohálddáhus galgá duvdit ja geatnegahttit davviguovllu bargiid lohkat nuortalašgiela ja ordnet heivehuvvon oahpahusa nu ahte bargit oahpašedje ainjuo jietnadit nuortalašgiela riekta , lohkat dan njuovžilit ja hálddašit girkolaš vuođđosátneráju ja giela vuođđodáidduid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kirholâšhaldâttâs kalga tuárjuđ já kenigittiđ tavekuávlu pargeid kielâ oppâmân , já tot kalga orniđ vuávájum máttááttâs nuuvt et pargeeh opâččii ucemustáá sárnuđ nuorttâsämikielâ iberdetteht , luuhâđ tom njyebžilávt sehe haldâšiđ kirholijd vuáđusaanijd já kielâ vuáđutááiđuid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>3 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>3 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bismagotti ja searvegotti dásis galggašii jurddášit nuoraidbarggu ovddideami .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pispekode já servikode tääsist kolgâččij smiettâđ nuorâpargo ovdedem .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuorra nuortalaččain galggašii boktalit beroštumi girkolaš áššiid ektui ja bajásgeassit girku bargiid nuortalaččaid searvvis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorâ nuorttâsämmilijn kolgâččij ravkkâđ mielâkiddiivâšvuođâ kirholij aašij kuáttá já šoddâdiđ kirho pargeid nuorttâsämmilij jieijâs juávhust .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>4 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>4 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Pipliasearvvi ordnen evangeliumteavsttaid jorgalanprošeakta galggašii čađahuvvot jođáneamos lági mielde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pipliaseervi ornim evaŋgeliumteevstâi jurgâlemproojeekt kolgâččij uážžuđ valmâšin nuuvt jotelávt ko máhđulâš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>5 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>5 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girkogoddi galggašii álggahit prošeavtta nuortalašgielat gásta- , hávdádus- , ruovttusivdnádus- ja rihppabálvalusteavsttaid jorgaleami várás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kirkkokodde kolgâččij pieijâđ joton proojeekt nuorttâsämikielâlâš kaastâ- , hävdidem- , pääihipasottem- já ehidâspalvâlussteevstâi jurgâlmân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>6 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>6 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalaččat galget ieža suokkardallat , mii lea ortodoksalašvuođa mearkkašupmi nuortalaččaide ja sin identitehtii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämmiliih kalgeh jiejah suogârdâllâđ , mii lii ortodoksâlâšvuođâ merhâšume nuorttâlâšaalmugân já ton identiteetân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Jus ortodoksalašvuođas lea mearkkašupmi , galget nuortalaččat ieža leat aktiivvalaččat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Jis ortodoksâlâšvuođâst lii merhâšume , te kalgeh nuorttâsämmilih jiejah virkosmuđ aalmug siste .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oktage olggobealde ii sáhte bákkuhit nuortalaččaid čuovvut iežaset máŋggaid čuđiid jagiid boares girkolaš tradišuvnna , iige mihkkige olggobealde boahtán ruhtasupmi sáhte buhttet iežas movtta ja hálu ovttastuvvat ja doaibmat iežas girku bealis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mihheen ulguupiälááš peeli ij pyevti paggiđ nuorttâsämmilijd čuávvuđ jieijâs ihečuođijd puáris kirholâš ärbivyevi , ige mihheen ulguubeln puáttee ruttâsumme pyevti pyerettiđ jieijâs moovtâ já táátu servâđ já toimâđ jieijâs kirho peeleest .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girkohearrá Skopets jáhkká , ahte nuortalašgiella ja kultuvrra bohtet seailut boahttevaš sohkabuolvvaide – nuortalaččat leat álo leamašan hui čeahpes , gielalaš ja sitkadis birgejeaddjit .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kirkkohiärrá Skopets osko , et nuorttâsämikielâ já kulttuur siäiluv puáttee suhâpuolváid – nuorttâsämmiliih láá čoođâg lamaš uáli čeepih , kielâliih já sävris cevzeeh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalaččat orrot dán áiggi miehtá Suoma ja máŋggat sis leat bures skuvlejuvvon .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämmiliih äässih tääl pirrâ Suomâ , já maaŋgah sist láá pyereest škuávlejum .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- Dutkit árvvoštallet ahte máilmmis jápmá gaskamearálaččat okta giella juohke nuppi vahkus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- Totkeet árvušteleh , et eennâmpáálust koskâmiäráklávt jáámá ohtâ kielâ jyehi nube oho .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dákkár leavttuin máilmmi 6 0000 dovdojuvvon gielas juoba 90 proseantta jápmá dán jahkečuođi áigge .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tággáár liävttoin maailm suullân 6 000 tobdos kielâst joba 90 prosenttid jäämmih taan ihečyeđe ääigi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalašgiella lea jávki gielaid listtus , nu ahte nuortalaččat galget rahčat dál giela gádjuma ovdii , lohká Skopets .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämikielâ lii láppojeijee kielâi listoost , et nuorttâsämmiliih ferttejeh tääl rooččâđ kielâ piäluštmân , iätá Skopets .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- Giela gádjun livččii imaš , muhto ipmašat eai dáhpáhuva doppe gos oktage ii jáhke daidda .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dat lea baicce nuppe gežiid , ipmašat dáhpáhuvvet jus olbmot dahket daid ja jáhkket daidda , lohká Skopets .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Govat Unna-Maari Pulska ja Sara Wesslin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

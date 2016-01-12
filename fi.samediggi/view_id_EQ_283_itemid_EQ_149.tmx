@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Fargga EU:a ráhkadusfoanddaid birra diehtu maiddái sámegilli</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Forgâ Euroop union ráhtusruttâráájust tiätu meiddei sämikiel</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lappi lihttu áigu jorgalahttit Eurohpá uniovnna ráhkadusfondii gullevaš prográmmaid dieđihanbláđážiid maiddái davvi- , anáraš- ja nuortalašgillii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Laapi litto áigu jurgâlittiđ Euroop union ráhtusruttârájuohjelmij tieđettemčálusijd meiddei tave- , aanaar- já nuorttâsämikielân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dál Lappi lihttu lea ohcame jorgaleddjiid ja bivdá jorgalanfálaldagaid .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tääl Laapi litto ocá jurgâleijeid já táttu jurgâlemfalâlduvâid .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Eanet dieđut áššis :</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Eenâb tiätu ääšist</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>liiŋkâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Liŋka Hanke-siidui .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

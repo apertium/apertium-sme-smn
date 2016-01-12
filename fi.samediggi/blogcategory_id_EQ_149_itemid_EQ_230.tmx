@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovttasbargu nanne sámegiela ja oktiigullevašvuođa</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Oovtâstpargo raajij rasta naanood sämikielâ já oohtânkulluuv</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámeparlameanttat doibmet Suomas , Ruoŧas ja Norggas</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi parlamenteh tuáimih Suomâst , Ruotâst já Taažâst</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi hálddašanguovllut</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi haldâsemkuávluh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Logi gážaldaga Sámedikki ságajođiheaddjái</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Love koččâmâššâd Sämitige saavâjođetteijei</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámesearvvit</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämiseervih</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi media</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi media</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi skuvlejupmi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi škovlim</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Evaŋgelaš-luteralaš girku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Evaŋgellâš-luterilâš kirkko</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ortodoksalaš girku</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ortodoksâlâš kirkko</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

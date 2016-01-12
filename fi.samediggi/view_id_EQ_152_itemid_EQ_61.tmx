@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Olggosaddimat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Olgosadalduvah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oahppamateriálat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Oppâmateriaal</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dieđihančállosat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tieđettemčáluseh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Raporttat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Raporteh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Anarâškielâ , sänikirjeh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anárašgiella , sátnegirjjit</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuosmuš tuhháát säännid anarâškielân</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>govat : Stephen Cartwright</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>kuuvijd sárgum : Stephen Cartwright</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>jorgalan : Pia Nikula ja Anne-Marie Kalla</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>jurgâlâm : Pia Nikula ja Anne-Marie Kalla</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>63 s.</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>sijđoh : 63</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>haddi : 15,00 €</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge 2011</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vuosmuš tuhháát säännid - girji lea jorgaluvvon eaŋgalsgielat girjjis “ The First Thousand Words in English ” .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Vuosmuš tuhháát säännid - kirje lii jurgâlum eŋgâlâskielâlâš kirjeest “ The First Thousand Words in English ” .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi 2011</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girji heive sátnegirjin máŋggajahkásaččaide : giellabeasis mánát sáhttet geahččat govaid ovttas oahpaheaddjiin ja seammás oahppat sániid ságastallama bokte .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taat kirje heivee sänikirjen maaŋgâahasáid : kielâpiervâlist párnááh pyehtih keččâđ kuuvijd oovtâst tipšoin já tienuuvt oppâđ saanijd savâstâllâm peht .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Skuvllas fas girji heive 1. luohká rájes gitta logahaga ja ámmátskuvlla rádjái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Škoovlâst kirje puáhtá kevttiđ vuosmuu luokast pajaskulij kiddâ luvâttuv já áámmátškoovlâ räi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ja heivehan dát govvasátnegirji ollesolbmuidenai .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Já kale taan kovesänikirje puáhtá puárásub-uv olmooš luuhâđ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sáhttá leat suohtas dutkat mot anárašgiella birge ođđaáigásaš birrasis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suotâshân tot lii keččâđ maht anarâškielân piergee uđđâääigi pirrâsist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girje heive sihke eatnigiela oahpahussii ja maiddái sidjiide , geat lohket giela vieris giellan .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kirje puáhtá kevttiđ sehe eenikielâlâš párnái máttááttâsâst já meiddei uáppeiguin , kiäh loheh anarâškielâ vieres kiellân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Oopâ saanijd</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>govat : Sirpa Seppänen</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>koveh : Sirpa Seppänen</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>dássi : álgooahpahus - 3 lk</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>tääsi : ovdâmáttááttâs - 3 lk</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>58 s.</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>sijđoh : 58</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>haddi : 15,00 €</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taan kovesänikiirján láá čuákkejum anarâškielâ kuávdâšsäänih ašij mield. .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dán govvasátnegirjái leat čohkkejuvvon sullii 500 sáni , eanas nominat .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kovvejum säänih láá suullân 500 , iänááš uási tain nomineh .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi 2000</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge 2000</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>haddi : 10,00 €</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>anarâškielâ - suomâkielâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi 2010</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge 2010</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girjái leat čohkkejuvvon badjel 400 anársámegielat idioma – dajaldagat , mat leat sajáiduvvan anársámegillii ja maid mearkkašumi ii dalán ádde sáni álgoálggolaš mearkkašumi čađa .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kiirján láá nuurrum paijeel 400 anarâškielâlâš idiomid – eđâlduvâd , moh láá vuáhádum anarâškielân já moi merhâšume ij ovttuu lekkâs saanij algâalgâlâš merhâšume pehti .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Idiomat leat čilgejuvvon suomagillii ja mearkkašumi čielggadan dihte addojuvvojit ovdamearkkat , main dajaldagat leat geavahuvvon .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Idiomih láá čielgejum suomâkielân já merhâšume čielgiimân adeluvvojeh ovdâmerkkâcelkkuuh , main eđâlduvah kiävttojeh .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

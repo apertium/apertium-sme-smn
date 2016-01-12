@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi boarrásiidbarggu ovddidanbeaivvit anáris 23.5. – 24.5.2012</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi puárásijpargo ovdedemtáárbuh anarist 23.5. – 24.5.2012</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki hálddašan SaKaste – Sámiid sosiála- ja dearvvasvuođabálvalusaid ovddidanráhkadus – fidnu ulbmilin lea hukset ja ovddidit sámegielat bálvalusfálaldaga , govvidit málle vehkiin kultursensitiivvalaš doaibmavugiid ja nannet bargoveaga máhtolašvuođa .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige haldâšem SaKaste – Sämmilij sosiaal- já tiervâsvuođâpalvâlusâi ovdedemrááhtus – proojeekt ulmen lii lääččiđ já ovdediđ sämikielâlâš palvâlusfalâlduv , myensteristiđ kulttuur-sensitiivlâš toimâmvuovijd já nanodiđ pargojuávhu mättim .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi boarrásiidbarggu ovddideapmi lea okta SaKaste deaddosurggiin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi puárásijpargo ovdedem lii ohtâ SaKaste tiäddučuágástâhsuorgijn .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovttas fidnui čatnasan gielddaiguin erenomážit sámiide oaivvilduvvon bálvalusmálle dárkkálmahtto ja ruohtasmahtto govvidemiin málle vehkiin ruovttudivššu ja sámegielat muitobuohcci dikšuma ollisvuođa bálvalusproseassaid , mat dahkkojuvvojit sámiid gaskavuođas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Oovtâst projektân čonnâsâm kieldâiguin eromâš säämi palvâlusmalli tärkkilistoo já ruotâsmittoo addelmáin maali paargon päikkitipšo já sämikielâlâš muštopyeccee tipšorááiđu palvâlusprosesseh , mii tahhoo sämmilij koskâvuođâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>SaKaste-fidnu lágida vuosttas geardde Sámi boarrásiidbarggu ovddidanbeivviid , maid ulbmilin lea : 1 ) kártet sámi boarrásiidbarggu álgodili ja 2 ) válljet ovddidanáššiid kultuvrra ja giela vuhtiiváldi bálvalusproseassaid bargometodaid govvideapmái málle vehkiin sámegielat muitobuohcciid dikšoproseassaid ollisvuođas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SaKaste-proojeekt uárnee vuossâmuid Säämi puárásijpargo ovdedempeeivijd , moi uáivilin lii : 1 ) karttiđ säämi puárásijpargo vuolgâtile já 2 ) valjiđ ovdedemčuásáttuvâid kulttuur já kielâ vuotânväldee palvâlusprosessij pargovuovij myensteristmân sämikielâlij muštopyeccei tipšorááiđust .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Áigi 23.5. – 24.5.2012</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Báiki Sámekulturguovddáš Sajos , Anár.</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Saje Säämi kulttuurkuávdáš Sajos , Aanaar .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Prográmma . .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ohjelm ...</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

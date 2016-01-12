@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ođđa oahppamateriálat almmustuvvan</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uđđâ oppâmatriaalah almostum</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Davvisámegiela giđđaáppesa ( Áppes 2 ) ođasmahttojuvvon preanttus ja davvisámegielat Skuvlla birasdiehtu 3 , bargogirji leat almmustuvvan .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tavesämikielâ kiđđâaabis ( Áppes 2 ) uđâsmittum teddilâs já tavesämikielâlâš Skuvlla birasdiehtu 3 3 , uáppee pargokirje ( Skuvlla birasdiehtu 3 , bargogirji ) láá almostum .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Guovttioasát Áppes leamaš anus juo sullii 20 jagi ja dan dahkkit leat Helena Valkeapää , Seija Guttorm ja Aletta Ranttila .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kyevtuásásâš Áppes lii lamaš kiävtust juo suullân 20 ihheed já ton rähteeh láá Helena Valkeapää , Seija Guttorm já Aletta Ranttila .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dál almmuhuvvon preanttus lea ortnega mielde njealját ja dan teavsttat leat muhtin muddui ođasmahttojuvvon .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tääl almostum teddilâs lii oornig mield niäljád já ton teevstah láá mottoom verd uđâsmittum .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Birasdieđu bargogirji gullá oktii dán čavčča almmuhuvvon seammánammasaš oahppogirjjiin , Skuvlla birasdiehtu 3 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pirâstiäđu pargokirje kulá taan čoovčâ almostum siämmáánommâsâš oppâkiirján , Skuvlla birasdiehtu 3 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Birasdieđu girjjit leat sámi birrasii heivehuvvon jorgalusat goasttidanfitnodat Otava almmuhan oahppogirjeráiddus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pirâstiettuu kirjeh láá säämi pirrâsân heiviittum jurgâlusah kuástidemfinnodâh Otava almostittám oppâkirjerááiđust .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegillii daid lea jorgalan Jovnna-Ánde Vest .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielân ton lii jurgâlâm Jovnna-Ánde Vest .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girjjit leat fidnemis Sámedikki skuvlen- ja oahppamateriáladoaimmagas ja juhkkojuvvojit skuvllaide nuvttá</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kirjeh láá finniimist Sämitige škovlim- já oppâmateriaaltoimâttuvâst já toh juáhhojeh škovláid nuuvtá .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

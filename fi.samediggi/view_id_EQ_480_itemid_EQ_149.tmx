@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ijahis ijas gullat dán jagi Tuvalaš čottalávluma</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ijâttis iijâst kuullâp taan ive čuudâlavluu Tuvast</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ijahis idja – eamiálbmogiid musihkkadáhpáhusas Anáris dán geasi gullat ovtta Tuva čeahpimus čottalávlu , Igor Koshkendei .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ijâttis ijjâ – algâaalmugij muusiktábáhtusâst Anarist kuullâp taan keesi Tuva čepimussáid čuudâlávloid kullee Igor Koshkendei .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Koshkendei lea riikkaidgaskasaččat dovddus ja son lea ožžon ruovtturiikkastis Tuvas hui alla khoomeyzi-árvonama .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Koshkendei lii aalmugijkoskâsávt tobdos já sun lii jieijâs päikkienâmist Tuvast uážžum uáli ollâ khoomeyzi-arvunoomâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Son máhttá buot khoomei-stiillaid ja lea vuoitán Gaska-Asia Grand Prix III – gilvvu .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sun haaldâš puoh khoomei-stiijlâid já lii vuáittám Koskâ-Aasia Grand Prix III – kišto .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- Tuvalaš čottalávlun lea earenoamáš lávlunvuohki , mii lea boktalan miehtá máilmmi beroštumi . Čottalávlu nagoda buvttadit máŋggaid čuoddji jienaid oktanaga .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>– Tuvalâš čuudâlavluu eromâš lávlumvyehi lii luptim mailmist stuorrâ mielâkiddiivâšvuođâ , mast lávloo áppád pyevtittiđ maŋgâ čyeijee jienâ siämmáá áigásávt .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Igor Koshkendei guhte galgá boahtit lávddi ala Ijahis ijas lea eret Tuvas , Lulli-Sibirjás , mii lea guovddáš báiki čottalávlumii , muitala Ijahis ija riikkaidgaskasaš áššiid koordináhtor Marina Falevitch Sámi oahpahusguovddážis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Maadâ-Siperia Tuva , mast Ijâttis iijâst lávdástellee Igor Koshkendei lii vuálgus , lii čuudâlavluu kuávdášlâš kuávlu , muštâl Ijâttis iijâ aalmugijkoskâsij aašij koordinaattor Marina Falevitch Säämi máttááttâskuávdáást .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Jagi 2011 temán Eatnama jienat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ive 2011 teeman Eatnama jienat – Eennâm jienah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ijahis idja - eamiálbmogiid musihkkadáhpáhus lágiduvvo Anára girkosiiddas gávccát háve 19.–21.8.2011 .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ijâttis ijjâ – algâaalmugij muusiktábáhtus uárnejuvvoo Aanaar markkânist káávcád keerdi 19.–21.8.2010 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Festivála lea láhččán alcces saji deháleamos sámemusihka dáhpáhussan Suomas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Festivaal lii vuáháiduttám sajattuvâs tehálumosin sämimuusig oovdânpyehtee tábáhtussân Suomâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Festivála temán lea dán jagi Eatnama jienat , mii joatká Ijahis idja dáhpáhusa eamiálbmottemá .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Festivaal teeman lii taan ive Eatnama jienat – Eennâm jienah , mii juátká Ijâttis ijjâ tábáhtus algâaalmugteema .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Temá govvida eamiálbmogiid earenoamáš oktavuođa eatnamii ja dan movt sin musihkka bohciida birrasa luonddus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Teema spejâlist algâaalmugij eromâš ohtâvuođâ enâmân já tom , maht sii muusig paijaan pirâstittee luándust .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ijahis ija váldodáhpáhus lea Ijahis idja !</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ijâttis iijâ váldutábáhtus lii Ijâttis ijjâ !</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- konsearta lávvardaga 20.8 , gos gullát Igor Koshkendei lassin sápmelaš jietnačeahpi Wimme , sámegielat ráppára Slincraze Mázes , SomBy , Niillas Holmberga , Anára joavkku The Slap ja árbevirolaš juigiid davviriikkaid oktasaš Juigiid searvvis ja dan lassin ollu eará sámemusihka .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>– konsert , mii uárnejuvvoo lávurduv 20.8 . Tast kuullâp Igor Koshkendei lasseen säämi jienâčeepi Wimme Saari , sämikielâlâš räppäjeijee SlinCraze Maasist , SomBy , Niillas Holmberg , aanaarlâš The Slap já ärbivuáválijd jyeigeid ohtsâštave-eennâmlii Jyeigei seervist sehe ennuv eres sämimuusik .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ijahis idja - dáhpáhusa lágidit ovttasbarggus Anára Sámisearvi , Sámediggi , Sámi oahpahusguovddáš , Sámemusea Siida , Anára gielda , Sámi mánáidkulturguovddáš ja Giellagas-instituhtta .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ijâttis ijjâ – tábáhtus uárnejeh oovtâstpargoost Anára Sámisearvi , Sämitigge , Säämi máttááttâskuávdáš , Sämimuseo Sijdâ , Aanaar kieldâ , Säämi párnáikulttuurkuávdáš já Giellagas-instituut .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lasetiäđuh festivaaljođetteijee Anna Näkkäläjärvist , Tämä sähköpostiosoite on suojattu roskapostia vastaan , aseta javascripttuki päälle nähdäksesi osoitteen .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>, puh. .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>+358108393148 já tábáhtus viärmádâhsiijđoin čujottâsâst www.ijahisidja.fi .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

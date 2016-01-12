@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi Diidalámpá álggahii ođđa viđa jagi doaibmabaji</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi Tijdâlamppu algâttij uđđâ viiđâive paje</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi mánáidkulturguovddášfidnu álggahii ođđa viđa jagi doaibmabaji ( 2009-2013 ) Lappi mánáidkulturguovddážiid fierpmádaga oassin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi párnáikulttuurkuávdášhaahâ algâttij uđđâ viiđâive paje ( 2009-2013 ) uássin Laapi párnáikulttuurkuávdáá viärmáduv .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Riikaviidosaš fierpmádaga namma lea Diidalámpá ( Taikalamppu ) .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Väldikodálâš viärmáduv nommâ lii Tijdâlamppu .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi mánáidkulturguovddáža lassin Lappi fierpmádahkii gullet Giema , Giemajávrri , Roavvenjárgga ja Durdnosa gávpogat ja Ranua gielda .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige jođettem säämi párnáikulttuurkuávdáá lasseen Laapi viärmádâhân kuleh Kiemâ , Kiemâjäävri , Ruávinjaargâ já Tuárnus kaavpugeh já Ranua kieldâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi mánáidkulturguovddáža doaimmajođiheaddjin Sámedikkis bargá Petra Biret Magga .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi párnáikulttuurkuávdáá Toimâjođetteijen tuáimá Petra Biret Magga .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Loga olles dieđáhusa dás :</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Luuvâ ubâ tiäđáttâs täst :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mánáid kulturguovddáš joatká vihtta jagi - Lasten kulttuurikeskus jatkaa viisi vuotta</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

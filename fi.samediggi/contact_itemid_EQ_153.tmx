@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oktavuohta</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ohtâvuođâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doaibmabáikit ( 5 )</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toimâpääihih ( 5 )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bargit ( 35 ) Guovddášdoaimmahat Sámegiela doaimmahat Skuvlen- ja oahppamateriáladoaimmahat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pargojuávkku ( 35 ) Almos toimâttâh Sämikielâ toimâttâh Škovlim- já oppâmateriaaltoimâttâh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki čoahkkin ( 25 )</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige čuákkim ( 25 )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ságadoallit ( 3 )</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Saavâjođetteijeeh ( 3 )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Stivra ( 7 )</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Stivrâ ( 7 )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ealáhus- ja vuoigatvuohtalávdegoddi ( 14 )</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Iäláttâs- já vuoigâdvuođâlävdikodde ( 14 )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki skuvlen- ja oahppamateriálalávdegoddi ( 14 )</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Škovlim já oppâmateriaallävdikodde ( 14 )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Kulturlávdegoddi ( 15 )</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kulttuurlävdikodde ( 15 )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi giellaráđđi ( 14 )</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi kielârääđi ( 14 )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki sosiála- ja dearvvasvuohtalávdegoddi ( 14 )</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sosiaal- já tiervâsvuođâlävdikodde ( 14 )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Riŋgen 010 - álgosaš nummiriidda máksá 8,21 sentte / hálešteapmi + 5,90 sentte / minuhtta juohke sajis Suomas láigetelefovnnas riŋgedettiin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Suáittim 010 - algâsâš numeráid máksá 8,21 senttid / suáittu + 5,90 senttid / miinut jyehi kuávlust Suomâst sraŋgâpuhelimáin suáitidijn .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mátketelefovnnas riŋgedettiin haddi lea 8,21 sentte / hálešteapmi + 16,90 sentte / minuhtta .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mätkipuhelimáin suáitidijn lii hadde 8,21 senttid / suáittu + 16,90 senttid / miinut .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Hattit dollet sisttiset 22 % árvvulassevearu .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Hadeh tuálih siste 22 % árvulaseviäru .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Olgoriikkain riŋgedettiin hatti meroštallá báikkálaš operáhtor .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Olgoenâmijn suáitidijn hade miäruštâl páihálâš operaattor .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki mátketelefonnummiriidda riŋgejuvvon háleštemiid haddi lea áššehačča geavahan operáhtora mátketelefonhattiid mielde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige mätkipuhelinnumeráid soittum suáitui hadde lii áššigâš kevttim operaattor mätkipuhelinhade miäldásâš .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

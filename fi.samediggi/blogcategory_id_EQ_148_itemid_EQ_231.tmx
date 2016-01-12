@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegielat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Giellavuoigatvuođain</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kielâvuoigâdvuođah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anáraččat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Anarâšah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Anárašgiella</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Aanaarkielâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuortalaččat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorttâsämmiliih</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Zoja Nosova – nuorttâsämikielâ algâjalgejeijee</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Maŋimuš boddu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Majemuš puddâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Eenikiellâm sämikielâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámi bustávat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säämi puustaveh</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámedikki nuoraidráđđi</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitige nuorâirääđi</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuoraidčálli fástida</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorâičällee västid</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Diidalámpá lea riikkaviidosaš mánáidkulturguovddážiid fierpmádat – muhto mii lea Skáhppu ?</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tijdâlamppu lii taikalamppu – mut mii lii Skuáppu ?</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Binna Bánna mánáid radio</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Binna Bánna párnái radio</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Unna Junná álggii jagis 2007</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Unna Junná aalgij ive 2007</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Unna Junná video</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Njoammil</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Njuámmil</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Suoma Sámi Nuorat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Rájehis sámenuorat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Räjittes säminuorah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuorat lagašgovas</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorah aldakooveest</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Pilvi álggaha</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Pilvi aalgât ollâopâttuvâst</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uccâ uábáš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mun gal guoran máttaráddján</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mun kal kuorâm madâräijihâm</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Niiles</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Cokka fal ná</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SomBy Muu hobby</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kárvudât peri návt</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámenuoraid dáiddadáhpáhus</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Säminuorâi taaidâtábáhtus</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáiddadáhpáhus govvaráidu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Taaidâtábáhtus koveráiđu</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Lean 17 jagi dassá Lappeenrantas riegádan nuortalaš nieida .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Lam 17 ihheed tassaaš Lappeenrantaast šoddâm nuorttâsämmilâš nieidâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mu eallima vuosttas mánotbajiid ássen bearrašiinnán Imatras , gos jagi 1994 loahpas fárriimet dálá ruoktogillái Čeavetjávrái .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Elimâm vuossâmuid mánuppoojijd aassim perruinân Imatrast , kost ive 1994 loopâst varrijm tááláá päikkisiijdân Čevetjáávrán .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dáppe lean čađahan vuođđoskuvlla eatnigiellanan nuortalašgiella , daid osiin go dat leamašan vejolaš .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tääbbim lam čođâldittám vuáđuškoovlâ eenikielâinân nuorttâsämikielân , tain oosijn main tot lii lamaš máhđulâš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dál ( 2011 ) lean skuvllas Avvila logahagas , gos nuortalašgiela lassin lean lohkagoahtán maid davvisámegiela .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tääl ( 2011 ) lam škoovlâst Avveel luvâttuvâst , kost nuorttâsämikielâ paaldâst lam luvâškuáttám meid tavesämikielâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mu lassin bearrašii gullet eadni , áhčči sihke stuorraviellja ja unnaviellja .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Muu lasseen perrui kuleh enni , eeči sehe stuorrâviljâ já uccâviiljâš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Boazodoallu lea dehálaš ealáhus bearrašis ja leamašange vieljaidanguin unnivuođa rájes mielde boazobargguin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Puásuituálu lii tehálâš iäláttâs mii perrust já lam-uv viljâinân lamaš uccevuođâ rääjist mieldi puásuipargoin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mun lean bajásšaddan nuortalašgiela ja - kultuvrra gaskkas : áhčči lea hállan álo nuortalašgiela ja nugo dadjen , leamašan boazobargguin mielde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mun lam šoddâm nuorttâsämikielâ já kulttuur kooskâst : eeči lii sárnum ovttuu nuorttâsämikielâ já nuuvtko ettim , te puásuipargoin lam šoddâm leđe mieldi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Katrilla lean dánson birra Suoma ja vehá olgoriikkainge .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Katril lam šoddâm tánssáđ pirrâ Suomâ já ucánjáhháá olgoenâmijn-uv .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámegiella ja - kultuvra leat munnje dehálaččat ja logahaga maŋŋá hálidivččenge stuđeret nuortalašgiela oahpaheaddjin ja fárret ruovttoluotta Čeavetjávrái stuđeremiid maŋŋá .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâ ja kulttuur láá munjin teháliih já luvâttuv maŋa halijdiččim-uv luuhâđ nuorttâsämikielâ máttáátteijen já varriđ oppâi maŋa maasâd Čevetjáávrán .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dahje jos in aiddo oahpaheaddjin , de goittot hálidivččen bargat mannu láhkái giela ja/dahje kultuvrra suorggis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tâi jis jiem aaibâs mattáátteijen , te aainâs halijdiččim porgâđ mahtnii kielâ já / tâi kulttuur syergist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sápmelašvuohta lea stuorra oassi mu ja anán árvvus iežan máttuid</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämmilâšvuotâ lii stuorrâ uási muu eellim já lam čiävláá madduinân .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

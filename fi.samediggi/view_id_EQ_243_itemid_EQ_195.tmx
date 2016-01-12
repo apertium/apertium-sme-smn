@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SomBy</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>SomBy lea joavku Suoma Sámis , mii čuojaha sámegielat rock-musihka .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SomBy lii sämikielâlâš rock-muusik suáittee juávkku , mii lii vuálgus Suomâ sämikuávlust .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Musihkka spiehkkasa árbevirolaš sámemusihkas luođis rock-šuoŋaiguin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Muusik spiekâst ärbivuáválâš säämi musikkist juoigâmist , ko tot lii rock-sundásâš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Joavku lea vuođđuduvvon máŋga jagi dassái Suoma lulimus sámegilis Vuohččus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Bändi lii vuáđudum maŋgâ ive tassaaš Suomâ mädimuu sämisiijdâst Vuáčust .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dálá hámi joavku lea ožžon jagiid mielde .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tááláš čuákánpieijâm lii hámášum iivij mield. .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Álggus joavku lei vuohččulaš nieidajoavku , mii riegádii go gilážis ii lean eará bargu .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Aalgâst juávkku lâi vuáččulâš nieidâbändi , mii šoodâi , ko siijdâst ij lamaš eres porgâmuš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovtta čavčča Vuohččus doaibmagođii musihkkaleaira , gos joavku vehážiid mielde riegádii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mottoom čoovčâ toimâškuođij Vuáčust bändikerho , mast bändi kuuloold šoodâi .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Álggus joavkkus ledje čieža nieidda , muhto vehážiid muhtumiin čáskkai beroštupmi ja oassi heittii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Aalgâst bäändist lijjii čiččâm nieidâd , mut kuuloold motomij mielâkiddiivâšvuotâ čaaskâi já uási lopâttij .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dálá čoahkus leat fárus golbma originála lahttu ; golbma vuohččulaš nieidda , geaid fárrui darvánedje maŋŋelis guokte bártni ránnjágielddas Anáris .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tááláá čuákánpiejâmist láá mieldi kulmâ algâalgâlii jeessân ; kulmâ vuáččulâš nieidâ , moi fáárun vuolgijn maŋeláá kyehti kaandâ ránnjákieldâst Anarist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dán áiggi jovkui gullet Miira Suomi ( lávlun ) , Milla Pulska ( šleađgapiano ) , Unna-Maari Pulska ( trumbbut ) , Oula Guttorm ( gitárra ) ja Juho Kiviniemi ( basso ) .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tááláá ääigi bäändin kuleh Miira Suomi ( lávlum ) , Milla Pulska ( syntetisaattor ) , Unna-Maari Pulska ( ruumbuh ) , Oula Guttorm ( kitaar ) já Juho Kiviniemi ( basso ) .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dát joavku lea čuojahan ovttas jagi 2007 rájes .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tááláš čuákánpieijâm lii toimâm oovtâst ive 2007 rääjist .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Joavkku namma lei álggus Häkämyrkytys , mii goittotge rievddai SomByn dađistaga go joavkku lahtut molsašuvve .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Bäändi nommâ lâi aalgâst Häkämyrkytys , mii kuittâg muttui SomByn jesânij molsâšume ohtâvuođâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nammarievdadeami oktavuhtii gulai maid mearrádus álgit čuojahit musihka aivvefal sámegillii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nommâmolsâšumán lohtâsij še miärádâs čuojâtškyettiđ muusik tuše sämikielân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Joavku čuojahii álgoáiggiin sámegielat lávlagiid lassin suopmelaš dovddus bihtáid , main sii ledje oasi jorgalan sámegillii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Bändi čuojâttij algâaaigijn sämikielâlâš lavlui lasseen syemmilâš tobdos pittáid , main uási sij lijjii jurgâlâm sämikielân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Giellamearrádusa vuođul namma Häkämyrkytys ii lean šat heivvolaš stuorát ollisvuođa dáfus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kielâmiärádâs vuáđuld nommâ Häkämyrkytys ij orroom lemin hiäivulâš ubâlâšvuođâ juurdâštijn .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuba galggai hutkagoahtit ođđa nama ja namman váldojuvvui SomBy .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuuvtpa uđđâ noomâ ovdedem vuolgij joton já nommân meridui väldiđ SomBy .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>SomBy-nama ruohttasat leat nieiddaid ruovttuguovllus ja historjás .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SomBy-nommâ joođeet madduidis nieidâi päikkikuávlun já historján .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ovdalaš áiggi nieiddaid ruovttugilis Vuohčus lei stuorra guovlu , man gohčodedje Sompion .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tovláá ääigi nieidâi päikkisiijdâ Vuáču suulâin lâi stuorrâ kuávlu , mon kočodii suomâkielân Sompion .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Boares kárttas lea dát viiddes guovlu merkejuvvon Sombio-Byn mas váldojuvvui atnui oanádus SomBy .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Puáris káártást lâi merkkejum siämmáš vijđes kuávlu noomáin Sompio-By mast valdui kiävtun uánádâs SomBy .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oanádusa geažil loahppageaži B-bustávva čállojuvvo stuorra bustávain , ja maiddái danin vai namma ii seahkanivččii sápmelaš goargguin Sombyin</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Uánádâs keežild loppâuási B-puustav čálloo styeresin , já meid tondiet , et nommâ ij siähán säämi suhânoomáin Somby .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Joavku čuojaha rock-musihka viidásepmosit hubmojuvvon sámegillii , davvisámegillii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Bändi čuojât rock-muusik vijđásumosávt sarnum sämikielân tavesämikielân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Joavku bidjá nuohta ja sániid ieš buot bihtáide .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Bändi nyettee já sännee puoh pitáidis jieš .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Komponistan lea eanáš gitárra čuojaheaddji Oula Guttorm , go fas sániin vástida Milla Pulska .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuottiimist västid iänááš kitarist Oula Guttorm , ko oppeet sannim uáiviovdâsvástádâs lii synistist Milla Pulskaast .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Buot lahtut leat goittotge juoga láhkai oassálažžan ieš komponeren- ja čállinbarggus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Puoh jesâneh láá kuittâg mottoom náálá uásálâžžân nuottim- já sannimpargoost .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Iežas bihtáid lassin joavku lea čuojahan konsearttain muhtin cover-bihtáid , dego dovddus sámeartistta Mari Boine bihtá Alla hearrá guhkkin Oslos .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Jieijâs pitái lasseen juávkku lii čuojâttâm ráiđustis motomijd cover-pittáid , tegu tobdos sämiartist Mari Boine pittáid Alla hearrá guhkkin Oslos ( Ollâ hiärrá kukken Osloost ) .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dán bihtás dahkkon veršuvdna gávdno maiddái joavkku albumas Álas eana .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Siämmáá pittáást rahtum versio kávnoo še juávhu vuossâmuu oleskukkosâš albumist Álás eana ( Pietittes eennâm ) .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Skearrofitnodagain soahpamuš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kiälhástâlmist skiärrudemsopâmušân</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Joavku dagai soahpamuša jagi 2008 skearrofitnodagain Tuupa Records Oy : in .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Juávkku toovâi skiärrudemsopâmuš ive 2008 Tuupa Records Oy skiärrufinnoduvváin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Joavku lea almmustahttán EP:a ( Čáhppes lasttat 2008 ) , singela ( Ii iđit vel 2009 ) ja dievasguhkkosaš skearru ( Álás eana 2010 ) .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Juávkku lii almostittám EP-skiäru Čáhppes lasttat 2008 ( Čapis loostah ) , single Ii iđit vel 2009 ( Ij iiđeed vala ) sehe oleskukkosâš skiäru Álás eana 2010 ( Pietittes eennâm ) .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ive 2008 almostum EP-skiärust lijjii vittâ lavluu .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>EP almmuheami maŋŋá joavku šaddagođii bivnnuheabbon ja jahki skearru almmuheami maŋŋá joavku vuittii giđđat 2009 sámiid eur ovišuvdnange gohčoduvvon lávlungilvvohallama Sámi Grand Prix : a lávlagiin Ii iđit vel .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>EP almostittem maŋa juávhu mielâstumvuotâ lassaanškuođij já ive maŋa skiäru almostitmist bändi vuoitij kiđđuv 2009 sämmilij euroviisun-uv nobdum laavlâkišto Sámi Grand Prix pittáin Ii iđit vel .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bivnnutvuohta lassánii go joavku beasai viidáseappot joatkkagilvvohallamii seamma čavčča Hollándii , gos dollojuvvui Eurohpá unnitlogugielaid lávlungilvu liet .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mielâstumvuotâ uážui joođhâ , ko bändi peesâi jotkâkiišton vala siämmáá čoovčâ Hollandin , kost tollui Euroop ucceeblohokielâi laavlâkišto liet .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Joavku vuittii seamma bihtáin dánge gilvvu .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Juávkku vuoitij siämmáin pittáin taan-uv kišto .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Mihtolat joatkašuvai go joavku bálkkašuvvui maŋŋelis čakčat Suoma sámedikki kulturbálkkašumiin , man sidjiide juolludii dan áigásaš kulturministtar Stefan Wallin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Mielâstumvuotâ uážui ain-uv joođhâ , ko bändi palhâšui maŋeláá čohčuv Suomâ sämitige kulttuurpalhâšuumijn , mon sijjân mieđettij tallaš kulttuurminister Stefan Wallin .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Seamma jagi juovlamánus joavkku nieiddaide geigejuvvui vel “ vuoden sodankyläläisteko ” - bálkkašupmi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Siämmáá ive juovlâmáánust juávhu nieidáid mieđettui vala ive suáđigillâštaho-palhâšume .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Seamma áigge juovlamánus joavku attii olggos vuoitobihtás maiddái singela , mii loktanii Suoma virggálaš singellisttu ovccádin .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Siämmái aaigij juávkku almostitij vuáitulâš pittáást vala single . Tot luptânij Suomâ virgálâš singleliiston sajan 9 .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Seamma áigge joavku gárvii vuosttamuš dievasguhkkosaš skearru , Álás eana , mii almmustahttui jagi 2010 álggus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Siämmáá ääigi juávkku valmâštâlâi vuossâmuu oleskukkosâš skiärus Álás eana , mii almostui 2010 ive aalgâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Skearrualmmuhanbeaivi lei earenoamáš ávvubeaivi , danin go ovdal skearru almmuhandilálašvuođa joavku finai vuostáiváldimin Helmi-bálkkašumi , man Pohjolan Osuuspankki lei mieđihan .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Skiärualmostittempeivi lâi eromâš juhlálâš , ko ovdil almostittemtilálâšvuođâ juávkku eelij väldimin vuástá Pohjolan Osuuspaaŋki mieđettem Helmi-palhâšume .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bálkkašumit leat movttiidahttán joavkku ja muitalit dan mearkkašumis sámekultuvrii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Bäändi paalhâšmeh láá lamaš stuorrâ movtijdittee bäändi toimáid já muštâleh ton tehálâšvuođâst sämikulttuurân .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Joavku lea johtán viššalit sámeeatnama lassin maiddái lulimus Suomas ja olgoriikkainge .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Bändi lii jottáám čuojâttemmaađhijn aktiivlávt sämieennâm lasseen še Maadâ-Suomâst já olgoenâmijn-uv .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Vaikko guldaleaddjit eai álo ipmir sámegielat sániid , leat olbmot liikon musihkkii ja joavkku musihkka lea muhtumin čuojahuvvon maiddái Suoma riikkaviidosaš radiokanálain .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Veikkâ kuldâleijeeh iä ovttuu ibbeerd sämikielâlâš sanniimijd , te musikkân láá kuittâg almolávt lijkkum , já juávhu muusik lii soittum koskâttuvâi še Suomâ väldikodálijn radiokanavijn .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Máŋggaid jagiid bistán turnéaid maŋŋá joavku mearridii doallat 2010 jagi guhkkosaš bottu .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Maaŋgâihásâš aktiivlâš čuojâttemmađhâšem maŋa bändi meridij toollâđ ive 2010 pajeláhháá ive kukkosii poođhâ .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Bottu maŋŋá joavku ealáskii fas ja lei moatti vahku Eurohpá turnéas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Poođhâ maŋa bändi maacâi maasâd ellee ulmui kirjijd ovttáin ruáškáámáin já eelij muádi oho kukkosâš Euroop turneest .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Juste dál ( 2012 ) joavku gárve turnéaid lassin nuppi olles skearru , mii galggašii almmustahttot jagi 2013 álgogeažis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tääl ( ive 2012 ) bändi valmâštâl čuojâttemmaađhij lasseen nube oleskukkosâš albumis , mii kolgâččij puáttiđ olgos ive 2013 aalgâbeln .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SomBy fiäránijd puáhtá čuávvuđ neetist čuávuváin siijđoin :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sáhtát čuovvut SomBy interneahtas :</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SomBy Myspacest SomBy Facebookist</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>SomBy musihkka :</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>SomByn muusik :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ii iđit vel</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ii iđit vel - Ij iiđeed vala</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Guoros sorbmi - Kuárus sorme</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sáibu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sáibu - Saibâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Cuovkanan speajal</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Cuovkanan speajal - Cuovkkânâm speeijâl</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Ránisvuohta</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Ránisvuohta - Ränisvuotâ</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

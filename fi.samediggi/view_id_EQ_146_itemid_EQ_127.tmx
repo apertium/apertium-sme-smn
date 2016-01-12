@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Olggosaddimat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Olgosadalduvah</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oahppamateriálat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Oppâmateriaal</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Dieđihančállosat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tieđettemčáluseh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Raporttat</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Raporteh</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámiid parlameanta</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämmilij parlamenttâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Professor Veli-Pekka Lehtola girji</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Professor Veli-Pekka Lehtola historjákirje</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>lea kronologalaš geahčastat ja láidehus Suoma sámepolitihkkii .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girji viggá addit ollislaš gova Sámi Parlameantta áigodagain ja váldotemáin maŋimus 30 jagi áiggis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Girjji sáhttá diŋgot Sámedikki Anára doaibmabáikkis .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>xxx</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>haddi : 25,00 €</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>kielâ : suomâkielâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>siiddut : 215</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>sijđoh : 215</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámediggi 2005</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämitigge 2005</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Kirje puáhtá tiiláđ Sämitige Aanaar toimâsaajeest .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>

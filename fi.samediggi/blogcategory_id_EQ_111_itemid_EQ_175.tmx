@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx>
+   <header segtype="sentence"
+           o-tmf="OmegaT TMX"
+           adminlang="en-US"
+           srclang="sme"
+           datatype="plaintext"/>
+   <body>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Toimâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Doaibma</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämikielâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Oahppamateriálabargu</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Škovlim Oppâmateriaalpargo</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sosiála- ja dearvvašvuohta</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sosiaal- já tiervâsvuođâ</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sosiálasuorggi máhttinguovddáš</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sosiaalsyergi mättimkuávdáš</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Nuoraid dáiddadáhpáhus</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Nuorâi taaidâtábáhtus</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>xxx</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Artikla 8(j ) olášuttem</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Davvi-Suoma sosiálasuorggi máhttinguovddáš ( Poske )</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tave-Suomâ sosiaalsyergi mättimkuávdáš ( Poske )</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Davvi-Suoma sosiálasuorggi máhttinguovddáš ( Poske ) lea riikkadási máhttinguovddášfierpmádaga oassi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tave-Suomâ sosiaalsyergi mättimkuávdáš ( Poske ) lii uási väldikodálâš mättimkuávdášviärmáduv .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Riikkadásis máhttinguovddášdoaimma guoskevaš láhka ( 1230/2001 ) ja ásahus ( 1411/2001 ) leat boahtán fápmui jagi 2002 álggus .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Väldikodálávt mättimkuávdáštooimâ kyeskee laahâ ( 1230/2001 ) já asâttâs ( 1411/2001 ) lává puáttám vuáimán ive 2002 aalgâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Poske lea Lappi universitehta , Sámedikki , Kolpene bálvalanguovddáža gieldaovttastumi ja Oulu guovllu ámmátallaskuvlla ráhkadan soahpamušvuđot organisašuvdna , man stivre ja jođiha ráđđádallangoddi .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Poske lii Laapi ollâopâttuv , Sämitige , Kolpene palvâlemkuávdáá kieldâ ¬ovtâstume já Oulu kuávlu áámmátollâškoovlâ ornim sopâmušvuáđusâš organisaatio , mon stivree já joođeet ráđádâllâmkodde .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Poske lea okta oktilaš doaibmaoppalašvuohta , mii čohkiida golmma guovlluguovdasaš doaibmanossodagas : Lappi ja Davvebađaeatnama doaibmanossodagas ja maiddái Sámeossodagas .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Poske lii ohtâ ohtâlâš toimâlâš oleslâšvuotâ , mii šadda kuulmâ kuávlulâš toimâohtâduvâst : Laapi já Pohjois-Pohjanmaa toimâohtâduvâst sehe Sämiohtâduvâst .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Sámeossodat vástida sámiid buorredillebálvalusaid ovddideamis , mii lea Davvi-Suoma sosiálasuorggi máhttinguovddáža riikkadási sierrabargu .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Sämiohtâdâh västid sämmilij pyereestvaijeempalvâlusâi oovdedmist , mii lii Tave-Suomâ sosiaalsyergi mättim ¬kuávdáá väldikodálâš sierânâspargo .</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>Davvi-Suoma sosiálasuorggi máhttinguovddáža bargun lea ovddidit :</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>Tave-Suomâ sosiaalsyergi mättimkuávdáá pargon lii ovdediđ :</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- olles sosiálasuorggi searválas , máŋggaámmátlaš ja máŋggadoaimmat bálvalanvugiid , bargovugiid , rávvema ja daidda gullevaš geahččalandoaimma ,</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- ubâ sosiaalsyergi viärmádâhlâš , maaŋgâáámmátlâš já maaŋgâtoimâlâš palvâlemhaamijd , pargovuovijd , konsultaatioid sehe toid kullee iskâdâllâmtooimâ ,</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- sosiálasuorggi geavada barggu , skuvlenvuogádagaid ovttasbarggu ja vuođđo- , joatkka- ja dievasmahttinskuvlema ,</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- sosiaalsyergi piäiválâš pargo , škovlimvuáháduvâi ohsâšpargo sehe vuáđu- , jotkâ- já tievâs ¬mittemškovliittâs ,</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- ođđateknologiija viiddes atnuiváldima sosiálasuorggis ,</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- uđđâ teknologia vijđes kiävtunväldim sosiaalsyergist ,</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- eanangotti sosiálalaš váikkuhusaid árvvoštallama ja buorredillestrategiijalaš barggu ja maiddái</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- eennâmkodálâš sosiaallâš vaikuttâsâi miäruštâllâm já pyereestvaijeemstrategilâš pargo sehe</seg>
+         </tuv>
+      </tu>
+      <tu>
+         <tuv xml:lang="sme">
+            <seg>- sámegielat sosiálasuorggi bálvalusaid ovddideami .</seg>
+         </tuv>
+         <tuv xml:lang="smn">
+            <seg>- sämikielâlâš sosiaalsyergi palvâlusâi ovdedem .</seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>
