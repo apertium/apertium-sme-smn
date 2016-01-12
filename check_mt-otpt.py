@@ -94,7 +94,6 @@ def getAMT(f,o_dir):
         
         p = Popen('echo '+'\''+tu[0][0].text+'\''+cmd, shell=True, stdout=PIPE, stderr=PIPE)
         out, err = p.communicate()
-        print 'OUT is  ' + out + '\n'
         
         tr_smn = ET.SubElement(o_table, 'tr')
         th_smn = ET.SubElement(tr_smn, 'th')
