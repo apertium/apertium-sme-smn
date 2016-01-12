@@ -148,7 +148,7 @@ def main():
     if (total == 3):
         if str(sys.argv[1]) == '-f':
             i_file = str(sys.argv[2])
-            if i_file.endswith('tmx'):
+            if i_file.endswith('toktmx'):
                 getAMT(i_file,o_dir)
         if str(sys.argv[1]) == '-d':
             i_dir = str(sys.argv[2])
