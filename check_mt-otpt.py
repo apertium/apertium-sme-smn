@@ -92,8 +92,9 @@ def getAMT(f,o_dir):
         th_sme.set('class', 'tg-sme')
         th_sme.text = tu[0][0].text
         
-        p = Popen('echo '+tu[0][0].text+cmd, shell=True, stdout=PIPE, stderr=PIPE)
+        p = Popen('echo '+'\''+tu[0][0].text+'\''+cmd, shell=True, stdout=PIPE, stderr=PIPE)
         out, err = p.communicate()
+        print 'OUT is  ' + out + '\n'
         
         tr_smn = ET.SubElement(o_table, 'tr')
         th_smn = ET.SubElement(tr_smn, 'th')
@@ -134,7 +135,7 @@ apertium_home=os.environ["APERTIUM_HOME"]
 
 atm_dir = apertium_home + '/apertium' + '-' + s_lang + '-' + t_lang
 #print("APT home is " + atm_dir)
-cmd = "| apertium -d " + atm_dir + " " + s_lang + '-' + t_lang
+cmd = '| apertium -d ' + atm_dir + ' ' + s_lang + '-' + t_lang
 # Change previous line to the following line if you want to see the hashform tags
 #cmd = "| apertium -d " + atm_dir + " " + s_lang + '-' + t_lang + '-dgen'
 
@@ -157,8 +158,7 @@ def main():
         
                 for f in files:
                     if f.endswith('tmx'):
-                        getAMT(os.path.join(root,f),o_dir)
-
+                    	getAMT(os.path.join(root,f),o_dir)
     else:
         if (i_file == ''):
             for root, dirs, files in os.walk(i_dir): # Walk directory tree
