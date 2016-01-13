@@ -326,6 +326,7 @@
     <e><p><l>eambbo<s n="adv"/></l><r>eenâb<s n="adv"/></r></p></e>
     <e><p><l>eisige<s n="adv"/></l><r>eissigin<s n="adv"/></r></p></e>
     <e><p><l>erenoamážit<s n="adv"/></l><r>eromâšávt<s n="adv"/></r></p></e>
+    <e><p><l>erenomážit<s n="adv"/></l><r>eromâšávt<s n="adv"/></r></p></e>
     <e><p><l>fas<s n="adv"/></l><r>oppeet<s n="adv"/></r></p></e>
     <e><p><l>feara<s n="adv"/></l><r>veikâ<s n="adv"/></r></p></e>
     <e><p><l>goassige<s n="adv"/></l><r>kuássin<s n="adv"/></r></p></e>
@@ -459,6 +460,8 @@
 
     <!-- ASECTION: Nouns -->  
 
+    <e><p><l>rohka<s n="n"/></l><r>ruuvâš<s n="n"/></r></p></e>
+    <e><p><l>searvvuš<s n="n"/></l><r>siärvus<s n="n"/></r></p></e>
     <e><p><l>dikšungoddi<s n="n"/></l><r>tipšomkodde<s n="n"/></r></p></e>
     <e><p><l>fápmu<s n="n"/></l><r>vyeimi<s n="n"/></r></p></e>
     <e><p><l>čuovvumuš<s n="n"/></l><r>čuávumuš<s n="n"/></r></p></e>
@@ -481,7 +484,7 @@
     <e><p><l>gávpotbiras<s n="n"/></l><r>kaappugpiirâs<s n="n"/></r></p></e>
     <e><p><l>sitkatvuohta<s n="n"/></l><r>siđhesvuotâ<s n="n"/></r></p></e>
     <e><p><l>iešráđđen<s n="n"/></l><r>jiešhaldâšem<s n="n"/></r></p></e>
-    <e><p><l>álbmotbeaivi<s n="n"/></l><r>jotkuuvâšvuođâ<s n="n"/></r></p></e>
+    <e><p><l>álbmotbeaivi<s n="n"/></l><r>aalmugpeivi<s n="n"/></r></p></e>
     <e><p><l>jotkkolašvuohta<s n="n"/></l><r>jotkuuvâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>stereotypiija<s n="n"/></l><r>stereotypia<s n="n"/></r></p></e>
     <e><p><l>muvra<s n="n"/></l><r>muvrâ<s n="n"/></r></p></e>
@@ -2606,6 +2609,7 @@
 
     <!-- ASECTION: Verbs -->
     
+    <e><p><l>luohpat<s n="vblex"/><s n="tv"/></l><r>luoppâđ<s n="vblex"/></r></p></e> 
     <e><p><l>seailudit<s n="vblex"/><s n="tv"/></l><r>siäiluttiđ<s n="vblex"/></r></p></e> 
     <e><p><l>bohciidit<s n="vblex"/><s n="tv"/></l><r>šoddâđ<s n="vblex"/></r></p></e> 
     <e><p><l>vássit<s n="vblex"/><s n="iv"/></l><r>moonnâđ<s n="vblex"/></r></p></e> 
