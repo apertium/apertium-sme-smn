@@ -146,10 +146,12 @@ def main():
     o_dir = 'otpt_dir'
 
     if (total == 3):
+    	print '... total ' + str(total)
         if str(sys.argv[1]) == '-f':
-            i_file = str(sys.argv[2])
-            if i_file.endswith('toktmx'):
-                getAMT(i_file,o_dir)
+        	#print '... file ' + str(sys.argv[1])
+        	i_file = str(sys.argv[2])
+        	if i_file.endswith('tmx'):
+        		getAMT(i_file,o_dir)
         if str(sys.argv[1]) == '-d':
             i_dir = str(sys.argv[2])
             for root, dirs, files in os.walk(i_dir): # Walk directory tree
