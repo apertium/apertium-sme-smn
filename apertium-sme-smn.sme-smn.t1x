@@ -974,12 +974,6 @@
           <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_t"/></let> 
           <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let> 
         </when>
-         <when>
-          <test>
-               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_d"/></equal>
-          </test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_d"/></let> 
-        </when>
     </choose>
     </def-macro>  
 
