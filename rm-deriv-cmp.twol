@@ -156,7 +156,7 @@ Rules
 "Don't allow more than two left-compounds"
 : /<= _ Cmp :* Cmp :* Cmp ;
 
-"Don't allow derivations of derivations"
-: /<= _ Derivations :* Derivations ;
+!"Don't allow derivations of derivations" - we want this in sme-smn
+!: /<= _ Derivations :* Derivations ;
 
 ;				! end of Rules
