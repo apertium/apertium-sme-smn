@@ -131,6 +131,7 @@
       <cat-item tags="n.*.@P→"/>
       <cat-item tags="n.*.@→P"/>
       <cat-item tags="n.*.@Pron←"/>      
+      <cat-item tags="n.*.@P←"/>      
       <cat-item tags="n.*.@SPRED→"/>
       <cat-item tags="n.*.@←SPRED"/>
       <cat-item tags="n.*.@SUBJ→"/>
@@ -152,6 +153,8 @@
       <cat-item tags="np.*.@P←"/>
       <cat-item tags="np.*.@P→"/>
       <cat-item tags="np.*.@→P"/>
+      <cat-item tags="np.*.@Pron←"/>      
+      <cat-item tags="np.*.@P←"/>      
       <cat-item tags="np.*.@X"/>
     </def-cat>
     <def-cat n="word">
@@ -191,7 +194,8 @@
     </def-cat>
     <def-cat n="agreement-attr">                             
       <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!--  put under vuosttaš as lemma in sme -->                   
-      <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/>                    
+      <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/> 
+      <cat-item lemma="dárbbašlaš" tags="adj.attr.*"/> 
       <cat-item lemma="muhtun" tags="prn.ind.attr.*"/> 
       <cat-item lemma="buot" tags="prn.ind.attr.*"/>
       <cat-item lemma="makkár" tags="prn.ind.*"/>
@@ -362,6 +366,7 @@
 
   <section-def-attrs>
     <def-attr n="a_npagree_type">
+       <attr-item tags="adj"/>
        <attr-item tags="adj.ord"/>
        <attr-item tags="prn.ind"/>
        <attr-item tags="prn.dem"/>
@@ -2074,7 +2079,7 @@
       </action>                                  
     </rule> 
     
-      <rule comment="REGLA: agreement-attr attr n-sg agreement">   <!-- full agreement -->                                          
+<!--      <rule comment="REGLA: agreement-attr attr n-sg agreement">   This is not always true: puoh tárbulijd tooimâid.
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
         <pattern-item n="attr"/>                 
@@ -2107,7 +2112,7 @@
           </chunk>
         </out>
       </action>                                  
-    </rule> 
+    </rule> -->
     <rule comment="REGLA: agreement-attr n-sg-gen">                                             
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
@@ -2275,7 +2280,7 @@
       </action>                                  
     </rule> 
 
-    <rule comment="REGLA: agreement-attr attr n-pl"> <!-- pl prn, num, ord , full agreement, exc com -->                                            
+<!--    <rule comment="REGLA: agreement-attr attr n-pl"> This is not always true: puoh tárbulijd tooimâid.
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
         <pattern-item n="attr"/>                 
@@ -2308,7 +2313,7 @@
         </out>
         
       </action>                                  
-    </rule> 
+    </rule>  -->
 
 
     
