@@ -150,8 +150,8 @@ Rules
 "Only allow those derivations that we've made sure survive translation"
 : /<= _ UnhandledDerivations ;
 
-"Don't allow derivations as left-compounds"
-: /<= _ Derivations :* Cmp ;
+!"Don't allow derivations as left-compounds" - we want this in sme-smn
+!: /<= _ Derivations :* Cmp ;
 
 "Don't allow more than two left-compounds"
 : /<= _ Cmp :* Cmp :* Cmp ;
