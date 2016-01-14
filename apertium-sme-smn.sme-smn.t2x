@@ -25,9 +25,6 @@
     <def-cat n="PR_PO">
        <cat-item lemma="pr_po" tags="*"/>
     </def-cat>
-    <def-cat n="FEARA">
-       <cat-item lemma="feara" tags="*"/>
-    </def-cat>
     <def-cat n="IND">
        <cat-item lemma="ind" tags="*"/>
     </def-cat>
@@ -102,23 +99,6 @@
     <pattern>
        <pattern-item n="PR_PO"/>
        <pattern-item n="GenCompl"/>
-    </pattern>
-      <action>
-    <out>
-      <chunk>
-        <clip pos="2" part="whole"/>
-      </chunk>
-      <b pos="1"/>
-        <chunk>
-        <clip pos="1" part="whole"/>
-      </chunk>
-    </out>
-      </action>
-    </rule>
-    <rule comment="REGLA: FEARA">
-    <pattern>
-       <pattern-item n="FEARA"/>
-       <pattern-item n="IND"/>
     </pattern>
       <action>
     <out>
