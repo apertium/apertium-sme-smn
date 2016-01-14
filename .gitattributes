@@ -638,6 +638,8 @@ t/update-latest -text
 t/wiki-tests -text
 texts/100writers.sme.txt -text
 texts/100writers.smn.txt -text
+texts/100writers_sme.txt -text
+texts/100writers_smn.txt -text
 texts/6texts_sme.txt -text
 texts/6texts_smn.txt -text
 texts/aanaarkielda_sme.txt -text
