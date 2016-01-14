@@ -31,6 +31,9 @@
       <cat-item tags="num.*.gen"/>
       <cat-item tags="num.*.gen.*"/>
     </def-cat>
+     <def-cat n="numerals">
+      <cat-item tags="num.*"/>
+    </def-cat>
      <def-cat n="propcmp">
       <cat-item tags="np.*.cmp"/>
       <cat-item tags="np.*.*.cmp"/>
@@ -41,6 +44,7 @@
     </def-cat>
      <def-cat n="numcmp">
       <cat-item tags="num.cmp"/>
+      <cat-item tags="num.cmp.guio"/>
       <cat-item tags="num.cmp_sggen.cmp"/>
     </def-cat>
      <def-cat n="geahččatverb">
@@ -1434,6 +1438,33 @@
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <out>
           <chunk name="nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <mlu>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+             <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+             </mlu>
+        </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: numcmp num"> <!-- 10-20 olbmo -->
+      <pattern>
+        <pattern-item n="numcmp"/>
+        <pattern-item n="numerals"/>
+      </pattern>
+      <action>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <out>
+          <chunk name="num" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
