@@ -19,9 +19,11 @@
     <sdef n="cnjsub"   c="Subordinating conjunction"/>
     <sdef n="iv"       c="Intransitive"/>
     <sdef n="tv"       c="Transitive"/>
+   <sdef n="prsprc"      c="PrsPrc"/> 
     <sdef n="nomag"      c="NomAg type noun, both sme and smn"/>
      <sdef n="g3"       c="g3 type noun, only sme"/>
    <sdef n="sem_ani"      c="Sem/Ani"/> 
+   <sdef n="sem_dummytag"      c="Sem/Dummytag"/> 
     <sdef n="sem_plc"      c="Sem/Plc"/>
    <sdef n="foc_sun"      c="clitic sun"/>
     <sdef n="foc_ge"       c="clitic ge"/>
@@ -375,7 +377,9 @@
 
     <!-- ASECTION: Adjectives -->
     
-    <e><p><l>naiiva<s n="adj"/></l><r>naiivâ<s n="adj"/></r></p></e>
+    <e><p><l>guoskevaš<s n="adj"/><s n="sem_dummytag"/><s n="attr"/></l><r>kuoskâđ<s n="vblex"/><s n="prsprc"/></r></p></e>
+    <e><p><l>gullevaš<s n="adj"/></l><r>kuullâđ<s n="vblex"/><s n="prsprc"/></r></p></e>
+    <e><p><l>gulavaš<s n="adj"/></l><r>lohtâseijee<s n="adj"/></r></p></e>
     <e><p><l>ravddamuš<s n="adj"/></l><r>robdâmus<s n="adj"/></r></p></e>
     <e><p><l>vealtameahttun<s n="adj"/></l><r>velttidmettum<s n="adj"/></r></p></e>
     <e><p><l>humanisttalaš<s n="adj"/></l><r>humanistlâš<s n="adj"/></r></p></e>
@@ -462,9 +466,11 @@
 
     <!-- ASECTION: Nouns -->  
 
-     <e><p><l>ságadoalli<s n="n"/></l><r>saavâjođetteijee<s n="n"/></r></p></e>
-     <e><p><l>lassediehtu<s n="n"/></l><r>lasetiätu<s n="n"/></r></p></e>
-   <e><p><l>rohka<s n="n"/></l><r>ruuvâš<s n="n"/></r></p></e>
+
+    <e><p><l>innovašuvdna<s n="n"/></l><r>innovaatio<s n="n"/></r></p></e>
+    <e><p><l>rohka<s n="n"/></l><r>ruuvâš<s n="n"/></r></p></e>
+    <e><p><l>ságadoalli<s n="n"/></l><r>saavâjođetteijee<s n="n"/></r></p></e>
+    <e><p><l>lassediehtu<s n="n"/></l><r>lasetiätu<s n="n"/></r></p></e>
     <e><p><l>mieldeorrun<s n="n"/></l><r>mieldiorroom<s n="n"/></r></p></e>
     <e><p><l>kriisa<s n="n"/></l><r>kriisâ<s n="n"/></r></p></e>
     <e><p><l>gealdagas<s n="n"/></l><r>keeldâ<s n="n"/></r></p></e>
@@ -511,6 +517,7 @@
     <e><p><l>sámemusea<s n="n"/></l><r>sämimuseo<s n="n"/></r></p></e>
     <e><p><l>váldodoaibma<s n="n"/></l><r>uáivitoimâ<s n="n"/></r></p></e>
     <e><p><l>sámekultuvra<s n="n"/></l><r>sämikulttuur<s n="n"/></r></p></e>
+    <e><p><l>arkitektuvra<s n="n"/></l><r>arkitektuur<s n="n"/></r></p></e>
     <e><p><l>vehádatgiella<s n="n"/></l><r>ucceeblovokielâ<s n="n"/></r></p></e>
     <e><p><l>gievvun<s n="n"/></l><r>kiävulem<s n="n"/></r></p></e>
     <e><p><l>buozanvuohta<s n="n"/></l><r>puácuvuotâ<s n="n"/></r></p></e>
@@ -2620,6 +2627,7 @@
 
     <!-- ASECTION: Verbs -->
     
+    <e><p><l>ratifiseret<s n="vblex"/><s n="tv"/></l><r>ratifisistiđ<s n="vblex"/></r></p></e> 
     <e><p><l>luohpat<s n="vblex"/><s n="tv"/></l><r>luoppâđ<s n="vblex"/></r></p></e> 
     <e><p><l>čavganit<s n="vblex"/><s n="tv"/></l><r>čovgâsiđ<s n="vblex"/></r></p></e> 
     <e><p><l>dáistalit<s n="vblex"/><s n="tv"/></l><r>taištâliđ<s n="vblex"/></r></p></e> 
@@ -3680,6 +3688,10 @@
 
     <!--    BSECTION: Nouns -->
 
+    <e><p><l>diversitehta<s n="n"/></l><r>diversiteet<s n="n"/></r></p></e>
+    <e><p><l>diversiteahtta<s n="n"/></l><r>diversiteet<s n="n"/></r></p></e>
+    <e><p><l>biodiversitehta<s n="n"/></l><r>biodiversiteet<s n="n"/></r></p></e>
+    <e><p><l>biodiversiteahtta<s n="n"/></l><r>biodiversiteet<s n="n"/></r></p></e>
     <e><p><l>video<s n="n"/></l><r>video<s n="n"/></r></p></e>
     <e><p><l>bovdejupmi<s n="n"/></l><r>povdim<s n="n"/></r></p></e>
     <e><p><l>admirála<s n="n"/></l><r>amiraal<s n="n"/></r></p></e>
@@ -4868,6 +4880,8 @@
     <e><p><l>sihkarvuohta<s n="n"/></l><r>torvolâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>siida<s n="n"/></l><r>sijdâ<s n="n"/></r></p></e>
     <e><p><l>siidu<s n="n"/></l><r>sijđo<s n="n"/></r></p></e>
+    <e><p><l>neahttasiidu<s n="n"/></l><r>nettisijđo<s n="n"/></r></p></e>
+    <e><p><l>ruoktosiidu<s n="n"/></l><r>päikkisijđo<s n="n"/></r></p></e>
     <e><p><l>silki<s n="n"/></l><r>silkke<s n="n"/></r></p></e>
     <e><p><l>silli<s n="n"/><s n="g3"/></l><r>sillee<s n="n"/></r></p></e>
     <e><p><l>sirpe<s n="n"/></l><r>sirppi<s n="n"/></r></p></e>
@@ -6271,6 +6285,8 @@
     <e><p><l>čorbma<s n="n"/></l><r>čurmâ<s n="n"/></r></p></e>
     <e><p><l>čotta<s n="n"/></l><r>čuudâ<s n="n"/></r></p></e>
     <e><p><l>čujuhus<s n="n"/></l><r>čujottâs<s n="n"/></r></p></e>
+    <e><p><l>neahttačujuhus<s n="n"/></l><r>nettičujottâs<s n="n"/></r></p></e>
+    <e><p><l>interneahttačujuhus<s n="n"/></l><r>internettičujottâs<s n="n"/></r></p></e>
     <e><p><l>čuoigan<s n="n"/></l><r>čuoigâm<s n="n"/></r></p></e>
     <e><p><l>čuoigi<s n="n"/></l><r>čyeigee<s n="n"/></r></p></e>
     <e><p><l>čuoika<s n="n"/></l><r>čuoškâ<s n="n"/></r></p></e>
