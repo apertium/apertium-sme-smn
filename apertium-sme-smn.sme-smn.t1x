@@ -89,6 +89,8 @@
     </def-cat>
     <def-cat n="nom"> <!-- not @OBJ→ because of change of wordorder   -->
       <cat-item tags="*.n.*.@←ADVL"/>
+      <cat-item tags="*.n.*.@+FMAINV"/>
+      <cat-item tags="*.n.*.@-FMAINV"/>
       <cat-item tags="*.n.*.@ADVL→"/>
       <cat-item tags="*.n.*.@←OBJ"/>
       <cat-item tags="*.n.*.@OPRED→"/>
