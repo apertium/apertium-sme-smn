@@ -321,6 +321,7 @@ MAP (Sem/Domain) (sem_domain);
 MAP (Sem/Domain_Food-med) (sem_domain_food-med);
 MAP (Sem/Domain_Prod-audio) (sem_domain_prod-audio);
 MAP (Sem/Drink) (sem_drink);
+MAP (Sem/Dummytag) (sem_dummytag);
 MAP (Sem/Edu) (sem_edu);
 MAP (Sem/Edu_Event) (sem_edu_event);
 MAP (Sem/Edu_Group_Hum) (sem_edu_group_hum);
