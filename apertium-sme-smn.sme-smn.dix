@@ -2,6 +2,7 @@
 <dictionary>
   <alphabet/>
   <sdefs>
+    <sdef n="hom1"        c="Hom1"/>
     <sdef n="n"        c="Noun"/>
     <sdef n="vblex"        c="Verb"/>
     <sdef n="adj"        c="Adjective"/>
@@ -378,7 +379,7 @@
     <!-- ASECTION: Adjectives -->
     
     <e><p><l>guoskevaš<s n="adj"/><s n="sem_dummytag"/><s n="attr"/></l><r>kuoskâđ<s n="vblex"/><s n="prsprc"/></r></p></e>
-    <e><p><l>gullevaš<s n="adj"/></l><r>kuullâđ<s n="vblex"/><s n="prsprc"/></r></p></e>
+    <e><p><l>gullevaš<s n="adj"/><s n="sem_dummytag"/><s n="attr"/></l><r>kuullâđ¹<s n="vblex"/><s n="prsprc"/></r></p></e>
     <e><p><l>gulavaš<s n="adj"/></l><r>lohtâseijee<s n="adj"/></r></p></e>
     <e><p><l>ravddamuš<s n="adj"/></l><r>robdâmus<s n="adj"/></r></p></e>
     <e><p><l>vealtameahttun<s n="adj"/></l><r>velttidmettum<s n="adj"/></r></p></e>
@@ -486,6 +487,7 @@
     <e><p><l>váidnu<s n="n"/></l><r>váinu<s n="n"/></r></p></e>
     <e><p><l>sisafárrenpolitihkka<s n="n"/></l><r>siisâvarrimpolitiik<s n="n"/></r></p></e>
     <e><p><l>buorringeavaheapmi<s n="n"/></l><r>pyerrinanneem<s n="n"/></r></p></e><!--buorringeavaheapmi váilu sme -->
+    <e><p><l>iešmearradeapmi<s n="n"/></l><r>jiešmearidem<s n="n"/></r></p></e><!--buorringeavaheapmi váilu sme -->
     <e><p><l>álbmogiidvádjolus<s n="n"/></l><r>almugijvajâldem<s n="n"/></r></p></e>
     <e><p><l>olmmošvallji<s n="n"/></l><r>olmoošhivvâdâh<s n="n"/></r></p></e>
     <e><p><l>sisafárren<s n="n"/></l><r>siisâvarrim<s n="n"/></r></p></e>
@@ -501,6 +503,7 @@
     <e><p><l>gávpotbiras<s n="n"/></l><r>kaappugpiirâs<s n="n"/></r></p></e>
     <e><p><l>sitkatvuohta<s n="n"/></l><r>siđhesvuotâ<s n="n"/></r></p></e>
     <e><p><l>iešráđđen<s n="n"/></l><r>jiešhaldâšem<s n="n"/></r></p></e>
+    <e><p><l>iešhálddašeapmi<s n="n"/></l><r>jiešhaldâšem<s n="n"/></r></p></e>
     <e><p><l>álbmotbeaivi<s n="n"/></l><r>aalmugpeivi<s n="n"/></r></p></e>
     <e><p><l>jotkkolašvuohta<s n="n"/></l><r>jotkuuvâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>stereotypiija<s n="n"/></l><r>stereotypia<s n="n"/></r></p></e>
@@ -858,6 +861,7 @@
     <e><p><l>koketteriija<s n="n"/></l><r>koketteria<s n="n"/></r></p></e>
     <e><p><l>teoriija<s n="n"/></l><r>teoria<s n="n"/></r></p></e>
     <e><p><l>autonomiateoriija<s n="n"/></l><r>autonomiateoria<s n="n"/></r></p></e>
+    <e><p><l>autonomiija<s n="n"/></l><r>autonomia<s n="n"/></r></p></e>
     <e><p><l>allegoriija<s n="n"/></l><r>allegoria<s n="n"/></r></p></e>
     <e><p><l>kategoriija<s n="n"/></l><r>kategoria<s n="n"/></r></p></e>
     <e><p><l>kaloriija<s n="n"/></l><r>kaloria<s n="n"/></r></p></e>
@@ -869,6 +873,7 @@
     <e><p><l>symmetriija<s n="n"/></l><r>symmetria<s n="n"/></r></p></e>
     <e><p><l>asymmetriija<s n="n"/></l><r>asymmetria<s n="n"/></r></p></e>
     <e><p><l>trigonometriija<s n="n"/></l><r>trigonometria<s n="n"/></r></p></e>
+    <e><p><l>geometriija<s n="n"/></l><r>geometria<s n="n"/></r></p></e>
     <e><p><l>afasiija<s n="n"/></l><r>afasia<s n="n"/></r></p></e>
     <e><p><l>farmasiija<s n="n"/></l><r>farmasia<s n="n"/></r></p></e>
     <e><p><l>fantasiija<s n="n"/></l><r>fantasia<s n="n"/></r></p></e>
@@ -2798,6 +2803,8 @@
     <e><p><l>deavkat<s n="adj"/></l><r>siävŋus<s n="adj"/></r></p></e>
     <e><p><l>demokráhtalaš<s n="adj"/></l><r>demokraatlâš<s n="adj"/></r></p></e>
     <e><p><l>dievaslaš<s n="adj"/></l><r>tievâslâš<s n="adj"/></r></p></e>
+    <e><p><l>njuolggaduslaš<s n="adj"/></l><r>njuolgâduslâš<s n="adj"/></r></p></e>
+    <e><p><l>eahpenjuolggaduslaš<s n="adj"/></l><r>epinjuolgâduslâš<s n="adj"/></r></p></e>
     <e><p><l>dievasmeahttun<s n="adj"/></l><r>epitievâslâš<s n="adj"/></r></p></e>
     <e><p><l>dieđalaš<s n="adj"/></l><r>tieđâlâš<s n="adj"/></r></p></e>
     <e><p><l>digitála<s n="adj"/></l><r>digitaallâš<s n="adj"/></r></p></e>
@@ -3075,6 +3082,7 @@
     <e><p><l>suttolaš<s n="adj"/></l><r>suddogâs<s n="adj"/></r></p></e>
     <e><p><l>symbolalaš<s n="adj"/></l><r>symbollâš<s n="adj"/></r></p></e>
     <e><p><l>systemáhtalaš<s n="adj"/></l><r>systemaatlâš<s n="adj"/></r></p></e>
+    <e><p><l>eahpesystemáhtalaš<s n="adj"/></l><r>episystemaatlâš<s n="adj"/></r></p></e>
     <e><p><l>sáhppat<s n="adj"/></l><r>violet<s n="adj"/></r></p></e>
     <e><p><l>teknihkalaš<s n="adj"/></l><r>teknisâš<s n="adj"/></r></p></e>
     <e><p><l>tiidii<s n="adj"/></l><r>passaa<s n="adj"/></r></p></e><!-- not in sme -->
@@ -6131,6 +6139,8 @@
     <e><p><l>suovva<s n="n"/></l><r>suovâ<s n="n"/></r></p></e>
     <e><p><l>sykkel<s n="n"/></l><r>pyerá<s n="n"/></r></p></e>
     <e><p><l>systema<s n="n"/></l><r>systeem<s n="n"/></r></p></e>
+    <e><p><l>ekosystema<s n="n"/></l><r>ekosysteem<s n="n"/></r></p></e>
+    <e><p><l>økosystema<s n="n"/></l><r>ekosysteem<s n="n"/></r></p></e>
     <e><p><l>sáhka<s n="n"/></l><r>saahâ<s n="n"/></r></p></e>
     <e><p><l>sáhkku<s n="n"/></l><r>sákku<s n="n"/></r></p></e>
     <e><p><l>sáhppi<s n="n"/></l><r>säppi<s n="n"/></r></p></e>
@@ -6381,6 +6391,7 @@
 
     <!--    BSECTION: Verbs  -->
 
+    <e><p><l>konsulteret<s n="vblex"/><s n="tv"/></l><r>konsulteeriđ<s n="vblex"/></r></p></e>
     <e><p><l>adopteret<s n="vblex"/><s n="tv"/></l><r>adoptistiđ<s n="vblex"/></r></p></e>
     <e><p><l>agáiduvvat<s n="vblex"/><s n="iv"/></l><r>eliluđ<s n="vblex"/></r></p></e>
     <e><p><l>aiddostahttit<s n="vblex"/><s n="tv"/></l><r>tärkkilistiđ<s n="vblex"/></r></p></e>
