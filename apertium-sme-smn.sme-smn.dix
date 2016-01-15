@@ -185,6 +185,11 @@
     <e><p><l>nubbi<s n="prn"/></l><r>nubbe<s n="prn"/></r></p></e>
     <e><p><l>okta<s n="prn"/></l><r>ohtâ<s n="prn"/></r></p></e>
 
+    <e><p><l>iešguhte<s n="adj"/></l><r>jieškote<s n="adj"/></r></p></e>
+    <e><p><l>juogamii<s n="adj"/></l><r>miinii<s n="adj"/></r></p></e>
+    <e><p><l>uhccánaš<s n="adj"/></l><r>ucánjáhháá<s n="adj"/></r></p></e>
+    <e><p><l>unnánaš<s n="adj"/></l><r>siemnáhháá<s n="adj"/></r></p></e>
+
     <!-- ASECTION: Numerals -->
 
     <e><p><l>okta<s n="num"/></l><r>ohtâ<s n="num"/></r></p></e>
@@ -289,6 +294,16 @@
     <e><p><l>goittotge<s n="pcle"/></l><r>kuittâg<s n="pcle"/></r></p></e>
 
     <!-- ASECTION: Adverbs -->
+
+    <e><p><l>áinnas<s n="adv"/></l><r>aainâs<s n="adv"/></r></p></e>
+    <e><p><l>jienajávohaga<s n="adv"/></l><r>jávuttáá<s n="adv"/></r></p></e>
+    <e><p><l>moddii<s n="adv"/></l><r>moddii<s n="adv"/></r></p></e>
+    <e><p><l>eandalii<s n="adv"/></l><r>aainâs-uv<s n="adv"/></r></p></e>
+    <e><p><l>beaivit<s n="adv"/></l><r>peiviv<s n="adv"/></r></p></e>
+    <e><p><l>dađe<s n="adv"/></l><r>tađe<s n="adv"/></r></p></e>
+    <e><p><l>dálvit<s n="adv"/></l><r>tälviv<s n="adv"/></r></p></e>
+    <e><p><l>maŋás<s n="adv"/></l><r>maŋas<s n="adv"/></r></p></e>
+    <e><p><l>mahká<s n="adv"/></l><r>maka<s n="adv"/></r></p></e>
 
     <e><p><l>nuppe<b/>láhkai<s n="adv"/></l><r>nube<b/>naalijn<s n="adv"/></r></p></e>
     <e><p><l>vehá<s n="adv"/></l><r>váhá<s n="adv"/></r></p></e>
@@ -523,6 +538,7 @@
     <e><p><l>antropologalaš<s n="adj"/></l><r>antropolooglâš<s n="adj"/></r></p></e>
     <e><p><l>amerihká<s n="adj"/></l><r>ameriiklâš<s n="adj"/></r></p></e>
     <e><p><l>akademihkalaš<s n="adj"/></l><r>ameriiklâš<s n="adj"/></r></p></e>
+
     <e><p><l>guoskevaš<s n="adj"/><s n="sem_dummytag"/><s n="attr"/></l><r>kuoskâđ<s n="vblex"/><s n="prsprc"/></r></p></e>
     <e><p><l>gullevaš<s n="adj"/><s n="sem_dummytag"/><s n="attr"/></l><r>kuullâđ¹<s n="vblex"/><s n="prsprc"/></r></p></e>
     <e><p><l>gulavaš<s n="adj"/></l><r>lohtâseijee<s n="adj"/></r></p></e>
@@ -985,16 +1001,13 @@
     <e><p><l>ságadoalli<s n="n"/></l><r>saavâjođetteijee<s n="n"/></r></p></e>
     <e><p><l>lassediehtu<s n="n"/></l><r>lasetiätu<s n="n"/></r></p></e>
     <e><p><l>mieldeorrun<s n="n"/></l><r>mieldiorroom<s n="n"/></r></p></e>
-    <e><p><l>kriisa<s n="n"/></l><r>kriisâ<s n="n"/></r></p></e>
     <e><p><l>gealdagas<s n="n"/></l><r>keeldâ<s n="n"/></r></p></e>
     <e><p><l>várra<s n="n"/></l><r>vaarâ<s n="n"/></r></p></e>
     <e><p><l>searvvuš<s n="n"/></l><r>siärvus<s n="n"/></r></p></e>
-    <e><p><l>iešluohttámuš<s n="n"/></l><r>jiešluáttámuš<s n="n"/></r></p></e>
     <e><p><l>fenomena<s n="n"/></l><r>almonem<s n="n"/></r></p></e>
     <e><p><l>balahahkesvuohta<s n="n"/></l><r>vávjálâsvuotâ<s n="n"/></r></p></e>
     <e><p><l>dikšungoddi<s n="n"/></l><r>tipšomkodde<s n="n"/></r></p></e>
     <e><p><l>fápmu<s n="n"/></l><r>vyeimi<s n="n"/></r></p></e>
-    <e><p><l>čuovvumuš<s n="n"/></l><r>čuávumuš<s n="n"/></r></p></e>
     <e><p><l>virgeoapmahaš<s n="n"/></l><r>virgeomâhâš<s n="n"/></r></p></e>
     <e><p><l>váidnu<s n="n"/></l><r>váinu<s n="n"/></r></p></e>
     <e><p><l>sisafárrenpolitihkka<s n="n"/></l><r>siisâvarrimpolitiik<s n="n"/></r></p></e>
@@ -3152,6 +3165,90 @@
     <e><p><l>Čoavččesjávri<s n="np"/></l><r>Čovčjävri<s n="np"/></r></p></e>
 
     <!-- ASECTION: Verbs -->
+
+    <e><p><l>gánnehit<s n="vblex"/><s n="iv"/></l><r>kannattiđ<s n="vblex"/></r></p></e>
+    <e><p><l>čuožžilit<s n="vblex"/><s n="iv"/></l><r>čyežžiliđ<s n="vblex"/></r></p></e>
+    <e><p><l>ovttastuvvat<s n="vblex"/><s n="iv"/></l><r>ovtâstuđ<s n="vblex"/></r></p></e>
+    <e><p><l>bállet<s n="vblex"/><s n="iv"/></l><r>palliđ<s n="vblex"/></r></p></e>
+    <e><p><l>muittašit<s n="vblex"/><s n="tv"/></l><r>muštâččiđ<s n="vblex"/></r></p></e>
+    <e><p><l>dearpat<s n="vblex"/><s n="tv"/></l><r>terppâđ<s n="vblex"/></r></p></e>
+    <e><p><l>ollašuvvat<s n="vblex"/><s n="iv"/></l><r>olášuđ<s n="vblex"/></r></p></e>
+    <e><p><l>hoigadit<s n="vblex"/><s n="tv"/></l><r>uigâdiđ<s n="vblex"/></r></p></e>
+    <e><p><l>čuoččastit<s n="vblex"/><s n="iv"/></l><r>čuožâstiđ<s n="vblex"/></r></p></e>
+    <e><p><l>gárvvásmuvvat<s n="vblex"/><s n="iv"/></l><r>valmâštuđ<s n="vblex"/></r></p></e>
+    <e><p><l>beaggit<s n="vblex"/><s n="iv"/></l><r>peggiđ<s n="vblex"/></r></p></e>
+    <e><p><l>barggildit<s n="vblex"/><s n="iv"/></l><r>pargeldiđ<s n="vblex"/></r></p></e>
+    <e><p><l>váivvidit<s n="vblex"/><s n="tv"/></l><r>väividiđ<s n="vblex"/></r></p></e>
+    <e><p><l>njiedjat<s n="vblex"/><s n="iv"/></l><r>njeeijâđ<s n="vblex"/></r></p></e>
+    <e><p><l>boarásmuvvat<s n="vblex"/><s n="iv"/></l><r>puárásmuđ<s n="vblex"/></r></p></e>
+    <e><p><l>bieđganit<s n="vblex"/><s n="iv"/></l><r>pieđgâniđ<s n="vblex"/></r></p></e>
+    <e><p><l>ealáskit<s n="vblex"/><s n="iv"/></l><r>iäláskiđ<s n="vblex"/></r></p></e>
+    <e><p><l>dádjadit<s n="vblex"/><s n="iv"/></l><r>täiđiđ<s n="vblex"/></r></p></e>
+    <e><p><l>čálašit<s n="vblex"/><s n="tv"/></l><r>čalâččiđ<s n="vblex"/></r></p></e>
+    <e><p><l>oamastit<s n="vblex"/><s n="tv"/></l><r>omâstiđ<s n="vblex"/></r></p></e>
+    <e><p><l>bárddašit<s n="vblex"/><s n="tv"/></l><r>pärttidiđ<s n="vblex"/></r></p></e>
+    <e><p><l>vuorjat<s n="vblex"/><s n="tv"/></l><r>vuorjâđ<s n="vblex"/></r></p></e>
+    <e><p><l>jugistit<s n="vblex"/><s n="tv"/></l><r>julestiđ<s n="vblex"/></r></p></e>
+    <e><p><l>jierásmuvvat<s n="vblex"/><s n="iv"/></l><r>jierestuđ<s n="vblex"/></r></p></e>
+    <e><p><l>badjelgeahččat<s n="vblex"/><s n="tv"/></l><r>pajaluvkeččâđ<s n="vblex"/></r></p></e>
+    <e><p><l>velohallat<s n="vblex"/><s n="iv"/></l><r>viäluttâllâđ<s n="vblex"/></r></p></e>
+    <e><p><l>hutkat<s n="vblex"/><s n="tv"/></l><r>utkâđ<s n="vblex"/></r></p></e>
+    <e><p><l>ádjit<s n="vblex"/><s n="tv"/></l><r>ääijiđ<s n="vblex"/></r></p></e>
+    <e><p><l>veallat<s n="vblex"/><s n="iv"/></l><r>viälláđ<s n="vblex"/></r></p></e>
+    <e><p><l>duolbmat<s n="vblex"/><s n="tv"/></l><r>tuolmâđ<s n="vblex"/></r></p></e>
+    <e><p><l>váivašuvvat<s n="vblex"/><s n="iv"/></l><r>váivášuđ<s n="vblex"/></r></p></e>
+    <e><p><l>oahpistit<s n="vblex"/><s n="tv"/></l><r>uápistiđ<s n="vblex"/></r></p></e>
+    <e><p><l>imaštit<s n="vblex"/><s n="tv"/></l><r>imaštâllâđ<s n="vblex"/></r></p></e>
+    <e><p><l>gáidat<s n="vblex"/><s n="iv"/></l><r>kaidâđ<s n="vblex"/></r></p></e>
+    <e><p><l>loktanit<s n="vblex"/><s n="iv"/></l><r>luptâniđ<s n="vblex"/></r></p></e>
+    <e><p><l>bajásšaddat<s n="vblex"/><s n="iv"/></l><r>šoddâđ<s n="vblex"/></r></p></e>
+    <e><p><l>čákŋat<s n="vblex"/><s n="tv"/></l><r>čaaŋŋâđ<s n="vblex"/></r></p></e>
+    <e><p><l>čáhpodit<s n="vblex"/><s n="iv"/></l><r>čápudiđ<s n="vblex"/></r></p></e>
+    <e><p><l>šaddadit<s n="vblex"/><s n="tv"/></l><r>šoddâdiđ<s n="vblex"/></r></p></e>
+    <e><p><l>soasihit<s n="vblex"/><s n="iv"/></l><r>hirmástuđ<s n="vblex"/></r></p></e>
+    <e><p><l>heađástuvvat<s n="vblex"/><s n="iv"/></l><r>hiäđástuđ<s n="vblex"/></r></p></e>
+    <e><p><l>gávkat<s n="vblex"/><s n="tv"/></l><r>kavkkâđ<s n="vblex"/></r></p></e>
+    <e><p><l>ráhput<s n="vblex"/><s n="tv"/></l><r>rááppuđ<s n="vblex"/></r></p></e>
+    <e><p><l>mieskat<s n="vblex"/><s n="iv"/></l><r>mieskâđ<s n="vblex"/></r></p></e>
+    <e><p><l>gihčat<s n="vblex"/><s n="iv"/></l><r>kicceeđ<s n="vblex"/></r></p></e>
+    <e><p><l>ájahallat<s n="vblex"/><s n="tv"/></l><r>ájáttâllâđ<s n="vblex"/></r></p></e>
+    <e><p><l>vuollánit<s n="vblex"/><s n="iv"/></l><r>vuálániđ<s n="vblex"/></r></p></e>
+    <e><p><l>vuoiŋŋadit<s n="vblex"/><s n="iv"/></l><r>vuoiŋâđ<s n="vblex"/></r></p></e>
+    <e><p><l>rávásmuvvat<s n="vblex"/><s n="iv"/></l><r>rávásmuđ<s n="vblex"/></r></p></e>
+    <e><p><l>muđaldit<s n="vblex"/><s n="iv"/></l><r>mulidiđ<s n="vblex"/></r></p></e>
+    <e><p><l>movttiidit<s n="vblex"/><s n="iv"/></l><r>movtidiđ<s n="vblex"/></r></p></e>
+    <e><p><l>juksat<s n="vblex"/><s n="tv"/></l><r>juksâđ<s n="vblex"/></r></p></e>
+    <e><p><l>háhpohallat<s n="vblex"/><s n="tv"/></l><r>háputtâllâđ<s n="vblex"/></r></p></e>
+    <e><p><l>oskkildit<s n="vblex"/><s n="tv"/></l><r>oskeldiđ<s n="vblex"/></r></p></e>
+    <e><p><l>njáskat<s n="vblex"/><s n="tv"/></l><r>njaskâđ<s n="vblex"/></r></p></e>
+    <e><p><l>njuoskadit<s n="vblex"/><s n="tv"/></l><r>njuoskâdiđ<s n="vblex"/></r></p></e>
+    <e><p><l>leahkkasit<s n="vblex"/><s n="iv"/></l><r>lekkâsiđ<s n="vblex"/></r></p></e>
+    <e><p><l>háhppehit<s n="vblex"/><s n="iv"/></l><r>happiittiđ<s n="vblex"/></r></p></e>
+    <e><p><l>gárgidit<s n="vblex"/><s n="iv"/></l><r>kárgáđ<s n="vblex"/></r></p></e>
+    <e><p><l>guvggodit<s n="vblex"/><s n="iv"/></l><r>kuávgudiđ<s n="vblex"/></r></p></e>
+    <e><p><l>guorrasit<s n="vblex"/><s n="iv"/></l><r>miettâđ<s n="vblex"/></r></p></e>
+    <e><p><l>čoalkalit<s n="vblex"/><s n="tv"/></l><r>čolkkâliđ<s n="vblex"/></r></p></e>
+    <e><p><l>virkkosmuvvat<s n="vblex"/><s n="iv"/></l><r>virkosmiđ<s n="vblex"/></r></p></e>
+    <e><p><l>savkalit<s n="vblex"/><s n="tv"/></l><r>sovkkâliđ<s n="vblex"/></r></p></e>
+    <e><p><l>mulggastit<s n="vblex"/><s n="iv"/></l><r>mulgâstiđ<s n="vblex"/></r></p></e>
+    <e><p><l>muhttašuvvat<s n="vblex"/><s n="iv"/></l><r>muttuđ<s n="vblex"/></r></p></e>
+    <e><p><l>garvvašit<s n="vblex"/><s n="tv"/></l><r>karvattâllâđ<s n="vblex"/></r></p></e>
+    <e><p><l>dálvat<s n="vblex"/><s n="iv"/></l><r>talvâđ<s n="vblex"/></r></p></e>
+    <e><p><l>doarjalit<s n="vblex"/><s n="tv"/></l><r>tuárjuđ<s n="vblex"/></r></p></e>
+    <e><p><l>almmustuvvat<s n="vblex"/><s n="iv"/></l><r>almostuđ<s n="vblex"/></r></p></e>
+    <e><p><l>vuogáiduvvat<s n="vblex"/><s n="iv"/></l><r>vuáháduđ<s n="vblex"/></r></p></e>
+    <e><p><l>sihkastit<s n="vblex"/><s n="tv"/></l><r>sihostiđ<s n="vblex"/></r></p></e>
+    <e><p><l>luohpadit<s n="vblex"/><s n="tv"/></l><r>luovâttiđ<s n="vblex"/></r></p></e>
+    <e><p><l>guottašit<s n="vblex"/><s n="tv"/></l><r>kuádáttâllâđ<s n="vblex"/></r></p></e>
+    <e><p><l>ealašit<s n="vblex"/><s n="tv"/></l><r>elâččiđ<s n="vblex"/></r></p></e>
+    <e><p><l>bohtanit<s n="vblex"/><s n="iv"/></l><r>puttâniđ<s n="vblex"/></r></p></e>
+    <e><p><l>čáskadit<s n="vblex"/><s n="tv"/></l><r>časkâttiđ<s n="vblex"/></r></p></e>
+    <e><p><l>čáhcut<s n="vblex"/><s n="iv"/></l><r>čááccuđ<s n="vblex"/></r></p></e>
+    <e><p><l>šurrat<s n="vblex"/><s n="iv"/></l><r>šuridiđ<s n="vblex"/></r></p></e>
+    <e><p><l>áittardit<s n="vblex"/><s n="tv"/></l><r>huolâttiđ<s n="vblex"/></r></p></e>
+    <e><p><l>sirddašit<s n="vblex"/><s n="tv"/></l><r>sirdâččiđ<s n="vblex"/></r></p></e>
+    <e><p><l>runiidit<s n="vblex"/><s n="iv"/></l><r>ruonijdškyettiđ<s n="vblex"/></r></p></e>
+
     
     <e><p><l>gánnehit<s n="vblex"/><s n="iv"/></l><r>kannattiđ<s n="vblex"/></r></p></e> 
     <e><p><l>čuožžilit<s n="vblex"/><s n="iv"/></l><r>čyežžiliđ<s n="vblex"/></r></p></e> 
@@ -5493,7 +5590,6 @@
     <e><p><l>siida<s n="n"/></l><r>sijdâ<s n="n"/></r></p></e>
     <e><p><l>siidu<s n="n"/></l><r>sijđo<s n="n"/></r></p></e>
     <e><p><l>neahttasiidu<s n="n"/></l><r>nettisijđo<s n="n"/></r></p></e>
-    <e><p><l>ruoktosiidu<s n="n"/></l><r>päikkisijđo<s n="n"/></r></p></e>
     <e><p><l>silki<s n="n"/></l><r>silkke<s n="n"/></r></p></e>
     <e><p><l>silli<s n="n"/><s n="g3"/></l><r>sillee<s n="n"/></r></p></e>
     <e><p><l>sirpe<s n="n"/></l><r>sirppi<s n="n"/></r></p></e>
