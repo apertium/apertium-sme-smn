@@ -389,7 +389,7 @@
     <e><p><l>seksuálalaš<s n="adj"/></l><r>seksuaallâš<s n="adj"/></r></p></e>
     <e><p><l>ilgat<s n="adj"/></l><r>ilgâd<s n="adj"/></r></p></e>
     <e><p><l>ihttáš<s n="adj"/></l><r>ittááš<s n="adj"/></r></p></e>
-    <e><p><l>sulágan<s n="adj"/></l><r>suu lágán<s n="adj"/></r></p></e>
+    <e><p><l>sulágan<s n="adj"/></l><r>suu<b/>lágán<s n="adj"/></r></p></e>
     <e><p><l>guđelágan<s n="adj"/></l><r>kođelágán<s n="adj"/></r></p></e>
     <e><p><l>gielaheapme<s n="adj"/></l><r>kielâttem<s n="adj"/></r></p></e>
     <e><p><l>buiga<s n="adj"/></l><r>puigâ<s n="adj"/></r></p></e>
@@ -443,8 +443,8 @@
     <e><p><l>mangelágan<s n="adj"/></l><r>monnânlágán<s n="adj"/></r></p></e>
     <e><p><l>ilgadit<s n="adj"/></l><r>ilgâdávt<s n="adj"/></r></p></e>
     <e><p><l>iešdáhtolaš<s n="adj"/></l><r>jieštátulâš<s n="adj"/></r></p></e>
-    <e><p><l>ievttáš<s n="adj"/></l><r>jiävttáš<s n="adj"/></r></p></e>
-    <e><p><l>hárvenaš<s n="adj"/></l><r>harviinâš<s n="adj"/></r></p></e>
+    <e><p><l>ievttáš<s n="adj"/></l><r>jiävtáš<s n="adj"/></r></p></e>
+    <e><p><l>hárvenaš<s n="adj"/></l><r>härvinâš<s n="adj"/></r></p></e>
     <e><p><l>guoktilaš<s n="adj"/></l><r>kyehtilâš<s n="adj"/></r></p></e>
     <e><p><l>eavttuheapme<s n="adj"/></l><r>iävtuttem<s n="adj"/></r></p></e>
     <e><p><l>dássit<s n="adj"/></l><r>täässiv<s n="adj"/></r></p></e>
@@ -465,7 +465,7 @@
     <e><p><l>mávssuheapme<s n="adj"/></l><r>máávsuttem<s n="adj"/></r></p></e>
     <e><p><l>maŋŋálas<s n="adj"/></l><r>maŋalâs<s n="adj"/></r></p></e>
     <e><p><l>konservatiivvalaš<s n="adj"/></l><r>konservativlâš<s n="adj"/></r></p></e>
-    <e><p><l>konservatiiva<s n="adj"/></l><r>konservativ<s n="adj"/></r></p></e>
+    <e><p><l>konservatiiva<s n="adj"/></l><r>konservativlâš<s n="adj"/></r></p></e>
     <e><p><l>juovvái<s n="adj"/></l><r>juovvii<s n="adj"/></r></p></e>
     <e><p><l>julbmi<s n="adj"/></l><r>julme<s n="adj"/></r></p></e>
     <e><p><l>iešráhkis<s n="adj"/></l><r>jiešräähis<s n="adj"/></r></p></e>
@@ -521,7 +521,7 @@
     <e><p><l>biillaheapme<s n="adj"/></l><r>autottem<s n="adj"/></r></p></e>
     <e><p><l>badjelmearálaš<s n="adj"/></l><r>paijeelmiärálâš<s n="adj"/></r></p></e>
     <e><p><l>antropologalaš<s n="adj"/></l><r>antropolooglâš<s n="adj"/></r></p></e>
-    <e><p><l>amerihká<s n="adj"/></l><r>ameriik<s n="adj"/></r></p></e>
+    <e><p><l>amerihká<s n="adj"/></l><r>ameriiklâš<s n="adj"/></r></p></e>
     <e><p><l>akademihkalaš<s n="adj"/></l><r>ameriiklâš<s n="adj"/></r></p></e>
     <e><p><l>guoskevaš<s n="adj"/><s n="sem_dummytag"/><s n="attr"/></l><r>kuoskâđ<s n="vblex"/><s n="prsprc"/></r></p></e>
     <e><p><l>gullevaš<s n="adj"/><s n="sem_dummytag"/><s n="attr"/></l><r>kuullâđ¹<s n="vblex"/><s n="prsprc"/></r></p></e>
@@ -562,7 +562,7 @@
     <e><p><l>alit<s n="adj"/></l><r>čuovjâd<s n="adj"/></r></p></e>
     <e><p><l>árbevirolaš<s n="adj"/></l><r>ärbivuáválâš<s n="adj"/></r></p></e>
 
-    <e><p><l>abstrákta<s n="adj"/></l><r>abstrakt<s n="adj"/></r></p></e>
+    <e><p><l>abstrákta<s n="adj"/></l><r>abstraktâ<s n="adj"/></r></p></e>
     <e><p><l>addes<s n="adj"/></l><r>adelâš<s n="adj"/></r></p></e>
     <e><p><l>addi<s n="adj"/></l><r>adeleijee<s n="adj"/></r></p></e>
     <e><p><l>addálas<s n="adj"/></l><r>adelâš<s n="adj"/></r></p></e>
@@ -3185,7 +3185,7 @@
     <e><p><l>duolbmat<s n="vblex"/><s n="tv"/></l><r>tuolmâđ<s n="vblex"/></r></p></e> 
     <e><p><l>váivašuvvat<s n="vblex"/><s n="iv"/></l><r>váivášuđ<s n="vblex"/></r></p></e> 
     <e><p><l>oahpistit<s n="vblex"/><s n="tv"/></l><r>uápistiđ<s n="vblex"/></r></p></e> 
-    <e><p><l>imaštit<s n="vblex"/><s n="tv"/></l><r>imaštâllâđ<s n="vblex"/></r></p></e> 
+    <e><p><l>imaštit<s n="vblex"/><s n="tv"/></l><r>imâštâllâđ<s n="vblex"/></r></p></e> 
     <e><p><l>gáidat<s n="vblex"/><s n="iv"/></l><r>kaidâđ<s n="vblex"/></r></p></e> 
     <e><p><l>loktanit<s n="vblex"/><s n="iv"/></l><r>luptâniđ<s n="vblex"/></r></p></e> 
     <e><p><l>bajásšaddat<s n="vblex"/><s n="iv"/></l><r>šoddâđ<s n="vblex"/></r></p></e> 
