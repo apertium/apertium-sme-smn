@@ -2279,15 +2279,16 @@
       </pattern>     
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
-        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-       <call-macro n="agreement-adj-ind-pl-2Posit"><with-param pos="1"/><with-param pos="2"/></call-macro>
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <choose><when>
          <test><equal><clip pos="1" side="tl" part="lem"/><lit v="puohah"/></equal>
            </test>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
-       </when></choose>
+       <call-macro n="agreement-adj-ind-pl-2Posit"><with-param pos="1"/><with-param pos="2"/></call-macro>
+       </when>
+        </choose>
        <out>
           <chunk name="agreement-np">
             <tags>
