@@ -417,6 +417,19 @@ Write comments to forthcoming rules before this line -->
 	<match lemma="dávvir" tags="n.*"/> </or>
   </rule>
 
+  <rule weight="0.6">
+    <match lemma="buot" tags="prn.*">
+      <select lemma="puohah"/>
+    </match>
+
+	<match/>
+	<or>
+	<match tags="n.sem_hum.*"/>
+	<match tags="n.*.sem_hum.*"/>
+	<match tags="n.sem_ani.*"/>
+	<match lemma="dávvir" tags="n.*"/> </or>
+  </rule>
+
 
 
 </rules>
