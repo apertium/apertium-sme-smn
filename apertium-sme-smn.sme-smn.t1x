@@ -309,10 +309,11 @@
       <cat-item tags="n.*.sg.ill.*"/>                    
       <cat-item tags="n.*.sg.loc.*"/>                    
       <cat-item tags="n.*.*.ess.*"/>                    
+      <cat-item tags="n.*.ess.*"/>                    
+      <cat-item tags="n.ess.*"/>                    
       <cat-item tags="n.*.*.sg.gen.*"/>                    
       <cat-item tags="n.*.*.sg.ill.*"/>                    
       <cat-item tags="n.*.*.sg.loc.*"/>                    
-      <cat-item tags="n.*.*.ess.*"/>                    
     </def-cat>  
     <def-cat n="agreem-sg">                             
       <cat-item tags="n.*.sg.nom.*"/>                   
@@ -849,6 +850,16 @@
             <clip pos="1" side="tl" part="a_comp-superl"/>
             <lit v=""/>
           </let>
+    </def-macro>
+    <def-macro n="agreement-adj-ind-sg-gen-2Posit" npar="2">   <!-- sg prn, num, ord , half agreement -->
+        <let>
+          <clip pos="1" side="tl" part="tags"/>
+		<concat>
+		  <clip pos="1" side="tl" part="a_npagree_type"/>
+		  <clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/>
+		  <clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/> 
+		</concat>                
+        </let> 
     </def-macro>
     <def-macro n="agreement-adj-ind-sg-2Posit" npar="2">   <!-- sg prn, num, ord , full agreement -->
         <let>
@@ -2124,21 +2135,18 @@
         </out>
       </action>                                  
     </rule> -->
-    <rule comment="REGLA: agreement-attr n-sg-gen">                                             
+    <rule comment="REGLA: agreement-attr n-sg-gen">  <!-- sámegiela vuosttas giellan - sämikielâ vuosmuu kiellân -->                                         
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
         <pattern-item n="agreem-sg-gen"/>                   
       </pattern>     
       <action>
-        <let>
-        	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="adj.ord.sg.gen"/>                
-        </let> 
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="agreement-adj-ind-sg-gen-2Posit"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="agreement-np">
             <tags>
@@ -2191,7 +2199,7 @@
       </action>                                  
     </rule>  
 
-    <rule comment="REGLA: agreement-num-attr n-sg-com "> <!-- Mun válddán oktanuppelogi girjji. - vitnubáluvvijn pajeuáppein. -->                                            
+    <rule comment="REGLA: agreement-num-attr n-sg-com "> <!--  vitnubáluvvijn pajeuáppein. -->                                            
       <pattern>                                        
         <pattern-item n="numattr"/>                 
         <pattern-item n="n-sg-accgen"/>                   
