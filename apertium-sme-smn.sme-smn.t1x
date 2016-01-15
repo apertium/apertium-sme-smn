@@ -172,8 +172,8 @@
    </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
-      <cat-item tags="n.der_sâš.adj.*"/>
-      <cat-item tags="n.der_lâš.adj.*"/>
+      <cat-item tags="n.der_sas.adj.*"/>
+      <cat-item tags="n.der_las.adj.*"/>
       <cat-item tags="n.der_laš.adj.*"/>
       <cat-item tags="n.der_saš.adj.*"/>
     </def-cat>
@@ -443,13 +443,17 @@
        <attr-item tags="der_passl"/>
        <attr-item tags="der_ahtti"/>
        <attr-item tags="der_vuohta"/>
+       <attr-item tags="der_vuota"/>
        <attr-item tags="der_d"/>
        <attr-item tags="der_h"/>
        <attr-item tags="der_t"/>
        <attr-item tags="der_lágan"/>
+       <attr-item tags="der_lagan"/>
        <attr-item tags="der_nammasaš"/>
         <attr-item tags="der_saš"/>
         <attr-item tags="der_laš"/>
+        <attr-item tags="der_sas"/>
+        <attr-item tags="der_las"/>
    </def-attr>
 
     <def-attr n="a_sem">
@@ -926,13 +930,13 @@
           <test>
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_vuohta"/></equal>
           </test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_vuotâ"/></let> 
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_vuota"/></let> 
         </when>
         <when>
           <test>
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_laš"/></equal>
           </test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_lâš"/></let> 
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_las"/></let> 
         </when>
 
         <when>
@@ -951,7 +955,7 @@
           <test>
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_saš"/></equal>
           </test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_sâš"/></let> 
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_sas"/></let> 
         </when>
          <when>
           <test>
