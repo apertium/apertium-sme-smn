@@ -553,6 +553,7 @@
       <attr-item tags="sem_event_time"/>
       <attr-item tags="sem_feat"/>
       <attr-item tags="sem_feat-measr"/>
+      <attr-item tags="sem_feat-measr_plc"/>
       <attr-item tags="sem_feat-phys"/>
       <attr-item tags="sem_feat-phys_tool-write"/>
       <attr-item tags="sem_feat-phys_veh"/>
@@ -615,6 +616,7 @@
       <attr-item tags="sem_obj_state"/>
       <attr-item tags="sem_org"/>
       <attr-item tags="sem_org_clth-jewl"/>
+      <attr-item tags="sem_org_prod-cogn"/>
       <attr-item tags="sem_org_rule"/>
       <attr-item tags="sem_org_txt"/>
       <attr-item tags="sem_org_veh"/>
