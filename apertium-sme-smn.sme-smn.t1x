@@ -198,14 +198,16 @@
       <cat-item lemma="boaris" tags="adj.*"/>
     </def-cat>
      <def-cat n="agreement-buot">
-      <cat-item lemma="buot" tags="adj.attr.*"/>
       <cat-item lemma="buot" tags="prn.ind.attr.*"/>
     </def-cat>
     <def-cat n="agreement-attr">                             
       <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!--  put under vuosttaš as lemma in sme -->                   
       <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/> 
+      <cat-item lemma="dárbbašlaš" tags="adj.*.attr.*"/> 
       <cat-item lemma="dárbbašlaš" tags="adj.attr.*"/> 
+      <cat-item lemma="dálá" tags="adj.*.attr.*"/> 
       <cat-item lemma="dálá" tags="adj.attr.*"/> 
+      <cat-item lemma="guovddáš" tags="adj.*.attr.*"/> 
       <cat-item lemma="guovddáš" tags="adj.attr.*"/> 
       <cat-item lemma="muhtun" tags="prn.ind.attr.*"/> 
       <cat-item lemma="makkár" tags="prn.ind.*"/>
@@ -307,15 +309,10 @@
       <cat-item tags="prn.*.p1.du.gen.*"/>                     
     </def-cat>  
     <def-cat n="agreem-sg-gen">                             
-      <cat-item tags="n.*.sg.gen.*"/>                    
-      <cat-item tags="n.*.sg.ill.*"/>                    
-      <cat-item tags="n.*.sg.loc.*"/>                    
-      <cat-item tags="n.*.*.ess.*"/>                    
-      <cat-item tags="n.*.ess.*"/>                    
-      <cat-item tags="n.ess.*"/>                    
-      <cat-item tags="n.*.*.sg.gen.*"/>                    
-      <cat-item tags="n.*.*.sg.ill.*"/>                    
-      <cat-item tags="n.*.*.sg.loc.*"/>                    
+      <cat-item tags="*.sg.gen.*"/>                    
+      <cat-item tags="*.sg.ill.*"/>                    
+      <cat-item tags="*.sg.loc.*"/>                    
+      <cat-item tags="*.ess.*"/>                    
     </def-cat>  
     <def-cat n="agreem-sg">                             
       <cat-item tags="*.sg.nom.*"/>                   
@@ -1380,7 +1377,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: adj attr nomcmp">
+<!--    <rule comment="REGLA: adj attr nomcmp">
       <pattern>
         <pattern-item n="attr"/>
         <pattern-item n="nomcmp"/>
@@ -1417,7 +1414,7 @@
         </chunk>
         </out>
       </action>
-    </rule>
+    </rule> -->
     <rule comment="REGLA: numcmp"> <!-- viđajahkásaš - viiđâihásâš -->
       <pattern>
         <pattern-item n="numcmp"/>
@@ -2106,6 +2103,7 @@
         </out>
       </action>                                  
     </rule> 
+
     
 <!--      <rule comment="REGLA: agreement-attr attr n-sg agreement">   This is not always true: puoh tárbulijd tooimâid.
       <pattern>                                        
