@@ -288,6 +288,7 @@ Write comments to forthcoming rules before this line -->
     <or><match lemma="vuolgit" tags="vblex.*"/>
     </or>
 	<or><match tags="n.sem_hum.*"/>
+	<match tags="n.*.sem_hum.*"/>
 	<match tags="n.sem_ani.*"/>
 	<match tags="prn.pers.*"/></or>
     <match lemma="mielde" tags="post.*">
@@ -307,6 +308,7 @@ Write comments to forthcoming rules before this line -->
 	<match lemma="guhte"/>
 	<match tags="prn.pers.*"/>
 	<match tags="n.sem_hum.*"/>
+	<match tags="n.*.sem_hum.*"/>
 	<match tags="n.sem_ani.*"/>
 	<match tags="prn.ref.*"/> </or>
     <match lemma="mielde" tags="post.*">
@@ -385,6 +387,30 @@ Write comments to forthcoming rules before this line -->
       <select lemma="nubebel"/>
     </match>
      <match lemma="beallai"/>
+  </rule>
+
+  <rule weight="1.0">
+    <match lemma="buot" tags="prn.*">
+      <select lemma="puoh"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="buot" tags="prn.*">
+      <select lemma="puohah"/>
+    </match> 
+  </rule>
+
+
+  <rule weight="0.6">
+    <match lemma="buot" tags="prn.*">
+      <select lemma="puohah"/>
+    </match>
+	<or>
+	<match tags="n.sem_hum.*"/>
+	<match tags="n.*.sem_hum.*"/>
+	<match tags="n.sem_ani.*"/>
+	<match lemma="dávvir" tags="n.*"/> </or>
   </rule>
 
 

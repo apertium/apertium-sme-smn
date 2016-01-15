@@ -3,9 +3,6 @@
 <transfer default="chunk">
 
   <section-def-cats>
-<!--     <def-cat n="feara">
-      <cat-item lemma="feara" tags="adv.*"/>
-    </def-cat> -->
      <def-cat n="gosage">
       <cat-item lemma="gosa" tags="adv"/>
       <cat-item lemma="gii" tags="prn.ind.*"/>
@@ -200,12 +197,17 @@
      <def-cat n="boaris">
       <cat-item lemma="boaris" tags="adj.*"/>
     </def-cat>
+     <def-cat n="agreement-buot">
+      <cat-item lemma="buot" tags="adj.attr.*"/>
+      <cat-item lemma="buot" tags="prn.ind.attr.*"/>
+    </def-cat>
     <def-cat n="agreement-attr">                             
       <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!--  put under vuosttaš as lemma in sme -->                   
       <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/> 
       <cat-item lemma="dárbbašlaš" tags="adj.attr.*"/> 
+      <cat-item lemma="dálá" tags="adj.attr.*"/> 
+      <cat-item lemma="guovddáš" tags="adj.attr.*"/> 
       <cat-item lemma="muhtun" tags="prn.ind.attr.*"/> 
-      <cat-item lemma="buot" tags="prn.ind.attr.*"/>
       <cat-item lemma="makkár" tags="prn.ind.*"/>
       <cat-item lemma="makkár" tags="prn.itg.*"/>
       <cat-item lemma="guhtemuš" tags="prn.itg.*"/>
@@ -316,29 +318,18 @@
       <cat-item tags="n.*.*.sg.loc.*"/>                    
     </def-cat>  
     <def-cat n="agreem-sg">                             
-      <cat-item tags="n.*.sg.nom.*"/>                   
-      <cat-item tags="n.*.sg.acc.*"/>                    
-      <cat-item tags="n.*.sg.com.*"/>                    
-      <cat-item tags="n.*.*.sg.nom.*"/>                   
-      <cat-item tags="n.*.*.sg.acc.*"/>                    
-      <cat-item tags="n.*.*.sg.com.*"/>                    
+      <cat-item tags="*.sg.nom.*"/>                   
+      <cat-item tags="*.sg.acc.*"/>                    
+      <cat-item tags="*.sg.com.*"/>                    
     </def-cat>  
-
     <def-cat n="agreem-pl">                             
-      <cat-item tags="n.*.pl.nom.*"/>                    
-      <cat-item tags="n.*.pl.gen.*"/>                    
-      <cat-item tags="n.*.pl.acc.*"/>                    
-      <cat-item tags="n.*.pl.ill.*"/>                    
-      <cat-item tags="n.*.pl.loc.*"/>                    
-      <cat-item tags="n.*.pl.abe.*"/>                    
-      <cat-item tags="n.*.pl.com.*"/>      
-      <cat-item tags="n.*.*.pl.nom.*"/>                    
-      <cat-item tags="n.*.*.pl.gen.*"/>                    
-      <cat-item tags="n.*.*.pl.acc.*"/>                    
-      <cat-item tags="n.*.*.pl.ill.*"/>                    
-      <cat-item tags="n.*.*.pl.loc.*"/>                    
-      <cat-item tags="n.*.*.pl.abe.*"/>                    
-     <cat-item tags="n.*.*.pl.com.*"/>      
+      <cat-item tags="*.pl.nom.*"/>                    
+      <cat-item tags="*.pl.gen.*"/>                    
+      <cat-item tags="*.pl.acc.*"/>                    
+      <cat-item tags="*.pl.ill.*"/>                    
+      <cat-item tags="*.pl.loc.*"/>                    
+      <cat-item tags="*.pl.abe.*"/>                    
+      <cat-item tags="*.pl.com.*"/>      
     </def-cat>  
       <def-cat n="attr">                             
       <cat-item tags="*.attr.*"/>                    
@@ -854,11 +845,11 @@
     <def-macro n="agreement-adj-ind-sg-gen-2Posit" npar="2">   <!-- sg prn, num, ord , half agreement -->
         <let>
           <clip pos="1" side="tl" part="tags"/>
-		<concat>
-		  <clip pos="1" side="tl" part="a_npagree_type"/>
-		  <clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/>
-		  <clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/> 
-		</concat>                
+               <concat>
+                 <clip pos="1" side="tl" part="a_npagree_type"/>
+                 <clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/>
+                 <clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/> 
+               </concat>                
         </let> 
     </def-macro>
     <def-macro n="agreement-adj-ind-sg-2Posit" npar="2">   <!-- sg prn, num, ord , full agreement -->
@@ -1224,6 +1215,8 @@
        <pattern-item n="obj_l"/>
       </pattern>
       <action>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
@@ -1255,6 +1248,9 @@
        <pattern-item n="obj_l"/>
       </pattern>
       <action>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
@@ -1391,6 +1387,8 @@
         <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
@@ -1979,6 +1977,8 @@
         <pattern-item n="n-sg-accgen"/>                   
       </pattern>     
       <action>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
@@ -2027,6 +2027,8 @@
         <pattern-item n="n-sg-accgen"/>                   
       </pattern>     
       <action>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="4"/></call-macro>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
@@ -2270,7 +2272,40 @@
         
       </action>                                  
     </rule> 
-    
+     <rule comment="REGLA: agreement puohah n-pl"> 
+      <pattern>                                        
+        <pattern-item n="agreement-buot"/>                 
+        <pattern-item n="agreem-pl"/>                   
+      </pattern>     
+      <action>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+       <call-macro n="agreement-adj-ind-pl-2Posit"><with-param pos="1"/><with-param pos="2"/></call-macro>
+        <choose><when>
+         <test><equal><clip pos="1" side="tl" part="lem"/><lit v="puohah"/></equal>
+           </test>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+       </when></choose>
+       <out>
+          <chunk name="agreement-np">
+            <tags>
+              <tag><lit-tag v="SM"/></tag>
+            </tags>
+	        <lu>
+              <clip pos="1" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>    
+	        </lu>
+          </chunk>
+        </out>
+        
+      </action>                                  
+    </rule> 
+   
     <rule comment="REGLA: dem-pl-com n-pl-com"> <!-- Dáiguin mašiinnaiguin lea álki goarrut. - Taiguin mašinijguin lii älkkee kuárruđ. -->
       <pattern>                                        
         <pattern-item n="prn-pl-com"/>                 
