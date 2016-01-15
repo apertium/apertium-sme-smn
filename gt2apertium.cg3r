@@ -146,7 +146,7 @@ MAP (Com) (com);
 MAP (Comp) (comp);
 MAP (Cond) (cond);
 MAP (ConNeg) (conneg);
-MAP (ConNegII) (conneg);
+MAP (ConNegII) (connegii);
 MAP (Dem) (dem);
 MAP (Der/A) (der_a);
 MAP (Der/adda) (der_adda);
