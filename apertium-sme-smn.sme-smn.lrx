@@ -334,6 +334,9 @@ Write comments to forthcoming rules before this line -->
     <or>
     <match tags="num.*"/>
     <match lemma="diehtu"/>
+    <match lemma="árvu"/>
+    <match lemma="láhka"/>
+    <match lemma="vuođđoláhka"/>
     </or>
     <match lemma="mielde" tags="adv.*">
       <select lemma="mield"/>
