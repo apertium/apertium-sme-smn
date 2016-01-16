@@ -400,6 +400,7 @@ MAP (Sem/Org_Prod-cogn) (sem_org_prod-cogn);
 MAP (Sem/Org_Rule) (sem_org_rule);
 MAP (Sem/Org_Txt) (sem_org_txt);
 MAP (Sem/Org_Veh) (sem_org_veh);
+MAP (Sem/Org_Prod-cogn) (sem_org_prod-cogn);
 MAP (Sem/Part) (sem_part);
 MAP (Sem/Part_Prod-cogn) (sem_part_prod-cogn);
 MAP (Sem/Perc-cogn) (sem_perc-cogn);
