@@ -314,6 +314,7 @@
       <cat-item tags="n.*.sg.ill.*"/>                    
       <cat-item tags="n.*.sg.loc.*"/>                    
       <cat-item tags="n.*.ess.*"/>                    
+      <cat-item tags="n.ess.*"/>                    
       <cat-item tags="*.n.sg.gen.*"/>                    
       <cat-item tags="*.n.sg.ill.*"/>                    
       <cat-item tags="*.n.sg.loc.*"/>                    
@@ -2119,6 +2120,41 @@
       </action>                                  
     </rule> 
 
+    <rule comment="REGLA: agreement-attr attr n-sg agreement">  <!-- vuosttas dievas girji - vuosmuš oles kirje -->                                          
+      <pattern>                                        
+        <pattern-item n="agreement-attr"/>                 
+        <pattern-item n="attr"/>                 
+        <pattern-item n="agreem-sg"/>                   
+      </pattern>     
+      <action>
+        <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
+        <call-macro n="agreement-adj-ind-sg-2Posit"><with-param pos="1"/><with-param pos="3"/></call-macro>
+        <out>
+          <chunk name="agreement-np">
+            <tags>
+              <tag><lit-tag v="SM"/></tag>
+            </tags>
+	        <lu>
+              <clip pos="1" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+	        <lu>
+              <clip pos="2" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>    
+	        </lu>
+          </chunk>
+        </out>
+      </action>                                  
+    </rule> 
+
+
     <rule comment="REGLA: agreement-attr cmp n-sg agreement">  <!-- vuosttaš biilagirji - vuosmuš autokirje -->                                           
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
@@ -2154,8 +2190,50 @@
       </action>                                  
     </rule> 
 
+    <rule comment="REGLA: agreement-attr cmp n-sg agreement">  <!-- vuosttas albma biilagirji - vuosmuš olmâ autokirje -->
+      <pattern>                                        
+        <pattern-item n="agreement-attr"/>                 
+        <pattern-item n="attr"/>
+        <pattern-item n="nomcmp"/>
+        <pattern-item n="agreem-sg"/>                   
+      </pattern>     
+      <action>
+        <let><clip pos="4" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="4" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="4"/></call-macro>
+        <call-macro n="agreement-adj-ind-sg-2Posit"><with-param pos="1"/><with-param pos="4"/></call-macro>
+        <out>
+          <chunk name="agreement-np">
+            <tags>
+              <tag><lit-tag v="SM"/></tag>
+            </tags>
+	        <lu>
+              <clip pos="1" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+	        <lu>
+              <clip pos="2" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+            <mlu>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>    
+	        </lu>
+              <lu>
+              <clip pos="4" side="tl" part="whole"/>
+            </lu>
+             </mlu>
+          </chunk>
+        </out>
+      </action>                                  
+    </rule> 
 
-    <rule comment="REGLA: agreement-attr n-sg-gen">  <!-- sámegiela vuosttas giellan - sämikielâ vuosmuu kiellân -->                                         
+
+    <rule comment="REGLA: agreement-attr n-sg-gen">  <!-- sámegiella vuosttas giellan - sämikielâ vuosmuu kiellân -->                                         
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
         <pattern-item n="agreem-sg-gen"/>                   
@@ -2185,8 +2263,45 @@
       </action>                                  
     </rule>  
 
+    <rule comment="REGLA: agreement-attr n-sg-gen">  <!-- sámegiella vuosttas albma giellan - sämikielâ vuosmuu olmâ kiellân -->                                         
+      <pattern>                                        
+        <pattern-item n="agreement-attr"/>                 
+        <pattern-item n="attr"/>                 
+        <pattern-item n="agreem-sg-gen"/>                   
+      </pattern>     
+      <action>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
+        <call-macro n="agreement-adj-ind-sg-gen-1Posit"><with-param pos="1"/></call-macro>
+        <out>
+          <chunk name="agreement-np">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	        <lu>
+              <clip pos="1" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+	        <lu>
+              <clip pos="2" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>    
+	        </lu>
+          </chunk>
+        </out>
+        
+      </action>                                  
+    </rule>  
 
-    <rule comment="REGLA: agreement-attr cmp n-sg-gen">  <!-- vuosttaš biilagirjá - vuosmuu autokiirján -->                                         
+
+    <rule comment="REGLA: agreement-attr cmp n-sg-gen">  <!-- vuosttaš biilagirjái - vuosmuu autokiirján -->                                         
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
         <pattern-item n="nomcmp"/>
@@ -2223,9 +2338,52 @@
       </action>                                  
     </rule>  
 
+    <rule comment="REGLA: agreement-attr attr cmp n-sg-gen">  <!-- vuosttaš albma biilagirjái - vuosmuu olmâ autokiirján -->                                         
+      <pattern>                                        
+        <pattern-item n="agreement-attr"/>                 
+        <pattern-item n="attr"/>
+        <pattern-item n="nomcmp"/>
+        <pattern-item n="agreem-sg-gen"/>                   
+      </pattern>     
+      <action>
+         <call-macro n="convert-deriv-1Posit"><with-param pos="4"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="4"/></call-macro>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
+        <let><clip pos="4" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="4" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
+        <call-macro n="agreement-adj-ind-sg-gen-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="agreement-adj-ind-sg-gen-1Posit"><with-param pos="2"/></call-macro>
+        <out>
+          <chunk name="agreement-np">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	        <lu>
+              <clip pos="1" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+	        <lu>
+              <clip pos="2" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+            <mlu>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>    
+	        </lu>
+              <lu>
+              <clip pos="4" side="tl" part="whole"/>
+            </lu>
+             </mlu>
+         </chunk>
+        </out>
+        
+      </action>                                  
+    </rule>  
 
 
-    <rule comment="REGLA: agreement-num-attr n-sg-com "> <!-- vihttanuppelot studeanttain - vitnubáluvvijn pajeuáppein. -->                                            
+    <rule comment="REGLA: agreement-num-attr n-sg-com "> <!-- hupmen vihttanuppelot studeanttain - sarnum vitnubáluvvijn pajeuáppein. -->                                            
       <pattern>                                        
         <pattern-item n="numattr"/>                 
         <pattern-item n="n-sg-com"/>                   
@@ -2252,6 +2410,47 @@
 	        <b/>
             <lu>
               <clip pos="2" side="tl" part="whole"/>    
+	        </lu>
+          </chunk>
+        </out>
+        
+      </action>                                  
+    </rule>  
+
+    <rule comment="REGLA: agreement-num-attr n-sg-com "> <!-- hupmen vihttanuppelot čeahpes studeanttain - sarnum vitnubáluvvijn čepis pajeuáppein. -->                                            
+      <pattern>                                        
+        <pattern-item n="numattr"/>                 
+        <pattern-item n="attr"/>                 
+        <pattern-item n="n-sg-com"/>                   
+      </pattern>     
+      <action>
+        <let>
+        	<clip pos="1" side="tl" part="tags"/>
+            <lit-tag v="num.sg.com"/>                
+        </let> 
+        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
+        <out>
+          <chunk name="agreement-np">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	        <lu>
+              <clip pos="1" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+	        <lu>
+              <clip pos="2" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>    
 	        </lu>
           </chunk>
         </out>
@@ -2302,9 +2501,57 @@
       </action>                                  
     </rule>  
 
+    <rule comment="REGLA: agreement-num-attr attr cmp n-sg-com "> <!-- birgen olmâ vihttanuppelot biilagirjjiin - piergiim olmâ vitnubáluvvijn autokirjijn. -->                                            
+      <pattern>                                        
+        <pattern-item n="numattr"/>                 
+        <pattern-item n="attr"/>
+        <pattern-item n="nomcmp"/>
+        <pattern-item n="n-sg-com"/>                   
+      </pattern>     
+      <action>
+        <let>
+        	<clip pos="1" side="tl" part="tags"/>
+            <lit-tag v="num.sg.com"/>                
+        </let> 
+        <call-macro n="convert-deriv-1Posit"><with-param pos="4"/></call-macro>
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <let><clip pos="4" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="4" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="4"/></call-macro>
+        <out>
+          <chunk name="agreement-np">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	        <lu>
+              <clip pos="1" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+	        <lu>
+              <clip pos="2" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+            <mlu>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>    
+	        </lu>
+              <lu>
+              <clip pos="4" side="tl" part="whole"/>
+            </lu>
+             </mlu>
+          </chunk>
+        </out>
+        
+      </action>                                  
+    </rule>  
 
 
-    <rule comment="REGLA: agreement-num-attr n-sg-com "> 
+    <rule comment="REGLA: agreement-num-attr n-sg-gen "> 
       <pattern>                                        
         <pattern-item n="numattr"/>                 
         <pattern-item n="n-sg-accgen"/>                   
@@ -2573,7 +2820,7 @@
       </action>                                  
     </rule> 
 
-<!--    <rule comment="REGLA: agreement-attr attr n-pl"> This is not always true: puoh tárbulijd tooimâid.
+    <rule comment="REGLA: agreement-attr attr n-pl"> 
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
         <pattern-item n="attr"/>                 
@@ -2606,7 +2853,7 @@
         </out>
         
       </action>                                  
-    </rule>  -->
+    </rule>  
 
 
     
