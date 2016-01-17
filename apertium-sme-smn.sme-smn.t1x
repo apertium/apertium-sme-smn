@@ -152,6 +152,8 @@
       <cat-item tags="np.*.@SPRED→"/>
       <cat-item tags="np.*.@←SPRED"/>
       <cat-item tags="np.*.@SUBJ→"/>
+      <cat-item tags="np.*.*.@SUBJ→"/>
+      <cat-item tags="np.*.*.*.@SUBJ→"/>
       <cat-item tags="np.*.@←SUBJ"/>
       <cat-item tags="np.*.@←OBJ"/>
       <cat-item tags="np.*.@→N"/>
@@ -170,6 +172,7 @@
     </def-cat>
     <def-cat n="word">
       <cat-item tags="n.*"/>
+      <cat-item tags="np.*"/>
       <cat-item tags="adj.*"/>
       <cat-item tags="vblex.*"/>
        <cat-item tags="prn.*"/>
@@ -212,6 +215,8 @@
       <cat-item lemma="dárbbašlaš" tags="adj.*.attr.*"/> 
       <cat-item lemma="dárbbašlaš" tags="adj.attr.*"/> 
       <cat-item lemma="dálá" tags="adj.*.attr.*"/> 
+      <cat-item lemma="dáláš" tags="adj.*.attr.*"/> 
+      <cat-item lemma="dáláš" tags="adj.attr.*"/> 
       <cat-item lemma="dálá" tags="adj.attr.*"/> 
       <cat-item lemma="dološ" tags="adj.*.attr.*"/> 
       <cat-item lemma="dološ" tags="adj.attr.*"/> 
@@ -229,6 +234,9 @@
       <cat-item lemma="muitalit" tags="vblex.*"/>                    
     </def-cat>  
     <def-cat n="n-sg-nom">                             
+      <cat-item tags="np.*.*.sg.nom.*"/>                   
+      <cat-item tags="np.*.sg.nom.*"/>                   
+      <cat-item tags="np.sg.nom.*"/>                   
       <cat-item tags="n.*.sg.nom.*"/>                   
       <cat-item tags="n.*.*.sg.nom.*"/>                   
     </def-cat>  
@@ -318,6 +326,8 @@
       <cat-item tags="prn.*.p1.du.gen.*"/>                     
     </def-cat>  
     <def-cat n="agreem-sg-gen">                             
+      <cat-item tags="np.*.sg.gen.*"/>                    
+      <cat-item tags="np.sg.gen.*"/>                    
       <cat-item tags="n.*.sg.gen.*"/>                    
       <cat-item tags="n.sg.gen.*"/>                    
       <cat-item tags="n.*.sg.ill.*"/>                    
@@ -333,6 +343,8 @@
     </def-cat>  
     <def-cat n="agreem-sg">                             
       <cat-item tags="n.*.sg.nom.*"/>                   
+      <cat-item tags="np.*.sg.nom.*"/>                   
+      <cat-item tags="np.sg.nom.*"/>                   
       <cat-item tags="n.*.sg.acc.*"/>                    
       <cat-item tags="n.*.sg.com.*"/>                    
       <cat-item tags="n.sg.nom.*"/>                   

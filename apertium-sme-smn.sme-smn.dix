@@ -295,6 +295,7 @@
 
     <!-- ASECTION: Adverbs -->
 
+    <e><p><l>dárkileappot<s n="adv"/></l><r>tärhibeht<s n="adv"/></r></p></e>
     <e><p><l>áinnas<s n="adv"/></l><r>aainâs<s n="adv"/></r></p></e>
     <e><p><l>jienajávohaga<s n="adv"/></l><r>jávuttáá<s n="adv"/></r></p></e>
     <e><p><l>moddii<s n="adv"/></l><r>moddii<s n="adv"/></r></p></e>
@@ -394,6 +395,7 @@
 
     <!-- ASECTION: Adjectives -->
     <e><p><l>otnáš<s n="adj"/></l><r>onnáš<s n="adj"/></r></p></e>
+    <e><p><l>morfologalaš<s n="adj"/></l><r>morfologalâš<s n="adj"/></r></p></e>
     <e><p><l>sipirjálaš<s n="adj"/></l><r>sipirjálâš<s n="adj"/></r></p></e>
     <e><p><l>vártnuheapme<s n="adj"/></l><r>surgâd<s n="adj"/></r></p></e>
     <e><p><l>geafi<s n="adj"/></l><r>kevhi<s n="adj"/></r></p></e>
@@ -625,10 +627,12 @@
     <e><p><l>ođđaáigásaš<s n="adj"/></l><r>uđđâáigásâš<s n="adj"/></r></p></e>
     <e><p><l>modearna<s n="adj"/></l><r>moodeern<s n="adj"/></r></p></e>
     <e><p><l>ollesáigásaš<s n="adj"/></l><r>váldutoimâlâš<s n="adj"/></r></p></e>
+    <e><p><l>strategiijalaš<s n="adj"/></l><r>strategilâš<s n="adj"/></r></p></e>
 
     <!-- ASECTION: Nouns -->  
 
 
+    <e><p><l>buorredilli<s n="n"/></l><r>pyereestvaijeem<s n="n"/></r></p></e>
     <e><p><l>suvddár<s n="n"/></l><r>suuvdár<s n="n"/></r></p></e>
     <e><p><l>iešmearrideapmi<s n="n"/></l><r>jiešmeridem<s n="n"/></r></p></e>
     <e><p><l>baráhkka<s n="n"/></l><r>paaraak<s n="n"/></r></p></e>
@@ -7009,6 +7013,7 @@
 
     <!--    BSECTION: Verbs  -->
 
+    <e><p><l>oččodit<s n="vblex"/><s n="tv"/></l><r>viggâđ<s n="vblex"/></r></p></e>
     <e><p><l>konsulteret<s n="vblex"/><s n="tv"/></l><r>konsulteeriđ<s n="vblex"/></r></p></e>
     <e><p><l>adopteret<s n="vblex"/><s n="tv"/></l><r>adoptistiđ<s n="vblex"/></r></p></e>
     <e><p><l>agáiduvvat<s n="vblex"/><s n="iv"/></l><r>eliluđ<s n="vblex"/></r></p></e>
@@ -7569,7 +7574,7 @@
     <e><p><l>dievvat<s n="vblex"/><s n="iv"/></l><r>tievvâđ<s n="vblex"/></r></p></e>
     <e><p><l>dihttot<s n="vblex"/><s n="iv"/></l><r>tiettuđ<s n="vblex"/></r></p></e>
     <e><p><l>diktit<s n="vblex"/><s n="tv"/></l><r>tipteđ<s n="vblex"/></r></p></e>
-    <e><p><l>dikšut<s n="vblex"/><s n="tv"/></l><r>tipšođ<s n="vblex"/></r></p></e>
+    <e><p><l>dikšut<s n="vblex"/><s n="tv"/></l><r>hoittáđ<s n="vblex"/></r></p></e>
     <e><p><l>dilket<s n="vblex"/><s n="tv"/></l><r>tilkkáđ<s n="vblex"/></r></p></e>
     <e><p><l>divodit<s n="vblex"/><s n="tv"/></l><r>tivvoođ<s n="vblex"/></r></p></e>
     <e><p><l>divttásmuvvat<s n="vblex"/><s n="iv"/></l><r>tiätásmuđ<s n="vblex"/></r></p></e>
