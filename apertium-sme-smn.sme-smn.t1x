@@ -131,6 +131,7 @@
       <cat-item tags="np.*.@HNOUN"/>
       <cat-item tags="n.*.@→A"/>
       <cat-item tags="n.*.@→N"/>
+      <cat-item tags="n.*.@N←"/>
       <cat-item tags="n.*.@Num←"/>
       <cat-item tags="n.*.@→Num"/>
       <cat-item tags="n.*.@←OBJ"/>
@@ -154,6 +155,7 @@
       <cat-item tags="np.*.@←SUBJ"/>
       <cat-item tags="np.*.@←OBJ"/>
       <cat-item tags="np.*.@→N"/>
+      <cat-item tags="np.*.@N←"/>
       <cat-item tags="np.*.@→Num"/>
       <cat-item tags="np.*.@ADVL→"/>
       <cat-item tags="np.*.@←ADVL"/>
