@@ -1737,8 +1737,8 @@
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <out>
           <chunk name="adj" case="caseFirstWord">
             <tags>
@@ -1939,11 +1939,11 @@
         <pattern-item n="nom"/>                   
       </pattern>     
       <action>
-        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.attr"/></let> 
         <let><clip pos="1" side="tl" part="lem"/><lit v="šiev"/></let> 
+        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.attr"/></let> 
+        <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let> 
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let> 
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
-        <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let> 
        <out>
           <chunk name="adj-noun">
             <tags>
@@ -1978,9 +1978,9 @@
         <concat><lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let> 
               </when>
          <otherwise>
+        <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let> 
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
-        <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let>
          </otherwise>
 		</choose>        
 		<out>
@@ -2013,18 +2013,18 @@
         <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let>
       <choose><when>
               <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test>
         <let><clip pos="3" side="tl" part="tags"/>
         <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let> 
               </when>
          <otherwise>
+        <let><clip pos="3" side="tl" part="a_sem"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let> 
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let> 
-        <let><clip pos="3" side="tl" part="a_sem"/><lit v=""/></let>
          </otherwise>
 		</choose>        
         <out>
@@ -2073,9 +2073,9 @@
         <concat><lit-tag v="n"/><clip pos="4" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let> 
               </when>
          <otherwise>
+        <let><clip pos="4" side="tl" part="a_sem"/><lit v=""/></let>
         <let><clip pos="4" side="tl" part="x_func"/><lit v=""/></let> 
         <let><clip pos="4" side="tl" part="a_func"/><lit v=""/></let> 
-        <let><clip pos="4" side="tl" part="a_sem"/><lit v=""/></let>
          </otherwise>
 		</choose>        
         <out>
@@ -2114,9 +2114,9 @@
         <pattern-item n="agreem-sg"/>                   
       </pattern>     
       <action>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="agreement-adj-ind-sg-2Posit"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <out>
           <chunk name="agreement-np">
@@ -2142,11 +2142,11 @@
         <pattern-item n="agreem-sg"/>                   
       </pattern>     
       <action>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
         <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
         <call-macro n="agreement-adj-ind-sg-2Posit"><with-param pos="1"/><with-param pos="3"/></call-macro>
         <out>
           <chunk name="agreement-np">
@@ -2177,11 +2177,11 @@
         <pattern-item n="agreem-sg"/>                   
       </pattern>     
       <action>
-        <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
-        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
+        <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="agreement-adj-ind-sg-2Posit"><with-param pos="1"/><with-param pos="3"/></call-macro>
         <out>
           <chunk name="agreement-np">
@@ -2213,13 +2213,13 @@
         <pattern-item n="agreem-sg"/>                   
       </pattern>     
       <action>
-        <let><clip pos="4" side="tl" part="x_func"/><lit v=""/></let>
-        <let><clip pos="4" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="4"/></call-macro>
+        <let><clip pos="4" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="4" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="agreement-adj-ind-sg-2Posit"><with-param pos="1"/><with-param pos="4"/></call-macro>
         <out>
           <chunk name="agreement-np">
@@ -2256,9 +2256,9 @@
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="agreement-adj-ind-sg-gen-1Posit"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="agreement-np">
@@ -2286,12 +2286,12 @@
       </pattern>     
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
         <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
         <call-macro n="agreement-adj-ind-sg-gen-1Posit"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="agreement-np">
@@ -2323,10 +2323,10 @@
         <pattern-item n="agreem-sg-gen"/>                   
       </pattern>     
       <action>
-         <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+         <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
         <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let> 
         <call-macro n="agreement-adj-ind-sg-gen-1Posit"><with-param pos="1"/></call-macro>
@@ -2361,15 +2361,14 @@
         <pattern-item n="agreem-sg-gen"/>                   
       </pattern>     
       <action>
-         <call-macro n="convert-deriv-1Posit"><with-param pos="4"/></call-macro>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="4"/></call-macro>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
         <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
+         <call-macro n="convert-deriv-1Posit"><with-param pos="4"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="4"/></call-macro>
         <let><clip pos="4" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="4" side="tl" part="a_func"/><lit v=""/></let> 
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
         <call-macro n="agreement-adj-ind-sg-gen-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="agreement-adj-ind-sg-gen-1Posit"><with-param pos="2"/></call-macro>
         <out>
           <chunk name="agreement-np">
             <tags>
@@ -2408,12 +2407,12 @@
         	<clip pos="1" side="tl" part="tags"/>
             <lit-tag v="num.sg.com"/>                
         </let> 
-        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <out>
           <chunk name="agreement-np">
             <tags>
@@ -2443,14 +2442,14 @@
         	<clip pos="1" side="tl" part="tags"/>
             <lit-tag v="num.sg.com"/>                
         </let> 
-        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
         <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
         <out>
           <chunk name="agreement-np">
             <tags>
@@ -2485,14 +2484,13 @@
         	<clip pos="1" side="tl" part="tags"/>
             <lit-tag v="num.sg.com"/>                
         </let> 
-        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
         <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
         <out>
           <chunk name="agreement-np">
             <tags>
@@ -2528,16 +2526,16 @@
         	<clip pos="1" side="tl" part="tags"/>
             <lit-tag v="num.sg.com"/>                
         </let> 
-        <call-macro n="convert-deriv-1Posit"><with-param pos="4"/></call-macro>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="4"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="4"/></call-macro>
         <let><clip pos="4" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="4" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="4"/></call-macro>
         <out>
           <chunk name="agreement-np">
             <tags>
@@ -2576,18 +2574,18 @@
         	<clip pos="1" side="tl" part="tags"/>
             <lit-tag v="num.sg.acc"/>                
         </let> 
-        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
       <choose><when>
               <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test> 
         <let><clip pos="2" side="tl" part="tags"/>
         <concat><lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let> 
               </when>
          <otherwise>
+        <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let> 
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
-        <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let>
          </otherwise>
 		</choose>        
         <out>
@@ -2620,20 +2618,20 @@
         	<clip pos="1" side="tl" part="tags"/>
             <lit-tag v="num.sg.acc"/>                
         </let> 
-        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
       <choose><when>
               <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test> 
         <let><clip pos="3" side="tl" part="tags"/>
         <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let> 
               </when>
          <otherwise>
+        <let><clip pos="3" side="tl" part="a_sem"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let> 
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let> 
-        <let><clip pos="3" side="tl" part="a_sem"/><lit v=""/></let>
          </otherwise>
 		</choose>        
         <out>
@@ -2697,9 +2695,9 @@
       </pattern>     
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
         <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="agreement-adj-ind-pl-2Posit"><with-param pos="1"/><with-param pos="3"/></call-macro>
@@ -2733,11 +2731,11 @@
         <pattern-item n="agreem-pl"/>                   
       </pattern>     
       <action>
-        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <choose><when>
          <test><equal><clip pos="1" side="tl" part="lem"/><lit v="puohah"/></equal>
            </test>
@@ -2769,13 +2767,13 @@
         <pattern-item n="agreem-pl"/>                   
       </pattern>     
       <action>
-        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
-        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
+        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
         <choose><when>
          <test><equal><clip pos="1" side="tl" part="lem"/><lit v="puohah"/></equal>
            </test>
@@ -2813,8 +2811,8 @@
         <pattern-item n="n-pl-com"/>                   
       </pattern>     
       <action>
-        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="agreement-adj-ind-pl-2Posit"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <out>
@@ -2844,9 +2842,9 @@
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
         <call-macro n="agreement-adj-ind-pl-2Posit"><with-param pos="1"/><with-param pos="3"/></call-macro>
         <out>
           <chunk name="agreement-np">
