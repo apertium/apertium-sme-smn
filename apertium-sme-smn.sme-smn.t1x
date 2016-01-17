@@ -80,6 +80,10 @@
    <def-cat n="buorre">
       <cat-item lemma="buorre" tags="adj.*.@→N"/>
     </def-cat>
+    <def-cat n="auxverb">
+      <cat-item tags="*.@+FAUXV"/>
+      <cat-item tags="*.@-FAUXV"/>
+    </def-cat>
     <def-cat n="mainverb">
       <cat-item tags="*.@+FMAINV"/>
       <cat-item tags="*.@-FMAINV"/>
@@ -404,6 +408,12 @@
     </def-attr>
     <def-attr n="a_ntype">
       <attr-item tags="nomag"/>
+    </def-attr>
+    <def-attr n="a_mode">
+      <attr-item tags="indic"/>
+      <attr-item tags="pot"/>
+      <attr-item tags="cond"/>
+      <attr-item tags="imprt"/>
     </def-attr>
     <def-attr n="a_nom">
       <attr-item tags="n"/>
@@ -996,12 +1006,14 @@
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_passs"/></equal>
           </test>
           <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_pass"/></let> 
+          <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let> 
         </when>
          <when>
           <test>
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_passl"/></equal>
           </test>
           <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_pass"/></let> 
+          <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let> 
         </when>
          <when>
           <test>
@@ -2868,6 +2880,28 @@
       </action>                                  
     </rule>  
 
+    <rule comment="REGLA: mainverb">
+      <pattern>
+        <pattern-item n="auxverb"/>
+      </pattern>
+      <action>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
+        <let><clip pos="1" side="tl" part="a_sem"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+
+        <out>
+          <chunk name="auxverb" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     
     <rule comment="REGLA: mainverb">
