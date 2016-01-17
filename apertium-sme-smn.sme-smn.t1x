@@ -207,6 +207,8 @@
       <cat-item lemma="dárbbašlaš" tags="adj.attr.*"/> 
       <cat-item lemma="dálá" tags="adj.*.attr.*"/> 
       <cat-item lemma="dálá" tags="adj.attr.*"/> 
+      <cat-item lemma="dološ" tags="adj.*.attr.*"/> 
+      <cat-item lemma="dološ" tags="adj.attr.*"/> 
       <cat-item lemma="guovddáš" tags="adj.*.attr.*"/> 
       <cat-item lemma="guovddáš" tags="adj.attr.*"/> 
       <cat-item lemma="muhtun" tags="prn.ind.attr.*"/> 
@@ -311,8 +313,11 @@
     </def-cat>  
     <def-cat n="agreem-sg-gen">                             
       <cat-item tags="n.*.sg.gen.*"/>                    
+      <cat-item tags="n.sg.gen.*"/>                    
       <cat-item tags="n.*.sg.ill.*"/>                    
+      <cat-item tags="n.sg.ill.*"/>                    
       <cat-item tags="n.*.sg.loc.*"/>                    
+      <cat-item tags="n.sg.loc.*"/>                    
       <cat-item tags="n.*.ess.*"/>                    
       <cat-item tags="n.ess.*"/>                    
       <cat-item tags="*.n.sg.gen.*"/>                    
@@ -324,6 +329,9 @@
       <cat-item tags="n.*.sg.nom.*"/>                   
       <cat-item tags="n.*.sg.acc.*"/>                    
       <cat-item tags="n.*.sg.com.*"/>                    
+      <cat-item tags="n.sg.nom.*"/>                   
+      <cat-item tags="n.sg.acc.*"/>                    
+      <cat-item tags="n.sg.com.*"/>                    
       <cat-item tags="*.n.sg.nom.*"/>                   
       <cat-item tags="*.n.sg.acc.*"/>                    
       <cat-item tags="*.n.sg.com.*"/>                    
@@ -336,6 +344,13 @@
       <cat-item tags="n.*.pl.loc.*"/>                    
       <cat-item tags="n.*.pl.abe.*"/>                    
       <cat-item tags="n.*.pl.com.*"/>      
+      <cat-item tags="n.pl.nom.*"/>                    
+      <cat-item tags="n.pl.gen.*"/>                    
+      <cat-item tags="n.pl.acc.*"/>                    
+      <cat-item tags="n.pl.ill.*"/>                    
+      <cat-item tags="n.pl.loc.*"/>                    
+      <cat-item tags="n.pl.abe.*"/>                    
+      <cat-item tags="n.pl.com.*"/>      
       <cat-item tags="*.n.pl.nom.*"/>                    
       <cat-item tags="*.n.pl.gen.*"/>                    
       <cat-item tags="*.n.pl.acc.*"/>                    
