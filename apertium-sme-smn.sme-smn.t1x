@@ -103,10 +103,8 @@
       <cat-item tags="*.n.*.@←SUBJ"/>
       <cat-item tags="*.n.*.@SUBJ→"/>
       <cat-item tags="*.n.*.@X"/>
-      <cat-item tags="n.*.@ADVL→"/>
       <cat-item tags="n.*.@→ADVL"/>
       <cat-item tags="n.*.@←ADVL"/>
-      <cat-item tags="n.*.@ADVL→"/>
       <cat-item tags="n.*.@→ADVL"/>
       <cat-item tags="n.*.@ADVL→CS"/>
       <cat-item tags="n.*.@ADVL←OBJ"/>
@@ -490,8 +488,6 @@
     <def-attr n="a_deriv">
        <attr-item tags="der_dimin.n"/>
        <attr-item tags="der_alla"/>
-       <attr-item tags="der_at"/>
-       <attr-item tags="der_goahti"/>
        <attr-item tags="der_passs"/>
        <attr-item tags="der_passl"/>
        <attr-item tags="der_ahtti"/>
@@ -508,6 +504,13 @@
         <attr-item tags="der_sas"/>
         <attr-item tags="der_las"/>
    </def-attr>
+
+    <def-attr n="a_deriv2">
+       <attr-item tags="der_at"/>
+       <attr-item tags="der_avt"/>
+       <attr-item tags="der_goahti"/>
+   </def-attr>
+
 
     <def-attr n="a_sem">
       <attr-item tags="sem_act"/>
@@ -994,12 +997,6 @@
 
         <when>
           <test>
-               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_at"/></equal>
-          </test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_avt"/></let> 
-        </when>
-        <when>
-          <test>
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_lágan"/></equal>
           </test>
           <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_lagan"/></let> 
@@ -1009,12 +1006,6 @@
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_saš"/></equal>
           </test>
           <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_sas"/></let> 
-        </when>
-         <when>
-          <test>
-               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_goahti"/></equal>
-          </test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_kyetti"/></let> 
         </when>
          <when>
           <test>
@@ -1039,6 +1030,26 @@
         </when>
     </choose>
     </def-macro>  
+
+
+    <def-macro n="convert-deriv2-1Posit" npar="1">
+      <choose>
+
+        <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_deriv2"/><lit-tag v="der_at"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_deriv2"/><lit-tag v="der_avt"/></let> 
+        </when>
+         <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_deriv2"/><lit-tag v="der_goahti"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_deriv2"/><lit-tag v="der_kyetti"/></let> 
+        </when>
+    </choose>
+    </def-macro>  
+
 
     <def-macro n="inherenttag-px-2Posit" npar="2">
 	<choose>   
@@ -1741,6 +1752,7 @@
       </pattern>
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-advtag1"><with-param pos="1"/></call-macro>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
@@ -1763,6 +1775,7 @@
       </pattern>
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
