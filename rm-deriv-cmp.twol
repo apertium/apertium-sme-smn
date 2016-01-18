@@ -113,26 +113,24 @@ Derivations =
 ;
 
 HandledDerivations =
-%<der%_at%>
+%<der%_ahtti%>
 %<der%_alla%>
+%<der%_at%>
+%<der%_d%>
+%<der%_dimin%>
+%<der%_goahti%>
+%<der%_h%>
 %<der%_halla%>
 %<der%_l%>
-%<der%_alla%>
+%<der%_laš%>
+%<der%_nomact%>
+%<der%_nomag%>
 %<der%_passl%>
 %<der%_passs%>
-%<der%_goahti%>
-%<der%_dimin%>
-%<der%_vuohta%>
-%<der%_ahtti%>
-%<der%_h%>
-%<der%_d%>
-%<der%_t%>
-%<der%_laš%>
 %<der%_st%>
-%<der%_nomag%>
-%<der%_nomact%>
-%<der%_d%>
+%<der%_t%>
 %<der%_upmi%>
+%<der%_vuohta%>
 ;
 
 ;				! end of Sets
