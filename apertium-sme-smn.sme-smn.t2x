@@ -2,6 +2,15 @@
 <!-- -*- nxml -*- -->
 <interchunk>
   <section-def-cats>
+    <def-cat n="something">
+      <cat-item tags="n.*"/>
+      <cat-item tags="np.*"/>
+      <cat-item tags="adj.*"/>
+      <cat-item tags="vblex.*"/>
+       <cat-item tags="prn.*"/>
+       <cat-item tags="adv.*"/>
+       <cat-item tags="adv"/>
+   </def-cat>
     <def-cat n="GenCompl">
       <cat-item tags="NumG"/>
       <cat-item tags="NumG.*"/>
@@ -80,6 +89,7 @@
     </rule>
     <rule comment="REGLA: OBJ">
     <pattern>
+       <pattern-item n="something"/>
        <pattern-item n="OBJL"/>
        <pattern-item n="SV"/>
     </pattern>
