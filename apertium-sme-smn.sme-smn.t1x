@@ -103,6 +103,7 @@
       <cat-item tags="*.n.*.@←SUBJ"/>
       <cat-item tags="*.n.*.@SUBJ→"/>
       <cat-item tags="*.n.*.@X"/>
+      <cat-item tags="n.*.@ADVL→"/>
       <cat-item tags="n.*.@→ADVL"/>
       <cat-item tags="n.*.@←ADVL"/>
       <cat-item tags="n.*.@→ADVL"/>

@@ -2,14 +2,9 @@
 <!-- -*- nxml -*- -->
 <interchunk>
   <section-def-cats>
-    <def-cat n="something">
-      <cat-item tags="n.*"/>
-      <cat-item tags="np.*"/>
-      <cat-item tags="adj.*"/>
-      <cat-item tags="vblex.*"/>
-       <cat-item tags="prn.*"/>
-       <cat-item tags="adv.*"/>
-       <cat-item tags="adv"/>
+    <def-cat n="beforeObj">
+      <cat-item tags="@SUBJ→"/>
+      <cat-item lemma="auxverb" tags="*"/>
    </def-cat>
     <def-cat n="GenCompl">
       <cat-item tags="NumG"/>
@@ -89,18 +84,22 @@
     </rule>
     <rule comment="REGLA: OBJ">
     <pattern>
-       <pattern-item n="something"/>
+       <pattern-item n="beforeObj"/>
        <pattern-item n="OBJL"/>
        <pattern-item n="SV"/>
     </pattern>
       <action>
     <out>
       <chunk>
-        <clip pos="2" part="whole"/>
+        <clip pos="1" part="whole"/>
       </chunk>
       <b pos="1"/>
+      <chunk>
+        <clip pos="3" part="whole"/>
+      </chunk>
+      <b pos="2"/>
         <chunk>
-        <clip pos="1" part="whole"/>
+        <clip pos="2" part="whole"/>
       </chunk>
     </out>
       </action>
