@@ -127,7 +127,7 @@
     <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kihheen<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="rel"/></l><r>kote<s n="prn"/><s n="rel"/></r></p></e>
     <e><p><l>guhtemuš<s n="prn"/><s n="rel"/></l><r>kotemuš<s n="prn"/><s n="rel"/></r></p></e>
-    <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>jyehi<s n="prn"/><s n="ind"/></r></p></e>
+<!--    <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>jyehi<s n="prn"/><s n="ind"/></r></p></e>-->
     <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>kihheen<s n="prn"/><s n="ind"/></r></p></e>
 
 
@@ -157,7 +157,7 @@
     <e><p><l>juohkehaš<s n="prn"/></l><r>juáháš<s n="prn"/></r></p></e>
     <e><p><l>eanas<s n="prn"/></l><r>iänááš<s n="prn"/></r></p></e>
     <e><p><l>eatnagat<s n="prn"/></l><r>iänááš<s n="prn"/></r></p></e>
-    <e><p><l>guhtege<s n="prn"/><s n="ind"/><s n="sg"/><s n="acc"/></l><r>jyehi<s n="prn"/><s n="ind"/><s n="attr"/></r></p></e>
+<!--    <e><p><l>guhtege<s n="prn"/><s n="ind"/><s n="sg"/><s n="acc"/></l><r>jyehi<s n="prn"/><s n="ind"/><s n="attr"/></r></p></e>-->
     <e><p><l>guhtege<s n="prn"/></l><r>kihheen<s n="prn"/></r></p></e>
     <e><p><l>goappašat<s n="prn"/></l><r>kuohtuuh<s n="prn"/></r></p></e>
     <e><p><l>goappaš<s n="prn"/></l><r>kuábáš<s n="prn"/></r></p></e>
@@ -295,6 +295,7 @@
 
     <!-- ASECTION: Adverbs -->
 
+    <e><p><l>jámma<s n="adv"/></l><r>eivi<s n="adv"/></r></p></e>
     <e><p><l>dárkileappot<s n="adv"/></l><r>tärhibeht<s n="adv"/></r></p></e>
     <e><p><l>áinnas<s n="adv"/></l><r>aainâs<s n="adv"/></r></p></e>
     <e><p><l>jienajávohaga<s n="adv"/></l><r>jávuttáá<s n="adv"/></r></p></e>
@@ -632,6 +633,7 @@
     <!-- ASECTION: Nouns -->  
 
 
+    <e><p><l>kvena<s n="n"/></l><r>kveeni<s n="n"/></r></p></e>
     <e><p><l>buorredilli<s n="n"/></l><r>pyereestvaijeem<s n="n"/></r></p></e>
     <e><p><l>suvddár<s n="n"/></l><r>suuvdár<s n="n"/></r></p></e>
     <e><p><l>iešmearrideapmi<s n="n"/></l><r>jiešmeridem<s n="n"/></r></p></e>
@@ -702,6 +704,7 @@
     <e><p><l>ovttaseallin<s n="n"/></l><r>oovtâsteellim<s n="n"/></r></p></e>
     <e><p><l>oažži<s n="n"/></l><r>uážži<s n="n"/></r></p></e>
     <e><p><l>filosofa<s n="n"/></l><r>filosof<s n="n"/></r></p></e>
+    <e><p><l>filosofiija<s n="n"/></l><r>filosofia<s n="n"/></r></p></e>
     <e><p><l>elerávdnji<s n="n"/></l><r>šleđgâ<s n="n"/></r></p></e>
     <e><p><l>dielku<s n="n"/></l><r>tiälkku<s n="n"/></r></p></e>
     <e><p><l>bursa<s n="n"/></l><r>purssâ<s n="n"/></r></p></e>
@@ -835,6 +838,7 @@
     <e><p><l>eahpelihkostuvvan<s n="n"/></l><r>epiluhostum<s n="n"/></r></p></e>
     <e><p><l>dolastallan<s n="n"/></l><r>tulâstâllâm<s n="n"/></r></p></e>
     <e><p><l>divššár<s n="n"/></l><r>tipšoo<s n="n"/><s n="nomag"/></r></p></e>
+    <e><p><l>divššohas<s n="n"/></l><r>pyeccee<s n="n"/><s n="nomag"/></r></p></e>
     <e><p><l>buresbirgejupmi<s n="n"/></l><r>áigápuátu<s n="n"/></r></p></e>
     <e><p><l>bajásšaddan<s n="n"/></l><r>stuárrum<s n="n"/></r></p></e>
     <e><p><l>čálašeapmi<s n="n"/></l><r>čalâččém<s n="n"/></r></p></e>
@@ -5922,6 +5926,7 @@
     <e><p><l>adjektiiva<s n="n"/></l><r>adjektiiv<s n="n"/></r></p></e>
     <e><p><l>kollektiiva<s n="n"/></l><r>kollektiiv<s n="n"/></r></p></e>
     <e><p><l>administrašuvdna<s n="n"/></l><r>haldâttâs<s n="n"/></r></p></e>
+    <e><p><l>variašuvdna<s n="n"/></l><r>variaatio<s n="n"/></r></p></e>
     <e><p><l>ahkitvuohta<s n="n"/></l><r>ahheevvuotâ<s n="n"/></r></p></e>
     <e><p><l>akšuvdna<s n="n"/></l><r>lihâstâs<s n="n"/></r></p></e>
     <e><p><l>aldna<s n="n"/></l><r>olnâ<s n="n"/></r></p></e>
@@ -8526,6 +8531,7 @@
 
 <!-- CSECTION: Nouns 1-m frequency ordered -->
 
+    <e><p><l>blogga<s n="n"/></l><r>blogi<s n="n"/></r></p></e>
     <e><p><l>almmáiolmmoš<s n="n"/></l><r>almaiolmooš<s n="n"/></r></p></e>
     <e><p><l>badjeolmmoš<s n="n"/></l><r>pajeolmooš<s n="n"/></r></p></e>
     <e><p><l>boazoolmmoš<s n="n"/></l><r>puásuiolmooš<s n="n"/></r></p></e>
