@@ -642,6 +642,7 @@
      <e><p><l>dovddaldat<s n="n"/></l><r>tubdâldâh<s n="n"/></r></p></e>
     <e><p><l>ráhkadus<s n="n"/></l><r>rááhtus<s n="n"/></r></p></e>
     <e><p><l>ovda<s n="n"/></l><r>ovdâ<s n="n"/></r></p></e>
+    <e><p><l>veahkeheaddji<s n="n"/></l><r>išedeijee<s n="n"/></r></p></e>
     <e><p><l>njealjejuvllat<s n="n"/></l><r>muávloo<s n="n"/></r></p></e>
     <e><p><l>skohter<s n="n"/></l><r>moottorkiälkká<s n="n"/></r></p></e>
     <e><p><l>kvena<s n="n"/></l><r>kveeni<s n="n"/></r></p></e>
@@ -3187,6 +3188,9 @@
     <!-- ASECTION: Verbs -->
     
     <e><p><l>levget<s n="vblex"/><s n="iv"/></l><r>liputtiđ<s n="vblex"/></r></p></e> 
+    <e><p><l>ilosmuvvat<s n="vblex"/><s n="iv"/></l><r>ilodiđ<s n="vblex"/></r></p></e> 
+    <e><p><l>murjet<s n="vblex"/><s n="iv"/></l><r>muorjiđ<s n="vblex"/></r></p></e> 
+    <e><p><l>soabadallat<s n="vblex"/><s n="iv"/></l><r>sovâdâttâđ<s n="vblex"/></r></p></e> 
     <e><p><l>gánnehit<s n="vblex"/><s n="iv"/></l><r>kannattiđ<s n="vblex"/></r></p></e> 
     <e><p><l>čuožžilit<s n="vblex"/><s n="iv"/></l><r>čyežžiliđ<s n="vblex"/></r></p></e> 
     <e><p><l>ovttastuvvat<s n="vblex"/><s n="iv"/></l><r>ovtâstuđ<s n="vblex"/></r></p></e> 
