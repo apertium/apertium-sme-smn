@@ -138,8 +138,8 @@
       <cat-item tags="n.*.@←OPRED"/>
       <cat-item tags="n.*.@P→"/>
       <cat-item tags="n.*.@→P"/>
-      <cat-item tags="n.*.@Pron←"/>      
-      <cat-item tags="n.*.@P←"/>      
+      <cat-item tags="n.*.@Pron←"/>
+      <cat-item tags="n.*.@P←"/>
       <cat-item tags="n.*.@SPRED→"/>
       <cat-item tags="n.*.@←SPRED"/>
       <cat-item tags="n.*.@SUBJ→"/>
@@ -165,8 +165,7 @@
       <cat-item tags="np.*.@P←"/>
       <cat-item tags="np.*.@P→"/>
       <cat-item tags="np.*.@→P"/>
-      <cat-item tags="np.*.@Pron←"/>      
-      <cat-item tags="np.*.@P←"/>      
+      <cat-item tags="np.*.@Pron←"/>
       <cat-item tags="np.*.@X"/>
     </def-cat>
     <def-cat n="word">
@@ -392,6 +391,12 @@
     </def-cat>
     <def-cat n="beallai">
       <cat-item lemma="beallai" tags="post.*"/>
+    </def-cat>
+    <def-cat n="ja">
+      <cat-item lemma="ja" tags="cnjcoo.*"/>
+    </def-cat>
+    <def-cat n="maiddái">
+      <cat-item lemma="maiddái" tags="adv.*"/>
     </def-cat>
 
     <def-cat n="sent">
@@ -1052,7 +1057,7 @@
     </def-macro>  
 
 
-    <def-macro n="inherenttag-px-2Posit" npar="2">
+    <def-macro n="inherenttag-px-2Posit" npar="2">  <!-- Son geahččá birra. Sun kiäččá pirrâsis. -->
 	<choose>   
 	  <when>
 	    <test>
@@ -1963,6 +1968,30 @@
         </out>
       </action>
     </rule> 
+
+    <rule comment="REGLA: ja maiddái"> <!-- ja maiddái. sehe -->
+      <pattern>
+	<pattern-item n="ja"/>
+	<pattern-item n="maiddái"/>
+      </pattern>
+      <action>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="1" side="tl" part="whole"/><lit v=""/></let> 
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+	<out>
+          <chunk name="sehe">
+            <tags>
+              <tag><lit-tag v="CONJ"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>    
+              <clip pos="2" side="tl" part="tags"/>   
+	        </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="REGLA: liikot-actioill"> <!-- Mun liikon lohkat. Mun lijkkuum luhâmân. -->
       <pattern>
         <pattern-item n="liikotverb"/>

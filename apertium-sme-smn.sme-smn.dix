@@ -93,6 +93,7 @@
     <!-- ASECTION: Conjunctions -->
 
     <e><p><l>ja<s n="cnjcoo"/></l><r>já<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ja<s n="cnjcoo"/></l><r></r></p></e>
     <e><p><l>vai<s n="cnjcoo"/></l><r>vâi<s n="cnjcoo"/></r></p></e>
     <e><p><l>dahje<s n="cnjcoo"/></l><r>teikkâ<s n="cnjcoo"/></r></p></e>
     <e><p><l>dahjege<s n="cnjcoo"/></l><r>teikkâ<s n="cnjcoo"/></r></p></e>
@@ -371,6 +372,7 @@
     <e><p><l>lahkalagaid<s n="adv"/></l><r>aldaluvâi<s n="adv"/></r></p></e>
     <e><p><l>maid<s n="adv"/></l><r>meid<s n="adv"/></r></p></e>
     <e><p><l>maiddái<s n="adv"/></l><r>meiddei<s n="adv"/></r></p></e>
+    <e><p><l>maiddái<s n="adv"/></l><r>sehe<s n="adv"/></r></p></e>
     <e><p><l>maŋimustá<s n="adv"/></l><r>majemustáá<s n="adv"/></r></p></e>
     <e><p><l>maŋimuštá<s n="adv"/></l><r>majemustáá<s n="adv"/></r></p></e>
     <e><p><l>maŋŋemaŋŋálaga<s n="adv"/></l><r>maŋaluvâi<s n="adv"/></r></p></e>
@@ -6751,7 +6753,7 @@
     <e><p><l>spiikkár<s n="n"/></l><r>spiijkár<s n="n"/></r></p></e>
     <e><p><l>spálli<s n="n"/><s n="g3"/></l><r>spälli<s n="n"/></r></p></e>
     <e><p><l>spártu<s n="n"/></l><r>párttu<s n="n"/></r></p></e>
-    <e><p><l>statistihkka<s n="n"/></l><r>statistiik<s n="n"/></r></p></e>
+    <e><p><l>statistihkka<s n="n"/></l><r>lovottâh<s n="n"/></r></p></e>
     <e><p><l>stašuvdna<s n="n"/></l><r>sajattâh<s n="n"/></r></p></e>
     <e><p><l>stellet<s n="n"/></l><r>steellig<s n="n"/></r></p></e>
     <e><p><l>stevvel<s n="n"/></l><r>steevvil<s n="n"/></r></p></e>

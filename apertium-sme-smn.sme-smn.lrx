@@ -1,27 +1,10 @@
 <!-- Write comments to forthcoming rules after this line
-mánáidmánná -  áddjái: áijuh ja áhkkui: ákkuv
-
-dušše: Use "tuš" when in the middle of the frase; otherwise "tuše"  
 
 sáhttit
 North Saami sáhttit should mainly be translated with "pyehtiđ", not with sättiđ. Sättiđ: Mun sáátám puáttiđ. 'I might come.'; Mun puávtám puáttiđ. 'I am able to come.'
 
-beassat
-Very often the counterpart can be "peessâđ", especially in cases when one is able to come / go / get in somewhere. This is the most common case.
-However, when one has a permission to do something, one should/could prefer uážžuđ. 
-Son beasai luohkkálanjas muitalit sámi ivnniid birra. - uážui
-S/he had the permission
-translation "peesâi" could be possible, in case that the person was able to come to the classroom; 
-translation "pyehtiđ" could be possible in the case that he was somehow able to tell his story.
-Choosing a proper counterpart is difficult, though. 
-
-Not a precise equivalent: 
-gárggiidit  jottáđ  Not a precise equivalent; ; AS equivalent is more common.
-juolludit  mieđettiđ  Not a precise equivalent; AS equivalent is more common. 
-
 
 fáárust and mield
-
 Fáárust: to be used when someone has taken something or someone with him/her, like Must lii puttâl fáárust; Mun peesâm Avelân Maati / suu fáárust. (In the first case, we have a habitive sentence + fáárust; in the second case, we need a name (or some other noun  - pennuu fáárust, eres tave-enâmij fáárust??) or personal pronomin.
 
 Other use - I see these as an ellipse:
@@ -396,6 +379,33 @@ Write comments to forthcoming rules before this line -->
      <match lemma="beallai"/>
   </rule>
 
+
+<!-- maiddái -->
+
+  <rule weight="1.0">
+    <match lemma="maiddái" tags="adv.*">
+      <select lemma="meiddei"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="maiddái" tags="adv.*">
+      <select lemma="sehe"/>
+    </match> 
+  </rule>
+
+
+  <rule weight="0.6">
+    <match lemma="ja"/>
+    <match lemma="maiddái" tags="adv.*">
+      <select lemma="sehe"/>
+  </match>
+  </rule>
+
+
+
+<!-- buot -->
+
   <rule weight="1.0">
     <match lemma="buot" tags="prn.*">
       <select lemma="puoh"/>
@@ -432,6 +442,8 @@ Write comments to forthcoming rules before this line -->
 	<match tags="n.sem_ani.*"/>
 	<match lemma="dávvir" tags="n.*"/> </or>
   </rule>
+
+
 
 
 
