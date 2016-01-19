@@ -444,6 +444,7 @@ MAP (Sem/Sign) (sem_sign);
 MAP (Sem/Sport) (sem_sport);
 MAP (Sem/State) (sem_state);
 MAP (Sem/State-sick) (sem_state-sick);
+MAP (State-sick_Substnc) (sem_state-sick_substnc);
 MAP (Sem/Substnc) (sem_substnc);
 MAP (Sem/Substnc_Wthr) (sem_substnc_wthr);
 MAP (Sem/Sur) (sem_sur);

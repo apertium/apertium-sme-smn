@@ -216,6 +216,7 @@
       <cat-item lemma="dáláš" tags="adj.*.attr.*"/> 
       <cat-item lemma="dáláš" tags="adj.attr.*"/> 
       <cat-item lemma="dálá" tags="adj.attr.*"/> 
+      <cat-item lemma="otná" tags="adj.attr.*"/> 
       <cat-item lemma="dološ" tags="adj.*.attr.*"/> 
       <cat-item lemma="dološ" tags="adj.attr.*"/> 
       <cat-item lemma="guovddáš" tags="adj.*.attr.*"/> 
@@ -722,6 +723,7 @@
       <attr-item tags="sem_sport"/>
       <attr-item tags="sem_state"/>
       <attr-item tags="sem_state-sick"/>
+      <attr-item tags="sem_state-sick_substnc"/>
       <attr-item tags="sem_substnc"/>
       <attr-item tags="sem_substnc_wthr"/>
       <attr-item tags="sem_sur"/>
@@ -2347,7 +2349,7 @@
     </rule> 
 
 
-    <rule comment="REGLA: agreement-attr n-sg-gen">  <!-- sámegiella vuosttas giellan - sämikielâ vuosmuu kiellân -->                                         
+    <rule comment="REGLA: agreement-attr n-sg-gen">  <!-- half agreement: sámegiella vuosttas giellan - sämikielâ vuosmuu kiellân -->                                         
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
         <pattern-item n="agreem-sg-gen"/>                   
@@ -2364,7 +2366,7 @@
         <out>
           <chunk name="agreement-np">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="SS"/></tag>
             </tags>
 	        <lu>
               <clip pos="1" side="tl" part="whole"/>    
