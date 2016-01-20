@@ -108,6 +108,12 @@ Write comments to forthcoming rules before this line -->
     </match>
   </rule>
 
+  <rule weight="0.6">
+    <match lemma="sápmi" tags="n.*.cmp">
+      <select lemma="säämi" tags="n.*"/>
+    </match>
+  </rule>
+
   <rule weight="1.0">
     <match lemma="gosa" tags="adv">
       <select lemma="kuus" tags="adv.*"/>
