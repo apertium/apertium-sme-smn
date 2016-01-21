@@ -23,8 +23,10 @@
    <sdef n="prsprc"      c="PrsPrc"/> 
     <sdef n="nomag"      c="NomAg type noun, both sme and smn"/>
      <sdef n="g3"       c="g3 type noun, only sme"/>
+     <sdef n="g7"       c="g7 type noun, only sme"/>
    <sdef n="sem_ani"      c="Sem/Ani"/> 
-   <sdef n="sem_dummytag"      c="Sem/Dummytag"/> 
+    <sdef n="sem_act"      c="Sem/Act"/> 
+  <sdef n="sem_dummytag"      c="Sem/Dummytag"/> 
     <sdef n="sem_plc"      c="Sem/Plc"/>
    <sdef n="foc_sun"      c="clitic sun"/>
     <sdef n="foc_ge"       c="clitic ge"/>
@@ -740,7 +742,7 @@
     <e><p><l>veardi<s n="n"/></l><r>veerdi<s n="n"/></r></p></e>
     <e><p><l>vanas<s n="n"/></l><r>käärbis<s n="n"/></r></p></e>
     <e><p><l>universiteahtta<s n="n"/></l><r>ollâopâttâh<s n="n"/></r></p></e>
-    <e><p><l>stuđeanta<s n="n"/></l><r>uáppee<s n="n"/></r></p></e>
+    <e><p><l>stuđeanta<s n="n"/></l><r>uáppee<s n="n"/><s n="nomag"/></r></p></e>
     <e><p><l>sivdnádus<s n="n"/></l><r>sivnádâs<s n="n"/></r></p></e>
     <e><p><l>maori<s n="n"/></l><r>maori<s n="n"/></r></p></e>
     <e><p><l>mandáhta<s n="n"/></l><r>mandaat<s n="n"/></r></p></e>
@@ -752,7 +754,7 @@
     <e><p><l>diila<s n="n"/></l><r>tijlâ<s n="n"/></r></p></e>
     <e><p><l>coakci<s n="n"/></l><r>cuápci<s n="n"/></r></p></e>
     <e><p><l>beaivvadat<s n="n"/></l><r>piäivádâh<s n="n"/></r></p></e>
-    <e><p><l>bajásgeassin<s n="n"/></l><r>pajasšoddâdem<s n="n"/></r></p></e>
+    <e><p><l>bajásgeassin<s n="n"/></l><r>šoddâdem<s n="n"/></r></p></e>
     <e><p><l>vuolláneapmi<s n="n"/></l><r>vuálánem<s n="n"/></r></p></e>
     <e><p><l>sáhttolaš<s n="n"/></l><r>sátulâš<s n="n"/></r></p></e>
     <e><p><l>sigareahtta<s n="n"/></l><r>tubbáák<s n="n"/></r></p></e>
@@ -918,7 +920,7 @@
     <e><p><l>legitimitehta<s n="n"/></l><r>legitimiteet<s n="n"/></r></p></e>
     <e><p><l>kámmár<s n="n"/></l><r>káámmár<s n="n"/></r></p></e>
     <e><p><l>konteaksta<s n="n"/></l><r>kontekstâ<s n="n"/></r></p></e>
-    <e><p><l>kompromissa<s n="n"/></l><r>kompromis<s n="n"/></r></p></e>
+    <e><p><l>kompromissa<s n="n"/><s n="g3"/></l><r>kompromis<s n="n"/></r></p></e>
     <e><p><l>keaksa<s n="n"/></l><r>keksi<s n="n"/></r></p></e>
     <e><p><l>juridihkka<s n="n"/></l><r>juridiik<s n="n"/></r></p></e>
     <e><p><l>iskkadallan<s n="n"/></l><r>iskâdem<s n="n"/></r></p></e>
@@ -1047,7 +1049,7 @@
     <e><p><l>haddegilvu<s n="n"/></l><r>haddekišto<s n="n"/></r></p></e>
     <e><p><l>ovddidanfidnu<s n="n"/></l><r>ovdedemhaahâ<s n="n"/></r></p></e>
     <e><p><l>riikkavuloš<s n="n"/></l><r>aalmugjeessân<s n="n"/></r></p></e>
-    <e><p><l>doaibmamálle<s n="n"/></l><r>toimâmalli<s n="n"/></r></p></e>
+    <e><p><l>doaibmamálle<s n="n"/><s n="g3"/></l><r>toimâmalli<s n="n"/></r></p></e>
     <e><p><l>iđa<s n="n"/></l><r>almonem<s n="n"/></r></p></e>
     <e><p><l>gávpotbiras<s n="n"/></l><r>kaappugpiirâs<s n="n"/></r></p></e>
     <e><p><l>sitkatvuohta<s n="n"/></l><r>siđhesvuotâ<s n="n"/></r></p></e>
@@ -4647,7 +4649,7 @@
     <e><p><l>doaimmahat<s n="n"/></l><r>toimâttâh<s n="n"/></r></p></e>
     <e><p><l>doaimmaheaddji<s n="n"/></l><r>toimâtteijee<s n="n"/></r></p></e>
     <e><p><l>doaivva<s n="n"/></l><r>tuáivu<s n="n"/></r></p></e>
-    <e><p><l>doalli<s n="n"/></l><r>cuápcil<s n="n"/></r></p></e>
+    <e><p><l>doalli<s n="n"/><s n="nomag"/></l><r>cuápcil<s n="n"/></r></p></e>
     <e><p><l>doalloovttadat<s n="n"/></l><r>toimâohtâdâh<s n="n"/></r></p></e>
     <e><p><l>doallu<s n="n"/></l><r>toimâohtâdâh<s n="n"/></r></p></e>
     <e><p><l>doalut<s n="n"/></l><r>piđoh<s n="n"/></r></p></e>
@@ -5061,7 +5063,7 @@
     <e><p><l>jonssot<s n="n"/></l><r>jonsahpeivi<s n="n"/></r></p></e>
     <e><p><l>jorgaleaddji<s n="n"/></l><r>jurgâleijee<s n="n"/></r></p></e>
     <e><p><l>jorgalus<s n="n"/></l><r>jurgâlus<s n="n"/></r></p></e>
-    <e><p><l>journalista<s n="n"/></l><r>toimâtteijee<s n="n"/></r></p></e>
+    <e><p><l>journalista<s n="n"/></l><r>toimâtteijee<s n="n"/><s n="nomag"/></r></p></e>
     <e><p><l>jugahus<s n="n"/></l><r>juvâttâs<s n="n"/></r></p></e>
     <e><p><l>jugešvuohta<s n="n"/></l><r>juhheevuotâ<s n="n"/></r></p></e>
     <e><p><l>jugus<s n="n"/></l><r>juhâmâš<s n="n"/></r></p></e>
@@ -6485,7 +6487,7 @@
     <e><p><l>lávvardat<s n="n"/></l><r>lávurduh<s n="n"/></r></p></e>
     <e><p><l>lávvordat<s n="n"/></l><r>lávurduh<s n="n"/></r></p></e>
     <e><p><l>lávži<s n="n"/></l><r>läbži<s n="n"/></r></p></e>
-    <e><p><l>láđđi<s n="n"/></l><r>läđđee<s n="n"/></r></p></e>
+    <e><p><l>láđđi<s n="n"/><s n="g7"/></l><r>läđđee<s n="n"/></r></p></e>
     <e><p><l>mannji<s n="n"/></l><r>manje<s n="n"/></r></p></e>
     <e><p><l>materiála<s n="n"/></l><r>materiaal<s n="n"/></r></p></e>
     <e><p><l>meahkástat<s n="n"/></l><r>miähástâh<s n="n"/></r></p></e>
@@ -9393,8 +9395,8 @@
     <e><p><l>riđđu<s n="n"/></l><r>lostâväldimpieggâ<s n="n"/></r></p></e>
     <e><p><l>áddjá<s n="n"/></l><r>äijih<s n="n"/></r></p></e>
     <e><p><l>sisaboahtu<s n="n"/></l><r>ánsu<s n="n"/></r></p></e>
-    <e><p><l>dikšu<s n="n"/></l><r>tipšo<s n="n"/></r></p></e><!-- Nom Actionis -->
-    <e><p><l>dikšu<s n="n"/></l><r>tipšoo<s n="n"/><s n="nomag"/></r></p></e><!-- Dahkkinamma -->
+    <e><p><l>dikšu<s n="n"/><s n="sem_act"/></l><r>tipšo<s n="n"/></r></p></e><!-- Nom Actionis -->
+    <e><p><l>dikšu<s n="n"/><s n="nomag"/></l><r>tipšoo<s n="n"/><s n="nomag"/></r></p></e><!-- Dahkkinamma -->
     <e><p><l>biehtárguhkká<s n="n"/></l><r>piättárrääsi<s n="n"/></r></p></e>
     <e><p><l>girdišillju<s n="n"/></l><r>kirdemkieddi<s n="n"/></r></p></e>
     <e><p><l>beanaráidu<s n="n"/></l><r>penuvkuálus<s n="n"/></r></p></e>
