@@ -252,7 +252,8 @@
     <e><p><l>mielde<s n="post"/></l><r>mield<s n="post"/></r></p></e>
     <e><p><l>mielde<s n="post"/></l><r>fáárun<s n="post"/></r></p></e>
     <e><p><l>nalde<s n="post"/></l><r>alne<s n="post"/></r></p></e>
-    <e><p><l>nubbi<s n="prn"/></l><r>nubebel<s n="post"/></r></p></e>
+    <e><p><l>nubbi<s n="prn"/></l><r>nubebel<s n="post"/></r></p></e>     
+    <e><p><l>oasil<s n="post"/></l><r>uásild<s n="post"/></r></p></e>
     <e><p><l>olggobealde<s n="post"/></l><r>ulguubeln<s n="post"/></r></p></e>
     <e><p><l>ovddabeallai<s n="post"/></l><r>ovdiibel<s n="post"/></r></p></e> <!-- not in sme -->
     <e><p><l>bajábeallai<s n="post"/></l><r>paajaabeln<s n="post"/></r></p></e> <!-- not in sme -->
@@ -961,7 +962,7 @@
     <e><p><l>vearuhus<s n="n"/></l><r>viäruttâs<s n="n"/></r></p></e>
     <e><p><l>veardideapmi<s n="n"/></l><r>verdidem<s n="n"/></r></p></e>
     <e><p><l>vakuuma<s n="n"/></l><r>vaakuum<s n="n"/></r></p></e>
-    <e><p><l>turisma<s n="n"/></l><r>tuuriism<s n="n"/></r></p></e>
+    <e><p><l>turisma<s n="n"/></l><r>mađhâšem<s n="n"/></r></p></e>
     <e><p><l>tráhppa<s n="n"/></l><r>rappâ<s n="n"/></r></p></e>
     <e><p><l>totem<s n="n"/></l><r>tooteem<s n="n"/></r></p></e>
     <e><p><l>telefáksa<s n="n"/></l><r>tekefaksâ<s n="n"/></r></p></e>
@@ -2065,7 +2066,7 @@
     <e><p><l>Áila<s n="np"/></l><r>Áila<s n="np"/></r></p></e>
     <e><p><l>Áile<s n="np"/></l><r>Áile<s n="np"/></r></p></e>
     <e><p><l>Áili<s n="np"/></l><r>Áili<s n="np"/></r></p></e>
-    <e><p><l>Áillohaš<s n="np"/></l><r>Áillohaš<s n="np"/></r></p></e>
+    <e><p><l>Áillohaš<s n="np"/></l><r>Áillohâš<s n="np"/></r></p></e>
     <e><p><l>Áillonieida<s n="np"/></l><r>Áillonieida<s n="np"/></r></p></e>
     <e><p><l>Áilloš<s n="np"/></l><r>Áilloš<s n="np"/></r></p></e>
     <e><p><l>Áillun<s n="np"/></l><r>Áillun<s n="np"/></r></p></e>
@@ -3192,6 +3193,9 @@
 
     <!-- ASECTION: Verbs -->
     
+    <e><p><l>seahkánit<s n="vblex"/><s n="iv"/></l><r>siähániđ<s n="vblex"/></r></p></e> 
+    <e><p><l>uhkidit<s n="vblex"/><s n="tv"/></l><r>uhkediđ<s n="vblex"/></r></p></e> 
+    <e><p><l>ilmmuhit<s n="vblex"/><s n="tv"/></l><r>almottiđ<s n="vblex"/></r></p></e> 
     <e><p><l>levget<s n="vblex"/><s n="iv"/></l><r>liputtiđ<s n="vblex"/></r></p></e> 
     <e><p><l>ilosmuvvat<s n="vblex"/><s n="iv"/></l><r>ilodiđ<s n="vblex"/></r></p></e> 
     <e><p><l>murjet<s n="vblex"/><s n="iv"/></l><r>muorjiđ<s n="vblex"/></r></p></e> 
@@ -8224,7 +8228,7 @@
     <e><p><l>on<s n="adv"/></l><r>taas<s n="adv"/></r></p></e>
     <e><p><l>on<s n="adv"/></l><r>vuod<s n="adv"/></r></p></e>
     <e><p><l>maŋŋá<s n="adv"/></l><r>maŋa<s n="adv"/></r></p></e>
-    <e><p><l>almmá<s n="adv"/></l><r>nuhtán<s n="adv"/></r></p></e><!-- smn: with abessive -ttáá -->
+    <e><p><l>almmá<s n="adv"/></l><r>nuhtán<s n="adv"/></r></p></e><!-- smn: usually with abessive -ttáá -->
     <e><p><l>nie<s n="adv"/></l><r>nuuvt<s n="adv"/></r></p></e>
     <e><p><l>ruoktot<s n="adv"/></l><r>pááikán<s n="adv"/></r></p></e>
     <e><p><l>nappo<s n="adv"/></l><r>ađai<s n="adv"/></r></p></e>
@@ -8313,7 +8317,7 @@
     <e><p><l>priváhta<s n="adj"/></l><r>priivaat<s n="adj"/></r></p></e>
     <e><p><l>oppalaš<s n="adj"/></l><r>almolâš<s n="adj"/></r></p></e>
     <e><p><l>oppalaš<s n="adj"/></l><r>almos<s n="adj"/></r></p></e>
-    <e><p><l>rabas<s n="adj"/></l><r>áávus<s n="adj"/></r></p></e>
+    <e><p><l>rabas<s n="adj"/></l><r>ávus<s n="adj"/></r></p></e>
     <e><p><l>oanehaš<s n="adj"/></l><r>uánihâš<s n="adj"/></r></p></e>
     <e><p><l>gaskasaš<s n="adj"/></l><r>koskâsâš<s n="adj"/></r></p></e>
     <e><p><l>lossat<s n="adj"/></l><r>lussâd<s n="adj"/></r></p></e>
@@ -8555,6 +8559,10 @@
 
 <!-- CSECTION: Nouns 1-m frequency ordered -->
 
+    <e><p><l>máŋggahápmásašvuohta<s n="n"/></l><r>máŋggahápmásašvuotâ<s n="n"/></r></p></e>
+    <e><p><l>smiehttámuš<s n="n"/></l><r>smiättámuš<s n="n"/></r></p></e>
+    <e><p><l>kommeanta<s n="n"/></l><r>komment<s n="n"/></r></p></e>
+    <e><p><l>kongreassa<s n="n"/></l><r>kongres<s n="n"/></r></p></e>
     <e><p><l>blogga<s n="n"/></l><r>blogi<s n="n"/></r></p></e>
     <e><p><l>almmáiolmmoš<s n="n"/></l><r>almaiolmooš<s n="n"/></r></p></e>
     <e><p><l>badjeolmmoš<s n="n"/></l><r>pajeolmooš<s n="n"/></r></p></e>
