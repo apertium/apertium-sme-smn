@@ -40,6 +40,11 @@ dev/sme_blogspot.A.nocmp.missing -text
 dev/sme_blogspot.N.nocmp.missing -text
 dev/sme_blogspot.V.noder.missing -text
 dix_pairs4manual_check/vblex_pairs.txt -text
+evaluation/1-2016/MTtext_IM.txt -text
+evaluation/1-2016/MTtext_MLO.txt -text
+evaluation/1-2016/MTtext_MS.txt -text
+evaluation/1-2016/smeorig.txt -text
+evaluation/1-2016/smn_mt.txt -text
 fi.samediggi/blogcategory_id_EQ_0_itemid_EQ_195.tmx -text
 fi.samediggi/blogcategory_id_EQ_105_itemid_EQ_167.tmx -text
 fi.samediggi/blogcategory_id_EQ_106_itemid_EQ_168.tmx -text
