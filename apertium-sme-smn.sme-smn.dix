@@ -301,7 +301,10 @@
 
     <!-- ASECTION: Adverbs -->
 
+     <e><p><l>ovttasráđiid<s n="adv"/></l><r>ohtsâšpargo<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
+   <e><p><l>farggamusat<s n="adv"/></l><r>jotelávt<s n="adv"/></r></p></e>
     <e><p><l>unnimustá<s n="adv"/></l><r>ucemustáá<s n="adv"/></r></p></e>
+    <e><p><l>uhcimustá<s n="adv"/></l><r>ucemustáá<s n="adv"/></r></p></e>
     <e><p><l>jámma<s n="adv"/></l><r>eivi<s n="adv"/></r></p></e>
     <e><p><l>dárkileappot<s n="adv"/></l><r>tärhibeht<s n="adv"/></r></p></e>
     <e><p><l>áinnas<s n="adv"/></l><r>aainâs<s n="adv"/></r></p></e>
@@ -405,6 +408,10 @@
     <e><p><l>álásjulggiid<s n="adv"/></l><r>päljisjuolgij<s n="adv"/></r></p></e>
 
     <!-- ASECTION: Adjectives -->
+   <e><p><l>ávnnahis<s n="adj"/></l><r>immateriaallâš<s n="adj"/></r></p></e>
+   <e><p><l>ekumenalaš<s n="adj"/></l><r>ekumeenlâš<s n="adj"/></r></p></e>
+   <e><p><l>aiddonas<s n="adj"/></l><r>eidusâš<s n="adj"/></r></p></e>
+   <e><p><l>sisriikkalaš<s n="adj"/></l><r>aalmuglâš<s n="adj"/></r></p></e>
    <e><p><l>otnáš<s n="adj"/></l><r>onnáš<s n="adj"/></r></p></e>
     <e><p><l>geardásaš<s n="adj"/></l><r>kiärdásâš<s n="adj"/></r></p></e>
     <e><p><l>morfologalaš<s n="adj"/></l><r>morfologalâš<s n="adj"/></r></p></e>
@@ -554,6 +561,7 @@
     <e><p><l>akademihkalaš<s n="adj"/></l><r>ameriiklâš<s n="adj"/></r></p></e>
 
     <e><p><l>guoskevaš<s n="adj"/><s n="sem_dummytag"/><s n="attr"/></l><r>kuoskâđ<s n="vblex"/><s n="prsprc"/></r></p></e>
+    <e><p><l>guoskavaš<s n="adj"/><s n="sem_dummytag"/><s n="attr"/></l><r>kuoskâđ<s n="vblex"/><s n="prsprc"/></r></p></e>
     <e><p><l>gullevaš<s n="adj"/><s n="sem_dummytag"/><s n="attr"/></l><r>kuullâđ¹<s n="vblex"/><s n="prsprc"/></r></p></e>
     <e><p><l>gulavaš<s n="adj"/></l><r>lohtâseijee<s n="adj"/></r></p></e>
     <e><p><l>ravddamuš<s n="adj"/></l><r>robdâmus<s n="adj"/></r></p></e>
@@ -3193,6 +3201,7 @@
 
     <!-- ASECTION: Verbs -->
     
+    <e><p><l>eaktudit<s n="vblex"/><s n="tv"/></l><r>vaattâđ<s n="vblex"/></r></p></e> 
     <e><p><l>seahkánit<s n="vblex"/><s n="iv"/></l><r>siähániđ<s n="vblex"/></r></p></e> 
     <e><p><l>uhkidit<s n="vblex"/><s n="tv"/></l><r>uhkediđ<s n="vblex"/></r></p></e> 
     <e><p><l>ilmmuhit<s n="vblex"/><s n="tv"/></l><r>almottiđ<s n="vblex"/></r></p></e> 
@@ -7460,6 +7469,7 @@
     <e><p><l>várjalit<s n="vblex"/><s n="tv"/></l><r>varjâliđ<s n="vblex"/></r></p></e>
     <e><p><l>váruhit<s n="vblex"/><s n="tv"/></l><r>váruttiđ<s n="vblex"/></r></p></e>
     <e><p><l>vástidit<s n="vblex"/><s n="tv"/></l><r>västidiđ<s n="vblex"/></r></p></e>
+    <e><p><l>fástidit<s n="vblex"/><s n="tv"/></l><r>västidiđ<s n="vblex"/></r></p></e>
     <e><p><l>vávašit<s n="vblex"/><s n="tv"/></l><r>komášiđ<s n="vblex"/></r></p></e>
     <e><p><l>ádelastit<s n="vblex"/><s n="tv"/></l><r>aatelistiđ<s n="vblex"/></r></p></e>
     <e><p><l>áidut<s n="vblex"/><s n="tv"/></l><r>áiđuđ<s n="vblex"/></r></p></e>
@@ -8559,7 +8569,14 @@
 
 <!-- CSECTION: Nouns 1-m frequency ordered -->
 
+     <e><p><l>eretfárren<s n="n"/></l><r>meddâlvarrim<s n="n"/></r></p></e>
+     <e><p><l>fidnu<s n="n"/></l><r>haahâ<s n="n"/></r></p></e>
+   <e><p><l>tiipa<s n="n"/></l><r>tijppâ<s n="n"/></r></p></e>
+    <e><p><l>váldu<s n="n"/></l><r>váldu<s n="n"/></r></p></e> <!-- cmp -->
+    <e><p><l>váldi<s n="n"/></l><r>väldi<s n="n"/></r></p></e>
+    <e><p><l>bargoveahka<s n="n"/></l><r>pargojuávkku<s n="n"/></r></p></e>
     <e><p><l>máŋggahápmásašvuohta<s n="n"/></l><r>máŋggahápmásašvuotâ<s n="n"/></r></p></e>
+    <e><p><l>máŋggahámatvuohta<s n="n"/></l><r>máŋggahápmásašvuotâ<s n="n"/></r></p></e>
     <e><p><l>smiehttámuš<s n="n"/></l><r>smiättámuš<s n="n"/></r></p></e>
     <e><p><l>kommeanta<s n="n"/></l><r>komment<s n="n"/></r></p></e>
     <e><p><l>kongreassa<s n="n"/><s n="g3"/></l><r>kongres<s n="n"/></r></p></e>
