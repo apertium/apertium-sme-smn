@@ -637,6 +637,8 @@ t/pending-tests -text
 t/regression-tests -text
 t/update-latest -text
 t/wiki-tests -text
+texts/100called_sme.txt -text
+texts/100called_smn.txt -text
 texts/100writers.sme.txt -text
 texts/100writers.smn.txt -text
 texts/100writers_sme.txt -text
