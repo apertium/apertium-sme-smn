@@ -647,7 +647,7 @@
      <e><p><l>várren<s n="n"/></l><r>väridâs<s n="n"/></r></p></e>
      <e><p><l>dovddaldat<s n="n"/></l><r>tubdâldâh<s n="n"/></r></p></e>
     <e><p><l>ráhkadus<s n="n"/></l><r>rááhtus<s n="n"/></r></p></e>
-    <e><p><l>ovda<s n="n"/></l><r>ovdâ<s n="n"/></r></p></e>
+    <e><p><l>ovda<s n="n"/></l><r>ovdâ<s n="n"/></r></p></e> <!-- for cmp -->
     <e><p><l>veahkeheaddji<s n="n"/></l><r>išedeijee<s n="n"/></r></p></e>
     <e><p><l>njealjejuvllat<s n="n"/></l><r>muávloo<s n="n"/></r></p></e>
     <e><p><l>skohter<s n="n"/></l><r>moottorkiälkká<s n="n"/></r></p></e>
@@ -8562,7 +8562,7 @@
     <e><p><l>máŋggahápmásašvuohta<s n="n"/></l><r>máŋggahápmásašvuotâ<s n="n"/></r></p></e>
     <e><p><l>smiehttámuš<s n="n"/></l><r>smiättámuš<s n="n"/></r></p></e>
     <e><p><l>kommeanta<s n="n"/></l><r>komment<s n="n"/></r></p></e>
-    <e><p><l>kongreassa<s n="n"/></l><r>kongres<s n="n"/></r></p></e>
+    <e><p><l>kongreassa<s n="n"/><s n="g3"/></l><r>kongres<s n="n"/></r></p></e>
     <e><p><l>blogga<s n="n"/></l><r>blogi<s n="n"/></r></p></e>
     <e><p><l>almmáiolmmoš<s n="n"/></l><r>almaiolmooš<s n="n"/></r></p></e>
     <e><p><l>badjeolmmoš<s n="n"/></l><r>pajeolmooš<s n="n"/></r></p></e>
