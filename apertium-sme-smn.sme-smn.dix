@@ -407,6 +407,7 @@
     <e><p><l>áidnu<s n="adv"/></l><r>áinoo<s n="adv"/></r></p></e>
     <e><p><l>álo<s n="adv"/></l><r>ain<s n="adv"/></r></p></e>
     <e><p><l>álásjulggiid<s n="adv"/></l><r>päljisjuolgij<s n="adv"/></r></p></e>
+    <e><p><l>dassái<s n="adv"/></l><r>tassaaš<s n="adv"/></r></p></e>
 
     <!-- ASECTION: Adjectives -->
    <e><p><l>ávnnahis<s n="adj"/></l><r>immateriaallâš<s n="adj"/></r></p></e>
@@ -659,6 +660,7 @@
      <e><p><l>logahat<s n="n"/></l><r>luvâttuh<s n="n"/></r></p></e>     
      <e><p><l>geavat<s n="n"/></l><r>vuáhádâh<s n="n"/></r></p></e>
      <e><p><l>juoiggus<s n="n"/></l><r>juáigus<s n="n"/></r></p></e>
+     <e><p><l>sátnejođiheaddji<s n="n"/></l><r>saavâjođetteijee<s n="n"/></r></p></e>
 
  
      <e><p><l>várren<s n="n"/></l><r>väridâs<s n="n"/></r></p></e>
@@ -4377,6 +4379,7 @@
 
     <!--    BSECTION: Nouns -->
 
+    <e><p><l>r<s n="n"/></l><r>š<s n="n"/></r></p></e>
     <e><p><l>geavaheapmi<s n="n"/></l><r>kevttim<s n="n"/></r></p></e>
    <e><p><l>tuberkulosa<s n="n"/></l><r>tuberkulos<s n="n"/></r></p></e>
     <e><p><l>searvvušvuohta<s n="n"/></l><r>siärvuslâšvuotâ<s n="n"/></r></p></e>
@@ -7074,6 +7077,7 @@
 
     <!--    BSECTION: Verbs  -->
 
+    <e><p><l>r<s n="vblex"/></l><r>š<s n="vblex"/></r></p></e>
     <e><p><l>oččodit<s n="vblex"/><s n="tv"/></l><r>viggâđ<s n="vblex"/></r></p></e>
     <e><p><l>konsulteret<s n="vblex"/><s n="tv"/></l><r>konsulteeriđ<s n="vblex"/></r></p></e>
     <e><p><l>adopteret<s n="vblex"/><s n="tv"/></l><r>adoptistiđ<s n="vblex"/></r></p></e>
@@ -7575,7 +7579,7 @@
     <e><p><l>boatkanaddat<s n="vblex"/><s n="iv"/></l><r>potkânâddâđ<s n="vblex"/></r></p></e>
     <e><p><l>bodnjasit<s n="vblex"/><s n="iv"/></l><r>punjâgiđ<s n="vblex"/></r></p></e>
     <e><p><l>bogostallat<s n="vblex"/><s n="tv"/></l><r>povvâstâllâđ<s n="vblex"/></r></p></e>
-    <e><p><l>bohkat<s n="vblex"/><s n="tv"/></l><r>puuhâđ<s n="vblex"/></r></p></e>
+    <e><p><l>bohkat<s n="vblex"/><s n="tv"/></l><r>pooráđ<s n="vblex"/></r></p></e>
     <e><p><l>bohčit<s n="vblex"/><s n="tv"/></l><r>paččeeđ<s n="vblex"/></r></p></e>
     <e><p><l>borahit<s n="vblex"/><s n="tv"/></l><r>purâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>bordit<s n="vblex"/><s n="tv"/></l><r>pardeđ<s n="vblex"/></r></p></e>
@@ -7840,7 +7844,7 @@
     <e><p><l>juoigat<s n="vblex"/><s n="tv"/></l><r>juoigâđ<s n="vblex"/></r></p></e>
     <e><p><l>juraidit<s n="vblex"/><s n="iv"/></l><r>jurdijdiđ<s n="vblex"/></r></p></e>
     <e><p><l>jurddašit<s n="vblex"/><s n="tv"/></l><r>jurdâččiđ<s n="vblex"/></r></p></e>
-    <e><p><l>jáhkkit<s n="vblex"/><s n="tv"/></l><r>jähittiđ<s n="vblex"/></r></p></e>
+    <e><p><l>jáhkkit<s n="vblex"/><s n="tv"/></l><r>oskođ<s n="vblex"/></r></p></e>
     <e><p><l>jámálgit<s n="vblex"/><s n="iv"/></l><r>jámálgiđ<s n="vblex"/></r></p></e>
     <e><p><l>jápmit<s n="vblex"/><s n="iv"/></l><r>jäämmiđ<s n="vblex"/></r></p></e>
     <e><p><l>játnat<s n="vblex"/><s n="iv"/></l><r>jaannâđ<s n="vblex"/></r></p></e>
@@ -9618,7 +9622,6 @@
     <e><p><l>nammadit<s n="vblex"/><s n="tv"/></l><r>nomâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>muitit<s n="vblex"/><s n="tv"/></l><r>mušteđ<s n="vblex"/></r></p></e>
     <e><p><l>oahpahit<s n="vblex"/><s n="tv"/></l><r>máttááttiđ<s n="vblex"/></r></p></e>
-    <e><p><l>gávnnahit<s n="vblex"/><s n="tv"/></l><r>kalgâđ<s n="vblex"/></r></p></e>
     <e><p><l>gávnnahit<s n="vblex"/><s n="tv"/></l><r>selgâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>gávnnahit<s n="vblex"/><s n="tv"/></l><r>selvâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>čuoččuhit<s n="vblex"/><s n="tv"/></l><r>cirkkeđ<s n="vblex"/></r></p></e>
