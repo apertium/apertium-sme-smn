@@ -659,6 +659,9 @@ texts/eval/1-2016/MTeval_MS.txt -text
 texts/eval/1-2016/MTeval_PM.txt -text
 texts/eval/1-2016/sme_src.txt -text
 texts/eval/1-2016/smn_mt.txt -text
+texts/eval/sme2smn_mt_eval_201601.html -text
+texts/eval/sme2smn_mt_eval_201601_no-ids.html -text
+texts/eval/txt2html.xsl -text
 texts/giella.sme.txt -text
 texts/giella.smn.txt -text
 texts/giellagaldu_tyo.sme.txt -text
