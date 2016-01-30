@@ -133,7 +133,9 @@ Write comments to forthcoming rules before this line -->
     </match>
     <match lemma="ge" tags="pcle.*"/>
   </rule>
- 
+
+
+<!-- gii --> 
   <rule weight="1.0">
     <match lemma="gii" tags="prn.ind.*">
       <select lemma="kii" tags="prn.ind.*"/>
@@ -154,6 +156,8 @@ Write comments to forthcoming rules before this line -->
     <match lemma="ge" tags="pcle.*"/>
   </rule>
  
+ 
+<!-- gal --> 
    <rule weight="1.0">
     <match lemma="gal" tags="adv.*">
       <select lemma="kal" tags="adv.*"/>
@@ -176,6 +180,8 @@ Write comments to forthcoming rules before this line -->
     </match>
   </rule>
 
+
+  <!--guhte-->
    <rule weight="1.0">
     <match lemma="guhte" tags="prn.*">
       <select lemma="kotemuš" tags="prn.*"/>
@@ -469,7 +475,26 @@ Write comments to forthcoming rules before this line -->
       <select lemma="jieškote"/>
     </match>
   <match lemma="ge" tags="pcle.*"/>
+</rule>
 
+  <!-- lohkat -->
+  <rule weight="1.0">
+    <match lemma="lohkat">
+      <select lemma="luuhâđ"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="lohkat">
+      <select lemma="ettâđ"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+	  <match lemma=","/>
+   <match lemma="lohkat"> 
+      <select lemma="ettâđ"/>
+    </match>
   </rule>
 
 

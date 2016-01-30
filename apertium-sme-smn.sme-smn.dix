@@ -8,6 +8,7 @@
     <sdef n="adj"        c="Adjective"/>
     <sdef n="attr"        c="Attributive"/>
     <sdef n="ij"        c="Interjection"/>
+    <sdef n="abbr"        c="Abbreviation"/>
     <sdef n="np"       c="Proper noun"/>
     <sdef n="coll"       c="Collective number"/>
     <sdef n="num"      c="Numeral"/>
@@ -3414,6 +3415,7 @@
     <e><p><l>juhkat<s n="vblex"/><s n="tv"/></l><r>juuhâđ<s n="vblex"/></r></p></e>
     <e><p><l>leat<s n="vblex"/><s n="iv"/></l><r>leđe<s n="vblex"/></r></p></e>
     <e><p><l>lohkat<s n="vblex"/><s n="tv"/></l><r>luuhâđ<s n="vblex"/></r></p></e>
+    <e><p><l>lohkat<s n="vblex"/><s n="tv"/></l><r>ettâđ<s n="vblex"/></r></p></e>
     <e><p><l>mannat<s n="vblex"/><s n="iv"/></l><r>moonnâđ<s n="vblex"/></r></p></e>
     <e><p><l>muitalit<s n="vblex"/><s n="tv"/></l><r>muštâliđ<s n="vblex"/></r></p></e>
     <e><p><l>máinnastit<s n="vblex"/><s n="tv"/></l><r>mainâstiđ<s n="vblex"/></r></p></e>
