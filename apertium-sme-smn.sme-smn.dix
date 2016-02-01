@@ -666,6 +666,9 @@
      <e><p><l>ságastallan<s n="n"/></l><r>savâstâllâđ<s n="n"/></r></p></e>
      <e><p><l>ovda<s n="n"/></l><r>ovdâ<s n="n"/></r></p></e>
      <e><p><l>álbmogiidvádjolus<s n="n"/></l><r>almugijvajâldem<s n="n"/></r></p></e>
+     <e><p><l>vuovdegaccet<s n="n"/></l><r>vyevdicissááš<s n="n"/></r></p></e>
+     <e><p><l>vuovdegaccehaš<s n="n"/></l><r>vyevdicissááš<s n="n"/></r></p></e>
+     <e><p><l>gordnegihppu<s n="n"/></l><r>jivekieddee<s n="n"/></r></p></e>
 
  
      <e><p><l>várren<s n="n"/></l><r>väridâs<s n="n"/></r></p></e>
@@ -3226,6 +3229,7 @@
     <e><p><l>eaktudit<s n="vblex"/><s n="tv"/></l><r>vaattâđ<s n="vblex"/></r></p></e> 
     <e><p><l>seahkánit<s n="vblex"/><s n="iv"/></l><r>siähániđ<s n="vblex"/></r></p></e> 
     <e><p><l>uhkidit<s n="vblex"/><s n="tv"/></l><r>uhkediđ<s n="vblex"/></r></p></e> 
+    <e><p><l>mearrašuvvat<s n="vblex"/><s n="tv"/></l><r>miärášuđ<s n="vblex"/></r></p></e><!-- OBS! MLO check lemma--> 
     <e><p><l>ilmmuhit<s n="vblex"/><s n="tv"/></l><r>almottiđ<s n="vblex"/></r></p></e> 
     <e><p><l>levget<s n="vblex"/><s n="iv"/></l><r>liputtiđ<s n="vblex"/></r></p></e> 
     <e><p><l>ilosmuvvat<s n="vblex"/><s n="iv"/></l><r>ilodiđ<s n="vblex"/></r></p></e> 
@@ -3327,7 +3331,7 @@
     <e><p><l>vássit<s n="vblex"/><s n="iv"/></l><r>moonnâđ<s n="vblex"/></r></p></e> 
     <e><p><l>váidudit<s n="vblex"/><s n="tv"/></l><r>jávuttuttiđ<s n="vblex"/></r></p></e> 
     <e><p><l>biebmat<s n="vblex"/><s n="tv"/></l><r>piemmâđ<s n="vblex"/></r></p></e> 
-    <e><p><l>reahkkit<s n="vblex"/><s n="tv"/></l><r>kelijdiđ<s n="vblex"/></r></p></e> 
+    <e><p><l>reahkkát<s n="vblex"/><s n="tv"/></l><r>kelijdiđ<s n="vblex"/></r></p></e> 
     <e><p><l>vuodjut<s n="vblex"/><s n="iv"/></l><r>vuáijuđ<s n="vblex"/></r></p></e> 
     <e><p><l>deaividit<s n="vblex"/><s n="tv"/></l><r>teivâđ<s n="vblex"/></r></p></e> 
     <e><p><l>heahkastuhttit<s n="vblex"/><s n="tv"/></l><r>olâttiđ<s n="vblex"/></r></p></e> 
