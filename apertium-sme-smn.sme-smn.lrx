@@ -406,7 +406,6 @@ Write comments to forthcoming rules before this line -->
     </match> 
   </rule>
 
-
   <rule weight="0.6">
     <match lemma="ja"/>
     <match lemma="maiddái" tags="adv.*">
@@ -429,7 +428,6 @@ Write comments to forthcoming rules before this line -->
       <select lemma="puohah"/>
     </match> 
   </rule>
-
 
   <rule weight="0.6">
     <match lemma="buot" tags="prn.*">
@@ -457,7 +455,7 @@ Write comments to forthcoming rules before this line -->
 
 
 
-
+<!-- guhte -->
   <rule weight="1.0">
     <match lemma="guhte">
       <select lemma="kihheen"/>
@@ -496,6 +494,31 @@ Write comments to forthcoming rules before this line -->
       <select lemma="ettâđ"/>
     </match>
   </rule>
+
+
+<!-- riekti -->
+  <rule weight="1.0">
+    <match lemma="riekti">
+      <select lemma="vuoigâdvuotâ"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="riekti">
+      <select lemma="riehti"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+  <match lemma="allat" tags="adj.*"/>
+   <match lemma="riekti">
+      <select lemma="riehti"/>
+    </match>
+
+  </rule>
+
+
+
 
 
 </rules>
