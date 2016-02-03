@@ -640,6 +640,10 @@ texts/100writers_sme.txt -text
 texts/100writers_smn.txt -text
 texts/6texts_sme.txt -text
 texts/6texts_smn.txt -text
+texts/OPS_2014.sme.docx -text svneol=unset#application/msword
+texts/OPS_2014.sme.txt -text
+texts/OPS_2014.smn.docx -text svneol=unset#application/vnd.openxmlformats-officedocument.wordprocessingml.document
+texts/OPS_2014.smn.txt -text
 texts/aanaarkielda_sme.txt -text
 texts/aanaarkielda_smn.txt -text
 texts/adpositions_sme.txt -text
