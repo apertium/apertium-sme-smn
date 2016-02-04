@@ -345,6 +345,8 @@
       <cat-item tags="prn.*.p3.du.gen.*"/>                     
       <cat-item tags="prn.*.p2.du.gen.*"/>                     
       <cat-item tags="prn.*.p1.du.gen.*"/>                     
+      <cat-item tags="prn.dem.sg.gen.*"/>                     
+      <cat-item tags="prn.dem.pl.gen.*"/>                     
     </def-cat>  
     <def-cat n="agreem-sg-gen">                             
       <cat-item tags="np.*.sg.gen.*"/>                    
@@ -903,6 +905,7 @@
       <list-item v="kuussân"/> 
     </def-list>
     <def-list n="loc_verbs">
+      <list-item v="lohkat"/>
       <list-item v="hállat"/>
       <list-item v="hupmat"/>
       <list-item v="muitalit"/>
