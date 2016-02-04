@@ -496,11 +496,27 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.6">
+   <or>
 	  <match lemma=","/>
+   </or>
    <match lemma="lohkat"> 
       <select lemma="ettâđ"/>
     </match>
   </rule>
+
+
+  <rule weight="0.6">
+   <match lemma="lohkat"> 
+      <select lemma="ettâđ"/>
+    </match>
+       <or>
+	  <match lemma="ahte"/>
+	  <match lemma="ná"/>
+	  <match lemma="nu"/>
+   </or>
+
+  </rule>
+
 
   <!-- fas -->
   <rule weight="1.0">
@@ -558,7 +574,7 @@ Write comments to forthcoming rules before this line -->
     </match> 
   </rule>
 
-  <rule weight="0.6">
+  <rule weight="0.6"><!-- Orru amasin -->
    <match lemma="orrut" tags="vblex.*">
       <select lemma="orroođ" tags="vblex.*"/>
     </match>
