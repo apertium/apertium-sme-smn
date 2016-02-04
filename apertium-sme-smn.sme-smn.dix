@@ -656,6 +656,7 @@
     <!-- ASECTION: Nouns -->  
 
 
+     <e><p><l>seavagiella<s n="n"/></l><r>seevvimkielâ<s n="n"/></r></p></e>
      <e><p><l>panela<s n="n"/></l><r>paaneel<s n="n"/></r></p></e>
      <e><p><l>ofelaš<s n="n"/></l><r>uápisteijee<s n="n"/><s n="nomag"/></r></p></e>
      <e><p><l>vuolleskuvla<s n="n"/></l><r>vyeiliškovlâ<s n="n"/></r></p></e>
@@ -3229,6 +3230,7 @@
 
     <!-- ASECTION: Verbs -->
     
+    <e><p><l>bagadit<s n="vblex"/><s n="tv"/></l><r>stivriđ<s n="vblex"/></r></p></e> 
     <e><p><l>guorrat<s n="vblex"/><s n="tv"/></l><r>kuorrâđ<s n="vblex"/></r></p></e> 
     <e><p><l>eaktudit<s n="vblex"/><s n="tv"/></l><r>vaattâđ<s n="vblex"/></r></p></e> 
     <e><p><l>seahkánit<s n="vblex"/><s n="iv"/></l><r>siähániđ<s n="vblex"/></r></p></e> 
@@ -8260,7 +8262,7 @@
     <e><p><l>ovdal<s n="adv"/></l><r>ovdil<s n="adv"/></r></p></e>
     <e><p><l>dasto<s n="adv"/></l><r>tastoo<s n="adv"/></r></p></e>
     <e><p><l>ollu<s n="adv"/></l><r>ennuv<s n="adv"/></r></p></e>
-    <e><p><l>ná<s n="adv"/></l><r>nävt<s n="adv"/></r></p></e>
+    <e><p><l>ná<s n="adv"/></l><r>návt<s n="adv"/></r></p></e>
     <e><p><l>dattetge<s n="adv"/></l><r>teđet<s n="adv"/></r></p></e>
     <e><p><l>vuos<s n="adv"/></l><r>vist<s n="adv"/></r></p></e>
     <e><p><l>vuhtii<s n="adv"/></l><r>vuotân<s n="adv"/></r></p></e>
