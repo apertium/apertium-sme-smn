@@ -173,9 +173,11 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.6">
-    <or><match tags="n.*"/>
-    <match tags="num.*"/>
-    <match tags="np.*"/></or>
+    <or>
+      <match tags="n.*"/>
+      <match tags="num.*"/>
+      <match tags="np.*"/>
+    </or>
     <match lemma="gal" tags="adv.*">
       <select lemma="kale" tags="adv.*"/>
     </match>
@@ -281,12 +283,16 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.6">
-    <or><match lemma="vuolgit" tags="vblex.*"/>
+    <or>
+      <match lemma="vuolgit" tags="vblex.*"/>
+      <match lemma="váldit" tags="vblex.*"/>
     </or>
-	<or><match tags="n.sem_hum.*"/>
+    <or>
+        <match tags="n.sem_hum.*"/>
 	<match tags="n.*.sem_hum.*"/>
 	<match tags="n.sem_ani.*"/>
-	<match tags="prn.pers.*"/></or>
+	<match tags="prn.pers.*"/>
+    </or>
     <match lemma="mielde" tags="post.*">
       <select lemma="fáárun"/>
     </match>
@@ -496,6 +502,26 @@ Write comments to forthcoming rules before this line -->
     </match>
   </rule>
 
+  <!-- fas -->
+  <rule weight="1.0">
+    <match lemma="fas">
+      <select lemma="vuod"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="fas">
+      <select lemma="oppeet"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+	  <match tags="vblex.*"/>
+   <match lemma="fas"> 
+      <select lemma="oppeet"/>
+    </match>
+  </rule>
+
 
 <!-- riekti -->
   <rule weight="1.0">
@@ -516,28 +542,6 @@ Write comments to forthcoming rules before this line -->
       <select lemma="riehti"/>
     </match>
   </rule>
-
-
-<!-- riekti -->
-  <rule weight="1.0">
-    <match lemma="riekti">
-      <select lemma="vuoigâdvuotâ"/>
-    </match>
-  </rule>
-
-  <rule weight="0.5">
-    <match lemma="riekti">
-      <select lemma="riehti"/>
-    </match> 
-  </rule>
-
-  <rule weight="0.6">
-  <match lemma="allat" tags="adj.*"/>
-   <match lemma="riekti">
-      <select lemma="riehti"/>
-    </match>
-  </rule>
-
 
 
 
