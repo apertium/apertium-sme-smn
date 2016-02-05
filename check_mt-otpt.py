@@ -60,7 +60,7 @@ def prettify(elem):
 def getAMT(f,o_dir):
     """Return a XML structure enriched with the Apertium MT output.
     """
-    print '... processing ' + str(f)
+    print('... processing ' + str(f))
 
     cwd = os.getcwd()
     out_dir_path = os.path.join(cwd,o_dir)
@@ -112,9 +112,9 @@ def getAMT(f,o_dir):
         o_tree.write(os.path.join(out_dir_path,str(file_name)),
                     xml_declaration=True,encoding='utf-8',
                     method="xml")
-    print 'DONE ' + str(f) + '\n\n'
+    print('DONE ' + str(f) + '\n\n')
 
-table_style = '<style type="text/css">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:8px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}\n.tg th{text-align:left;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:8px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}\n.tg .tg-sme{background-color:#c0c0c0;vertical-align:top;font-weight:bold;}\n.tg .tg-smn{background-color:#efefef;vertical-align:top;font-style:italic;}\n.tg .tg-amt{vertical-align:top;font-style:normal;border-bottom: 2pt solid;}</style>'
+table_style = '<style type="text/css">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:8px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}\n.tg th{text-align:left;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:8px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}\n.tg .tg-sme{background-color:#c0c0c0;vertical-align:top;font-weight:bold;}\n.tg .tg-smn{background-color:#efefef;vertical-align:top;font-style:normal;}\n.tg .tg-amt{vertical-align:top;font-style:normal;border-bottom: 2pt solid;}</style>'
 
 # parameters to be adjusted as needed
 s_lang = 'sme'
@@ -146,9 +146,9 @@ def main():
     o_dir = 'otpt_dir'
 
     if (total == 3):
-    	print '... total ' + str(total)
+        print('... total ' + str(total))
         if str(sys.argv[1]) == '-f':
-        	#print '... file ' + str(sys.argv[1])
+        #print '... file ' + str(sys.argv[1])
         	i_file = str(sys.argv[2])
         	if i_file.endswith('tmx'):
         		getAMT(i_file,o_dir)
