@@ -306,14 +306,16 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.6">
-	<or><match lemma="guhtemuš"/>
+	<or>
+	<match lemma="guhtemuš"/>
 	<match lemma="gii"/>
 	<match lemma="guhte"/>
 	<match tags="prn.pers.*"/>
 	<match tags="n.sem_hum.*"/>
 	<match tags="n.*.sem_hum.*"/>
 	<match tags="n.sem_ani.*"/>
-	<match tags="prn.ref.*"/> </or>
+	<match tags="prn.ref.*"/> 
+   </or>
     <match lemma="mielde" tags="post.*">
       <select lemma="fáárust"/>
     </match>
@@ -380,8 +382,10 @@ Write comments to forthcoming rules before this line -->
    <match lemma="birra"> <!-- Sun pargâ pirrâmpeeivi miätä. -->
       <select lemma="miätá"/>
     </match>
-     <or><match tags="n.sem_time.*"/>
-     <match tags="n.sem_measr_time.*"/></or>
+     <or>
+       <match tags="n.sem_time.*"/>
+       <match tags="n.sem_measr_time.*"/>
+     </or>
   </rule>
 
   <rule weight="1.0">
@@ -582,6 +586,49 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
 
+<!-- bargat -->
+  <rule weight="1.0">
+    <match lemma="bargat">
+      <select lemma="porgâđ"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="bargat">
+      <select lemma="toohâđ"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+   <match tags="*.*.*.acc.*"/>
+   <match lemma="bargat" tags="vblex.*">
+      <select lemma="toohâđ" tags="vblex.*"/>
+    </match>
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="bargat">
+      <select lemma="toohâđ"/>
+    </match>
+    <or>
+   <match tags="*.*.*.acc.*"/>
+   <match tags="*.*.acc.*"/>
+   </or>
+   </rule>
+
+  <rule weight="0.6">
+   <match lemma="bargat">
+      <select lemma="toohâđ"/>
+    </match>
+   <match tags="*.*.*.gen.*"/>
+    <or>
+      <match tags="*.*.*.acc.*"/>
+      <match tags="*.*.acc.*"/>
+   </or>
+   </rule>
+
+
+
 <!-- árbi -->
   <rule weight="1.0">
     <match lemma="árbi">
@@ -606,5 +653,80 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
 
+<!-- coggat -->
+  <rule weight="1.0">
+    <match lemma="coggat">
+      <select lemma="nutkâđ"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+   <match lemma="coggat">
+      <select lemma="kárvudâttâđ"/>
+   </match>
+  </rule>
+
+  
+  <rule weight="0.6">
+    <match lemma="coggat">
+      <select lemma="kárvudâttâđ"/>
+    </match> 
+   <match tags="n.sem_clth.*"/>  
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="coggat">
+      <select lemma="kárvudâttâđ"/>
+    </match> 
+    <match/>
+   <match tags="n.sem_clth.*"/>  
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="coggat">
+      <select lemma="kárvudâttâđ"/>
+    </match> 
+    <match/>
+    <match/>
+   <match tags="n.sem_clth.*"/>  
+  </rule>
+
+
+<!-- čuojahit -->
+  <rule weight="1.0">
+    <match lemma="čuojahit">
+      <select lemma="čuojâttiđ"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="čuojahit">
+      <select lemma="suáittiđ"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="čuojahit">
+      <select lemma="suáittiđ"/>
+   </match>
+   <match tags="*.*.*.ill.*"/>
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="čuojahit">
+      <select lemma="suáittiđ"/>
+   </match>
+   <match/>
+   <match tags="*.*.*.ill.*"/>
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="čuojahit">
+      <select lemma="suáittiđ"/>
+   </match>
+   <match/>
+   <match/>
+   <match tags="*.*.*.ill.*"/>
+  </rule>
 
 </rules>
