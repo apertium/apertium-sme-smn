@@ -1,32 +1,5 @@
-
 <!-- Write comments to forthcoming rules after this line
 
-sáhttit
-North Saami sáhttit should mainly be translated with "pyehtiđ", not with sättiđ. Sättiđ: Mun sáátám puáttiđ. 'I might come.'; Mun puávtám puáttiđ. 'I am able to come.'
-
-
-fáárust and mield
-Fáárust: to be used when someone has taken something or someone with him/her, like Must lii puttâl fáárust; Mun peesâm Avelân Maati / suu fáárust. (In the first case, we have a habitive sentence + fáárust; in the second case, we need a name (or some other noun  - pennuu fáárust, eres tave-enâmij fáárust??) or personal pronomin.
-
-Other use - I see these as an ellipse:
-
-Jis halijdah leđe fáárust Saijoos Kulttuurohjelmpaaŋkist, vääldi ohtâvuođâ Sajosân.
-
-Suomâ lii fáárust orniimin kyehti miäldustábáhtus. 
-Lenne ij pissoom fáárust. 
-
-Post:
-Mield: to be used in time expressions: Tot kale vájálduvá aaigij mield / ääigi mield OR in expressing the way:Kuobžâ juuđij pálgá mield.
-Other: 
-Laavâ	mield	sämmilâš lii olmooš, kote ana jieijâs sämmilâžžân toin iävttoin , ete sun jieš teikâ aainâs-uv ohtâ suu vanhimijn teikâ ááhust já äijihist lii oppâm sämikielâ vuossâmuu kiellân.
-
-
-mist lii riijkâvijđosâš ovdâsvástádâs sämikielâ já sämmilij kulttuur alemus máttááttâsâst > alemuu máttááttâsâst (beallekongruensa attr)
-
-Tai lasseen instituutist #máttááttiđ uálgiamnâsin sämikielâ vieres kiellân já tu
-lkkuum sämikielâ.
-
-Why do we get another word order here; should also be nom actionis; sämikielâ tulkkum. Now wee seem to have a verb.
 
 
 Write comments to forthcoming rules before this line -->
@@ -79,11 +52,12 @@ Write comments to forthcoming rules before this line -->
   <rule weight="0.5"><match lemma="mánáidmánná" tags="n.*"><select lemma="áijuh"/></match></rule>
   <rule weight="0.6"><match tags="np.ant.m.*"/><match lemma="mánáidmánná" tags="n.*"><select lemma="áijuh"/></match></rule> <!-- Pierâ áijuheh -->
 
- 
+ <!-- fertet -->
   <rule weight="1.0">
     <match lemma="fertet" tags="vblex.*"><select lemma="kolgâđ" tags="vblex.*"/></match>
   </rule>
 
+  <!-- sápmi -->
   <rule weight="1.0">
     <match lemma="sápmi" tags="n.*">
       <select lemma="sämmilâš" tags="n.*"/>
@@ -115,6 +89,7 @@ Write comments to forthcoming rules before this line -->
     </match>
   </rule>
 
+<!-- gosa -->
   <rule weight="1.0">
     <match lemma="gosa" tags="adv">
       <select lemma="kuus" tags="adv.*"/>
@@ -204,13 +179,15 @@ Write comments to forthcoming rules before this line -->
     </match>
     <match lemma="ge" tags="pcle.*"/>
   </rule>
- 
+
+<!-- oarjjás --> 
     <rule weight="1.0">
     <match lemma="oarjjás" tags="adv.*">
       <select lemma="viestârân" tags="adv.*"/>
     </match>
   </rule>
 
+<!-- ge -->
   <rule weight="1.0">
     <match lemma="ge">
       <select lemma="-uv"/>
@@ -229,7 +206,6 @@ Write comments to forthcoming rules before this line -->
     </match>
   </rule>
 
-
   <rule weight="0.6">
      <match lemma="ii" tags="vblex.*"/>
     <match lemma="ge">
@@ -244,6 +220,7 @@ Write comments to forthcoming rules before this line -->
       <select lemma="gin"/>
     </match>
   </rule>
+
   <rule weight="0.6">
     <match/>
     <match lemma="ge">
@@ -260,6 +237,7 @@ Write comments to forthcoming rules before this line -->
       <select lemma="gin"/>
     </match>
   </rule>
+
   <rule weight="0.6">
      <match lemma="ii" tags="vblex.*"/>
     <match/>
@@ -270,6 +248,7 @@ Write comments to forthcoming rules before this line -->
     </match>
   </rule>
 
+<!-- mielde -->
   <rule weight="1.0">
     <match lemma="mielde" tags="post.*">
       <select lemma="mield"/>
@@ -321,7 +300,6 @@ Write comments to forthcoming rules before this line -->
     </match>
   </rule>
 
-
   <rule weight="1.0">
     <match lemma="mielde" tags="adv.*">
       <select lemma="fáárust"/>
@@ -347,6 +325,7 @@ Write comments to forthcoming rules before this line -->
     </match>
   </rule>
 
+<!-- jándor -->
   <rule weight="1.0">
     <match lemma="jándor">
       <select lemma="jándur"/>
@@ -366,6 +345,8 @@ Write comments to forthcoming rules before this line -->
     </match>
   </rule>
 
+
+<!-- birra -->
   <rule weight="1.0">
     <match lemma="birra">
       <select lemma="pirrâ"/>
@@ -388,12 +369,13 @@ Write comments to forthcoming rules before this line -->
      </or>
   </rule>
 
+
+<!-- nubbi -->
   <rule weight="1.0">
     <match lemma="nubbi" tags="prn.*">
       <select lemma="nubbe"/>
     </match>
   </rule>
-
 
   <rule weight="1.1">
     <match lemma="nubbi" tags="prn.ind.sg.gen.*"> <!-- rääji nubebel -->
@@ -404,7 +386,6 @@ Write comments to forthcoming rules before this line -->
 
 
 <!-- maiddái -->
-
   <rule weight="1.0">
     <match lemma="maiddái" tags="adv.*">
       <select lemma="meiddei"/>
@@ -427,7 +408,6 @@ Write comments to forthcoming rules before this line -->
 
 
 <!-- buot -->
-
   <rule weight="1.0">
     <match lemma="buot" tags="prn.*">
       <select lemma="puoh"/>
@@ -463,7 +443,6 @@ Write comments to forthcoming rules before this line -->
 	<match tags="n.sem_ani.*"/>
 	<match lemma="dávvir" tags="n.*"/> </or>
   </rule>
-
 
 
 <!-- guhte -->
@@ -508,7 +487,6 @@ Write comments to forthcoming rules before this line -->
     </match>
   </rule>
 
-
   <rule weight="0.6">
    <match lemma="lohkat"> 
       <select lemma="ettâđ"/>
@@ -518,7 +496,6 @@ Write comments to forthcoming rules before this line -->
 	  <match lemma="ná"/>
 	  <match lemma="nu"/>
    </or>
-
   </rule>
 
 
