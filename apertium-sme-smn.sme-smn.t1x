@@ -56,6 +56,7 @@
       <cat-item tags="num.cmp"/>
       <cat-item tags="num.cmp.guio"/>
       <cat-item tags="num.cmp_sggen.cmp"/>
+      <cat-item tags="num.cmp_plgen.cmp"/>
     </def-cat>
      <def-cat n="geahččatverb">
       <cat-item lemma="geahččat" tags="vblex.*"/>
@@ -874,6 +875,7 @@
     <def-var n="adpos_chunk_name"/>
     <def-var n="feara_chunk_name"/>
     <def-var n="object"/>
+    <def-var n="caseFirstWord"/> <!-- added because of Omega-T -->
   </section-def-vars>
 
   <section-def-lists>
@@ -905,6 +907,8 @@
       <list-item v="kuussân"/> 
     </def-list>
     <def-list n="loc_verbs">
+      <list-item v="jurddašit"/>
+      <list-item v="jurddahit"/>
       <list-item v="lohkat"/>
       <list-item v="hállat"/>
       <list-item v="hupmat"/>
@@ -939,7 +943,7 @@
         <let>
           <clip pos="1" side="tl" part="tags"/>
                <concat>
-                 <clip pos="1" side="tl" part="a_npagree_type"/>
+                 <clip pos="1" side="tl" part="a_npagree_type"/>  <!-- adj, prn.ind. etc, num -->
                  <clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/>
                  <clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/> 
                </concat>                
@@ -2020,7 +2024,7 @@
         <pattern-item n="beallai"/>
       </pattern>
       <action>
-        <let><clip pos="1" side="tl" part="lemma"/><lit v="nubebel"/></let> 
+        <let><clip pos="1" side="tl" part="lem"/><lit v="nubebel"/></let> 
          <let><clip pos="1" side="tl" part="tags"/><lit-tag v="post"/></let> 
         <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let> 
 	<out>
