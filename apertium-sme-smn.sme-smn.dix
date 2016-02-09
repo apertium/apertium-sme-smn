@@ -303,8 +303,9 @@
     <e><p><l>goittotge<s n="pcle"/></l><r>kuittâg<s n="pcle"/></r></p></e>
 
     <!-- ASECTION: Adverbs -->
-     <e><p><l>ovttasráđiid<s n="adv"/></l><r>ohtsâšpargo<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
-   <e><p><l>farggamusat<s n="adv"/></l><r>jotelávt<s n="adv"/></r></p></e>
+    <e><p><l>mealgadii<s n="adv"/></l><r>masa<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
+    <e><p><l>ovttasráđiid<s n="adv"/></l><r>ohtsâšpargo<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
+    <e><p><l>farggamusat<s n="adv"/></l><r>jotelávt<s n="adv"/></r></p></e>
     <e><p><l>unnimustá<s n="adv"/></l><r>ucemustáá<s n="adv"/></r></p></e>
     <e><p><l>uhcimustá<s n="adv"/></l><r>ucemustáá<s n="adv"/></r></p></e>
     <e><p><l>jámma<s n="adv"/></l><r>eivi<s n="adv"/></r></p></e>
@@ -653,9 +654,11 @@
     <e><p><l>ollesáigásaš<s n="adj"/></l><r>váldutoimâlâš<s n="adj"/></r></p></e>
     <e><p><l>strategiijalaš<s n="adj"/></l><r>strategilâš<s n="adj"/></r></p></e>
 
+
     <!-- ASECTION: Nouns -->  
 
-
+     <e><p><l>láigetelefon<s n="n"/></l><r>šraŋgâpuhelin<s n="n"/></r></p></e>
+     <e><p><l>leana<s n="n"/></l><r>leenâ<s n="n"/></r></p></e>
      <e><p><l>seavagiella<s n="n"/></l><r>seevvimkielâ<s n="n"/></r></p></e>
      <e><p><l>panela<s n="n"/></l><r>paaneel<s n="n"/></r></p></e>
      <e><p><l>ofelaš<s n="n"/></l><r>uápisteijee<s n="n"/><s n="nomag"/></r></p></e>
@@ -3229,7 +3232,9 @@
     <e><p><l>Čoavččesjávri<s n="np"/></l><r>Čovčjävri<s n="np"/></r></p></e>
 
     <!-- ASECTION: Verbs -->
-
+    
+    <e><p><l>sávvat<s n="vblex"/><s n="tv"/></l><r>tuáivuđ<s n="vblex"/></r></p></e>
+    <e><p><l>sávvat<s n="vblex"/><s n="tv"/></l><r>tuáivuttiđ<s n="vblex"/></r></p></e>
     <e><p><l>váidalit<s n="vblex"/><s n="tv"/></l><r>väidiđ<s n="vblex"/></r></p></e>
     <e><p><l>váidit<s n="vblex"/><s n="tv"/></l><r>vaidâliđ<s n="vblex"/></r></p></e>
     <e><p><l>málestit<s n="vblex"/><s n="tv"/></l><r>mälistiđ<s n="vblex"/></r></p></e> 
@@ -9639,7 +9644,6 @@
     <e><p><l>duođaštit<s n="vblex"/><s n="tv"/></l><r>tuođâštiđ<s n="vblex"/></r></p></e>
     <e><p><l>vásihit<s n="vblex"/><s n="tv"/></l><r>feeriđ<s n="vblex"/></r></p></e>
     <e><p><l>guorahallat<s n="vblex"/><s n="tv"/></l><r>kieđâvuššâđ<s n="vblex"/></r></p></e>
-    <e><p><l>sávvat<s n="vblex"/><s n="tv"/></l><r>tuáivuđ<s n="vblex"/></r></p></e>
     <e><p><l>fitnat<s n="vblex"/><s n="iv"/></l><r>eelliđ<s n="vblex"/></r></p></e>
     <e><p><l>šlávet<s n="vblex"/><s n="iv"/></l><r>halssiđ<s n="vblex"/></r></p></e>
     <e><p><l>šlávet<s n="vblex"/><s n="iv"/></l><r>laannjâđ<s n="vblex"/></r></p></e>

@@ -706,4 +706,36 @@ Write comments to forthcoming rules before this line -->
    <match tags="*.*.*.ill.*"/>
   </rule>
 
+
+
+
+<!-- sávvat -->
+  <rule weight="1.0">
+    <match lemma="sávvat">
+      <select lemma="tuáivuđ"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="sávvat">
+      <select lemma="tuáivuttiđ"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="sávvat">
+      <select lemma="tuáivuttiđ"/>
+   </match>
+   <match lemma="lihkku"/>
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="sávvat">
+      <select lemma="tuáivuttiđ"/>
+   </match>
+   <match/>
+   <match lemma="lihkku"/>
+  </rule>
+
+
 </rules>
