@@ -411,6 +411,10 @@
     <def-cat n="birra-po">                             
       <cat-item lemma="birra" tags="post.*"/>                    
     </def-cat>  
+    <def-cat n="shoes">                             
+      <cat-item lemma="gáma" tags="n.*"/>                    
+      <cat-item lemma="skuovva" tags="n.*"/>                    
+    </def-cat>  
     <def-cat n="birra-adv">                             
       <cat-item lemma="birra" tags="adv.*"/>                    
     </def-cat>  
@@ -419,6 +423,9 @@
     </def-cat>
     <def-cat n="beallai">
       <cat-item lemma="beallai" tags="post.*"/>
+    </def-cat>
+    <def-cat n="coggat">
+      <cat-item lemma="coggat" tags="vblex.*"/>
     </def-cat>
     <def-cat n="ja">
       <cat-item lemma="ja" tags="cnjcoo.*"/>
@@ -2147,6 +2154,30 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: kamâdâttâđ"> <!-- mun coggan skuovaid : mun kamâdâttâm -->
+      <pattern>
+    	<pattern-item n="coggat"/>
+    	<pattern-item n="shoes"/>
+      </pattern>
+      <action>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
+	    <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
+        <out>
+          <chunk name="shoeverb">
+            <tags>
+              <tag><lit-tag v="V"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>    
+	        </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
 
     <rule comment="REGLA: liikot-actioill"> <!-- Mun liikon lohkat. Mun lijkkuum luhâmân. -->
       <pattern>

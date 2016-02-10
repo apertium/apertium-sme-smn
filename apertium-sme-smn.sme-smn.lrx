@@ -643,6 +643,12 @@ Write comments to forthcoming rules before this line -->
    </match>
   </rule>
 
+  <rule weight="0.5">
+   <match lemma="coggat">
+      <select lemma="kamâdâttâđ"/>
+   </match>
+  </rule>
+
   
   <rule weight="0.6">
     <match lemma="coggat">
