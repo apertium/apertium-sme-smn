@@ -917,8 +917,6 @@
       <list-item v="kuussân"/> 
     </def-list>
     <def-list n="loc_verbs">
-      <list-item v="jurddašit"/>
-      <list-item v="jurddahit"/>
       <list-item v="lohkat"/>
       <list-item v="hállat"/>
       <list-item v="hupmat"/>
@@ -926,6 +924,10 @@
       <list-item v="gullat"/>
       <list-item v="leat"/>
       <list-item v="leđe"/>
+    </def-list>
+    <def-list n="acc_verbs">
+      <list-item v="jurddašit"/>
+      <list-item v="jurddahit"/>
     </def-list>
     <def-list n="birrapx_verbs">
       <list-item v="geahččat"/>
@@ -1881,6 +1883,13 @@
           <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let> 
           <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="loc"/></let> 
         </when>
+        <when>
+          <test>
+               <in caseless="yes"><var n="current_verb"/><list n="acc_verbs" /></in>
+          </test>
+          <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let> 
+          <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="acc"/></let> 
+        </when>
       </choose>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <out>
@@ -1900,6 +1909,8 @@
         </out>
       </action>
     </rule>
+
+
 
     <rule comment="REGLA: almmá-adv"> <!-- almmá doarjaga  -->
       <pattern>
