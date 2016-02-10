@@ -20,6 +20,7 @@
 /configure.ac -text
 dev/bidix-sanity.sh -text
 dev/complicateddifferences.txt -text
+dev/fi.history.missing.freq -text
 dev/fi_depts.A.missing -text
 dev/fi_depts.Adv.missing -text
 dev/fi_depts.N.missing -text
