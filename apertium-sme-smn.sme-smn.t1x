@@ -190,6 +190,8 @@
        <cat-item tags="prn.*"/>
        <cat-item tags="adv.*"/>
        <cat-item tags="adv"/>
+       <cat-item tags="post"/>
+       <cat-item tags="post.*"/>
    </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
