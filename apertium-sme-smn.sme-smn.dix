@@ -2887,6 +2887,7 @@
 
     <!-- ASECTION: Verbs -->
     
+    <e><p><l>gárgedit<s n="vblex"/><s n="iv"/></l><r>ovdediđ<s n="vblex"/></r></p></e>
     <e><p><l>ahtanuššat<s n="vblex"/><s n="iv"/></l><r>otânâššâđ<s n="vblex"/></r></p></e>
     <e><p><l>almmustahttit<s n="vblex"/><s n="tv"/></l><r>almostittiđ<s n="vblex"/></r></p></e>
     <e><p><l>almmustuvvat<s n="vblex"/><s n="iv"/></l><r>almostuđ<s n="vblex"/></r></p></e> 
@@ -4825,7 +4826,7 @@
     <e><p><l>gilká<s n="n"/></l><r>tivgâ<s n="n"/></r></p></e>
     <e><p><l>gilli<s n="n"/></l><r>sijdâ<s n="n"/></r></p></e>
     <e><p><l>gilvaleaddji<s n="n"/></l><r>kištottellee<s n="n"/></r></p></e>
-    <e><p><l>gilvu<s n="n"/></l><r>kilbo<s n="n"/></r></p></e>
+    <e><p><l>gilvu<s n="n"/></l><r>kišto<s n="n"/></r></p></e>
     <e><p><l>gilvvohallan<s n="n"/></l><r>kištottâllâm<s n="n"/></r></p></e>
     <e><p><l>giláš<s n="n"/></l><r>sijdâ<s n="n"/></r></p></e>
     <e><p><l>ginttal<s n="n"/></l><r>kiintâl<s n="n"/></r></p></e>
@@ -9195,7 +9196,6 @@
     <e><p><l>ovdu<s n="n"/></l><r>hiätu<s n="n"/></r></p></e>
     <e><p><l>readdju<s n="n"/></l><r>mááccuh<s n="n"/></r></p></e>
     <e><p><l>readdju<s n="n"/></l><r>takki<s n="n"/></r></p></e>
-    <e><p><l>ridnu<s n="n"/></l><r>kilbo<s n="n"/></r></p></e>
     <e><p><l>ridnu<s n="n"/></l><r>kišto<s n="n"/></r></p></e>
     <e><p><l>rihkku<s n="n"/></l><r>cekki<s n="n"/></r></p></e>
     <e><p><l>rihkku<s n="n"/></l><r>pilkku<s n="n"/></r></p></e>
@@ -9237,6 +9237,9 @@
     <e><p><l>šuodjá<s n="n"/></l><r>pahakkâs<s n="n"/></r></p></e>
     <e><p><l>čállu<s n="n"/></l><r>čaalâ<s n="n"/></r></p></e>
     <e><p><l>čállu<s n="n"/></l><r>čäällim<s n="n"/></r></p></e>
+    
+    
+    
 <!-- CSECTION: Verbs 1-m frequency ordered -->
 
     <e><p><l>dadjat<s n="vblex"/><s n="tv"/></l><r>ettâđ<s n="vblex"/></r></p></e>
@@ -9359,8 +9362,7 @@
     <e><p><l>loaktit<s n="vblex"/><s n="tv"/></l><r>nuvâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>loaktit<s n="vblex"/><s n="tv"/></l><r>piiccâđ<s n="vblex"/></r></p></e>
     <e><p><l>nuppástuvvat<s n="vblex"/><s n="iv"/></l><r>muttuđ<s n="vblex"/></r></p></e>
-    <e><p><l>gáddit<s n="vblex"/><s n="tv"/></l><r>epidiđ<s n="vblex"/></r></p></e>
-    <e><p><l>gáddit<s n="vblex"/><s n="tv"/></l><r>vävjiđ<s n="vblex"/></r></p></e>
+    <e><p><l>gáddit<s n="vblex"/><s n="tv"/></l><r>jurdeđ<s n="vblex"/></r></p></e>
     <e><p><l>roggat<s n="vblex"/><s n="tv"/></l><r>ruggâđ<s n="vblex"/></r></p></e>
     <e><p><l>gárvvistit<s n="vblex"/><s n="tv"/></l><r>valmâštiđ<s n="vblex"/></r></p></e>
     <e><p><l>geahčastit<s n="vblex"/><s n="tv"/></l><r>vilpâstiđ<s n="vblex"/></r></p></e>
