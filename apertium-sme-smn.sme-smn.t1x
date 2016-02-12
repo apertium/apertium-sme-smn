@@ -21,6 +21,9 @@
     <def-cat n="po_l"> 
       <cat-item tags="*.@→P"/>
     </def-cat>
+    <def-cat n="l_subj"> 
+      <cat-item tags="*.@←SUBJ"/>
+    </def-cat>
     <def-cat n="obj_l"> 
       <cat-item tags="*.@OBJ→"/>
       <cat-item tags="n.*.@OBJ→"/>       
@@ -889,6 +892,7 @@
     <def-var n="adpos_chunk_name"/>
     <def-var n="feara_chunk_name"/>
     <def-var n="object"/>
+    <def-var n="subject"/>
     <def-var n="caseFirstWord"/> <!-- added because of Omega-T -->
   </section-def-vars>
 
@@ -1284,6 +1288,26 @@
               </when></choose>
         <out>
           <chunk name="nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: SUBJ to right">
+      <pattern>
+        <pattern-item n="l_subj"/>
+      </pattern>
+      <action>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+         <let><var n="subject"/><lit v="l_subj"/></let>
+        <out>
+          <chunk namefrom="subject" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>

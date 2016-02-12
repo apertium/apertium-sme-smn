@@ -22,6 +22,9 @@
       <cat-item tags="SV"/>
       <cat-item tags="SV.*"/>
     </def-cat>
+    <def-cat n="LSUBJ">
+       <cat-item lemma="l_subj" tags="*"/>
+    </def-cat>
     <def-cat n="OBJL">
        <cat-item lemma="obj_l" tags="*"/>
     </def-cat>
@@ -79,6 +82,23 @@
             <clip pos="1" part="chcontent"/>
           </chunk>
         </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: SUBJ"> <!-- Dalle ledjen mun ain vuođđoskuvllas. - Talle mun lijjim ain vuáđuškoovlâst. -->
+    <pattern>
+       <pattern-item n="SV"/>
+       <pattern-item n="LSUBJ"/>
+    </pattern>
+      <action>
+    <out>
+      <chunk>
+        <clip pos="2" part="whole"/>
+      </chunk>
+      <b/>
+      <chunk>
+        <clip pos="1" part="whole"/>
+      </chunk>
+    </out>
       </action>
     </rule>
     <rule comment="REGLA: OBJ">
