@@ -114,9 +114,9 @@
     <e><p><l>nugo<s n="cnjsub"/></l><r>nuuvtko<s n="cnjsub"/></r></p></e>
     <e><p><l>ovdalgo<s n="cnjsub"/></l><r>ovdilgo<s n="cnjsub"/></r></p></e>
     <e><p><l>vai<s n="cnjsub"/></l><r>vâi<s n="cnjcoo"/></r></p></e>
-    <e><p><l>vaikke<s n="cnjsub"/></l><r>veik<s n="cnjsub"/></r></p></e>
-    <e><p><l>vaikko<s n="cnjsub"/></l><r>veik<s n="cnjsub"/></r></p></e>
-    <e><p><l>váikko<s n="cnjsub"/></l><r>vâik<s n="cnjsub"/></r></p></e>
+    <e><p><l>vaikke<s n="cnjsub"/></l><r>veikkâ<s n="cnjsub"/></r></p></e>
+    <e><p><l>vaikko<s n="cnjsub"/></l><r>veikkâ<s n="cnjsub"/></r></p></e>
+    <e><p><l>váikko<s n="cnjsub"/></l><r>veikkâ<s n="cnjsub"/></r></p></e>
 
     
     <!--    ASECTION: Interjections -->
@@ -139,6 +139,7 @@
     <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kii<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kihheen<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="rel"/></l><r>kote<s n="prn"/><s n="rel"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/><s n="itg"/></l><r>kotemuš<s n="prn"/><s n="itg"/></r></p></e>
     <e><p><l>guhtemuš<s n="prn"/><s n="rel"/></l><r>kotemuš<s n="prn"/><s n="rel"/></r></p></e>
 <!--    <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>jyehi<s n="prn"/><s n="ind"/></r></p></e>-->
     <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>kihheen<s n="prn"/><s n="ind"/></r></p></e>
@@ -8374,9 +8375,7 @@
     <e><p><l>oamasteaddji<s n="n"/></l><r>omâsteijee<s n="n"/></r></p></e>
     <e><p><l>olli<s n="n"/></l><r>ooláádmuddo<s n="n"/></r></p></e>
     <e><p><l>orrunsadji<s n="n"/></l><r>aassâmpäikki<s n="n"/></r></p></e>
-    <e><p><l>ovdamunni<s n="n"/></l><r>hiätu<s n="n"/></r></p></e>
     <e><p><l>ovdamunni<s n="n"/></l><r>ovdâdâs<s n="n"/></r></p></e>
-    <e><p><l>ovdamunni<s n="n"/></l><r>ävkki<s n="n"/></r></p></e>
     <e><p><l>ovdáneapmi<s n="n"/></l><r>ovdánem<s n="n"/></r></p></e>
     <e><p><l>rievssatfálli<s n="n"/><s n="g3"/></l><r>riävskávälli<s n="n"/></r></p></e>
     <e><p><l>rievssatfálli<s n="n"/><s n="g3"/></l><r>tuodârvälli<s n="n"/></r></p></e>
