@@ -4,7 +4,6 @@
   <section-def-cats>
     <def-cat n="beforeObj">
       <cat-item tags="@SUBJ→"/>
-      <cat-item lemma="auxverb" tags="*"/>
    </def-cat>
     <def-cat n="GenCompl">
       <cat-item tags="NumG"/>
