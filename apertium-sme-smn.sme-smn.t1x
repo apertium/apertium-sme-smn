@@ -250,11 +250,6 @@
       <cat-item lemma="guhte" tags="prn.itg.*"/>
       <cat-item lemma="seammá" tags="prn.ind.*"/>
     </def-cat>  
-    <def-cat n="hupmat-v">                             
-      <cat-item lemma="hupmat" tags="vblex.*"/>                    
-      <cat-item lemma="hállat" tags="vblex.*"/>                    
-      <cat-item lemma="muitalit" tags="vblex.*"/>                    
-    </def-cat>  
     <def-cat n="n-sg-nom">                             
       <cat-item tags="np.*.*.sg.nom.*"/>                   
       <cat-item tags="np.*.sg.nom.*"/>                   
@@ -278,8 +273,17 @@
       <cat-item lemma="haga" tags="post.*"/>
       <cat-item lemma="taga" tags="post.*"/>
     </def-cat>
-    <def-cat n="almmá">
+    <def-cat n="almmá">  
       <cat-item lemma="almmá" tags="adv.*"/>
+    </def-cat>
+    <def-cat n="refcom"> 
+      <cat-item tags="prn.ref.com.*"/>
+    </def-cat>
+    <def-cat n="com-ess-verb">
+      <cat-item lemma="hállat" tags="vblex.*"/>
+      <cat-item lemma="hupmat" tags="vblex.*"/>
+      <cat-item lemma="jurddašit" tags="vblex.*"/>
+      <cat-item lemma="dadjat" tags="vblex.*"/>
     </def-cat>
 
 <!-- from sme-nob starts -->
@@ -923,6 +927,12 @@
       <list-item v="kihheen"/> 
       <list-item v="mihheen"/> 
       <list-item v="kuussân"/> 
+    </def-list>
+    <def-list n="com-ess_verbs">
+      <list-item v="hállat"/>
+      <list-item v="hupmat"/>
+      <list-item v="jurddašit"/>
+      <list-item v="dadjat"/>
     </def-list>
     <def-list n="loc_verbs">
       <list-item v="lohkat"/>
@@ -1918,6 +1928,60 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: refl-ess"> <!-- Son humai iežainis. Sun sáárnui jiečânis. -->
+      <pattern>
+        <pattern-item n="refcom"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let> 
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
+      <choose>
+        <when>
+          <test>
+               <in caseless="yes"><var n="current_verb"/><list n="com-ess_verbs" /></in>
+          </test>
+          <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="ess"/></let> 
+        </when>
+      </choose>
+        <out>
+          <chunk name="refl">
+            <tags>
+              <tag><lit-tag v="SP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>    
+	        </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: refl-ess"> <!-- Soai leaba iežaineaskka jurddašan ahte .. - Suoi lává jiečânis jurdâččâm et ... -->
+      <pattern>
+        <pattern-item n="refcom"/>
+        <pattern-item n="com-ess-verb"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let> 
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
+          <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="ess"/></let> 
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
+        <out>
+          <chunk name="refl">
+            <tags>
+              <tag><lit-tag v="SP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>    
+	        </lu>
+	        <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>    
+	        </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
 
     <rule comment="REGLA: almmá-adv"> <!-- almmá doarjaga  -->
