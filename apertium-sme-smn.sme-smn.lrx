@@ -406,6 +406,13 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
 
+<!-- ja -->
+  <rule weight="1.0">
+    <match lemma="ja" tags="cnjcoo.*">
+      <select lemma="já"/>
+    </match> 
+  </rule>
+
 
 <!-- buot -->
   <rule weight="1.0">
