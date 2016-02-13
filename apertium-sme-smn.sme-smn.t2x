@@ -104,7 +104,7 @@
     </out>
       </action>
     </rule>
-    <rule comment="REGLA: SPRED"> 
+    <rule comment="REGLA: SPRED"> <!-- Makkár sátni lea dát? - Maggaar sääni taat lii? -->
     <pattern>
        <pattern-item n="SV"/>
        <pattern-item n="LSPRED"/>

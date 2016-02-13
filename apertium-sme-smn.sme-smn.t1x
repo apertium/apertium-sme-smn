@@ -1310,7 +1310,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: SUBJ to right">
+    <rule comment="REGLA: SUBJ to right"> <!-- Dalle ledjen mun ain vuođđoskuvllas. - Talle mun lijjim ain vuáđuškoovlâst. -->
       <pattern>
         <pattern-item n="l_subj"/>
       </pattern>
@@ -1330,7 +1330,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: SPRED to right">
+    <rule comment="REGLA: SPRED to right"> <!-- Makkár sátni lea dát? - Maggaar sääni taat lii? -->
       <pattern>
         <pattern-item n="l_spred"/>
       </pattern>
@@ -1983,7 +1983,7 @@
       </action>  
     </rule>
 
-    <rule comment="REGLA: refl-gen mielde"> 
+    <rule comment="REGLA: refl-gen mielde">  <!--  Ean fuola su iežame mielde. - Iän huolâ suu fárusân. -->
       <pattern>
         <pattern-item n="prnrefgen"/>
         <pattern-item n="mielde"/>
