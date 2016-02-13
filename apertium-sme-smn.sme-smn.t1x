@@ -18,11 +18,14 @@
       <cat-item lemma="dihtii" tags="post.*"/>
       <cat-item lemma="dihte" tags="post.*"/>
    </def-cat>
-    <def-cat n="po_l"> 
+   <def-cat n="po_l"> 
       <cat-item tags="*.@→P"/>
     </def-cat>
     <def-cat n="l_subj"> 
       <cat-item tags="*.@←SUBJ"/>
+    </def-cat>
+    <def-cat n="l_spred"> 
+      <cat-item lemma="dát" tags="prn.dem.*.*.@←SPRED"/>
     </def-cat>
     <def-cat n="obj_l"> 
       <cat-item tags="*.@OBJ→"/>
@@ -277,6 +280,12 @@
     </def-cat>
     <def-cat n="almmá">  
       <cat-item lemma="almmá" tags="adv.*"/>
+    </def-cat>
+    <def-cat n="mielde">  
+      <cat-item lemma="mielde" tags="post.*"/>
+    </def-cat>
+    <def-cat n="prnrefgen"> 
+      <cat-item tags="prn.ref.gen.*"/>
     </def-cat>
     <def-cat n="refcom"> 
       <cat-item tags="prn.ref.com.*"/>
@@ -892,6 +901,7 @@
     <def-var n="feara_chunk_name"/>
     <def-var n="object"/>
     <def-var n="subject"/>
+    <def-var n="spred"/>
     <def-var n="caseFirstWord"/> <!-- added because of Omega-T -->
   </section-def-vars>
 
@@ -930,6 +940,9 @@
       <list-item v="kihheen"/> 
       <list-item v="mihheen"/> 
       <list-item v="kuussân"/> 
+    </def-list>
+    <def-list n="copulas">
+      <list-item v="leat"/>
     </def-list>
     <def-list n="com-ess_verbs">
       <list-item v="hállat"/>
@@ -1307,6 +1320,25 @@
          <let><var n="subject"/><lit v="l_subj"/></let>
         <out>
           <chunk namefrom="subject" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: SPRED to right">
+      <pattern>
+        <pattern-item n="l_spred"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+         <let><var n="spred"/><lit v="l_spred"/></let>
+        <out>
+          <chunk namefrom="spred" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
@@ -1948,9 +1980,30 @@
 	        </lu>
           </chunk>
         </out>
-      </action>
+      </action>  
     </rule>
 
+    <rule comment="REGLA: refl-gen mielde"> 
+      <pattern>
+        <pattern-item n="prnrefgen"/>
+        <pattern-item n="mielde"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
+          <let><clip pos="2" side="tl" part="whole"/><concat><lit v="fáárus"/><lit-tag v="adv"/><clip pos="1" side="tl" part="a_poss"/></concat></let> 
+        <out>
+          <chunk name="refl">
+            <tags>
+              <tag><lit-tag v="SP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>    
+	        </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="REGLA: refl-ess"> <!-- Son humai iežainis. Sun sáárnui jiečânis. -->
       <pattern>
         <pattern-item n="refcom"/>

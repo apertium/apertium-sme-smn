@@ -25,6 +25,9 @@
     <def-cat n="LSUBJ">
        <cat-item lemma="l_subj" tags="*"/>
     </def-cat>
+    <def-cat n="LSPRED">
+       <cat-item lemma="l_spred" tags="*"/>
+    </def-cat>
     <def-cat n="OBJL">
        <cat-item lemma="obj_l" tags="*"/>
     </def-cat>
@@ -88,6 +91,23 @@
     <pattern>
        <pattern-item n="SV"/>
        <pattern-item n="LSUBJ"/>
+    </pattern>
+      <action>
+    <out>
+      <chunk>
+        <clip pos="2" part="whole"/>
+      </chunk>
+      <b/>
+      <chunk>
+        <clip pos="1" part="whole"/>
+      </chunk>
+    </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: SPRED"> 
+    <pattern>
+       <pattern-item n="SV"/>
+       <pattern-item n="LSPRED"/>
     </pattern>
       <action>
     <out>
