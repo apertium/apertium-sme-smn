@@ -31,7 +31,7 @@ dev/hash-fi-report.freq -text
 dev/missinglist.txt -text
 dev/sanityoutput -text
 dev/script_csv2bidix.pl -text
-dev/sme_FI.A.nocmp.missing -text
+dev/sme_FI.A.noder.missing -text
 dev/sme_FI.Adv.missing -text
 dev/sme_FI.N.nocmp.missing -text
 dev/sme_FI.Pron.missing -text
