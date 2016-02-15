@@ -666,6 +666,7 @@
     
     <!-- ASECTION: Nouns -->  
    	 <e><p><l>fáhcca<s n="n"/></l><r>vaccâ<s n="n"/></r></p></e>
+   	 <e><p><l>normeren<s n="n"/></l><r>normâdem<s n="n"/></r></p></e>
    	 <e><p><l>folklore<s n="n"/></l><r>aalmugärbivyehi<s n="n"/></r></p></e>
    	 <e><p><l>čatnašupmi<s n="n"/></l><r>čonnâsem<s n="n"/></r></p></e>
      <e><p><l>dovddaldat<s n="n"/></l><r>tubdâldâh<s n="n"/></r></p></e>
@@ -2896,6 +2897,7 @@
     <!-- ASECTION: Verbs -->
     
     <e><p><l>gárgedit<s n="vblex"/><s n="iv"/></l><r>ovdediđ<s n="vblex"/></r></p></e>
+    <e><p><l>mearrašuvvat<s n="vblex"/><s n="iv"/></l><r>miärášuđ<s n="vblex"/></r></p></e> 
     <e><p><l>nállašuvvat<s n="vblex"/><s n="iv"/></l><r>nálášuđ<s n="vblex"/></r></p></e>
     <e><p><l>lodjudit<s n="vblex"/><s n="tv"/></l><r>lojodiđ<s n="vblex"/></r></p></e>
     <e><p><l>stuorrudit<s n="vblex"/><s n="tv"/></l><r>šoddâdiđ<s n="vblex"/></r></p></e>
