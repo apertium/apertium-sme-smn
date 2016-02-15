@@ -404,6 +404,7 @@
     <e><p><l>odne<s n="adv"/></l><r>onne<s n="adv"/></r></p></e>
     <e><p><l>ohpit<s n="adv"/></l><r>oppeet<s n="adv"/></r></p></e>
     <e><p><l>oktanaga<s n="adv"/></l><r>siämmáá<b/>ääigi<s n="adv"/></r></p></e>
+    <e><p><l>ovttaoaivilis<s n="adv"/></l><r>siämmáá<b/>mielâ<s n="adv"/></r></p></e>
     <e><p><l>olggos<s n="adv"/></l><r>olgos<s n="adv"/></r></p></e>
     <e><p><l>olgun<s n="adv"/></l><r>olgon<s n="adv"/></r></p></e>
     <e><p><l>ovddemus<s n="adv"/></l><r>ovdemustáá<s n="adv"/></r></p></e>
@@ -668,6 +669,7 @@
    	 <e><p><l>fáhcca<s n="n"/></l><r>vaccâ<s n="n"/></r></p></e>
    	 <e><p><l>normeren<s n="n"/></l><r>normâdem<s n="n"/></r></p></e>
    	 <e><p><l>folklore<s n="n"/></l><r>aalmugärbivyehi<s n="n"/></r></p></e>
+   	 <e><p><l>šleađgaboasta<s n="n"/></l><r>šleđgâpostâ<s n="n"/></r></p></e>
    	 <e><p><l>čatnašupmi<s n="n"/></l><r>čonnâsem<s n="n"/></r></p></e>
      <e><p><l>dovddaldat<s n="n"/></l><r>tubdâldâh<s n="n"/></r></p></e>
      <e><p><l>geavat<s n="n"/></l><r>vuáhádâh<s n="n"/></r></p></e>
@@ -2897,6 +2899,7 @@
     <!-- ASECTION: Verbs -->
     
     <e><p><l>gárgedit<s n="vblex"/><s n="iv"/></l><r>ovdediđ<s n="vblex"/></r></p></e>
+    <e><p><l>ruvgalit<s n="vblex"/><s n="iv"/></l><r>ruottâđ<s n="vblex"/></r></p></e>
     <e><p><l>mearrašuvvat<s n="vblex"/><s n="iv"/></l><r>miärášuđ<s n="vblex"/></r></p></e> 
     <e><p><l>nállašuvvat<s n="vblex"/><s n="iv"/></l><r>nálášuđ<s n="vblex"/></r></p></e>
     <e><p><l>lodjudit<s n="vblex"/><s n="tv"/></l><r>lojodiđ<s n="vblex"/></r></p></e>
