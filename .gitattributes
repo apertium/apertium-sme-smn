@@ -23,7 +23,7 @@ dev/complicateddifferences.txt -text
 dev/fi_depts.A.noder.missing -text
 dev/fi_depts.Adv.missing -text
 dev/fi_depts.N.nocmp.missing -text
-dev/fi_depts.V.missing -text
+dev/fi_depts.V.noder.missing -text
 dev/fi_depts.freq -text
 dev/fi_depts_ficti_hash_dgen.freq -text
 dev/hash-fi-report.freq -text
