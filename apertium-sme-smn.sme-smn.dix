@@ -679,7 +679,6 @@
      <e><p><l>logahat<s n="n"/></l><r>luvâttuh<s n="n"/></r></p></e>     
      <e><p><l>láigetelefon<s n="n"/></l><r>šraŋgâpuhelin<s n="n"/></r></p></e>
      <e><p><l>ofelaš<s n="n"/></l><r>uápisteijee<s n="n"/><s n="nomag"/></r></p></e>
-     <e><p><l>ovda<s n="n"/></l><r>ovdâ<s n="n"/></r></p></e>
      <e><p><l>panela<s n="n"/></l><r>paaneel<s n="n"/></r></p></e>
      <e><p><l>seavagiella<s n="n"/></l><r>seevvimkielâ<s n="n"/></r></p></e>
      <e><p><l>ságastallan<s n="n"/></l><r>savâstâllâđ<s n="n"/></r></p></e>
@@ -911,7 +910,7 @@
     <e><p><l>ideologiija<s n="n"/></l><r>ideologia<s n="n"/></r></p></e>
     <e><p><l>idja<s n="n"/></l><r>ijjâ<s n="n"/></r></p></e>
     <e><p><l>iešhálddašeapmi<s n="n"/></l><r>jiešhaldâšem<s n="n"/></r></p></e>
-    <e><p><l>iešmearradeapmi<s n="n"/></l><r>jiešmearidem<s n="n"/></r></p></e><!--buorringeavaheapmi váilu sme -->
+    <e><p><l>iešmearrideapmi<s n="n"/></l><r>jiešmearidem<s n="n"/></r></p></e><!--buorringeavaheapmi váilu sme -->
     <e><p><l>iešráđđen<s n="n"/></l><r>jiešhaldâšem<s n="n"/></r></p></e>
     <e><p><l>immunologiija<s n="n"/></l><r>immunologia<s n="n"/></r></p></e>
     <e><p><l>innovašuvdna<s n="n"/></l><r>innovaatio<s n="n"/></r></p></e>
@@ -1033,7 +1032,6 @@
     <e><p><l>njealjejuvllat<s n="n"/></l><r>muávloo<s n="n"/></r></p></e>
     <e><p><l>njealjis<s n="n"/></l><r>neeljis<s n="n"/></r></p></e>
     <e><p><l>noaidi<s n="n"/></l><r>nuáidi<s n="n"/></r></p></e>
-    <e><p><l>noaidimátki<s n="n"/></l><r>nuáidimätki<s n="n"/></r></p></e>
     <e><p><l>nostalgiija<s n="n"/></l><r>nostalgia<s n="n"/></r></p></e>
     <e><p><l>nukleoproteiidna<s n="n"/></l><r>nukleoproteiin<s n="n"/></r></p></e>
     <e><p><l>nuortalašláhka<s n="n"/></l><r>nuorttâlâšlaahâ<s n="n"/></r></p></e>
@@ -1461,9 +1459,8 @@
     <e><p><l>Iiskon-Máhtte<s n="np"/></l><r>Iiskon-Máhtte<s n="np"/></r></p></e>
     <e><p><l>Iisku<s n="np"/></l><r>Iisku<s n="np"/></r></p></e>
     <e><p><l>Ingá<s n="np"/></l><r>Ingá<s n="np"/></r></p></e>
-    <e><p><l>Ipmeláhčči<s n="np"/></l><r>Ipmeláhčči<s n="np"/></r></p></e>
-    <e><p><l>Ipmil% Áhčči<s n="np"/></l><r>Ipmil% Áhčči<s n="np"/></r></p></e>
-    <e><p><l>Ipmila% Bárdni<s n="np"/></l><r>Ipmila% Bárdni<s n="np"/></r></p></e>
+    <e><p><l>Ipmil<b/>Áhčči<s n="np"/></l><r>Ipmil<b/>Áhčči<s n="np"/></r></p></e>
+    <e><p><l>Ipmila<b/>Bárdni<s n="np"/></l><r>Ipmila<b/>Bárdni<s n="np"/></r></p></e>
     <e><p><l>Irjá<s n="np"/></l><r>Irjá<s n="np"/></r></p></e>
     <e><p><l>Irján<s n="np"/></l><r>Irján<s n="np"/></r></p></e>
     <e><p><l>Isabellá<s n="np"/></l><r>Isabellá<s n="np"/></r></p></e>
@@ -1814,7 +1811,7 @@
     <e><p><l>Ássá<s n="np"/></l><r>Ássá<s n="np"/></r></p></e>
     <e><p><l>Áttán<s n="np"/></l><r>Áttán<s n="np"/></r></p></e>
     <e><p><l>Ávdnos<s n="np"/></l><r>Ávdnos<s n="np"/></r></p></e>
-    <e><p><l>Áŋŋaras% Ánte<s n="np"/></l><r>Áŋŋaras% Ánte<s n="np"/></r></p></e>
+    <e><p><l>Áŋŋaras<b/>Ánte<s n="np"/></l><r>Áŋŋaras<b/>Ánte<s n="np"/></r></p></e>
     <e><p><l>Áššur<s n="np"/></l><r>Áššur<s n="np"/></r></p></e>
     <e><p><l>Åstot<s n="np"/></l><r>Åstot<s n="np"/></r></p></e>
     <e><p><l>Šealtiel<s n="np"/></l><r>Šealtiel<s n="np"/></r></p></e>
