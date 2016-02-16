@@ -24,7 +24,6 @@ dev/fi_depts.A.noder.missing -text
 dev/fi_depts.Adv.missing -text
 dev/fi_depts.N.nocmp.missing -text
 dev/fi_depts.V.noder.missing -text
-dev/fi_depts.freq -text
 dev/fi_depts_ficti_hash_dgen.freq -text
 dev/hash-fi-report.freq -text
 dev/missinglist.txt -text
@@ -41,6 +40,7 @@ dev/sme_blogspot.N.nocmp.missing -text
 dev/sme_blogspot.V.noder.missing -text
 dev/source_lists/README -text
 dev/source_lists/fi.history.missing.freq -text
+dev/source_lists/fi_depts.freq -text
 dix_pairs4manual_check/vblex_pairs.txt -text
 fi.samediggi/blogcategory_id_EQ_0_itemid_EQ_195.tmx -text
 fi.samediggi/blogcategory_id_EQ_105_itemid_EQ_167.tmx -text
