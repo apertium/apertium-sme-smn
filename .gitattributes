@@ -20,7 +20,6 @@
 /configure.ac -text
 dev/bidix-sanity.sh -text
 dev/complicateddifferences.txt -text
-dev/fi.history.missing.freq -text
 dev/fi_depts.A.missing -text
 dev/fi_depts.Adv.missing -text
 dev/fi_depts.N.missing -text
@@ -41,6 +40,7 @@ dev/sme_blogspot.A.nocmp.missing -text
 dev/sme_blogspot.N.nocmp.missing -text
 dev/sme_blogspot.V.noder.missing -text
 dev/source_lists/README -text
+dev/source_lists/fi.history.missing.freq -text
 dix_pairs4manual_check/vblex_pairs.txt -text
 fi.samediggi/blogcategory_id_EQ_0_itemid_EQ_195.tmx -text
 fi.samediggi/blogcategory_id_EQ_105_itemid_EQ_167.tmx -text
