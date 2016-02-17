@@ -10,27 +10,12 @@ tel	tel+N+ABBR+Acc
 
 Akwé	Akwé	+?
 
-ONid	ON+N+ACR+Err/Orth+Pl+Gen
-ONid	ON+N+ACR+Err/Orth+Pl+Gen+Err/Orth
-ONid	ON+N+ACR+Err/Orth+Pl+Acc
-ONid	ON+N+ACR+Err/Orth+Pl+Acc+Err/Orth
-
 Kon	Kon	+?
 
 nr	nr+N+ABBR+Nom
 nr	nr+N+ABBR+Gen
 nr	nr+N+ABBR+Attr
 nr	nr+N+ABBR+Acc
-
-máhttinguovddáš	máhttin+N+Cmp/SgNom+Cmp#guovdi+N+Der/Dimin+N+Sg+Nom
-máhttinguovddáš	máhttin+N+Cmp/SgNom+Cmp#guovdi+N+Der/Dimin+N+Sg+Gen+Err/Orth
-máhttinguovddáš	máhttin+N+Cmp/SgNom+Cmp#guovdi+N+Der/Dimin+N+Sg+Acc+Err/Orth
-máhttinguovddáš	máhttin+N+Cmp/SgNom+Cmp#guovddáš+N+Sg+Nom
-máhttinguovddáš	máhttin+N+Cmp/SgNom+Cmp#guovddáš+N+Sg+Gen+Err/Orth
-máhttinguovddáš	máhttin+N+Cmp/SgNom+Cmp#guovddáš+N+Sg+Acc+Err/Orth
-máhttinguovddáš	máhttinguovddáš+N+Sg+Nom
-máhttinguovddáš	máhttinguovddáš+N+Sg+Gen+Err/Orth
-máhttinguovddáš	máhttinguovddáš+N+Sg+Acc+Err/Orth
 
 Olggosaddimat	olggosaddin+N+Sg+Gen+PxSg2
 Olggosaddimat	olggosaddin+N+Sg+Acc+PxSg2
@@ -87,13 +72,6 @@ beroštuvvan	beroštuvvat+V+IV+Pass+Ind+Prt+ConNeg
 beroštuvvan	beroštuvvat+V+IV+Pass+Der/NomAct+N+Sg+Nom
 beroštuvvan	beroštuvvat+V+IV+Pass+Der/NomAct+N+Sg+Gen
 
-ruoktosiidduin	ruoktosiidu+N+Err/Orth+Sg+Com
-ruoktosiidduin	ruoktosiidu+N+Err/Orth+Pl+Loc
-ruoktosiidduin	ruoktosiidu+N+Sg+Com
-ruoktosiidduin	ruoktosiidu+N+Pl+Loc
-
-mb	mb	+?
-
 stipeandda	stipeanda+N+Sg+Acc
 stipeandda	stipeanda+N+Sg+Gen+Allegro
 stipeandda	stipeanda+N+Sg+Gen
@@ -122,8 +100,6 @@ má	má	+?
 
 javascripttuki	javascripttuki	+?
 
-The	The+N+Prop+Attr
-
 Akwé*Kon	Akwé*Kon	+?
 
 restauráŋŋa	restoráŋŋa+G3+Err/Orth+N+Sg+Acc
@@ -131,27 +107,10 @@ restauráŋŋa	restoráŋŋa+G3+Err/Orth+N+Sg+Nom
 restauráŋŋa	restoráŋŋa+G3+Err/Orth+N+Sg+Gen+Allegro
 restauráŋŋa	restoráŋŋa+G3+Err/Orth+N+Sg+Gen
 
-vuoigatvuođalaš	vuoigatvuođalaš+N+Sg+Nom
-
-ruoktosiidduide	ruoktosiidu+N+Err/Orth+Pl+Ill
-ruoktosiidduide	ruoktosiidu+N+Pl+Ill
-
-máhttinguovddáža	máhttin+N+Cmp/SgNom+Cmp#guovdi+N+Der/Dimin+N+Sg+Gen
-máhttinguovddáža	máhttin+N+Cmp/SgNom+Cmp#guovdi+N+Der/Dimin+N+Sg+Acc
-máhttinguovddáža	máhttin+N+Cmp/SgNom+Cmp#guovddáš+N+Sg+Gen
-máhttinguovddáža	máhttin+N+Cmp/SgNom+Cmp#guovddáš+N+Sg+Acc
-máhttinguovddáža	máhttinguovddáš+N+Sg+Gen
-máhttinguovddáža	máhttinguovddáš+N+Sg+Acc
-
-guovlluguovdasaš	guovlluguovdasaš+A+Attr
-guovlluguovdasaš	guovlluguovdasaš+A+Sg+Nom
-
 guoskadeamis	guoskadit+V+TV+Der/NomAct+N+Sg+Gen+PxSg3
 guoskadeamis	guoskadit+V+TV+Der/NomAct+N+Sg+Loc
 guoskadeamis	guoskadit+V+TV+Der/NomAct+N+Sg+Acc+PxSg3
 guoskadeamis	guoskadit+V+TV+Actio+Loc
-
-vp	vp	+?
 
 bálkkašanlávdegoddi	bálkkašanlávdegoddi+N+Sg+Nom
 bálkkašanlávdegoddi	bálkkašit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#lávdi+N+Cmp/SgNom+Cmp#goddi+N+Sg+Nom
@@ -226,10 +185,6 @@ dearvvasvuođafuolahusa	dearvvas+A+Attr+Der/vuohta+N+Cmp/SgGen+Cmp#fuolahus+N+Sg
 dearvvasvuođafuolahusa	dearvvas+A+Der/vuohta+N+Cmp/SgGen+Cmp#fuolahus+N+Err/Orth+Sg+Gen+Allegro
 dearvvasvuođafuolahusa	dearvvas+A+Der/vuohta+N+Cmp/SgGen+Cmp#fuolahus+N+Sg+Gen
 dearvvasvuođafuolahusa	dearvvas+A+Der/vuohta+N+Cmp/SgGen+Cmp#fuolahus+N+Sg+Acc
-
-NRK	NRK+N+ACR+Sg+Nom
-NRK	NRK+N+ACR+Sg+Gen
-NRK	NRK+N+ACR+Sg+Acc
 
 Liŋkkat	liŋka+N+Pl+Nom
 Liŋkkat	liŋka+N+Sg+Acc+PxSg2
@@ -334,10 +289,6 @@ Sierraraporterejeaddji	sierra+Adv+Cmp#raporteret+V+TV+PrsPrc
 Sierraraporterejeaddji	sierra+Adv+Cmp#raporteret+V+TV+Der/NomAg+N+Sg+Gen
 Sierraraporterejeaddji	sierra+Adv+Cmp#raporteret+V+TV+Der/NomAg+N+Sg+Acc
 Sierraraporterejeaddji	sierra+Adv+Cmp#raporteret+V+TV+Der/NomAg+N+Sg+Nom
-
-SSN	SSN+N+ACR+Sg+Nom
-SSN	SSN+N+ACR+Sg+Gen
-SSN	SSN+N+ACR+Sg+Acc
 
 Liŋka	liŋka+N+Sg+Nom
 
@@ -480,10 +431,6 @@ TSS-sopâmuš	TSS-sopâmuš	+?
 
 TSS-#komitea	TSS-#komitea	+?
 
-SOG	SOG+N+ACR+Sg+Nom
-SOG	SOG+N+ACR+Sg+Gen
-SOG	SOG+N+ACR+Sg+Acc
-
 Máŋggadoaimmasále	máŋggadoaimmasále+N+Sg+Acc
 Máŋggadoaimmasále	máŋggadoaimmasále+N+Sg+Nom
 Máŋggadoaimmasále	máŋggadoaimmasále+N+Sg+Gen+Allegro
@@ -491,18 +438,6 @@ Máŋggadoaimmasále	máŋggadoaimmasále+N+Sg+Gen
 
 Gč	gč+V+ABBR+TV+Imprt
 
-EU-ruhtadeami	EU+N+ACR+Cmp-#ruhtadit+V+TV+Der/NomAct+N+Sg+Gen
-EU-ruhtadeami	EU+N+ACR+Cmp-#ruhtadit+V+TV+Der/NomAct+N+Sg+Acc
-EU-ruhtadeami	EU+N+ACR+Cmp-#ruhtadeapmi+N+Sg+Acc
-EU-ruhtadeami	EU+N+ACR+Cmp-#ruhtadeapmi+N+Sg+Gen
-EU-ruhtadeami	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#ruhtadeapmi+N+Sg+Acc
-EU-ruhtadeami	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#ruhtadeapmi+N+Sg+Gen
-EU-ruhtadeami	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#ruhtadit+V+TV+Der/NomAct+N+Sg+Gen
-EU-ruhtadeami	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#ruhtadit+V+TV+Der/NomAct+N+Sg+Acc
-EU-ruhtadeami	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#ruhtadit+V+TV+Der/NomAct+N+Sg+Gen
-EU-ruhtadeami	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#ruhtadit+V+TV+Der/NomAct+N+Sg+Acc
-EU-ruhtadeami	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#ruhtadeapmi+N+Sg+Acc
-EU-ruhtadeami	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#ruhtadeapmi+N+Sg+Gen
 EU-ruhtadeami	EU-ruhtadeapmi+N+Sg+Acc
 EU-ruhtadeami	EU-ruhtadeapmi+N+Sg+Gen
 
@@ -724,10 +659,6 @@ Restauráŋŋa	restoráŋŋa+G3+Err/Orth+N+Sg+Nom
 Restauráŋŋa	restoráŋŋa+G3+Err/Orth+N+Sg+Gen+Allegro
 Restauráŋŋa	restoráŋŋa+G3+Err/Orth+N+Sg+Gen
 
-AHR	AHR+N+ACR+Sg+Nom
-AHR	AHR+N+ACR+Sg+Gen
-AHR	AHR+N+ACR+Sg+Acc
-
 čielggasmahttimiin	čielggasmuvvat+v3+V+IV+Der/ahtti+V+Actio+Com
 čielggasmahttimiin	čielggasmuvvat+v3+V+IV+Der/ahtti+V+Der/NomAct+N+Pl+Loc
 čielggasmahttimiin	čielggasmuvvat+v3+V+IV+Der/ahtti+V+Der/NomAct+N+Sg+Com
@@ -838,11 +769,7 @@ kampánjjaid	kampánja+N+Pl+Acc
 juobe	juo+Adv+Foc/be
 
 julev-	julev+N+Cmp/SgNom+Cmp/SplitR
-julev-	julev+N+Cmp/SgNom+Cmp/SplitR
-julev-	julev+N+Cmp/SgNom+Cmp/SplitR
 julev-	julev+N+Cmp/SgGen+Cmp/SplitR
-julev-	julev+N+Cmp/SgGen+Cmp/SplitR
-julev-	julev+N+Cmp/SplitR
 julev-	julev+N+Cmp/SplitR
 
 jna	jna+Adv+ABBR
@@ -1217,7 +1144,6 @@ olláhuhttit	ollahuvvat+Err/Orth+V+IV+Der/ahtti+V+TV+Der/NomAg+N+Pl+Nom
 
 olggobeallái	olggobealle+N+Sg+Ill
 olggobeallái	olggobealli+Err/Lex+N+Sg+Ill
-olggobeallái	olggobealli+Err/Lex+N+Sg+Ill
 olggobeallái	olgu+N+Cmp/SgGen+Cmp#bealli+N+Sg+Ill
 olggobeallái	olgu+N+Cmp/SgGen+Cmp#bealle+N+Sg+Ill
 olggobeallái	olggobeallai+Err/Orth+Adv
@@ -1533,8 +1459,6 @@ bargometodaid	bargometoda+N+Err/Orth+Pl+Acc
 av-*teknihkkara	av-*teknihkkara	+?
 
 auditorio-	auditoria+Err/Orth+N+Cmp/SgGen+Cmp/SplitR
-auditorio-	auditoria+Err/Orth+N+Cmp/SgGen+Cmp/SplitR
-auditorio-	auditoria+Err/Orth+N+Cmp/SgNom+Cmp/SplitR
 auditorio-	auditoria+Err/Orth+N+Cmp/SgNom+Cmp/SplitR
 
 auditorias	auditoria+N+Sg+Loc
@@ -1610,8 +1534,6 @@ ECRI*a	ECRI*a	+?
 CBD-#ohtâsâšsopâmuš	CBD-#ohtâsâšsopâmuš	+?
 
 Bádden-	bádden+N+Cmp/SgNom+Cmp/SplitR
-Bádden-	bádden+N+Cmp/SgNom+Cmp/SplitR
-Bádden-	báddet+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 Bádden-	báddet+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 
 Auditorias	auditoria+N+Sg+Loc
@@ -1749,9 +1671,6 @@ temáhtalaš	temáhtalaš+A+Sg+Nom
 telekopiijan	telekopiijan	+?
 
 tekstiila-	tekstiila+N+Err/Orth+Cmp/SgGen+Cmp/SplitR
-tekstiila-	tekstiila+N+Err/Orth+Cmp/SgGen+Cmp/SplitR
-tekstiila-	tekstiila+N+Cmp/SgNom+Cmp/SplitR
-tekstiila-	tekstiila+N+Cmp/SgNom+Cmp/SplitR
 tekstiila-	tekstiila+N+Cmp/SgNom+Cmp/SplitR
 
 sámeparlamentarihkkárkonferánsa	sápmi+Err/Orth+N+Cmp/SgGen+Cmp#parlamentarihkkár+N+Cmp/SgGen+Cmp#konferánsa+v1+N+Sg+Nom
@@ -1991,7 +1910,6 @@ máŋggagielalašvuođa	máŋggagielalaš+A+Der/vuohta+N+Sg+Gen
 
 máŋggadoaibmalanjat	máŋggadoaibmalanjat	+?
 
-márkanastin-	márkanastit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 márkanastin-	márkanastit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 
 máddelabbos	máddeleabbo+A+Comp+Sg+Loc
@@ -2351,10 +2269,6 @@ Yliriesto	Yliriesto	+?
 
 Working	Working	+?
 
-VKU	VKU+N+ACR+Sg+Nom
-VKU	VKU+N+ACR+Sg+Gen
-VKU	VKU+N+ACR+Sg+Acc
-
 Teatris-tábáhtusâst	Teatris-tábáhtusâst	+?
 
 Sámij	Sámij	+?
@@ -2389,10 +2303,6 @@ Parlamenta	Parlamenta	+?
 
 POLURA	POLURA	+?
 
-PEVM	PEVM+N+ACR+Sg+Nom
-PEVM	PEVM+N+ACR+Sg+Gen
-PEVM	PEVM+N+ACR+Sg+Acc
-
 Njuolggo	njuolgut+V+TV+Imprt+ConNeg
 Njuolggo	njuolgut+V+TV+Imprt+Sg2
 Njuolggo	njuolgut+V+TV+Ind+Prs+ConNeg
@@ -2411,10 +2321,6 @@ Má	Má+N+Prop+Sem/Ani+Attr
 Má	Má+N+Prop+Sem/Ani+Sg+Nom
 Má	Má+N+Prop+Sem/Ani+Sg+Gen
 Má	Má+N+Prop+Sem/Ani+Sg+Acc
-
-MKG	MKG+N+ACR+Sg+Nom
-MKG	MKG+N+ACR+Sg+Gen
-MKG	MKG+N+ACR+Sg+Acc
 
 Kå	Kå	+?
 
@@ -2996,15 +2902,9 @@ virtuálaoahpahusa	virtuála+A+Err/Orth+Cmp/SgNom+Err/Orth+Cmp#oahpahus+N+Sg+Gen
 virtuálaoahpahusa	virtuála+A+Err/Orth+Cmp/SgNom+Err/Orth+Cmp#oahpahus+N+Sg+Acc
 
 virtuála-	virtuála+A+Cmp/SgGen+Cmp/SplitR
-virtuála-	virtuála+A+Cmp/SgGen+Cmp/SplitR
-virtuála-	virtuála+A+Cmp/SgNom+Cmp/SplitR
 virtuála-	virtuála+A+Cmp/SgNom+Cmp/SplitR
 virtuála-	virtuála+A+Cmp/Attr+Cmp/SplitR
-virtuála-	virtuála+A+Cmp/Attr+Cmp/SplitR
 virtuála-	virtuála+A+Err/Orth+Cmp/SgNom+Cmp/SplitR
-virtuála-	virtuála+A+Err/Orth+Cmp/SgNom+Cmp/SplitR
-virtuála-	virtuála+A+Err/Orth+Cmp/SgNom+Cmp/SplitR
-virtuála-	virtuála+A+Err/Orth+Cmp/SgNom+Err/Orth+Cmp/SplitR
 virtuála-	virtuála+A+Err/Orth+Cmp/SgNom+Err/Orth+Cmp/SplitR
 
 virgefriija	virgefriija	+?
@@ -3595,7 +3495,6 @@ ruossalasvuođat	ruossalas+A+Cmp/Attr+Cmp#vuohta+Err/Lex+N+Pl+Nom
 ruossalasvuođat	ruossalas+A+Cmp/Attr+Cmp#vuohta+Err/Lex+N+Sg+Gen+PxSg2
 ruossalasvuođat	ruossalas+A+Cmp/Attr+Cmp#vuohta+Err/Lex+N+Sg+Acc+PxSg2
 ruossalasvuođat	ruossalas+A+Attr+Der/vuohta+N+Pl+Nom
-ruossalasvuođat	ruossalas+A+Attr+Der/vuohta+N+Pl+Nom
 ruossalasvuođat	ruossalas+A+Der/vuohta+N+Pl+Nom
 ruossalasvuođat	ruossalas+A+Cmp/SgGen+Cmp#vuohta+Err/Lex+N+Pl+Nom
 ruossalasvuođat	ruossalas+A+Cmp/SgGen+Cmp#vuohta+Err/Lex+N+Sg+Gen+PxSg2
@@ -3837,9 +3736,6 @@ pedagogihkas	pedagogihkka+N+Sg+Acc+PxSg3
 pedagogihkas	pedagogihkka+N+Sg+Gen+PxSg3
 
 pateanta-	pateanta+N+Cmp/SgNom+Cmp/SplitR
-pateanta-	pateanta+N+Cmp/SgNom+Cmp/SplitR
-pateanta-	pateanta+N+Cmp/SgNom+Cmp/SplitR
-pateanta-	pateanta+N+Err/Orth+Cmp/SgNom+Cmp/SplitR
 pateanta-	pateanta+N+Err/Orth+Cmp/SgNom+Cmp/SplitR
 
 parlamentarálaš	parlamentarálaš	+?
@@ -4040,7 +3936,6 @@ olmmošriekte-komissára	olmmošriekti+N+Cmp/SgNom+Cmp/Hyph+Cmp#komissára+N+Sg+
 olláhuvvamis	ollahuvvat+Err/Orth+V+IV+Der/NomAct+N+Sg+Gen+PxSg3
 olláhuvvamis	ollahuvvat+Err/Orth+V+IV+Der/NomAct+N+Sg+Acc+PxSg3
 olláhuvvamis	ollahuvvat+Err/Orth+V+IV+Der/NomAct+N+Sg+Loc
-olláhuvvamis	ollahuvvat+Err/Orth+V+IV+Der/NomAct+N+Sg+Loc
 olláhuvvamis	ollahuvvat+Err/Orth+V+IV+Actio+Loc
 
 olláhuhttimis	ollahuvvat+Err/Orth+V+IV+Der/ahtti+V+TV+Actio+Loc
@@ -4057,7 +3952,6 @@ olgomusea	olgomusea+N+Sg+Gen
 olgomusea	olgomusea+N+Sg+Acc
 olgomusea	olgomusea+N+Sg+Nom
 
-olgo-	olgu+N+Cmp/SgNom+Cmp/SplitR
 olgo-	olgu+N+Cmp/SgNom+Cmp/SplitR
 
 olggosaddindoaimmain	olggosaddin+N+Cmp/SgNom+Cmp#doaibma+N+Err/Orth+Sg+Com
@@ -4292,8 +4186,6 @@ njoarostangilvui	njoarostangilvu+N+Sg+Ill
 njoarostangilvui	njoarostit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#gilvu+N+Sg+Ill
 
 njoarostan-	njoarosteapmi+N+Cmp/SgNom+Cmp/SplitR
-njoarostan-	njoarosteapmi+N+Cmp/SgNom+Cmp/SplitR
-njoarostan-	njoarostit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 njoarostan-	njoarostit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 
 njeálji	njeálji	+?
@@ -4959,8 +4851,6 @@ jođálmahttá	jođálmahttit+V+TV+Ind+Prs+Sg3
 jomppanen	jomppanen	+?
 
 joddo-	joddu+N+Cmp/SgGen+Cmp/SplitR
-joddo-	joddu+N+Cmp/SgGen+Cmp/SplitR
-joddo-	joddu+N+Cmp/SgNom+Cmp/SplitR
 joddo-	joddu+N+Cmp/SgNom+Cmp/SplitR
 
 jietnadárkun	jietna+N+Cmp/SgNom+Cmp#dárku+N+NomAg+Sg+Loc+South+Err/Orth
@@ -5088,7 +4978,6 @@ idylla	idylla	+?
 
 ideaidda	ideaidda	+?
 
-hávváduvvanvuhtii	hávváduvvat+V+IV+Der/NomAct+N+Cmp/SgNom+Cmp#vuohta+Err/Lex+N+Sg+Ill
 hávváduvvanvuhtii	hávváduvvat+V+IV+Der/NomAct+N+Cmp/SgNom+Cmp#vuohta+Err/Lex+N+Sg+Ill
 
 hávdádusainge	hávdádus+N+Sg+Com+Foc/ge
@@ -5532,12 +5421,8 @@ eanaoamastusas	eanaoamastus+v1+N+Sg+Gen+PxSg3
 eanaoamastusas	eanaoamastus+v1+N+Sg+Acc+PxSg3
 
 eanaoamastus-	eana+v1+N+Cmp/SgNom+Cmp#oamastus+N+Cmp/SgNom+Cmp/SplitR
-eanaoamastus-	eana+v1+N+Cmp/SgNom+Cmp#oamastus+N+Cmp/SgNom+Cmp/SplitR
-eanaoamastus-	eana+v1+N+Cmp/SgNom+Cmp#oamastus+N+Cmp/SgGen+Cmp/SplitR
 eanaoamastus-	eana+v1+N+Cmp/SgNom+Cmp#oamastus+N+Cmp/SgGen+Cmp/SplitR
 eanaoamastus-	eanaoamastus+v1+N+Cmp/SgNom+Cmp/SplitR
-eanaoamastus-	eanaoamastus+v1+N+Cmp/SgNom+Cmp/SplitR
-eanaoamastus-	eanaoamastus+v1+N+Cmp/SgGen+Cmp/SplitR
 eanaoamastus-	eanaoamastus+v1+N+Cmp/SgGen+Cmp/SplitR
 
 eanageavahanvuoigatvuo-*đaid	eanageavahanvuoigatvuo-*đaid	+?
@@ -6219,10 +6104,6 @@ Vettiid	veaddi+N+Pl+Acc
 
 VILMAT	VILMAT	+?
 
-UNPFII	UNPFII+N+ACR+Sg+Nom
-UNPFII	UNPFII+N+ACR+Sg+Gen
-UNPFII	UNPFII+N+ACR+Sg+Acc
-
 Tsarmijávrri-Njellim	Tsarmijávrri-Njellim	+?
 
 Trondheaimmas	Trond+N+Prop+Sem/Mal+Cmp/SgNom+Cmp#heaibma+N+Sg+Loc
@@ -6343,10 +6224,6 @@ Pallas-#Ylläsduottar	Pallas-#Ylläsduottar	+?
 
 Pakšvuona	Pakšvuona	+?
 
-PEVL	PEVL+N+ACR+Sg+Nom
-PEVL	PEVL+N+ACR+Sg+Gen
-PEVL	PEVL+N+ACR+Sg+Acc
-
 PEFC-*vuovdesertifiserenkritearat	PEFC-*vuovdesertifiserenkritearat	+?
 
 Ovdalis	ovdalis+Adv
@@ -6399,11 +6276,6 @@ Oahppamateriálamearreruhta	oahppamateriála+N+Cmp/SgGen+Cmp#mearri+Err/Orth+N+C
 Oahppamateriálamearreruhta	oahppamateriála+N+Cmp/SgGen+Cmp#mearri+Err/Orth+N+Err/Orth+Cmp/SgNom+Cmp#ruhta+N+Sg+Nom
 Oahppamateriálamearreruhta	oahppamateriála+N+Cmp/SgGen+Cmp#mearri+N+Cmp/SgNom+Cmp#ruhta+N+Sg+Nom
 Oahppamateriálamearreruhta	oahppamateriála+N+Cmp/SgGen+Cmp#mearreruhta+N+Sg+Nom
-
-ONaid	ON+N+ACR+Err/Orth+Pl+Gen+Err/Orth
-ONaid	ON+N+ACR+Err/Orth+Pl+Gen+Err/Orth
-ONaid	ON+N+ACR+Err/Orth+Pl+Acc+Err/Orth
-ONaid	ON+N+ACR+Err/Orth+Pl+Acc+Err/Orth
 
 Nánnet	Nánnet	+?
 
@@ -6634,10 +6506,6 @@ Keväjávrris	Keväjávrris	+?
 
 Keväjávrri	Keväjávrri	+?
 
-KSBR	KSBR+N+ACR+Sg+Nom
-KSBR	KSBR+N+ACR+Sg+Gen
-KSBR	KSBR+N+ACR+Sg+Acc
-
 KP-Sopâmuš	KP-Sopâmuš	+?
 
 KP-*soahpamusa	KP-*soahpamusa	+?
@@ -6695,20 +6563,6 @@ Indikáhtorat	indikáhtor+N+Sg+Acc+PxSg2
 Indikáhtorat	indikáhtor+N+Sg+Nom+PxSg2
 
 Iina-Marja	Iina-Marja	+?
-
-IV-IJ	IV+N+ACR+Cmp-#IJ+N+ACR+Sg+Nom
-IV-IJ	IV+N+ACR+Cmp-#IJ+N+ACR+Sg+Gen
-IV-IJ	IV+N+ACR+Cmp-#IJ+N+ACR+Sg+Acc
-IV-IJ	IV+N+ACR+Err/Orth+Cmp-#IJ+N+ACR+Sg+Nom
-IV-IJ	IV+N+ACR+Err/Orth+Cmp-#IJ+N+ACR+Sg+Gen
-IV-IJ	IV+N+ACR+Err/Orth+Cmp-#IJ+N+ACR+Sg+Acc
-
-III-IJ	III+N+ACR+Cmp-#IJ+N+ACR+Sg+Nom
-III-IJ	III+N+ACR+Cmp-#IJ+N+ACR+Sg+Gen
-III-IJ	III+N+ACR+Cmp-#IJ+N+ACR+Sg+Acc
-III-IJ	III+N+ACR+Err/Orth+Cmp-#IJ+N+ACR+Sg+Nom
-III-IJ	III+N+ACR+Err/Orth+Cmp-#IJ+N+ACR+Sg+Gen
-III-IJ	III+N+ACR+Err/Orth+Cmp-#IJ+N+ACR+Sg+Acc
 
 Hoc	Hoc	+?
 
@@ -6812,12 +6666,6 @@ Ebi-kuávdáš	Ebi-kuávdáš	+?
 
 EY*a	EY*a	+?
 
-EU-doarjagiin	EU+N+ACR+Cmp-#doarjja+N+Pl+Loc
-EU-doarjagiin	EU+N+ACR+Cmp-#doarjja+N+Sg+Com
-EU-doarjagiin	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#doarjja+N+Pl+Loc
-EU-doarjagiin	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#doarjja+N+Sg+Com
-EU-doarjagiin	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#doarjja+N+Pl+Loc
-EU-doarjagiin	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#doarjja+N+Sg+Com
 EU-doarjagiin	EU-doarjja+N+Pl+Loc
 EU-doarjagiin	EU-doarjja+N+Sg+Com
 
@@ -6842,10 +6690,6 @@ Dearvvahusa	Dearvvahusa	+?
 
 DNA-tutkâm	DNA-tutkâm	+?
 
-DD	DD+N+ACR+Sg+Nom
-DD	DD+N+ACR+Sg+Gen
-DD	DD+N+ACR+Sg+Acc
-
 D-Corp	D-Corp	+?
 
 Cugu	Cugu	+?
@@ -6857,10 +6701,6 @@ CD-skiärust	CD-skiärust	+?
 CD-skiäru	CD-skiäru	+?
 
 CD-skiärru	CD-skiärru	+?
-
-CBD	CBD+N+ACR+Sg+Nom
-CBD	CBD+N+ACR+Sg+Gen
-CBD	CBD+N+ACR+Sg+Acc
 
 Bálkkášanlávdegoddi	Bálkkášanlávdegoddi	+?
 
@@ -7367,16 +7207,10 @@ AHR*a	AHR*a	+?
 áššehasbálvalusaid	áššehasbálvalus+N+Err/Orth+Pl+Acc
 
 áššehasbálvalus-	áššehas+N+Cmp/SgNom+Cmp#bálvalus+N+Cmp/SgNom+Cmp/SplitR
-áššehasbálvalus-	áššehas+N+Cmp/SgNom+Cmp#bálvalus+N+Cmp/SgNom+Cmp/SplitR
-áššehasbálvalus-	áššehas+N+Cmp/SgNom+Cmp#bálvalus+N+Cmp/SgGen+Cmp/SplitR
 áššehasbálvalus-	áššehas+N+Cmp/SgNom+Cmp#bálvalus+N+Cmp/SgGen+Cmp/SplitR
 áššehasbálvalus-	áššehas+N+Cmp/SgGen+Cmp#bálvalus+N+Cmp/SgNom+Cmp/SplitR
-áššehasbálvalus-	áššehas+N+Cmp/SgGen+Cmp#bálvalus+N+Cmp/SgNom+Cmp/SplitR
-áššehasbálvalus-	áššehas+N+Cmp/SgGen+Cmp#bálvalus+N+Cmp/SgGen+Cmp/SplitR
 áššehasbálvalus-	áššehas+N+Cmp/SgGen+Cmp#bálvalus+N+Cmp/SgGen+Cmp/SplitR
 áššehasbálvalus-	áššehasbálvalus+N+Cmp/SgNom+Cmp/SplitR
-áššehasbálvalus-	áššehasbálvalus+N+Cmp/SgNom+Cmp/SplitR
-áššehasbálvalus-	áššehasbálvalus+N+Cmp/SgGen+Cmp/SplitR
 áššehasbálvalus-	áššehasbálvalus+N+Cmp/SgGen+Cmp/SplitR
 
 áššehasbálvalus	áššehas+N+Cmp/SgNom+Cmp#bálvalus+N+Sg+Nom
@@ -7586,8 +7420,6 @@ AHR*a	AHR*a	+?
 álbmogiidvádjolus	álbmot+N+Cmp/PlGen+Cmp#vádjolus+N+Sg+Nom
 
 ákkil-	ákkil+N+Cmp/SgGen+Cmp/SplitR
-ákkil-	ákkil+N+Cmp/SgGen+Cmp/SplitR
-ákkil-	ákkil+N+Cmp/SgNom+Cmp/SplitR
 ákkil-	ákkil+N+Cmp/SgNom+Cmp/SplitR
 
 áitavuložinšaddama	áitavuložinšaddama	+?
@@ -7706,14 +7538,6 @@ AHR*a	AHR*a	+?
 
 Áelii	Áelii	+?
 
-ÁNAR	ÁNAR+N+ACR+Sg+Nom
-ÁNAR	ÁNAR+N+ACR+Sg+Gen
-ÁNAR	ÁNAR+N+ACR+Sg+Acc
-
-ÁEL	ÁEL+N+ACR+Sg+Nom
-ÁEL	ÁEL+N+ACR+Sg+Gen
-ÁEL	ÁEL+N+ACR+Sg+Acc
-
 Àddja	Àddja	+?
 
 À	À	+?
@@ -7823,7 +7647,6 @@ vánddárdeddjiid	vánddárdeddjiid	+?
 
 válmmaštuvvamis	válmmaštuvvat+Err/Lex+V+IV+Der/NomAct+N+Sg+Gen+PxSg3
 válmmaštuvvamis	válmmaštuvvat+Err/Lex+V+IV+Der/NomAct+N+Sg+Acc+PxSg3
-válmmaštuvvamis	válmmaštuvvat+Err/Lex+V+IV+Der/NomAct+N+Sg+Loc
 válmmaštuvvamis	válmmaštuvvat+Err/Lex+V+IV+Der/NomAct+N+Sg+Loc
 válmmaštuvvamis	válmmaštuvvat+Err/Lex+V+IV+Actio+Loc
 
@@ -8599,10 +8422,7 @@ veajuiduhttingurssaid	veajuiduhttit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#kursa+v2+N+P
 veajuiduhttingurssaid	veajuiduhttit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#kursa+v2+N+Pl+Acc
 
 veajuiduhttin-	veajuiduhttin+N+Cmp/SgNom+Cmp/SplitR
-veajuiduhttin-	veajuiduhttin+N+Cmp/SgNom+Cmp/SplitR
 veajuiduhttin-	veajuiduvvat+V+IV+Der/ahtti+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
-veajuiduhttin-	veajuiduvvat+V+IV+Der/ahtti+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
-veajuiduhttin-	veajuiduhttit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 veajuiduhttin-	veajuiduhttit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 
 veahádatgiela	veahádat+N+Cmp/SgNom+Cmp#giella+N+Sg+Acc
@@ -8711,7 +8531,6 @@ veaddebáhkiin	veaddi+N+Cmp/SgNom+Cmp#báhkki+N+Err/Orth+Pl+Loc
 veaddebáhkiin	veaddi+N+Cmp/SgNom+Cmp#báhkki+N+Sg+Com
 veaddebáhkiin	veaddi+N+Cmp/SgNom+Cmp#báhkki+N+Pl+Loc
 
-veadde-	veaddi+N+Cmp/SgNom+Cmp/SplitR
 veadde-	veaddi+N+Cmp/SgNom+Cmp/SplitR
 
 vd	vd	+?
@@ -9954,7 +9773,6 @@ sisriikapolitihkalaš	sis+N+Cmp#riika+Err/Orth+N+Err/Orth+Cmp/SgNom+Cmp#politihk
 siskkálagaid	siskkálagaid	+?
 
 siskkobeallái	siskkobealli+Err/Lex+N+Sg+Ill
-siskkobeallái	siskkobealli+Err/Lex+N+Sg+Ill
 siskkobeallái	siskkobeallai+Err/Orth+Pr
 siskkobeallái	siskkobeallai+Err/Orth+Po
 
@@ -10539,7 +10357,6 @@ rock-muusikjuávkku	rock-muusikjuávkku	+?
 rock-juávkku	rock-juávkku	+?
 
 rock-	rohkka+Err/Orth+N+Cmp/SgNom+Cmp/SplitR
-rock-	rohkka+Err/Orth+N+Cmp/SgNom+Cmp/SplitR
 
 rivvejuvvot	rivvet+V+TV+Der/PassL+V+IV+Inf
 rivvejuvvot	rivvet+V+TV+Der/PassL+V+IV+Ind+Prs+Sg2
@@ -10795,8 +10612,6 @@ rapmusihkkár	rap+N+Cmp/SgGen+Cmp#musihkkár+N+Sg+Nom
 rap-muusikist	rap-muusikist	+?
 
 rap-	rap+N+Cmp/SgNom+Cmp/SplitR
-rap-	rap+N+Cmp/SgNom+Cmp/SplitR
-rap-	rap+N+Cmp/SgGen+Cmp/SplitR
 rap-	rap+N+Cmp/SgGen+Cmp/SplitR
 
 rahčamušat	rahčamuš+N+Sg+Gen+PxSg2
@@ -10853,7 +10668,6 @@ prográmme	prográmme	+?
 
 prográmmahápmosa	prográmmahápmosa	+?
 
-programmeren-	programmeret+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 programmeren-	programmeret+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 
 produktiiva	produktiiva+A+Attr
@@ -11222,7 +11036,6 @@ ovttaráđálašvuhtii	ovttaráđálaš+A+Cmp/SgNom+Cmp#vuohta+Err/Lex+N+Sg+Ill
 ovttaráđálašvuhtii	ovttaráđálaš+A+Cmp/SgGen+Cmp#vuohta+Err/Lex+N+Sg+Ill
 ovttaráđálašvuhtii	ovttaráđálaš+A+Cmp/Attr+Cmp#vuohta+Err/Lex+N+Sg+Ill
 
-ovttaoaivilis	ovttaoaivilis+Adv
 ovttaoaivilis	ovttaoaivilis+Adv
 
 ovttanjálbmái	ovttanjálbmái	+?
@@ -11937,10 +11750,7 @@ olggosaddo	olggosaddit+V+TV+Der/PassS+V+IV+Ind+Prs+Sg3
 olggosaddo	olggosaddit+V+TV+Der/PassS+V+IV+Ind+Prs+ConNeg
 
 olggosaddin-	olggosaddin+N+Cmp/SgNom+Cmp/SplitR
-olggosaddin-	olggosaddin+N+Cmp/SgNom+Cmp/SplitR
 olggosaddin-	olgu+N+Cmp/SgGen+Cmp#saddit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
-olggosaddin-	olgu+N+Cmp/SgGen+Cmp#saddit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
-olggosaddin-	olggosaddit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 olggosaddin-	olggosaddit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 
 olggosaddin	olggosaddi+N+NomAg+Sg+Loc+South+Err/Orth
@@ -13354,12 +13164,8 @@ marjukka	marjukka	+?
 manáin	manáin	+?
 
 manusčállin-	mánus+Err/Orth+N+Cmp/SgGen+Cmp#čállin+N+Cmp/SgNom+Cmp/SplitR
-manusčállin-	mánus+Err/Orth+N+Cmp/SgGen+Cmp#čállin+N+Cmp/SgNom+Cmp/SplitR
-manusčállin-	mánus+Err/Orth+N+Cmp/SgGen+Cmp#čállit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 manusčállin-	mánus+Err/Orth+N+Cmp/SgGen+Cmp#čállit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 manusčállin-	mánus+Err/Orth+N+Cmp/SgNom+Cmp#čállin+N+Cmp/SgNom+Cmp/SplitR
-manusčállin-	mánus+Err/Orth+N+Cmp/SgNom+Cmp#čállin+N+Cmp/SgNom+Cmp/SplitR
-manusčállin-	mánus+Err/Orth+N+Cmp/SgNom+Cmp#čállit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 manusčállin-	mánus+Err/Orth+N+Cmp/SgNom+Cmp#čállit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 
 manusa	mánus+Err/Orth+N+Sg+Gen
@@ -13454,7 +13260,6 @@ lávadahkamis	lávva+N+Cmp/SgGen+Cmp#dahkat+V+TV+Der/NomAct+N+Sg+Acc+PxSg3
 lávadahkamis	lávva+N+Cmp/SgGen+Cmp#dahkat+V+TV+Der/NomAct+N+Sg+Loc
 
 láttiiduhttin-	láttiiduhttit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
-láttiiduhttin-	láttiiduhttit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 
 láttebiktasiid	láddi+N+Cmp/SgGen+Cmp#bivttas+N+Pl+Gen
 láttebiktasiid	láddi+N+Cmp/SgGen+Cmp#bivttas+N+Pl+Acc
@@ -13508,10 +13313,7 @@ láhkki	láhkki+N+Sg+Nom
 láhkašasáhusa	láhkašasáhusa	+?
 
 láhkaásahan	láhkka+N+Cmp/SgGen+Cmp#ása+N+Sg+Nom+Foc/han
-láhkaásahan	láhkka+N+Cmp/SgGen+Cmp#ása+N+Sg+Nom+Foc/han
 láhkaásahan	láhka+N+Cmp/SgNom+Cmp#ása+N+Sg+Nom+Foc/han
-láhkaásahan	láhka+N+Cmp/SgNom+Cmp#ása+N+Sg+Nom+Foc/han
-láhkaásahan	láhka+N+Err/Orth+Cmp/SgNom+Cmp#ása+N+Sg+Nom+Foc/han
 láhkaásahan	láhka+N+Err/Orth+Cmp/SgNom+Cmp#ása+N+Sg+Nom+Foc/han
 
 láhkateks-*tii	láhkateks-*tii	+?
@@ -13610,14 +13412,8 @@ lohpegeavadagas	lohpegeavadagas	+?
 logáhaga	logáhaga	+?
 
 logistihkka-	lohki+N+Cmp/SgGen+Cmp#stihkka+N+Cmp/SgNom+Cmp/SplitR
-logistihkka-	lohki+N+Cmp/SgGen+Cmp#stihkka+N+Cmp/SgNom+Cmp/SplitR
-logistihkka-	lohki+N+Cmp/SgGen+Cmp#stihkka+N+Cmp/SgNom+Cmp/SplitR
-logistihkka-	lohki+N+Cmp/SgGen+Cmp#stihkka+N+Err/Orth+Cmp/SgNom+Cmp/SplitR
 logistihkka-	lohki+N+Cmp/SgGen+Cmp#stihkka+N+Err/Orth+Cmp/SgNom+Cmp/SplitR
 logistihkka-	logistihkka+N+Cmp/SgNom+Cmp/SplitR
-logistihkka-	logistihkka+N+Cmp/SgNom+Cmp/SplitR
-logistihkka-	logistihkka+N+Cmp/SgNom+Cmp/SplitR
-logistihkka-	logistihkka+N+Err/Orth+Cmp/SgNom+Cmp/SplitR
 logistihkka-	logistihkka+N+Err/Orth+Cmp/SgNom+Cmp/SplitR
 
 logijagaš	logi+Num+Cmp/SgGen+Cmp#+Der/jagaš+A+Attr
@@ -13790,7 +13586,6 @@ leabba	leabba+Adv
 le	le+Interj
 
 layout-	layout+N+Cmp/SgNom+Cmp/SplitR
-layout-	layout+N+Cmp/SgNom+Cmp/SplitR
 
 lassánan165	lassánan165	+?
 
@@ -13818,7 +13613,6 @@ laiti	laiti	+?
 
 lahttus	lahttus	+?
 
-lahkaásaheapmái	lahka+A+Cmp/Attr+Cmp#ása+N+Der/heapmi+A+Sg+Ill
 lahkaásaheapmái	lahka+A+Cmp/Attr+Cmp#ása+N+Der/heapmi+A+Sg+Ill
 lahkaásaheapmái	lahka+A+Cmp/Attr+Cmp#ásaheapmi+N+Sg+Ill
 lahkaásaheapmái	lahka+A+Cmp/Attr+Cmp#ássat+V+IV+Der/h+V+TV+Der/NomAct+N+Sg+Ill
@@ -14028,7 +13822,6 @@ konsultašuvdnasoahpamuš	konsultašuvdna+N+Cmp/SgNom+Cmp#soahpamuš+N+Sg+Nom
 konsultašuvdnasoahpamuš	konsultašuvdna+N+Cmp/SgNom+Cmp#soahpat+V+TV+Der/muš+N+Sg+Nom
 
 konsultašuvdna-	konsultašuvdna+N+Cmp/SgNom+Cmp/SplitR
-konsultašuvdna-	konsultašuvdna+N+Cmp/SgNom+Cmp/SplitR
 
 konkretisere	konkretiseret+V+TV+VGen
 konkretisere	konkretiseret+V+TV+Imprt+ConNeg
@@ -14050,7 +13843,6 @@ konfeluhtaid	konfeluhtta+N+Err/Orth+Pl+Acc
 konfeluhtaid	konfeluhtta+N+Pl+Gen
 konfeluhtaid	konfeluhtta+N+Pl+Acc
 
-komponeren-	komponeret+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 komponeren-	komponeret+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 
 komponeren	komponeret+V+TV+PrfPrc
@@ -14345,7 +14137,6 @@ jearahállat	jeara+N+Cmp/SgNom+Cmp#hálla+N+G3+Sg+Nom+PxSg2
 jearahállat	jeara+N+Cmp/SgNom+Cmp#hálla+N+G3+Sg+Gen+PxSg2
 jearahállat	jeara+N+Cmp/SgNom+Cmp#hálla+N+Sg+Nom+PxSg2
 
-jazz-	jazz+N+Cmp/SgNom+Cmp/SplitR
 jazz-	jazz+N+Cmp/SgNom+Cmp/SplitR
 
 jaovkku	jaovkku	+?
@@ -15923,7 +15714,6 @@ eaŋgalsgielat	eaŋgalsgielat+A+Sg+Gen+Err/Orth
 eaŋgalsgielat	eaŋgalsgielat+A+Sg+Acc+Err/Orth
 
 eaŋgals-	eaŋgals+A+Cmp/Attr+Cmp/SplitR
-eaŋgals-	eaŋgals+A+Cmp/Attr+Cmp/SplitR
 
 eatnigilii	eatnigilii	+?
 
@@ -16101,7 +15891,6 @@ dásaš	dásaš	+?
 
 dárogiel	dárogiel+A+Attr
 
-dáro-	dárru+N+Cmp/SgGen+Cmp/SplitR
 dáro-	dárru+N+Cmp/SgGen+Cmp/SplitR
 
 dárkojeaddjeriikkat	dárkojeaddji+N+NomAg+Cmp/SgNom+Cmp#riika+N+Pl+Nom
@@ -16602,10 +16391,6 @@ council	council	+?
 concerning	concerning	+?
 
 cocktailpirogat	cocktailpirogat	+?
-
-co	co+N+ACR+Sg+Nom
-co	co+N+ACR+Sg+Gen
-co	co+N+ACR+Sg+Acc
 
 ciŋat	ciŋat	+?
 
@@ -17238,12 +17023,8 @@ auditoriija	auditoria+Err/Orth+N+Sg+Gen+Allegro
 auditoriija	auditoria+Err/Orth+N+Sg+Gen
 
 auditoria-	auditoria+N+Cmp/SgGen+Cmp/SplitR
-auditoria-	auditoria+N+Cmp/SgGen+Cmp/SplitR
-auditoria-	auditoria+N+Cmp/SgNom+Cmp/SplitR
 auditoria-	auditoria+N+Cmp/SgNom+Cmp/SplitR
 auditoria-	auditoria+Err/Orth+N+Err/Orth+N+Cmp/SgGen+Cmp/SplitR
-auditoria-	auditoria+Err/Orth+N+Err/Orth+N+Cmp/SgGen+Cmp/SplitR
-auditoria-	auditoria+Err/Orth+N+Err/Orth+N+Cmp/SgNom+Cmp/SplitR
 auditoria-	auditoria+Err/Orth+N+Err/Orth+N+Cmp/SgNom+Cmp/SplitR
 
 audiovisuálalaš	audio+N+Cmp/SgGen+Cmp#visuála+N+Der/laš+A+Sg+Nom
@@ -17652,19 +17433,11 @@ Varzinas	Varzinas	+?
 
 Valkepää	Valkepää	+?
 
-VJN	VJN+N+ACR+Sg+Nom
-VJN	VJN+N+ACR+Sg+Gen
-VJN	VJN+N+ACR+Sg+Acc
-
 V/IJ	V/IJ	+?
 
 Usholik	Usholik	+?
 
 Udnojeadnot	udnot+V+TV+Imprt+Pl1+Err/Orth
-
-UN	UN+N+ACR+Sg+Nom
-UN	UN+N+ACR+Sg+Gen
-UN	UN+N+ACR+Sg+Acc
 
 Téllez	Téllez	+?
 
@@ -17734,10 +17507,6 @@ Taikalamppu-pajan	Taikalamppu-pajan	+?
 Taikalamppu-#páárnáš#kulttuurviärmáduv	Taikalamppu-#páárnáš#kulttuurviärmáduv	+?
 
 TV-ja	TV-ja	+?
-
-THE	THE+N+ACR+Sg+Nom
-THE	THE+N+ACR+Sg+Gen
-THE	THE+N+ACR+Sg+Acc
 
 TEKSTIILAPLÁNEMA	TEKSTIILAPLÁNEMA	+?
 
@@ -17956,17 +17725,9 @@ STT-*lehtikuva	STT-*lehtikuva	+?
 
 STATEMENT	STATEMENT	+?
 
-SSR	SSR+N+ACR+Sg+Nom
-SSR	SSR+N+ACR+Sg+Gen
-SSR	SSR+N+ACR+Sg+Acc
-
 SSN*a	SSN*a	+?
 
 SPR*as	SPR*as	+?
-
-SPN	SPN+N+ACR+Sg+Nom
-SPN	SPN+N+ACR+Sg+Gen
-SPN	SPN+N+ACR+Sg+Acc
 
 SOUNDS	SOUNDS	+?
 
@@ -17974,34 +17735,11 @@ SOTTIISIMOVES	SOTTIISIMOVES	+?
 
 SOGs/s	SOGs/s	+?
 
-SKTL	SKTL+N+ACR+Sg+Nom
-SKTL	SKTL+N+ACR+Sg+Gen
-SKTL	SKTL+N+ACR+Sg+Acc
-
 SHOW-häämi	SHOW-häämi	+?
-
-SHOW	SHOW+N+ACR+Sg+Nom
-SHOW	SHOW+N+ACR+Sg+Gen
-SHOW	SHOW+N+ACR+Sg+Acc
 
 SEÂTTMÕÕŽŽ	SEÂTTMÕÕŽŽ	+?
 
-SE-981	SE+N+ACR+Cmp-#981+Num+Sg+Nom
-SE-981	SE+N+ACR+Cmp-#981+Num+Sg+Gen
-SE-981	SE+N+ACR+Cmp-#981+Num+Sg+Acc
-SE-981	SE+N+ACR+Cmp-#981+Num+Sg+Loc+Attr
-SE-981	SE+N+ACR+Cmp-#981+Num+Sg+Ill+Attr
-SE-981	SE+N+ACR+Err/Orth+Cmp-#981+Num+Sg+Nom
-SE-981	SE+N+ACR+Err/Orth+Cmp-#981+Num+Sg+Gen
-SE-981	SE+N+ACR+Err/Orth+Cmp-#981+Num+Sg+Acc
-SE-981	SE+N+ACR+Err/Orth+Cmp-#981+Num+Sg+Loc+Attr
-SE-981	SE+N+ACR+Err/Orth+Cmp-#981+Num+Sg+Ill+Attr
-
 SDP*a	SDP*a	+?
-
-SDM	SDM+N+ACR+Sg+Nom
-SDM	SDM+N+ACR+Sg+Gen
-SDM	SDM+N+ACR+Sg+Acc
 
 SAMOK*a	SAMOK*a	+?
 
@@ -18159,17 +17897,9 @@ Palkinen	Palkinen	+?
 Pakeahttahaddi	pakeahtta+N+Cmp/SgNom+Cmp#haddi+N+Sg+Nom
 Pakeahttahaddi	pakeahtta+N+Err/Orth+Cmp/SgNom+Cmp#haddi+N+Sg+Nom
 
-PPJ	PPJ+N+ACR+Sg+Nom
-PPJ	PPJ+N+ACR+Sg+Gen
-PPJ	PPJ+N+ACR+Sg+Acc
-
 POLURA-lahâvuáđudem	POLURA-lahâvuáđudem	+?
 
 PFII´	PFII´	+?
-
-PEFC	PEFC+N+ACR+Sg+Nom
-PEFC	PEFC+N+ACR+Sg+Gen
-PEFC	PEFC+N+ACR+Sg+Acc
 
 PDF-*fiila	PDF-*fiila	+?
 
@@ -18451,21 +18181,9 @@ Oahpahusministtarii	Oahpahusministtarii	+?
 
 OPENING	OPENING	+?
 
-ONin	ON+N+ACR+Err/Orth+Pl+Loc
-ONin	ON+N+ACR+Err/Orth+Pl+Loc+Err/Orth
-ONin	ON+N+ACR+Err/Orth+Sg+Com
-ONin	ON+N+ACR+Err/Orth+Sg+Com+Err/Orth
-
 ONaolmmošvuoigatvuohtaráđis	ONaolmmošvuoigatvuohtaráđis	+?
 
-ONaide	ON+N+ACR+Err/Orth+Pl+Ill+Err/Orth
-ONaide	ON+N+ACR+Err/Orth+Pl+Ill+Err/Orth
-
 OFELAŽŽA	OFELAŽŽA	+?
-
-OF	OF+N+ACR+Sg+Nom
-OF	OF+N+ACR+Sg+Gen
-OF	OF+N+ACR+Sg+Acc
 
 Näkkäläläjärvi-Länsman	Näkkäläläjärvi-Länsman	+?
 
@@ -18532,8 +18250,6 @@ Njoarostangilvvu	njoarostit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#gilvu+N+Sg+Gen
 Njoarostangilvvu	njoarostit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#gilvu+N+Sg+Acc
 
 Njoarostan-	njoarosteapmi+N+Cmp/SgNom+Cmp/SplitR
-Njoarostan-	njoarosteapmi+N+Cmp/SgNom+Cmp/SplitR
-Njoarostan-	njoarostit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 Njoarostan-	njoarostit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp/SplitR
 
 Njaita	Njaita	+?
@@ -18582,19 +18298,7 @@ Nadesha	Nadesha	+?
 
 NRK*a	NRK*a	+?
 
-NP	NP+N+ACR+Sg+Nom
-NP	NP+N+ACR+Sg+Gen
-NP	NP+N+ACR+Sg+Acc
-
 NJUOLGÂDUSAH	NJUOLGÂDUSAH	+?
-
-NFHK	NFHK+N+ACR+Sg+Nom
-NFHK	NFHK+N+ACR+Sg+Gen
-NFHK	NFHK+N+ACR+Sg+Acc
-
-NBR	NBR+N+ACR+Sg+Nom
-NBR	NBR+N+ACR+Sg+Gen
-NBR	NBR+N+ACR+Sg+Acc
 
 Márkanastinhoavda	márkanastinhoavda+N+Sg+Nom
 Márkanastinhoavda	márkanastit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#hoavda+N+Sg+Nom
@@ -18988,10 +18692,6 @@ IV/IJ	IV/IJ	+?
 
 IV-*III	IV-*III	+?
 
-INNO	INNO+N+ACR+Sg+Nom
-INNO	INNO+N+ACR+Sg+Gen
-INNO	INNO+N+ACR+Sg+Acc
-
 ILO-convention	ILO-convention	+?
 
 IBBY-pálhášume	IBBY-pálhášume	+?
@@ -19374,172 +19074,12 @@ Eahkesbeaimális	eahkesbeai+N+Cmp#málli+N+Sg+Loc
 
 EUs/s	EUs/s	+?
 
-EUain	EU+N+ACR+Err/Orth+Pl+Loc+Err/Orth
-EUain	EU+N+ACR+Err/Orth+Pl+Loc+Err/Orth
-
-EU-ráđi	EU+N+ACR+Cmp-#ráđđi+N+Sg+Gen
-EU-ráđi	EU+N+ACR+Cmp-#ráđđi+N+Sg+Acc
-EU-ráđi	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#ráđđi+N+Sg+Gen
-EU-ráđi	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#ráđđi+N+Sg+Acc
-EU-ráđi	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#ráđđi+N+Sg+Gen
-EU-ráđi	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#ráđđi+N+Sg+Acc
-
-EU-riikkat	EU+N+ACR+Cmp-#riika+N+Pl+Nom
-EU-riikkat	EU+N+ACR+Cmp-#riika+N+Sg+Acc+PxSg2
-EU-riikkat	EU+N+ACR+Cmp-#riika+N+Sg+Gen+PxSg2
-EU-riikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#riika+N+Pl+Nom
-EU-riikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#riika+N+Sg+Acc+PxSg2
-EU-riikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#riika+N+Sg+Gen+PxSg2
-EU-riikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#riika+N+Pl+Nom
-EU-riikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#riika+N+Sg+Acc+PxSg2
-EU-riikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#riika+N+Sg+Gen+PxSg2
 EU-riikkat	EU-riika+N+Pl+Nom
 
-EU-lahttoriikkat	EU+N+ACR+Cmp-#lahttoriika+N+Pl+Nom
-EU-lahttoriikkat	EU+N+ACR+Cmp-#lahttoriika+N+Sg+Acc+PxSg2
-EU-lahttoriikkat	EU+N+ACR+Cmp-#lahttoriika+N+Sg+Gen+PxSg2
-EU-lahttoriikkat	EU+N+ACR+Cmp-#lahttu+N+Cmp/SgNom+Cmp#riika+N+Pl+Nom
-EU-lahttoriikkat	EU+N+ACR+Cmp-#lahttu+N+Cmp/SgNom+Cmp#riika+N+Sg+Acc+PxSg2
-EU-lahttoriikkat	EU+N+ACR+Cmp-#lahttu+N+Cmp/SgNom+Cmp#riika+N+Sg+Gen+PxSg2
-EU-lahttoriikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#lahttoriika+N+Pl+Nom
-EU-lahttoriikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#lahttoriika+N+Sg+Acc+PxSg2
-EU-lahttoriikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#lahttoriika+N+Sg+Gen+PxSg2
-EU-lahttoriikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#lahttu+N+Cmp/SgNom+Cmp#riika+N+Pl+Nom
-EU-lahttoriikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#lahttu+N+Cmp/SgNom+Cmp#riika+N+Sg+Acc+PxSg2
-EU-lahttoriikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#lahttu+N+Cmp/SgNom+Cmp#riika+N+Sg+Gen+PxSg2
-EU-lahttoriikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#lahttoriika+N+Pl+Nom
-EU-lahttoriikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#lahttoriika+N+Sg+Acc+PxSg2
-EU-lahttoriikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#lahttoriika+N+Sg+Gen+PxSg2
-EU-lahttoriikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#lahttu+N+Cmp/SgNom+Cmp#riika+N+Pl+Nom
-EU-lahttoriikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#lahttu+N+Cmp/SgNom+Cmp#riika+N+Sg+Acc+PxSg2
-EU-lahttoriikkat	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#lahttu+N+Cmp/SgNom+Cmp#riika+N+Sg+Gen+PxSg2
 EU-lahttoriikkat	EU-lahttu+N+Cmp/SgNom+Cmp#riika+N+Pl+Nom
 EU-lahttoriikkat	EU-lahttu+N+Cmp/SgNom+Cmp#riika+N+Sg+Acc+PxSg2
 EU-lahttoriikkat	EU-lahttu+N+Cmp/SgNom+Cmp#riika+N+Sg+Gen+PxSg2
 
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Err/Orth+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Cmp-#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Err/Orth+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlluovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Err/Orth+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidanruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhta+N+Err/Orth+Cmp/SgNom+Cmp#rádju+N+Sg+Loc
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Gen+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Acc+PxSg3
-EU-guovlluovddidanruhtarájus	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Loc
 EU-guovlluovddidanruhtarájus	EU-guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rájus+N+Sg+Nom
 EU-guovlluovddidanruhtarájus	EU-guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Gen+PxSg3
 EU-guovlluovddidanruhtarájus	EU-guovlu+N+Cmp/SgGen+Cmp#ovddideapmi+N+Cmp/SgNom+Cmp#ruhta+N+Cmp/SgNom+Cmp#rádju+N+Sg+Acc+PxSg3
@@ -19571,31 +19111,11 @@ EU-guovlluovddidanruhtarájus	EU-guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct
 EU-guovlluovddidanruhtarájus	EU-guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Acc+PxSg3
 EU-guovlluovddidanruhtarájus	EU-guovlu+N+Cmp/SgGen+Cmp#ovddidit+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#ruhtarádju+N+Sg+Loc
 
-EU-fidnuid	EU+N+ACR+Cmp-#fidnu+N+Err/Orth+Pl+Gen
-EU-fidnuid	EU+N+ACR+Cmp-#fidnu+N+Err/Orth+Pl+Acc
-EU-fidnuid	EU+N+ACR+Cmp-#fidnu+N+Pl+Gen
-EU-fidnuid	EU+N+ACR+Cmp-#fidnu+N+Pl+Acc
-EU-fidnuid	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#fidnu+N+Err/Orth+Pl+Gen
-EU-fidnuid	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#fidnu+N+Err/Orth+Pl+Acc
-EU-fidnuid	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#fidnu+N+Pl+Gen
-EU-fidnuid	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#fidnu+N+Pl+Acc
-EU-fidnuid	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#fidnu+N+Err/Orth+Pl+Gen
-EU-fidnuid	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#fidnu+N+Err/Orth+Pl+Acc
-EU-fidnuid	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#fidnu+N+Pl+Gen
-EU-fidnuid	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#fidnu+N+Pl+Acc
-
-EU-doarjja	EU+N+ACR+Cmp-#doarjja+N+Sg+Nom
-EU-doarjja	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#doarjja+N+Sg+Nom
-EU-doarjja	EU+N+ACR+Err/Orth+Cmp/Hyph+Cmp#doarjja+N+Sg+Nom
 EU-doarjja	EU-doarjja+N+Sg+Nom
 
 EP-skiäru	EP-skiäru	+?
 
 EP*a	EP*a	+?
-
-EO	EO+N+ACR+Sg+Nom
-EO	EO+N+ACR+Sg+Gen
-EO	EO+N+ACR+Sg+Acc
 
 E-skuvla	e+N+ABBR+Cmp-#skuvla+N+Sg+Nom
 E-skuvla	e-skuvla+N+Sg+Nom
@@ -19612,7 +19132,6 @@ Dávggáid	Dávggát+N+Prop+Sem/Obj+Pl+Acc
 
 Dásseárvo	Dásseárvo	+?
 
-Dáro-	dárru+N+Cmp/SgGen+Cmp/SplitR
 Dáro-	dárru+N+Cmp/SgGen+Cmp/SplitR
 
 Dánu	dánu+Adv
@@ -19973,10 +19492,6 @@ Badje-Doalláma	Badje-Doalláma	+?
 
 Badadin	Badadin	+?
 
-BUOR	BUOR+N+ACR+Sg+Nom
-BUOR	BUOR+N+ACR+Sg+Gen
-BUOR	BUOR+N+ACR+Sg+Acc
-
 BE-toimâttuvâst	BE-toimâttuvâst	+?
 
 B-bustávva	b+Adv+ABBR+Cmp-#bustávva+N+Sg+Nom
@@ -20056,10 +19571,6 @@ ARTISTALATNJA	ARTISTALATNJA	+?
 AHRs/s	AHRs/s	+?
 
 AHR*ai	AHR*ai	+?
-
-ADI	ADI+N+ACR+Sg+Nom
-ADI	ADI+N+ACR+Sg+Gen
-ADI	ADI+N+ACR+Sg+Acc
 
 ADG-tááiđuh	ADG-tááiđuh	+?
 
