@@ -312,6 +312,7 @@
     <!-- ASECTION: Adverbs -->
     <e><p><l>mealgadii<s n="adv"/></l><r>masa<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
     <e><p><l>dánu<s n="adv"/></l><r>návt<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
+    <e><p><l>dolin<s n="adv"/></l><r>ovdil<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
     <e><p><l>deaivása<s n="adv"/></l><r>tiäivás<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
     <e><p><l>njuolgut<s n="adv"/></l><r>njuolgist<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
     <e><p><l>mot<s n="adv"/></l><r>maht<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
@@ -675,6 +676,12 @@
     
     <!-- ASECTION: Nouns -->  
    	 <e><p><l>fáhcca<s n="n"/></l><r>vaccâ<s n="n"/></r></p></e>
+   	 <e><p><l>dutkkus<s n="n"/></l><r>tuđhos<s n="n"/></r></p></e>
+   	 <e><p><l>republihkka<s n="n"/></l><r>täsiväldi<s n="n"/></r></p></e>
+   	 <e><p><l>dáiddár<s n="n"/></l><r>taaidâr<s n="n"/></r></p></e>
+   	 <e><p><l>riepmobeaivi<s n="n"/></l><r>juhlepeivi<s n="n"/></r></p></e>
+   	 <e><p><l>mánotbadji<s n="n"/></l><r>mánuppaje<s n="n"/></r></p></e>
+   	 <e><p><l>eaŋgalsgiella<s n="n"/></l><r>eŋgâlâskielâ<s n="n"/></r></p></e>
    	 <e><p><l>normeren<s n="n"/></l><r>normâdem<s n="n"/></r></p></e>
    	 <e><p><l>láddelaš<s n="n"/></l><r>läddilâš<s n="n"/></r></p></e>
    	 <e><p><l>interneahtta<s n="n"/></l><r>internet<s n="n"/></r></p></e>
@@ -2909,6 +2916,9 @@
     
     <e><p><l>gárgedit<s n="vblex"/><s n="iv"/></l><r>ovdediđ<s n="vblex"/></r></p></e>
     <e><p><l>bihtit<s n="vblex"/><s n="iv"/></l><r>cevziđ<s n="vblex"/></r></p></e>
+    <e><p><l>ođastuhttit<s n="vblex"/><s n="iv"/></l><r>uđâsmittiđ<s n="vblex"/></r></p></e>
+    <e><p><l>luovvat<s n="vblex"/><s n="iv"/></l><r>vuáđudiđ<s n="vblex"/></r></p></e>
+    <e><p><l>sierraluvvat<s n="vblex"/><s n="iv"/></l><r>spesiaališuđ<s n="vblex"/></r></p></e>
     <e><p><l>duššat<s n="vblex"/><s n="iv"/></l><r>jäämmiđ<s n="vblex"/></r></p></e>
     <e><p><l>doadjit<s n="vblex"/><s n="iv"/></l><r>toijuđ<s n="vblex"/></r></p></e>
     <e><p><l>jáddat<s n="vblex"/><s n="iv"/></l><r>jäämmiđ<s n="vblex"/></r></p></e>
