@@ -21,7 +21,7 @@ Alphabet
 %<der%_eamoš%>
 %<der%_easti%>
 %<der%_geahtes%>
-%<der%_goahti%>
+%<der%_inchl%>
 %<der%_h%>
 %<der%_halla%>
 %<der%_heapmi%>
@@ -49,7 +49,7 @@ Alphabet
 %<der%_upmi%>
 %<der%_veara%>
 %<der%_viđá%>
-%<der%_vuohta%>
+%<der%_vuota%>
 %<der%_ár%>
 
 ;				! end of Alphabet
@@ -80,7 +80,7 @@ Derivations =
 %<der%_eamoš%>
 %<der%_easti%>
 %<der%_geahtes%>
-%<der%_goahti%>
+%<der%_inchl%>
 %<der%_h%>
 %<der%_halla%>
 %<der%_heapmi%>
@@ -108,7 +108,7 @@ Derivations =
 %<der%_upmi%>
 %<der%_veara%>
 %<der%_viđá%>
-%<der%_vuohta%>
+%<der%_vuota%>
 %<der%_ár%>
 ;
 
@@ -118,7 +118,7 @@ HandledDerivations =
 %<der%_at%>
 %<der%_d%>
 %<der%_dimin%>
-%<der%_goahti%>
+%<der%_inchl%>
 %<der%_h%>
 %<der%_halla%>
 %<der%_l%>
@@ -130,7 +130,7 @@ HandledDerivations =
 %<der%_st%>
 %<der%_t%>
 %<der%_upmi%>
-%<der%_vuohta%>
+%<der%_vuota%>
 ;
 
 ;				! end of Sets
