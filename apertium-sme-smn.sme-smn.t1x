@@ -232,6 +232,7 @@
     <def-cat n="agreement-attr">                             
       <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!--  put under vuosttaš as lemma in sme -->                   
       <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/> 
+      <cat-item lemma="vuosttas" tags="adj.ord.attr"/> 
       <cat-item lemma="aiddonas" tags="adj.*.attr.*"/> 
       <cat-item lemma="aiddonas" tags="adj.attr.*"/> 
       <cat-item lemma="dárbbašlaš" tags="adj.*.attr.*"/> 
@@ -548,8 +549,6 @@
        <attr-item tags="der_passs"/>
        <attr-item tags="der_passl"/>
        <attr-item tags="der_ahtti"/>
-       <attr-item tags="der_vuohta"/>
-       <attr-item tags="der_vuota"/>
        <attr-item tags="der_d"/>
        <attr-item tags="der_h"/>
        <attr-item tags="der_t"/>
@@ -565,7 +564,6 @@
     <def-attr n="a_deriv2">
        <attr-item tags="der_at"/>
        <attr-item tags="der_avt"/>
-       <attr-item tags="der_goahti"/>
    </def-attr>
 
 
@@ -1067,12 +1065,6 @@
 
         <when>
           <test>
-               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_vuohta"/></equal>
-          </test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_vuota"/></let> 
-        </when>
-        <when>
-          <test>
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_laš"/></equal>
           </test>
           <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_las"/></let> 
@@ -1123,12 +1115,6 @@
                <equal><clip pos="1" side="sl" part="a_deriv2"/><lit-tag v="der_at"/></equal>
           </test>
           <let><clip pos="1" side="tl" part="a_deriv2"/><lit-tag v="der_avt"/></let> 
-        </when>
-         <when>
-          <test>
-               <equal><clip pos="1" side="sl" part="a_deriv2"/><lit-tag v="der_goahti"/></equal>
-          </test>
-          <let><clip pos="1" side="tl" part="a_deriv2"/><lit-tag v="der_kyetti"/></let> 
         </when>
     </choose>
     </def-macro>  
