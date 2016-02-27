@@ -244,6 +244,8 @@
       <cat-item lemma="otná" tags="adj.attr.*"/> 
       <cat-item lemma="dološ" tags="adj.*.attr.*"/> 
       <cat-item lemma="dološ" tags="adj.attr.*"/> 
+      <cat-item lemma="maŋit" tags="adj.*.attr.*"/> 
+      <cat-item lemma="maŋit" tags="adj.attr.*"/> 
       <cat-item lemma="boahttevaš" tags="adj.*.attr.*"/> 
       <cat-item lemma="boahttevaš" tags="adj.attr.*"/> 
       <cat-item lemma="čuvgehuslaš" tags="adj.*.attr.*"/> 
@@ -470,6 +472,7 @@
   <section-def-attrs>
     <def-attr n="a_npagree_type">
        <attr-item tags="adj"/>
+       <attr-item tags="adj.sup"/>
        <attr-item tags="adj.ord"/>
        <attr-item tags="prn.ind"/>
        <attr-item tags="prn.dem"/>
