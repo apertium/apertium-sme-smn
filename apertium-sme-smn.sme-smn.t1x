@@ -109,84 +109,9 @@
       <cat-item tags="*.@-FMAINV"/>
     </def-cat>
     <def-cat n="nom"> <!-- not @OBJ→ because of change of wordorder   -->
-      <cat-item tags="*.n.*.@←ADVL"/>
-      <cat-item tags="*.n.*.@+FMAINV"/>
-      <cat-item tags="*.n.*.@-FMAINV"/>
-      <cat-item tags="*.n.*.@ADVL→"/>
-      <cat-item tags="*.n.*.@←OBJ"/>
-      <cat-item tags="*.n.*.@OPRED→"/>
-      <cat-item tags="*.n.*.@←OPRED"/>
-      <cat-item tags="*.n.*.@P←"/>
-      <cat-item tags="*.n.*.@P→"/>
-      <cat-item tags="*.n.*.@SPRED→"/>
-      <cat-item tags="*.n.*.@←SPRED"/>
-      <cat-item tags="*.n.*.@←SUBJ"/>
-      <cat-item tags="*.n.*.@SUBJ→"/>
-      <cat-item tags="*.n.*.@X"/>
-      <cat-item tags="n.*.@ADVL→"/>
-      <cat-item tags="n.*.@→ADVL"/>
-      <cat-item tags="n.*.@←ADVL"/>
-      <cat-item tags="n.*.@→ADVL"/>
-      <cat-item tags="n.*.@ADVL→CS"/>
-      <cat-item tags="n.*.@ADVL←OBJ"/>
-      <cat-item tags="n.*.@ADVL→SUBJ"/>
-      <cat-item tags="n.*.@APP"/>
-      <cat-item tags="n.*.@APP-ADVL←"/>
-      <cat-item tags="n.*.@APP-N←"/>
-      <cat-item tags="n.*.@APP-Num←"/>
-      <cat-item tags="n.*.@APP-Pron←"/>
-      <cat-item tags="n.*.@APP→Pron"/>
-      <cat-item tags="n.*.@-F←OBJ"/>
-      <cat-item tags="n.*.@-F←ADVL"/>
-      <cat-item tags="n.*.@-FADVL"/>
-      <cat-item tags="n.*.@-FADVL→"/>
-      <cat-item tags="n.*.@-FOBJ"/>
-      <cat-item tags="n.*.@-F←OPRED"/>
-      <cat-item tags="n.*.@-FOPRED→"/>
-      <cat-item tags="n.*.@-F←SPRED"/>
-      <cat-item tags="n.*.@-FSPRED→"/>
-      <cat-item tags="n.*.@-FSUBJ→"/>
-      <cat-item tags="n.*.@HNOUN"/>
-      <cat-item tags="np.*.@HNOUN"/>
-      <cat-item tags="n.*.@→A"/>
-      <cat-item tags="n.*.@→N"/>
-      <cat-item tags="n.*.@N←"/>
-      <cat-item tags="n.*.@Num←"/>
-      <cat-item tags="n.*.@→Num"/>
-      <cat-item tags="n.*.@←OBJ"/>
-      <cat-item tags="n.*.@OPRED→"/>
-      <cat-item tags="n.*.@←OPRED"/>
-      <cat-item tags="n.*.@P→"/>
-      <cat-item tags="n.*.@→P"/>
-      <cat-item tags="n.*.@Pron←"/>
-      <cat-item tags="n.*.@P←"/>
-      <cat-item tags="n.*.@SPRED→"/>
-      <cat-item tags="n.*.@←SPRED"/>
-      <cat-item tags="n.*.@SUBJ→"/>
-      <cat-item tags="n.*.@←SUBJ"/>
-      <cat-item tags="n.*.@VOC"/>
-      <cat-item tags="n.*.@X"/>
-      <cat-item tags="np.*.@→A"/>
-      <cat-item tags="np.*.@VOC"/>
-      <cat-item tags="np.*.@SPRED→"/>
-      <cat-item tags="np.*.@←SPRED"/>
-      <cat-item tags="np.*.@SUBJ→"/>
-      <cat-item tags="np.*.*.@SUBJ→"/>
-      <cat-item tags="np.*.*.*.@SUBJ→"/>
-      <cat-item tags="np.*.@←SUBJ"/>
-      <cat-item tags="np.*.@←OBJ"/>
-      <cat-item tags="np.*.@→N"/>
-      <cat-item tags="np.*.@N←"/>
-      <cat-item tags="np.*.@→Num"/>
-      <cat-item tags="np.*.@ADVL→"/>
-      <cat-item tags="np.*.@←ADVL"/>
-      <cat-item tags="np.*.@OPRED→"/>
-      <cat-item tags="np.*.@←OPRED"/>
-      <cat-item tags="np.*.@P←"/>
-      <cat-item tags="np.*.@P→"/>
-      <cat-item tags="np.*.@→P"/>
-      <cat-item tags="np.*.@Pron←"/>
-      <cat-item tags="np.*.@X"/>
+      <cat-item tags="*.n.*"/>
+      <cat-item tags="n.*"/>
+      <cat-item tags="np.*"/>
     </def-cat>
     <def-cat n="word">
       <cat-item tags="n.*"/>
@@ -1274,31 +1199,6 @@
 
 
 
-    <rule comment="REGLA: nom">
-      <pattern>
-        <pattern-item n="nom"/>
-      </pattern>
-      <action>
-      <choose><when>
-      <test><not><equal><clip pos="1" side="tl" part="a_func"/><lit-tag v="@OBJ→"/></equal></not></test> 
-        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
-              </when></choose>
-        <out>
-          <chunk name="nom" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
     <rule comment="REGLA: SUBJ to right"> <!-- Dalle ledjen mun ain vuođđoskuvllas. - Talle mun lijjim ain vuáđuškoovlâst. -->
       <pattern>
         <pattern-item n="l_subj"/>
@@ -1306,6 +1206,7 @@
       <action>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
          <let><var n="subject"/><lit v="l_subj"/></let>
         <out>
           <chunk namefrom="subject" case="caseFirstWord">
@@ -1468,6 +1369,31 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: nom">
+      <pattern>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+      <choose><when>
+      <test><not><equal><clip pos="1" side="tl" part="a_func"/><lit-tag v="@OBJ→"/></equal></not></test> 
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
+              </when></choose>
+        <out>
+          <chunk name="nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     <rule comment="REGLA: nnomcmp 2"><!-- Ándde-guovttos - Aanti-kyehtis  -->
       <pattern>
