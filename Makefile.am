@@ -120,18 +120,18 @@ $(PREFIX1).autogen.hfst: .deps/$(LANG2).autogen.hfst
 ## Disambiguation rules
 ###############################################################################
 
-$(PREFIX1).mor.rlx.bin: $(AP_SRC1)/$(LANG1).mor.rlx.bin gt2apertium.cg3r
-	cp $^ $@
+$(PREFIX1).mor.rlx.bin: $(AP_SRC1)/$(LANG1).mor.rlx.bin 
+	cp $< $@
 
-$(PREFIX1).syn.rlx.bin: $(AP_SRC1)/$(LANG1).syn.rlx.bin gt2apertium.cg3r
-	cp $^ $@
+$(PREFIX1).syn.rlx.bin: $(AP_SRC1)/$(LANG1).syn.rlx.bin 
+	cp $< $@
 
 
-$(PREFIX2).mor.rlx.bin: $(AP_SRC2)/$(LANG2).mor.rlx.bin gt2apertium.cg3r
-	cp $^ $@
+$(PREFIX2).mor.rlx.bin: $(AP_SRC2)/$(LANG2).mor.rlx.bin 
+	cp $< $@
 
-$(PREFIX2).syn.rlx.bin: $(AP_SRC2)/$(LANG2).syn.rlx.bin gt2apertium.cg3r
-	cp $^ $@
+$(PREFIX2).syn.rlx.bin: $(AP_SRC2)/$(LANG2).syn.rlx.bin 
+	cp $< $@
 
 ###############################################################################
 ## Bilingual dictionaries
