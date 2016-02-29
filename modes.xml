@@ -86,7 +86,7 @@
 
   <mode name="sme-smn-disam" install="no">
     <pipeline>
-      <program name="hfst-proc --weight-classes 1 -w -p">
+      <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="sme-smn.automorf.hfst"/>
       </program>
       <program name="cg-conv -a"/>
