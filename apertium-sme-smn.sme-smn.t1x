@@ -94,7 +94,6 @@
       <cat-item lemma="han" tags="pcle.*"/>
       <cat-item lemma="nai" tags="pcle.*"/>
       <cat-item lemma="son" tags="pcle.*"/>
-      <cat-item lemma="go" tags="pcle.*"/>
       <cat-item lemma="nu" tags="pcle.*"/>
     </def-cat>
    <def-cat n="buorre">
@@ -107,6 +106,9 @@
     <def-cat n="mainverb">
       <cat-item tags="*.@+FMAINV"/>
       <cat-item tags="*.@-FMAINV"/>
+    </def-cat>
+    <def-cat n="verb">
+      <cat-item tags="vblex.*"/>
     </def-cat>
     <def-cat n="nom"> <!-- not @OBJ→ because of change of wordorder   -->
       <cat-item tags="*.n.*"/>
@@ -350,7 +352,6 @@
       <def-cat n="attr">                             
       <cat-item tags="*.attr.*"/>                    
       <cat-item tags="*.attr"/>                    
-      <cat-item tags="*.@→N"/>                    
     </def-cat>  
     <def-cat n="birra-po">                             
       <cat-item lemma="birra" tags="post.*"/>                    
@@ -392,6 +393,10 @@
       <cat-item tags="sent"/>
       <cat-item tags="cnjcoo.@CVP"/>
     </def-cat>
+    <def-cat n="goqst">
+      <cat-item lemma="go" tags="pcle.*"/>
+      <cat-item lemma="go" tags="pcle"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -404,6 +409,9 @@
        <attr-item tags="prn.itg"/>
        <attr-item tags="prn.rel"/>
        <attr-item tags="num"/>
+    </def-attr>
+    <def-attr n="qst">
+      <attr-item tags="qst"/>
     </def-attr>
     <def-attr n="a_ntype">
       <attr-item tags="nomag"/>
@@ -1662,6 +1670,36 @@
         </out>															   
       </action>															   
     </rule>																   
+ 
+    <rule comment="REGLA: vblexfoc"> <!-- Boahtágo? - Puátá-uv? -->
+      <pattern>
+        <pattern-item n="verb"/>
+        <pattern-item n="goqst"/>
+      </pattern>
+      <action>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
+        <let>
+          <clip pos="1" side="tl" part="tags"/>
+               <concat>
+                 <clip pos="1" side="tl" part="tags"/>  
+                 <clip pos="1" side="tl" part="qst"/><lit-tag v="qst"/>
+               </concat>                
+        </let> 
+        <out>
+          <chunk name="verbqst" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <mlu>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+             </mlu>
+        </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
     <rule comment="REGLA: vblexfoc">
