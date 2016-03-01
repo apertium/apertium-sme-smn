@@ -22,6 +22,9 @@
       <cat-item tags="SV"/>
       <cat-item tags="SV.*"/>
     </def-cat>
+    <def-cat n="adv">
+       <cat-item lemma="adv" tags="*"/>
+    </def-cat>
     <def-cat n="LSUBJ">
        <cat-item lemma="l_subj" tags="*"/>
     </def-cat>
@@ -42,6 +45,9 @@
     </def-cat>
   </section-def-cats>
   <section-def-attrs>
+    <def-attr n="qst">
+      <attr-item tags="qst"/>
+    </def-attr>
     <def-attr n="a_nbr">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
@@ -89,17 +95,22 @@
     </rule>
     <rule comment="REGLA: SUBJ"> <!-- Dalle ledjen mun ain vuođđoskuvllas. - Talle mun lijjim ain vuáđuškoovlâst. -->
     <pattern>
+       <pattern-item n="adv"/>
        <pattern-item n="SV"/>
        <pattern-item n="LSUBJ"/>
     </pattern>
       <action>
     <out>
       <chunk>
-        <clip pos="2" part="whole"/>
+        <clip pos="1" part="whole"/>
       </chunk>
       <b/>
       <chunk>
-        <clip pos="1" part="whole"/>
+        <clip pos="3" part="whole"/>
+      </chunk>
+      <b/>
+      <chunk>
+        <clip pos="2" part="whole"/>
       </chunk>
     </out>
       </action>
