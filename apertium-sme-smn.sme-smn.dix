@@ -242,6 +242,7 @@
     <!-- ASECTION: Postpositions -->     
 
     <e><p><l>alde<s n="post"/></l><r>alne<s n="post"/></r></p></e>
+    <e><p><l>veardde<s n="post"/></l><r>verd<s n="post"/></r></p></e>
     <e><p><l>badjel<s n="post"/></l><r>paijeel<s n="post"/></r></p></e>
     <e><p><l>báldda<s n="post"/></l><r>paaldâ<s n="post"/></r></p></e>
     <e><p><l>bálddas<s n="post"/></l><r>paaldâst<s n="post"/></r></p></e>
@@ -311,6 +312,7 @@
     <!-- ASECTION: Adverbs -->
     <e><p><l>mealgadii<s n="adv"/></l><r>masa<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
     <e><p><l>dánu<s n="adv"/></l><r>návt<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
+    <e><p><l>lagamustá<s n="adv"/></l><r>iänááš<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
     <e><p><l>dolin<s n="adv"/></l><r>ovdil<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
     <e><p><l>deaivása<s n="adv"/></l><r>tiäivás<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
     <e><p><l>njuolgut<s n="adv"/></l><r>njuolgist<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
@@ -678,7 +680,11 @@
     <!-- ASECTION: Nouns -->  
     
     <e><p><l>diplomáhtta<s n="n"/></l><r>diplomaat<s n="n"/></r></p></e>
+    <e><p><l>dahkamuš<s n="n"/></l><r>porgâmuš<s n="n"/></r></p></e>
     <e><p><l>blogga<s n="n"/></l><r>blogi<s n="n"/></r></p></e>
+    <e><p><l>badjesápmi<s n="n"/></l><r>blogi<s n="n"/></r></p></e>
+    <e><p><l>árvvusatnin<s n="n"/></l><r>áárvustanneem<s n="n"/></r></p></e>
+    <e><p><l>tulkon<s n="n"/></l><r>tulkkum<s n="n"/></r></p></e>
     <e><p><l>bálges<s n="n"/></l><r>paalgâs<s n="n"/></r></p></e>
     <e><p><l>ng<s n="n"/></l><r>nk<s n="n"/></r></p></e>
     <e><p><l>kongreassa<s n="n"/></l><r>kongres<s n="n"/></r></p></e>
@@ -1315,7 +1321,7 @@
     <e><p><l>áhčči<s n="n"/></l><r>eeči<s n="n"/></r></p></e>
     <e><p><l>áidnalunddotvuohta<s n="n"/></l><r>áinoošlajâsâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>áigi<s n="n"/></l><r>äigi<s n="n"/></r></p></e>
-    <e><p><l>álbmogiidvádjolus<s n="n"/></l><r>almugijvajâldem<s n="n"/></r></p></e>
+    <e><p><l>vádjolus<s n="n"/></l><r>vajâldem<s n="n"/></r></p></e>
     <e><p><l>álbmot<s n="n"/></l><r>aalmug<s n="n"/></r></p></e>
     <e><p><l>álbmotbeaivedoalut<s n="n"/></l><r>aalmugpeivituáluh<s n="n"/></r></p></e>
     <e><p><l>álbmotbeaivi<s n="n"/></l><r>aalmugpeivi<s n="n"/></r></p></e>
@@ -2981,7 +2987,11 @@
     <!-- ASECTION: Verbs -->
     
     <e><p><l>gárgedit<s n="vblex"/><s n="iv"/></l><r>ovdediđ<s n="vblex"/></r></p></e>
+    <e><p><l>hohkahallat<s n="vblex"/><s n="iv"/></l><r>hokâttâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>dábuhit<s n="vblex"/><s n="iv"/></l><r>juksâđ<s n="vblex"/></r></p></e>
+    <e><p><l>tulkot<s n="vblex"/><s n="tv"/></l><r>tulkkuđ<s n="vblex"/></r></p></e>
+    <e><p><l>nanosmuvvat<s n="vblex"/><s n="iv"/></l><r>nanosmiđ<s n="vblex"/></r></p></e>
+    <e><p><l>noteret<s n="vblex"/><s n="tv"/></l><r>huámášiđ<s n="vblex"/></r></p></e>
     <e><p><l>šloavggehit<s n="vblex"/><s n="iv"/></l><r>cokkâniđ<s n="vblex"/></r></p></e>
     <e><p><l>čavgat<s n="vblex"/><s n="tv"/></l><r>čovgiđ<s n="vblex"/></r></p></e>
     <e><p><l>stáđásmahttit<s n="vblex"/><s n="tv"/></l><r>stáđásmittiđ<s n="vblex"/></r></p></e>
@@ -2989,7 +2999,7 @@
     <e><p><l>boaldit<s n="vblex"/><s n="tv"/></l><r>puáldiđ<s n="vblex"/></r></p></e>
     <e><p><l>bihtit<s n="vblex"/><s n="iv"/></l><r>cevziđ<s n="vblex"/></r></p></e>
     <e><p><l>ođastuhttit<s n="vblex"/><s n="iv"/></l><r>uđâsmittiđ<s n="vblex"/></r></p></e>
-    <e><p><l>luovvat<s n="vblex"/><s n="iv"/></l><r>vuáđudiđ<s n="vblex"/></r></p></e>
+    <e><p><l>luovvat<s n="vblex"/><s n="tv"/></l><r>vuáđudiđ<s n="vblex"/></r></p></e>
     <e><p><l>sierraluvvat<s n="vblex"/><s n="iv"/></l><r>spesiaališuđ<s n="vblex"/></r></p></e>
     <e><p><l>duššat<s n="vblex"/><s n="iv"/></l><r>jäämmiđ<s n="vblex"/></r></p></e>
     <e><p><l>doadjit<s n="vblex"/><s n="iv"/></l><r>toijuđ<s n="vblex"/></r></p></e>
@@ -3003,7 +3013,7 @@
     <e><p><l>nállašuvvat<s n="vblex"/><s n="iv"/></l><r>nálášuđ<s n="vblex"/></r></p></e>
     <e><p><l>lodjudit<s n="vblex"/><s n="tv"/></l><r>lojodiđ<s n="vblex"/></r></p></e>
     <e><p><l>stuorrudit<s n="vblex"/><s n="tv"/></l><r>šoddâdiđ<s n="vblex"/></r></p></e>
-    <e><p><l>govuhit<s n="vblex"/><s n="iv"/></l><r>kuvviđ<s n="vblex"/></r></p></e>
+    <e><p><l>govuhit<s n="vblex"/><s n="tv"/></l><r>kuvviđ<s n="vblex"/></r></p></e>
     <e><p><l>fáhtet<s n="vblex"/><s n="tv"/></l><r>finniđ<s n="vblex"/></r></p></e>
     <e><p><l>ahtanuššat<s n="vblex"/><s n="iv"/></l><r>otânâššâđ<s n="vblex"/></r></p></e>
     <e><p><l>almmustahttit<s n="vblex"/><s n="tv"/></l><r>almostittiđ<s n="vblex"/></r></p></e>
