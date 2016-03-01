@@ -552,25 +552,6 @@ Write comments to forthcoming rules before this line -->
 
 
 
-<!-- orrut -->
-  <rule weight="1.0">
-    <match lemma="orrut">
-      <select lemma="aassâđ"/>
-    </match>
-  </rule>
-
-  <rule weight="0.5">
-    <match lemma="orrut">
-      <select lemma="orroođ"/>
-    </match> 
-  </rule>
-
-  <rule weight="0.6"><!-- Orru amasin -->
-   <match lemma="orrut" tags="vblex.*">
-      <select lemma="orroođ" tags="vblex.*"/>
-    </match>
-  <match tags=".*.ess.*"/>
-  </rule>
 
 
 <!-- bargat -->
