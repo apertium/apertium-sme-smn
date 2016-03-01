@@ -353,6 +353,10 @@
       <cat-item tags="*.attr.*"/>                    
       <cat-item tags="*.attr"/>                    
     </def-cat>  
+      <def-cat n="adjattr">                             
+      <cat-item tags="adj.*.attr.*"/>                    
+      <cat-item tags="adj.attr.*"/>                    
+    </def-cat>  
     <def-cat n="birra-po">                             
       <cat-item lemma="birra" tags="post.*"/>                    
     </def-cat>  
@@ -487,7 +491,7 @@
        <attr-item tags="der_ahtti"/>
        <attr-item tags="der_d"/>
        <attr-item tags="der_h"/>
-       <attr-item tags="der_t"/>
+       <attr-item tags="der_tt"/>
        <attr-item tags="der_lágan"/>
        <attr-item tags="der_lagan"/>
        <attr-item tags="der_nammasaš"/>
@@ -1036,7 +1040,7 @@
           <test>
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_h"/></equal>
           </test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_t"/></let> 
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_tt"/></let> 
           <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let> 
         </when>
     </choose>
@@ -1418,7 +1422,7 @@
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <out>
-          <chunk name="nom" case="caseFirstWord">
+          <chunk name="cmpnom" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
@@ -2424,7 +2428,7 @@
     <rule comment="REGLA: num-nomacc attr n-sg  to n-par">  <!-- Mus leat čieža njálgga láibbi. Must láá čiččâm njaalgâ leibid. -->                                           
       <pattern>                                        
         <pattern-item n="num-nomacc"/>                 
-        <pattern-item n="attr"/>                 
+        <pattern-item n="adjattr"/>                 
         <pattern-item n="n-sg-accgen"/>                   
       </pattern>     
       <action>
@@ -2476,7 +2480,7 @@
       <pattern>                                        
         <pattern-item n="num-nomacc"/>                 
         <pattern-item n="adv"/>                 
-        <pattern-item n="attr"/>                 
+        <pattern-item n="adjattr"/>                 
         <pattern-item n="n-sg-accgen"/>                   
       </pattern>     
       <action>
