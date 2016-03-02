@@ -310,6 +310,7 @@
     <e><p><l>goittotge<s n="pcle"/></l><r>kuittâg<s n="pcle"/></r></p></e>
 
     <!-- ASECTION: Adverbs -->
+    <e><p><l>davás<s n="adv"/></l><r>tavas<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
     <e><p><l>mealgadii<s n="adv"/></l><r>masa<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
     <e><p><l>dánu<s n="adv"/></l><r>návt<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
     <e><p><l>lagamustá<s n="adv"/></l><r>aldeláá<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
@@ -430,6 +431,7 @@
     <e><p><l>dassái<s n="adv"/></l><r>tassaaš<s n="adv"/></r></p></e>
 
     <!-- ASECTION: Adjectives -->
+   <e><p><l>balddihahtti<s n="adj"/></l><r>polâttettee<s n="adj"/></r></p></e>
    <e><p><l>lágaheapme<s n="adj"/></l><r>lavâttem<s n="adj"/></r></p></e>
    <e><p><l>mihtilmas<s n="adj"/></l><r>jiešvuođâlâš<s n="adj"/></r></p></e>
    <e><p><l>nohkameahttun<s n="adj"/></l><r>nuhâmettum<s n="adj"/></r></p></e>
@@ -2985,7 +2987,8 @@
     <e><p><l>Čoavččesjávri<s n="np"/></l><r>Čovčjävri<s n="np"/></r></p></e>
 
     <!-- ASECTION: Verbs -->
-    
+
+    <e><p><l>reaškit<s n="vblex"/><s n="iv"/></l><r>povvustiđ<s n="vblex"/></r></p></e>
     <e><p><l>gárgedit<s n="vblex"/><s n="iv"/></l><r>ovdediđ<s n="vblex"/></r></p></e>
     <e><p><l>hohkahallat<s n="vblex"/><s n="iv"/></l><r>hokâttâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>dábuhit<s n="vblex"/><s n="iv"/></l><r>juksâđ<s n="vblex"/></r></p></e>
@@ -8202,11 +8205,9 @@
     <e><p><l>bealjeheapme<s n="adj"/></l><r>peljittem<s n="adj"/></r></p></e>
     <e><p><l>vigiheapme<s n="adj"/></l><r>vavettem<s n="adj"/></r></p></e>
     <e><p><l>áhpeheapme<s n="adj"/></l><r>äpittem<s n="adj"/></r></p></e>
-    <e><p><l>áhpeheapme<s n="adj"/></l><r>nyeli<s n="adj"/></r></p></e>
     <e><p><l>návccaheapme<s n="adj"/></l><r>navcâttem<s n="adj"/></r></p></e>
     <e><p><l>vuoimmeheapme<s n="adj"/></l><r>vyeimittem<s n="adj"/></r></p></e>
     <e><p><l>láivi<s n="adj"/></l><r>läivi<s n="adj"/></r></p></e>
-    <e><p><l>balddihahtti<s n="adj"/></l><r>paldattittee<s n="adj"/></r></p></e>
     <e><p><l>musihkalaš<s n="adj"/></l><r>muusiklâš<s n="adj"/></r></p></e>
     <e><p><l>váigat<s n="adj"/></l><r>vaigâd<s n="adj"/></r></p></e>
     <e><p><l>geahnoheapme<s n="adj"/></l><r>hiäju<s n="adj"/></r></p></e>
