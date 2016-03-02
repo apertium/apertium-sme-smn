@@ -398,8 +398,7 @@
       <cat-item tags="cnjcoo.@CVP"/>
     </def-cat>
     <def-cat n="goqst">
-      <cat-item lemma="go" tags="pcle.*"/>
-      <cat-item lemma="go" tags="pcle"/>
+      <cat-item lemma="go" tags="pcle.qst.*"/>
     </def-cat>
   </section-def-cats>
 
@@ -1682,6 +1681,7 @@
       </pattern>
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <let>
           <clip pos="1" side="tl" part="tags"/>
                <concat>
