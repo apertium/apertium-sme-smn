@@ -8,6 +8,9 @@
       <cat-item lemma="gii" tags="prn.ind.*"/>
       <cat-item lemma="mii" tags="prn.ind.*"/>
     </def-cat>
+    <def-cat n="numsem"> 
+      <cat-item tags="num.*"/>
+    </def-cat>
     <def-cat n="adv_r"> 
       <cat-item tags="*.@←ADVL"/>
     </def-cat>
@@ -125,6 +128,7 @@
        <cat-item tags="adv"/>
        <cat-item tags="post"/>
        <cat-item tags="post.*"/>
+       <cat-item tags="num.*"/>
    </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
@@ -813,20 +817,28 @@
       <attr-item tags="←hab→"/>
     </def-attr>
     <def-attr n="a_foc">
-      <attr-item tags="foc_sun"/>
        <attr-item tags="foc_ba"/>
+       <attr-item tags="foc_bahal"/>
+       <attr-item tags="foc_bahan"/>
+       <attr-item tags="foc_bason"/>
+       <attr-item tags="foc_ban"/>
        <attr-item tags="foc_bat"/>
+       <attr-item tags="foc_be"/>
+       <attr-item tags="foc_behal"/>
+       <attr-item tags="foc_behan"/>
+       <attr-item tags="foc_beson"/>
+       <attr-item tags="foc_ge"/>
+       <attr-item tags="foc_gen"/>
+       <attr-item tags="foc_ges"/>
+       <attr-item tags="foc_gin"/>
+       <attr-item tags="foc_gis"/>
+       <attr-item tags="foc_hal"/>
        <attr-item tags="foc_han"/>
        <attr-item tags="foc_naj"/>
-       <attr-item tags="foc_ges"/>
-       <attr-item tags="foc_gis"/>
-       <attr-item tags="foc_gin"/>
-       <attr-item tags="foc_ban"/>
-       <attr-item tags="foc_be"/>
-       <attr-item tags="foc_hal"/>
-       <attr-item tags="foc_uv"/>
-       <attr-item tags="foc_ge"/>
        <attr-item tags="foc_nii"/>
+       <attr-item tags="foc_uv"/>
+      <attr-item tags="foc_son"/>
+      <attr-item tags="foc_sun"/>
   </def-attr>
 
   </section-def-attrs>
@@ -1141,7 +1153,7 @@
 	      </concat>
             </let> 
           </when>
-          <when>
+         <when>
             <test>
                <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_gis"/></equal>
             </test>
@@ -1153,7 +1165,7 @@
 	      </concat>
             </let> 
           </when>
-          <when>
+         <when>
           <test>
                <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_gin"/></equal>
           </test>
@@ -1204,14 +1216,199 @@
 	</choose>    
     </def-macro>  
 
+    <def-macro n="foc-1Posit" npar="1">
+	<choose>   
+          <when>
+            <test>
+               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_son"/></equal>
+            </test>
+          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_sun"/></let> 
+          </when>
+         <when>
+            <test>
+               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_ges"/></equal>
+            </test>
+          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_gis"/></let> 
+          </when>
+          <when>
+            <test>
+               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_ge"/></equal>
+            </test>
+          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_gin"/></let>  <!-- at the time being default. Could also be foc_uv -->
+          </when>
+        <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_nu"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_nii"/></let> 
+        </when>
+        <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_bat"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_ba"/></let> 
+        </when>
+        <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_gen"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_gin"/></let> 
+        </when>
+        <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_hal"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_han"/></let> 
+        </when>
+        <when>
+          <test>
+               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_naj"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_uv"/></let> 
+        </when>
+	</choose>    
+    </def-macro>  
 
   </section-def-macros>
   <section-rules>
 
+    <rule comment="REGLA: wordfoc">	 <!-- nieidage / nieida ge   - nieidâ-uv -->									   
+      <pattern>															   
+        <pattern-item n="word"/>										   
+        <pattern-item n="foc"/>		  									   
+      </pattern>														   
+      <action>															   
+        <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>  
+        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>  
+        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>  
+       <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>	   
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>	   
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>	   
+      <choose><when>
+      <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Ii goastta gosage. - Ij koostâ kuussân.-->
+              <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
+              </when>
+         <otherwise> 
+         <call-macro n="pcle-foc-2Posit"><with-param pos="1"/><with-param pos="2"/></call-macro>  
+         </otherwise>
+		</choose>      
+		       <out>															   
+          <chunk name="wordfoc" case="caseFirstWord">					   
+            <tags>														   
+              <tag><lit-tag v="WN"/></tag>								   
+            </tags>														   
+            <mlu>														   
+            <lu>														   
+              <clip pos="1" side="tl" part="whole"/>					   
+            </lu>														   
+             </mlu>														   
+        </chunk>														   
+        </out>															   
+      </action>															   
+    </rule>																   
 
 
-    <rule comment="REGLA: SUBJ to right"> <!-- Dalle ledjen mun ain vuođđoskuvllas. - Talle mun lijjim ain vuáđuškoovlâst. -->
+    <rule comment="REGLA: nomcmpfoc">	 <!-- juovlâtoontumuátunaamar-uv -->
+      <pattern>															   
+        <pattern-item n="nomcmp"/>
+        <pattern-item n="nom"/>
+        <pattern-item n="foc"/>		  									   
+      </pattern>														   
+      <action>															   
+        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
+        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="pcle-foc-2Posit"><with-param pos="2"/><with-param pos="3"/></call-macro>  
+        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>	   
+       <out>															   
+          <chunk name="wordfoc" case="caseFirstWord">					   
+            <tags>														   
+              <tag><lit-tag v="WN"/></tag>								   
+            </tags>														   
+            <mlu>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+             <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+             </mlu>
+        </chunk>														   
+        </out>															   
+      </action>															   
+    </rule>																   
+ 
+    <rule comment="REGLA: vblexfoc"> <!-- Boahtágo? - Puátá-uv? -->
       <pattern>
+        <pattern-item n="verb"/>
+        <pattern-item n="goqst"/>
+      </pattern>
+      <action>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let>
+          <clip pos="1" side="tl" part="tags"/>
+               <concat>
+                 <clip pos="1" side="tl" part="tags"/>  
+                 <clip pos="1" side="tl" part="qst"/><lit-tag v="qst"/>
+               </concat>                
+        </let> 
+        <out>
+          <chunk name="verbqst" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <mlu>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+             </mlu>
+        </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
+    <rule comment="REGLA: vblexfoc">
+      <pattern>
+        <pattern-item n="mainverb"/>
+        <pattern-item n="foc"/>
+      </pattern>
+      <action>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <out>
+          <chunk name="mainverb" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <mlu>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+             <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+             </mlu>
+        </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
+<!--     <rule comment="REGLA: SUBJ to right"> --> <!-- Dalle ledjen mun ain vuođđoskuvllas. - Talle mun lijjim ain vuáđuškoovlâst. -->
+<!--       <pattern>
         <pattern-item n="l_subj"/>
       </pattern>
       <action>
@@ -1230,9 +1427,9 @@
           </chunk>
         </out>
       </action>
-    </rule>
-    <rule comment="REGLA: SPRED to right"> <!-- Makkár sátni lea dát? - Maggaar sääni taat lii? -->
-      <pattern>
+    </rule> -->
+<!--    <rule comment="REGLA: SPRED to right"> --> <!-- Makkár sátni lea dát? - Maggaar sääni taat lii? -->
+ <!--     <pattern>
         <pattern-item n="l_spred"/>
       </pattern>
       <action>
@@ -1269,7 +1466,7 @@
           </chunk>
         </out>
       </action>
-    </rule>
+    </rule> 
 
     <rule comment="REGLA: OBJ to left cmp">
       <pattern>
@@ -1378,7 +1575,7 @@
           </chunk>
         </out>
       </action>
-    </rule>
+    </rule> -->
 
     <rule comment="REGLA: nom">
       <pattern>
@@ -1589,139 +1786,6 @@
           <chunk name="num" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-            </tags>
-            <mlu>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-             <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-             </mlu>
-        </chunk>
-        </out>
-      </action>
-    </rule>
-
-    <rule comment="REGLA: wordfoc">	 <!-- nieidage / nieida ge   - nieidâ-uv -->									   
-      <pattern>															   
-        <pattern-item n="word"/>										   
-        <pattern-item n="foc"/>		  									   
-      </pattern>														   
-      <action>															   
-        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>  
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>  
-        <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>  
-       <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>	   
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>	   
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>	   
-      <choose><when>
-      <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Ii goastta gosage. - Ij koostâ kuussân.-->
-              <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
-              </when>
-         <otherwise> 
-         <call-macro n="pcle-foc-2Posit"><with-param pos="1"/><with-param pos="2"/></call-macro>  
-         </otherwise>
-		</choose>      
-		       <out>															   
-          <chunk name="wordfoc" case="caseFirstWord">					   
-            <tags>														   
-              <tag><lit-tag v="WN"/></tag>								   
-            </tags>														   
-            <mlu>														   
-            <lu>														   
-              <clip pos="1" side="tl" part="whole"/>					   
-            </lu>														   
-             </mlu>														   
-        </chunk>														   
-        </out>															   
-      </action>															   
-    </rule>																   
-
-
-    <rule comment="REGLA: nomcmpfoc">	 <!-- juovlâtoontumuátunaamar-uv -->
-      <pattern>															   
-        <pattern-item n="nomcmp"/>
-        <pattern-item n="nom"/>
-        <pattern-item n="foc"/>		  									   
-      </pattern>														   
-      <action>															   
-        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
-        <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="pcle-foc-2Posit"><with-param pos="2"/><with-param pos="3"/></call-macro>  
-        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>	   
-       <out>															   
-          <chunk name="wordfoc" case="caseFirstWord">					   
-            <tags>														   
-              <tag><lit-tag v="WN"/></tag>								   
-            </tags>														   
-            <mlu>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-             <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-             </mlu>
-        </chunk>														   
-        </out>															   
-      </action>															   
-    </rule>																   
- 
-    <rule comment="REGLA: vblexfoc"> <!-- Boahtágo? - Puátá-uv? -->
-      <pattern>
-        <pattern-item n="verb"/>
-        <pattern-item n="goqst"/>
-      </pattern>
-      <action>
-        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-        <let>
-          <clip pos="1" side="tl" part="tags"/>
-               <concat>
-                 <clip pos="1" side="tl" part="tags"/>  
-                 <clip pos="1" side="tl" part="qst"/><lit-tag v="qst"/>
-               </concat>                
-        </let> 
-        <out>
-          <chunk name="verbqst" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-            <mlu>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-             </mlu>
-        </chunk>
-        </out>
-      </action>
-    </rule>
-
-
-
-    <rule comment="REGLA: vblexfoc">
-      <pattern>
-        <pattern-item n="mainverb"/>
-        <pattern-item n="foc"/>
-      </pattern>
-      <action>
-        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
-        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <out>
-          <chunk name="mainverb" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
             </tags>
             <mlu>
             <lu>
@@ -3442,13 +3506,34 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: numsem">
+      <pattern>
+        <pattern-item n="numsem"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_sem"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <out>
+          <chunk name="default" case="caseFirstWord">
+            <tags>
+              <tag><clip pos="1" side="sl" part="a_func"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="REGLA: DEFAULT">
       <pattern>
         <pattern-item n="default"/>
-      </pattern>
+      </pattern>    
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="foc-1Posit"><with-param pos="1"/></call-macro>
         <let><clip pos="1" side="tl" part="a_sem"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
