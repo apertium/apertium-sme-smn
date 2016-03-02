@@ -1308,6 +1308,8 @@
     </rule>																   
 
 
+
+
     <rule comment="REGLA: nomcmpfoc">	 <!-- juovlâtoontumuátunaamar-uv -->
       <pattern>															   
         <pattern-item n="nomcmp"/>
@@ -1582,14 +1584,14 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
-      <choose><when>
-      <test><not><equal><clip pos="1" side="tl" part="a_func"/><lit-tag v="@OBJ→"/></equal></not></test> 
-        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+<!--      <choose><when> 
+      <test><not><equal><clip pos="1" side="tl" part="a_func"/><lit-tag v="@OBJ→"/></equal></not></test> -->
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
-              </when></choose>
+        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+ <!--             </when></choose> -->
         <out>
           <chunk name="nom" case="caseFirstWord">
             <tags>
@@ -1836,6 +1838,11 @@
         <pattern-item n="ind"/>
       </pattern>
       <action>
+      <choose><when>
+      <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Seahkas ii leat mihkkege. - Seehâst ij lah mihheen.-->
+              <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
+              </when>
+		</choose>      
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <let><var n="adpos_chunk_name"/><lit v="Ind"/></let>
         <out>
@@ -1917,6 +1924,11 @@
         <pattern-item n="adv"/>
       </pattern>
       <action>
+      <choose><when>
+      <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Seahkas ii leat mihkkege. - Seehâst ij lah mihheen.-->
+              <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
+              </when>
+		</choose>      
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
@@ -3531,6 +3543,11 @@
         <pattern-item n="default"/>
       </pattern>    
       <action>
+      <choose><when>
+      <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Seahkas ii leat mihkkege. - Seehâst ij lah mihheen.-->
+              <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
+              </when>
+		</choose>      
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="foc-1Posit"><with-param pos="1"/></call-macro>

@@ -94,21 +94,28 @@ Write comments to forthcoming rules before this line -->
 
 <!-- gosa -->
   <rule weight="1.0">
-    <match lemma="gosa" tags="adv">
+    <match lemma="gosa" tags="adv.*">
       <select lemma="kuus" tags="adv.*"/>
     </match>
   </rule>
 
 
   <rule weight="0.5">
-    <match lemma="gosa" tags="adv">
-      <select lemma="kuussân" tags="adv"/>
+    <match lemma="gosa" tags="adv.*">
+      <select lemma="kuussân" tags="adv.*"/>
     </match>
   </rule>
 
   <rule weight="0.6">
-    <match lemma="gosa" tags="adv">
-      <select lemma="kuussân" tags="adv"/>
+    <match lemma="gosa" tags="adv.*.foc_ge.*">
+      <select lemma="kuussân" tags="adv.*"/>
+    </match>
+  </rule>
+
+
+  <rule weight="0.6">
+    <match lemma="gosa" tags="adv.*">
+      <select lemma="kuussân" tags="adv.*"/>
     </match>
     <match lemma="ge" tags="pcle.*"/>
   </rule>
@@ -127,6 +134,13 @@ Write comments to forthcoming rules before this line -->
       <select lemma="kihheen" tags="prn.ind.*"/>
     </match>
   </rule>
+
+  <rule weight="0.6">
+    <match lemma="gii" tags="prn.ind.sg.*.foc_ge.*">
+      <select lemma="kihheen" tags="prn.ind.*"/>
+    </match>
+  </rule>
+
 
   <rule weight="0.6">
     <match lemma="gii" tags="prn.ind.*">
