@@ -161,33 +161,39 @@
       <cat-item lemma="buot" tags="prn.ind.attr.*"/>
     </def-cat>
     <def-cat n="agreement-attr">                             
-      <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!--  put under vuosttaš as lemma in sme -->                   
-      <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/> 
-      <cat-item lemma="vuosttas" tags="adj.ord.attr"/> 
       <cat-item lemma="aiddonas" tags="adj.*.attr.*"/> 
       <cat-item lemma="aiddonas" tags="adj.attr.*"/> 
+      <cat-item lemma="boahttevaš" tags="adj.*.attr.*"/> 
+      <cat-item lemma="boahttevaš" tags="adj.attr.*"/> 
+      <cat-item lemma="čuvgehuslaš" tags="adj.*.attr.*"/> 
+      <cat-item lemma="čuvgehuslaš" tags="adj.attr.*"/>
       <cat-item lemma="dárbbašlaš" tags="adj.*.attr.*"/> 
       <cat-item lemma="dárbbašlaš" tags="adj.attr.*"/> 
       <cat-item lemma="dálá" tags="adj.*.attr.*"/> 
       <cat-item lemma="dáláš" tags="adj.*.attr.*"/> 
       <cat-item lemma="dáláš" tags="adj.attr.*"/> 
       <cat-item lemma="dálá" tags="adj.attr.*"/> 
-      <cat-item lemma="otná" tags="adj.attr.*"/> 
       <cat-item lemma="dološ" tags="adj.*.attr.*"/> 
       <cat-item lemma="dološ" tags="adj.attr.*"/> 
-      <cat-item lemma="maŋit" tags="adj.*.attr.*"/> 
-      <cat-item lemma="maŋit" tags="adj.attr.*"/> 
-      <cat-item lemma="boahttevaš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="boahttevaš" tags="adj.attr.*"/> 
-      <cat-item lemma="čuvgehuslaš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="čuvgehuslaš" tags="adj.attr.*"/>
+      <cat-item lemma="guhtemuš" tags="prn.itg.*"/>
       <cat-item lemma="guovddáš" tags="adj.*.attr.*"/> 
       <cat-item lemma="guovddáš" tags="adj.attr.*"/> 
+      <cat-item lemma="maŋit" tags="adj.*.attr.*"/> 
+      <cat-item lemma="maŋit" tags="adj.attr.*"/> 
       <cat-item lemma="muhtun" tags="prn.ind.attr.*"/> 
       <cat-item lemma="makkár" tags="prn.ind.*"/>
       <cat-item lemma="makkár" tags="prn.itg.*"/>
-      <cat-item lemma="guhtemuš" tags="prn.itg.*"/>
+      <cat-item lemma="nubbi" tags="adj.*"/> 
+      <cat-item lemma="nubbi" tags="prn.*"/> 
+      <cat-item lemma="otná" tags="adj.attr.*"/> 
       <cat-item lemma="seammá" tags="prn.ind.*"/>
+      <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!--  put under vuosttaš as lemma in sme -->                   
+      <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/> 
+      <cat-item lemma="vuosttas" tags="adj.ord.attr"/> 
+      <cat-item tags="adj.comp.attr"/> 
+      <cat-item tags="adj.comp.attr.*"/> 
+      <cat-item tags="adj.sup.attr"/> 
+      <cat-item tags="adj.sup.attr.*"/> 
     </def-cat>  
     <def-cat n="n-sg-nom">                             
       <cat-item tags="np.*.*.sg.nom.*"/>                   
@@ -410,6 +416,7 @@
     <def-attr n="a_npagree_type">
        <attr-item tags="adj"/>
        <attr-item tags="adj.sup"/>
+       <attr-item tags="adj.comp"/>
        <attr-item tags="adj.ord"/>
        <attr-item tags="prn.ind"/>
        <attr-item tags="prn.dem"/>
