@@ -15,6 +15,9 @@
       <cat-item tags="SN"/>
       <cat-item tags="SN.*"/>
     </def-cat>
+    <def-cat n="dalle">
+      <cat-item lemma="dalle" tags="*"/>
+    </def-cat>
     <def-cat n="MV">
       <cat-item lemma="mainverb" tags="*"/>
     </def-cat>

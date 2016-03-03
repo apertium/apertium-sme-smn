@@ -34,6 +34,8 @@
     <sdef n="foc_ge"       c="clitic ge"/>
     <sdef n="foc_uv"       c="clitic -uv"/>
     <sdef n="foc_nii"       c="clitic nii"/>
+    <sdef n="foc_neg-ge"       c="foc_neg-ge"/>
+    <sdef n="foc_pos-ge"       c="foc_pos-ge"/>
     <sdef n="qst"       c="clitic qst"/>
     <sdef n="foc_gas"      c="clitic gas"/>
     <sdef n="foc_ges"      c="clitic ges"/>
@@ -384,7 +386,7 @@
     <e><p><l>goassige<s n="adv"/></l><r>kuássin<s n="adv"/></r></p></e>
     <e><p><l>goit<s n="pcle"/></l><r>kuittâg<s n="pcle"/></r></p></e>
     <e><p><l>gosa<s n="adv"/></l><r>kuus<s n="adv"/></r></p></e>
-    <e><p><l>gosa<s n="adv"/></l><r>kuussân<s n="adv"/></r></p></e>
+    <e><p><l>gosa<s n="adv"/><s n="sem_plc"/><s n="foc_neg-ge"/></l><r>kuussân<s n="adv"/></r></p></e>
     <e><p><l>gánske<s n="adv"/></l><r>kenski<s n="adv"/></r></p></e>
     <e><p><l>hihtásit<s n="adv"/></l><r>hittáht<s n="adv"/></r></p></e>
     <e><p><l>hihtásit<s n="adv"/></l><r>hitásávt<s n="adv"/></r></p></e>

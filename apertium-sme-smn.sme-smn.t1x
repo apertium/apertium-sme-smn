@@ -183,8 +183,6 @@
       <cat-item lemma="muhtun" tags="prn.ind.attr.*"/> 
       <cat-item lemma="makkár" tags="prn.ind.*"/>
       <cat-item lemma="makkár" tags="prn.itg.*"/>
-      <cat-item lemma="nubbi" tags="adj.*"/> 
-      <cat-item lemma="nubbi" tags="prn.*"/> 
       <cat-item lemma="otná" tags="adj.attr.*"/> 
       <cat-item lemma="seammá" tags="prn.ind.*"/>
       <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!--  put under vuosttaš as lemma in sme -->                   
@@ -834,7 +832,8 @@
        <attr-item tags="foc_behal"/>
        <attr-item tags="foc_behan"/>
        <attr-item tags="foc_beson"/>
-       <attr-item tags="foc_ge"/>
+       <attr-item tags="foc_neg-ge"/>
+       <attr-item tags="foc_pos-ge"/>
        <attr-item tags="foc_gen"/>
        <attr-item tags="foc_ges"/>
        <attr-item tags="foc_gin"/>
@@ -1239,9 +1238,15 @@
           </when>
           <when>
             <test>
-               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_ge"/></equal>
+               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_neg-ge"/></equal>
             </test>
-          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_gin"/></let>  <!-- at the time being default. Could also be foc_uv -->
+          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_gin"/></let>  
+          </when>
+         <when>
+            <test>
+               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_pos-ge"/></equal>
+            </test>
+          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_uv"/></let> 
           </when>
         <when>
           <test>
@@ -1595,6 +1600,7 @@
       <test><not><equal><clip pos="1" side="tl" part="a_func"/><lit-tag v="@OBJ→"/></equal></not></test> -->
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="foc-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
@@ -3444,6 +3450,7 @@
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <let><var n="current_verb"/><clip pos="1" side="sl" part="lem"/></let>
+        <call-macro n="foc-1Posit"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="mainverb" case="caseFirstWord">
             <tags>
