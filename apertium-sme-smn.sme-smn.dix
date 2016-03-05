@@ -681,8 +681,12 @@
     <e><p><l>ollesáigásaš<s n="adj"/></l><r>váldutoimâlâš<s n="adj"/></r></p></e>
     <e><p><l>strategiijalaš<s n="adj"/></l><r>strategilâš<s n="adj"/></r></p></e>
     
-    <!-- ASECTION: Nouns -->  
-    
+    <!-- ASECTION: Nouns --> 
+    <e><p><l>meahcástus<s n="n"/></l><r>miäcástem<s n="n"/></r></p></e>
+    <e><p><l>gizzu<s n="n"/></l><r>kiccâ<s n="n"/></r></p></e>
+    <e><p><l>vuosttildeaddji<s n="n"/></l><r>vuástálistee<s n="n"/></r></p></e>
+    <e><p><l>assimileren<s n="n"/></l><r>assimilaatio<s n="n"/></r></p></e>
+    <e><p><l>atmosfeara<s n="n"/></l><r>vuoiŋâ<s n="n"/></r></p></e>
     <e><p><l>diplomáhtta<s n="n"/></l><r>diplomaat<s n="n"/></r></p></e>
     <e><p><l>dahkamuš<s n="n"/></l><r>porgâmuš<s n="n"/></r></p></e>
     <e><p><l>blogga<s n="n"/></l><r>blogi<s n="n"/></r></p></e>
@@ -5262,7 +5266,8 @@
     <e><p><l>idni<s n="n"/></l><r>tavekaasirääsi<s n="n"/></r></p></e>
     <e><p><l>iešdovdu<s n="n"/></l><r>jieštobdo<s n="n"/></r></p></e>
     <e><p><l>iešmearridanvuoigatvuohta<s n="n"/></l><r>jiešmeridemvuoigâdvuotâ<s n="n"/></r></p></e>
-    <e><p><l>iešstivrejupmi<s n="n"/></l><r>autonomia<s n="n"/></r></p></e>
+    <e><p><l>iešstivrejupmi<s n="n"/></l><r>jiešstivrim<s n="n"/></r></p></e>
+    <e><p><l>iešstivren<s n="n"/></l><r>jiešstivrim<s n="n"/></r></p></e>
     <e><p><l>iešvuohta<s n="n"/></l><r>jiešvuotâ<s n="n"/></r></p></e>
     <e><p><l>iežáhus<s n="n"/></l><r>nubástus<s n="n"/></r></p></e>
     <e><p><l>ihkkon<s n="n"/></l><r>ikkân<s n="n"/></r></p></e>
