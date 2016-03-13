@@ -485,6 +485,7 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.6">
+	  <match lemma='"'/>
    <or>
 	  <match lemma=","/>
    </or>
@@ -500,9 +501,22 @@ Write comments to forthcoming rules before this line -->
        <or>
 	  <match lemma="ahte"/>
 	  <match lemma="ná"/>
-	  <match lemma="nu"/>
+	  <match lemma="nie"/>
+	  <match lemma=":"/>
    </or>
   </rule>
+
+  <rule weight="0.6">
+   <match lemma="lohkat"> 
+      <select lemma="ettâđ"/>
+    </match>
+	  <match lemma="nu"/>
+       <or>
+	  <match lemma="ahte"/>
+	  <match lemma=","/>
+   </or>
+  </rule>
+
 
 
   <!-- fas -->
