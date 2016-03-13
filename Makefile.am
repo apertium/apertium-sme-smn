@@ -45,7 +45,7 @@ TARGETS_COMMON =			\
 	lt-print $< | sed 's/ /@_SPACE_@/g' > .deps/$*.autobil.att
 	hfst-txt2fst -e ε -i  .deps/$*.autobil.att -o .deps/$*.autobil.hfst
 	hfst-project -p upper .deps/$*.autobil.hfst -o .deps/$*.autobil.upper                                   # bidix
-	echo '[ "<n>" -> [ "<n>" | "<ex_n>" ] ] | [ "<vblex>" -> [ "<vblex>" | "<ex_vblex>" ] ] | [ "<adj>" -> [ "<adj>" | "<ex_adj>" ] ] | [ "<tv>" -> [ "<tv>" | "<tvv>" ] ] | [ "<iv>" -> [ "<iv>" | "<ivv>" ] ]' \
+	echo '[ "<n>" -> [ "<n>" | "<ex_n>" ] ]  | [ "<adj>" -> [ "<adj>" | "<ex_adj>" ] ] | [ "<vblex><tv>" -> [ "<vblex><tv>" |"<ex_vblex><tvv>" |"<vblex><tvv>" |"<ex_vblex><tv>" ] ] | [ "<vblex><iv>" -> [ "<vblex><iv>" |"<ex_vblex><ivv>" |"<vblex><ivv>" |"<ex_vblex><iv>" ] ]' \
 		| hfst-regexp2fst -o .deps/$*.derivpos.hfst
 	hfst-compose -1 .deps/$*.autobil.upper -2 .deps/$*.derivpos.hfst -o .deps/$*.autobil-derivpos.hfst
 	hfst-project -p lower .deps/$*.autobil-derivpos.hfst -o .deps/$*.autobil-derivpos.hfsa                  # bidix with n -> n|ex_n
