@@ -133,7 +133,7 @@
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
       <cat-item tags="n.der_sas.adj.*"/>
-      <cat-item tags="n.der_las.adj.*"/>
+      <cat-item tags="n.der_lasj.adj.*"/>
       <cat-item tags="n.der_laš.adj.*"/>
       <cat-item tags="n.der_saš.adj.*"/>
     </def-cat>
@@ -506,9 +506,7 @@
        <attr-item tags="der_lagan"/>
        <attr-item tags="der_nammasaš"/>
         <attr-item tags="der_saš"/>
-        <attr-item tags="der_laš"/>
         <attr-item tags="der_sas"/>
-        <attr-item tags="der_las"/>
    </def-attr>
 
     <def-attr n="a_deriv2">
@@ -863,6 +861,10 @@
   </section-def-vars>
 
   <section-def-lists>
+    <def-list n="yeardate">
+      <list-item v="sem_year"/>
+      <list-item v="sem_date"/>
+    </def-list>
     <def-list n="gennum">
       <list-item v="1"/>
       <list-item v="2"/>
@@ -1026,12 +1028,6 @@
     <def-macro n="convert-deriv-1Posit" npar="1">
       <choose>
 
-        <when>
-          <test>
-               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_laš"/></equal>
-          </test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_las"/></let> 
-        </when>
 
         <when>
           <test>
@@ -1883,6 +1879,50 @@
         </out>
       </action>
     </rule>
+    <rule comment="REGLA: agreement-attr CNP attr n-sg-gen">  <!-- half agreement:  stuorát ja buoret viesus -->                                         
+      <pattern>                                        
+        <pattern-item n="agreement-attr"/>             
+        <pattern-item n="CNP"/>  
+        <pattern-item n="agreement-attr"/>             
+        <pattern-item n="agreem-sg-gen"/>  
+      </pattern>     
+      <action>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
+        <call-macro n="convert-deriv-1Posit"><with-param pos="4"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="4"/></call-macro>
+        <let><clip pos="4" side="tl" part="x_func"/><lit v=""/></let>
+        <let><clip pos="4" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="agreement-adj-ind-sg-gen-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="agreement-adj-ind-sg-gen-1Posit"><with-param pos="3"/></call-macro>
+        <out>
+          <chunk name="agreement-np">
+            <tags>
+              <tag><lit-tag v="SS"/></tag>
+            </tags>
+	        <lu>
+              <clip pos="1" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>    
+	        </lu>
+	        <b/>
+	        <lu>
+              <clip pos="3" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+            <lu>
+              <clip pos="4" side="tl" part="whole"/>    
+	        </lu>
+          </chunk>
+        </out>
+        
+      </action>                                  
+    </rule>  
 
     <rule comment="REGLA: num gen"> <!-- maŋŋel viđa. - viiđâ maŋa. -->
       <pattern>
@@ -2454,7 +2494,9 @@
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let> 
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
       <choose><when>
-              <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test> 
+              <test><and><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
+               <not><in><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>        
+              </and></test> 
         <let><clip pos="2" side="tl" part="tags"/>
         <concat><lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let> 
               </when>
@@ -2668,7 +2710,7 @@
     <rule comment="REGLA: agreement-attr attr n-sg agreement">  <!-- vuosttas dievas girji - vuosmuš oles kirje -->                                          
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
-        <pattern-item n="attr"/>                 
+        <pattern-item n="agreement-attr"/>                 
         <pattern-item n="agreem-sg"/>                   
       </pattern>     
       <action>
@@ -2678,6 +2720,7 @@
         <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="agreement-adj-ind-sg-2Posit"><with-param pos="1"/><with-param pos="3"/></call-macro>
+        <call-macro n="agreement-adj-ind-sg-2Posit"><with-param pos="2"/><with-param pos="3"/></call-macro>
         <out>
           <chunk name="agreement-np">
             <tags>
@@ -2812,6 +2855,9 @@
         
       </action>                                  
     </rule>  
+
+
+
 
     <rule comment="REGLA: agreement-attr n-sg-gen">  <!-- sámegiella vuosttas albma giellan - sämikielâ vuosmuu olmâ kiellân -->                                         
       <pattern>                                        
