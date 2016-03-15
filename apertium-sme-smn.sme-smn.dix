@@ -686,6 +686,9 @@
     
     <!-- ASECTION: Nouns --> 
 
+
+    <e><p><l>oarjesápmelaš<s n="n"/></l><r>viestârsämmilâš<s n="n"/></r></p></e>
+
     <e><p><l>riikkasis<s n="adj"/></l><r>aalmuglâš<s n="adj"/></r></p></e>
     <e><p><l>muohta<s n="n"/></l><r>muotâ<s n="n"/></r></p></e>
     <e><p><l>forum<s n="n"/></l><r>foorum<s n="n"/></r></p></e>
@@ -694,7 +697,6 @@
     <e><p><l>ságastallan<s n="n"/></l><r>savâstâllâm<s n="n"/></r></p></e>
     <e><p><l>ráđđadallanulbmil<s n="n"/></l><r>ráđádâllâmkenigâsvuotâ<s n="n"/></r></p></e>
     <e><p><l>váili<s n="n"/></l><r>vääni<s n="n"/></r></p></e> <!-- no noun -->
-
     <e><p><l>SSN<s n="n"/></l><r>SSN<s n="n"/></r></p></e>
     <e><p><l>ráđđádallanulbmil<s n="n"/></l><r>ráđádâllâmkenigâsvuotâ<s n="n"/></r></p></e>
     <e><p><l>báikenamma<s n="n"/></l><r>päikkinommâ<s n="n"/></r></p></e>
@@ -13460,7 +13462,6 @@
     <e><p><l>Girkoeatnanjohka<s n="np"/></l><r>Girkoeatnanjohka<s n="np"/></r></p></e>
     <e><p><l>Girkoguolbba<s n="np"/></l><r>Girkoguolbba<s n="np"/></r></p></e>
     <e><p><l>Girkojávrrit<s n="np"/></l><r>Girkojávrrit<s n="np"/></r></p></e>
-    <e><p><l>Girkonjárgaklinihkka<s n="np"/></l><r>Girkonjárgaklinihkka<s n="np"/></r></p></e>
     <e><p><l>Girkonjárgohppi<s n="np"/></l><r>Girkonjárgohppi<s n="np"/></r></p></e>
     <e><p><l>Girkovuotna<s n="np"/></l><r>Girkovuotna<s n="np"/></r></p></e>
     <e><p><l>Girkovárri<s n="np"/></l><r>Girkovárri<s n="np"/></r></p></e>
@@ -22202,7 +22203,7 @@
     <e><p><l>Vuottašvárbohki<s n="np"/></l><r>Vuottašvárbohki<s n="np"/></r></p></e>
     <e><p><l>Vuottašvárri<s n="np"/></l><r>Vuottašvárri<s n="np"/></r></p></e>
     <e><p><l>Vuottesjohka<s n="np"/></l><r>Vuottesjohka<s n="np"/></r></p></e>
-    <e><p><l>Vuottesjávri<s n="np"/></l><r>Vuottesjávri<s n="np"/></r></p></e>
+    <e><p><l>Vuottesjávri<s n="np"/></l><r>Vuodâsjävri<s n="np"/></r></p></e>
     <e><p><l>Vuovdavárri<s n="np"/></l><r>Vuovdavárri<s n="np"/></r></p></e>
     <e><p><l>Vuovddesisláttu<s n="np"/></l><r>Vuovddesisláttu<s n="np"/></r></p></e>
     <e><p><l>Vuovdegarpevárri<s n="np"/></l><r>Vuovdegarpevárri<s n="np"/></r></p></e>
