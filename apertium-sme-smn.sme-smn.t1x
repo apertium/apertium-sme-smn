@@ -1213,10 +1213,18 @@
         </when>
         <when>
           <test>
-               <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_ge"/></equal>
+               <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_neg-ge"/></equal>
           </test>
           <let><clip pos="1" side="tl" part="tags"/><concat>
-          <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_ge"/></concat>
+          <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_gin"/></concat>
+          </let> 
+        </when>
+        <when>
+          <test>
+               <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_pos-ge"/></equal>
+          </test>
+          <let><clip pos="1" side="tl" part="tags"/><concat>
+          <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_uv"/></concat>
           </let> 
         </when>
 	</choose>    
@@ -1626,7 +1634,6 @@
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
@@ -3419,6 +3426,16 @@
         <pattern-item n="auxverb"/>
       </pattern>
       <action>
+      <choose>
+          <when>
+            <test><and>
+               <equal><clip pos="1" side="sl" part="lem"/><lit v="ii"/></equal>
+               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_neg-ge"/></equal> </and>
+            </test>
+          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_ge"/></let>  
+          </when>
+          <otherwise><call-macro n="foc-1Posit"><with-param pos="1"/></call-macro></otherwise>
+      </choose>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
         <let><clip pos="1" side="tl" part="a_sem"/><lit v=""/></let>
