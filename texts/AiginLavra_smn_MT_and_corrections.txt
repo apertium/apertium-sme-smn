@@ -8,6 +8,7 @@ MLO: Äigee lii eidu smiettâmin, magarin keesi šodâččij.
 
 sme: Beaivelanjas eadni geige sutnje stuorra ránes konvoluhta.
 MT: Peiviloonjâst enni keigee sunjin stuorrâ ränis *konvoluhta.
+MT-corrected: Orroomvisteest enni keigee sunjin stuorrâ ränis kooveert.
 MLO: Orroomvisteest enni keigee sunjin stuorrâ ränis kooveert.
 
 sme:"Áigin Lávra, lea dasa čálistuvvon stuorra, roanci bustávaiguin
@@ -17,14 +18,18 @@ MLO: "Äigee Lavri", lii toos čälistum stuorrâ, ruánzis puustuvijguin.
 sme: Muđui ii oidno das mihkkige.
 MT: Mudoi ij oinuu tast mihheen.
 MLO: Mudoi tast ij oinuu mihheen.
+MLO_Komm: Sátneortnet ii lunddolaš seammaláganin go sme
 
 sme: Ii leat čállojuvvon geaidnonamma konvoluhttii, ii báikenammage.
 MT: Ij lah *čállojuvvon kiäinunommâ *konvoluhttii, ij #päikki#nommâ.
+Mt-corr:Ij lah *čállojuvvon kiäinunommâ kovertân, ij #päikki#nommâ.
 MLO: Ij lah čaallum kiäinunommâ kovertân, ige päikkinommâgin.
+MLO_Komm: päikkinommâgin (gin: ovddabealde gieldinsátni)
 
 sme: Áigin jorgala konvoluhta, muhto ii maŋábealdege leat čállon mihkkige.
 MT: #Áigin jurgâl *konvoluhta, mut ij *maŋábealdege lah #čaalâ mihheen.
-MLO: Äigee jurgâl kooveert, mut ij maajaabelngin lah čaallum mihheen.
+MLO: Äigee jurgâl kooveert, mut ij tuáhágin lah čaallum mihheen.
+MLO_Komm: gen (dáppe: ellipsa) + tuáhá -dábalaččat gal jorgaluvvo "tyehin". Muhto jorgaleaddji ii sáhte stiliseret álgoteavstta..
 
 sme: "Imaš, jurddaša Áigin go rahpá konvoluhta ja logadišgoahtá.
 MT: Imâšlâš, juurdâš Áigin ko leehâst *konvoluhta já *logadišgoahtá.
@@ -48,7 +53,7 @@ MLO: Tobbeen oppâvetteđ eelliđ tovláá vyevi mield já pesâvetteđ leđe f�
 
 sme: Mihcamáraeahket manat Goddesuohpa sieiddi lusa.
 MT: *Mihcamáraeahket moonah *Goddesuohpa sieidi luusâ.
-MLO: Jonsahpeiveehid moonah Koddekuáđhu sieidi kuuvl. 
+MLO: Jonsahpeiveehid moonah Koddesuopâ sieidi kuuvl. 
 
 sme: Doppe mun vieččan du.
 MT: Tobbeen mun viežâm tuu.
@@ -56,7 +61,7 @@ MLO: Tobbeen mun viežâm tuu.
 
 sme: Áigin gal diehtá bures gos Goddesuohppa lea.
 MT: #Áigin kale tiätá pyereest kost *Goddesuohppa lii.
-MLO: Äigee kale tiätá pyereest,kost Koddekuátku lii. 
+MLO: Äigee kale tiätá pyereest,kost Koddesuoppâ lii. 
 
 sme: Lea jávregáttis guokte miilla davábealde Girona gos soai etniinis orruba.
 MT: Lii jävririddoost kyehti #penâkkulâm taavaabeln Kiärrun kost suoi ennijnis orroov.
@@ -64,7 +69,7 @@ MLO: Tot lii jävrriddoost kyehti penâkkulâm Kiärun taavaabeln, kost suoi eni
 
 sme: Davábealde leat duoddarat ja doppe lea Goddejávri gos Goddesuohppa masá juohká jávrri guovtti oassái.
 MT: Taavaabeln láá tuoddâreh já tobbeen lii Goddejávri kost *Goddesuohppa masa juáhá jäävri kyevti uásán.
-MLO: Taavaabeln láá tuoddâreh, já tobbeen lii Koddejävri, kost Koddekuátku masa juáhá jäävri kyevti uásán.
+MLO: Taavaabeln láá tuoddâreh, já tobbeen lii Koddejävri, kost Koddesuoppâ masa juáhá jäävri kyevti uásán.
 
 sme: Dološ olbmot lávejedje bivdit vildabohccuid, gottiid, doppe.
 MT: Tovlááh ulmuuh läävejii pivdeđ viildâspoccuid, kuudijd, tobbeen.
@@ -76,7 +81,7 @@ MLO: Tondiet jäävri nommâ lii Koddejävri.
 
 sme: Goddesuohpas lea ges stuorra geađgesieidi.
 MT: *Goddesuohpas liigis stuorrâ keđgisieidi.
-MLO: Koddekuáđhust lii-uv stuorrâ keđgisieidi.
+MLO: Koddesuopâst lii-uv stuorrâ keđgisieidi.
 
 sme: Áigin lea fitnan Goddejávrris oaggumin ovttas áhčiinis. 
 MT: #Áigin lii iällám #Goddejávri uággumin oovtâst eijijnis.
