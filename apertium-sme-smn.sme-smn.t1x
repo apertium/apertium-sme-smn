@@ -192,6 +192,10 @@
       <cat-item tags="adj.comp.attr.*"/> 
       <cat-item tags="adj.sup.attr"/> 
       <cat-item tags="adj.sup.attr.*"/> 
+      <cat-item tags="adj.*.comp.attr"/> 
+      <cat-item tags="adj.*.comp.attr.*"/> 
+      <cat-item tags="adj.*.sup.attr"/> 
+      <cat-item tags="adj.*.sup.attr.*"/> 
     </def-cat>  
     <def-cat n="n-sg-nom">                             
       <cat-item tags="np.*.*.sg.nom.*"/>                   
@@ -413,8 +417,6 @@
   <section-def-attrs>
     <def-attr n="a_npagree_type">
        <attr-item tags="adj"/>
-       <attr-item tags="adj.sup"/>
-       <attr-item tags="adj.comp"/>
        <attr-item tags="adj.ord"/>
        <attr-item tags="prn.ind"/>
        <attr-item tags="prn.dem"/>
@@ -945,6 +947,7 @@
           <clip pos="1" side="tl" part="tags"/>
                <concat>
                  <clip pos="1" side="tl" part="a_npagree_type"/>  <!-- adj, prn.ind. etc, num -->
+                 <clip pos="1" side="tl" part="a_comp-superl"/>
                  <clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/>
                  <clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/> 
                </concat>                
@@ -955,6 +958,7 @@
           <clip pos="1" side="tl" part="tags"/>
 		<concat>
 		  <clip pos="1" side="tl" part="a_npagree_type"/>
+          <clip pos="1" side="tl" part="a_comp-superl"/>
 		  <clip pos="2" side="tl" part="a_nbr"/>
 		  <clip pos="2" side="tl" part="a_cas"/> 
 		</concat>                
@@ -988,7 +992,8 @@
         <let>
           <clip pos="1" side="tl" part="tags"/>
 	  <concat>
-            <clip pos="1" side="tl" part="a_npagree_type"/>
+        <clip pos="1" side="tl" part="a_npagree_type"/>
+        <clip pos="1" side="tl" part="a_comp-superl"/>
 	    <clip pos="2" side="tl" part="a_nbr"/>
 	    <lit-tag v="gen"/> 
 	  </concat>                
@@ -1008,7 +1013,8 @@
         <let>
           <clip pos="1" side="tl" part="tags"/>
 	  <concat>
-            <clip pos="1" side="tl" part="a_npagree_type"/>
+        <clip pos="1" side="tl" part="a_npagree_type"/>
+        <clip pos="1" side="tl" part="a_comp-superl"/>
 	    <clip pos="2" side="tl" part="a_nbr"/>
 	    <clip pos="2" side="tl" part="a_cas"/> 
 	  </concat>                
@@ -2776,7 +2782,7 @@
 
     <rule comment="REGLA: agreement-attr n-sg-gen">  <!-- half agreement: sámegiella vuosttas giellan - sämikielâ vuosmuu kiellân -->                                         
       <pattern>                                        
-        <pattern-item n="agreement-attr"/>                 
+        <pattern-item n="agreement-attr"/>             
         <pattern-item n="agreem-sg-gen"/>                   
       </pattern>     
       <action>
@@ -2784,6 +2790,7 @@
         <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
