@@ -312,6 +312,7 @@
     <e><p><l>goittotge<s n="pcle"/></l><r>kuittâg<s n="pcle"/></r></p></e>
 
     <!-- ASECTION: Adverbs -->
+    <e><p><l>mojunjálmmiid<s n="adv"/></l><r>mojonjalmij<s n="adv"/></r></p></e>
     <e><p><l>buorebut<s n="adv"/></l><r>pyerebeht<s n="adv"/></r></p></e>
     <e><p><l>davás<s n="adv"/></l><r>tavas<s n="adv"/></r></p></e>
     <e><p><l>mealgadii<s n="adv"/></l><r>masa<s n="adv"/></r></p></e>
@@ -1392,15 +1393,19 @@
     <e><p><l>Niillas<s n="np"/></l><r>Niillas<s n="np"/></r></p></e>
     <e><p><l>Niillas<s n="np"/></l><r>Nijlâs<s n="np"/></r></p></e>
     <e><p><l>Piera<s n="np"/></l><r>Piera<s n="np"/></r></p></e> 
-    <e><p><l>Piera<s n="np"/></l><r>Pierâ<s n="np"/></r></p></e> 
+    <e><p><l>Piera<s n="np"/></l><r>Pierâ<s n="np"/></r></p></e>
+    <e><p><l>Ánde<s n="np"/></l><r>Ande<s n="np"/></r></p></e> 
     <e><p><l>Ánde<s n="np"/></l><r>Antti<s n="np"/></r></p></e> 
-    <e><p><l>Ánde<s n="np"/></l><r>Ánde<s n="np"/></r></p></e> 
     <e><p><l>Ánne<s n="np"/></l><r>Ánne<s n="np"/></r></p></e> 
     <e><p><l>Ánne<s n="np"/></l><r>Ánná<s n="np"/></r></p></e> 
     <e><p><l>Ánte<s n="np"/></l><r>Antti<s n="np"/></r></p></e> 
     <e><p><l>Ánte<s n="np"/></l><r>Ánte<s n="np"/></r></p></e> 
+    
+    
     <!-- ASECTION: sme-person names x=x -->
-
+    
+    <e><p><l>Áigin<s n="np"/></l><r>Äigee<s n="np"/></r></p></e>
+    <e><p><l>Lávra<s n="np"/></l><r>Lavri<s n="np"/></r></p></e>
     <e><p><l>Heandarat<s n="np"/></l><r>Heandarat<s n="np"/></r></p></e>
     <e><p><l>Aanna<s n="np"/></l><r>Aanna<s n="np"/></r></p></e>
     <e><p><l>Aarne<s n="np"/></l><r>Aarne<s n="np"/></r></p></e>
@@ -3011,7 +3016,8 @@
     <e><p><l>Čoavččesjávri<s n="np"/></l><r>Čovčjävri<s n="np"/></r></p></e>
 
     <!-- ASECTION: Verbs -->
-
+    <e><p><l>diđoštit<s n="vblex"/><s n="iv"/></l><r>tiäđuštâllâđ<s n="vblex"/></r></p></e>
+    <e><p><l>čilgestit<s n="vblex"/><s n="iv"/></l><r>čielgiistiđ<s n="vblex"/></r></p></e>
     <e><p><l>reaškit<s n="vblex"/><s n="iv"/></l><r>povvustiđ<s n="vblex"/></r></p></e>
     <e><p><l>gárgedit<s n="vblex"/><s n="iv"/></l><r>ovdediđ<s n="vblex"/></r></p></e>
     <e><p><l>hohkahallat<s n="vblex"/><s n="iv"/></l><r>hokâttâllâđ<s n="vblex"/></r></p></e>
@@ -7404,7 +7410,7 @@
     <e><p><l>borvet<s n="vblex"/><s n="tv"/></l><r>porfiđ<s n="vblex"/></r></p></e>
     <e><p><l>bossut<s n="vblex"/><s n="tv"/></l><r>possoođ<s n="vblex"/></r></p></e>
     <e><p><l>botnjat<s n="vblex"/><s n="tv"/></l><r>puunnjâđ<s n="vblex"/></r></p></e>
-    <e><p><l>bovdet<s n="vblex"/><s n="tv"/></l><r>pivdeđ<s n="vblex"/></r></p></e>
+    <e><p><l>bovdet<s n="vblex"/><s n="tv"/></l><r>povdiđ<s n="vblex"/></r></p></e>
     <e><p><l>bovret<s n="vblex"/><s n="tv"/></l><r>pooráđ<s n="vblex"/></r></p></e>
     <e><p><l>buktit<s n="vblex"/><s n="tv"/></l><r>pyehtiđ<s n="vblex"/></r></p></e>
     <e><p><l>bullehit<s n="vblex"/><s n="tv"/></l><r>puállááttiđ<s n="vblex"/></r></p></e>
@@ -10258,6 +10264,9 @@
     <e><p><l>almmaiduvvat<s n="vblex"/><s n="iv"/></l><r>itteeđ<s n="vblex"/></r></p></e>
 
 <!-- EEEEEE   CHAPTER 5. North-Saami placenames added       -->
+
+    <e><p><l>Goddesuohppa<s n="np"/></l><r>Koddesuoppâ<s n="np"/></r></p></e>
+    <e><p><l>Goddejávri<s n="np"/></l><r>Koddejävri<s n="np"/></r></p></e>
     <e><p><l>Dárvvatvárri<s n="np"/></l><r>Dárvvatvääri<s n="np"/></r></p></e>
     <e><p><l>Aahkavaerie<s n="np"/></l><r>Aahkavaerie<s n="np"/></r></p></e>
     <e><p><l>Aajrie<s n="np"/></l><r>Aajrie<s n="np"/></r></p></e>
