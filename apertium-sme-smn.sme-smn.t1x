@@ -312,6 +312,10 @@
     <def-cat n="agreem-sg-gen">                             
       <cat-item tags="np.*.sg.gen.*"/>                    
       <cat-item tags="np.sg.gen.*"/>                    
+      <cat-item tags="np.*.sg.ill.*"/>                    
+      <cat-item tags="np.sg.ill.*"/>                    
+      <cat-item tags="np.*.sg.loc.*"/>                    
+      <cat-item tags="np.sg.loc.*"/>                    
       <cat-item tags="n.*.sg.gen.*"/>                    
       <cat-item tags="n.sg.gen.*"/>                    
       <cat-item tags="n.*.sg.ill.*"/>                    
@@ -2572,7 +2576,7 @@
       </action>                                  
     </rule> 
 
-    <rule comment="REGLA: num-nomacc attr n-sg  to n-par">  <!-- Mus leat čieža njálgga láibbi. Must láá čiččâm njaalgâ leibid. -->                                           
+<!--    <rule comment="REGLA: num-nomacc attr n-sg  to n-par">   Mus leat čieža njálgga láibbi. Must láá čiččâm njaalgâ leibid.                                           
       <pattern>                                        
         <pattern-item n="num-nomacc"/>                 
         <pattern-item n="adjattr"/>                 
@@ -2623,7 +2627,7 @@
       </action>                                  
     </rule> 
 
-    <rule comment="REGLA: num-nomacc adv attr n-sg to n-par"> <!-- Mus leat čieža hui njálgga láibbi. , does not function -->                                             
+    <rule comment="REGLA: num-nomacc adv attr n-sg to n-par">  Mus leat čieža hui njálgga láibbi. , does not function                                              
       <pattern>                                        
         <pattern-item n="num-nomacc"/>                 
         <pattern-item n="adv"/>                 
@@ -2679,7 +2683,7 @@
         </out>
         
       </action>                                  
-    </rule> 
+    </rule> -->
 
 
     <rule comment="REGLA: agreement-attr n-sg agreement">  <!-- full agreement -->                                           
