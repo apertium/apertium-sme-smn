@@ -175,6 +175,7 @@
       <cat-item lemma="dálá" tags="adj.attr.*"/> 
       <cat-item lemma="dološ" tags="adj.*.attr.*"/> 
       <cat-item lemma="dološ" tags="adj.attr.*"/> 
+      <cat-item lemma="guhte" tags="prn.ind.*"/>
       <cat-item lemma="guhtemuš" tags="prn.itg.*"/>
       <cat-item lemma="guovddáš" tags="adj.*.attr.*"/> 
       <cat-item lemma="guovddáš" tags="adj.attr.*"/> 
@@ -954,9 +955,10 @@
                <concat>
                  <clip pos="1" side="tl" part="a_npagree_type"/>  <!-- adj, prn.ind. etc, num -->
                  <clip pos="1" side="tl" part="a_comp-superl"/>
-                 <clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/>
-                 <clip pos="1" side="tl" part="a_cas"/><lit-tag v="gen"/> 
-               </concat>                
+                 <lit-tag v="sg"/> 
+                 <lit-tag v="gen"/> 
+                 <clip pos="1" side="tl" part="a_foc"/>
+              </concat>                
         </let> 
     </def-macro>
     <def-macro n="agreement-adj-ind-sg-2Posit" npar="2">   <!-- sg prn, num, ord , full agreement -->
@@ -967,6 +969,7 @@
           <clip pos="1" side="tl" part="a_comp-superl"/>
 		  <clip pos="2" side="tl" part="a_nbr"/>
 		  <clip pos="2" side="tl" part="a_cas"/> 
+          <clip pos="1" side="tl" part="a_foc"/>
 		</concat>                
         </let> 
     </def-macro>
@@ -2837,6 +2840,7 @@
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="foc-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>

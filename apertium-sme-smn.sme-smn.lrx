@@ -453,19 +453,24 @@ Write comments to forthcoming rules before this line -->
 
 <!-- guhte -->
   <rule weight="1.0">
-    <match lemma="guhte">
+    <match lemma="guhte" tags="prn.ind.*">
       <select lemma="kihheen"/>
     </match>
   </rule>
 
   <rule weight="0.5">
-    <match lemma="guhte">
+    <match lemma="guhte"  tags="prn.ind.*">
       <select lemma="jieškote"/>
     </match> 
   </rule>
 
   <rule weight="0.6">
-   <match lemma="guhte"> <!-- guđege riikkas - jieškote-uv enâmist -->
+   <match lemma="guhte" tags="*.foc_pos-ge.*">
+      <select lemma="jieškote"/>
+    </match>
+</rule>
+  <rule weight="0.6">
+   <match lemma="guhte" tags="prn.ind.*"> <!-- guđege riikkas - jieškote-uv enâmist -->
       <select lemma="jieškote"/>
     </match>
   <match lemma="ge" tags="pcle.*"/>
