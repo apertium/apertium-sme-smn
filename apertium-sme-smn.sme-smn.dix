@@ -208,6 +208,7 @@
     <e><p><l>uhccánaš<s n="adj"/></l><r>ucánjáhháá<s n="adj"/></r></p></e>
     <e><p><l>unnánaš<s n="adj"/></l><r>siemnáhháá<s n="adj"/></r></p></e>
     <e><p><l>álbmotválljejuvvon<s n="adj"/></l><r>aalmug<b/>valjim<s n="adj"/></r></p></e>
+    <e><p><l>vajáldahkes<s n="adj"/></l><r>vájáldittee<s n="adj"/></r></p></e>
 
     <!-- ASECTION: Numerals -->
 
@@ -315,6 +316,8 @@
 
     <!-- ASECTION: Adverbs -->
     
+    <e><p><l>gurutbealde<s n="adv"/></l><r>čižetpeln<s n="adv"/></r></p></e>
+    <e><p><l>olgešbealde<s n="adv"/></l><r>uálgispeln<s n="adv"/></r></p></e>
     <e><p><l>áigá<s n="adv"/></l><r>áigáá<s n="adv"/></r></p></e>
     <e><p><l>oanehassii<s n="adv"/></l><r>uánihávt<s n="adv"/></r></p></e>
     <e><p><l>gokko<s n="adv"/></l><r>kogo<s n="adv"/></r></p></e>
@@ -8091,7 +8094,7 @@
     <e><p><l>moraštit<s n="vblex"/><s n="tv"/></l><r>murâštiđ<s n="vblex"/></r></p></e>
     <e><p><l>morihit<s n="vblex"/><s n="iv"/></l><r>morettiđ<s n="vblex"/></r></p></e>
     <e><p><l>moskát<s n="vblex"/><s n="iv"/></l><r>muvzáđ<s n="vblex"/></r></p></e>
-    <e><p><l>movttáskit<s n="vblex"/><s n="iv"/></l><r>movstáskiđ<s n="vblex"/></r></p></e>
+    <e><p><l>movttáskit<s n="vblex"/><s n="iv"/></l><r>movtáskiđ<s n="vblex"/></r></p></e>
     <e><p><l>muhttot<s n="vblex"/><s n="iv"/></l><r>muttuđ<s n="vblex"/></r></p></e>
     <e><p><l>muittuhit<s n="vblex"/><s n="tv"/></l><r>muštottiđ<s n="vblex"/></r></p></e>
     <e><p><l>muitáhit<s n="vblex"/><s n="tv"/></l><r>muštottiđ<s n="vblex"/></r></p></e>
@@ -11844,8 +11847,8 @@
     <e><p><l>Báhčasanjávri<s n="np"/></l><r>Báhčasanjávri<s n="np"/></r></p></e>
     <e><p><l>Báhčasanoaivi<s n="np"/></l><r>Báhčasanoaivi<s n="np"/></r></p></e>
     <e><p><l>Báhčaveadji<s n="np"/></l><r>Báhčaveadji<s n="np"/></r></p></e>
-    <e><p><l>Báhčaveaijohka<s n="np"/></l><r>Báhčaveaijohka<s n="np"/></r></p></e>
-    <e><p><l>Báhčaveaileahki<s n="np"/></l><r>Báhčaveaileahki<s n="np"/></r></p></e>
+    <e><p><l>Báhčaveaijohka<s n="np"/></l><r>Paččvei<s n="np"/></r></p></e>
+    <e><p><l>Báhčaveaileahki<s n="np"/></l><r>Paččveileve<s n="np"/></r></p></e>
     <e><p><l>Báhčaveaisiida<s n="np"/></l><r>Báhčaveaisiida<s n="np"/></r></p></e>
     <e><p><l>Báhčaveaivuotna<s n="np"/></l><r>Báhčaveaivuotna<s n="np"/></r></p></e>
     <e><p><l>Báhčaščohkka<s n="np"/></l><r>Báhčaščohkka<s n="np"/></r></p></e>
@@ -13281,8 +13284,8 @@
     <e><p><l>Gaskaija<s n="np"/></l><r>Gaskaija<s n="np"/></r></p></e>
     <e><p><l>Gaskajohka<s n="np"/></l><r>Gaskajohka<s n="np"/></r></p></e>
     <e><p><l>Gaskaláš<s n="np"/></l><r>Gaskaláš<s n="np"/></r></p></e>
-    <e><p><l>Gaskamearra<s n="np"/></l><r>Gaskamearra<s n="np"/></r></p></e>
-    <e><p><l>Gaskamearragáddi<s n="np"/></l><r>Gaskamearragáddi<s n="np"/></r></p></e>
+    <e><p><l>Gaskamearra<s n="np"/></l><r>Koskâmeerâ<s n="np"/></r></p></e>
+    <e><p><l>Gaskamearragáddi<s n="np"/></l><r>Koskâmeerâriddo<s n="np"/></r></p></e>
     <e><p><l>Gaskaniitojohgeašoaivi<s n="np"/></l><r>Gaskaniitojohgeašoaivi<s n="np"/></r></p></e>
     <e><p><l>Gaskanjárga<s n="np"/></l><r>Gaskanjárga<s n="np"/></r></p></e>
     <e><p><l>Gaskanjáskkahat<s n="np"/></l><r>Gaskanjáskkahat<s n="np"/></r></p></e>
@@ -15950,7 +15953,7 @@
     <e><p><l>Jiekŋajárjeaggi<s n="np"/></l><r>Jiekŋajárjeaggi<s n="np"/></r></p></e>
     <e><p><l>Jiekŋajárjohka<s n="np"/></l><r>Jiekŋajárjohka<s n="np"/></r></p></e>
     <e><p><l>Jiekŋajávri<s n="np"/></l><r>Jiekŋajávri<s n="np"/></r></p></e>
-    <e><p><l>Jiekŋamearra<s n="np"/></l><r>Jiekŋamearra<s n="np"/></r></p></e>
+    <e><p><l>Jiekŋamearra<s n="np"/></l><r>Jieŋâmeerâ<s n="np"/></r></p></e>
     <e><p><l>Jiekŋanjunni<s n="np"/></l><r>Jiekŋanjunni<s n="np"/></r></p></e>
     <e><p><l>Jiekŋaravda<s n="np"/></l><r>Jiekŋaravda<s n="np"/></r></p></e>
     <e><p><l>Jiekŋariehpijohka<s n="np"/></l><r>Jiekŋariehpijohka<s n="np"/></r></p></e>
