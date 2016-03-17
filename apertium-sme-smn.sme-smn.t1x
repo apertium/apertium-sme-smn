@@ -1244,6 +1244,12 @@
 	<choose>   
           <when>
             <test>
+               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_be"/></equal>
+            </test>
+          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_ba"/></let> 
+          </when>
+          <when>
+            <test>
                <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_son"/></equal>
             </test>
           <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_sun"/></let> 
@@ -1658,11 +1664,12 @@
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="foc-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <out>
-          <chunk name="cmpnom" case="caseFirstWord">
+          <chunk name="cmpnom" case="caseFirstWord">  
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><var n="func"/></tag> 
