@@ -1692,6 +1692,7 @@
     <e><p><l>čáhci<s n="n"/></l><r>čääci<s n="n"/></r></p></e>
     <e><p><l>čáradas<s n="n"/></l><r>vuojâčalme<s n="n"/></r></p></e>
     <e><p><l>čáradasrieggáš<s n="n"/></l><r>muŋkki<s n="n"/></r></p></e>
+    <e><p><l>ILO<s n="n"/></l><r>ILO<s n="n"/></r></p></e>
 <!--    <e><p><l>ruoktosiidu<s n="n"/></l><r>päikkisijđo<s n="n"/></r></p></e>-->
 
     <!-- ASECTION: sme-person names with two possible translations -->
@@ -1780,7 +1781,7 @@
     <e><p><l>Birjá<s n="np"/></l><r>Birjá<s n="np"/></r></p></e>
     <e><p><l>Birrá<s n="np"/></l><r>Birrá<s n="np"/></r></p></e>
     <e><p><l>Birtá<s n="np"/></l><r>Birtá<s n="np"/></r></p></e>
-    <e><p><l>Boŋgu<s n="np"/></l><r>Boŋgu<s n="np"/></r></p></e>
+    <e><p><l>Boŋgu<s n="np"/></l><r>Ponku<s n="np"/></r></p></e>
     <e><p><l>Buohttá<s n="np"/></l><r>Buohttá<s n="np"/></r></p></e>
     <e><p><l>Bure<s n="np"/></l><r>Bure<s n="np"/></r></p></e>
     <e><p><l>Bákte-Lárás<s n="np"/></l><r>Bákte-Lárás<s n="np"/></r></p></e>
@@ -1993,7 +1994,7 @@
     <e><p><l>Leammá<s n="np"/></l><r>Leammá<s n="np"/></r></p></e>
     <e><p><l>Leastádius<s n="np"/></l><r>Leastádius<s n="np"/></r></p></e>
     <e><p><l>Leinná<s n="np"/></l><r>Leinná<s n="np"/></r></p></e>
-    <e><p><l>Lemet<s n="np"/></l><r>Lemet<s n="np"/></r></p></e>
+    <e><p><l>Lemet<s n="np"/></l><r>Leemit<s n="np"/></r></p></e>
     <e><p><l>Lemetaš-Piera<s n="np"/></l><r>Lemetaš-Piera<s n="np"/></r></p></e>
     <e><p><l>Lemmá<s n="np"/></l><r>Lemmá<s n="np"/></r></p></e>
     <e><p><l>Lená<s n="np"/></l><r>Lená<s n="np"/></r></p></e>
@@ -4120,7 +4121,8 @@
     <e><p><l>sealas<s n="adj"/></l><r>seles<s n="adj"/></r></p></e>
     <e><p><l>sealvi<s n="adj"/></l><r>čielgâs<s n="adj"/></r></p></e>
     <e><p><l>sealvvas<s n="adj"/></l><r>čielgâs<s n="adj"/></r></p></e>
-    <e><p><l>seamma<b/>ládje<s n="adj"/></l><r>siämmáánáál<s n="adj"/></r></p></e>
+    <e><p><l>seamma<b/>ládje<s n="adv"/></l><r>siämmáánáál<s n="adv"/></r></p></e>
+    <e><p><l>ládje<s n="adv"/></l><r>náálá<s n="adv"/></r></p></e>
     <e><p><l>seammalágan<s n="adj"/></l><r>siämmáálágán<s n="adj"/></r></p></e>
     <e><p><l>seammasullasaš<s n="adj"/></l><r>siämmáámuđusâš<s n="adj"/></r></p></e>
     <e><p><l>sierranas<s n="adj"/></l><r>sierâ<s n="adj"/></r></p></e>
@@ -11232,7 +11234,7 @@
     <e><p><l>Bievllavuotna<s n="np"/></l><r>Bievllavuotna<s n="np"/></r></p></e>
     <e><p><l>Bievlá<s n="np"/></l><r>Bievlá<s n="np"/></r></p></e>
     <e><p><l>Bievrrašjohka<s n="np"/></l><r>Bievrrašjohka<s n="np"/></r></p></e>
-    <e><p><l>Bievrrašjávri<s n="np"/></l><r>Bievrrašjávri<s n="np"/></r></p></e>
+    <e><p><l>Bievrrašjávri<s n="np"/></l><r>Pöyrisjävri<s n="np"/></r></p></e>
     <e><p><l>Bievrrašvuopmi<s n="np"/></l><r>Bievrrašvuopmi<s n="np"/></r></p></e>
     <e><p><l>Bievrraščielgi<s n="np"/></l><r>Bievrraščielgi<s n="np"/></r></p></e>
     <e><p><l>Bievrroaijávri<s n="np"/></l><r>Bievrroaijávri<s n="np"/></r></p></e>
@@ -11328,7 +11330,7 @@
     <e><p><l>Biršoaivi<s n="np"/></l><r>Biršoaivi<s n="np"/></r></p></e>
     <e><p><l>Biskajaluokta<s n="np"/></l><r>Biskajaluokta<s n="np"/></r></p></e>
     <e><p><l>Bissevárri<s n="np"/></l><r>Bissevárri<s n="np"/></r></p></e>
-    <e><p><l>Bissojohka<s n="np"/></l><r>Bissojohka<s n="np"/></r></p></e>
+    <e><p><l>Bissojohka<s n="np"/></l><r>Pissojuuhâ<s n="np"/></r></p></e>
     <e><p><l>Bissojávri<s n="np"/></l><r>Bissojávri<s n="np"/></r></p></e>
     <e><p><l>Bissoskáidi<s n="np"/></l><r>Bissoskáidi<s n="np"/></r></p></e>
     <e><p><l>Bissovárri<s n="np"/></l><r>Bissovárri<s n="np"/></r></p></e>
@@ -11408,7 +11410,7 @@
     <e><p><l>Boarrásduottar<s n="np"/></l><r>Boarrásduottar<s n="np"/></r></p></e>
     <e><p><l>Boastajohka<s n="np"/></l><r>Boastajohka<s n="np"/></r></p></e>
     <e><p><l>Boasttobelčohkka<s n="np"/></l><r>Boasttobelčohkka<s n="np"/></r></p></e>
-    <e><p><l>Boatka<s n="np"/></l><r>Boatka<s n="np"/></r></p></e>
+    <e><p><l>Boatka<s n="np"/></l><r>Potkâ<s n="np"/></r></p></e>
     <e><p><l>Boatkajohka<s n="np"/></l><r>Boatkajohka<s n="np"/></r></p></e>
     <e><p><l>Boatkavággi<s n="np"/></l><r>Boatkavággi<s n="np"/></r></p></e>
     <e><p><l>Boatkavárri<s n="np"/></l><r>Boatkavárri<s n="np"/></r></p></e>
@@ -11861,7 +11863,7 @@
     <e><p><l>Báiskejáraláš<s n="np"/></l><r>Báiskejáraláš<s n="np"/></r></p></e>
     <e><p><l>Báiskejávri<s n="np"/></l><r>Báiskejávri<s n="np"/></r></p></e>
     <e><p><l>Báiskenjárga<s n="np"/></l><r>Báiskenjárga<s n="np"/></r></p></e>
-    <e><p><l>Báišduottar<s n="np"/></l><r>Báišduottar<s n="np"/></r></p></e>
+    <e><p><l>Báišduottar<s n="np"/></l><r>Paištuodâr<s n="np"/></r></p></e>
     <e><p><l>Báišjohka<s n="np"/></l><r>Báišjohka<s n="np"/></r></p></e>
     <e><p><l>Báišjávri<s n="np"/></l><r>Báišjávri<s n="np"/></r></p></e>
     <e><p><l>Báišvađajeaggi<s n="np"/></l><r>Báišvađajeaggi<s n="np"/></r></p></e>
@@ -12241,7 +12243,7 @@
     <e><p><l>Darvvajávri<s n="np"/></l><r>Darvvajávri<s n="np"/></r></p></e>
     <e><p><l>Darvvatjohka<s n="np"/></l><r>Darvvatjohka<s n="np"/></r></p></e>
     <e><p><l>Darvvatjávrrit<s n="np"/></l><r>Darvvatjávrrit<s n="np"/></r></p></e>
-    <e><p><l>Darvvatvárri<s n="np"/></l><r>Darvvatvárri<s n="np"/></r></p></e>
+    <e><p><l>Darvvatvárri<s n="np"/></l><r>Tarvantovääri<s n="np"/></r></p></e>
     <e><p><l>Darvvavárri<s n="np"/></l><r>Darvvavárri<s n="np"/></r></p></e>
     <e><p><l>Darvvátjohka<s n="np"/></l><r>Darvvátjohka<s n="np"/></r></p></e>
     <e><p><l>Darvvátvárri<s n="np"/></l><r>Darvvátvárri<s n="np"/></r></p></e>
@@ -12314,7 +12316,7 @@
     <e><p><l>Dearpmišjávri<s n="np"/></l><r>Dearpmišjávri<s n="np"/></r></p></e>
     <e><p><l>Dearpmišvárri<s n="np"/></l><r>Dearpmišvárri<s n="np"/></r></p></e>
     <e><p><l>Deatnogeahči<s n="np"/></l><r>Deatnogeahči<s n="np"/></r></p></e>
-    <e><p><l>Deatnogáddi<s n="np"/></l><r>Deatnogáddi<s n="np"/></r></p></e>
+    <e><p><l>Deatnogáddi<s n="np"/></l><r>Tiänu<b/>riddo<s n="np"/></r></p></e>
     <e><p><l>Deatnomuotki<s n="np"/></l><r>Deatnomuotki<s n="np"/></r></p></e>
     <e><p><l>Deatnomuotkkijávri<s n="np"/></l><r>Deatnomuotkkijávri<s n="np"/></r></p></e>
     <e><p><l>Deavkkehanjohka<s n="np"/></l><r>Deavkkehanjohka<s n="np"/></r></p></e>
@@ -15966,7 +15968,7 @@
     <e><p><l>Jiekŋačazajávri<s n="np"/></l><r>Jiekŋačazajávri<s n="np"/></r></p></e>
     <e><p><l>Jiellenjárga<s n="np"/></l><r>Jiellenjárga<s n="np"/></r></p></e>
     <e><p><l>Jiellenjárjohka<s n="np"/></l><r>Jiellenjárjohka<s n="np"/></r></p></e>
-    <e><p><l>Jiellevárri<s n="np"/></l><r>Jiellevárri<s n="np"/></r></p></e>
+    <e><p><l>Jiellevárri<s n="np"/></l><r>Vääččir<s n="np"/></r></p></e>
     <e><p><l>Jiepmak<s n="np"/></l><r>Jiepmak<s n="np"/></r></p></e>
     <e><p><l>Jiepmakjávri<s n="np"/></l><r>Jiepmakjávri<s n="np"/></r></p></e>
     <e><p><l>Jiepmaluokta<s n="np"/></l><r>Jiepmaluokta<s n="np"/></r></p></e>
@@ -17611,7 +17613,7 @@
     <e><p><l>Muorravággi<s n="np"/></l><r>Muorravággi<s n="np"/></r></p></e>
     <e><p><l>Muosáidsuolu<s n="np"/></l><r>Muosáidsuolu<s n="np"/></r></p></e>
     <e><p><l>Muosát<s n="np"/></l><r>Muosát<s n="np"/></r></p></e>
-    <e><p><l>Muotkeduottar<s n="np"/></l><r>Muotkeduottar<s n="np"/></r></p></e>
+    <e><p><l>Muotkeduottar<s n="np"/></l><r>Myeđhituoddâr<s n="np"/></r></p></e>
     <e><p><l>Muotkegohppi<s n="np"/></l><r>Muotkegohppi<s n="np"/></r></p></e>
     <e><p><l>Muotkejeaggi<s n="np"/></l><r>Muotkejeaggi<s n="np"/></r></p></e>
     <e><p><l>Muotkejohka<s n="np"/></l><r>Muotkejohka<s n="np"/></r></p></e>
@@ -18946,7 +18948,7 @@
     <e><p><l>Polárgierdu<s n="np"/></l><r>Polárgierdu<s n="np"/></r></p></e>
     <e><p><l>Porsa<s n="np"/></l><r>Porsa<s n="np"/></r></p></e>
     <e><p><l>Porsáŋgguvuotna<s n="np"/></l><r>Porsáŋgguvuotna<s n="np"/></r></p></e>
-    <e><p><l>Porsáŋgu<s n="np"/></l><r>Porsáŋgu<s n="np"/></r></p></e>
+    <e><p><l>Porsáŋgu<s n="np"/></l><r>Porsaŋg<s n="np"/></r></p></e>
     <e><p><l>Portugála<s n="np"/></l><r>Portugála<s n="np"/></r></p></e>
     <e><p><l>Preriat<s n="np"/></l><r>Preriat<s n="np"/></r></p></e>
     <e><p><l>Priština<s n="np"/></l><r>Priština<s n="np"/></r></p></e>
@@ -19332,7 +19334,7 @@
     <e><p><l>Roancejávri<s n="np"/></l><r>Roancejávri<s n="np"/></r></p></e>
     <e><p><l>Roandin<s n="np"/></l><r>Roandin<s n="np"/></r></p></e>
     <e><p><l>Roassa<s n="np"/></l><r>Roassa<s n="np"/></r></p></e>
-    <e><p><l>Roavenjárga<s n="np"/></l><r>Roavenjárga<s n="np"/></r></p></e>
+    <e><p><l>Roavenjárga<s n="np"/></l><r>Ruávinjargâ<s n="np"/></r></p></e>
     <e><p><l>Roavesavvon<s n="np"/></l><r>Roavesavvon<s n="np"/></r></p></e>
     <e><p><l>Roavigorsa<s n="np"/></l><r>Roavigorsa<s n="np"/></r></p></e>
     <e><p><l>Roaviloapmi<s n="np"/></l><r>Roaviloapmi<s n="np"/></r></p></e>
@@ -19663,7 +19665,7 @@
     <e><p><l>Ruovttotjohka<s n="np"/></l><r>Ruovttotjohka<s n="np"/></r></p></e>
     <e><p><l>Ruovttotnjavvi<s n="np"/></l><r>Ruovttotnjavvi<s n="np"/></r></p></e>
     <e><p><l>Ruovttotskáidi<s n="np"/></l><r>Ruovttotskáidi<s n="np"/></r></p></e>
-    <e><p><l>Ruovttueanan<s n="np"/></l><r>Ruovttueanan<s n="np"/></r></p></e>
+    <e><p><l>Ruovttueanan<s n="np"/></l><r>Päikkieennâm<s n="np"/></r></p></e>
     <e><p><l>Ruođugáddi<s n="np"/></l><r>Ruođugáddi<s n="np"/></r></p></e>
     <e><p><l>Ruoššabákti<s n="np"/></l><r>Ruoššabákti<s n="np"/></r></p></e>
     <e><p><l>Ruoššaheallár<s n="np"/></l><r>Ruoššaheallár<s n="np"/></r></p></e>
@@ -20979,8 +20981,8 @@
     <e><p><l>Stoarbmagieddi<s n="np"/></l><r>Stoarbmagieddi<s n="np"/></r></p></e>
     <e><p><l>Stoarpmajuovva<s n="np"/></l><r>Stoarpmajuovva<s n="np"/></r></p></e>
     <e><p><l>Stoarpmavárri<s n="np"/></l><r>Stoarpmavárri<s n="np"/></r></p></e>
-    <e><p><l>Stockhoalbma<s n="np"/></l><r>Stockhoalbma<s n="np"/></r></p></e>
-    <e><p><l>Stockholbma<s n="np"/></l><r>Stockholbma<s n="np"/></r></p></e>
+    <e><p><l>Stockhoalbma<s n="np"/></l><r>Tukholma<s n="np"/></r></p></e>
+    <e><p><l>Stockholbma<s n="np"/></l><r>Tukholma<s n="np"/></r></p></e>
     <e><p><l>Stohkkasuolu<s n="np"/></l><r>Stohkkasuolu<s n="np"/></r></p></e>
     <e><p><l>Stohkkavuotna<s n="np"/></l><r>Stohkkavuotna<s n="np"/></r></p></e>
     <e><p><l>Stohkkejohka<s n="np"/></l><r>Stohkkejohka<s n="np"/></r></p></e>
@@ -21817,7 +21819,7 @@
     <e><p><l>Traktornjavvi<s n="np"/></l><r>Traktornjavvi<s n="np"/></r></p></e>
     <e><p><l>Triffannjárga<s n="np"/></l><r>Triffannjárga<s n="np"/></r></p></e>
     <e><p><l>Triffanoaivi<s n="np"/></l><r>Triffanoaivi<s n="np"/></r></p></e>
-    <e><p><l>Troandin<s n="np"/></l><r>Troandin<s n="np"/></r></p></e>
+    <e><p><l>Troandin<s n="np"/></l><r>Truándin<s n="np"/></r></p></e>
     <e><p><l>Troandinvuotna<s n="np"/></l><r>Troandinvuotna<s n="np"/></r></p></e>
     <e><p><l>Truollahoallu<s n="np"/></l><r>Truollahoallu<s n="np"/></r></p></e>
     <e><p><l>Truollavuotna<s n="np"/></l><r>Truollavuotna<s n="np"/></r></p></e>
@@ -21916,7 +21918,7 @@
     <e><p><l>Ulláváráš<s n="np"/></l><r>Ulláváráš<s n="np"/></r></p></e>
     <e><p><l>Ulvvešjohka<s n="np"/></l><r>Ulvvešjohka<s n="np"/></r></p></e>
     <e><p><l>Umát<s n="np"/></l><r>Umát<s n="np"/></r></p></e>
-    <e><p><l>Unjárga<s n="np"/></l><r>Unjárga<s n="np"/></r></p></e>
+    <e><p><l>Unjárga<s n="np"/></l><r>Uunjargâ<s n="np"/></r></p></e>
     <e><p><l>Unjárgeahči<s n="np"/></l><r>Unjárgeahči<s n="np"/></r></p></e>
     <e><p><l>Unjárgohppi<s n="np"/></l><r>Unjárgohppi<s n="np"/></r></p></e>
     <e><p><l>Unnabuollámaš<s n="np"/></l><r>Unnabuollámaš<s n="np"/></r></p></e>
@@ -34838,9 +34840,9 @@
     <e><p><l>InDesign<s n="np"/></l><r>InDesign<s n="np"/></r></p></e>
     <e><p><l>Ina-Ristin<s n="np"/></l><r>Ina-Ristin<s n="np"/></r></p></e>
     <e><p><l>Ina<s n="np"/></l><r>Ina<s n="np"/></r></p></e>
-    <e><p><l>Inari<s n="np"/></l><r>Inari<s n="np"/></r></p></e>
-    <e><p><l>Inarijoki<s n="np"/></l><r>Inarijoki<s n="np"/></r></p></e>
-    <e><p><l>Inarijärvi<s n="np"/></l><r>Inarijärvi<s n="np"/></r></p></e>
+    <e><p><l>Inari<s n="np"/></l><r>Aanaar<s n="np"/></r></p></e>
+    <e><p><l>Inarijoki<s n="np"/></l><r>Aanaarjuuhâ<s n="np"/></r></p></e>
+    <e><p><l>Inarijärvi<s n="np"/></l><r>Aanaarjävri<s n="np"/></r></p></e>
     <e><p><l>Inarilappisches<s n="np"/></l><r>Inarilappisches<s n="np"/></r></p></e>
     <e><p><l>Inbyn<s n="np"/></l><r>Inbyn<s n="np"/></r></p></e>
     <e><p><l>Inchon<s n="np"/></l><r>Inchon<s n="np"/></r></p></e>
@@ -36355,7 +36357,7 @@
     <e><p><l>Karakoram<s n="np"/></l><r>Karakoram<s n="np"/></r></p></e>
     <e><p><l>Karakorum<s n="np"/></l><r>Karakorum<s n="np"/></r></p></e>
     <e><p><l>Karan<s n="np"/></l><r>Karan<s n="np"/></r></p></e>
-    <e><p><l>Karasjok<s n="np"/></l><r>Karasjok<s n="np"/></r></p></e>
+    <e><p><l>Karasjok<s n="np"/></l><r>Kárášjuuhâ<s n="np"/></r></p></e>
     <e><p><l>Karasjokrennet<s n="np"/></l><r>Karasjokrennet<s n="np"/></r></p></e>
     <e><p><l>Karasprinten<s n="np"/></l><r>Karasprinten<s n="np"/></r></p></e>
     <e><p><l>Karasti<s n="np"/></l><r>Karasti<s n="np"/></r></p></e>
@@ -36384,7 +36386,7 @@
     <e><p><l>Karibakken<s n="np"/></l><r>Karibakken<s n="np"/></r></p></e>
     <e><p><l>Karibhavet<s n="np"/></l><r>Karibhavet<s n="np"/></r></p></e>
     <e><p><l>Karibia<s n="np"/></l><r>Karibia<s n="np"/></r></p></e>
-    <e><p><l>Karigasniemi<s n="np"/></l><r>Karigasniemi<s n="np"/></r></p></e>
+    <e><p><l>Karigasniemi<s n="np"/></l><r>Kärigâsnjargâ<s n="np"/></r></p></e>
     <e><p><l>Karikoski<s n="np"/></l><r>Karikoski<s n="np"/></r></p></e>
     <e><p><l>Karila<s n="np"/></l><r>Karila<s n="np"/></r></p></e>
     <e><p><l>Karilainen<s n="np"/></l><r>Karilainen<s n="np"/></r></p></e>
@@ -36611,7 +36613,7 @@
     <e><p><l>Kauto<s n="np"/></l><r>Kauto<s n="np"/></r></p></e>
     <e><p><l>Kautokeino<b/>Boligselskap<s n="np"/></l><r>Kautokeino<b/>Boligselskap<s n="np"/></r></p></e>
     <e><p><l>Kautokeino<b/>kommune<s n="np"/></l><r>Kautokeino<b/>kommune<s n="np"/></r></p></e>
-    <e><p><l>Kautokeino<s n="np"/></l><r>Kautokeino<s n="np"/></r></p></e>
+    <e><p><l>Kautokeino<s n="np"/></l><r>Kuovdâkiäinu<s n="np"/></r></p></e>
     <e><p><l>Kautokeinostudier<s n="np"/></l><r>Kautokeinostudier<s n="np"/></r></p></e>
     <e><p><l>Kautokeinoveien<s n="np"/></l><r>Kautokeinoveien<s n="np"/></r></p></e>
     <e><p><l>Kautonen<s n="np"/></l><r>Kautonen<s n="np"/></r></p></e>
@@ -38533,7 +38535,7 @@
     <e><p><l>Kääriä<s n="np"/></l><r>Kääriä<s n="np"/></r></p></e>
     <e><p><l>Kääriäinen<s n="np"/></l><r>Kääriäinen<s n="np"/></r></p></e>
     <e><p><l>Kåfjord<b/>kommune<s n="np"/></l><r>Kåfjord<b/>kommune<s n="np"/></r></p></e>
-    <e><p><l>Kåfjord<s n="np"/></l><r>Kåfjord<s n="np"/></r></p></e>
+    <e><p><l>Kåfjord<s n="np"/></l><r>Kaivuonâ<s n="np"/></r></p></e>
     <e><p><l>Kårdal<s n="np"/></l><r>Kårdal<s n="np"/></r></p></e>
     <e><p><l>Kåre<s n="np"/></l><r>Kåre<s n="np"/></r></p></e>
     <e><p><l>Kårevik<s n="np"/></l><r>Kårevik<s n="np"/></r></p></e>
@@ -42576,7 +42578,7 @@
     <e><p><l>Nesoddtangen<s n="np"/></l><r>Nesoddtangen<s n="np"/></r></p></e>
     <e><p><l>Ness<s n="np"/></l><r>Ness<s n="np"/></r></p></e>
     <e><p><l>Nesse<s n="np"/></l><r>Nesse<s n="np"/></r></p></e>
-    <e><p><l>Nesseby<s n="np"/></l><r>Nesseby<s n="np"/></r></p></e>
+    <e><p><l>Nesseby<s n="np"/></l><r>Uunjargâ<s n="np"/></r></p></e>
     <e><p><l>Nesset<s n="np"/></l><r>Nesset<s n="np"/></r></p></e>
     <e><p><l>Nessvold<s n="np"/></l><r>Nessvold<s n="np"/></r></p></e>
     <e><p><l>Nestlé<s n="np"/></l><r>Nestlé<s n="np"/></r></p></e>
@@ -44952,7 +44954,7 @@
     <e><p><l>Poromies<s n="np"/></l><r>Poromies<s n="np"/></r></p></e>
     <e><p><l>Porrassalmi<s n="np"/></l><r>Porrassalmi<s n="np"/></r></p></e>
     <e><p><l>Porri<s n="np"/></l><r>Porri<s n="np"/></r></p></e>
-    <e><p><l>Porsanger<s n="np"/></l><r>Porsanger<s n="np"/></r></p></e>
+    <e><p><l>Porsanger<s n="np"/></l><r>Porsaŋg<s n="np"/></r></p></e>
     <e><p><l>Porsangerfjord<s n="np"/></l><r>Porsangerfjord<s n="np"/></r></p></e>
     <e><p><l>Porsangerhalvøya<s n="np"/></l><r>Porsangerhalvøya<s n="np"/></r></p></e>
     <e><p><l>Porsangermoen<s n="np"/></l><r>Porsangermoen<s n="np"/></r></p></e>
@@ -50568,7 +50570,7 @@
     <e><p><l>Tamsøy<s n="np"/></l><r>Tamsøy<s n="np"/></r></p></e>
     <e><p><l>Tamsøya<s n="np"/></l><r>Tamsøya<s n="np"/></r></p></e>
     <e><p><l>Tamworth<s n="np"/></l><r>Tamworth<s n="np"/></r></p></e>
-    <e><p><l>Tana<s n="np"/></l><r>Tana<s n="np"/></r></p></e>
+    <e><p><l>Tana<s n="np"/></l><r>Tiänu<s n="np"/></r></p></e>
     <e><p><l>Tanaby<s n="np"/></l><r>Tanaby<s n="np"/></r></p></e>
     <e><p><l>Tanadalen<s n="np"/></l><r>Tanadalen<s n="np"/></r></p></e>
     <e><p><l>Tananarive<s n="np"/></l><r>Tananarive<s n="np"/></r></p></e>
