@@ -6,6 +6,10 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
+aigin/aigin.missing.freq -text
+aigin/aigin.missing.lemma.rev -text
+aigin/aigin.missing.smefst.freq -text
+aigin/aigin.smn -text
 /apertium-sme-smn.sme-smn.dix -text
 /apertium-sme-smn.sme-smn.lrx -text
 /apertium-sme-smn.sme-smn.t1x -text
