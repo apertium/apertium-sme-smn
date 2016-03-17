@@ -2031,6 +2031,7 @@
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="foc-1Posit"><with-param pos="1"/></call-macro>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <out>
@@ -2701,10 +2702,12 @@
         <pattern-item n="agreem-sg"/>                   
       </pattern>     
       <action>
+        <call-macro n="foc-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="agreement-adj-ind-sg-2Posit"><with-param pos="1"/><with-param pos="2"/></call-macro>
+        <call-macro n="foc-1Posit"><with-param pos="2"/></call-macro>
         <out>
           <chunk name="agreement-np">
             <tags>
@@ -2847,6 +2850,7 @@
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="foc-1Posit"><with-param pos="1"/></call-macro>
+        <call-macro n="foc-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
@@ -2922,6 +2926,7 @@
         <pattern-item n="agreem-sg-gen"/>                   
       </pattern>     
       <action>
+        <call-macro n="foc-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
@@ -3628,7 +3633,7 @@
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <out>
-          <chunk name="default" case="caseFirstWord">
+          <chunk name="numsem" case="caseFirstWord">
             <tags>
               <tag><clip pos="1" side="sl" part="a_func"/></tag>
             </tags>
