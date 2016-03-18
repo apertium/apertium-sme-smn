@@ -315,7 +315,7 @@
     <e><p><l>goittotge<s n="pcle"/></l><r>kuittâg<s n="pcle"/></r></p></e>
 
     <!-- ASECTION: Adverbs -->
-    
+    <e><p><l>maŋosguvlui<s n="adv"/></l><r>maŋaskulij<s n="adv"/></r></p></e>
     <e><p><l>gurutbealde<s n="adv"/></l><r>čižetpeln<s n="adv"/></r></p></e>
     <e><p><l>olgešbealde<s n="adv"/></l><r>uálgispeln<s n="adv"/></r></p></e>
     <e><p><l>áigá<s n="adv"/></l><r>áigáá<s n="adv"/></r></p></e>
@@ -1007,7 +1007,10 @@
     
     <!-- ASECTION: Nouns --> 
 
-
+    <e><p><l>oaivejorggás<s n="n"/></l><r>uáivijorgáldâh<s n="n"/></r></p></e>
+    <e><p><l>musea<s n="n"/></l><r>museo<s n="n"/></r></p></e>
+    <e><p><l>soahteveahka<s n="n"/></l><r>suátiviehâ<s n="n"/></r></p></e>
+    <e><p><l>mearraguovdi<s n="n"/></l><r>merâkyevdi<s n="n"/></r></p></e>
     <e><p><l>oarjesápmelaš<s n="n"/></l><r>viestârsämmilâš<s n="n"/></r></p></e>
     <e><p><l>ássiidlohku<s n="n"/></l><r>ässeeloho<s n="n"/></r></p></e>
     <e><p><l>nomáda<s n="n"/></l><r>noomaadlâš<s n="adj"/></r></p></e>
@@ -3339,6 +3342,10 @@
     <e><p><l>Čoavččesjávri<s n="np"/></l><r>Čovčjävri<s n="np"/></r></p></e>
 
     <!-- ASECTION: Verbs -->
+    <e><p><l>healkkehit<s n="vblex"/><s n="iv"/></l><r>suorgâniđ<s n="vblex"/></r></p></e>
+    <e><p><l>finadastit<s n="vblex"/><s n="iv"/></l><r>elâččiđ<s n="vblex"/></r></p></e>
+    <e><p><l>čierustuddat<s n="vblex"/><s n="iv"/></l><r>čiärustuđ<s n="vblex"/></r></p></e>
+    <e><p><l>čippostallat<s n="vblex"/><s n="iv"/></l><r>čibástâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>ollahuvvat<s n="vblex"/><s n="iv"/></l><r>olášuđ<s n="vblex"/></r></p></e>
     <e><p><l>sirdásit<s n="vblex"/><s n="iv"/></l><r>sirdâččiđ<s n="vblex"/></r></p></e>
     <e><p><l>heajudit<s n="vblex"/><s n="tv"/></l><r>hiäjudiđ<s n="vblex"/></r></p></e>
@@ -4389,6 +4396,7 @@
     <e><p><l>fal<s n="adv"/></l><r>váá<s n="adv"/></r></p></e>
     <e><p><l>farga<s n="adv"/></l><r>forgâ<s n="adv"/></r></p></e>
     <e><p><l>fargga<s n="adv"/></l><r>forgâ<s n="adv"/></r></p></e>
+    <e><p><l>fárgga<s n="adv"/></l><r>forgâ<s n="adv"/></r></p></e>
     <e><p><l>funet<s n="adv"/></l><r>hyeneeht<s n="adv"/></r></p></e>
     <e><p><l>gallás<s n="adv"/></l><r>kalas<s n="adv"/></r></p></e>
     <e><p><l>garrasit<s n="adv"/></l><r>korrâsávt<s n="adv"/></r></p></e>
