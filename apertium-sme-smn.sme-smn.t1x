@@ -610,6 +610,7 @@
       <attr-item tags="sem_event_food"/>
       <attr-item tags="sem_event_hum"/>
       <attr-item tags="sem_event_plc"/>
+      <attr-item tags="sem_event_plc-elevate"/>
       <attr-item tags="sem_event_time"/>
       <attr-item tags="sem_feat"/>
       <attr-item tags="sem_feat-measr"/>
