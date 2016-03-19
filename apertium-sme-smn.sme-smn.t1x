@@ -1342,6 +1342,33 @@
   </section-def-macros>
   <section-rules>
 
+
+    <rule comment="REGLA: pron-pers">
+      <pattern>
+        <pattern-item n="prn-pers"/>
+      </pattern>
+      <action>
+<!--        <call-macro n="convert-case-nbr-poss1">
+          <with-param pos="1"/>
+        </call-macro>-->
+        <call-macro n="general-macro-1Posit">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="prn-pers" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><var n="func"/></tag>
+<!--              <tag><var n="poss"/></tag>-->
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="REGLA: wordfoc">	 <!-- nieidage / nieida ge   - nieidâ-uv -->									   
       <pattern>															   
         <pattern-item n="word"/>										   
