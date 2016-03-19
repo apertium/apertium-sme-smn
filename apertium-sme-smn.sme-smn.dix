@@ -635,10 +635,22 @@
     <e><p><l>álásjulggiid<s n="adv"/></l><r>päljisjuolgij<s n="adv"/></r></p></e>
     <e><p><l>dassái<s n="adv"/></l><r>tassaaš<s n="adv"/></r></p></e>
 
+
     <!-- ASECTION: Adjectives -->
-
-
     
+    <e><p><l>sieiva<s n="adj"/></l><r>sieivâ<s n="adj"/></r></p></e>
+    <e><p><l>primitiiva<s n="adj"/></l><r>primitiiv<s n="adj"/></r></p></e>
+    <e><p><l>cealkemeahttun<s n="adj"/></l><r>etâmettum<s n="adj"/></r></p></e>
+    <e><p><l>bás<s n="adj"/></l><r>uccâ<s n="adj"/></r></p></e>
+    <e><p><l>rántui<s n="adj"/></l><r>ranttu<s n="adj"/></r></p></e>
+    <e><p><l>gudneáŋgir<s n="adj"/></l><r>kunneeäŋgir<s n="adj"/></r></p></e>
+    <e><p><l>moivvas<s n="adj"/></l><r>moiváá<s n="adj"/></r></p></e>
+    <e><p><l>giivvis<s n="adj"/></l><r>kiijves<s n="adj"/></r></p></e>
+    <e><p><l>ebmui<s n="adj"/></l><r>muččâd<s n="adj"/></r></p></e>
+    <e><p><l>seaŋggabuorre<s n="adj"/></l><r>illávaje<s n="adj"/></r></p></e>
+    <e><p><l>primitiivvalaš<s n="adj"/></l><r>primitivlâš<s n="adj"/></r></p></e>
+    <e><p><l>olmmošmeahttun<s n="adj"/></l><r>olmoošmettum<s n="adj"/></r></p></e>
+    <e><p><l>eahpenjuolgat<s n="adj"/></l><r>epinjuolgâd<s n="adj"/></r></p></e>
     <e><p><l>abstrákta<s n="adj"/></l><r>abstraktâ<s n="adj"/></r></p></e>
     <e><p><l>absurda<s n="adj"/></l><r>absurd<s n="adj"/></r></p></e>
     <e><p><l>addes<s n="adj"/></l><r>adelâš<s n="adj"/></r></p></e>
@@ -1728,7 +1740,7 @@
     
     
     <!-- ASECTION: sme-person names x=x -->
-    
+    <e><p><l>Tást<s n="np"/></l><r>Tást<s n="np"/></r></p></e>
     <e><p><l>Áigin<s n="np"/></l><r>Äigee<s n="np"/></r></p></e>
     <e><p><l>Lávra<s n="np"/></l><r>Lavri<s n="np"/></r></p></e>
     <e><p><l>Heandarat<s n="np"/></l><r>Heandarat<s n="np"/></r></p></e>
@@ -3342,6 +3354,7 @@
     <e><p><l>Čoavččesjávri<s n="np"/></l><r>Čovčjävri<s n="np"/></r></p></e>
 
     <!-- ASECTION: Verbs -->
+    <e><p><l>ábuhit<s n="vblex"/><s n="iv"/></l><r>išediđ<s n="vblex"/></r></p></e>
     <e><p><l>healkkehit<s n="vblex"/><s n="iv"/></l><r>suorgâniđ<s n="vblex"/></r></p></e>
     <e><p><l>finadastit<s n="vblex"/><s n="iv"/></l><r>elâččiđ<s n="vblex"/></r></p></e>
     <e><p><l>čierustuddat<s n="vblex"/><s n="iv"/></l><r>čiärustuđ<s n="vblex"/></r></p></e>
@@ -4131,6 +4144,7 @@
     <e><p><l>seamma<b/>ládje<s n="adv"/></l><r>siämmáánáál<s n="adv"/></r></p></e>
     <e><p><l>ládje<s n="adv"/></l><r>náálá<s n="adv"/></r></p></e>
     <e><p><l>seammalágan<s n="adj"/></l><r>siämmáálágán<s n="adj"/></r></p></e>
+    <e><p><l>seammaárvosaš<s n="adj"/></l><r>siämmáá-árvusâš<s n="adj"/></r></p></e>
     <e><p><l>seammasullasaš<s n="adj"/></l><r>siämmáámuđusâš<s n="adj"/></r></p></e>
     <e><p><l>sierranas<s n="adj"/></l><r>sierâ<s n="adj"/></r></p></e>
     <e><p><l>sieđas<s n="adj"/></l><r>mavresteijee<s n="adj"/></r></p></e>
