@@ -315,6 +315,7 @@
     <e><p><l>goittotge<s n="pcle"/></l><r>kuittâg<s n="pcle"/></r></p></e>
 
     <!-- ASECTION: Adverbs -->
+    <e><p><l>litnásit<s n="adv"/></l><r>linásávt<s n="adv"/></r></p></e>
     <e><p><l>maŋosguvlui<s n="adv"/></l><r>maŋaskulij<s n="adv"/></r></p></e>
     <e><p><l>gurutbealde<s n="adv"/></l><r>čižetpeln<s n="adv"/></r></p></e>
     <e><p><l>olgešbealde<s n="adv"/></l><r>uálgispeln<s n="adv"/></r></p></e>
@@ -637,7 +638,8 @@
 
 
     <!-- ASECTION: Adjectives -->
-    
+
+
     <e><p><l>sieiva<s n="adj"/></l><r>sieivâ<s n="adj"/></r></p></e>
     <e><p><l>primitiiva<s n="adj"/></l><r>primitiiv<s n="adj"/></r></p></e>
     <e><p><l>cealkemeahttun<s n="adj"/></l><r>etâmettum<s n="adj"/></r></p></e>
@@ -1018,7 +1020,12 @@
 
     
     <!-- ASECTION: Nouns --> 
-
+    <e><p><l>soffa<s n="n"/></l><r>sohvá<s n="n"/></r></p></e>
+    <e><p><l>vilbealli<s n="n"/></l><r>viljâpeeli<s n="n"/></r></p></e>
+    <e><p><l>eahpádus<s n="n"/></l><r>iäpádâs<s n="n"/></r></p></e>
+    <e><p><l>gufihtar<s n="n"/></l><r>kufittâr<s n="n"/></r></p></e>
+    <e><p><l>helikopter<s n="n"/></l><r>helikopter<s n="n"/></r></p></e>
+    <e><p><l>govadas<s n="n"/></l><r>govádâs<s n="n"/></r></p></e>
     <e><p><l>oaivejorggás<s n="n"/></l><r>uáivijorgáldâh<s n="n"/></r></p></e>
     <e><p><l>musea<s n="n"/></l><r>museo<s n="n"/></r></p></e>
     <e><p><l>soahteveahka<s n="n"/></l><r>suátiviehâ<s n="n"/></r></p></e>
@@ -1438,6 +1445,7 @@
     <e><p><l>láhka<s n="n"/></l><r>laahâ<s n="n"/></r></p></e>
     <e><p><l>láse<s n="n"/></l><r>laasâ<s n="n"/></r></p></e>
     <e><p><l>láseráigi<s n="n"/></l><r>lasâräigi<s n="n"/></r></p></e>
+    <e><p><l>rehpenráigi<s n="n"/></l><r>reeppinräigi<s n="n"/></r></p></e>
     <e><p><l>lávdu<s n="n"/></l><r>lavdâm<s n="n"/></r></p></e>
     <e><p><l>láđasmánnu<s n="n"/></l><r>lađâsmáánu<s n="n"/></r></p></e>
     <e><p><l>mammografiija<s n="n"/></l><r>mammografia<s n="n"/></r></p></e>
@@ -1744,6 +1752,7 @@
     <e><p><l>Áigin<s n="np"/></l><r>Äigee<s n="np"/></r></p></e>
     <e><p><l>Lávra<s n="np"/></l><r>Lavri<s n="np"/></r></p></e>
     <e><p><l>Heandarat<s n="np"/></l><r>Heandarat<s n="np"/></r></p></e>
+    <e><p><l>Janett<s n="np"/></l><r>Janett<s n="np"/></r></p></e>
     <e><p><l>Aanna<s n="np"/></l><r>Aanna<s n="np"/></r></p></e>
     <e><p><l>Aarne<s n="np"/></l><r>Aarne<s n="np"/></r></p></e>
     <e><p><l>Aarre<s n="np"/></l><r>Aarre<s n="np"/></r></p></e>
@@ -3354,6 +3363,10 @@
     <e><p><l>Čoavččesjávri<s n="np"/></l><r>Čovčjävri<s n="np"/></r></p></e>
 
     <!-- ASECTION: Verbs -->
+    <e><p><l>jávohuvvat<s n="vblex"/><s n="iv"/></l><r>josijduđ<s n="vblex"/></r></p></e>
+    <e><p><l>seaivut<s n="vblex"/><s n="iv"/></l><r>siäivuđ<s n="vblex"/></r></p></e>
+    <e><p><l>lasihastit<s n="vblex"/><s n="iv"/></l><r>lasettistiđ<s n="vblex"/></r></p></e>
+    <e><p><l>náđđut<s n="vblex"/><s n="iv"/></l><r>nááđđuđ<s n="vblex"/></r></p></e>
     <e><p><l>ábuhit<s n="vblex"/><s n="iv"/></l><r>išediđ<s n="vblex"/></r></p></e>
     <e><p><l>healkkehit<s n="vblex"/><s n="iv"/></l><r>suorgâniđ<s n="vblex"/></r></p></e>
     <e><p><l>finadastit<s n="vblex"/><s n="iv"/></l><r>elâččiđ<s n="vblex"/></r></p></e>
@@ -6003,6 +6016,7 @@
     <e><p><l>mierká<s n="n"/></l><r>miärkká<s n="n"/></r></p></e>
     <e><p><l>miestta<s n="n"/></l><r>miestâ<s n="n"/></r></p></e>
     <e><p><l>mihcamárat<s n="n"/><s n="pl"/></l><r>jonsahpeivi<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>mihcamáreahket<s n="n"/><s n="pl"/></l><r>jonsahpeiveehid<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>mihttomearri<s n="n"/></l><r>mittomeeri<s n="n"/></r></p></e>
     <e><p><l>mihttu<s n="n"/></l><r>mitto<s n="n"/></r></p></e>
     <e><p><l>millu<s n="n"/><s n="g3"/></l><r>millo<s n="n"/></r></p></e>
@@ -6094,6 +6108,7 @@
     <e><p><l>máttabátni<s n="n"/></l><r>madâpääni<s n="n"/></r></p></e>
     <e><p><l>máttarvánhen<s n="n"/></l><r>maadâr<s n="n"/></r></p></e>
     <e><p><l>máttaráddjá<s n="n"/></l><r>madâräijih<s n="n"/></r></p></e>
+    <e><p><l>máttaráhkku<s n="n"/></l><r>madârákku<s n="n"/></r></p></e>
     <e><p><l>máttasámegiella<s n="n"/></l><r>maadâsämikielâ<s n="n"/></r></p></e>
     <e><p><l>máđir<s n="n"/></l><r>vielgismääđir<s n="n"/></r></p></e>
     <e><p><l>nagir<s n="n"/></l><r>naver<s n="n"/></r></p></e>
