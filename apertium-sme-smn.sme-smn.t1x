@@ -1695,7 +1695,7 @@
       <action>
         <call-macro n="general-macro-1Posit"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="nom" case="caseFirstWord">
+          <chunk name="noun" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><var n="func"/></tag> 
@@ -1763,7 +1763,7 @@
         <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
         <out>
-          <chunk name="nom" case="caseFirstWord">
+          <chunk name="noun" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><var n="func"/></tag> 
@@ -1798,7 +1798,7 @@
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <out>
-          <chunk name="nom" case="caseFirstWord">
+          <chunk name="noun" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><var n="func"/></tag> 
@@ -1866,7 +1866,7 @@
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <out>
-          <chunk name="nom" case="caseFirstWord">
+          <chunk name="noun" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><var n="func"/></tag> 
