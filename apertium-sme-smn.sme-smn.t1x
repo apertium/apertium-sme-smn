@@ -1370,6 +1370,7 @@
       </action>
     </rule>
 
+    
     <rule comment="REGLA: wordfoc">	 <!-- nieidage / nieida ge   - nieidâ-uv -->									   
       <pattern>															   
         <pattern-item n="word"/>										   
@@ -1692,7 +1693,7 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
-        <call-macro n="general-macro-1Posit"><with-param pos="1"/></call-macro>
+<!--        <call-macro n="general-macro-1Posit"><with-param pos="1"/></call-macro>-->
         <out>
           <chunk name="nom" case="caseFirstWord">
             <tags>
@@ -2089,7 +2090,7 @@
         <out>
           <chunk name="adv" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="ADV"/></tag>
               <tag><var n="func"/></tag> 
             </tags>
             <lu>
@@ -2100,6 +2101,9 @@
       </action>
     </rule> 
 
+
+
+    
     <rule comment="REGLA: adj">
       <pattern>
         <pattern-item n="adj"/>
@@ -2563,7 +2567,7 @@
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let> 
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
        <out>
-          <chunk name="adj-noun">
+          <chunk name="a-n" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
               <tag><var n="func"/></tag> 
@@ -2578,7 +2582,6 @@
 		    </lu>
           </chunk>
         </out>
-        
       </action>                                  
     </rule> 
 
