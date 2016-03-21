@@ -3830,7 +3830,7 @@
         <out>
           <chunk name="default" case="caseFirstWord">
             <tags>
-              <tag><clip pos="1" side="sl" part="func"/></tag>
+              <tag><clip pos="1" side="sl" part="a_func"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
