@@ -76,7 +76,7 @@
      <def-cat n="verbinf">
       <cat-item tags="vblex.*.inf.*"/>
     </def-cat>
-   <def-cat n="nomcmp">
+   <def-cat n="nouncmp">
       <cat-item tags="*.cmp"/>
       <cat-item tags="*.cmp.guio"/>
     </def-cat>
@@ -113,7 +113,7 @@
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
     </def-cat>
-    <def-cat n="nom"> <!-- not @OBJ→ because of change of wordorder   -->
+    <def-cat n="noun"> <!-- not @OBJ→ because of change of wordorder   -->
       <cat-item tags="*.n.*"/>
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
@@ -1412,8 +1412,8 @@
 
     <rule comment="REGLA: nomcmpfoc">	 <!-- juovlâtoontumuátunaamar-uv -->
       <pattern>															   
-        <pattern-item n="nomcmp"/>
-        <pattern-item n="nom"/>
+        <pattern-item n="nouncmp"/>
+        <pattern-item n="noun"/>
         <pattern-item n="foc"/>		  									   
       </pattern>														   
       <action>															   
@@ -1578,7 +1578,7 @@
 
     <rule comment="REGLA: OBJ to left cmp">
       <pattern>
-        <pattern-item n="nomcmp"/>
+        <pattern-item n="nouncmp"/>
         <pattern-item n="obj_l"/>
       </pattern>
       <action>
@@ -1690,10 +1690,10 @@
 
     <rule comment="REGLA: nom">
       <pattern>
-        <pattern-item n="nom"/>
+        <pattern-item n="noun"/>
       </pattern>
       <action>
-<!--        <call-macro n="general-macro-1Posit"><with-param pos="1"/></call-macro>-->
+        <call-macro n="general-macro-1Posit"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="nom" case="caseFirstWord">
             <tags>
@@ -1710,8 +1710,8 @@
 
     <rule comment="REGLA: nnomcmp 2"><!-- Ándde-guovttos - Aanti-kyehtis  -->
       <pattern>
-        <pattern-item n="nomcmp"/>
-        <pattern-item n="nom"/>
+        <pattern-item n="nouncmp"/>
+        <pattern-item n="noun"/>
       </pattern>
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
@@ -1744,9 +1744,9 @@
 
     <rule comment="REGLA: nnomcmp 3">
       <pattern>
-        <pattern-item n="nomcmp"/>
-        <pattern-item n="nomcmp"/>
-        <pattern-item n="nom"/>
+        <pattern-item n="nouncmp"/>
+        <pattern-item n="nouncmp"/>
+        <pattern-item n="noun"/>
       </pattern>
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
@@ -1787,7 +1787,7 @@
 
     <rule comment="REGLA: npnomcmpadj"> <!-- Estelle-nammasaš . Estelle-nommâsâš -->
       <pattern>
-        <pattern-item n="nomcmp"/>
+        <pattern-item n="nouncmp"/>
         <pattern-item n="adj"/>
       </pattern>
       <action>
@@ -1818,8 +1818,8 @@
 <!--    <rule comment="REGLA: adj attr nomcmp">
       <pattern>
         <pattern-item n="attr"/>
-        <pattern-item n="nomcmp"/>
-        <pattern-item n="nom"/>
+        <pattern-item n="nouncmp"/>
+        <pattern-item n="noun"/>
       </pattern>
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
@@ -1857,7 +1857,7 @@
     <rule comment="REGLA: numcmp"> <!-- viđajahkásaš - viiđâihásâš -->
       <pattern>
         <pattern-item n="numcmp"/>
-        <pattern-item n="nom"/>
+        <pattern-item n="noun"/>
       </pattern>
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
@@ -2558,7 +2558,7 @@
     <rule comment="REGLA: buorre attr"> <!-- Lea buorre dálki odne. Lii šiev šoŋŋâ onne.  -->                                            
       <pattern>                                        
         <pattern-item n="buorre"/>                 
-        <pattern-item n="nom"/>                   
+        <pattern-item n="noun"/>                   
       </pattern>     
       <action>
         <let><clip pos="1" side="tl" part="lem"/><lit v="šiev"/></let> 
@@ -2874,7 +2874,7 @@
     <rule comment="REGLA: agreement-attr cmp n-sg agreement">  <!-- vuosttaš biilagirji - vuosmuš autokirje -->                                           
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
-        <pattern-item n="nomcmp"/>
+        <pattern-item n="nouncmp"/>
         <pattern-item n="agreem-sg"/>                   
       </pattern>     
       <action>
@@ -2914,7 +2914,7 @@
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
         <pattern-item n="attr"/>
-        <pattern-item n="nomcmp"/>
+        <pattern-item n="nouncmp"/>
         <pattern-item n="agreem-sg"/>                   
       </pattern>     
       <action>
@@ -3047,7 +3047,7 @@
     <rule comment="REGLA: agreement-attr cmp n-sg-gen">  <!-- vuosttaš biilagirjái - vuosmuu autokiirján -->                                         
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
-        <pattern-item n="nomcmp"/>
+        <pattern-item n="nouncmp"/>
         <pattern-item n="agreem-sg-gen"/>                   
       </pattern>     
       <action>
@@ -3092,7 +3092,7 @@
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
         <pattern-item n="attr"/>
-        <pattern-item n="nomcmp"/>
+        <pattern-item n="nouncmp"/>
         <pattern-item n="agreem-sg-gen"/>                   
       </pattern>     
       <action>
@@ -3227,7 +3227,7 @@
     <rule comment="REGLA: agreement-num-attr cmp n-sg-com "> <!-- birgen vihttanuppelot biilagirjjiin - piergiim vitnubáluvvijn autokirjijn. -->                                            
       <pattern>                                        
         <pattern-item n="numattr"/>                 
-        <pattern-item n="nomcmp"/>
+        <pattern-item n="nouncmp"/>
         <pattern-item n="n-sg-com"/>                   
       </pattern>     
       <action>
@@ -3274,7 +3274,7 @@
       <pattern>                                        
         <pattern-item n="numattr"/>                 
         <pattern-item n="attr"/>
-        <pattern-item n="nomcmp"/>
+        <pattern-item n="nouncmp"/>
         <pattern-item n="n-sg-com"/>                   
       </pattern>     
       <action>
@@ -3378,7 +3378,7 @@
     <rule comment="REGLA: agreement-num-attr cmp n-sg-com "> 
       <pattern>                                        
         <pattern-item n="numattr"/>                 
-        <pattern-item n="nomcmp"/>
+        <pattern-item n="nouncmp"/>
         <pattern-item n="n-sg-accgen"/>                   
       </pattern>     
       <action>
@@ -3470,7 +3470,7 @@
     <rule comment="REGLA: agreement-attr cmp n-pl"> <!-- vuosttaš biilagirjjit – vuosmuuh autokirjeh -->                                            
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
-        <pattern-item n="nomcmp"/>
+        <pattern-item n="nouncmp"/>
         <pattern-item n="agreem-pl"/>                   
       </pattern>     
       <action>
@@ -3554,7 +3554,7 @@
      <rule comment="REGLA: agreement puohah cmp n-pl"> <!-- buot biilaolbmot - puohah autoulmuuh -->
       <pattern>                                        
         <pattern-item n="agreement-buot"/>                 
-        <pattern-item n="nomcmp"/>
+        <pattern-item n="nouncmp"/>
         <pattern-item n="agreem-pl"/>                   
       </pattern>     
       <action>
@@ -3822,11 +3822,11 @@
       </pattern>    
       <action>
       <choose><when>
-      <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Seahkas ii leat mihkkege. - Seehâst ij lah mihheen.-->
-              <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
-              </when>
-		</choose>      
-        <call-macro n="general-macro-1Posit"><with-param pos="1"/></call-macro>
+          <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Seahkas ii leat mihkkege. - Seehâst ij lah mihheen.-->
+          <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
+          </when>
+       </choose>      
+       <call-macro n="general-macro-1Posit"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="default" case="caseFirstWord">
             <tags>
