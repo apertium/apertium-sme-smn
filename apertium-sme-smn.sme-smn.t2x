@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- -*- nxml -*- -->
+
+<!--
+t1x local rules, chunking
+t2x word order
+t3x not written
+
+This file:
+
+Rules:
+
+REGLA: SN">
+REGLA: SUBJ"> Dalle ledjen mun ain vuođđoskuvllas. - Talle mun lijjim ain vuáđuškoovlâst. 
+REGLA: SPRED"> Makkár sátni lea dát? - Maggaar sääni taat lii? 
+REGLA: OBJ">
+REGLA: PR_PO">
+
+
+-->
+
 <interchunk>
   <section-def-cats>
     <def-cat n="beforeObj">
