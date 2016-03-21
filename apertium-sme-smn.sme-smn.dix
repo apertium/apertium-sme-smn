@@ -315,6 +315,8 @@
     <e><p><l>goittotge<s n="pcle"/></l><r>kuittâg<s n="pcle"/></r></p></e>
 
     <!-- ASECTION: Adverbs -->
+    
+    <e><p><l>ánssáškeahttá<s n="adv"/></l><r>áánsášhánnáá<s n="adv"/></r></p></e><!-- not in sme; MLO: no adjective; removed from adjectives -->
     <e><p><l>litnásit<s n="adv"/></l><r>linásávt<s n="adv"/></r></p></e>
     <e><p><l>maŋosguvlui<s n="adv"/></l><r>maŋaskulij<s n="adv"/></r></p></e>
     <e><p><l>gurutbealde<s n="adv"/></l><r>čižetpeln<s n="adv"/></r></p></e>
@@ -3556,7 +3558,7 @@
     <e><p><l>láitit<s n="vblex"/><s n="tv"/></l><r>läittiđ<s n="vblex"/></r></p></e> 
     <e><p><l>lávet<s n="vblex"/><s n="tv"/></l><r>laaviđ<s n="vblex"/></r></p></e>
     <e><p><l>mannat<s n="vblex"/><s n="iv"/></l><r>moonnâđ<s n="vblex"/></r></p></e>
-    <e><p><l>mearrašuvvat<s n="vblex"/><s n="tv"/></l><r>miärášuđ<s n="vblex"/></r></p></e><!-- OBS! MLO check lemma--> 
+    <e><p><l>mearrašuvvat<s n="vblex"/><s n="tv"/></l><r>miärášuđ<s n="vblex"/></r></p></e><!-- OBS! MLO check lemma, done--> 
     <e><p><l>mieskat<s n="vblex"/><s n="iv"/></l><r>mieskâđ<s n="vblex"/></r></p></e> 
     <e><p><l>movttiidahttit<s n="vblex"/><s n="tv"/></l><r>movtijdittiđ<s n="vblex"/></r></p></e>
     <e><p><l>movttiidit<s n="vblex"/><s n="iv"/></l><r>movtidiđ<s n="vblex"/></r></p></e> 
@@ -4017,7 +4019,7 @@
     <e><p><l>miellagiddevaš<s n="adj"/></l><r>mielâkiddiivâš<s n="adj"/></r></p></e>
     <e><p><l>miellasaš<s n="adj"/></l><r>mielâsâš<s n="adj"/></r></p></e>
     <e><p><l>mirkkolaš<s n="adj"/></l><r>mirhâlâš<s n="adj"/></r></p></e>
-    <e><p><l>mollui<s n="adj"/></l><r>smiäru<s n="adj"/></r></p></e><!-- not in sme; MLO: only in compounds, 1st part -->
+    <e><p><l>mollui<s n="adj"/></l><r>smiäru<s n="adj"/></r></p></e><!-- not in sme; MLO: only in compounds, 1st part; someone has to solve this technically -->
     <e><p><l>morašlaš<s n="adj"/></l><r>murâšlâš<s n="adj"/></r></p></e>
     <e><p><l>morris<s n="adj"/></l><r>murriš<s n="adj"/></r></p></e>
     <e><p><l>muolddas<s n="adj"/></l><r>muldáá<s n="adj"/></r></p></e>
@@ -4313,7 +4315,6 @@
     <e><p><l>álki<s n="adj"/></l><r>älkkee<s n="adj"/></r></p></e>
     <e><p><l>ámmátlaš<s n="adj"/></l><r>áámmátlâš<s n="adj"/></r></p></e>
     <e><p><l>ánssolaš<s n="adj"/></l><r>ánsulâš<s n="adj"/></r></p></e>
-    <e><p><l>ánssáškeahttá<s n="adj"/></l><r>áánsášmettum<s n="adj"/></r></p></e><!-- not in sme; MLO: no adjective -->
     <e><p><l>árgi<s n="adj"/></l><r>ärgi<s n="adj"/></r></p></e>
     <e><p><l>árrat<s n="adj"/></l><r>tooláá<s n="adj"/></r></p></e>
     <e><p><l>ártet<s n="adj"/></l><r>komálâš<s n="adj"/></r></p></e>
@@ -4442,7 +4443,7 @@
     <e><p><l>gitta<s n="adv"/></l><r>kiddâ<s n="adv"/></r></p></e>
     <e><p><l>giđđat<s n="adv"/></l><r>kiđđuv<s n="adv"/></r></p></e>
     <e><p><l>goas<s n="adv"/></l><r>kuás<s n="adv"/></r></p></e>
-    <e><p><l>goaseai<s n="adv"/></l><r>aldasáid<s n="adv"/></r></p></e><!-- MLO: do not know the word -->
+    <e><p><l>goaseai<s n="adv"/></l><r>masa<s n="adv"/></r></p></e><
     <e><p><l>goasii<s n="adv"/></l><r>aldasáid<s n="adv"/></r></p></e>
     <e><p><l>goasse<s n="adv"/></l><r>kuássin<s n="adv"/></r></p></e>
     <e><p><l>goassege<s n="adv"/></l><r>kuássin<s n="adv"/></r></p></e>
