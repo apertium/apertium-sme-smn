@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- -*- nxml -*- -->
+
+<!--
+t1x local rules, chunking
+t2x word order
+t3x not written
+
+This file:
+
+Rules:
+One dummy rule
+-->
+
 <postchunk>
   <section-def-cats>
     <def-cat n="sent">
@@ -10,13 +22,14 @@
     <def-attr n="nbr">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
-      <attr-item tags="sp"/>
-      <attr-item tags="ND"/>
+      <attr-item tags="sp"/> <!-- delete -->
+      <attr-item tags="ND"/> <!-- delete -->
     </def-attr>
   </section-def-attrs>
   <section-def-vars>
     <def-var n="paraula"/>
   </section-def-vars>
+  
   <section-rules>
     <rule comment="CHUNK:">
       <pattern>
