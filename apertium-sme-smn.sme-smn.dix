@@ -167,6 +167,7 @@
     <e><p><l>goappat<b/>guoibmi<s n="prn"/></l><r>kuábáš-uv<b/>kyeimi<s n="prn"/></r></p></e>
     <e><p><l>goabbat<b/>guoibmi<s n="prn"/></l><r>kuábáš-uv<b/>kyeimi<s n="prn"/></r></p></e>
     <e><p><l>buot<s n="prn"/></l><r>puoh<s n="prn"/></r></p></e>   
+    <e><p><l>buohkat<s n="prn"/></l><r>puohah<s n="prn"/></r></p></e>
     <e><p><l>buot<s n="prn"/></l><r>puohah<s n="prn"/></r></p></e>   
 <!--    <e><p><l>iešguhtet<s n="prn"/></l><r>jieškote-uv<s n="prn"/></r></p></e> -->
     <e><p><l>iešguhtet<s n="prn"/><s n="ind"/></l><r>sierâ<s n="adj"/></r></p></e>
@@ -186,7 +187,6 @@
     <e><p><l>juobbá<s n="prn"/></l><r>nubbe<s n="prn"/></r></p></e>
     <e><p><l>juobbágoabbá<s n="prn"/></l><r>juábáškuábáš<s n="prn"/></r></p></e>
 <!-- pronouns moved up from B-Chapter: -->
-    <e><p><l>buohkat<s n="prn"/></l><r>puohah<s n="prn"/></r></p></e>
     <e><p><l>dakkár<s n="prn"/></l><r>taggaar<s n="prn"/></r></p></e>
     <e><p><l>duokkár<s n="prn"/></l><r>tuággáár<s n="prn"/></r></p></e>
     <e><p><l>diet<s n="prn"/></l><r>tiet<s n="prn"/></r></p></e>
@@ -505,7 +505,7 @@
     <e><p><l>boššolii<s n="adv"/></l><r>puáššuláá<s n="adv"/></r></p></e>
     <e><p><l>botnjut<s n="adv"/></l><r>ponnjood<s n="adv"/></r></p></e>
     <e><p><l>bahkkadievva<s n="adv"/></l><r>pakkâtievâ<s n="adv"/></r></p></e>
-    <e><p><l>bahkka<s n="adv"/></l><r>pakkâ<s n="adv"/></r></p></e>
+    <e><p><l>bahkka<s n="adv"/></l><r>naggâ<s n="adv"/></r></p></e>
     <e><p><l>badjelmeari<s n="adv"/></l><r>meendu<s n="adv"/></r></p></e>
     <e><p><l>badjelmeare<s n="adv"/></l><r>meendu<s n="adv"/></r></p></e>
     <e><p><l>badjebadjálagaid<s n="adv"/></l><r>pajaluvâi<s n="adv"/></r></p></e>
@@ -640,6 +640,7 @@
     <!-- ASECTION: Adjectives -->
 
     <e><p><l>binna<s n="adj"/></l><r>ucce<s n="adj"/></r></p></e>
+    <e><p><l><s n="adj"/>seammaárvosaš</l><r>siämmáá-árvusâš<s n="adj"/></r></p></e>
     <e><p><l>bánna<s n="adj"/></l><r>siemin<s n="adj"/></r></p></e>
     <e><p><l>sieiva<s n="adj"/></l><r>sieivâ<s n="adj"/></r></p></e>
     <e><p><l>primitiiva<s n="adj"/></l><r>primitiiv<s n="adj"/></r></p></e>
@@ -1022,6 +1023,9 @@
     
     <!-- ASECTION: Nouns --> 
     <e><p><l>soffa<s n="n"/></l><r>sohvá<s n="n"/></r></p></e>
+    <e><p><l>offiseara<s n="n"/></l><r>upseer<s n="n"/></r></p></e>
+    <e><p><l>snuvsa<s n="n"/></l><r>nuuská<s n="n"/></r></p></e>
+    <e><p><l>kástarulla<s n="n"/></l><r>kiemni<s n="n"/></r></p></e>
     <e><p><l>vilbealli<s n="n"/></l><r>viljâpeeli<s n="n"/></r></p></e>
     <e><p><l>eahpádus<s n="n"/></l><r>iäpádâs<s n="n"/></r></p></e>
     <e><p><l>gufihtar<s n="n"/></l><r>kufittâr<s n="n"/></r></p></e>
@@ -4188,6 +4192,7 @@
     <e><p><l>somá<s n="adj"/></l><r>suámi<s n="adj"/></r></p></e>
     <e><p><l>sosialisttalaš<s n="adj"/></l><r>sosialistlâš<s n="adj"/></r></p></e>
     <e><p><l>sosiála<s n="adj"/></l><r>sosiaallâš<s n="adj"/></r></p></e>
+    <e><p><l>sosiála<s n="adj"/></l><r>sosiaal<s n="adj"/></r></p></e>
     <e><p><l>speanta<s n="adj"/></l><r>jiäráskittee<s n="adj"/></r></p></e>
     <e><p><l>spállái<s n="adj"/></l><r>rossii<s n="adj"/></r></p></e>
     <e><p><l>spánska<s n="adj"/></l><r>espanjalâš<s n="adj"/></r></p></e>
