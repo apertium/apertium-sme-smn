@@ -370,8 +370,8 @@
     <e><p><l>moktige<s n="adv"/></l><r>mahten<s n="adv"/></r></p></e>
     <e><p><l>maŋŋiteahket<s n="adv"/></l><r>ehidist mannjeed<s n="adv"/></r></p></e>
     <e><p><l>ihkinassii<s n="adv"/></l><r>ihenis<s n="adv"/></r></p></e>
-    <e><p><l>iešalddis<s n="adv"/></l><r>jiešalnees<s n="adv"/></r></p></e> !-- su. itse asiassa -->
-    <e><p><l>iešalddis<s n="adv"/></l><r>jiešmeidlist<s n="adv"/></r></p></e> !-- su. itsestään, itsekseen (dáhpáhuvvá veahki haga) -->
+    <e><p><l>iešalddis<s n="adv"/></l><r>jiešalnees<s n="adv"/></r></p></e> <!-- su. itse asiassa -->
+    <e><p><l>iešalddis<s n="adv"/></l><r>jiešmeidlist<s n="adv"/></r></p></e> <!-- su. itsestään, itsekseen (dáhpáhuvvá veahki haga) -->
     <e><p><l>goal<s n="adv"/></l><r>kuál<s n="adv"/></r></p></e>
     <e><p><l>čoahkis<s n="adv"/></l><r>čuáhist<s n="adv"/></r></p></e>
     <e><p><l>vuollai<s n="adv"/></l><r>vyellin<s n="adv"/></r></p></e>
@@ -3384,6 +3384,9 @@
     <e><p><l>Čoavččesjávri<s n="np"/></l><r>Čovčjävri<s n="np"/></r></p></e>
 
     <!-- ASECTION: Verbs -->
+
+    <e><p><l>seivvodit<s n="vblex"/><s n="iv"/></l><r>siäivuđ<s n="vblex"/></r></p></e>
+    <e><p><l>hihtodit<s n="vblex"/><s n="iv"/></l><r>kiäppániđ<s n="vblex"/></r></p></e>
     <e><p><l>jávohuvvat<s n="vblex"/><s n="iv"/></l><r>josijduđ<s n="vblex"/></r></p></e>
     <e><p><l>seaivut<s n="vblex"/><s n="iv"/></l><r>siäivuđ<s n="vblex"/></r></p></e>
     <e><p><l>lasihastit<s n="vblex"/><s n="iv"/></l><r>lasettistiđ<s n="vblex"/></r></p></e>
