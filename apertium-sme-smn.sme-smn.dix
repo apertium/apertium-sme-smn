@@ -314,8 +314,10 @@
     <e><p><l>son<s n="pcle"/></l><r>sun<s n="foc_sun"/></r></p></e>
     <e><p><l>goittotge<s n="pcle"/></l><r>kuittâg<s n="pcle"/></r></p></e>
 
+
     <!-- ASECTION: Adverbs -->
     
+    <e><p><l>albmaláhkai<s n="adv"/></l><r>olmânáál<s n="adv"/></r></p></e>
     <e><p><l>ánssáškeahttá<s n="adv"/></l><r>áánsášhánnáá<s n="adv"/></r></p></e><!-- not in sme; MLO: no adjective; removed from adjectives -->
     <e><p><l>litnásit<s n="adv"/></l><r>linásávt<s n="adv"/></r></p></e>
     <e><p><l>maŋosguvlui<s n="adv"/></l><r>maŋaskulij<s n="adv"/></r></p></e>
@@ -1036,7 +1038,7 @@
 
     
     <!-- ASECTION: Nouns --> 
-    
+    <e><p><l>skávžá<s n="n"/></l><r>njäävvil<s n="n"/></r></p></e>
     <e><p><l>deattálmas<s n="n"/></l><r>peinijâš<s n="n"/></r></p></e>
     <e><p><l>fápmu<s n="n"/></l><r>vyeimi<s n="n"/></r></p></e>
     <e><p><l>soffa<s n="n"/></l><r>sohvá<s n="n"/></r></p></e>
@@ -8158,7 +8160,7 @@
     <e><p><l>molssodit<s n="vblex"/><s n="tv"/></l><r>molsođ<s n="vblex"/></r></p></e>
     <e><p><l>molsut<s n="vblex"/><s n="tv"/></l><r>molsođ<s n="vblex"/></r></p></e>
     <e><p><l>moraštit<s n="vblex"/><s n="tv"/></l><r>murâštiđ<s n="vblex"/></r></p></e>
-    <e><p><l>morihit<s n="vblex"/><s n="iv"/></l><r>morettiđ<s n="vblex"/></r></p></e>
+    <e><p><l>morihit<s n="vblex"/><s n="iv"/></l><r>koccáđ<s n="vblex"/></r></p></e>
     <e><p><l>moskát<s n="vblex"/><s n="iv"/></l><r>muvzáđ<s n="vblex"/></r></p></e>
     <e><p><l>movttáskit<s n="vblex"/><s n="iv"/></l><r>movtáskiđ<s n="vblex"/></r></p></e>
     <e><p><l>muhttot<s n="vblex"/><s n="iv"/></l><r>muttuđ<s n="vblex"/></r></p></e>
@@ -10045,10 +10047,6 @@
     <e><p><l>jođašit<s n="vblex"/><s n="iv"/></l><r>joreštiđ<s n="vblex"/></r></p></e>
     <e><p><l>jođašit<s n="vblex"/><s n="iv"/></l><r>jurâdiđ<s n="vblex"/></r></p></e>
     <e><p><l>jođašit<s n="vblex"/><s n="iv"/></l><r>jutâliđ<s n="vblex"/></r></p></e>
-    <e><p><l>čákŋalit<s n="vblex"/><s n="tv"/></l><r>kuápuliđ<s n="vblex"/></r></p></e>
-    <e><p><l>čákŋalit<s n="vblex"/><s n="tv"/></l><r>lavkkiđ<s n="vblex"/></r></p></e>
-    <e><p><l>čákŋalit<s n="vblex"/><s n="tv"/></l><r>roohâđ<s n="vblex"/></r></p></e>
-    <e><p><l>čákŋalit<s n="vblex"/><s n="tv"/></l><r>spiddáádâttâđ<s n="vblex"/></r></p></e>
     <e><p><l>deattašit<s n="vblex"/><s n="tv"/></l><r>tedâččiđ<s n="vblex"/></r></p></e>
     <e><p><l>buressivdnidit<s n="vblex"/><s n="tv"/></l><r>sivnediđ<s n="vblex"/></r></p></e>
     <e><p><l>oaidnalit<s n="vblex"/><s n="iv"/></l><r>oinâliđ<s n="vblex"/></r></p></e>
