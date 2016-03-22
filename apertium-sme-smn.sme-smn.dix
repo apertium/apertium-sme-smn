@@ -370,7 +370,8 @@
     <e><p><l>moktige<s n="adv"/></l><r>mahten<s n="adv"/></r></p></e>
     <e><p><l>maŋŋiteahket<s n="adv"/></l><r>ehidist mannjeed<s n="adv"/></r></p></e>
     <e><p><l>ihkinassii<s n="adv"/></l><r>ihenis<s n="adv"/></r></p></e>
-    <e><p><l>iešalddis<s n="adv"/></l><r>jiešalnees<s n="adv"/></r></p></e>
+    <e><p><l>iešalddis<s n="adv"/></l><r>jiešalnees<s n="adv"/></r></p></e> !-- su. itse asiassa -->
+    <e><p><l>iešalddis<s n="adv"/></l><r>jiešmeidlist<s n="adv"/></r></p></e> !-- su. itsestään, itsekseen (dáhpáhuvvá veahki haga) -->
     <e><p><l>goal<s n="adv"/></l><r>kuál<s n="adv"/></r></p></e>
     <e><p><l>čoahkis<s n="adv"/></l><r>čuáhist<s n="adv"/></r></p></e>
     <e><p><l>vuollai<s n="adv"/></l><r>vyellin<s n="adv"/></r></p></e>
@@ -1035,6 +1036,8 @@
 
     
     <!-- ASECTION: Nouns --> 
+    
+    <e><p><l>fápmu<s n="n"/></l><r>vyeimi<s n="n"/></r></p></e>
     <e><p><l>soffa<s n="n"/></l><r>sohvá<s n="n"/></r></p></e>
     <e><p><l>offiseara<s n="n"/></l><r>upseer<s n="n"/></r></p></e>
     <e><p><l>snuvsa<s n="n"/></l><r>nuuská<s n="n"/></r></p></e>
