@@ -26,6 +26,7 @@ dev/bidix-sanity.sh -text
 dev/complicateddifferences.txt -text
 dev/fi_depts.A.noder.missing -text
 dev/fi_depts.Adv.missing -text
+dev/fi_depts.N.missing -text
 dev/fi_depts.N.nocmp.missing -text
 dev/fi_depts.V.noder.missing -text
 dev/fi_depts_ficti_hash_dgen.freq -text
