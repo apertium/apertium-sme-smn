@@ -1037,6 +1037,7 @@
     
     <!-- ASECTION: Nouns --> 
     
+    <e><p><l>deattálmas<s n="n"/></l><r>peinijâš<s n="n"/></r></p></e>
     <e><p><l>fápmu<s n="n"/></l><r>vyeimi<s n="n"/></r></p></e>
     <e><p><l>soffa<s n="n"/></l><r>sohvá<s n="n"/></r></p></e>
     <e><p><l>offiseara<s n="n"/></l><r>upseer<s n="n"/></r></p></e>
@@ -3383,8 +3384,10 @@
     <e><p><l>Čoavččesjohka<s n="np"/></l><r>Čovčjuuhâ<s n="np"/></r></p></e>
     <e><p><l>Čoavččesjávri<s n="np"/></l><r>Čovčjävri<s n="np"/></r></p></e>
 
-    <!-- ASECTION: Verbs -->
 
+    <!-- ASECTION: Verbs -->
+    
+    <e><p><l>rohttet<s n="vblex"/><s n="iv"/></l><r>ruttiđ<s n="vblex"/></r></p></e>
     <e><p><l>seivvodit<s n="vblex"/><s n="iv"/></l><r>siäivuđ<s n="vblex"/></r></p></e>
     <e><p><l>hihtodit<s n="vblex"/><s n="iv"/></l><r>kiäppániđ<s n="vblex"/></r></p></e>
     <e><p><l>jávohuvvat<s n="vblex"/><s n="iv"/></l><r>josijduđ<s n="vblex"/></r></p></e>
