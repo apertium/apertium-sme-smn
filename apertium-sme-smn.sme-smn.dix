@@ -640,7 +640,17 @@
 
 
     <!-- ASECTION: Adjectives -->
-
+    
+    <e><p><l>psykologalaš<s n="adj"/></l><r>psykologlâš<s n="adj"/></r></p></e>
+    <e><p><l>effektiiva<s n="adj"/></l><r>effektivlâš<s n="adj"/></r></p></e>
+    <e><p><l>giitemeahttun<s n="adj"/></l><r>kijttemettum<s n="adj"/></r></p></e>
+    <e><p><l>gánnetmeahttun<s n="adj"/></l><r>kannatmettum<s n="adj"/></r></p></e>
+    <e><p><l>tropalaš<s n="adj"/></l><r>trooppisâš<s n="adj"/></r></p></e>
+    <e><p><l>ipmilmeahttun<s n="adj"/></l><r>immeelmettum<s n="adj"/></r></p></e>
+    <e><p><l>pedagogalaš<s n="adj"/></l><r>pedagoglâš<s n="adj"/></r></p></e>
+    <e><p><l>massiivvalaš<s n="adj"/></l><r>massivlâš<s n="adj"/></r></p></e>
+    <e><p><l>vuovdnái<s n="adj"/></l><r>vuávnáá<s n="adj"/></r></p></e>
+    <e><p><l>čalbmáičuohcci<s n="adj"/></l><r>čaalmančyeccee<s n="adj"/></r></p></e>
     <e><p><l>binna<s n="adj"/></l><r>ucce<s n="adj"/></r></p></e>
     <e><p><l><s n="adj"/>seammaárvosaš</l><r>siämmáá-árvusâš<s n="adj"/></r></p></e>
     <e><p><l>bánna<s n="adj"/></l><r>siemin<s n="adj"/></r></p></e>
@@ -649,6 +659,7 @@
     <e><p><l>cealkemeahttun<s n="adj"/></l><r>etâmettum<s n="adj"/></r></p></e>
     <e><p><l>bás<s n="adj"/></l><r>uccâ<s n="adj"/></r></p></e>
     <e><p><l>rántui<s n="adj"/></l><r>ranttu<s n="adj"/></r></p></e>
+    <e><p><l>ránto<s n="adj"/></l><r>ranttu<s n="adj"/></r></p></e>
     <e><p><l>gudneáŋgir<s n="adj"/></l><r>kunneeäŋgir<s n="adj"/></r></p></e>
     <e><p><l>moivvas<s n="adj"/></l><r>moiváá<s n="adj"/></r></p></e>
     <e><p><l>giivvis<s n="adj"/></l><r>kiijves<s n="adj"/></r></p></e>
@@ -891,7 +902,7 @@
     <e><p><l>ollesáigásaš<s n="adj"/></l><r>váldutoimâlâš<s n="adj"/></r></p></e>
     <e><p><l>olmmošlaš<s n="adj"/></l><r>olmoošlâš<s n="adj"/></r></p></e>
     <e><p><l>oppamáilmmálaš<s n="adj"/></l><r>ubâmaailmlâš<s n="adj"/></r></p></e>
-    <e><p><l>originála<s n="adj"/></l><r>originaal<s n="adj"/></r></p></e>
+    <e><p><l>originála<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
     <e><p><l>ortodoksa<s n="adj"/></l><r>ortodoks<s n="adj"/></r></p></e>
     <e><p><l>otná<s n="adj"/></l><r>onnáš<s n="adj"/></r></p></e>
     <e><p><l>otnáš<s n="adj"/></l><r>onnáš<s n="adj"/></r></p></e>
@@ -9360,14 +9371,7 @@
     <e><p><l>oahppa<s n="n"/></l><r>oppâ<s n="n"/></r></p></e>
     <e><p><l>organisašuvdna<s n="n"/></l><r>servi<s n="n"/></r></p></e>
 <!--    <e><p><l>organisašuvdna<s n="n"/></l><r>ornijdume<s n="n"/></r></p></e>-->
-    <e><p><l>paragráfa<s n="n"/></l><r>ceehis<s n="n"/></r></p></e>
-    <e><p><l>paragráfa<s n="n"/></l><r>cekki<s n="n"/></r></p></e>
-    <e><p><l>paragráfa<s n="n"/></l><r>maajeeldceehis<s n="n"/></r></p></e>
-    <e><p><l>paragráfa<s n="n"/></l><r>oovdeldceehis<s n="n"/></r></p></e>
-    <e><p><l>paragráfa<s n="n"/></l><r>paajeeldceehis<s n="n"/></r></p></e>
-    <e><p><l>paragráfa<s n="n"/></l><r>pittá<s n="n"/></r></p></e>
-    <e><p><l>paragráfa<s n="n"/></l><r>pohheel<s n="n"/></r></p></e>
-    <e><p><l>perspektiiva<s n="n"/></l><r>uáinimčiehâ<s n="n"/></r></p></e>
+    <e><p><l>paragráfa<s n="n"/></l><r>paragraf<s n="n"/></r></p></e>
     <e><p><l>perspektiiva<s n="n"/></l><r>uáinu<s n="n"/></r></p></e>
     <e><p><l>plakáhta<s n="n"/></l><r>plaakaat<s n="n"/></r></p></e>
     <e><p><l>plakáhta<s n="n"/></l><r>poster<s n="n"/></r></p></e>
