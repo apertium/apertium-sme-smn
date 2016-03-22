@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <!-- -*- nxml -*- -->
 <transfer default="chunk">
 
@@ -247,27 +248,40 @@
     <def-cat n="prn">
       <cat-item tags="prn.*"/>
     </def-cat>
-    <def-cat n="prn-rel">
-      <cat-item tags="prn.rel.*"/>
-    </def-cat>
-    <def-cat n="prn-res">
-      <cat-item tags="prn.res.*"/>
-    </def-cat>
-    <def-cat n="prn-ref">
-      <cat-item tags="prn.ref.*"/>
-    </def-cat>
-    <def-cat n="prn-ref_PRONl">
+    <def-cat n="prn-refl_PRONl">
       <cat-item tags="prn.ref.*.@Pron←"/>
-    </def-cat>
-    <def-cat n="prnitg">
-      <cat-item tags="prn.itg.*"/>
     </def-cat>
     <def-cat n="prn-pl-com">
       <cat-item tags="prn.dem.pl.com.*"/>
       <cat-item tags="prn.itg.pl.com.*"/>
       <cat-item tags="prn.ind.pl.com.*"/>
       <cat-item tags="prn.rel.pl.com.*"/>
-    </def-cat>          
+    </def-cat>
+
+    <def-cat n="prn-res">
+      <cat-item tags="prn.res.*"/>
+    </def-cat>
+    <def-cat n="prn-refl">
+      <cat-item tags="prn.ref.*"/>
+    </def-cat>
+    <def-cat n="prn-rel">
+      <cat-item tags="prn.rel.*"/>
+    </def-cat>
+    <def-cat n="prn-dem">
+      <cat-item tags="prn.dem.*"/>
+    </def-cat>
+    <def-cat n="prn-itg">
+      <cat-item tags="prn.itg.*"/>
+    </def-cat>
+    <def-cat n="prn-indef">
+      <cat-item tags="prn.ind.*"/>
+    </def-cat>
+    <def-cat n="prn-attr">
+      <cat-item tags="prn.ind.attr"/>
+      <cat-item tags="prn.ind.attr.*"/>
+      <cat-item tags="prn.itg.attr.*"/>
+    </def-cat>
+    
     <def-cat n="n-pl-com">
 		<cat-item tags="n.*.pl.com.*"/>   
 		<cat-item tags="n.pl.com.*"/>   
@@ -393,13 +407,28 @@
     <def-cat n="coggat">
       <cat-item lemma="coggat" tags="vblex.*"/>
     </def-cat>
-    <def-cat n="ja">
-      <cat-item lemma="ja" tags="cnjcoo.*"/>
-    </def-cat>
     <def-cat n="maiddái">
       <cat-item lemma="maiddái" tags="adv.*"/>
     </def-cat>
-
+    <def-cat n="ja">
+      <cat-item lemma="ja" tags="cnjcoo.*"/>
+    </def-cat>
+    <def-cat n="cnjcoo">
+      <cat-item tags="cnjcoo"/>
+      <cat-item tags="cnjcoo.*"/>
+    </def-cat>
+    <def-cat n="cnjsub">
+      <cat-item tags="cnjsub"/>
+      <cat-item tags="cnjsub.*"/>
+    </def-cat>
+    <def-cat n="pr">
+      <cat-item tags="pr"/>
+      <cat-item tags="pr.*"/>
+    </def-cat>
+    <def-cat n="post">
+      <cat-item tags="post"/>
+      <cat-item tags="post.*"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -1341,8 +1370,12 @@
     </def-macro>
 
   </section-def-macros>
+  
+  
+  
   <section-rules>
 
+    <!-- SECTION: Nominal groups -->
 
     <rule comment="REGLA: pron-pers">
       <pattern>
@@ -1370,6 +1403,175 @@
       </action>
     </rule>
 
+
+
+
+    <rule comment="REGLA: pron-refl">
+      <pattern>
+        <pattern-item n="prn-refl"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-1Posit">
+          <with-param pos="1"/>
+        </call-macro>
+<!--        <call-macro n="convert-case-nbr-poss1">
+          <with-param pos="1"/>
+        </call-macro>-->
+        <out>
+          <chunk name="ref" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="REFL"/></tag>
+              <tag><var n="func"/></tag>
+<!--              <tag><var n="poss"/></tag>-->
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: pron-res">
+      <pattern>
+        <pattern-item n="prn-res"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-1Posit">
+          <with-param pos="1"/>
+        </call-macro>
+<!--        <call-macro n="convert-case-nbr-poss1">
+          <with-param pos="1"/>
+        </call-macro>-->
+        <out>
+          <chunk name="ref" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="RES"/></tag>
+              <tag><var n="func"/></tag>
+<!--              <tag><var n="poss"/></tag>-->
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: pron-rel">
+      <pattern>
+        <pattern-item n="prn-rel"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-1Posit">
+          <with-param pos="1"/>
+        </call-macro>
+<!--        <call-macro n="convert-case-nbr-poss1">
+          <with-param pos="1"/>
+        </call-macro>-->
+        <out>
+          <chunk name="rel" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="REL"/></tag>
+              <tag><var n="func"/></tag>
+<!--              <tag><var n="poss"/></tag>-->
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: pron-dem">
+      <pattern>
+        <pattern-item n="prn-dem"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-1Posit">
+          <with-param pos="1"/>
+        </call-macro>
+<!--        <call-macro n="convert-case-nbr-poss1">
+          <with-param pos="1"/>
+        </call-macro>-->
+        <out>
+          <chunk name="prn-dem" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><var n="func"/></tag>
+<!--              <tag><var n="poss"/></tag>-->
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
+    <rule comment="REGLA: pron-itg">
+      <pattern>
+        <pattern-item n="prn-itg"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-1Posit">
+          <with-param pos="1"/>
+        </call-macro>
+<!--        <call-macro n="convert-case-nbr-poss1">
+          <with-param pos="1"/>
+        </call-macro>-->
+        <out>
+          <chunk name="prn-itg" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><var n="func"/></tag>
+<!--              <tag><var n="poss"/></tag>-->
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
+
+    <rule comment="REGLA: pron-indef">
+      <pattern>
+        <pattern-item n="prn-indef"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-1Posit">
+          <with-param pos="1"/>
+        </call-macro>
+<!--        <call-macro n="convert-case-nbr-poss1">
+          <with-param pos="1"/>
+        </call-macro>-->
+        <out>
+          <chunk name="prn-indef" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><var n="func"/></tag>
+<!--              <tag><var n="poss"/></tag>-->
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
+
+<!-- testa hit -->
     
     <rule comment="REGLA: wordfoc">	 <!-- nieidage / nieida ge   - nieidâ-uv -->									   
       <pattern>															   
@@ -1688,7 +1890,7 @@
       </action>
     </rule> -->
 
-    <rule comment="REGLA: nom">
+    <rule comment="REGLA: noun">
       <pattern>
         <pattern-item n="noun"/>
       </pattern>
@@ -2074,17 +2276,17 @@
       </action>
     </rule>
 
-
     <rule comment="REGLA: adv">
       <pattern>
         <pattern-item n="adv"/>
       </pattern>
       <action>
       <choose><when>
-      <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Seahkas ii leat mihkkege. - Seehâst ij lah mihheen.-->
+	<test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test>
               <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
               </when>
-		</choose>      
+		</choose>  
+	<!-- Seahkas ii leat mihkkege. - Seehâst ij lah mihheen.-->
         <call-macro n="general-macro-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-advtag1"><with-param pos="1"/></call-macro>
         <out>
@@ -2099,8 +2301,56 @@
           </chunk>
         </out>
       </action>
-    </rule> 
+    </rule>
 
+
+    <!-- SECTION: Adpositions -->
+
+<!--    <rule comment="REGLA: pr">
+      <pattern>
+        <pattern-item n="pr"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-1Posit">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="pr" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="PREP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+-->
+
+    <rule comment="REGLA: post">
+      <pattern>
+        <pattern-item n="post"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-1Posit">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="post" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="POST"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    
 
 
     
@@ -2471,6 +2721,10 @@
       </action>
     </rule> 
 
+
+
+
+
     <rule comment="REGLA: ja maiddái"> <!-- ja maiddái. sehe -->
       <pattern>
 	<pattern-item n="ja"/>
@@ -2516,6 +2770,8 @@
         </out>
       </action>
     </rule>
+
+	
 
 
 
@@ -2677,6 +2933,8 @@
         
       </action>                                  
     </rule> 
+
+
 
  <rule comment="REGLA: num-nomacc attr n-sg  to n-par"> <!--  Mus leat čieža njálgga láibbi. Must láá čiččâm njaalgâ leibid. -->                                           
       <pattern>                                        
@@ -2958,6 +3216,10 @@
     </rule> 
 
 
+
+
+
+
     <rule comment="REGLA: agreement-attr n-sg-gen">  <!-- half agreement: sámegiella vuosttas giellan - sämikielâ vuosmuu kiellân -->                                         
       <pattern>                                        
         <pattern-item n="agreement-attr"/>             
@@ -2976,7 +3238,6 @@
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="general-macro-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="general-macro-1Posit"><with-param pos="3"/></call-macro>
         <call-macro n="agreement-adj-ind-sg-gen-1Posit"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="agreement-np">
@@ -2997,6 +3258,10 @@
       </action>                                  
     </rule>  
 
+
+
+        <!-- problemet mellom her XXX -->
+<!-- testa herifrå -->
 
 
 
@@ -3044,6 +3309,7 @@
     </rule>  
 
 
+
     <rule comment="REGLA: agreement-attr cmp n-sg-gen">  <!-- vuosttaš biilagirjái - vuosmuu autokiirján -->                                         
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
@@ -3087,6 +3353,14 @@
         
       </action>                                  
     </rule>  
+
+
+
+
+
+
+
+
 
     <rule comment="REGLA: agreement-attr attr cmp n-sg-gen">  <!-- vuosttaš albma biilagirjái - vuosmuu olmâ autokiirján -->                                         
       <pattern>                                        
@@ -3633,6 +3907,9 @@
       </action>                                  
     </rule> 
 
+
+
+
     <rule comment="REGLA: agreement-attr attr n-pl"> 
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
@@ -3675,7 +3952,8 @@
       </action>                                  
     </rule>  
 
-    <rule comment="REGLA: mainverb">
+
+<rule comment="REGLA: mainverb">
       <pattern>
         <pattern-item n="auxverb"/>
       </pattern>
@@ -3779,6 +4057,55 @@
     </rule> 
 
 
+
+<!-- streken XXX -->
+
+
+    <rule comment="REGLA: cs">
+      <pattern>
+        <pattern-item n="cnjsub"/>
+      </pattern>
+      <action>
+	<call-macro n="general-macro-1Posit">
+	  <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="cnjsub" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="cnjsub"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    
+    <rule comment="REGLA: cc">
+      <pattern>
+        <pattern-item n="cnjcoo"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-1Posit">
+          <with-param pos="1"/>
+        </call-macro> 
+        <out>
+          <chunk name="cnjcoo" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="cnjcoo"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: SENT">
       <pattern>
         <pattern-item n="sent"/>
@@ -3839,6 +4166,8 @@
         </out>
       </action>
     </rule>
+
+
 
   </section-rules>
 </transfer>
