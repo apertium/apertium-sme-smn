@@ -659,7 +659,7 @@
     <e><p><l>gánnetmeahttun<s n="adj"/></l><r>kannatmettum<s n="adj"/></r></p></e>
     <e><p><l>tropalaš<s n="adj"/></l><r>trooppisâš<s n="adj"/></r></p></e>
     <e><p><l>ipmilmeahttun<s n="adj"/></l><r>immeelmettum<s n="adj"/></r></p></e>
-    <e><p><l>pedagogalaš<s n="adj"/></l><r>pedagoglâš<s n="adj"/></r></p></e>
+    <e><p><l>pedagogalaš<s n="adj"/></l><r>pedagooglâš<s n="adj"/></r></p></e> <!-- pedagoglâš? -->
     <e><p><l>massiivvalaš<s n="adj"/></l><r>massivlâš<s n="adj"/></r></p></e>
     <e><p><l>vuovdnái<s n="adj"/></l><r>vuávnáá<s n="adj"/></r></p></e>
     <e><p><l>čalbmáičuohcci<s n="adj"/></l><r>čaalmančyeccee<s n="adj"/></r></p></e>
@@ -1040,12 +1040,18 @@
    <e><p><l>roanci<s n="adj"/></l><r>ruánzáá<s n="adj"/></r></p></e>
    <e><p><l>sisriikkalaš<s n="adj"/></l><r>aalmuglâš<s n="adj"/></r></p></e>
    <e><p><l>ávnnahis<s n="adj"/></l><r>immateriaallâš<s n="adj"/></r></p></e>
+   <e><p><l>lingvisttalaš<s n="adj"/></l><r>immateriaallâš<s n="adj"/></r></p></e>
 <!--    <e><p><l>vuoigat<s n="adj"/></l><r>vuoigâ<s n="adj"/></r></p></e> -->
 
 
     
     <!-- ASECTION: Nouns --> 
     
+    <e><p><l>forum<s n="n"/></l><r>foorum<s n="n"/></r></p></e>
+    <e><p><l>hálddahusriekti<s n="n"/></l><r>haldâttâhriehti<s n="n"/></r></p></e>
+    <e><p><l>kásus<s n="n"/></l><r>sajehäämi<s n="n"/></r></p></e>
+    <e><p><l>leksikon<s n="n"/></l><r>leksikko<s n="n"/></r></p></e>
+    <e><p><l>suorggádus<s n="n"/></l><r>suárgus<s n="n"/></r></p></e>
     <e><p><l>koda<s n="n"/></l><r>koodi<s n="n"/></r></p></e>
     <e><p><l>láidehus<s n="n"/></l><r>laiđiittâs<s n="n"/></r></p></e>
     <e><p><l>aspeakta<s n="n"/></l><r>aspekt<s n="n"/></r></p></e>
@@ -5329,6 +5335,7 @@
     <e><p><l>fihkon<s n="n"/></l><r>viigun<s n="n"/></r></p></e>
     <e><p><l>fiilu<s n="n"/></l><r>fijlo<s n="n"/></r></p></e>
     <e><p><l>filbma<s n="n"/></l><r>filmâ<s n="n"/></r></p></e>
+    <e><p><l>videofilbma<s n="n"/></l><r>videofilmâ<s n="n"/></r></p></e>
     <e><p><l>finddar<s n="n"/></l><r>fiindâr<s n="n"/></r></p></e>
     <e><p><l>firkkal<s n="n"/></l><r>ovdâlijne<s n="n"/></r></p></e>
     <e><p><l>fiskescizáš<s n="n"/></l><r>fiskispešnirihhááš<s n="n"/></r></p></e>
