@@ -248,6 +248,7 @@
     <!-- ASECTION: Postpositions -->     
 
     <e><p><l>alde<s n="post"/></l><r>alne<s n="post"/></r></p></e>
+    <e><p><l>hárrái<s n="post"/></l><r>kuáttá<s n="post"/></r></p></e>
     <e><p><l>veardde<s n="post"/></l><r>verd<s n="post"/></r></p></e>
     <e><p><l>badjel<s n="post"/></l><r>paijeel<s n="post"/></r></p></e>
     <e><p><l>báldda<s n="post"/></l><r>paaldâ<s n="post"/></r></p></e>
@@ -737,7 +738,6 @@
     <e><p><l>byrokráhtalaš<s n="adj"/></l><r>byrokraatlâš<s n="adj"/></r></p></e>
     <e><p><l>báljis<s n="adj"/></l><r>pääljis<s n="adj"/></r></p></e>
     <e><p><l>bálkkáheapme<s n="adj"/></l><r>pälhittem<s n="adj"/></r></p></e>
-    <e><p><l>báris<s n="adj"/></l><r>päris<s n="adj"/></r></p></e>
     <e><p><l>báris<s n="adj"/></l><r>pääris<s n="adj"/></r></p></e>
     <e><p><l>bás<s n="adj"/></l><r>ucce<s n="adj"/></r></p></e>
     <e><p><l>ceakkonjuolgat<s n="adj"/></l><r>ciägunjuolgâd<s n="adj"/></r></p></e>
@@ -1047,6 +1047,8 @@
     <!-- ASECTION: Nouns --> 
     
     <e><p><l>koda<s n="n"/></l><r>koodi<s n="n"/></r></p></e>
+    <e><p><l>láidehus<s n="n"/></l><r>laiđiittâs<s n="n"/></r></p></e>
+    <e><p><l>aspeakta<s n="n"/></l><r>aspekt<s n="n"/></r></p></e>
     <e><p><l>momeanta<s n="n"/></l><r>moomeent<s n="n"/></r></p></e>
     <e><p><l>sente<s n="n"/></l><r>sentti<s n="n"/></r></p></e>
     <e><p><l>doaibmabadji<s n="n"/></l><r>toimâpaje<s n="n"/></r></p></e>
@@ -1058,26 +1060,26 @@
     <e><p><l>olggosaddin<s n="n"/></l><r>olgosadaldâh<s n="n"/></r></p></e>
     <e><p><l>matematihkka<s n="n"/></l><r>matematiik<s n="n"/></r></p></e>
     <e><p><l>biologiija<s n="n"/></l><r>biologia<s n="n"/></r></p></e>
-    <e><p><l>fantasia<s n="n"/></l><r>fantasiija<s n="n"/></r></p></e>
-    <e><p><l>fysioterapia<s n="n"/></l><r>fysioterapiija<s n="n"/></r></p></e>
-    <e><p><l>melodia<s n="n"/></l><r>melodiija<s n="n"/></r></p></e>
-    <e><p><l>antologia<s n="n"/></l><r>antologiija<s n="n"/></r></p></e>
-    <e><p><l>filosofia<s n="n"/></l><r>filosofiija<s n="n"/></r></p></e>
-    <e><p><l>teologia<s n="n"/></l><r>teologiija<s n="n"/></r></p></e>
-    <e><p><l>psykologia<s n="n"/></l><r>psykologiija<s n="n"/></r></p></e>
-    <e><p><l>meteorologia<s n="n"/></l><r>meteorologiija<s n="n"/></r></p></e>
-    <e><p><l>allergia<s n="n"/></l><r>allergiija<s n="n"/></r></p></e>
-    <e><p><l>energia<s n="n"/></l><r>energiija<s n="n"/></r></p></e>
-    <e><p><l>kemia<s n="n"/></l><r>kemiija<s n="n"/></r></p></e>
-    <e><p><l>ekonomia<s n="n"/></l><r>ekonomiija<s n="n"/></r></p></e>
-    <e><p><l>autonomia<s n="n"/></l><r>autonomiija<s n="n"/></r></p></e>
-    <e><p><l>geometria<s n="n"/></l><r>geometriija<s n="n"/></r></p></e>
-    <e><p><l>demokratia<s n="n"/></l><r>demokratiija<s n="n"/></r></p></e>
-    <e><p><l>fobia<s n="n"/></l><r>fobiija<s n="n"/></r></p></e>
-    <e><p><l>hierarkia<s n="n"/></l><r>hierarkiija<s n="n"/></r></p></e>
-    <e><p><l>difteria<s n="n"/></l><r>difteriija<s n="n"/></r></p></e>
-    <e><p><l>bioteknologia<s n="n"/></l><r>bioteknologiija<s n="n"/></r></p></e>
-    <e><p><l>teknologia<s n="n"/></l><r>teknologiija<s n="n"/></r></p></e>
+    <e><p><l>fantasiija<s n="n"/></l><r>fantasia<s n="n"/></r></p></e>
+    <e><p><l>fysioterapiija<s n="n"/></l><r>fysioterapia<s n="n"/></r></p></e>
+    <e><p><l>melodiija<s n="n"/></l><r>melodia<s n="n"/></r></p></e>
+    <e><p><l>antologiija<s n="n"/></l><r>antologia<s n="n"/></r></p></e>
+    <e><p><l>filosofiija<s n="n"/></l><r>filosofia<s n="n"/></r></p></e>
+    <e><p><l>teologiija<s n="n"/></l><r>teologia<s n="n"/></r></p></e>
+    <e><p><l>psykologiija<s n="n"/></l><r>psykologia<s n="n"/></r></p></e>
+    <e><p><l>meteorologiija<s n="n"/></l><r>meteorologia<s n="n"/></r></p></e>
+    <e><p><l>allergiija<s n="n"/></l><r>allergia<s n="n"/></r></p></e>
+    <e><p><l>energiija<s n="n"/></l><r>energia<s n="n"/></r></p></e>
+    <e><p><l>kemiija<s n="n"/></l><r>kemia<s n="n"/></r></p></e>
+    <e><p><l>ekonomiija<s n="n"/></l><r>ekonomia<s n="n"/></r></p></e>
+    <e><p><l>autonomiija<s n="n"/></l><r>autonomia<s n="n"/></r></p></e>
+    <e><p><l>geometriija<s n="n"/></l><r>geometria<s n="n"/></r></p></e>
+    <e><p><l>demokratiija<s n="n"/></l><r>demokratia<s n="n"/></r></p></e>
+    <e><p><l>fobiija<s n="n"/></l><r>fobia<s n="n"/></r></p></e>
+    <e><p><l>hierarkiija<s n="n"/></l><r>hierarkia<s n="n"/></r></p></e>
+    <e><p><l>difteriija<s n="n"/></l><r>difteria<s n="n"/></r></p></e>
+    <e><p><l>bioteknologiija<s n="n"/></l><r>bioteknologia<s n="n"/></r></p></e>
+    <e><p><l>teknologiija<s n="n"/></l><r>teknologia<s n="n"/></r></p></e>
     
     <e><p><l>hilla<s n="n"/></l><r>čiđđâ<s n="n"/></r></p></e>
     <e><p><l>skávžá<s n="n"/></l><r>njäävvil<s n="n"/></r></p></e>
@@ -27852,7 +27854,6 @@
     <e><p><l>Buvik<s n="np"/></l><r>Buvik<s n="np"/></r></p></e>
     <e><p><l>Buvåg<s n="np"/></l><r>Buvåg<s n="np"/></r></p></e>
     <e><p><l>Buxtehude<s n="np"/></l><r>Buxtehude<s n="np"/></r></p></e>
-    <e><p><l>By<b/>Larm<s n="np"/></l><r>By<b/>Larm<s n="np"/></r></p></e>
     <e><p><l>By<s n="np"/></l><r>By<s n="np"/></r></p></e>
     <e><p><l>Byafossen<s n="np"/></l><r>Byafossen<s n="np"/></r></p></e>
     <e><p><l>Byberg<s n="np"/></l><r>Byberg<s n="np"/></r></p></e>
