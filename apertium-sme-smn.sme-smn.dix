@@ -1047,6 +1047,11 @@
     
     <!-- ASECTION: Nouns --> 
     
+    <e><p><l>konfeluhtta<s n="n"/></l><r>kooveert<s n="n"/></r></p></e>
+    <e><p><l>sámevuohta<s n="n"/></l><r>sämmilâšvuotâ<s n="n"/></r></p></e>
+    <e><p><l>artista<s n="n"/></l><r>artist<s n="n"/></r></p></e>
+    <e><p><l>katrilla<s n="n"/></l><r>katril<s n="n"/></r></p></e>
+    <e><p><l>logaldalli<s n="n"/></l><r>luvâldâllee<s n="n"/></r></p></e>
     <e><p><l>a<s n="n"/><s n="abbr"/></l><r>a<s n="n"/><s n="abbr"/></r></p></e>
     <e><p><l>b<s n="n"/><s n="abbr"/></l><r>b<s n="n"/><s n="abbr"/></r></p></e>
     <e><p><l>c<s n="n"/><s n="abbr"/></l><r>c<s n="n"/><s n="abbr"/></r></p></e>
@@ -1068,6 +1073,8 @@
     <e><p><l>t<s n="n"/><s n="abbr"/></l><r>t<s n="n"/><s n="abbr"/></r></p></e>
     <e><p><l>u<s n="n"/><s n="abbr"/></l><r>u<s n="n"/><s n="abbr"/></r></p></e>
     <e><p><l>v<s n="n"/><s n="abbr"/></l><r>v<s n="n"/><s n="abbr"/></r></p></e>
+    <e><p><l>badjeskuvla<s n="n"/></l><r>paješkovlâ<s n="n"/></r></p></e>
+    <e><p><l>stipeanda<s n="n"/></l><r>stipend<s n="n"/></r></p></e>
     <e><p><l>forum<s n="n"/></l><r>foorum<s n="n"/></r></p></e>
     <e><p><l>hálddahusriekti<s n="n"/></l><r>haldâttâhriehti<s n="n"/></r></p></e>
     <e><p><l>kásus<s n="n"/></l><r>sajehäämi<s n="n"/></r></p></e>
@@ -1226,6 +1233,7 @@
    	 <e><p><l>interneahtta<s n="n"/></l><r>internet<s n="n"/></r></p></e>
    	 <e><p><l>ovttastat<s n="n"/></l><r>ovdâstâs<s n="n"/></r></p></e>
    	 <e><p><l>válgalihttu<s n="n"/></l><r>vaaljâlitto<s n="n"/></r></p></e>
+   	 <e><p><l>lihttu<s n="n"/></l><r>litto<s n="n"/></r></p></e>
    	 <e><p><l>folklore<s n="n"/></l><r>aalmugärbivyehi<s n="n"/></r></p></e>
    	 <e><p><l>šleađgaboasta<s n="n"/></l><r>šleđgâpostâ<s n="n"/></r></p></e>
    	 <e><p><l>čatnašupmi<s n="n"/></l><r>čonnâsem<s n="n"/></r></p></e>
@@ -3458,7 +3466,7 @@
 
 
     <!-- ASECTION: Verbs -->
-    
+    <e><p><l>studeret<s n="vblex"/><s n="tv"/></l><r>luuhâđ<s n="vblex"/></r></p></e>
     <e><p><l>rohttet<s n="vblex"/><s n="iv"/></l><r>ruttiđ<s n="vblex"/></r></p></e>
     <e><p><l>seivvodit<s n="vblex"/><s n="iv"/></l><r>siäivuđ<s n="vblex"/></r></p></e>
     <e><p><l>hihtodit<s n="vblex"/><s n="iv"/></l><r>kiäppániđ<s n="vblex"/></r></p></e>
