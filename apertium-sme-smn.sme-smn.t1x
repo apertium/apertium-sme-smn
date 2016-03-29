@@ -2136,7 +2136,7 @@
            </and></test>
            <let><var n="adpos_chunk_name"/><lit v="pr_po"/></let></when>
          <otherwise>
-           <let><var n="adpos_chunk_name"/><lit v="pr_pr"/></let>
+           <let><var n="adpos_chunk_name"/><lit v="pr"/></let>
          </otherwise>
        </choose>
         <out>
