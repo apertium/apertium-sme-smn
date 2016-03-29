@@ -46,6 +46,7 @@ dev/source_lists/README -text
 dev/source_lists/fi.history.missing.freq -text
 dev/source_lists/fi_depts.freq -text
 dev/source_lists/sme_FI.freq -text
+dev/star-fi-report.freq -text
 dix_pairs4manual_check/vblex_pairs.txt -text
 doc/gt2apertium.cg3r -text
 fi.samediggi/blogcategory_id_EQ_0_itemid_EQ_195.tmx -text
@@ -625,6 +626,7 @@ fi.samediggi/view_id_EQ_9_itemid_EQ_69.tmx -text
 inc/parallell-text-not-bidix.freq -text
 /modes.xml -text
 /rm-deriv-cmp.twol -text
+/star.sh -text
 t/README.org -text
 t/config.sh -text
 t/latest-pending.results -text
