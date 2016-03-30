@@ -517,6 +517,24 @@
       <attr-item tags="prn.itg"/>
       <attr-item tags="prn.ref"/>
     </def-attr>
+
+    
+    <def-attr n="a_mood">
+       <attr-item tags="pot"/>
+       <attr-item tags="indic"/>
+       <attr-item tags="cond"/>
+       <attr-item tags="imp"/>
+    </def-attr>
+
+    <def-attr n="a_tense">
+       <attr-item tags="pret"/>
+       <attr-item tags="pres"/>
+    </def-attr>
+
+    <def-attr n="a_south">
+       <attr-item tags="south"/>
+    </def-attr>
+
     <def-attr n="a_poss">
        <attr-item tags="px1sg"/>
        <attr-item tags="px2sg"/>
@@ -1367,6 +1385,7 @@
          <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
          <call-macro n="foc-1Posit"><with-param pos="1"/></call-macro>
 <!--         <call-macro n="remove-advtag1"><with-param pos="1"/></call-macro> this needs a test in the macro-->
+         <let><clip pos="1" side="tl" part="a_south"/><lit v=""/></let>
          <let><clip pos="1" side="tl" part="a_sem"/><lit v=""/></let>
          <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
          <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
