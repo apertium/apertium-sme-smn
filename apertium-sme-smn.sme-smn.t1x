@@ -134,8 +134,8 @@
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
       <cat-item tags="n.der_sas.adj.*"/>
+      <cat-item tags="n.*.der_lasj.adj.*"/>
       <cat-item tags="n.der_lasj.adj.*"/>
-      <cat-item tags="n.der_laš.adj.*"/>
       <cat-item tags="n.der_saš.adj.*"/>
     </def-cat>
     <def-cat n="adv">
@@ -171,7 +171,7 @@
       <cat-item lemma="dáláš" tags="adj.*.attr.*"/> 
       <cat-item lemma="dološ" tags="adj.*.attr.*"/> 
       <cat-item lemma="lihkolaš" tags="adj.*.attr.*"/>
-      <cat-item lemma="lihkolaš" tags="adj.*.*.attr.*"/>
+      <cat-item lemma="lihkolaš" tags="adj.attr.*"/>
       <cat-item lemma="girjjálaš" tags="adj.*.attr.*"/> 
       <cat-item lemma="doaimmalaš" tags="adj.*.attr.*"/> 
       <cat-item lemma="doaimmalaš" tags="adj.attr.*"/> 
@@ -190,7 +190,8 @@
       <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!--  put under vuosttaš as lemma in sme -->                   
       <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/> 
       <cat-item lemma="vuosttas" tags="adj.ord.attr"/> 
-      <cat-item tags="n.der_laš.adj.attr"/>
+      <cat-item tags="n.der_lasj.adj.attr"/>
+      <cat-item tags="n.*.der_lasj.adj.attr"/>
       <cat-item tags="adj.comp.attr"/> 
       <cat-item tags="adj.comp.attr.*"/> 
       <cat-item tags="adj.sup.attr"/> 
@@ -3055,7 +3056,7 @@
       </action>                                  
     </rule> 
 
-    <rule comment="REGLA: agreement-attr attr n agreement">  <!-- vuosttas dievas girji - vuosmuš oles kirje -->    
+    <rule comment="REGLA: agreement-attr agreem-attr n agreement">  <!-- vuosttas dievas girji - vuosmuš oles kirje -->    
       <pattern>                                        
         <pattern-item n="agreement-attr"/>                 
         <pattern-item n="agreement-attr"/>                 
@@ -3088,6 +3089,37 @@
       </action>                                  
     </rule> 
 
+    <rule comment="REGLA: agreement-attr attr n agreement">  <!-- Yle tuáivu puohháid šiev juovlâi já luholii uđđâ ive. -->
+      <pattern>                                        
+        <pattern-item n="agreement-attr"/>                 
+        <pattern-item n="attr"/>                 
+        <pattern-item n="noun"/>                   
+      </pattern>     
+      <action>
+      <call-macro n="general-macro-1Posit"><with-param pos="2"/></call-macro>
+        <call-macro n="general-macro-1Posit"><with-param pos="3"/></call-macro>
+        <call-macro n="agreement-attr-2Posit"><with-param pos="1"/><with-param pos="3"/></call-macro>
+        <out>
+          <chunk name="agreement-np">
+            <tags>
+              <tag><lit-tag v="SM"/></tag>
+              <tag><var n="func"/></tag> 
+            </tags>
+	        <lu>
+              <clip pos="1" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+	        <lu>
+              <clip pos="2" side="tl" part="whole"/>    
+		    </lu>
+	        <b/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>    
+	        </lu>
+          </chunk>
+        </out>
+      </action>                                  
+    </rule> 
 
     <rule comment="REGLA: agreement-attr cmp n-sg agreement">  
     <!-- vuosttaš biilagirji - vuosmuš autokirje -->                                           
