@@ -163,42 +163,34 @@
     </def-cat>
     <def-cat n="agreement-attr">    <!-- todo: remove starless versions of adj -->                         
       <cat-item lemma="aiddonas" tags="adj.*.attr.*"/> 
-      <cat-item lemma="aiddonas" tags="adj.attr.*"/> 
       <cat-item lemma="boahttevaš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="boahttevaš" tags="adj.attr.*"/> 
       <cat-item lemma="čuvgehuslaš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="čuvgehuslaš" tags="adj.attr.*"/>
+      <cat-item lemma="dieđalaš" tags="adj.*.attr.*"/> 
       <cat-item lemma="dárbbašlaš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="dárbbašlaš" tags="adj.attr.*"/> 
       <cat-item lemma="dálá" tags="adj.*.attr.*"/> 
       <cat-item lemma="dáláš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="dáláš" tags="adj.attr.*"/> 
-      <cat-item lemma="dálá" tags="adj.attr.*"/> 
       <cat-item lemma="dološ" tags="adj.*.attr.*"/> 
-      <cat-item lemma="dološ" tags="adj.attr.*"/> 
-      <cat-item lemma="girjjálaš" tags="adj.attr.*"/> 
+      <cat-item lemma="lihkolaš" tags="adj.*.attr.*"/>
+      <cat-item lemma="lihkolaš" tags="adj.*.*.attr.*"/>
       <cat-item lemma="girjjálaš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="teknologalaš" tags="adj.attr.*"/> 
+      <cat-item lemma="doaimmalaš" tags="adj.*.attr.*"/> 
+      <cat-item lemma="doaimmalaš" tags="adj.attr.*"/> 
       <cat-item lemma="teknologalaš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="riikkaidgaskasaš" tags="adj.attr.*"/> 
       <cat-item lemma="riikkaidgaskasaš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="analyhtalaš" tags="adj.attr.*"/> 
       <cat-item lemma="analyhtalaš" tags="adj.*.attr.*"/> 
       <cat-item lemma="guhte" tags="prn.ind.*"/>
       <cat-item lemma="guhtemuš" tags="prn.itg.*"/>
       <cat-item lemma="guovddáš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="guovddáš" tags="adj.attr.*"/> 
       <cat-item lemma="maŋit" tags="adj.*.attr.*"/> 
-      <cat-item lemma="maŋit" tags="adj.attr.*"/> 
       <cat-item lemma="muhtun" tags="prn.ind.attr.*"/> 
       <cat-item lemma="makkár" tags="prn.ind.*"/>
       <cat-item lemma="makkár" tags="prn.itg.*"/>
-      <cat-item lemma="otná" tags="adj.attr.*"/> 
       <cat-item lemma="otná" tags="adj.*.attr.*"/> 
       <cat-item lemma="seammá" tags="prn.ind.*"/>
       <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!--  put under vuosttaš as lemma in sme -->                   
       <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/> 
       <cat-item lemma="vuosttas" tags="adj.ord.attr"/> 
+      <cat-item tags="n.der_laš.adj.attr"/>
       <cat-item tags="adj.comp.attr"/> 
       <cat-item tags="adj.comp.attr.*"/> 
       <cat-item tags="adj.sup.attr"/> 
