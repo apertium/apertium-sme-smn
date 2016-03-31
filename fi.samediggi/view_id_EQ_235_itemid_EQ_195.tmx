@@ -320,14 +320,6 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Kijssá - kiisa , arkku</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>Boagán - vyö</seg>
          </tuv>
          <tuv xml:lang="smn">
@@ -336,66 +328,10 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Šišne - sisnanahka</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Tyelji - talja</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>Liŋkkat :</seg>
          </tuv>
          <tuv xml:lang="smn">
             <seg>Liiŋkah :</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Sámi duodji Ruotâst</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Sámi duodji Taažâst</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Samekki – taaidâtyejipuvdâ Anarist</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Säämi tyeje aaleeb škovlim Säämi ollâškoovlâst</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Säämi tyeje škovlim Anarist</seg>
          </tuv>
       </tu>
    </body>

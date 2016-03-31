@@ -11,14 +11,6 @@
             <seg>Sámegielat</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Sámegielat</seg>
-         </tuv>
-         <tuv xml:lang="smn">
             <seg>Sämikielah</seg>
          </tuv>
       </tu>
@@ -400,30 +392,6 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Pekka Sammallahti 1998 : The Saami Languages .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>An Introduction .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Davvi Girji OS.</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>Anárašgiela ja anárašgielat oahppamateriálat</seg>
          </tuv>
          <tuv xml:lang="smn">
@@ -468,14 +436,6 @@
          </tuv>
          <tuv xml:lang="smn">
             <seg>Säämi ollâškovlâ / Sámi allaskuvla Taažâ Kuovdâkiäinust</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Tavesämikielâ sänikirje- já terminologiaportaal risten.no</seg>
          </tuv>
       </tu>
       <tu>
@@ -544,22 +504,6 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Uđđâsist Šoddâm</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>- tavesämikielâ</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>- anárašgiella</seg>
          </tuv>
          <tuv xml:lang="smn">
@@ -572,14 +516,6 @@
          </tuv>
          <tuv xml:lang="smn">
             <seg>- nuorttâsämikielâ</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>- neahttasátnegirji</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
          </tuv>
       </tu>
    </body>

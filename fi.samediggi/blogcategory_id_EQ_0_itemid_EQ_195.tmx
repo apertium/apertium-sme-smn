@@ -128,14 +128,6 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Unna Junná video</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>Njoammil</seg>
          </tuv>
          <tuv xml:lang="smn">
@@ -156,14 +148,6 @@
          </tuv>
          <tuv xml:lang="smn">
             <seg>Pilvi aalgât ollâopâttuvâst</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Uccâ uábáš</seg>
          </tuv>
       </tu>
       <tu>
@@ -196,14 +180,6 @@
          </tuv>
          <tuv xml:lang="smn">
             <seg>Säämi vyehi ?</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Ärbi</seg>
          </tuv>
       </tu>
       <tu>
@@ -372,14 +348,6 @@
          </tuv>
          <tuv xml:lang="smn">
             <seg>Majemuš puddâ</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Eenikiellâm sämikielâ</seg>
          </tuv>
       </tu>
       <tu>
@@ -640,22 +608,6 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Nuortalašgielat oahppamateriálat</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Nuortalašgiela oahpahus , lassemateriála</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>Dieđut máná vuoigatvuođain anáraš- ja nuortalašgillii</seg>
          </tuv>
          <tuv xml:lang="smn">
@@ -756,22 +708,6 @@
          </tuv>
          <tuv xml:lang="smn">
             <seg>Nuorttâsämikielâ</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Oskoldâh</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Anárašgiella , oskkoldat</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
          </tuv>
       </tu>
    </body>

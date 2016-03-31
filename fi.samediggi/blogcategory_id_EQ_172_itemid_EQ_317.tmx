@@ -8,14 +8,6 @@
    <body>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Prošeavttat</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>Sámekulturguovddáš</seg>
          </tuv>
          <tuv xml:lang="smn">
@@ -29,7 +21,7 @@
          <tuv xml:lang="smn">
             <seg>Párnáikulttuurkuávdáš</seg>
          </tuv>
-      </tu>0
+      </tu>
       <tu>
          <tuv xml:lang="sme">
             <seg>Sámegielat giellalávgun skuvllas</seg>

@@ -48,14 +48,6 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Anárašgiella eatnigiellan</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>Anárašgiella vieris giellan</seg>
          </tuv>
          <tuv xml:lang="smn">
@@ -68,14 +60,6 @@
          </tuv>
          <tuv xml:lang="smn">
             <seg>Čaabâkirjálâšvuotâ</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Anárašgiella , sátnegirjjit</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
          </tuv>
       </tu>
       <tu>
@@ -104,34 +88,10 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Eatnandiehtu Oskkoldat Duodji Eará materiálat</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>Oskkoldat</seg>
          </tuv>
          <tuv xml:lang="smn">
             <seg>Oskoldâh</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Kietâtyeji</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Eará materiálat</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
          </tuv>
       </tu>
    </body>
