@@ -1057,6 +1057,8 @@
     <!-- ASECTION: Nouns --> 
     
     <e><p><l>preanttus<s n="n"/></l><r>tiädus<s n="n"/></r></p></e>
+    <e><p><l>domena<s n="n"/></l><r>doomeen<s n="n"/></r></p></e>
+    <e><p><l>lappi<s n="n"/></l><r>lappi<s n="n"/></r></p></e>
     <e><p><l>konfeluhtta<s n="n"/></l><r>kooveert<s n="n"/></r></p></e>
     <e><p><l>sámevuohta<s n="n"/></l><r>sämmilâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>artista<s n="n"/></l><r>artist<s n="n"/></r></p></e>
@@ -3480,6 +3482,7 @@
 
     <!-- ASECTION: Verbs -->
     <e><p><l>kordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
+    <e><p><l>moaitit<s n="vblex"/><s n="tv"/></l><r>muáittiđ<s n="vblex"/></r></p></e>    
     <e><p><l>studeret<s n="vblex"/><s n="tv"/></l><r>luuhâđ<s n="vblex"/></r></p></e>
     <e><p><l>rohttet<s n="vblex"/><s n="iv"/></l><r>ruttiđ<s n="vblex"/></r></p></e>
     <e><p><l>seivvodit<s n="vblex"/><s n="iv"/></l><r>siäivuđ<s n="vblex"/></r></p></e>
