@@ -133,7 +133,7 @@
    </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
-      <cat-item tags="n.der_sas.adj.*"/>
+      <cat-item tags="n.der_sasj.adj.*"/>
       <cat-item tags="n.*.der_lasj.adj.*"/>
       <cat-item tags="n.der_lasj.adj.*"/>
       <cat-item tags="n.der_saš.adj.*"/>
@@ -559,8 +559,7 @@
        <attr-item tags="der_lágan"/>
        <attr-item tags="der_lagan"/>
        <attr-item tags="der_nammasaš"/>
-        <attr-item tags="der_saš"/>
-        <attr-item tags="der_sas"/>
+        <attr-item tags="der_sasj"/>
    </def-attr>
 
     <def-attr n="a_deriv2">
@@ -1102,12 +1101,6 @@
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_lágan"/></equal>
           </test>
           <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_lagan"/></let> 
-        </when>
-        <when>
-          <test>
-               <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_saš"/></equal>
-          </test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_sas"/></let> 
         </when>
          <when>
           <test>
