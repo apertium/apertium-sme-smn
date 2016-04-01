@@ -1835,6 +1835,12 @@
     <e><p><l>ILO<s n="n"/></l><r>ILO<s n="n"/></r></p></e>
 <!--    <e><p><l>ruoktosiidu<s n="n"/></l><r>päikkisijđo<s n="n"/></r></p></e>-->
 
+
+    <!-- ASECTION: Abbreviations -->
+    
+    <e><p><l>dmu<s n="adv"/></l><r>tme<s n="adv"/></r></p></e>
+
+
     <!-- ASECTION: sme-person names with two possible translations -->
     <e><p><l>Biera<s n="np"/></l><r>Biera<s n="np"/></r></p></e> 
     <e><p><l>Biera<s n="np"/></l><r>Pierâ<s n="np"/></r></p></e> 
