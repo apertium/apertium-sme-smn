@@ -1844,9 +1844,9 @@
 
     <!-- ASECTION: Abbreviations -->
     
-    <e><p><l>dmu<s n="adv"/></l><r>tme<s n="adv"/></r></p></e>
-    <e><p><l>tel<s n="adv"/></l><r>puh<s n="adv"/></r></p></e>
-    <e><p><l>má<s n="adv"/></l><r>má<s n="adv"/></r></p></e>
+    <e><p><l>dmu<s n="n"/></l><r>tme<s n="n"/></r></p></e>
+    <e><p><l>tel<s n="n"/></l><r>puh<s n="n"/></r></p></e>
+    <e><p><l>má<s n="n"/></l><r>má<s n="n"/></r></p></e>
     <e><p><l>AHR<s n="adv"/></l><r>AHR<s n="adv"/></r></p></e>
 
 
