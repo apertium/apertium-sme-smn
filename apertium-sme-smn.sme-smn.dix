@@ -236,6 +236,7 @@
     <e><p><l>golbmalogi<s n="num"/></l><r>kulmâlov<s n="num"/></r></p></e>
     <e><p><l>gávccilogiguhtta<s n="num"/></l><r>kähcilovkuttâ<s n="num"/></r></p></e>
     <e><p><l>máŋga<s n="num"/></l><r>maŋgâ<s n="num"/></r></p></e>
+    <e><p><l>moaddelogi<s n="num"/></l><r>muádlov<s n="num"/></r></p></e>
     
     <!-- ASECTION: Prepositions -->
 
@@ -328,6 +329,7 @@
     
     <e><p><l>albmaláhkai<s n="adv"/></l><r>olmânáál<s n="adv"/></r></p></e>
     <e><p><l>oanehaččat<s n="adv"/></l><r>uánihávt<s n="adv"/></r></p></e>
+    <e><p><l>dušše<b/>beare<s n="adv"/></l><r>tuše<s n="adv"/></r></p></e>
 
     <e><p><l>ánssáškeahttá<s n="adv"/></l><r>áánsášhánnáá<s n="adv"/></r></p></e><!-- not in sme; MLO: no adjective; removed from adjectives -->
     <e><p><l>litnásit<s n="adv"/></l><r>linásávt<s n="adv"/></r></p></e>
@@ -661,6 +663,8 @@
     <e><p><l>áššáigulavaš<s n="adj"/></l><r>ääšimiäldásâš<s n="adj"/></r></p></e>
     <e><p><l>mieldásaš<s n="adj"/></l><r>miäldásâš<s n="adj"/></r></p></e>
     <e><p><l>rájeheapme<s n="adj"/></l><r>räjittem<s n="adj"/></r></p></e>
+    <e><p><l>ijaheapme<s n="adj"/></l><r>ijâttem<s n="adj"/></r></p></e>
+    <e><p><l>ovddidandohkálaš<s n="adj"/></l><r>ovdánemtohálâš<s n="adj"/></r></p></e>
 
     
     <e><p><l>effektiiva<s n="adj"/></l><r>effektivlâš<s n="adj"/></r></p></e>
@@ -1058,8 +1062,9 @@
 
     <e><p><l>berošteaddji<s n="n"/></l><r>kiddiistum<b/>olmooš<s n="n"/></r></p></e>
     <e><p><l>preanttus<s n="n"/></l><r>tiädus<s n="n"/></r></p></e>
-    <e><p><l>domena<s n="n"/></l><r>doomeen<s n="n"/></r></p></e>
+    <e><p><l>domeana<s n="n"/></l><r>doomeen<s n="n"/></r></p></e>
     <e><p><l>lappi<s n="n"/></l><r>lappi<s n="n"/></r></p></e>
+    <e><p><l>girjiluvvan<s n="n"/></l><r>kirjálistem<s n="n"/></r></p></e>
     <e><p><l>konfeluhtta<s n="n"/></l><r>kooveert<s n="n"/></r></p></e>
     <e><p><l>sámevuohta<s n="n"/></l><r>sämmilâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>artista<s n="n"/></l><r>artist<s n="n"/></r></p></e>
@@ -3493,6 +3498,8 @@
     <!-- ASECTION: Verbs -->
     <e><p><l>kordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
     <e><p><l>cuoigut<s n="vblex"/><s n="tv"/></l><r>cuáiguđ<s n="vblex"/></r></p></e>
+    <e><p><l>rekryteret<s n="vblex"/><s n="tv"/></l><r>rekrytistiđ<s n="vblex"/></r></p></e>
+    <e><p><l>girjiluvvat<s n="vblex"/><s n="tv"/></l><r>kirjálistiđ<s n="vblex"/></r></p></e>
     <e><p><l>cuiggodit<s n="vblex"/><s n="tv"/></l><r>cuáigudiđ<s n="vblex"/></r></p></e>
     <e><p><l>moaitit<s n="vblex"/><s n="tv"/></l><r>muáittiđ<s n="vblex"/></r></p></e>    
     <e><p><l>studeret<s n="vblex"/><s n="tv"/></l><r>luuhâđ<s n="vblex"/></r></p></e>
