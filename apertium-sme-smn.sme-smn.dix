@@ -1842,6 +1842,7 @@
     <e><p><l>dmu<s n="adv"/></l><r>tme<s n="adv"/></r></p></e>
     <e><p><l>tel<s n="adv"/></l><r>puh<s n="adv"/></r></p></e>
     <e><p><l>má<s n="adv"/></l><r>má<s n="adv"/></r></p></e>
+    <e><p><l>AHR<s n="adv"/></l><r>AHR<s n="adv"/></r></p></e>
 
 
     <!-- ASECTION: sme-person names with two possible translations -->
@@ -3491,6 +3492,8 @@
 
     <!-- ASECTION: Verbs -->
     <e><p><l>kordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
+    <e><p><l>cuoigut<s n="vblex"/><s n="tv"/></l><r>cuáiguđ<s n="vblex"/></r></p></e>
+    <e><p><l>cuiggodit<s n="vblex"/><s n="tv"/></l><r>cuáigudiđ<s n="vblex"/></r></p></e>
     <e><p><l>moaitit<s n="vblex"/><s n="tv"/></l><r>muáittiđ<s n="vblex"/></r></p></e>    
     <e><p><l>studeret<s n="vblex"/><s n="tv"/></l><r>luuhâđ<s n="vblex"/></r></p></e>
     <e><p><l>rohttet<s n="vblex"/><s n="iv"/></l><r>ruttiđ<s n="vblex"/></r></p></e>
