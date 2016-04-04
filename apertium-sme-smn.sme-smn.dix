@@ -1054,7 +1054,7 @@
     <!-- ASECTION: Nouns --> 
 
     <e><p><l>olgu<s n="n"/></l><r>olgo<s n="n"/></r></p></e>
-    <e><p><l>berošteaddji<s n="n"/></l><r>kiddiistum<b/>olmooš<s n="n"/></r></p></e>
+    <e><p><l>berošteaddji<s n="n"/><s n="nomag"/></l><r>kiddiistum<b/>olmooš<s n="n"/></r></p></e>
     <e><p><l>árvoceahkki<s n="n"/></l><r>árvuciäkkádâh<s n="n"/></r></p></e> <!-- not in sme -->
     <e><p><l>boazogeahčču<s n="n"/></l><r>puásuikiäčču<s n="n"/></r></p></e> <!-- not in sme -->
     <e><p><l>searvvušráhkadus<s n="n"/></l><r>siärvádâhrááhtus<s n="n"/></r></p></e> <!-- not in sme -->
@@ -4901,7 +4901,7 @@
     <e><p><l>beste<s n="n"/></l><r>pesti<s n="n"/></r></p></e>
     <e><p><l>betoŋŋa<s n="n"/></l><r>beetoon<s n="n"/></r></p></e>
     <e><p><l>bibliotehka<s n="n"/></l><r>kirjerááju<s n="n"/></r></p></e>
-    <e><p><l>biebmoealli<s n="n"/></l><r>jiellâh<s n="n"/></r></p></e>
+    <e><p><l>biebmoealli<s n="n"/><s n="nomag"/></l><r>jiellâh<s n="n"/></r></p></e>
     <e><p><l>biebmu<s n="n"/></l><r>piämmu<s n="n"/></r></p></e>
     <e><p><l>biedju<s n="n"/></l><r>piäju<s n="n"/></r></p></e>
     <e><p><l>biegga<s n="n"/></l><r>pieggâ<s n="n"/></r></p></e>
@@ -4925,7 +4925,7 @@
     <e><p><l>biigá<s n="n"/></l><r>pijgá<s n="n"/></r></p></e>
     <e><p><l>biiladivohat<s n="n"/></l><r>autotivottâh<s n="n"/></r></p></e>
     <e><p><l>bilka<s n="n"/></l><r>tälvivuoggâ<s n="n"/></r></p></e>
-    <e><p><l>bilkideaddji<s n="n"/></l><r>pilkkár<s n="n"/></r></p></e>
+    <e><p><l>bilkideaddji<s n="n"/><s n="nomag"/></l><r>pilkkár<s n="n"/></r></p></e>
     <e><p><l>bilku<s n="n"/></l><r>pilkke<s n="n"/></r></p></e>
     <e><p><l>binná<s n="n"/><s n="g3"/></l><r>váhá<s n="n"/></r></p></e>
     <e><p><l>biodiversitehta<s n="n"/></l><r>biodiversiteet<s n="n"/></r></p></e>
@@ -6224,7 +6224,7 @@
     <e><p><l>máhta<s n="n"/></l><r>määlis<s n="n"/></r></p></e>
     <e><p><l>máhtolašvuohta<s n="n"/></l><r>tohálâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>máhttu<s n="n"/></l><r>máttu<s n="n"/></r></p></e>
-    <e><p><l>máhttájeaddji<s n="n"/></l><r>máttááttâspärni<s n="n"/></r></p></e>
+    <e><p><l>máhttájeaddji<s n="n"/><s n="nomag"/></l><r>máttááttâspärni<s n="n"/></r></p></e>
     <e><p><l>máihli<s n="n"/></l><r>mäihli<s n="n"/></r></p></e>
     <e><p><l>máilbmi<s n="n"/></l><r>maailm<s n="n"/></r></p></e>
     <e><p><l>máilmmisoahti<s n="n"/></l><r>maailmsuáti<s n="n"/></r></p></e>
@@ -7144,7 +7144,7 @@
     <e><p><l>válgalávdegoddi<s n="n"/></l><r>vaaljalävdikodde<s n="n"/></r></p></e>
     <e><p><l>válljen<s n="n"/></l><r>valjim<s n="n"/></r></p></e>
     <e><p><l>válsa<s n="n"/></l><r>valssâ<s n="n"/></r></p></e>
-    <e><p><l>vánddardeaddji<s n="n"/></l><r>kolgolâš<s n="n"/></r></p></e>
+    <e><p><l>vánddardeaddji<s n="n"/><s n="nomag"/></l><r>kolgolâš<s n="n"/></r></p></e>
     <e><p><l>váran<s n="n"/></l><r>vađukkâš<s n="n"/></r></p></e>
     <e><p><l>váravárpá<s n="n"/></l><r>kuorgâtooŋâs<s n="n"/></r></p></e>
     <e><p><l>várjalus<s n="n"/></l><r>varjâlus<s n="n"/></r></p></e>
