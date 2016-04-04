@@ -40,6 +40,7 @@ dev/sme_FI.Adv.missing -text
 dev/sme_FI.N.nocmp.missing -text
 dev/sme_FI.Pron.missing -text
 dev/sme_FI.V.noder.missing -text
+dev/sme_bidix_sanity.sh -text
 dev/sme_blogspot.A.nocmp.missing -text
 dev/sme_blogspot.N.nocmp.missing -text
 dev/sme_blogspot.V.noder.missing -text
