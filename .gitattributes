@@ -23,7 +23,6 @@ aigin/aigin.smn -text
 /check_mt-otpt.py -text
 /configure.ac -text
 dev/bidix-sanity.sh -text
-dev/check_sme_verbs.sh -text
 dev/complicateddifferences.txt -text
 dev/fi_depts.A.noder.missing -text
 dev/fi_depts.Adv.missing -text
