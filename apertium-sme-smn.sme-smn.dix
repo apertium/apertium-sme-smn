@@ -1054,6 +1054,12 @@
     <!-- ASECTION: Nouns --> 
 
     <e><p><l>olgu<s n="n"/></l><r>olgo<s n="n"/></r></p></e>
+    <e><p><l>klubba<s n="n"/></l><r>klubi<s n="n"/></r></p></e> <!-- not in smn -->
+    <e><p><l>sále<s n="n"/></l><r>sali<s n="n"/></r></p></e>
+    <e><p><l>virtuála<s n="n"/></l><r>virtuaal<s n="n"/></r></p></e> <!-- not in smn -->
+    <e><p><l>heivehus<s n="n"/></l><r>heiviittâs<s n="n"/></r></p></e>
+    <e><p><l>suodji<s n="n"/></l><r>syeji<s n="n"/></r></p></e>
+    <e><p><l>eaŋgalasgiella<s n="n"/></l><r>eŋgâlâskielâ<s n="n"/></r></p></e>
     <e><p><l>berošteaddji<s n="n"/><s n="nomag"/></l><r>kiddiistum<b/>olmooš<s n="n"/></r></p></e>
     <e><p><l>árvoceahkki<s n="n"/></l><r>árvuciäkkádâh<s n="n"/></r></p></e> <!-- not in sme -->
     <e><p><l>boazogeahčču<s n="n"/></l><r>puásuikiäčču<s n="n"/></r></p></e> <!-- not in sme -->
@@ -3507,6 +3513,7 @@
     <!-- ASECTION: Verbs -->
     <e><p><l>koordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
     <e><p><l>postet<s n="vblex"/><s n="tv"/></l><r>postâdiđ<s n="vblex"/></r></p></e>
+    <e><p><l>láidestit<s n="vblex"/><s n="tv"/></l><r>jođettiđ<s n="vblex"/></r></p></e>
     <e><p><l>vuohttit<s n="vblex"/><s n="tv"/></l><r>vyettiđ<s n="vblex"/></r></p></e>
     <e><p><l>vuohttut<s n="vblex"/><s n="tv"/></l><r>vuáttuđ<s n="vblex"/></r></p></e>
     <e><p><l>vuhttot<s n="vblex"/><s n="tv"/></l><r>vuottuđ<s n="vblex"/></r></p></e>
@@ -10010,6 +10017,7 @@
     <e><p><l>joavdat<s n="vblex"/><s n="iv"/></l><r>juovdâđ<s n="vblex"/></r></p></e>
     <e><p><l>dinet<s n="vblex"/><s n="tv"/></l><r>ánsášiđ<s n="vblex"/></r></p></e>
     <e><p><l>organiseret<s n="vblex"/><s n="tv"/></l><r>orniđ<s n="vblex"/></r></p></e>
+    <e><p><l>ođđasisorganiseret<s n="vblex"/><s n="tv"/></l><r>uđđâsist<b/>orniđ<s n="vblex"/></r></p></e>
     <e><p><l>gilvalit<s n="vblex"/><s n="iv"/></l><r>kištottâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>ráddjet<s n="vblex"/><s n="tv"/></l><r>raijiđ<s n="vblex"/></r></p></e>
     <e><p><l>gierdat<s n="vblex"/><s n="tv"/></l><r>kierdâđ<s n="vblex"/></r></p></e>
