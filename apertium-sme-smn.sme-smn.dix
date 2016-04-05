@@ -104,7 +104,7 @@
     <e><p><l>ja<s n="cnjcoo"/></l><r>já<s n="cnjcoo"/></r></p></e>
     <e><p><l>muhte<s n="cnjcoo"/></l><r>mut<s n="cnjcoo"/></r></p></e>
     <e><p><l>muhto<s n="cnjcoo"/></l><r>mut<s n="cnjcoo"/></r></p></e>
-    <e><p><l>sihke<s n="cnjcoo"/></l><r>sehe<s n="cnjcoo"/></r></p></e>
+<!--    <e><p><l>sihke<s n="cnjcoo"/></l><r>sehe<s n="cnjcoo"/></r></p></e> xxx not cnjcoo in sme -->
     <e><p><l>vai<s n="cnjcoo"/></l><r>vâi<s n="cnjcoo"/></r></p></e>
 
     <!-- ASECTION: Subjunctions -->
@@ -199,7 +199,6 @@
     <e><p><l>soames<s n="prn"/></l><r>mottoom<s n="prn"/></r></p></e>
     <e><p><l>váháš<s n="prn"/></l><r>váhá<s n="prn"/></r></p></e>
     <e><p><l>nubbi<s n="prn"/></l><r>nubbe<s n="prn"/></r></p></e>
-    <e><p><l>okta<s n="prn"/></l><r>ohtâ<s n="prn"/></r></p></e>
     <e><p><l>dihto<s n="adj"/></l><r>tiätu<s n="adj"/></r></p></e>
 
     <e><p><l>iešguhte<s n="adj"/></l><r>jieškote<s n="adj"/></r></p></e>
@@ -264,7 +263,7 @@
      <e><p><l>gaskan<s n="post"/></l><r>koskân<s n="post"/></r></p></e>
    <e><p><l>guora<s n="post"/></l><r>piällás<s n="post"/></r></p></e>
     <e><p><l>gurrii<s n="post"/></l><r>piällás<s n="post"/></r></p></e>
-    <e><p><l>háldui<s n="post"/></l><r>haaldun<s n="post"/></r></p></e> <!-- not in sme -->
+    <e><p><l>háldui<s n="post"/></l><r>haaldun<s n="post"/></r></p></e> 
     <e><p><l>lusa<s n="post"/></l><r>luusâ<s n="post"/></r></p></e>
     <e><p><l>maŋŋel<s n="post"/></l><r>maŋa<s n="post"/></r></p></e>
     <e><p><l>maŋŋá<s n="post"/></l><r>maŋa<s n="post"/></r></p></e>
@@ -273,8 +272,8 @@
     <e><p><l>nalde<s n="post"/></l><r>alne<s n="post"/></r></p></e>
     <e><p><l>nubbi<s n="prn"/></l><r>nubebel<s n="post"/></r></p></e>     
     <e><p><l>oasil<s n="post"/></l><r>uásild<s n="post"/></r></p></e>
-    <e><p><l>ovddabeallai<s n="post"/></l><r>ovdiibel<s n="post"/></r></p></e> <!-- not in sme -->
-    <e><p><l>bajábeallai<s n="post"/></l><r>paajaabeln<s n="post"/></r></p></e> <!-- not in sme -->
+    <e><p><l>ovddabeallai<s n="post"/></l><r>ovdiibel<s n="post"/></r></p></e>
+    <e><p><l>bajábeallai<s n="post"/></l><r>paajaabeln<s n="post"/></r></p></e>
     <e><p><l>ovddas<s n="post"/></l><r>oovdâst<s n="post"/></r></p></e>
     <e><p><l>rádjai<s n="post"/></l><r>räi<s n="post"/></r></p></e> 
     <e><p><l>rájes<s n="post"/></l><r>rääjist<s n="post"/></r></p></e>
@@ -328,7 +327,6 @@
     <e><p><l>uhcán<s n="adv"/></l><r>uccáá<s n="adv"/></r></p></e>
     <e><p><l>dušše<b/>beare<s n="adv"/></l><r>tuše<s n="adv"/></r></p></e>
 
-    <e><p><l>ánssáškeahttá<s n="adv"/></l><r>áánsášhánnáá<s n="adv"/></r></p></e><!-- not in sme; MLO: no adjective; removed from adjectives -->
     <e><p><l>litnásit<s n="adv"/></l><r>linásávt<s n="adv"/></r></p></e>
     <e><p><l>maŋos<b/>guvlui<s n="adv"/></l><r>maŋaskulij<s n="adv"/></r></p></e>
     <e><p><l>gurutbealde<s n="adv"/></l><r>čižetpeln<s n="adv"/></r></p></e>
@@ -1061,9 +1059,7 @@
     <e><p><l>suodji<s n="n"/></l><r>syeji<s n="n"/></r></p></e>
     <e><p><l>eaŋgalasgiella<s n="n"/></l><r>eŋgâlâskielâ<s n="n"/></r></p></e>
     <e><p><l>berošteaddji<s n="n"/><s n="nomag"/></l><r>kiddiistum<b/>olmooš<s n="n"/></r></p></e>
-    <e><p><l>árvoceahkki<s n="n"/></l><r>árvuciäkkádâh<s n="n"/></r></p></e> <!-- not in sme -->
-    <e><p><l>boazogeahčču<s n="n"/></l><r>puásuikiäčču<s n="n"/></r></p></e> <!-- not in sme -->
-    <e><p><l>searvvušráhkadus<s n="n"/></l><r>siärvádâhrááhtus<s n="n"/></r></p></e> <!-- not in sme -->
+    <e><p><l>geahčču<s n="n"/></l><r>kiäčču<s n="n"/></r></p></e>
     <e><p><l>čuvgehussearvi<s n="n"/></l><r>čuovviittâsservi<s n="n"/></r></p></e>
     <e><p><l>sáddehus<s n="n"/></l><r>vuolgâttâs<s n="n"/></r></p></e>
     <e><p><l>kábel<s n="n"/></l><r>kaabel<s n="n"/></r></p></e>
