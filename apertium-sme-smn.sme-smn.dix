@@ -1055,6 +1055,12 @@
     <!-- ASECTION: Nouns --> 
 
     <e><p><l>olgu<s n="n"/></l><r>olgo<s n="n"/></r></p></e>
+    <e><p><l>šearbma<s n="n"/></l><r>käägis<s n="n"/></r></p></e>
+    <e><p><l>čikŋodat<s n="n"/></l><r>jieŋŋâlvuotâ<s n="n"/></r></p></e>
+    <e><p><l>várrejupmi<s n="n"/></l><r>väridem<s n="n"/></r></p></e>
+    <e><p><l>simultána<s n="n"/></l><r>simultaan<s n="n"/></r></p></e> <!-- not in smn -->
+    <e><p><l>lavdnji<s n="n"/></l><r>lavŋe<s n="n"/></r></p></e>
+    <e><p><l>pedagogihkka<s n="n"/></l><r>pedagogiik<s n="n"/></r></p></e> <!-- not in smn -->
     <e><p><l>pakeahtta<s n="n"/></l><r>pakkeet<s n="n"/></r></p></e>
     <e><p><l>galleriija<s n="n"/></l><r>galleria<s n="n"/></r></p></e>
     <e><p><l>máhppa<s n="n"/></l><r>mappi<s n="n"/></r></p></e>
@@ -1873,6 +1879,7 @@
     <e><p><l>dmu<s n="n"/></l><r>tme<s n="n"/></r></p></e>
     <e><p><l>tel<s n="n"/></l><r>puh<s n="n"/></r></p></e>
     <e><p><l>má<s n="n"/></l><r>má<s n="n"/></r></p></e>
+    <e><p><l>ng<s n="n"/></l><r>nk<s n="n"/></r></p></e>
     <e><p><l>milj<s n="n"/></l><r>milj<s n="n"/></r></p></e>
     <e><p><l>AHR<s n="adv"/></l><r>AHR<s n="adv"/></r></p></e>
 
@@ -3523,7 +3530,12 @@
 
     <!-- ASECTION: Verbs -->
     <e><p><l>koordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
+    <e><p><l>fuotnánit<s n="vblex"/><s n="tv"/></l><r>hiäjusmiđ<s n="vblex"/></r></p></e>
+    <e><p><l>vuođustit<s n="vblex"/><s n="tv"/></l><r>vuáđustiđ<s n="vblex"/></r></p></e>
+    <e><p><l>helpet<s n="vblex"/><s n="tv"/></l><r>kiäppániđ<s n="vblex"/></r></p></e>
+    <e><p><l>vurket<s n="vblex"/><s n="tv"/></l><r>vuorkkiđ<s n="vblex"/></r></p></e>
     <e><p><l>postet<s n="vblex"/><s n="tv"/></l><r>postâdiđ<s n="vblex"/></r></p></e>
+    <e><p><l>hávváduvvat<s n="vblex"/><s n="tv"/></l><r>havvâšuđ<s n="vblex"/></r></p></e>
     <e><p><l>duohtandahkat<s n="vblex"/><s n="tv"/></l><r>olášuttiđ<s n="vblex"/></r></p></e>
     <e><p><l>váttásmahttit<s n="vblex"/><s n="tv"/></l><r>toohâđ<s n="vblex"/></r></p></e>
     <e><p><l>konkretiseret<s n="vblex"/><s n="tv"/></l><r>tärkkilistiđ<s n="vblex"/></r></p></e>
