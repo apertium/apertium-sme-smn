@@ -324,6 +324,8 @@
     
     <e><p><l>albma<b/>láhkai<s n="adv"/></l><r>olmânáál<s n="adv"/></r></p></e>
     <e><p><l>oanehaččat<s n="adv"/></l><r>uánihávt<s n="adv"/></r></p></e>
+    <e><p><l>dávjjibut<s n="adv"/></l><r>távjáb<s n="adv"/></r></p></e> <!-- not in smn -->
+    <e><p><l>gululdaga<s n="adv"/></l><r>váhá<s n="adv"/></r></p></e>
     <e><p><l>uhcán<s n="adv"/></l><r>uccáá<s n="adv"/></r></p></e>
     <e><p><l>dušše<b/>beare<s n="adv"/></l><r>tuše<s n="adv"/></r></p></e>
 
@@ -1052,7 +1054,17 @@
     <!-- ASECTION: Nouns --> 
 
     <e><p><l>olgu<s n="n"/></l><r>olgo<s n="n"/></r></p></e>
+    <e><p><l>galleriija<s n="n"/></l><r>galleria<s n="n"/></r></p></e>
+    <e><p><l>máhppa<s n="n"/></l><r>mappi<s n="n"/></r></p></e>
+    <e><p><l>antropologa<s n="n"/></l><r>antropoloog<s n="n"/></r></p></e> <!-- not in smn -->
+    <e><p><l>teáhter<s n="n"/></l><r>teatter<s n="n"/></r></p></e>
+    <e><p><l>ovttastupmi<s n="n"/></l><r>ovtâstume<s n="n"/></r></p></e>
+    <e><p><l>bigálusat<s n="n"/></l><r>pygályseh<s n="n"/></r></p></e>
+    <e><p><l>máinnašupmi<s n="n"/></l><r>mainâšume<s n="n"/></r></p></e>
+    <e><p><l>osolašvuohta<s n="n"/></l><r>uásálâšvuotâ<s n="n"/></r></p></e>
+    <e><p><l>badjeolmmái<s n="n"/></l><r>puásuituállee<s n="n"/></r></p></e>
     <e><p><l>klubba<s n="n"/></l><r>klubi<s n="n"/></r></p></e> <!-- not in smn -->
+    <e><p><l>kampánja<s n="n"/></l><r>kampanja<s n="n"/></r></p></e> <!-- not in smn -->
     <e><p><l>sále<s n="n"/></l><r>sali<s n="n"/></r></p></e>
     <e><p><l>virtuála<s n="n"/></l><r>virtuaal<s n="n"/></r></p></e> <!-- not in smn -->
     <e><p><l>heivehus<s n="n"/></l><r>heiviittâs<s n="n"/></r></p></e>
@@ -1859,6 +1871,7 @@
     <e><p><l>dmu<s n="n"/></l><r>tme<s n="n"/></r></p></e>
     <e><p><l>tel<s n="n"/></l><r>puh<s n="n"/></r></p></e>
     <e><p><l>má<s n="n"/></l><r>má<s n="n"/></r></p></e>
+    <e><p><l>milj<s n="n"/></l><r>milj<s n="n"/></r></p></e>
     <e><p><l>AHR<s n="adv"/></l><r>AHR<s n="adv"/></r></p></e>
 
 
@@ -3509,6 +3522,10 @@
     <!-- ASECTION: Verbs -->
     <e><p><l>koordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
     <e><p><l>postet<s n="vblex"/><s n="tv"/></l><r>postâdiđ<s n="vblex"/></r></p></e>
+    <e><p><l>duohtandahkat<s n="vblex"/><s n="tv"/></l><r>olášuttiđ<s n="vblex"/></r></p></e>
+    <e><p><l>váttásmahttit<s n="vblex"/><s n="tv"/></l><r>toohâđ<s n="vblex"/></r></p></e>
+    <e><p><l>konkretiseret<s n="vblex"/><s n="tv"/></l><r>tärkkilistiđ<s n="vblex"/></r></p></e>
+    <e><p><l>kritiseret<s n="vblex"/><s n="tv"/></l><r>árvuštâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>láidestit<s n="vblex"/><s n="tv"/></l><r>jođettiđ<s n="vblex"/></r></p></e>
     <e><p><l>vuohttit<s n="vblex"/><s n="tv"/></l><r>vyettiđ<s n="vblex"/></r></p></e>
     <e><p><l>vuohttut<s n="vblex"/><s n="tv"/></l><r>vuáttuđ<s n="vblex"/></r></p></e>
