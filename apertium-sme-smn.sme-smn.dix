@@ -323,6 +323,7 @@
     <!-- ASECTION: Adverbs -->
     
     <e><p><l>albma<b/>láhkai<s n="adv"/></l><r>olmânáál<s n="adv"/></r></p></e>
+    <e><p><l>máŋgga<b/>láhkai<s n="adv"/></l><r>maaŋgânáál<s n="adv"/></r></p></e> <!-- not in smn -->
     <e><p><l>oanehaččat<s n="adv"/></l><r>uánihávt<s n="adv"/></r></p></e>
     <e><p><l>dávjjibut<s n="adv"/></l><r>távjáb<s n="adv"/></r></p></e> <!-- not in smn -->
     <e><p><l>gululdaga<s n="adv"/></l><r>váhá<s n="adv"/></r></p></e>
@@ -1054,6 +1055,7 @@
     <!-- ASECTION: Nouns --> 
 
     <e><p><l>olgu<s n="n"/></l><r>olgo<s n="n"/></r></p></e>
+    <e><p><l>pakeahtta<s n="n"/></l><r>pakkeet<s n="n"/></r></p></e>
     <e><p><l>galleriija<s n="n"/></l><r>galleria<s n="n"/></r></p></e>
     <e><p><l>máhppa<s n="n"/></l><r>mappi<s n="n"/></r></p></e>
     <e><p><l>antropologa<s n="n"/></l><r>antropoloog<s n="n"/></r></p></e> <!-- not in smn -->
