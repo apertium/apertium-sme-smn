@@ -1127,18 +1127,6 @@
     </def-macro>  
 
 
-    <def-macro n="convert-deriv2-1Posit" npar="1">
-      <choose>
-
-        <when>
-          <test>
-               <equal><clip pos="1" side="sl" part="a_deriv2"/><lit-tag v="der_at"/></equal>
-          </test>
-          <let><clip pos="1" side="tl" part="a_deriv2"/><lit-tag v="der_avt"/></let> 
-        </when>
-    </choose>
-    </def-macro>  
-
 
     <def-macro n="inherenttag-px-2Posit" npar="2">  <!-- Son geahččá birra. Sun kiäččá pirrâsis. -->
 	<choose>   
@@ -1368,7 +1356,6 @@
             </when>
           </choose>
          <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
-         <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
          <call-macro n="foc-1Posit"><with-param pos="1"/></call-macro>
 <!--         <call-macro n="remove-advtag1"><with-param pos="1"/></call-macro> this needs a test in the macro-->
          <let><clip pos="1" side="tl" part="a_south"/><lit v=""/></let>
@@ -1609,7 +1596,6 @@
       <action>															   
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>  
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>  
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>  
        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>	   
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>	   
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>	   
@@ -1648,10 +1634,8 @@
       </pattern>														   
       <action>															   
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
@@ -1716,7 +1700,6 @@
       </pattern>
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
@@ -1813,10 +1796,8 @@
       </pattern>
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
@@ -1848,9 +1829,7 @@
       </pattern>
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
@@ -1884,11 +1863,8 @@
       </pattern>
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
-         <call-macro n="convert-deriv2-1Posit"><with-param pos="3"/></call-macro>
        <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
@@ -1945,10 +1921,8 @@
       </pattern>
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="foc-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
@@ -1980,15 +1954,12 @@
       </pattern>
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="3"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
         <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
@@ -2023,7 +1994,6 @@
       <action>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
@@ -2091,7 +2061,6 @@
       </pattern>
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
@@ -2120,7 +2089,6 @@
       </pattern>
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
@@ -2229,12 +2197,10 @@
      </pattern>
       <action>
         <call-macro n="convert-deriv-1Posit"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="1"/></call-macro>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
          <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
-         <call-macro n="convert-deriv2-1Posit"><with-param pos="3"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
        <out>
@@ -2874,7 +2840,6 @@
       </pattern>     
       <action>
 <!--        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>-->
@@ -3323,7 +3288,6 @@
 <!--        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
         <let><clip pos="3" side="tl" part="x_func"/><lit v=""/></let>
@@ -3372,10 +3336,8 @@
         <call-macro n="remove-semtag-1Posit"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="convert-deriv-1Posit"><with-param pos="3"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="3"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="3"/></call-macro>
         <call-macro n="convert-deriv-1Posit"><with-param pos="4"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="4"/></call-macro>
         <call-macro n="remove-semtag-1Posit"><with-param pos="4"/></call-macro>
         <let><clip pos="4" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="4" side="tl" part="a_func"/><lit v=""/></let>-->
@@ -3424,8 +3386,7 @@
         </let> 
 <!--        <let><clip pos="1" side="tl" part="x_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro>
-        <call-macro n="convert-deriv2-1Posit"><with-param pos="2"/></call-macro>-->
+        <call-macro n="convert-deriv-1Posit"><with-param pos="2"/></call-macro> -->
         <call-macro n="general-macro-1Posit"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Posit"><with-param pos="2"/></call-macro>
       <choose><when>
