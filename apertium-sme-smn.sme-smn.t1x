@@ -1058,6 +1058,7 @@
         <clip pos="1" side="tl" part="a_comp-superl"/>
 	    <clip pos="2" side="tl" part="a_nbr"/>
 	    <lit-tag v="gen"/> 
+	    <clip pos="1" side="tl" part="a_foc"/>
 	  </concat>                
         </let> 
         </when>
