@@ -1063,6 +1063,11 @@
 
     <e><p><l>olgu<s n="n"/></l><r>olgo<s n="n"/></r></p></e>
     <e><p><l>kritera<s n="n"/></l><r>kriiteer<s n="n"/></r></p></e>
+    <e><p><l>prosá<s n="n"/></l><r>proosa<s n="n"/></r></p></e> <!-- not in smn -->
+    <e><p><l>veaddi<s n="n"/></l><r>veedis<s n="n"/></r></p></e> 
+    <e><p><l>stereotiipa<s n="n"/></l><r>stereotypia<s n="n"/></r></p></e> 
+    <e><p><l>gaskkusteapmi<s n="n"/></l><r>veedis<s n="n"/></r></p></e> 
+    <e><p><l>háisuoidni<s n="n"/></l><r>hajâsyeini<s n="n"/></r></p></e> 
     <e><p><l>operáhtor<s n="n"/></l><r>operaattor<s n="n"/></r></p></e> <!-- not in smn -->
     <e><p><l>ealán<s n="n"/></l><r>iäláán<s n="n"/></r></p></e>
     <e><p><l>vuolláičállin<s n="n"/></l><r>vuáláčäällim<s n="n"/></r></p></e>
@@ -3557,7 +3562,9 @@
     <!-- ASECTION: Verbs -->
     <e><p><l>koordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
     <e><p><l>fuotnánit<s n="vblex"/><s n="iv"/></l><r>hiäjusmiđ<s n="vblex"/></r></p></e>
+    <e><p><l>vuoluštit<s n="vblex"/><s n="tv"/></l><r>väldidiđ<s n="vblex"/></r></p></e>
     <e><p><l>laskat<s n="vblex"/><s n="iv"/></l><r>lasaniđ<s n="vblex"/></r></p></e>
+    <e><p><l>hápmašuvvat<s n="vblex"/><s n="iv"/></l><r>häämi<b/>rievdâđ<s n="vblex"/></r></p></e>
     <e><p><l>guoskadit<s n="vblex"/><s n="tv"/></l><r>heiviittiđ<s n="vblex"/></r></p></e>
     <e><p><l>prentet<s n="vblex"/><s n="tv"/></l><r>teddiliđ<s n="vblex"/></r></p></e>
     <e><p><l>čielggasmahttit<s n="vblex"/><s n="tv"/></l><r>čielgâsmittiđ<s n="vblex"/></r></p></e>
