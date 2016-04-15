@@ -657,6 +657,7 @@
     
     <e><p><l>milliibáhcci<s n="adj"/></l><r>mieláidpäccee<s n="adj"/></r></p></e>
     <e><p><l>áitosaš<s n="adj"/></l><r>eidusâš<s n="adj"/></r></p></e>
+    <e><p><l>berošmeahttun<s n="adj"/></l><r>peerustmettum<s n="adj"/></r></p></e>
     <e><p><l>soahpameahttun<s n="adj"/></l><r>ruossâlâs<s n="adj"/></r></p></e>
     <e><p><l>jietnavuoigadahtton<s n="adj"/></l><r>jienâvuoigâdlâš<s n="adj"/></r></p></e>
     <e><p><l>ollesbeaivásaš<s n="adj"/></l><r>ubâpiäiválâš<s n="adj"/></r></p></e>
@@ -1062,7 +1063,10 @@
     
     <!-- ASECTION: Nouns --> 
 
+    <e><p><l>káfestallan<s n="n"/></l><r>káhvástâllâm<s n="n"/></r></p></e>
     <e><p><l>olgu<s n="n"/></l><r>olgo<s n="n"/></r></p></e>
+    <e><p><l>rádju<s n="n"/></l><r>vuárkká<s n="n"/></r></p></e>
+    <e><p><l>čuvgehus<s n="n"/></l><r>čuovviittâs<s n="n"/></r></p></e>
     <e><p><l>ovttastus<s n="n"/></l><r>ovtâstus<s n="n"/></r></p></e>
     <e><p><l>oktiigeassu<s n="n"/></l><r>čuákánkiäsu<s n="n"/></r></p></e>
     <e><p><l>kritera<s n="n"/></l><r>kriiteer<s n="n"/></r></p></e>
@@ -3566,7 +3570,9 @@
     <!-- ASECTION: Verbs -->
     <e><p><l>koordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
     <e><p><l>bálkkašit<s n="vblex"/><s n="tv"/></l><r>palhâšiđ<s n="vblex"/></r></p></e>
+    <e><p><l>áigáioažžut<s n="vblex"/><s n="tv"/></l><r>ááigánfinniđ<s n="vblex"/></r></p></e>
     <e><p><l>fuotnánit<s n="vblex"/><s n="iv"/></l><r>hiäjusmiđ<s n="vblex"/></r></p></e>
+    <e><p><l>káfestallat<s n="vblex"/><s n="iv"/></l><r>káhvástâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>menestuvvat<s n="vblex"/><s n="iv"/></l><r>miänástuđ<s n="vblex"/></r></p></e>
     <e><p><l>almmustit<s n="vblex"/><s n="iv"/></l><r>hiäjusmiđ<s n="vblex"/></r></p></e>
     <e><p><l>vuoluštit<s n="vblex"/><s n="tv"/></l><r>väldidiđ<s n="vblex"/></r></p></e>
