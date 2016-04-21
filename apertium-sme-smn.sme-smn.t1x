@@ -1901,32 +1901,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: gii Indef">
-      <pattern>
-        <pattern-item n="ind"/>
-      </pattern>
-      <action>
-      <choose><when>
-      <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Seahkas ii leat mihkkege. - Seehâst ij lah mihheen.-->
-              <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
-              </when>
-		</choose>
-        <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
-        <let><var n="adpos_chunk_name"/><lit v="Ind"/></let>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
-        <out>
-          <chunk namefrom="adpos_chunk_name" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="IND"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
+ 
     <rule comment="REGLA: num gen"> <!-- maŋŋel viđa. - viiđâ maŋa. -->
       <pattern>
         <pattern-item n="numgen"/>
