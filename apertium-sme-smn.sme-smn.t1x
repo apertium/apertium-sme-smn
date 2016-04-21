@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!-- -*- nxml -*- -->
+
+<!--
+t1x local rules, chunking, chunk-internal movement/tagfixing
+t2x remove FOC chunk, put foc_tag on word before
+t3x match larger contexts
+t4x move foc_tag from wordfoc chunk to the word inside
+
+
+
+
+-->
+
 <transfer default="chunk">
 
   <section-def-cats>
