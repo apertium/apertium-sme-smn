@@ -1,4 +1,4 @@
-Revision: 67433
+Revision: 67440
 AP_SRC1 (doesn't seem to be a repo)
 AP_SRC2 (doesn't seem to be a repo)
 Running Regression-tests with mode "sme-smn" with updated tests ...
@@ -44,8 +44,7 @@ WORKS	  Must láá čiččâm leibid.
 
 
 sme-smn	  Mus leat 18 oahppi.
-	- Must láá 18 uápped.
-	+ Must láá 18 uáppee.
+WORKS	  Must láá 18 uápped.
 
 
 sme-smn	  Mus leat čieža njálgga láibbi.
@@ -618,8 +617,7 @@ WORKS	  Mun tolvum rievâ viäsu luusâ.
 
 
 sme-smn	  Áhkku bođii maŋŋil juovllaid.
-	- Ákku poođij juovlâi maŋa.
-	+ Ákku poođij maŋa juovlâi.
+WORKS	  Ákku poođij juovlâi maŋa.
 
 
 sme-smn	  Elle váccii bálgá mielde johkagáddái.
@@ -695,18 +693,15 @@ WORKS	  Čokkáán munnuu kooskân.
 
 
 sme-smn	  Áhkku bođii maŋŋil juovllaid.
-	- Ákku poođij juovlâi maŋa.
-	+ Ákku poođij maŋa juovlâi.
+WORKS	  Ákku poođij juovlâi maŋa.
 
 
 sme-smn	  Son lea čoahkkimis gaskal viđa ja guđa.
-	- Sun lii čuákkimist viiđâ já kuuđâ kooskâst.
-	+ Sun lii čuákkimist kooskâst viiđâ já kuuđâ.
+WORKS	  Sun lii čuákkimist viiđâ já kuuđâ kooskâst.
 
 
 sme-smn	  Son bargá birra jándora.
-	- Sun parga pirrâmpeeivi miätá.
-	+ Sun parga miätá pirrâmpeeivi.
+WORKS	  Sun parga pirrâmpeeivi miätá.
 
 
 sme-smn	  Mun human dávjá nieidda birra.
@@ -774,8 +769,7 @@ WORKS	  Sun lii kiäsnii muštâlâm saavâid.
 
 
 sme-smn	  Buvdalásain ii lean ii juovlanigáhápma ge.
-	- Puvdâlaasâin ij lamaš ij juovlâtoontumuátunaamargin.
-	+ Puvdâlaasâin ij lamaš ij juovlâtonttumuátunaamargin.
+WORKS	  Puvdâlaasâin ij lamaš ij juovlâtonttumuátunaamargin.
 
 
 sme-smn	  In fuola makkárage.
@@ -875,4 +869,4 @@ sme-smn	  Giittos eatnat luoikamis.
 WORKS	  Kijttos ennâg luoikkâmist.
 
 
-208 / 216, 96.3%
+214 / 216, 99.07%

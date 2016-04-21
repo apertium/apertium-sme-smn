@@ -1457,37 +1457,6 @@ t4x move foc_tag from wordfoc chunk to the word inside
 
 
 
-
-    <rule comment="REGLA: nomcmpfoc">	 <!-- juovlâtoontumuátunaamar-uv -->
-      <pattern>
-        <pattern-item n="nouncmp"/>
-        <pattern-item n="noun"/>
-        <pattern-item n="foc"/>
-      </pattern>
-      <action>
-        <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
-        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv-1Param"><with-param pos="2"/></call-macro>
-        <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
-        <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="pcle-foc-2Param"><with-param pos="2"/><with-param pos="3"/></call-macro>  
-        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>	   
-       <out>															   
-          <chunk name="noun" case="caseFirstWord">					   
-            <tags>														   
-              <tag><lit-tag v="NP"/></tag>								   
-              <tag><var n="func"/></tag> 
-            </tags>														   
-            <mlu>
-              <lu><clip pos="1" side="tl" part="whole"/></lu>
-              <lu><clip pos="2" side="tl" part="whole"/></lu>
-            </mlu>
-          </chunk>														   
-        </out>															   
-      </action>															   
-    </rule>																   
- 
     <rule comment="REGLA: vblexfoc"> <!-- Boahtágo? - Puátá-uv? -->
       <pattern>
         <pattern-item n="verb"/>
@@ -1522,36 +1491,6 @@ t4x move foc_tag from wordfoc chunk to the word inside
 
 
 
-    <rule comment="REGLA: vblexfoc">
-      <pattern>
-        <pattern-item n="mainverb"/>
-        <pattern-item n="foc"/>
-      </pattern>
-      <action>
-        <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
-        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
-        <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
-        <out>
-          <chunk name="mainverb" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <mlu>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-             <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-             </mlu>
-        </chunk>
-        </out>
-      </action>
-    </rule>
 
 
 
