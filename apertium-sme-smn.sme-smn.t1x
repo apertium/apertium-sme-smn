@@ -1724,7 +1724,7 @@
         <out>
           <chunk name="noun" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -1735,7 +1735,7 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: nnomcmp 2"><!-- Ándde-guovttos - Aanti-kyehtis  -->
+    <rule comment="REGLA: nnomcmp 2 = skuvlabusse">
       <pattern>
         <pattern-item n="nouncmp"/>
         <pattern-item n="noun"/>
@@ -1750,9 +1750,9 @@
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
-          <chunk name="cmpnom" case="caseFirstWord">
+          <chunk name="noun" case="caseFirstWord">  
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <mlu>
@@ -1789,7 +1789,7 @@
         <out>
           <chunk name="noun" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <mlu>
@@ -1822,9 +1822,9 @@
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
-          <chunk name="noun" case="caseFirstWord">
+          <chunk name="adj" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="AP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <mlu>
@@ -1839,7 +1839,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: numcmp"> <!-- viđajahkásaš - viiđâihásâš -->
+
     <rule comment="REGLA: numcmp"> <!-- viđajahkásaš - viiđâihásâš -->
       <pattern>
         <pattern-item n="numcmp"/>
@@ -1852,9 +1852,9 @@
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
-          <chunk name="noun" case="caseFirstWord">
+          <chunk name="adj" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="AP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <mlu>
