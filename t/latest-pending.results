@@ -1,11 +1,402 @@
-Revision: 62271
-AP_SRC1 Revision: 122300
-AP_SRC2 Revision: 122300
+Revision: 67433
+AP_SRC1 (doesn't seem to be a repo)
+AP_SRC2 (doesn't seem to be a repo)
 Running Pending-tests with mode "sme-smn" with updated tests ...
 
-sme-smn	  Álggus Ipmil sivdnidii almmi ja eatnama.​.
-	- Aalgâst Immeel sivnedij alme já eennâm.
-	+ Aalgâst #Immeel *sivdnidii alme já eennâm.​.
+sme-smn	  Doppe ledje buot meahci eallit.
+	- Tobbeen lijjii puoh meeci elleeh.
+	+ Tobbeen lijjii puoh meeci eelliđ.
 
 
-0 / 1, 0%
+sme-smn	  Ii miljovnnain sáhte oastit viesu dán áigge.
+WORKS	  Ij miljovnáin pyevti uástiđ viäsu taan ääigi.
+
+
+sme-smn	  Mun gádden supmi miljovdnan, muhto ii leange eambbo go moadde duhát.
+	- Mun jurdim sume miljovnin, mut ij lamaškin eenâb ko muáddi tuhháát.
+	+ Mun jurdim sume miljovnin, mut ij lamašgin eenâb ko muáddi tuhháát.
+
+
+sme-smn	  Gávccilogiguđas (1986:s) ledjen mun ain vuođđoskuvllas.
+	- Kähcilovkuuđâst (1986:st) mun lijjim ain vuáđuškoovlâst.
+	+ Kähcilovkuuđâst (1986:st) lijjim mun ain vuáđuškoovlâst.
+
+
+sme-smn	  Golmmas sihtet gáfe.
+	- Kuulmâs halijdeh käähvi.
+	+ Kuulmâs halijdih käähvi.
+
+
+sme-smn	  Mus leat njeallje ovcceža.
+WORKS	  Must láá nelji ovccáá.
+
+
+sme-smn	  Son lea logiid fáhcaid juo láhppán.
+WORKS	  Sun lii luuvijd vaacâid jo láppám.
+
+
+sme-smn	  Ii máŋggaid sabehiiguin goastta gosage.
+WORKS	  Ij maaŋgâi savehijguin koostâ kuussân.
+
+
+sme-smn	  Boađán maŋŋil guovtti.
+	- Puáđám kyevti maŋa.
+	+ Puáđám maŋa kyevti.
+
+
+sme-smn	  Mun jávkkan guovttis guđa rádjái.
+WORKS	  Mun lappuum kyevtist kuuđâ räi.
+
+
+sme-smn	  Mun válddán dán golbma girjji.
+	- Mun vááldám táid kulmâ kirje.
+	+ Mun vááldám taam kulmâ kirje.
+
+
+sme-smn	  Dat olbmot, geat áigot boahtit.
+WORKS	  Toh ulmuuh, kiäh áiguh puáttiđ.
+
+
+sme-smn	  Máret muitalii ságaid juohkehažžii, gii gillii guldalit.
+WORKS	  Maarit muštâlij saavâid juáhážân, kii viišâi kuldâliđ.
+
+
+sme-smn	  Mat veahkit dus leat?
+	- Moh iišijd tust láá?
+	+ Moh išeh tust láá?
+
+
+sme-smn	  Siđan mašiinna, mainna sáhtán gávtti goarrut.
+WORKS	  Halijdâm maaššin, moin puávtám mááccuh kuárruđ.
+
+
+sme-smn	  Geaiguin don reivvestalat?
+WORKS	  Kiäiguin tun čalâččah?
+
+
+sme-smn	  Atte munnje daid girjjiid, main siiddut leat gaikodan.
+	- Adde munjin taid kiirjijd, main siijđoh láá kiškodâm.
+	+ Adde munjin taid/toid kiirjijd, main siijđoh láá kiškodâm.
+
+
+sme-smn	  Mun válddán dan veaskku, masa telefovdna čáhká.
+	- Mun vááldám ton viäsku, moos puhelin máttá.
+	+ Mun vááldám tom viäsku, moos puhelin máttá.
+
+
+sme-smn	  Sirdu dan beavddi, man alde lea TV.
+	- Sirdoon taan peevdi, mon alne lii TV.
+	+ Sirdoon tom peevdi, mon alne lii TV/TV.
+
+
+sme-smn	  Mii riŋget daidda váhnemiidda, geaid mánát borgguhit.
+	- Mij suáittip toid vanhimáid, kiäi párnááh porgotteleh.
+	+ Mij suáittip toid vanhimáid, kiäid párnááh porgottâlleh.
+
+
+sme-smn	  Mun vieččan dan reaga, goappá don guođát.
+WORKS	  Mun viežâm tom rievâ, kuábbáá tun kuáđáh.
+
+
+sme-smn	  Man don siđat, dán, duon vai dien?
+WORKS	  Mon tun halijdah, taam, tuom vâi tiem?
+
+
+sme-smn	  Sabehat mat ceaggájedje seainni vuostá, leat jávkan.
+WORKS	  Saveheh moh ciäggájii seeini vuástá, láá lappum.
+
+
+sme-smn	  guđiiguin viesuiguin? guđiid viesuiguin?
+WORKS	  kotemui viäsuiguin? kotemui viäsuiguin?
+
+
+sme-smn	  Guđe hildui borddát girjjiid?
+WORKS	  Kotemuu ildei pardah kiirjijd?
+
+
+sme-smn	  Guđiid mašiinnaiguin lea álkimus goarrut?
+WORKS	  Kotemui mašinijguin lii älkkeemus kuárruđ?
+
+
+sme-smn	  Guđiiguin mašiinnaiguin lea álkimus goarrut?
+WORKS	  Kotemui mašinijguin lii älkkeemus kuárruđ?
+
+
+sme-smn	  Son gii boahtá maŋŋit, ii oaččo čohkkánsaji.
+WORKS	  Sun kii puátá maŋŋeed, ij uážu čokkámsaje.
+
+
+sme-smn	  Guđiid biktasiid mun galggan bassat?
+WORKS	  Kotemuid pihtâsijd mun koolgâm poossâđ?
+
+
+sme-smn	  Ja nugo olmmoš gohčodii guđege ealli, nu dat šattai navdojuvvot.
+	- Já nuuvtko olmooš kočodij jieškote-uv ellee, nuuvt tot šoodâi nobduđ.
+	+ Já nuuvtko olmooš kočodij #jieškote ellee, nuuvt tot šoodâi nobduđ.
+
+
+sme-smn	  Dus ii leat mihkkege ákkaid mannat dohko.
+WORKS	  Tust ij lah mihheen aagâid moonnâđ toho.
+
+
+sme-smn	  Mii čorgestallat veahážiid juohke beaivvi.
+WORKS	  Mij čurgiistâllâp ucánjii jyehi peeivi.
+
+
+sme-smn	  Ja lea dat nuppiide sámiide nai hávski gullat sámi dili birra.
+	- Já lii tot nubbijd sämmiláid-uv hävski kuullâđ säämi tiileest.
+	+ Já lii tot nubbijd sämmiláid hävski kuullâđ säämi tiileest.
+
+
+sme-smn	  Don gal it dohkke maninge.
+	- Tun kal jieh tuhhii manengin.
+	+ Tun kal jieh tuhhii manegin.
+
+
+sme-smn	  Mánát iešguđege sogas deaivvadedje ja lahkanedje guhtet guimmiideaset.
+	- Párnááh jieškote-uv suuvâst teivâdii já aldanii jieškii-uv kuoimijdis.
+	+ Párnááh #jieškote suuvâst teividii já aldanii kyeimi kuoimijdis.
+
+
+sme-smn	  Olbmot háleštedje guhtet guimmiideasetguin.
+	- Ulmuuh savâstellii jieškii-uv kuoimijdiskuin.
+	+ Ulmuuh savâstâlij kyeimi kuoimijdiskuin.
+
+
+sme-smn	  Ovddemus galge nannet oahpahusa goabbat sajis.
+	- Ovdemustáá kolgii nonniđ máttááttâs kuábbáá-uv saajeest.
+	+ Ovdemustáá kolgii nonniđ máttááttâs #kuábáš-uv saajeest.
+
+
+sme-smn	  Sápmelaš giehtaduojár ii sáhte dakkáriiguin nagodit gilvalit.
+	- Sämmilâš kietâtuáijár ij sääti vaijeeđ tagarijguin kištottâllâđ.
+	+ Sämmilâš kietâtuáijár ij pyevti tagarijguin vaijeeđ kištottâllâđ.
+
+
+sme-smn	  Son čállá guktuid gieđaiguin.
+WORKS	  Sun čáálá kuohtui kieđâiguin.
+
+
+sme-smn	  Mii fertet juoppá áššis dahkat mearrádusa.
+WORKS	  Mij ferttip nube ääšist toohâđ miärádâs.
+
+
+sme-smn	  Son vállje juoppá máná.
+WORKS	  Sun väljee nube párnáá.
+
+
+sme-smn	  Son lea juoga mas leamaš mielde.
+	- Sun lii veikâ mast lamaš fáárust.
+	+ Sun lii miinii mast lamaš fáárust.
+
+
+sme-smn	  Son lea juostá leamaš mielde.
+	- Sun lii mastnii lamaš mieldi.
+	+ Sun lii mastnii lamaš fáárust.
+
+
+sme-smn	  Son lea juoga masa darvánan.
+	- Sun lii moosnii tarvanâm.
+	+ Sun lii miinii moos tarvanâm.
+
+
+sme-smn	  Ii mihkkege nu heittot, ahte juonin ii leat buorre.
+	- Ij mihheen nuuvt heeitug, et mastniigin ij lah pyeri.
+	+ Ij mihheen nuuvt heittug, et #miinii ij lah pyeri.
+
+
+sme-smn	  Oahpaheaddji lea dušše muhtumiidda juohkán doarjjaárkkaid.
+WORKS	  Máttáátteijee lii tuše motomáid juáhám toorjâaarkâid.
+
+
+sme-smn	  Ánne lea soapmásii suhttan.
+	- Ánná lii suámásân suttâm.
+	+ Ánná lii motomân suttâm.
+
+
+sme-smn	  Iigo dát dohkkešii juoga masa?
+	- Ij-uv taat tuhhiiččii moosniigin?
+	+ Ij-uv taat tuhhiiččij miinii moos?
+
+
+sme-smn	  Mun sáddejin reivve muhtun kantuvrii.
+WORKS	  Mun vuolgâttim reeivâ mottoom toimâttâhân.
+
+
+sme-smn	  Máret gal jáhkká vaikko geasa.
+WORKS	  Maarit kale osko veikkâ kiäs.
+
+
+sme-smn	  Son náitala vaikko goappáin oappáin.
+	- Sun náájá veikkâ kuábbáin obbijn.
+	+ Sun náájá veikkâ kuábbáin oobijn.
+
+
+sme-smn	  Mun oasttán vaikko makkár herskuid.
+WORKS	  Mun uástám veikkâ magarijd heerskuid.
+
+
+sme-smn	  Ii guđesge lean niesti mielde.
+WORKS	  Ij kiästán lamaš evvis fáárust.
+
+
+sme-smn	  Mis eai leat makkárge heađit.
+	- Mist iä lah magarehkin eđeh.
+	+ Mist iä lah magareh eđeh.
+
+
+sme-smn	  Moai ean leat lohpidan goappáge bargái eambbo bálkká.
+	- Muoi iän lah lopedâm kuábbáágin pargei eenâb päälhi.
+	+ Muoi iän lah lopedâm #kuábáš pargei eenâb päälhi.
+
+
+sme-smn	  Máret biehku juohke duššiin.
+	- Maarit piähu jyehi tuušijn.
+	+ Maarit piähu jyehi tuššijn.
+
+
+sme-smn	  Dáiguin mašiinnaiguin lea álki goarrut.
+WORKS	  Tai mašinijguin lii älkkee kuárruđ.
+
+
+sme-smn	  Dáidda beatnagiidda attán dávtti.
+WORKS	  Taid pennuid adelâm täävti.
+
+
+sme-smn	  Duoinna sáhttá čállit.
+WORKS	  Tuoin puáhtá čäälliđ.
+
+
+sme-smn	  Dáin ii leat olus ávki.
+WORKS	  Täin ij lah ennust ävkki.
+
+
+sme-smn	  Daidda čatnasit ollu ovdagáttut.
+WORKS	  Toid čonâseh ennuv munekááduh.
+
+
+sme-smn	  In dovdda dieid ovdamuniid.
+WORKS	  Jiem tuubdâ tieid ovdâdâsâid.
+
+
+sme-smn	  Eadni tevdnii duoid.
+WORKS	  Enni sáárgui tuoid.
+
+
+sme-smn	  Geanin don gáttát iežat?
+WORKS	  Kenen tun jurdáh jieijâd?
+
+
+sme-smn	  Soai leaba iežaineaskka jurddašan ahte dál ii gánnát biilla oastit.
+WORKS	  Suoi lává jiečânis jurdâččâm et tääl ij kannat auto uástiđ.
+
+
+sme-smn	  Son humai iežainis.
+	- Sun sáárnui jiečânis.
+	+ Sun sáárnui jieijâinis.
+
+
+sme-smn	  Sii čergo guhtet guimmiineaset.
+	- Sij čerguu jieškote-uv kuoimijnis.
+	+ Sij čerguu kyeimi kuoimijnis.
+
+
+sme-smn	  Soai čeargguiga goabbat guimmiineaskka.
+	- Suoi čiärgoin kuohtuuh kuoimijnis.
+	+ Suoi čiärgoin kuábáš-uv kuoimijnis.
+
+
+sme-smn	  Mii oaččuimet guhtet guoimmisteamet liđiid.
+	- Mij uážuim kyeimistân raasijd.
+	+ Mij uážuim kyeimi kyeimistân raasijd.
+
+
+sme-smn	  Sii addet guhtet guoibmáseaset liđiid.
+	- Sij adeleh kuáimásis raasijd.
+	+ Sij adeleh kyeimi kuáimásis raasijd.
+
+
+sme-smn	  Ean birge goabbat guoibmáme haga.
+	- Iän piergii kuábáškin kuoimijttáá.
+	+ Iän piergii kuábáš-uv kuáimán .
+
+
+sme-smn	  Mii bearráigeahččat guhtet guoibmámet mánáid.
+	- Mij piäránkeččâp jieškii-uv kuoimijdân párnáid.
+	+ Mij piäránkeččâp kyeimi kuáimán párnáid.
+
+
+sme-smn	  Sii dovdet guhtet guoimmiset.
+	- Sij tobdeh jieškii-uv kuoimijdis.
+	+ Sij tobdeh kyeimi kyeimis.
+
+
+sme-smn	  Soai dovdaba goabbat guoimmiska.
+	- Suoi tubdâv kuohtuuh kuoimijdis.
+	+ Suoi tubdâv kuábáš-uv kyeimis.
+
+
+sme-smn	  Dii oaččuidet skeaŋkka guhtet guimmiineattet.
+	- Tij uážuid skeeŋkâ jieškii-uv kuoimijnâd.
+	+ Tij uážuid skeeŋkâ kyeimi kuoimijnâd.
+
+
+sme-smn	  Dii oaččuidet skeaŋkka guhtet guoimmisteattet.
+	- Tij uážuid skeeŋkâ jieškii-uv kyeimistâd.
+	+ Tij uážuid skeeŋkâ kyeimi kyeimistâd.
+
+
+sme-smn	  Sii ledje hárbman guhtet guimmiidasaset.
+	- Sij lijjii iäddum jieškii-uv kuoimijdis.
+	+ Sij lijjii iäddum kyeimi kuoimijdsâs.
+
+
+sme-smn	  Sii ledje hárbman guhtet guoibmáseaset.
+	- Sij lijjii iäddum jieškii-uv kuáimásis.
+	+ Sij lijjii iäddum kyeimi kuáimásis.
+
+
+sme-smn	  Mii liikot guhtet guimmiidasamet.
+	- Mij lijkkup jieškii-uv kuoimijdân.
+	+ Mij lijkkup kyeimi kuoimijdasân.
+
+
+sme-smn	  Mii liikot guhtet guoibmáseamet.
+	- Mij lijkkup jieškii-uv kuáimásân.
+	+ Mij lijkkup kyeimi kuáimásân.
+
+
+sme-smn	  Doai oinniide goabbat guoimmáde.
+	- Tuoi oinijd kuohtuuh kuáimád.
+	+ Tuoi ooinijd kuábáš-uv kuáimád.
+
+
+sme-smn	  Soai oaččuiga skeaŋkka goabbat guoimmisteaskka.
+	- Suoi kuohtuuh uážžoin skeeŋkâ kyeimistis.
+	+ Suoi uážžoin skeeŋkâ kuábáš-uv kyeimistis.
+
+
+sme-smn	  Moai liikojetne goabbat guoibmáseame.
+	- Muoi lijkkojeen kuohtuuh kuoimijdân.
+	+ Muoi lijkkojeen kuábáš-uv kuáimásân.
+
+
+sme-smn	  Soai geahčaiga goabbat guoimmiska.
+WORKS	  Suoi keejáin kuábáš-uv kyeimis.
+
+
+sme-smn	  Buohkat suorganedje ja jerre guhtet guimmiineaset: Makkár sátni lea dát?
+	- Puohah suorgânii já koijâdii jieškiäin-uv kyeimistis: Maggaar sääni taat lii?
+	+ Puohah suorgânii já koijâdii kyeimi kuoimijnis: Maggaar sääni lii taat?
+
+
+sme-smn	  Makkár sátni lea dát?
+	- Maggaar sääni taat lii?
+	+ Maggaar sääni lii taat?
+
+
+sme-smn	  Ean fuola su iežame mielde.
+WORKS	  Iän huolâ suu fárusân.
+
+
+39 / 87, 44.83%
