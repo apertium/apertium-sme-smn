@@ -1553,7 +1553,7 @@
         <out>
           <chunk namefrom="subject" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -1574,7 +1574,7 @@
         <out>
           <chunk namefrom="spred" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -1596,7 +1596,7 @@
         <out>
           <chunk namefrom="object" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -1623,7 +1623,7 @@
        <out>
           <chunk name="object" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <mlu>
@@ -1657,7 +1657,7 @@
         <out>
           <chunk namefrom="object" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -1695,7 +1695,7 @@
         <out>
           <chunk namefrom="object" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -1840,7 +1840,8 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: numcmp"> <!-- viđajahkásaš - viiđâihásâš -->
+<!-- viđajahkásaš - viiđâihásâš -->
+<!--    <rule comment="REGLA: numcmp"> 
       <pattern>
         <pattern-item n="numcmp"/>
         <pattern-item n="noun"/>
@@ -1868,7 +1869,7 @@
         </chunk>
         </out>
       </action>
-    </rule>
+    </rule>-->
     <rule comment="REGLA: numcmp num"> <!-- 10-20 olbmo -->
       <pattern>
         <pattern-item n="numcmp"/>
@@ -1883,7 +1884,7 @@
         <out>
           <chunk name="num" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <mlu>
@@ -1919,7 +1920,7 @@
         <out>
           <chunk namefrom="adpos_chunk_name" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -2107,7 +2108,7 @@
         <out>
           <chunk name="adj" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -2576,7 +2577,7 @@
        <out>
           <chunk name="a-n" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -2617,7 +2618,7 @@
 		<out>
           <chunk name="num-noun">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
               <tag><lit-tag v="blabla"/></tag>
             </tags>
@@ -2663,7 +2664,7 @@
 		<out>
           <chunk name="num-noun">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <mlu>
@@ -2713,7 +2714,7 @@
         <out>
           <chunk name="num-noun">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -2764,7 +2765,7 @@
         <out>
           <chunk name="num-noun">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -3031,7 +3032,7 @@
         <out>
           <chunk name="agreement-np">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
 	        <lu>
@@ -3065,7 +3066,7 @@
         <out>
           <chunk name="agreement-np">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
 	        <lu>
@@ -3111,7 +3112,7 @@
         <out>
           <chunk name="agreement-np">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
 	        <lu>
@@ -3162,7 +3163,7 @@
         <out>
           <chunk name="agreement-np">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
 	        <lu>
@@ -3219,7 +3220,7 @@
         <out>
           <chunk name="agreement-np">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
 	        <lu>
@@ -3263,7 +3264,7 @@
         <out>
           <chunk name="agreement-np">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
 	        <lu>
@@ -3456,7 +3457,7 @@
        <out>
           <chunk name="noun-adv">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -3482,7 +3483,7 @@
        <out>
           <chunk name="noun-ess">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
