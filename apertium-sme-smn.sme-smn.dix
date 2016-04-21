@@ -10,6 +10,7 @@
     <sdef n="attr"        c="Attributive"/>
     <sdef n="ij"        c="Interjection"/>
     <sdef n="abbr"        c="Abbreviation"/>
+    <sdef n="acr"        c="Acronym"/>
     <sdef n="np"       c="Proper noun"/>
     <sdef n="coll"       c="Collective number"/>
     <sdef n="num"      c="Numeral"/>
@@ -55143,7 +55144,12 @@
     <e><p><l>Jefremoff<s n="np"/></l><r>Jefremoff<s n="np"/></r></p></e>
     <e><p><l>Aulikki<s n="np"/></l><r>Aulikki<s n="np"/></r></p></e>
 
-    
+    <!-- acronyms -->
+
+
+    <e><p><l>NATO<s n="n"/><s n="acr"/></l><r>NATO<s n="n"/><s n="acr"/></r></p></e>
+    <e><p><l>NRK<s n="n"/><s n="acr"/></l><r>NRK<s n="n"/><s n="acr"/></r></p></e>
+       <e><p><l>YLE<s n="n"/><s n="acr"/></l><r>YLE<s n="n"/><s n="acr"/></r></p></e>    
    
   </section> 
 
