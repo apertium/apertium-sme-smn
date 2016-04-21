@@ -9,31 +9,31 @@
       <cat-item lemma="gii" tags="prn.ind.*"/>
       <cat-item lemma="mii" tags="prn.ind.*"/>
     </def-cat>
-    <def-cat n="numsem"> 
+    <def-cat n="numsem">
       <cat-item tags="num.*"/>
     </def-cat>
-    <def-cat n="adv_r"> 
+    <def-cat n="adv_r">
       <cat-item tags="*.@←ADVL"/>
     </def-cat>
-    <def-cat n="ovdamearka"> 
+    <def-cat n="ovdamearka">
       <cat-item lemma="ovdamearka" tags="n.*"/>
     </def-cat>
-    <def-cat n="dihtii"> 
+    <def-cat n="dihtii">
       <cat-item lemma="dihtii" tags="post.*"/>
       <cat-item lemma="dihte" tags="post.*"/>
    </def-cat>
-   <def-cat n="po_l"> 
+   <def-cat n="po_l">
       <cat-item tags="*.@→P"/>
     </def-cat>
-    <def-cat n="l_subj"> 
+    <def-cat n="l_subj">
       <cat-item tags="*.@←SUBJ"/>
     </def-cat>
-    <def-cat n="l_spred"> 
+    <def-cat n="l_spred">
       <cat-item lemma="dát" tags="prn.dem.*.*.@←SPRED"/>
     </def-cat>
-    <def-cat n="obj_l"> 
+    <def-cat n="obj_l">
       <cat-item tags="*.@OBJ→"/>
-      <cat-item tags="n.*.@OBJ→"/>       
+      <cat-item tags="n.*.@OBJ→"/>
       <cat-item tags="n.*.@-FOBJ→"/>
     </def-cat>
     <def-cat n="giittos">
@@ -59,8 +59,8 @@
       <cat-item tags="np.*.*.cmp"/>
       <cat-item tags="np.*.*.*.cmp"/>
       <cat-item tags="np.*.*.guio"/>
-      <cat-item tags="np.*.*.*.guio"/> 
-      <cat-item tags="np.*.*.*.*.guio"/> 
+      <cat-item tags="np.*.*.*.guio"/>
+      <cat-item tags="np.*.*.*.*.guio"/>
     </def-cat>
      <def-cat n="numcmp">
       <cat-item tags="num.cmp"/>
@@ -143,14 +143,14 @@
       <cat-item tags="adv.*"/>
       <cat-item tags="adv"/>
     </def-cat>
-    <def-cat n="num-nomacc">                           
-      <cat-item tags="num.sg.nom.*"/>                  
-      <cat-item tags="num.sg.acc.*"/>                  
-    </def-cat>                                         
-    <def-cat n="numattr">                           
-      <cat-item tags="num.sg.*.attr.*"/>                  
-      <cat-item tags="num.sg.attr.*"/>                  
-    </def-cat>                                         
+    <def-cat n="num-nomacc">
+      <cat-item tags="num.sg.nom.*"/>
+      <cat-item tags="num.sg.acc.*"/>
+    </def-cat>
+    <def-cat n="numattr">
+      <cat-item tags="num.sg.*.attr.*"/>
+      <cat-item tags="num.sg.attr.*"/>
+    </def-cat>
      <def-cat n="jagi">
       <cat-item lemma="jahki" tags="n.*.sg.gen.*"/>
       <cat-item lemma="jahki" tags="n.sg.gen.*"/>
@@ -161,79 +161,79 @@
      <def-cat n="agreement-buot">
       <cat-item lemma="buot" tags="prn.ind.attr.*"/>
     </def-cat>
-    <def-cat n="agreement-attr">    <!-- todo: remove starless versions of adj -->                         
-      <cat-item lemma="aiddonas" tags="adj.*.attr.*"/> 
-      <cat-item lemma="boahttevaš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="čuvgehuslaš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="dieđalaš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="dárbbašlaš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="dálá" tags="adj.*.attr.*"/> 
-      <cat-item lemma="dáláš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="dološ" tags="adj.*.attr.*"/> 
+    <def-cat n="agreement-attr">    <!-- todo: remove starless versions of adj -->
+      <cat-item lemma="aiddonas" tags="adj.*.attr.*"/>
+      <cat-item lemma="boahttevaš" tags="adj.*.attr.*"/>
+      <cat-item lemma="čuvgehuslaš" tags="adj.*.attr.*"/>
+      <cat-item lemma="dieđalaš" tags="adj.*.attr.*"/>
+      <cat-item lemma="dárbbašlaš" tags="adj.*.attr.*"/>
+      <cat-item lemma="dálá" tags="adj.*.attr.*"/>
+      <cat-item lemma="dáláš" tags="adj.*.attr.*"/>
+      <cat-item lemma="dološ" tags="adj.*.attr.*"/>
       <cat-item lemma="lihkolaš" tags="adj.*.attr.*"/>
       <cat-item lemma="lihkolaš" tags="adj.attr.*"/>
-      <cat-item lemma="girjjálaš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="doaimmalaš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="doaimmalaš" tags="adj.attr.*"/> 
-      <cat-item lemma="teknologalaš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="riikkaidgaskasaš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="analyhtalaš" tags="adj.*.attr.*"/> 
+      <cat-item lemma="girjjálaš" tags="adj.*.attr.*"/>
+      <cat-item lemma="doaimmalaš" tags="adj.*.attr.*"/>
+      <cat-item lemma="doaimmalaš" tags="adj.attr.*"/>
+      <cat-item lemma="teknologalaš" tags="adj.*.attr.*"/>
+      <cat-item lemma="riikkaidgaskasaš" tags="adj.*.attr.*"/>
+      <cat-item lemma="analyhtalaš" tags="adj.*.attr.*"/>
       <cat-item lemma="guhte" tags="prn.ind.*"/>
       <cat-item lemma="guhtemuš" tags="prn.itg.*"/>
-      <cat-item lemma="guovddáš" tags="adj.*.attr.*"/> 
-      <cat-item lemma="maŋit" tags="adj.*.attr.*"/> 
-      <cat-item lemma="muhtun" tags="prn.ind.attr.*"/> 
+      <cat-item lemma="guovddáš" tags="adj.*.attr.*"/>
+      <cat-item lemma="maŋit" tags="adj.*.attr.*"/>
+      <cat-item lemma="muhtun" tags="prn.ind.attr.*"/>
       <cat-item lemma="makkár" tags="prn.ind.*"/>
       <cat-item lemma="makkár" tags="prn.itg.*"/>
-      <cat-item lemma="otná" tags="adj.*.attr.*"/> 
+      <cat-item lemma="otná" tags="adj.*.attr.*"/>
       <cat-item lemma="seammá" tags="prn.ind.*"/>
-      <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!--  put under vuosttaš as lemma in sme -->                   
-      <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/> 
-      <cat-item lemma="vuosttas" tags="adj.ord.attr"/> 
+      <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!--  put under vuosttaš as lemma in sme -->
+      <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/>
+      <cat-item lemma="vuosttas" tags="adj.ord.attr"/>
       <cat-item tags="n.der_lasj.adj.attr"/>
       <cat-item tags="n.*.der_lasj.adj.attr"/>
-      <cat-item tags="adj.comp.attr"/> 
-      <cat-item tags="adj.comp.attr.*"/> 
-      <cat-item tags="adj.sup.attr"/> 
-      <cat-item tags="adj.sup.attr.*"/> 
-      <cat-item tags="adj.*.comp.attr"/> 
-      <cat-item tags="adj.*.comp.attr.*"/> 
-      <cat-item tags="adj.*.sup.attr"/> 
-      <cat-item tags="adj.*.sup.attr.*"/> 
-    </def-cat>  
-    <def-cat n="n-sg-nom">                             
-      <cat-item tags="np.*.*.sg.nom.*"/>                   
-      <cat-item tags="np.*.sg.nom.*"/>                   
-      <cat-item tags="np.sg.nom.*"/>                   
-      <cat-item tags="n.*.sg.nom.*"/>                   
-      <cat-item tags="n.*.*.sg.nom.*"/>                   
-    </def-cat>  
-    <def-cat n="n-sg-accgen">                             
-      <cat-item tags="n.*.sg.gen.*"/>                     
-      <cat-item tags="n.*.*.sg.gen.*"/>                   
-      <cat-item tags="n.*.sg.acc.*"/>                     
-      <cat-item tags="n.*.*.sg.acc.*"/>                   
-   </def-cat>  
-    <def-cat n="n-sg-pl-gen">                             
-      <cat-item tags="n.*.sg.gen.*"/>                     
-      <cat-item tags="n.*.pl.gen.*"/>                     
-      <cat-item tags="n.*.*.sg.gen.*"/>                     
-      <cat-item tags="n.*.*.pl.gen.*"/>                     
-    </def-cat>  
+      <cat-item tags="adj.comp.attr"/>
+      <cat-item tags="adj.comp.attr.*"/>
+      <cat-item tags="adj.sup.attr"/>
+      <cat-item tags="adj.sup.attr.*"/>
+      <cat-item tags="adj.*.comp.attr"/>
+      <cat-item tags="adj.*.comp.attr.*"/>
+      <cat-item tags="adj.*.sup.attr"/>
+      <cat-item tags="adj.*.sup.attr.*"/>
+    </def-cat>
+    <def-cat n="n-sg-nom">
+      <cat-item tags="np.*.*.sg.nom.*"/>
+      <cat-item tags="np.*.sg.nom.*"/>
+      <cat-item tags="np.sg.nom.*"/>
+      <cat-item tags="n.*.sg.nom.*"/>
+      <cat-item tags="n.*.*.sg.nom.*"/>
+    </def-cat>
+    <def-cat n="n-sg-accgen">
+      <cat-item tags="n.*.sg.gen.*"/>
+      <cat-item tags="n.*.*.sg.gen.*"/>
+      <cat-item tags="n.*.sg.acc.*"/>
+      <cat-item tags="n.*.*.sg.acc.*"/>
+   </def-cat>
+    <def-cat n="n-sg-pl-gen">
+      <cat-item tags="n.*.sg.gen.*"/>
+      <cat-item tags="n.*.pl.gen.*"/>
+      <cat-item tags="n.*.*.sg.gen.*"/>
+      <cat-item tags="n.*.*.pl.gen.*"/>
+    </def-cat>
     <def-cat n="haga">
       <cat-item lemma="haga" tags="post.*"/>
       <cat-item lemma="taga" tags="post.*"/>
     </def-cat>
-    <def-cat n="almmá">  
+    <def-cat n="almmá">
       <cat-item lemma="almmá" tags="adv.*"/>
     </def-cat>
-    <def-cat n="mielde">  
+    <def-cat n="mielde">
       <cat-item lemma="mielde" tags="post.*"/>
     </def-cat>
-    <def-cat n="prnrefgen"> 
+    <def-cat n="prnrefgen">
       <cat-item tags="prn.ref.gen.*"/>
     </def-cat>
-    <def-cat n="refcom"> 
+    <def-cat n="refcom">
       <cat-item tags="prn.ref.com.*"/>
     </def-cat>
     <def-cat n="com-ess-verb">
@@ -283,15 +283,15 @@
       <cat-item tags="prn.ind.attr.*"/>
       <cat-item tags="prn.itg.attr.*"/>
     </def-cat>
-    
+
     <def-cat n="n-pl-com">
-		<cat-item tags="n.*.pl.com.*"/>   
-		<cat-item tags="n.pl.com.*"/>   
-	</def-cat>            
+		<cat-item tags="n.*.pl.com.*"/>
+		<cat-item tags="n.pl.com.*"/>
+	</def-cat>
     <def-cat n="n-sg-com">
-		<cat-item tags="n.*.sg.com.*"/>   
-		<cat-item tags="n.sg.com.*"/>   
-	</def-cat>            
+		<cat-item tags="n.*.sg.com.*"/>
+		<cat-item tags="n.sg.com.*"/>
+	</def-cat>
     <def-cat n="prn-pers">
       <cat-item tags="prn.pers.*"/>
     </def-cat>
@@ -302,104 +302,104 @@
       <cat-item tags="prn.pers.*.acc.*"/>
     </def-cat>
 <!-- from sme-nob ends -->
-    <def-cat n="prep">                             
-      <cat-item tags="pr.*"/>                    
-    </def-cat>  
-    <def-cat n="nom-gen">                             
-      <cat-item tags="n.*.sg.gen.*"/>                     
-      <cat-item tags="n.*.pl.gen.*"/>                     
-      <cat-item tags="n.*.*.sg.gen.*"/>                     
-      <cat-item tags="n.*.*.pl.gen.*"/>                     
-      <cat-item tags="np.sg.gen.*"/>                     
-      <cat-item tags="np.*.pl.gen.*"/>                     
-      <cat-item tags="np.*.sg.gen.*"/>                     
-      <cat-item tags="np.pl.gen.*"/>                     
-      <cat-item tags="prn.*.p3.sg.gen.*"/>                     
-      <cat-item tags="prn.*.p2.sg.gen.*"/>                     
-      <cat-item tags="prn.*.p1.sg.gen.*"/>                     
-      <cat-item tags="prn.*.p3.pl.gen.*"/>                     
-      <cat-item tags="prn.*.p2.pl.gen.*"/>                     
-      <cat-item tags="prn.*.p1.pl.gen.*"/>                     
-      <cat-item tags="prn.*.p3.du.gen.*"/>                     
-      <cat-item tags="prn.*.p2.du.gen.*"/>                     
-      <cat-item tags="prn.*.p1.du.gen.*"/>                     
-      <cat-item tags="prn.dem.sg.gen.*"/>                     
-      <cat-item tags="prn.dem.pl.gen.*"/>                     
-    </def-cat>  
-    <def-cat n="agreem-sg-gen">                             
-      <cat-item tags="np.*.sg.gen.*"/>                    
-      <cat-item tags="np.sg.gen.*"/>                    
-      <cat-item tags="np.*.sg.ill.*"/>                    
-      <cat-item tags="np.sg.ill.*"/>                    
-      <cat-item tags="np.*.sg.loc.*"/>                    
-      <cat-item tags="np.sg.loc.*"/>                    
-      <cat-item tags="n.*.sg.gen.*"/>                    
-      <cat-item tags="n.sg.gen.*"/>                    
-      <cat-item tags="n.*.sg.ill.*"/>                    
-      <cat-item tags="n.sg.ill.*"/>                    
-      <cat-item tags="n.*.sg.loc.*"/>                    
-      <cat-item tags="n.sg.loc.*"/>                    
-      <cat-item tags="n.*.ess.*"/>                    
-      <cat-item tags="n.ess.*"/>                    
-      <cat-item tags="*.n.sg.gen.*"/>                    
-      <cat-item tags="*.n.sg.ill.*"/>                    
-      <cat-item tags="*.n.sg.loc.*"/>                    
-      <cat-item tags="*.n.*.ess.*"/>                    
-    </def-cat>  
-    <def-cat n="agreem-sg">                             
-      <cat-item tags="n.*.sg.nom.*"/>                   
-      <cat-item tags="np.*.sg.nom.*"/>                   
-      <cat-item tags="np.sg.nom.*"/>                   
-      <cat-item tags="n.*.sg.acc.*"/>                    
-      <cat-item tags="n.*.sg.com.*"/>                    
-      <cat-item tags="n.sg.nom.*"/>                   
-      <cat-item tags="n.sg.acc.*"/>                    
-      <cat-item tags="n.sg.com.*"/>                    
-      <cat-item tags="*.n.sg.nom.*"/>                   
-      <cat-item tags="*.n.sg.acc.*"/>                    
-      <cat-item tags="*.n.sg.com.*"/>                    
-    </def-cat>  
-    <def-cat n="agreem-pl">                             
-      <cat-item tags="n.*.pl.nom.*"/>                    
-      <cat-item tags="n.*.pl.gen.*"/>                    
-      <cat-item tags="n.*.pl.acc.*"/>                    
-      <cat-item tags="n.*.pl.ill.*"/>                    
-      <cat-item tags="n.*.pl.loc.*"/>                    
-      <cat-item tags="n.*.pl.abe.*"/>                    
-      <cat-item tags="n.*.pl.com.*"/>      
-      <cat-item tags="n.pl.nom.*"/>                    
-      <cat-item tags="n.pl.gen.*"/>                    
-      <cat-item tags="n.pl.acc.*"/>                    
-      <cat-item tags="n.pl.ill.*"/>                    
-      <cat-item tags="n.pl.loc.*"/>                    
-      <cat-item tags="n.pl.abe.*"/>                    
-      <cat-item tags="n.pl.com.*"/>      
-      <cat-item tags="*.n.pl.nom.*"/>                    
-      <cat-item tags="*.n.pl.gen.*"/>                    
-      <cat-item tags="*.n.pl.acc.*"/>                    
-      <cat-item tags="*.n.pl.ill.*"/>                    
-      <cat-item tags="*.n.pl.loc.*"/>                    
-      <cat-item tags="*.n.pl.abe.*"/>                    
-      <cat-item tags="*.n.pl.com.*"/>      
-    </def-cat>  
-      <def-cat n="attr">                             
-      <cat-item tags="*.attr.*"/>                    
-      <cat-item tags="*.attr"/>                    
-    </def-cat>  
-      <def-cat n="adjattr">                             
-      <cat-item tags="adj.*.attr.*"/>                    
-      <cat-item tags="adj.attr.*"/>                    
-    </def-cat>  
-    <def-cat n="birra-po">                             
-      <cat-item lemma="birra" tags="post.*"/>                    
-    </def-cat>  
-    <def-cat n="shoes">                             
-      <cat-item lemma="gáma" tags="n.*"/>                    
-      <cat-item lemma="skuovva" tags="n.*"/>                    
-    </def-cat>  
-    <def-cat n="birra-adv">                             
-      <cat-item lemma="birra" tags="adv.*"/>                    
-    </def-cat>  
+    <def-cat n="prep">
+      <cat-item tags="pr.*"/>
+    </def-cat>
+    <def-cat n="nom-gen">
+      <cat-item tags="n.*.sg.gen.*"/>
+      <cat-item tags="n.*.pl.gen.*"/>
+      <cat-item tags="n.*.*.sg.gen.*"/>
+      <cat-item tags="n.*.*.pl.gen.*"/>
+      <cat-item tags="np.sg.gen.*"/>
+      <cat-item tags="np.*.pl.gen.*"/>
+      <cat-item tags="np.*.sg.gen.*"/>
+      <cat-item tags="np.pl.gen.*"/>
+      <cat-item tags="prn.*.p3.sg.gen.*"/>
+      <cat-item tags="prn.*.p2.sg.gen.*"/>
+      <cat-item tags="prn.*.p1.sg.gen.*"/>
+      <cat-item tags="prn.*.p3.pl.gen.*"/>
+      <cat-item tags="prn.*.p2.pl.gen.*"/>
+      <cat-item tags="prn.*.p1.pl.gen.*"/>
+      <cat-item tags="prn.*.p3.du.gen.*"/>
+      <cat-item tags="prn.*.p2.du.gen.*"/>
+      <cat-item tags="prn.*.p1.du.gen.*"/>
+      <cat-item tags="prn.dem.sg.gen.*"/>
+      <cat-item tags="prn.dem.pl.gen.*"/>
+    </def-cat>
+    <def-cat n="agreem-sg-gen">
+      <cat-item tags="np.*.sg.gen.*"/>
+      <cat-item tags="np.sg.gen.*"/>
+      <cat-item tags="np.*.sg.ill.*"/>
+      <cat-item tags="np.sg.ill.*"/>
+      <cat-item tags="np.*.sg.loc.*"/>
+      <cat-item tags="np.sg.loc.*"/>
+      <cat-item tags="n.*.sg.gen.*"/>
+      <cat-item tags="n.sg.gen.*"/>
+      <cat-item tags="n.*.sg.ill.*"/>
+      <cat-item tags="n.sg.ill.*"/>
+      <cat-item tags="n.*.sg.loc.*"/>
+      <cat-item tags="n.sg.loc.*"/>
+      <cat-item tags="n.*.ess.*"/>
+      <cat-item tags="n.ess.*"/>
+      <cat-item tags="*.n.sg.gen.*"/>
+      <cat-item tags="*.n.sg.ill.*"/>
+      <cat-item tags="*.n.sg.loc.*"/>
+      <cat-item tags="*.n.*.ess.*"/>
+    </def-cat>
+    <def-cat n="agreem-sg">
+      <cat-item tags="n.*.sg.nom.*"/>
+      <cat-item tags="np.*.sg.nom.*"/>
+      <cat-item tags="np.sg.nom.*"/>
+      <cat-item tags="n.*.sg.acc.*"/>
+      <cat-item tags="n.*.sg.com.*"/>
+      <cat-item tags="n.sg.nom.*"/>
+      <cat-item tags="n.sg.acc.*"/>
+      <cat-item tags="n.sg.com.*"/>
+      <cat-item tags="*.n.sg.nom.*"/>
+      <cat-item tags="*.n.sg.acc.*"/>
+      <cat-item tags="*.n.sg.com.*"/>
+    </def-cat>
+    <def-cat n="agreem-pl">
+      <cat-item tags="n.*.pl.nom.*"/>
+      <cat-item tags="n.*.pl.gen.*"/>
+      <cat-item tags="n.*.pl.acc.*"/>
+      <cat-item tags="n.*.pl.ill.*"/>
+      <cat-item tags="n.*.pl.loc.*"/>
+      <cat-item tags="n.*.pl.abe.*"/>
+      <cat-item tags="n.*.pl.com.*"/>
+      <cat-item tags="n.pl.nom.*"/>
+      <cat-item tags="n.pl.gen.*"/>
+      <cat-item tags="n.pl.acc.*"/>
+      <cat-item tags="n.pl.ill.*"/>
+      <cat-item tags="n.pl.loc.*"/>
+      <cat-item tags="n.pl.abe.*"/>
+      <cat-item tags="n.pl.com.*"/>
+      <cat-item tags="*.n.pl.nom.*"/>
+      <cat-item tags="*.n.pl.gen.*"/>
+      <cat-item tags="*.n.pl.acc.*"/>
+      <cat-item tags="*.n.pl.ill.*"/>
+      <cat-item tags="*.n.pl.loc.*"/>
+      <cat-item tags="*.n.pl.abe.*"/>
+      <cat-item tags="*.n.pl.com.*"/>
+    </def-cat>
+      <def-cat n="attr">
+      <cat-item tags="*.attr.*"/>
+      <cat-item tags="*.attr"/>
+    </def-cat>
+      <def-cat n="adjattr">
+      <cat-item tags="adj.*.attr.*"/>
+      <cat-item tags="adj.attr.*"/>
+    </def-cat>
+    <def-cat n="birra-po">
+      <cat-item lemma="birra" tags="post.*"/>
+    </def-cat>
+    <def-cat n="shoes">
+      <cat-item lemma="gáma" tags="n.*"/>
+      <cat-item lemma="skuovva" tags="n.*"/>
+    </def-cat>
+    <def-cat n="birra-adv">
+      <cat-item lemma="birra" tags="adv.*"/>
+    </def-cat>
     <def-cat n="nubbi">
       <cat-item lemma="nubbi" tags="prn.*"/>
     </def-cat>
@@ -520,7 +520,7 @@
       <attr-item tags="ref"/>
     </def-attr>
 
-    
+
     <def-attr n="a_mood">
        <attr-item tags="pot"/>
        <attr-item tags="indic"/>
@@ -1002,7 +1002,7 @@
             <lit v=""/>
           </let>
     </def-macro>
-    
+
     <def-macro n="remove-advtag-1Param" npar="1"> <!--  +Adv+Comp +Adv+Superl to +Adv -->
           <let>
             <clip pos="1" side="tl" part="a_comp-superl"/>
@@ -1054,18 +1054,18 @@
     	      <clip pos="2" side="tl" part="a_ntype"/>
     	      <clip pos="2" side="tl" part="a_nbr"/>
     	      <clip pos="2" side="tl" part="a_cas"/>
-    	    </concat>  
-        </let> 
+    	    </concat>
+        </let>
         <let>
           <clip pos="1" side="tl" part="tags"/>
 	  <concat>
         <clip pos="1" side="tl" part="a_npagree_type"/>
         <clip pos="1" side="tl" part="a_comp-superl"/>
 	    <clip pos="2" side="tl" part="a_nbr"/>
-	    <lit-tag v="gen"/> 
+	    <lit-tag v="gen"/>
 	    <clip pos="1" side="tl" part="a_foc"/>
-	  </concat>                
-        </let> 
+	  </concat>
+        </let>
         </when>
         <otherwise>
                 <!-- default -->
@@ -1075,21 +1075,21 @@
                 <lit-tag v="n"/>
    	            <clip pos="2" side="tl" part="a_ntype"/>
 	            <clip pos="2" side="tl" part="a_nbr"/>
-   	            <clip pos="2" side="tl" part="a_cas"/> 
-   	          </concat>                
-           </let> 
+   	            <clip pos="2" side="tl" part="a_cas"/>
+   	          </concat>
+           </let>
            <let>
              <clip pos="1" side="tl" part="tags"/>
    	  <concat>
            <clip pos="1" side="tl" part="a_npagree_type"/>
            <clip pos="1" side="tl" part="a_comp-superl"/>
    	    <clip pos="2" side="tl" part="a_nbr"/>
-   	    <clip pos="2" side="tl" part="a_cas"/> 
-   	  </concat>                
-           </let> 
+   	    <clip pos="2" side="tl" part="a_cas"/>
+   	  </concat>
+           </let>
         </otherwise>
         </choose>
-    </def-macro> 
+    </def-macro>
 
 
 
@@ -1101,36 +1101,36 @@
           <test>
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_lágan"/></equal>
           </test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_lagan"/></let> 
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_lagan"/></let>
         </when>
          <when>
           <test>
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_passs"/></equal>
           </test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_pass"/></let> 
-          <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let> 
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_pass"/></let>
+          <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let>
         </when>
          <when>
           <test>
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_passl"/></equal>
           </test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_pass"/></let> 
-          <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let> 
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_pass"/></let>
+          <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let>
         </when>
          <when>
           <test>
                <equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_h"/></equal>
           </test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_tt"/></let> 
-          <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let> 
+          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_tt"/></let>
+          <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let>
         </when>
     </choose>
-    </def-macro>  
+    </def-macro>
 
 
 
     <def-macro n="inherenttag-px-2Param" npar="2">  <!-- Son geahččá birra. Sun kiäččá pirrâsis. -->
-	<choose>   
+	<choose>
 	  <when>
 	    <test>
 	      <equal>
@@ -1194,11 +1194,11 @@
 	      <clip pos="2" side="tl" part="tags"/><concat><clip pos="2" side="tl" part="tags"/><lit-tag v="px3pl"/></concat>
             </let>
 	  </when>
-	</choose>    
-    </def-macro>  
+	</choose>
+    </def-macro>
 
     <def-macro n="pcle-foc-2Param" npar="2">
-	<choose>   
+	<choose>
           <when>
             <test>
                <equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_sun"/></equal>
@@ -1209,7 +1209,7 @@
 		<clip pos="1" side="tl" part="tags"/>
 		<lit-tag v="foc_sun"/>
 	      </concat>
-            </let> 
+            </let>
           </when>
          <when>
             <test>
@@ -1221,7 +1221,7 @@
 		<clip pos="1" side="tl" part="tags"/>
 		<lit-tag v="foc_gis"/>
 	      </concat>
-            </let> 
+            </let>
           </when>
          <when>
           <test>
@@ -1229,7 +1229,7 @@
           </test>
           <let><clip pos="1" side="tl" part="tags"/><concat>
           <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_gin"/></concat>
-          </let> 
+          </let>
         </when>
         <when>
           <test>
@@ -1237,7 +1237,7 @@
           </test>
           <let><clip pos="1" side="tl" part="tags"/><concat>
           <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_han"/></concat>
-          </let> 
+          </let>
         </when>
         <when>
           <test>
@@ -1245,7 +1245,7 @@
           </test>
           <let><clip pos="1" side="tl" part="tags"/><concat>
           <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_nii"/></concat>
-          </let> 
+          </let>
         </when>
         <when>
           <test>
@@ -1253,7 +1253,7 @@
           </test>
           <let><clip pos="1" side="tl" part="tags"/><concat>
           <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_ba"/></concat>
-          </let> 
+          </let>
         </when>
         <when>
           <test>
@@ -1261,7 +1261,7 @@
           </test>
           <let><clip pos="1" side="tl" part="tags"/><concat>
           <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_uv"/></concat>
-          </let> 
+          </let>
         </when>
         <when>
           <test>
@@ -1269,7 +1269,7 @@
           </test>
           <let><clip pos="1" side="tl" part="tags"/><concat>
           <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_gin"/></concat>
-          </let> 
+          </let>
         </when>
         <when>
           <test>
@@ -1277,13 +1277,13 @@
           </test>
           <let><clip pos="1" side="tl" part="tags"/><concat>
           <clip pos="1" side="tl" part="tags"/><lit-tag v="foc_uv"/></concat>
-          </let> 
+          </let>
         </when>
-	</choose>    
-    </def-macro>  
+	</choose>
+    </def-macro>
 
     <def-macro n="foc-1Param" npar="1">
-	<choose>   
+	<choose>
       <when>
         <test><equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_be"/></equal></test>
         <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_ba"/></let> 
@@ -1342,8 +1342,8 @@
       </test>
       <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_uv"/></let> 
     </when>
-	</choose>    
-    </def-macro>  
+	</choose>
+    </def-macro>
 
     <def-macro n="general-macro-1Param" npar="1"><!-- this is the one macro we want to use for everything -->
           <choose>
@@ -1380,17 +1380,17 @@
     </def-macro>
 
   </section-def-macros>
-  
-  
-  
+
+
+
   <section-rules>
 
     <!-- SECTION: Nominal groups -->
-    
 
-    
 
-    <rule comment="REGLA: pron-pers = Mun lean ruovttus."> 
+
+
+    <rule comment="REGLA: pron-pers = Mun lean ruovttus.">
       <pattern>
         <pattern-item n="prn"/>
       </pattern>
@@ -1399,7 +1399,7 @@
       <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Ii goastta gosage. - Ij koostâ kuussân.-->
               <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
               </when>
-		</choose>      
+		</choose>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
@@ -1417,48 +1417,39 @@
       </action>
     </rule>
 
-    
-    <rule comment="REGLA: wordfoc = nieidage / nieida ge   - nieidâ-uv">
-      <pattern>															   
-        <pattern-item n="word"/>										   
-        <pattern-item n="foc"/>		  									   
-      </pattern>														   
-      <action>  
-      <choose><when c="Ii goastta gosa ge. - Ij koostâ kuussân.">
-        <test>
-            <in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in>
-        </test> 
-           <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
-         </when>
-         <otherwise> 
-           <call-macro n="pcle-foc-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>  
-         </otherwise>
-		</choose>      
-        <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
-		<out>															   
-          <chunk name="wordfoc" case="caseFirstWord">					   
-            <tags>														   
-              <tag><lit-tag v="NP"/></tag>								   
-              <tag><var n="func"/></tag> 
-            </tags>														   
-            <mlu>														   
-               <lu>														   
-                 <clip pos="1" side="tl" part="whole"/>					   
-               </lu>														   
-             </mlu>														   
-          </chunk>														   
-        </out>															   
-      </action>															   
-    </rule>																   
 
-    <rule comment="REGLA: nomcmpfoc = juovlâtoontumuátunaamar-uv">
-      <pattern>															   
+
+    <rule comment="REGLA: foc">
+      <pattern>
+        <pattern-item n="foc"/>
+      </pattern>
+      <action>
+        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+        <out>
+          <chunk name="foc" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="FOC"/></tag>
+              <tag><var n="func"/></tag>
+              <tag><clip pos="1" side="tl" part="a_foc"/></tag>
+            </tags>
+              <lu>
+                <clip pos="1" side="tl" part="whole"/>
+              </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
+
+    <rule comment="REGLA: nomcmpfoc">	 <!-- juovlâtoontumuátunaamar-uv -->
+      <pattern>
         <pattern-item n="nouncmp"/>
         <pattern-item n="noun"/>
-        <pattern-item n="foc"/>		  									   
-      </pattern>														   
-      <action>															   
+        <pattern-item n="foc"/>
+      </pattern>
+      <action>
         <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv-1Param"><with-param pos="2"/></call-macro>
@@ -1493,16 +1484,16 @@
         <let>
           <clip pos="1" side="tl" part="tags"/>
                <concat>
-                 <clip pos="1" side="tl" part="tags"/>  
+                 <clip pos="1" side="tl" part="tags"/>
                  <clip pos="1" side="tl" part="qst"/><lit-tag v="qst"/>
-               </concat>                
-        </let> 
+               </concat>
+        </let>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
           <chunk name="verbqst" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <mlu>
             <lu>
@@ -1532,7 +1523,7 @@
           <chunk name="mainverb" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <mlu>
             <lu>
@@ -1563,7 +1554,7 @@
           <chunk namefrom="subject" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -1584,7 +1575,7 @@
           <chunk namefrom="spred" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -1606,7 +1597,7 @@
           <chunk namefrom="object" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -1614,7 +1605,7 @@
           </chunk>
         </out>
       </action>
-    </rule> 
+    </rule>
 
     <rule comment="REGLA: OBJ to left cmp">
       <pattern>
@@ -1633,7 +1624,7 @@
           <chunk name="object" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <mlu>
             <lu>
@@ -1667,7 +1658,7 @@
           <chunk namefrom="object" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -1705,7 +1696,7 @@
           <chunk namefrom="object" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -1734,7 +1725,7 @@
           <chunk name="noun" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -1759,10 +1750,10 @@
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
-          <chunk name="cmpnom" case="caseFirstWord">  
+          <chunk name="cmpnom" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <mlu>
             <lu>
@@ -1799,7 +1790,7 @@
           <chunk name="noun" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <mlu>
             <lu>
@@ -1834,7 +1825,7 @@
           <chunk name="noun" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <mlu>
             <lu>
@@ -1848,6 +1839,7 @@
         </out>
       </action>
     </rule>
+    <rule comment="REGLA: numcmp"> <!-- viđajahkásaš - viiđâihásâš -->
     <rule comment="REGLA: numcmp"> <!-- viđajahkásaš - viiđâihásâš -->
       <pattern>
         <pattern-item n="numcmp"/>
@@ -1863,7 +1855,7 @@
           <chunk name="noun" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <mlu>
             <lu>
@@ -1892,7 +1884,7 @@
           <chunk name="num" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <mlu>
             <lu>
@@ -1928,7 +1920,7 @@
           <chunk namefrom="adpos_chunk_name" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -1948,7 +1940,7 @@
       <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Seahkas ii leat mihkkege. - Seehâst ij lah mihheen.-->
               <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
               </when>
-		</choose>      
+		</choose>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <let><var n="adpos_chunk_name"/><lit v="Ind"/></let>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
@@ -1978,7 +1970,7 @@
           <chunk name="num" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="NumG"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -2006,7 +1998,7 @@
           <chunk name="num" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="NumG"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -2033,7 +2025,7 @@
 	<test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test>
               <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
               </when>
-		</choose>  
+		</choose>
 	<!-- Seahkas ii leat mihkkege. - Seehâst ij lah mihheen.-->
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="remove-advtag-1Param"><with-param pos="1"/></call-macro>
@@ -2042,7 +2034,7 @@
           <chunk name="adv" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="ADV"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -2101,10 +2093,10 @@
         </out>
       </action>
     </rule>
-    
 
 
-    
+
+
     <rule comment="REGLA: adj">
       <pattern>
         <pattern-item n="adj"/>
@@ -2116,7 +2108,7 @@
           <chunk name="adj" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -2133,24 +2125,24 @@
         <pattern-item n="birra-po"/>
       </pattern>
       <action>
-        <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let> 
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
-        <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let> 
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
       <choose>
         <when>
           <test>
                <in caseless="yes"><var n="current_verb"/><list n="loc_verbs" /></in>
           </test>
-          <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let> 
-          <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="loc"/></let> 
+          <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>
+          <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="loc"/></let>
         </when>
         <when>
           <test>
                <in caseless="yes"><var n="current_verb"/><list n="acc_verbs" /></in>
           </test>
-          <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let> 
-          <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="acc"/></let> 
+          <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>
+          <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="acc"/></let>
         </when>
       </choose>
         <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
@@ -2159,19 +2151,19 @@
           <chunk name="pp-birra">
             <tags>
               <tag><lit-tag v="SP"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>    
-              <clip pos="1" side="tl" part="tags"/>   
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="tags"/>
 	        </lu>
 	        <b/>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 	        </lu>
           </chunk>
         </out>
-      </action>  
+      </action>
     </rule>
 
     <rule comment="REGLA: refl-gen mielde">  <!--  Ean fuola su iežame mielde. - Iän huolâ suu fárusân. -->
@@ -2180,18 +2172,18 @@
         <pattern-item n="mielde"/>
       </pattern>
       <action>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
-          <let><clip pos="2" side="tl" part="whole"/><concat><lit v="fáárus"/><lit-tag v="adv"/><clip pos="1" side="tl" part="a_poss"/></concat></let> 
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+          <let><clip pos="2" side="tl" part="whole"/><concat><lit v="fáárus"/><lit-tag v="adv"/><clip pos="1" side="tl" part="a_poss"/></concat></let>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
           <chunk name="refl">
             <tags>
               <tag><lit-tag v="SP"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 	        </lu>
           </chunk>
         </out>
@@ -2208,7 +2200,7 @@
           <test>
                <in caseless="yes"><var n="current_verb"/><list n="com-ess_verbs" /></in>
           </test>
-          <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="ess"/></let> 
+          <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="ess"/></let>
         </when>
       </choose>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
@@ -2216,10 +2208,10 @@
           <chunk name="refl">
             <tags>
               <tag><lit-tag v="SP"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 	        </lu>
           </chunk>
         </out>
@@ -2232,23 +2224,23 @@
         <pattern-item n="com-ess-verb"/>
       </pattern>
       <action>
-        <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let> 
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
-          <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="ess"/></let> 
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+          <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="ess"/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
           <chunk name="refl">
             <tags>
               <tag><lit-tag v="SP"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 	        </lu>
 	        <b/>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 	        </lu>
           </chunk>
         </out>
@@ -2263,16 +2255,16 @@
       </pattern>
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
-         <let><clip pos="2" side="tl" part="a_cas"/><lit-tag v="abe"/></let> 
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+         <let><clip pos="2" side="tl" part="a_cas"/><lit-tag v="abe"/></let>
 	<out>
           <chunk name="almmá">
             <tags>
               <tag><lit-tag v="ADV"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 	        </lu>
           </chunk>
         </out>
@@ -2286,18 +2278,18 @@
       </pattern>
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
-         <let><clip pos="2" side="tl" part="a_cas"/><lit-tag v="abe"/></let> 
-        <let><clip pos="3" side="tl" part="whole"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+         <let><clip pos="2" side="tl" part="a_cas"/><lit-tag v="abe"/></let>
+        <let><clip pos="3" side="tl" part="whole"/><lit v=""/></let>
 	<out>
           <chunk name="haga-po">
             <tags>
               <tag><lit-tag v="PP"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="2" side="tl" part="lem"/>    
-              <clip pos="2" side="tl" part="tags"/>   
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="tags"/>
 	        </lu>
           </chunk>
         </out>
@@ -2311,22 +2303,22 @@
       </pattern>
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="remove-semtag-1Param"><with-param pos="3"/></call-macro>
-        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let> 
-         <let><clip pos="3" side="tl" part="a_cas"/><lit-tag v="abe"/></let> 
+        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
+         <let><clip pos="3" side="tl" part="a_cas"/><lit-tag v="abe"/></let>
 	<out>
           <chunk name="almmá">
             <tags>
               <tag><lit-tag v="ADV"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 	        </lu>
 	        <b/>
             <lu>
-              <clip pos="3" side="tl" part="whole"/>    
+              <clip pos="3" side="tl" part="whole"/>
 	        </lu>
           </chunk>
         </out>
@@ -2341,24 +2333,24 @@
       </pattern>
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="remove-semtag-1Param"><with-param pos="3"/></call-macro>
-        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let> 
-         <let><clip pos="3" side="tl" part="a_cas"/><lit-tag v="abe"/></let> 
-        <let><clip pos="4" side="tl" part="whole"/><lit v=""/></let> 
+        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
+         <let><clip pos="3" side="tl" part="a_cas"/><lit-tag v="abe"/></let>
+        <let><clip pos="4" side="tl" part="whole"/><lit v=""/></let>
 	<out>
           <chunk name="haga-po">
             <tags>
               <tag><lit-tag v="PP"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 	        </lu>
 	        <b/>
             <lu>
-              <clip pos="3" side="tl" part="lem"/>    
-              <clip pos="3" side="tl" part="tags"/>   
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="tags"/>
 	        </lu>
           </chunk>
         </out>
@@ -2371,18 +2363,18 @@
       </pattern>
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
-         <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="abe"/></let> 
-        <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let> 
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+         <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="abe"/></let>
+        <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>
 	<out>
           <chunk name="haga-po">
             <tags>
               <tag><lit-tag v="PP"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>    
-              <clip pos="1" side="tl" part="tags"/>   
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="tags"/>
 	        </lu>
           </chunk>
         </out>
@@ -2394,18 +2386,18 @@
         <pattern-item n="beallai"/>
       </pattern>
       <action>
-        <let><clip pos="1" side="tl" part="lem"/><lit v="nubebel"/></let> 
-         <let><clip pos="1" side="tl" part="tags"/><lit-tag v="post"/></let> 
-        <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let> 
+        <let><clip pos="1" side="tl" part="lem"/><lit v="nubebel"/></let>
+         <let><clip pos="1" side="tl" part="tags"/><lit-tag v="post"/></let>
+        <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>
 	<out>
           <chunk name="nubbibeallai">
             <tags>
               <tag><lit-tag v="PP"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>    
-              <clip pos="1" side="tl" part="tags"/>   
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="tags"/>
 	        </lu>
           </chunk>
         </out>
@@ -2420,24 +2412,24 @@
       </pattern>
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
-        <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let> 
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
-	<call-macro n="inherenttag-px-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>        
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+	<call-macro n="inherenttag-px-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
 	<out>
           <chunk name="verb-birra">
             <tags>
               <tag><lit-tag v="SV"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>    
-              <clip pos="1" side="tl" part="tags"/>   
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="tags"/>
 	    </lu>
 	    <b/>
             <lu>
-              <clip pos="2" side="tl" part="lem"/>    
-              <clip pos="2" side="tl" part="tags"/>   
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="tags"/>
 	    </lu>
           </chunk>
         </out>
@@ -2445,14 +2437,14 @@
     </rule>
     <rule comment="REGLA: jagi boaris">  <!-- Son lea guhtta jagi boaris. Sun lii kuuđâ ihásâš. -->
       <pattern>
-        <pattern-item n="num-nomacc"/> 
-        <pattern-item n="jagi"/> 
+        <pattern-item n="num-nomacc"/>
+        <pattern-item n="jagi"/>
         <pattern-item n="boaris"/>
       </pattern>
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
-        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="num.sg.gen"/></let> 
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="num.sg.gen"/></let>
         <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="a_sem"/><lit v=""/></let>
@@ -2462,21 +2454,21 @@
           <chunk name="inf">
             <tags>
               <tag><lit-tag v="num-adj"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>    
-              <clip pos="1" side="tl" part="tags"/>   
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="tags"/>
 	        </lu>
 	        <b/>
             <lu>
-              <clip pos="3" side="tl" part="lem"/>    
-              <clip pos="3" side="tl" part="tags"/>   
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="tags"/>
 	        </lu>
           </chunk>
         </out>
       </action>
-    </rule> 
+    </rule>
 
 
 
@@ -2488,18 +2480,18 @@
 	<pattern-item n="maiddái"/>
       </pattern>
       <action>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
-        <let><clip pos="1" side="tl" part="whole"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="whole"/><lit v=""/></let>
         <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
 	<out>
           <chunk name="sehe">
             <tags>
               <tag><lit-tag v="CONJ"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="2" side="tl" part="lem"/>    
-              <clip pos="2" side="tl" part="tags"/>   
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="tags"/>
 	        </lu>
           </chunk>
         </out>
@@ -2513,23 +2505,23 @@
       </pattern>
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
-	    <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
+	    <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
           <chunk name="shoeverb">
             <tags>
               <tag><lit-tag v="V"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 	        </lu>
           </chunk>
         </out>
       </action>
     </rule>
 
-	
+
 
 
 
@@ -2541,113 +2533,113 @@
         <pattern-item n="vp-boundary"/>
       </pattern>
       <action>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
-          <let><clip pos="2" side="tl" part="tags"/><lit-tag v="vblex.actio.ill"/></let> 
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+          <let><clip pos="2" side="tl" part="tags"/><lit-tag v="vblex.actio.ill"/></let>
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
           <chunk name="inf">
             <tags>
               <tag><lit-tag v="V"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>    
-              <clip pos="1" side="tl" part="tags"/>   
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="tags"/>
 	        </lu>
 	        <b/>
             <lu>
-              <clip pos="2" side="tl" part="lem"/>    
-              <clip pos="2" side="tl" part="tags"/>   
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="tags"/>
 	        </lu>
 	        <b/>
             <lu>
-              <clip pos="3" side="tl" part="whole"/>    
+              <clip pos="3" side="tl" part="whole"/>
 	        </lu>
           </chunk>
         </out>
       </action>
-    </rule> 
+    </rule>
 
-    <rule comment="REGLA: buorre attr"> <!-- Lea buorre dálki odne. Lii šiev šoŋŋâ onne.  -->                                            
-      <pattern>                                        
-        <pattern-item n="buorre"/>                 
-        <pattern-item n="noun"/>                   
-      </pattern>     
+    <rule comment="REGLA: buorre attr"> <!-- Lea buorre dálki odne. Lii šiev šoŋŋâ onne.  -->
+      <pattern>
+        <pattern-item n="buorre"/>
+        <pattern-item n="noun"/>
+      </pattern>
       <action>
-        <let><clip pos="1" side="tl" part="lem"/><lit v="šiev"/></let> 
-        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.attr"/></let> 
-        <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let> 
-        <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let> 
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="1" side="tl" part="lem"/><lit v="šiev"/></let>
+        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.attr"/></let>
+        <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
        <out>
           <chunk name="a-n" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>    
-              <clip pos="1" side="tl" part="tags"/>   
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="tags"/>
 	        </lu>
 	        <b/>
 	        <lu>
-              <clip pos="2" side="tl" part="whole"/>   
+              <clip pos="2" side="tl" part="whole"/>
 		    </lu>
           </chunk>
         </out>
-      </action>                                  
-    </rule> 
+      </action>
+    </rule>
 
 
-    <rule comment="REGLA: num-nomacc n-sg to n-par"> <!-- Son oastá čieža láibbi. Sun uástá čiččâm leibid. -->                                            
-      <pattern>                                        
-        <pattern-item n="num-nomacc"/>                 
-        <pattern-item n="n-sg-accgen"/>                   
-      </pattern>     
+    <rule comment="REGLA: num-nomacc n-sg to n-par"> <!-- Son oastá čieža láibbi. Sun uástá čiččâm leibid. -->
+      <pattern>
+        <pattern-item n="num-nomacc"/>
+        <pattern-item n="n-sg-accgen"/>
+      </pattern>
       <action>
-        <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let> 
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
       <choose><when>
               <test><and><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
-               <not><in><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>        
-              </and></test> 
+               <not><in><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>
+              </and></test>
         <let><clip pos="2" side="tl" part="tags"/>
-        <concat><lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let> 
+        <concat><lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let>
               </when>
          <otherwise>
         <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let> 
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
          </otherwise>
-		</choose>        
+		</choose>
 		<out>
           <chunk name="num-noun">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
               <tag><lit-tag v="blabla"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>    
-              <clip pos="1" side="tl" part="tags"/>   
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="tags"/>
 	        </lu>
 	        <b/>
 	        <lu>
-              <clip pos="2" side="tl" part="whole"/>   
+              <clip pos="2" side="tl" part="whole"/>
 		    </lu>
           </chunk>
         </out>
-        
-      </action>                                  
-    </rule> 
-    <rule comment="REGLA: numcmp numerals n-sg to n-par"> <!-- Son oastá 10-12 láibbi. Sun uástá 10-12 leibid. -->                                            
-      <pattern>                                        
+
+      </action>
+    </rule>
+    <rule comment="REGLA: numcmp numerals n-sg to n-par"> <!-- Son oastá 10-12 láibbi. Sun uástá 10-12 leibid. -->
+      <pattern>
         <pattern-item n="numcmp"/>
         <pattern-item n="numerals"/>
-        <pattern-item n="n-sg-accgen"/>                   
-      </pattern>     
+        <pattern-item n="n-sg-accgen"/>
+      </pattern>
       <action>
 <!--        <call-macro n="convert-deriv-1Param"><with-param pos="2"/></call-macro>
         <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
@@ -2656,23 +2648,23 @@
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
       <choose><when>
               <test><and><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
-               <not><in><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>        
-              </and></test> 
+               <not><in><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>
+              </and></test>
         <let><clip pos="3" side="tl" part="tags"/>
-        <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let> 
+        <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let>
               </when>
          <otherwise>
  <!--       <let><clip pos="3" side="tl" part="a_sem"/><lit v=""/></let>
-        <let><clip pos="3" side="tl" part="a_exthab"/><lit v=""/></let> 
+        <let><clip pos="3" side="tl" part="a_exthab"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let> -->
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
          </otherwise>
-		</choose>        
+		</choose>
 		<out>
           <chunk name="num-noun">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <mlu>
             <lu>
@@ -2684,72 +2676,72 @@
              </mlu>
 	        <b/>
 	        <lu>
-              <clip pos="3" side="tl" part="whole"/>   
+              <clip pos="3" side="tl" part="whole"/>
 		    </lu>
           </chunk>
         </out>
-        
-      </action>                                  
-    </rule> 
+
+      </action>
+    </rule>
 
 
 
- <rule comment="REGLA: num-nomacc attr n-sg  to n-par"> <!--  Mus leat čieža njálgga láibbi. Must láá čiččâm njaalgâ leibid. -->                                           
-      <pattern>                                        
-        <pattern-item n="num-nomacc"/>                 
-        <pattern-item n="adjattr"/>                 
-        <pattern-item n="n-sg-accgen"/>                   
-      </pattern>     
+ <rule comment="REGLA: num-nomacc attr n-sg  to n-par"> <!--  Mus leat čieža njálgga láibbi. Must láá čiččâm njaalgâ leibid. -->
+      <pattern>
+        <pattern-item n="num-nomacc"/>
+        <pattern-item n="adjattr"/>
+        <pattern-item n="n-sg-accgen"/>
+      </pattern>
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
       <choose><when>
               <test><and><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
-               <not><in><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>        
-              </and></test> 
+               <not><in><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>
+              </and></test>
         <let><clip pos="3" side="tl" part="tags"/>
-        <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let> 
+        <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let>
               </when>
          <otherwise>
         <let><clip pos="3" side="tl" part="a_sem"/><lit v=""/></let>
-        <let><clip pos="3" side="tl" part="a_exthab"/><lit v=""/></let> 
-        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="3" side="tl" part="a_exthab"/><lit v=""/></let>
+        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
          </otherwise>
-		</choose>        
+		</choose>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
           <chunk name="num-noun">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>    
-              <clip pos="1" side="tl" part="tags"/>   
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="tags"/>
 	        </lu>
 	        <b/>
 	        <lu>
-              <clip pos="2" side="tl" part="lem"/>    
-              <clip pos="2" side="tl" part="tags"/>   
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="tags"/>
 		    </lu>
 	        <b/>
 	        <lu>
-              <clip pos="3" side="tl" part="whole"/>   
+              <clip pos="3" side="tl" part="whole"/>
 		    </lu>
           </chunk>
         </out>
-        
-      </action>                                  
-    </rule> 
 
-    <rule comment="REGLA: num-nomacc adv attr n-sg to n-par"> <!--  Mus leat čieža hui njálgga láibbi. , does not function  -->                                             
-      <pattern>                                        
-        <pattern-item n="num-nomacc"/>                 
-        <pattern-item n="adv"/>                 
-        <pattern-item n="adjattr"/>                 
-        <pattern-item n="n-sg-accgen"/>                   
-      </pattern>     
+      </action>
+    </rule>
+
+    <rule comment="REGLA: num-nomacc adv attr n-sg to n-par"> <!--  Mus leat čieža hui njálgga láibbi. , does not function  -->
+      <pattern>
+        <pattern-item n="num-nomacc"/>
+        <pattern-item n="adv"/>
+        <pattern-item n="adjattr"/>
+        <pattern-item n="n-sg-accgen"/>
+      </pattern>
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
@@ -2757,54 +2749,54 @@
         <call-macro n="general-macro-1Param"><with-param pos="4"/></call-macro>
       <choose><when>
               <test><and><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
-               <not><in><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>        
-              </and></test> 
+               <not><in><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>
+              </and></test>
         <let><clip pos="4" side="tl" part="tags"/>
-        <concat><lit-tag v="n"/><clip pos="4" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let> 
+        <concat><lit-tag v="n"/><clip pos="4" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let>
               </when>
          <otherwise>
         <let><clip pos="4" side="tl" part="a_sem"/><lit v=""/></let>
-        <let><clip pos="4" side="tl" part="a_exthab"/><lit v=""/></let> 
-        <let><clip pos="4" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="4" side="tl" part="a_exthab"/><lit v=""/></let>
+        <let><clip pos="4" side="tl" part="a_func"/><lit v=""/></let>
          </otherwise>
-		</choose>        
+		</choose>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
           <chunk name="num-noun">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>    
-              <clip pos="1" side="tl" part="tags"/>   
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="tags"/>
 	        </lu>
 	        <b/>
 	        <lu>
-              <clip pos="2" side="tl" part="lem"/>    
-              <clip pos="2" side="tl" part="tags"/>   
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="tags"/>
 		    </lu>
 	        <b/>
 	        <lu>
-              <clip pos="3" side="tl" part="lem"/>    
-              <clip pos="3" side="tl" part="tags"/>   
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="tags"/>
 		    </lu>
 	        <b/>
 	        <lu>
-              <clip pos="4" side="tl" part="whole"/>   
+              <clip pos="4" side="tl" part="whole"/>
 		    </lu>
           </chunk>
         </out>
-        
-      </action>                                  
-    </rule> 
+
+      </action>
+    </rule>
 
 
-    <rule comment="REGLA: agreement-attr n agreement">  <!-- full agreement, new rule -->                                           
-      <pattern>                                        
-        <pattern-item n="agreement-attr"/>                 
-        <pattern-item n="noun"/>                   
-      </pattern>     
+    <rule comment="REGLA: agreement-attr n agreement">  <!-- full agreement, new rule -->
+      <pattern>
+        <pattern-item n="agreement-attr"/>
+        <pattern-item n="noun"/>
+      </pattern>
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
@@ -2813,26 +2805,26 @@
           <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SM"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
 	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 	        </lu>
           </chunk>
         </out>
-      </action>                                  
-    </rule> 
+      </action>
+    </rule>
 
-    <rule comment="REGLA: agreement-attr agreem-attr n agreement">  <!-- vuosttas dievas girji - vuosmuš oles kirje -->    
-      <pattern>                                        
-        <pattern-item n="agreement-attr"/>                 
-        <pattern-item n="agreement-attr"/>                 
-        <pattern-item n="noun"/>                   
-      </pattern>     
+    <rule comment="REGLA: agreement-attr agreem-attr n agreement">  <!-- vuosttas dievas girji - vuosmuš oles kirje -->
+      <pattern>
+        <pattern-item n="agreement-attr"/>
+        <pattern-item n="agreement-attr"/>
+        <pattern-item n="noun"/>
+      </pattern>
       <action>
       <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
@@ -2843,30 +2835,30 @@
           <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SM"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
 	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
 	        <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
             <lu>
-              <clip pos="3" side="tl" part="whole"/>    
+              <clip pos="3" side="tl" part="whole"/>
 	        </lu>
           </chunk>
         </out>
-      </action>                                  
-    </rule> 
+      </action>
+    </rule>
 
     <rule comment="REGLA: agreement-attr attr n agreement">  <!-- Yle tuáivu puohháid šiev juovlâi já luholii uđđâ ive. -->
-      <pattern>                                        
-        <pattern-item n="agreement-attr"/>                 
-        <pattern-item n="attr"/>                 
-        <pattern-item n="noun"/>                   
-      </pattern>     
+      <pattern>
+        <pattern-item n="agreement-attr"/>
+        <pattern-item n="attr"/>
+        <pattern-item n="noun"/>
+      </pattern>
       <action>
       <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
@@ -2876,31 +2868,31 @@
           <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SM"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
 	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
 	        <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
             <lu>
-              <clip pos="3" side="tl" part="whole"/>    
+              <clip pos="3" side="tl" part="whole"/>
 	        </lu>
           </chunk>
         </out>
-      </action>                                  
-    </rule> 
+      </action>
+    </rule>
 
-    <rule comment="REGLA: agreement-attr cmp n-sg agreement">  
-    <!-- vuosttaš biilagirji - vuosmuš autokirje -->                                           
-      <pattern>                                        
-        <pattern-item n="agreement-attr"/>                 
+    <rule comment="REGLA: agreement-attr cmp n-sg agreement">
+    <!-- vuosttaš biilagirji - vuosmuš autokirje -->
+      <pattern>
+        <pattern-item n="agreement-attr"/>
         <pattern-item n="nouncmp"/>
-        <pattern-item n="noun"/>                   
-      </pattern>     
+        <pattern-item n="noun"/>
+      </pattern>
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
@@ -2910,15 +2902,15 @@
           <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SM"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
 	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
             <mlu>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 	        </lu>
               <lu>
               <clip pos="3" side="tl" part="whole"/>
@@ -2926,17 +2918,17 @@
              </mlu>
           </chunk>
         </out>
-      </action>                                  
-    </rule> 
+      </action>
+    </rule>
 
-    <rule comment="REGLA: agreement-attr cmp n agreement">  
+    <rule comment="REGLA: agreement-attr cmp n agreement">
     <!-- vuosttas albma biilagirji - vuosmuš olmâ autokirje -->
-      <pattern>                                        
-        <pattern-item n="agreement-attr"/>                 
+      <pattern>
+        <pattern-item n="agreement-attr"/>
         <pattern-item n="attr"/>
         <pattern-item n="nouncmp"/>
-        <pattern-item n="noun"/>                   
-      </pattern>     
+        <pattern-item n="noun"/>
+      </pattern>
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
@@ -2947,19 +2939,19 @@
           <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SM"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
 	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
 	        <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
             <mlu>
             <lu>
-              <clip pos="3" side="tl" part="whole"/>    
+              <clip pos="3" side="tl" part="whole"/>
 	        </lu>
               <lu>
               <clip pos="4" side="tl" part="whole"/>
@@ -2967,17 +2959,17 @@
              </mlu>
           </chunk>
         </out>
-      </action>                                  
-    </rule> 
+      </action>
+    </rule>
 
 
-    <rule comment="REGLA: agreement-attr CNP attr n-sg-gen">  <!-- half agreement:  stuorát ja buoret viesus -->                                         
-      <pattern>                                        
-        <pattern-item n="agreement-attr"/>             
-        <pattern-item n="CNP"/>  
-        <pattern-item n="agreement-attr"/>             
-        <pattern-item n="noun"/>  
-      </pattern>     
+    <rule comment="REGLA: agreement-attr CNP attr n-sg-gen">  <!-- half agreement:  stuorát ja buoret viesus -->
+      <pattern>
+        <pattern-item n="agreement-attr"/>
+        <pattern-item n="CNP"/>
+        <pattern-item n="agreement-attr"/>
+        <pattern-item n="noun"/>
+      </pattern>
       <action>
         <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="convert-deriv-1Param"><with-param pos="3"/></call-macro>
@@ -2995,44 +2987,44 @@
           <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SS"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
 	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 	        </lu>
 	        <b/>
 	        <lu>
-              <clip pos="3" side="tl" part="whole"/>    
+              <clip pos="3" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
             <lu>
-              <clip pos="4" side="tl" part="whole"/>    
+              <clip pos="4" side="tl" part="whole"/>
 	        </lu>
           </chunk>
         </out>
-        
-      </action>                                  
-    </rule>  
+
+      </action>
+    </rule>
 
 
 
 
 
 
-    <rule comment="REGLA: agreement-num-attr n-sg-com "> <!-- hupmen vihttanuppelot studeanttain - sarnum vitnubáluvvijn pajeuáppein. -->                                            
-      <pattern>                                        
-        <pattern-item n="numattr"/>                 
-        <pattern-item n="n-sg-com"/>                   
-      </pattern>     
+    <rule comment="REGLA: agreement-num-attr n-sg-com "> <!-- hupmen vihttanuppelot studeanttain - sarnum vitnubáluvvijn pajeuáppein. -->
+      <pattern>
+        <pattern-item n="numattr"/>
+        <pattern-item n="n-sg-com"/>
+      </pattern>
       <action>
         <let>
         	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="num.sg.com"/>                
-        </let> 
+            <lit-tag v="num.sg.com"/>
+        </let>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
@@ -3040,32 +3032,32 @@
           <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
 	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 	        </lu>
           </chunk>
         </out>
-        
-      </action>                                  
-    </rule>  
 
-    <rule comment="REGLA: agreement-num-attr n-sg-com "> <!-- hupmen vihttanuppelot čeahpes studeanttain - sarnum vitnubáluvvijn čepis pajeuáppein. -->                                            
-      <pattern>                                        
-        <pattern-item n="numattr"/>                 
-        <pattern-item n="attr"/>                 
-        <pattern-item n="n-sg-com"/>                   
-      </pattern>     
+      </action>
+    </rule>
+
+    <rule comment="REGLA: agreement-num-attr n-sg-com "> <!-- hupmen vihttanuppelot čeahpes studeanttain - sarnum vitnubáluvvijn čepis pajeuáppein. -->
+      <pattern>
+        <pattern-item n="numattr"/>
+        <pattern-item n="attr"/>
+        <pattern-item n="n-sg-com"/>
+      </pattern>
       <action>
         <let>
         	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="num.sg.com"/>                
-        </let> 
+            <lit-tag v="num.sg.com"/>
+        </let>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
@@ -3074,37 +3066,37 @@
           <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
 	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
 	        <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
             <lu>
-              <clip pos="3" side="tl" part="whole"/>    
+              <clip pos="3" side="tl" part="whole"/>
 	        </lu>
           </chunk>
         </out>
-        
-      </action>                                  
-    </rule>  
+
+      </action>
+    </rule>
 
 
-    <rule comment="REGLA: agreement-num-attr cmp n-sg-com "> <!-- birgen vihttanuppelot biilagirjjiin - piergiim vitnubáluvvijn autokirjijn. -->                                            
-      <pattern>                                        
-        <pattern-item n="numattr"/>                 
+    <rule comment="REGLA: agreement-num-attr cmp n-sg-com "> <!-- birgen vihttanuppelot biilagirjjiin - piergiim vitnubáluvvijn autokirjijn. -->
+      <pattern>
+        <pattern-item n="numattr"/>
         <pattern-item n="nouncmp"/>
-        <pattern-item n="n-sg-com"/>                   
-      </pattern>     
+        <pattern-item n="n-sg-com"/>
+      </pattern>
       <action>
         <let>
         	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="num.sg.com"/>                
-        </let> 
+            <lit-tag v="num.sg.com"/>
+        </let>
 <!--        <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="convert-deriv-1Param"><with-param pos="2"/></call-macro>
@@ -3120,15 +3112,15 @@
           <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
 	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
             <mlu>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 	        </lu>
               <lu>
               <clip pos="3" side="tl" part="whole"/>
@@ -3136,22 +3128,22 @@
              </mlu>
           </chunk>
         </out>
-        
-      </action>                                  
-    </rule>  
 
-    <rule comment="REGLA: agreement-num-attr attr cmp n-sg-com "> <!-- birgen olmâ vihttanuppelot biilagirjjiin - piergiim olmâ vitnubáluvvijn autokirjijn. -->                                            
-      <pattern>                                        
-        <pattern-item n="numattr"/>                 
+      </action>
+    </rule>
+
+    <rule comment="REGLA: agreement-num-attr attr cmp n-sg-com "> <!-- birgen olmâ vihttanuppelot biilagirjjiin - piergiim olmâ vitnubáluvvijn autokirjijn. -->
+      <pattern>
+        <pattern-item n="numattr"/>
         <pattern-item n="attr"/>
         <pattern-item n="nouncmp"/>
-        <pattern-item n="n-sg-com"/>                   
-      </pattern>     
+        <pattern-item n="n-sg-com"/>
+      </pattern>
       <action>
         <let>
         	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="num.sg.com"/>                
-        </let> 
+            <lit-tag v="num.sg.com"/>
+        </let>
 <!--        <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
@@ -3171,19 +3163,19 @@
           <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
 	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
 	        <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
             <mlu>
             <lu>
-              <clip pos="3" side="tl" part="whole"/>    
+              <clip pos="3" side="tl" part="whole"/>
 	        </lu>
               <lu>
               <clip pos="4" side="tl" part="whole"/>
@@ -3191,96 +3183,96 @@
              </mlu>
           </chunk>
         </out>
-        
-      </action>                                  
-    </rule>  
+
+      </action>
+    </rule>
 
 
-    <rule comment="REGLA: agreement-num-attr n-sg-gen "> 
-      <pattern>                                        
-        <pattern-item n="numattr"/>                 
-        <pattern-item n="n-sg-accgen"/>                   
-      </pattern>     
+    <rule comment="REGLA: agreement-num-attr n-sg-gen ">
+      <pattern>
+        <pattern-item n="numattr"/>
+        <pattern-item n="n-sg-accgen"/>
+      </pattern>
       <action>
         <let>
         	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="num.sg.acc"/>                
-        </let> 
+            <lit-tag v="num.sg.acc"/>
+        </let>
 <!--        <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="convert-deriv-1Param"><with-param pos="2"/></call-macro> -->
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
       <choose><when>
-              <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test> 
+              <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test>
         <let><clip pos="2" side="tl" part="tags"/>
-        <concat><lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let> 
+        <concat><lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let>
               </when>
          <otherwise>
 <!--        <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let> 
+        <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> -->
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
          </otherwise>
-		</choose>        
+		</choose>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
           <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
 	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 	        </lu>
           </chunk>
         </out>
-        
-      </action>                                  
-    </rule>  
+
+      </action>
+    </rule>
 
 
-    <rule comment="REGLA: agreement-num-attr cmp n-sg-com "> 
-      <pattern>                                        
-        <pattern-item n="numattr"/>                 
+    <rule comment="REGLA: agreement-num-attr cmp n-sg-com ">
+      <pattern>
+        <pattern-item n="numattr"/>
         <pattern-item n="nouncmp"/>
-        <pattern-item n="n-sg-accgen"/>                   
-      </pattern>     
+        <pattern-item n="n-sg-accgen"/>
+      </pattern>
       <action>
         <let>
         	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="num.sg.acc"/>                
-        </let> 
+            <lit-tag v="num.sg.acc"/>
+        </let>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
 
       <choose><when>
-              <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test> 
+              <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test>
         <let><clip pos="3" side="tl" part="tags"/>
-        <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let> 
+        <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let>
               </when>
          <otherwise>
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
          </otherwise>
-		</choose>        
+		</choose>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
           <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
 	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
             <mlu>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 	        </lu>
               <lu>
               <clip pos="3" side="tl" part="whole"/>
@@ -3288,15 +3280,15 @@
              </mlu>
           </chunk>
         </out>
-        
-      </action>                                  
-    </rule>  
 
-     <rule comment="REGLA: agreement puohah n"> 
-      <pattern>                                        
-        <pattern-item n="agreement-buot"/>                 
-        <pattern-item n="noun"/>                   
-      </pattern>     
+      </action>
+    </rule>
+
+     <rule comment="REGLA: agreement puohah n">
+      <pattern>
+        <pattern-item n="agreement-buot"/>
+        <pattern-item n="noun"/>
+      </pattern>
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
@@ -3310,27 +3302,27 @@
           <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SM"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
 	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 	        </lu>
           </chunk>
         </out>
-        
-      </action>                                  
-    </rule> 
- 
+
+      </action>
+    </rule>
+
      <rule comment="REGLA: agreement puohah cmp n"> <!-- buot biilaolbmot - puohah autoulmuuh -->
-      <pattern>                                        
-        <pattern-item n="agreement-buot"/>                 
+      <pattern>
+        <pattern-item n="agreement-buot"/>
         <pattern-item n="nouncmp"/>
-        <pattern-item n="noun"/>                   
-      </pattern>     
+        <pattern-item n="noun"/>
+      </pattern>
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
@@ -3345,15 +3337,15 @@
           <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SM"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
 	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
             <mlu>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 	        </lu>
               <lu>
               <clip pos="3" side="tl" part="whole"/>
@@ -3361,17 +3353,17 @@
              </mlu>
           </chunk>
         </out>
-        
-      </action>                                  
-    </rule> 
- 
- 
-   
+
+      </action>
+    </rule>
+
+
+
     <rule comment="REGLA: dem-pl-com n-pl-com"> <!-- Dáiguin mašiinnaiguin lea álki goarrut. - Taiguin mašinijguin lii älkkee kuárruđ. -->
-      <pattern>                                        
-        <pattern-item n="prn-pl-com"/>                 
-        <pattern-item n="n-pl-com"/>                   
-      </pattern>     
+      <pattern>
+        <pattern-item n="prn-pl-com"/>
+        <pattern-item n="n-pl-com"/>
+      </pattern>
       <action>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
@@ -3381,21 +3373,20 @@
           <chunk name="agreement-np">
             <tags>
               <tag><lit-tag v="SM"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
 	        <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 		    </lu>
 	        <b/>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>    
+              <clip pos="2" side="tl" part="whole"/>
 	        </lu>
           </chunk>
         </out>
-        
-      </action>                                  
-    </rule> 
 
+      </action>
+    </rule>
 
 
 <rule comment="REGLA: mainverb = Iige / ">
@@ -3409,7 +3400,7 @@
                <equal><clip pos="1" side="sl" part="lem"/><lit v="ii"/></equal>
                <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_neg-ge"/></equal> </and>
             </test>
-          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_ge"/></let>  
+          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_ge"/></let>
           </when>
           <otherwise><call-macro n="foc-1Param"><with-param pos="1"/></call-macro></otherwise>
       </choose>
@@ -3419,7 +3410,7 @@
           <chunk name="auxverb" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -3429,7 +3420,7 @@
       </action>
     </rule>
 
-    
+
     <rule comment="REGLA: mainverb">
       <pattern>
         <pattern-item n="mainverb"/>
@@ -3443,7 +3434,7 @@
           <chunk name="mainverb" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -3453,55 +3444,55 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: buorre attr"> <!-- Giittos eatnat  -->                                            
-      <pattern>                                        
-        <pattern-item n="giittos"/>                 
-        <pattern-item n="eatnat"/>                   
-      </pattern>     
+    <rule comment="REGLA: buorre attr"> <!-- Giittos eatnat  -->
+      <pattern>
+        <pattern-item n="giittos"/>
+        <pattern-item n="eatnat"/>
+      </pattern>
       <action>
-        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="n.sg.acc"/></let> 
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let> 
+        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="n.sg.acc"/></let>
+        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
        <out>
           <chunk name="noun-adv">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 		    </lu>
 		    <b/>
 	        <lu>
-              <clip pos="2" side="tl" part="whole"/>   
+              <clip pos="2" side="tl" part="whole"/>
 		    </lu>
           </chunk>
         </out>
-        
-      </action>                                  
-    </rule> 
-    <rule comment="REGLA: ovdâmerkkân"> <!-- ovdamearkka dihtii - ovdâmerkkân  -->                                            
-      <pattern>                                        
-        <pattern-item n="ovdamearka"/>                 
-        <pattern-item n="dihtii"/>                   
-      </pattern>     
+
+      </action>
+    </rule>
+    <rule comment="REGLA: ovdâmerkkân"> <!-- ovdamearkka dihtii - ovdâmerkkân  -->
+      <pattern>
+        <pattern-item n="ovdamearka"/>
+        <pattern-item n="dihtii"/>
+      </pattern>
       <action>
-        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="n.ess"/></let> 
+        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="n.ess"/></let>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
        <out>
           <chunk name="noun-ess">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
+              <tag><var n="func"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="whole"/>    
+              <clip pos="1" side="tl" part="whole"/>
 		    </lu>
           </chunk>
         </out>
-        
-      </action>                                  
-    </rule> 
+
+      </action>
+    </rule>
 
 
 
@@ -3529,7 +3520,7 @@
         </out>
       </action>
     </rule>
-    
+
     <rule comment="REGLA: cc">
       <pattern>
         <pattern-item n="cnjcoo"/>
@@ -3537,7 +3528,7 @@
       <action>
         <call-macro n="general-macro-1Param">
           <with-param pos="1"/>
-        </call-macro> 
+        </call-macro>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
           <chunk name="cnjcoo" case="caseFirstWord">
@@ -3596,13 +3587,13 @@
     <rule comment="REGLA: DEFAULT">
       <pattern>
         <pattern-item n="default"/>
-      </pattern>    
+      </pattern>
       <action>
       <choose><when>
           <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Seahkas ii leat mihkkege. - Seehâst ij lah mihheen.-->
           <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
           </when>
-       </choose>      
+       </choose>
        <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>

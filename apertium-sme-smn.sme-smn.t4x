@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- -*- nxml -*- -->
+
+<!--
+t1x local rules, chunking
+t2x word order
+t3x not written
+
+This file:
+
+Rules:
+Apply focus particle as tag
+-->
+
+<postchunk>
+  <section-def-cats>
+    <def-cat n="wordfoc">
+      <cat-item name="wordfoc"/>
+    </def-cat>
+  </section-def-cats>
+
+  <section-def-attrs>
+    <def-attr n="a_foc">
+      <attr-item tags="foc_gin"/>
+    </def-attr>
+  </section-def-attrs>
+
+  <section-def-vars>
+    <def-var n="tmp"/>
+  </section-def-vars>
+
+  <section-rules>
+    <rule comment="CHUNK:">
+      <pattern>
+        <pattern-item n="wordfoc"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" part="whole"/>
+            <clip pos="0" part="a_foc"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+  </section-rules>
+</postchunk>
