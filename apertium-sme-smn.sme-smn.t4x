@@ -21,8 +21,30 @@ Apply focus particle as tag
 
   <section-def-attrs>
     <def-attr n="a_foc">
-      <attr-item tags="foc_gin"/>
-    </def-attr>
+       <attr-item tags="foc_ba"/>
+       <attr-item tags="foc_bahal"/>
+       <attr-item tags="foc_bahan"/>
+       <attr-item tags="foc_bason"/>
+       <attr-item tags="foc_ban"/>
+       <attr-item tags="foc_bat"/>
+       <attr-item tags="foc_be"/>
+       <attr-item tags="foc_behal"/>
+       <attr-item tags="foc_behan"/>
+       <attr-item tags="foc_beson"/>
+       <attr-item tags="foc_neg-ge"/>
+       <attr-item tags="foc_pos-ge"/>
+       <attr-item tags="foc_gen"/>
+       <attr-item tags="foc_ges"/>
+       <attr-item tags="foc_gin"/>
+       <attr-item tags="foc_gis"/>
+       <attr-item tags="foc_hal"/>
+       <attr-item tags="foc_han"/>
+       <attr-item tags="foc_naj"/>
+       <attr-item tags="foc_nii"/>
+       <attr-item tags="foc_uv"/>
+      <attr-item tags="foc_son"/>
+      <attr-item tags="foc_sun"/>
+  </def-attr>
   </section-def-attrs>
 
   <section-def-vars>
