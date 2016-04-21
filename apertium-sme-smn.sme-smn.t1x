@@ -146,8 +146,12 @@
     <def-cat n="num-nomacc">
       <cat-item tags="num.sg.nom.*"/>
       <cat-item tags="num.sg.acc.*"/>
+      <cat-item tags="num.arab.sg.nom.*"/>
+      <cat-item tags="num.arab.sg.acc.*"/>
     </def-cat>
     <def-cat n="numattr">
+      <cat-item tags="num.arab.sg.*.attr.*"/>
+      <cat-item tags="num.arab.sg.attr.*"/>
       <cat-item tags="num.sg.*.attr.*"/>
       <cat-item tags="num.sg.attr.*"/>
     </def-cat>
