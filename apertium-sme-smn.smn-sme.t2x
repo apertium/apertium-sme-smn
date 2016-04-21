@@ -2,9 +2,9 @@
 <!-- -*- nxml -*- -->
 <interchunk>
   <section-def-cats>
-    <def-cat n="SN">
-      <cat-item tags="SN"/>
-      <cat-item tags="SN.*"/>
+    <def-cat n="NP">
+      <cat-item tags="NP"/>
+      <cat-item tags="NP.*"/>
     </def-cat>
     <def-cat n="SENT">
       <cat-item tags="SENT"/>
@@ -40,9 +40,9 @@
     </def-macro>
   </section-def-macros>
   <section-rules>
-    <rule comment="REGLA: SN">
+    <rule comment="REGLA: NP">
       <pattern>
-        <pattern-item n="SN"/>
+        <pattern-item n="NP"/>
       </pattern>
       <action>
         <out>
