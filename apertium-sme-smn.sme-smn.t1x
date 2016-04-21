@@ -1838,7 +1838,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
         </out>
       </action>
     </rule>-->
-    <rule comment="REGLA: numcmp num"> <!-- 10-20 olbmo -->
+    <rule comment="REGLA: numcmp num"> <!-- 10-20 -->
       <pattern>
         <pattern-item n="numcmp"/>
         <pattern-item n="numerals"/>
@@ -1849,6 +1849,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+         <let><var n="func"/><clip pos="2" side="sl" part="a_func"/></let>
         <out>
           <chunk name="num" case="caseFirstWord">
             <tags>
