@@ -1452,10 +1452,7 @@
       </action>															   
     </rule>																   
 
-
-
-
-    <rule comment="REGLA: nomcmpfoc">	 <!-- juovlâtoontumuátunaamar-uv -->
+    <rule comment="REGLA: nomcmpfoc = juovlâtoontumuátunaamar-uv">
       <pattern>															   
         <pattern-item n="nouncmp"/>
         <pattern-item n="noun"/>
@@ -1471,20 +1468,16 @@
         <call-macro n="pcle-foc-2Param"><with-param pos="2"/><with-param pos="3"/></call-macro>  
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>	   
        <out>															   
-          <chunk name="wordfoc" case="caseFirstWord">					   
+          <chunk name="noun" case="caseFirstWord">					   
             <tags>														   
-              <tag><lit-tag v="WN"/></tag>								   
+              <tag><lit-tag v="NP"/></tag>								   
               <tag><var n="func"/></tag> 
             </tags>														   
             <mlu>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-             <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-             </mlu>
-        </chunk>														   
+              <lu><clip pos="1" side="tl" part="whole"/></lu>
+              <lu><clip pos="2" side="tl" part="whole"/></lu>
+            </mlu>
+          </chunk>														   
         </out>															   
       </action>															   
     </rule>																   
@@ -1855,46 +1848,6 @@
         </out>
       </action>
     </rule>
-<!--    <rule comment="REGLA: adj attr nomcmp">
-      <pattern>
-        <pattern-item n="attr"/>
-        <pattern-item n="nouncmp"/>
-        <pattern-item n="noun"/>
-      </pattern>
-      <action>
-        <call-macro n="convert-deriv-1Param"><with-param pos="3"/></call-macro>
-        <call-macro n="remove-semtag-1Param"><with-param pos="3"/></call-macro>
-        <call-macro n="convert-deriv-1Param"><with-param pos="2"/></call-macro>
-        <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
-        <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
-        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
-        <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="3" side="tl" part="a_exthab"/><lit v=""/></let>
-        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
-        <out>
-          <chunk name="np" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag> 
-            </tags>
-             <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-            <b />
-            <mlu>
-            <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-             <lu>
-              <clip pos="3" side="tl" part="whole"/>
-            </lu>
-             </mlu>
-        </chunk>
-        </out>
-      </action>
-    </rule> -->
     <rule comment="REGLA: numcmp"> <!-- viđajahkásaš - viiđâihásâš -->
       <pattern>
         <pattern-item n="numcmp"/>
