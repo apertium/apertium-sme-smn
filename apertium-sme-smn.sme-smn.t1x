@@ -962,7 +962,7 @@
     <def-list n="kihheen">
       <list-item v="kihheen"/> 
       <list-item v="mihheen"/> 
-      <list-item v="kuussân"/> 
+      <list-item v="kuussân"/> <!-- kuus -->
     </def-list>
     <def-list n="copulas">
       <list-item v="leat"/>
@@ -1284,66 +1284,64 @@
 
     <def-macro n="foc-1Param" npar="1">
 	<choose>   
-          <when>
-            <test>
-               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_be"/></equal>
-            </test>
-          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_ba"/></let> 
-          </when>
-          <when>
-            <test>
-               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_son"/></equal>
-            </test>
-          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_sun"/></let> 
-          </when>
-         <when>
-            <test>
-               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_ges"/></equal>
-            </test>
-          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_gis"/></let> 
-          </when>
-          <when>
-            <test>
-               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_neg-ge"/></equal>
-            </test>
-          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_gin"/></let>  
-          </when>
-         <when>
-            <test>
-               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_pos-ge"/></equal>
-            </test>
-          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_uv"/></let> 
-          </when>
-        <when>
-          <test>
-               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_nu"/></equal>
-          </test>
-          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_nii"/></let> 
-        </when>
-        <when>
-          <test>
-               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_bat"/></equal>
-          </test>
-          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_ba"/></let> 
-        </when>
-        <when>
-          <test>
-               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_gen"/></equal>
-          </test>
-          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_gin"/></let> 
-        </when>
-        <when>
-          <test>
-               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_hal"/></equal>
-          </test>
-          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_han"/></let> 
-        </when>
-        <when>
-          <test>
-               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_naj"/></equal>
-          </test>
-          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_uv"/></let> 
-        </when>
+      <when>
+        <test><equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_be"/></equal></test>
+        <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_ba"/></let> 
+      </when>
+      <when>
+        <test>
+           <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_son"/></equal>
+        </test>
+      <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_sun"/></let> 
+      </when>
+     <when>
+        <test>
+           <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_ges"/></equal>
+        </test>
+      <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_gis"/></let> 
+      </when>
+      <when>
+        <test>
+           <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_neg-ge"/></equal>
+        </test>
+      <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_gin"/></let>  
+      </when>
+     <when>
+        <test>
+           <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_pos-ge"/></equal>
+        </test>
+      <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_uv"/></let> 
+      </when>
+    <when>
+      <test>
+           <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_nu"/></equal>
+      </test>
+      <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_nii"/></let> 
+    </when>
+    <when>
+      <test>
+           <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_bat"/></equal>
+      </test>
+      <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_ba"/></let> 
+    </when>
+    <when>
+      <test>
+           <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_gen"/></equal>
+      </test>
+      <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_gin"/></let> 
+    </when>
+    <when>
+      <test>
+           <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_hal"/></equal>
+      </test>
+      <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_han"/></let> 
+    </when>
+    <when>
+      <test>
+           <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_naj"/></equal>
+      </test>
+      <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_uv"/></let> 
+    </when>
 	</choose>    
     </def-macro>  
 
@@ -1402,9 +1400,7 @@
               <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
               </when>
 		</choose>      
-        <call-macro n="general-macro-1Param">
-          <with-param pos="1"/>
-        </call-macro>
+        <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
           <chunk name="prn" case="caseFirstWord">
@@ -1420,162 +1416,38 @@
         </out>
       </action>
     </rule>
-<!--
-    <rule comment="REGLA: pron-refl = Mun oainnán iežan">
-      <pattern>
-        <pattern-item n="prn-refl"/>
-      </pattern>
-      <action>
-        <call-macro n="general-macro-1Param">
-          <with-param pos="1"/>
-        </call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
-        <out>
-          <chunk name="prn" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="NP"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-    <rule comment="REGLA: pron-res">
-      <pattern>
-        <pattern-item n="prn-res"/>
-      </pattern>
-      <action>
-        <call-macro n="general-macro-1Param">
-          <with-param pos="1"/>
-        </call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
-        <out>
-          <chunk name="ref" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="RES"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-    <rule comment="REGLA: pron-rel">
-      <pattern>
-        <pattern-item n="prn-rel"/>
-      </pattern>
-      <action>
-        <call-macro n="general-macro-1Param">
-          <with-param pos="1"/>
-        </call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
-        <out>
-          <chunk name="rel" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="REL"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-
-    <rule comment="REGLA: pron-dem">
-      <pattern>
-        <pattern-item n="prn-dem"/>
-      </pattern>
-      <action>
-        <call-macro n="general-macro-1Param">
-          <with-param pos="1"/>
-        </call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
-        <out>
-          <chunk name="prn-dem" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-
-
-    <rule comment="REGLA: pron-itg">
-      <pattern>
-        <pattern-item n="prn-itg"/>
-      </pattern>
-      <action>
-        <call-macro n="general-macro-1Param">
-          <with-param pos="1"/>
-        </call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
-        <out>
-          <chunk name="prn-itg" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-
--->
-
 
     
-    <rule comment="REGLA: wordfoc">	 <!-- nieidage / nieida ge   - nieidâ-uv -->									   
+    <rule comment="REGLA: wordfoc = nieidage / nieida ge   - nieidâ-uv">
       <pattern>															   
         <pattern-item n="word"/>										   
         <pattern-item n="foc"/>		  									   
       </pattern>														   
-      <action>															   
-        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>  
-        <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>  
-       <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>	   
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>	   
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>	   
-      <choose><when>
-      <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Ii goastta gosage. - Ij koostâ kuussân.-->
-              <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
-              </when>
+      <action>  
+      <choose><when c="Ii goastta gosa ge. - Ij koostâ kuussân.">
+        <test>
+            <in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in>
+        </test> 
+           <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
+         </when>
          <otherwise> 
-         <call-macro n="pcle-foc-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>  
+           <call-macro n="pcle-foc-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>  
          </otherwise>
 		</choose>      
-		       <out>															   
+        <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
+        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+		<out>															   
           <chunk name="wordfoc" case="caseFirstWord">					   
             <tags>														   
-              <tag><lit-tag v="WN"/></tag>								   
-              <tag><var n="func"/></tag> <!-- ikkje effekt -->
+              <tag><lit-tag v="NP"/></tag>								   
+              <tag><var n="func"/></tag> 
             </tags>														   
             <mlu>														   
-            <lu>														   
-              <clip pos="1" side="tl" part="whole"/>					   
-            </lu>														   
+               <lu>														   
+                 <clip pos="1" side="tl" part="whole"/>					   
+               </lu>														   
              </mlu>														   
-        </chunk>														   
+          </chunk>														   
         </out>															   
       </action>															   
     </rule>																   
@@ -3573,7 +3445,7 @@
 
 
 
-<rule comment="REGLA: mainverb">
+<rule comment="REGLA: mainverb = Iige / ">
       <pattern>
         <pattern-item n="auxverb"/>
       </pattern>
@@ -3680,7 +3552,6 @@
 
 
 
-<!-- streken XXX -->
 
 
     <rule comment="REGLA: cs">
