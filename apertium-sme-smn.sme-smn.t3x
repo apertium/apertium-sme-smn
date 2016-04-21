@@ -10,7 +10,7 @@ This file:
 
 Rules:
 
-REGLA: SN">
+REGLA: NP">
 REGLA: SUBJ"> Dalle ledjen mun ain vuođđoskuvllas. - Talle mun lijjim ain vuáđuškoovlâst. 
 REGLA: SPRED"> Makkár sátni lea dát? - Maggaar sääni taat lii? 
 REGLA: OBJ">
@@ -27,12 +27,12 @@ REGLA: PR_PO">
     <def-cat n="GenCompl">
       <cat-item tags="NumG"/>
       <cat-item tags="NumG.*"/>
-      <cat-item tags="SN"/>
-      <cat-item tags="SN.*"/>
+      <cat-item tags="NP"/>
+      <cat-item tags="NP.*"/>
     </def-cat>
-    <def-cat n="SN">
-      <cat-item tags="SN"/>
-      <cat-item tags="SN.*"/>
+    <def-cat n="NP">
+      <cat-item tags="NP"/>
+      <cat-item tags="NP.*"/>
     </def-cat>
     <def-cat n="dalle">
       <cat-item lemma="dalle" tags="*"/>
@@ -101,9 +101,9 @@ REGLA: PR_PO">
     </def-macro>
   </section-def-macros>
   <section-rules>
-    <rule comment="REGLA: SN">
+    <rule comment="REGLA: NP">
       <pattern>
-        <pattern-item n="SN"/>
+        <pattern-item n="NP"/>
       </pattern>
       <action>
         <out>
