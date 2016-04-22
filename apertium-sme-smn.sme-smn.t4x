@@ -59,7 +59,7 @@ REGLA: PR_PO">
        <cat-item lemma="obj_l" tags="*"/>
     </def-cat>
     <def-cat n="PR_PO">
-       <cat-item lemma="pr_po" tags="*"/>
+       <cat-item lemma="pr_post" tags="*"/>
     </def-cat>
     <def-cat n="IND">
        <cat-item lemma="ind" tags="*"/>
