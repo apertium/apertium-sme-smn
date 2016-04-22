@@ -1021,7 +1021,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-var n="subject"/>
     <def-var n="func"/> <!-- a_func -->
     <def-var n="spred"/>
-    <def-var n="caseFirstWord"/> <!-- added because of Omega-T -->
+    <def-var n="caseFirstword"/> <!-- added because of Omega-T -->
   </section-def-vars>
 
   <section-def-lists>
