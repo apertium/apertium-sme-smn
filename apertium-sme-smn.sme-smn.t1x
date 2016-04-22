@@ -548,6 +548,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <attr-item tags="pr"/>
       <attr-item tags="prn"/>
       <attr-item tags="vblex"/>
+      <attr-item tags="sent"/>
+      <attr-item tags="cm"/>
     </def-attr> 
   
     <def-attr n="a_npagree_type">
@@ -1014,8 +1016,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
   <section-def-vars>
     <def-var n="number"/>
     <def-var n="current_verb"/>
-    <def-var n="adpos_chunk_name"/>
-    <def-var n="feara_chunk_name"/>
+    <def-var n="chunk_name"/>
     <def-var n="object"/>
     <def-var n="subject"/>
     <def-var n="func"/> <!-- a_func -->
@@ -1926,21 +1927,21 @@ t5x move foc_tag from wordfoc chunk to the word inside
          <when><test><and><equal><clip pos="1" side="sl" part="a_adpos"/><lit-tag v="pr"/></equal>
                           <equal><clip pos="1" side="tl" part="a_adpos"/><lit-tag v="post"/></equal>
            </and></test>
-           <let><var n="adpos_chunk_name"/><lit v="pr_post"/></let></when>
+           <let><var n="chunk_name"/><lit v="pr_post"/></let></when>
          <when><test><and><equal><clip pos="1" side="sl" part="a_adpos"/><lit-tag v="post"/></equal>
                           <equal><clip pos="1" side="tl" part="a_adpos"/><lit-tag v="pr"/></equal>
            </and></test>
-           <let><var n="adpos_chunk_name"/><lit v="post_pr"/></let></when>
+           <let><var n="chunk_name"/><lit v="post_pr"/></let></when>
          <when><test><and><equal><clip pos="1" side="sl" part="a_adpos"/><lit-tag v="post"/></equal>
                           <equal><clip pos="1" side="tl" part="a_adpos"/><lit-tag v="post"/></equal>
            </and></test>
-           <let><var n="adpos_chunk_name"/><lit v="post"/></let></when>
+           <let><var n="chunk_name"/><lit v="post"/></let></when>
          <otherwise>
-           <let><var n="adpos_chunk_name"/><lit v="pr"/></let>
+           <let><var n="chunk_name"/><lit v="pr"/></let>
          </otherwise>
        </choose>
         <out>
-          <chunk namefrom="adpos_chunk_name" case="caseFirstWord">
+          <chunk namefrom="chunk_name" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="PP"/></tag>
               <tag><var n="func"/></tag>
@@ -2013,7 +2014,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <pattern-item n="birra-po"/>
       </pattern>
       <action>
-        <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
+        <call-macro n="general-macro-2Param">
+           <with-param pos="1"/><with-param pos="2"/></call-macro>
         <choose>
           <when>
             <test>
@@ -2032,10 +2034,11 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </choose>
         <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="pp-birra">
+          <chunk name="noun">
             <tags>
-              <tag><lit-tag v="SP"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="1" side="tl" part="a_case"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
@@ -2060,9 +2063,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="2" side="tl" part="whole"/>
              <concat><lit v="fáárus"/><lit-tag v="adv"/><clip pos="1" side="tl" part="a_poss"/></concat></let>
         <out>
-          <chunk name="refl">
+          <chunk name="adv">
             <tags>
-              <tag><lit-tag v="SP"/></tag>
+              <tag><lit-tag v="ADVL"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -2072,6 +2075,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </out>
       </action>
     </rule>
+
 
     <rule comment="REGLA: refl-ess = Son humai iežainis. Sun sáárnui jiečânis.">
       <pattern>
@@ -2088,9 +2092,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
           </when>
         </choose>
         <out>
-          <chunk name="refl">
+          <chunk name="prn">
             <tags>
-              <tag><lit-tag v="SP"/></tag>
+              <tag><lit-tag v="ADVL"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -2110,9 +2114,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="ess"/></let>
         <out>
-          <chunk name="refl">
+          <chunk name="prn">
             <tags>
-              <tag><lit-tag v="SP"/></tag>
+              <tag><lit-tag v="ADVL"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -2138,9 +2142,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="2" side="tl" part="a_case"/><lit-tag v="abe"/></let>
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
 	<out>
-          <chunk name="almmá">
+          <chunk name="noun">
             <tags>
-              <tag><lit-tag v="adv"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -2150,6 +2154,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </out>
       </action>
     </rule>
+    
     <rule comment="REGLA: almmá haga-po = almmá doarjaga haga">
       <pattern>
         <pattern-item n="almmá"/>
@@ -2162,9 +2167,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
          <let><clip pos="2" side="tl" part="a_case"/><lit-tag v="abe"/></let>
         <let><clip pos="3" side="tl" part="whole"/><lit v=""/></let>
 	<out>
-          <chunk name="haga-po">
+          <chunk name="noun">
             <tags>
-              <tag><lit-tag v="PP"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -2189,9 +2194,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="a_case"/><lit-tag v="abe"/></let>
 	    <out>
-          <chunk name="almmá">
+          <chunk name="noun">
             <tags>
-              <tag><lit-tag v="adv"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -2221,9 +2226,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
          <let><clip pos="3" side="tl" part="a_case"/><lit-tag v="abe"/></let>
         <let><clip pos="4" side="tl" part="whole"/><lit v=""/></let>
 	<out>
-          <chunk name="haga-po">
+          <chunk name="noun">
             <tags>
-              <tag><lit-tag v="PP"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -2238,6 +2243,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </out>
       </action>
     </rule>
+    
     <rule comment="REGLA: haga-po = Sii manne gápmagiid haga olggos. Te monnii kammuittáá olgos.">
       <pattern>
         <pattern-item n="n-sg-pl-gen"/>
@@ -2249,9 +2255,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="abe"/></let>
         <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>
 	    <out>
-          <chunk name="haga-po">
+          <chunk name="noun">
             <tags>
-              <tag><lit-tag v="PP"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -2272,7 +2278,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
          <let><clip pos="1" side="tl" part="tags"/><lit-tag v="post"/></let>
         <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>
 	<out>
-          <chunk name="nubbibeallai">
+          <chunk name="post">
             <tags>
               <tag><lit-tag v="PP"/></tag>
               <tag><var n="func"/></tag>
@@ -2299,16 +2305,22 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
 	<call-macro n="inherenttag-px-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
 	<out>
-          <chunk name="verb-birra">
+          <chunk name="mainverb">
             <tags>
-              <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="VP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="tags"/>
             </lu>
+          </chunk>
             <b/>
+          <chunk name="adv">
+            <tags>
+              <tag><lit-tag v="ADVL"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
             <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="tags"/>
@@ -2317,6 +2329,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </out>
       </action>
     </rule>
+
     <rule comment="REGLA: jagi boaris = Son lea guhtta jagi boaris. Sun lii kuuđâ ihásâš.">
       <pattern>
         <pattern-item n="num-nomacc"/>
@@ -2329,10 +2342,11 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="3" side="tl" part="lem"/><lit v="ihásâš"/></let>
         <call-macro n="general-macro-2Param-headfirst"><with-param pos="1"/><with-param pos="3"/></call-macro>
         <out>
-          <chunk name="inf" case="caseFirstword">
+          <chunk name="adj" case="caseFirstword">
             <tags>
-              <tag><lit-tag v="num-adj"/></tag>
+              <tag><lit-tag v="AP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="3" side="tl" part="a_case"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
@@ -2363,7 +2377,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="1" side="tl" part="whole"/><lit v=""/></let>
         <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
 	    <out>
-          <chunk name="sehe">
+          <chunk name="cnjcoo">
             <tags>
               <tag><lit-tag v="CONJ"/></tag>
               <tag><var n="func"/></tag>
@@ -2383,12 +2397,11 @@ t5x move foc_tag from wordfoc chunk to the word inside
     	<pattern-item n="shoes"/>
       </pattern>
       <action>
-        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="shoeverb">
+          <chunk name="mainverb">
             <tags>
-              <tag><lit-tag v="V"/></tag>
+              <tag><lit-tag v="VP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -2413,22 +2426,46 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <let><clip pos="2" side="tl" part="tags"/><lit-tag v="vblex.actio.ill"/></let>
         <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
+       <choose>
+         <when><test><equal><clip pos="1" side="sl" part="a_PoS"/><lit-tag v="sent"/></equal>
+           </test>
+           <let><var n="chunk_name"/><lit v="sent"/></let></when>
+         <when><test><equal><clip pos="1" side="sl" part="a_PoS"/><lit-tag v="cm"/></equal>
+           </test>
+           <let><var n="chunk_name"/><lit v="cm"/></let></when>
+         <otherwise>
+           <let><var n="chunk_name"/><lit v="cnjcoo"/></let>
+         </otherwise>
+       </choose>
+        
         <out>
-          <chunk name="inf">
+          <chunk name="mainverb">
             <tags>
-              <tag><lit-tag v="V"/></tag>
+              <tag><lit-tag v="VP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="tags"/>
-            </lu>
-            <b/>
+           </lu>
+          </chunk>
+	        <b/>
+          <chunk name="actio">
+            <tags>
+              <tag><lit-tag v="VP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
             <lu>
               <clip pos="2" side="tl" part="lem"/>
               <clip pos="2" side="tl" part="tags"/>
-            </lu>
-            <b/>
+	    </lu>
+          </chunk>
+	   <b/>
+          <chunk namefrom="chunk_name">
+            <tags>
+              <tag><lit-tag v="VP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
             <lu>
               <clip pos="3" side="tl" part="whole"/>
             </lu>
@@ -2478,11 +2515,13 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
       <choose><when>
-              <test><and><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
+              <test><and>
+                 <not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
                <not><in><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>
               </and></test>
         <let><clip pos="2" side="tl" part="tags"/>
-        <concat><lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let>
+           <concat>
+            <lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let>
               </when>
          <otherwise>
         <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let>
