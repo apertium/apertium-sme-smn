@@ -1463,14 +1463,42 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </def-macro>
 
     <def-macro n="general-macro-2Param" npar="2"><!-- this is the one macro we want to use for everything -->
-      <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
       <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
+      <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
       <choose>
         <when>
           <test>
             <and>
               <equal><clip pos="1" side="sl" part="a_func"/><lit-tag v="@-FMAINV"/></equal>
               <equal><clip pos="2" side="sl" part="a_func"/><lit-tag v="@+FAUXV"/></equal>
+            </and>
+          </test>
+          <let><var n="func"/><lit-tag v="@+FMAINV"/></let>
+        </when>
+      </choose>
+    </def-macro>
+
+    <def-macro n="general-macro-3Param" npar="3"><!-- this is the one macro we want to use for everything -->
+      <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
+      <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
+      <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal><clip pos="1" side="sl" part="a_func"/><lit-tag v="@-FMAINV"/></equal>
+              <equal><clip pos="2" side="sl" part="a_func"/><lit-tag v="@+FAUXV"/></equal>
+            </and>
+          </test>
+          <let><var n="func"/><lit-tag v="@+FMAINV"/></let>
+        </when>
+      </choose>
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal><clip pos="2" side="sl" part="a_func"/><lit-tag v="@-FMAINV"/></equal>
+              <equal><clip pos="3" side="sl" part="a_func"/><lit-tag v="@+FAUXV"/></equal>
             </and>
           </test>
           <let><var n="func"/><lit-tag v="@+FMAINV"/></let>
