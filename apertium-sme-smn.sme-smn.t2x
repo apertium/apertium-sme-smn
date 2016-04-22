@@ -8,6 +8,9 @@ t3x match larger contexts
 t4x move foc_tag from wordfoc chunk to the word inside
 
 This file:
+Turns the focus particle chunk into a tag on the preceding word. Focus
+particles can come after pretty much anything, therefore one file
+which just handles this.
 
 Rules:
 REGLA: WORD FOC">
