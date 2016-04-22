@@ -18,11 +18,11 @@ Rules:
 
 <interchunk>
   <section-def-cats>
-    <def-cat n="WORD">
-      <cat-item tags="*"/>
+    <def-cat n="NP">
+      <cat-item tags="NP.*"/>
     </def-cat>
-    <def-cat n="FOC">
-      <cat-item tags="FOC.*"/>
+    <def-cat n="CNP">
+      <cat-item tags="CNP.*"/>
     </def-cat>
   </section-def-cats>
   <section-def-attrs>
