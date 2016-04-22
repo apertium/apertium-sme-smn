@@ -2864,14 +2864,18 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="remove-semtag-1Param"><with-param pos="4"/></call-macro>
         <let><clip pos="4" side="tl" part="a_exthab"/><lit v=""/></let>
         <let><clip pos="4" side="tl" part="a_func"/><lit v=""/></let>
-        <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="4"/></call-macro>
-        <call-macro n="agreement-attr-2Param"><with-param pos="3"/><with-param pos="4"/></call-macro>
+        <call-macro n="agreement-attr-2Param">
+                   <with-param pos="1"/><with-param pos="4"/></call-macro>
+        <call-macro n="agreement-attr-2Param">
+                   <with-param pos="3"/><with-param pos="4"/></call-macro>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
           <chunk name="agreement-np">
             <tags>
-              <tag><lit-tag v="SS"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="4" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="4" side="tl" part="a_case"/></tag>
             </tags>
 	        <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -2917,6 +2921,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="2" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="2" side="tl" part="a_case"/></tag>
             </tags>
 	        <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -2951,6 +2957,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="3" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="3" side="tl" part="a_case"/></tag>
             </tags>
 	        <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -2991,6 +2999,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="3" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="3" side="tl" part="a_case"/></tag>
             </tags>
 	        <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -3033,6 +3043,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="4" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="4" side="tl" part="a_case"/></tag>
             </tags>
 	        <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -3070,9 +3082,12 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
         <choose><when>
-                <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test>
+                <test><not><in><clip pos="1" side="sl" part="lem"/>
+                <list n="gennum"/></in></not></test>
                 <let><clip pos="2" side="tl" part="tags"/>
-                <concat><lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let>
+                <concat>
+                 <lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/>
+                 <lit-tag v="par"/></concat></let>
               </when>
               <otherwise>
                 <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
@@ -3084,6 +3099,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="1" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="1" side="tl" part="a_case"/></tag>
             </tags>
 	        <lu>
               <clip pos="1" side="tl" part="whole"/>
