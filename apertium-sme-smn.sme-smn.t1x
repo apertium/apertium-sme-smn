@@ -7,6 +7,9 @@ t2x remove FOC chunk, put foc_tag on word before
 t3x coordination
 t4x match larger contexts
 t5x move foc_tag from wordfoc chunk to the word inside
+
+
+
 -->
 
 <transfer default="chunk">

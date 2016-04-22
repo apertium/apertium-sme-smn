@@ -32,9 +32,13 @@
         <file name="apertium-sme-smn.sme-smn.t3x"/>
         <file name="sme-smn.t3x.bin"/>
       </program>
-      <program name="apertium-postchunk">
+      <program name="apertium-interchunk">
         <file name="apertium-sme-smn.sme-smn.t4x"/>
         <file name="sme-smn.t4x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-sme-smn.sme-smn.t5x"/>
+        <file name="sme-smn.t5x.bin"/>
       </program>
       <program name="hfst-proc $1">
         <file name="sme-smn.autogen.hfst"/>
@@ -216,6 +220,38 @@
     </pipeline>
   </mode>
 
+  <mode name="sme-smn-interchunk3" install="no">
+    <pipeline>
+      <program name="hfst-proc --weight-classes 1 -w -e">
+        <file name="sme-smn.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="sme-smn.mor.rlx.bin"/>
+      </program>
+      <program name="cg-proc -n -1 -w">
+        <file name="sme-smn.syn.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-sme-smn.sme-smn.t1x"/>
+        <file name="sme-smn.t1x.bin"/>
+        <file name="sme-smn.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-sme-smn.sme-smn.t2x"/>
+        <file name="sme-smn.t2x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-sme-smn.sme-smn.t3x"/>
+        <file name="sme-smn.t3x.bin"/>
+      </program>
+      <program name="apertium-interchunk -t">
+        <file name="apertium-sme-smn.sme-smn.t4x"/>
+        <file name="sme-smn.t4x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
   <mode name="sme-smn-postchunk" install="no">
     <pipeline>
       <program name="hfst-proc --weight-classes 1 -w -e">
@@ -246,9 +282,13 @@
         <file name="apertium-sme-smn.sme-smn.t3x"/>
         <file name="sme-smn.t3x.bin"/>
       </program>
-      <program name="apertium-postchunk">
+      <program name="apertium-interchunk">
         <file name="apertium-sme-smn.sme-smn.t4x"/>
         <file name="sme-smn.t4x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-sme-smn.sme-smn.t5x"/>
+        <file name="sme-smn.t5x.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -283,9 +323,13 @@
         <file name="apertium-sme-smn.sme-smn.t3x"/>
         <file name="sme-smn.t3x.bin"/>
       </program>
-      <program name="apertium-postchunk">
+      <program name="apertium-interchunk">
         <file name="apertium-sme-smn.sme-smn.t4x"/>
         <file name="sme-smn.t4x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-sme-smn.sme-smn.t5x"/>
+        <file name="sme-smn.t5x.bin"/>
       </program>
       <program name="hfst-proc -d">
         <file name="sme-smn.autogen.hfst"/>

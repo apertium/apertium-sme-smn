@@ -9,25 +9,18 @@ t4x match larger contexts
 t5x move foc_tag from wordfoc chunk to the word inside
 
 This file:
-Turns the focus particle chunk into a tag on the preceding word. Focus
-particles can come after pretty much anything, therefore one file
-which just handles this.
 
 Rules:
-REGLA: WORD FOC">
-
-
+wordfoc: Apply focus particle as tag
 -->
 
-<interchunk>
+<postchunk>
   <section-def-cats>
-    <def-cat n="WORD">
-      <cat-item tags="*"/>
-    </def-cat>
-    <def-cat n="FOC">
-      <cat-item tags="FOC.*"/>
+    <def-cat n="wordfoc">
+      <cat-item name="wordfoc"/>
     </def-cat>
   </section-def-cats>
+
   <section-def-attrs>
     <def-attr n="a_foc">
        <attr-item tags="foc_ba"/>
@@ -57,32 +50,22 @@ REGLA: WORD FOC">
   </section-def-attrs>
 
   <section-def-vars>
-    <def-var n="number"/>
-    <def-var n="POST"/>
+    <def-var n="tmp"/>
   </section-def-vars>
 
   <section-rules>
-    <rule comment="REGLA: WORD FOC">
+    <rule comment="CHUNK: wordfoc">
       <pattern>
-        <pattern-item n="WORD"/>
-        <pattern-item n="FOC"/>
+        <pattern-item n="wordfoc"/>
       </pattern>
       <action>
-        <let>
-            <clip pos="1" part="tags"/>
-            <concat>
-                <clip pos="1" part="tags"/>
-                <clip pos="2" part="a_foc"/>
-            </concat>
-        </let>
         <out>
-          <chunk>
-            <lit v="wordfoc"/>
-            <clip pos="1" part="tags"/>
-            <clip pos="1" part="chcontent"/>
-          </chunk>
+          <lu>
+            <clip pos="1" part="whole"/>
+            <clip pos="0" part="a_foc"/>
+          </lu>
         </out>
       </action>
     </rule>
   </section-rules>
-</interchunk>
+</postchunk>
