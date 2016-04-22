@@ -2,14 +2,11 @@
 <!-- -*- nxml -*- -->
 
 <!--
-t1x local rules, chunking, chunk-internal movement/tagfixing
+t1x local rules, chunking phrases, chunk-internal movement/tagfixing
 t2x remove FOC chunk, put foc_tag on word before
-t3x match larger contexts
-t4x move foc_tag from wordfoc chunk to the word inside
-
-
-
-
+t3x coordination
+t4x match larger contexts
+t5x move foc_tag from wordfoc chunk to the word inside
 -->
 
 <transfer default="chunk">
@@ -125,7 +122,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
     </def-cat>
-    <def-cat n="noun"> <!-- not @OBJ→ because of change of wordorder   -->
+    <def-cat n="noun"> <!-- not @OBJ→ because of change of wordorder, sg/pl/ess to avoid derivations   -->
       <cat-item tags="*.n.*.sg.*"/>
       <cat-item tags="*.n.*.pl.*"/>
       <cat-item tags="*.n.*.ess.*"/>
@@ -143,6 +140,56 @@ t4x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="n.ess.*"/>
       <cat-item tags="np.*"/>
     </def-cat>
+
+    <def-cat n="nominal"> <!-- as noun, but also num, adj -->
+      <cat-item tags="*.n.*.sg.*"/>
+      <cat-item tags="*.n.*.pl.*"/>
+      <cat-item tags="*.n.*.ess.*"/>
+      <cat-item tags="*.n.sg.*"/>
+      <cat-item tags="*.n.pl.*"/>
+      <cat-item tags="*.n.ess.*"/>
+      <cat-item tags="n.*.sg.*"/>
+      <cat-item tags="n.*.pl.*"/>
+      <cat-item tags="n.*.ess.*"/>
+      <cat-item tags="n.*.*.sg.*"/>
+      <cat-item tags="n.*.*.pl.*"/>
+      <cat-item tags="n.*.*.ess.*"/>
+      <cat-item tags="n.sg.*"/>
+      <cat-item tags="n.pl.*"/>
+      <cat-item tags="n.ess.*"/>
+      <cat-item tags="np.*"/>
+      <cat-item tags="*.num.*.sg.*"/>
+      <cat-item tags="*.num.*.pl.*"/>
+      <cat-item tags="*.num.*.ess.*"/>
+      <cat-item tags="*.num.sg.*"/>
+      <cat-item tags="*.num.pl.*"/>
+      <cat-item tags="*.num.ess.*"/>
+      <cat-item tags="num.*.sg.*"/>
+      <cat-item tags="num.*.pl.*"/>
+      <cat-item tags="num.*.ess.*"/>
+      <cat-item tags="num.*.*.sg.*"/>
+      <cat-item tags="num.*.*.pl.*"/>
+      <cat-item tags="num.*.*.ess.*"/>
+      <cat-item tags="num.sg.*"/>
+      <cat-item tags="num.pl.*"/>
+      <cat-item tags="n.ess.*"/>
+      <cat-item tags="*.adj.*.sg.*"/>
+      <cat-item tags="*.adj.*.pl.*"/>
+      <cat-item tags="*.adj.*.ess.*"/>
+      <cat-item tags="*.adj.sg.*"/>
+      <cat-item tags="*.adj.pl.*"/>
+      <cat-item tags="*.adj.ess.*"/>
+      <cat-item tags="adj.*.sg.*"/>
+      <cat-item tags="adj.*.pl.*"/>
+      <cat-item tags="adj.*.ess.*"/>
+      <cat-item tags="adj.*.*.sg.*"/>
+      <cat-item tags="adj.*.*.pl.*"/>
+      <cat-item tags="adj.*.*.ess.*"/>
+      <cat-item tags="adj.sg.*"/>
+      <cat-item tags="adj.pl.*"/>
+      <cat-item tags="adj.ess.*"/>
+    </def-cat>
+    
     <def-cat n="word">
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
@@ -418,7 +465,11 @@ t4x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="adj.*.attr.*"/>
       <cat-item tags="adj.attr.*"/>
     </def-cat>
-    <def-cat n="birra-po">
+    <def-cat n="adpos">
+      <cat-item tags="post.*"/>
+      <cat-item tags="pr.*"/>
+    </def-cat>
+     <def-cat n="birra-po">
       <cat-item lemma="birra" tags="post.*"/>
     </def-cat>
     <def-cat n="shoes">
@@ -479,6 +530,23 @@ t4x move foc_tag from wordfoc chunk to the word inside
   </section-def-cats>
 
   <section-def-attrs>
+
+    <def-attr n="a_PoS">
+      <attr-item tags="adj"/>
+      <attr-item tags="adv"/>
+      <attr-item tags="cnjcoo"/>
+      <attr-item tags="cnjsub"/>
+      <attr-item tags="ij"/>
+      <attr-item tags="n"/>
+      <attr-item tags="np"/>
+      <attr-item tags="num"/>
+      <attr-item tags="part"/>
+      <attr-item tags="post"/>
+      <attr-item tags="pr"/>
+      <attr-item tags="prn"/>
+      <attr-item tags="vblex"/>
+    </def-attr> 
+  
     <def-attr n="a_npagree_type">
        <attr-item tags="adj"/>
        <attr-item tags="adj.ord"/>
@@ -503,7 +571,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
     <def-attr n="a_nom">
       <attr-item tags="n"/>
     </def-attr>
-    <def-attr n="a_cas">
+    <def-attr n="a_case">
       <attr-item tags="nom"/>
       <attr-item tags="acc"/>
       <attr-item tags="ill"/>
@@ -1045,7 +1113,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
             <or>
              <and>
         		<equal>
-        		  <clip pos="2" side="tl" part="a_cas"/>
+        		  <clip pos="2" side="tl" part="a_case"/>
         		  <lit-tag v="com"/>
         		</equal>
                         <equal>
@@ -1055,7 +1123,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
               </and>
               <and>
         		<equal>
-        		  <clip pos="2" side="tl" part="a_cas"/>
+        		  <clip pos="2" side="tl" part="a_case"/>
         		  <lit-tag v="loc"/>
         		</equal>
                         <equal>
@@ -1065,7 +1133,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
                </and>
               <and>
         		<equal>
-        		  <clip pos="2" side="tl" part="a_cas"/>
+        		  <clip pos="2" side="tl" part="a_case"/>
         		  <lit-tag v="ill"/>
         		</equal>
                         <equal>
@@ -1081,7 +1149,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
     	      <lit-tag v="n"/>
     	      <clip pos="2" side="tl" part="a_ntype"/>
     	      <clip pos="2" side="tl" part="a_nbr"/>
-    	      <clip pos="2" side="tl" part="a_cas"/>
+    	      <clip pos="2" side="tl" part="a_case"/>
     	    </concat>
         </let>
         <let>
@@ -1103,7 +1171,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
                 <lit-tag v="n"/>
    	            <clip pos="2" side="tl" part="a_ntype"/>
 	            <clip pos="2" side="tl" part="a_nbr"/>
-   	            <clip pos="2" side="tl" part="a_cas"/>
+   	            <clip pos="2" side="tl" part="a_case"/>
    	          </concat>
            </let>
            <let>
@@ -1112,7 +1180,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
            <clip pos="1" side="tl" part="a_npagree_type"/>
            <clip pos="1" side="tl" part="a_comp-superl"/>
    	    <clip pos="2" side="tl" part="a_nbr"/>
-   	    <clip pos="2" side="tl" part="a_cas"/>
+   	    <clip pos="2" side="tl" part="a_case"/>
    	  </concat>
            </let>
         </otherwise>
@@ -1682,9 +1750,9 @@ t4x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule> -->
 
-    <rule comment="REGLA: noun">
+    <rule comment="REGLA: nominal = Add NP to nominal">
       <pattern>
-        <pattern-item n="noun"/>
+        <pattern-item n="nominal"/>
       </pattern>
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
@@ -1694,6 +1762,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="1" side="tl" part="a_case"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -1839,40 +1908,10 @@ t4x move foc_tag from wordfoc chunk to the word inside
         </out>
       </action>
     </rule>-->
-    <rule comment="REGLA: numcmp num = 10-20">
-      <pattern>
-        <pattern-item n="numcmp"/>
-        <pattern-item n="numerals"/>
-      </pattern>
-      <action>
-        <call-macro n="convert-deriv-1Param"><with-param pos="2"/></call-macro>
-        <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
-        <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
-         <let><var n="func"/><clip pos="2" side="sl" part="a_func"/></let>
-        <out>
-          <chunk name="num" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="NP"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <mlu>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-             <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-             </mlu>
-        </chunk>
-        </out>
-      </action>
-    </rule>
 
-    <rule comment="REGLA: prep to postp">
+    <rule comment="REGLA: prep to postp or prep">
       <pattern>
-        <pattern-item n="prep"/>
+        <pattern-item n="adpos"/>
       </pattern>
       <action>
        <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
@@ -1880,7 +1919,15 @@ t4x move foc_tag from wordfoc chunk to the word inside
          <when><test><and><equal><clip pos="1" side="sl" part="a_adpos"/><lit-tag v="pr"/></equal>
                           <equal><clip pos="1" side="tl" part="a_adpos"/><lit-tag v="post"/></equal>
            </and></test>
-           <let><var n="adpos_chunk_name"/><lit v="pr_po"/></let></when>
+           <let><var n="adpos_chunk_name"/><lit v="pr_post"/></let></when>
+         <when><test><and><equal><clip pos="1" side="sl" part="a_adpos"/><lit-tag v="post"/></equal>
+                          <equal><clip pos="1" side="tl" part="a_adpos"/><lit-tag v="pr"/></equal>
+           </and></test>
+           <let><var n="adpos_chunk_name"/><lit v="post_pr"/></let></when>
+         <when><test><and><equal><clip pos="1" side="sl" part="a_adpos"/><lit-tag v="post"/></equal>
+                          <equal><clip pos="1" side="tl" part="a_adpos"/><lit-tag v="post"/></equal>
+           </and></test>
+           <let><var n="adpos_chunk_name"/><lit v="post"/></let></when>
          <otherwise>
            <let><var n="adpos_chunk_name"/><lit v="pr"/></let>
          </otherwise>
@@ -1889,7 +1936,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
         <out>
           <chunk namefrom="adpos_chunk_name" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="Pr"/></tag>
+              <tag><lit-tag v="PP"/></tag>
               <tag><var n="func"/></tag>
             </tags>
             <lu>
@@ -1900,60 +1947,6 @@ t4x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-
- 
-    <rule comment="REGLA: num gen = maŋŋel viđa. ~ viiđâ maŋa.">
-      <pattern>
-        <pattern-item n="numgen"/>
-      </pattern>
-      <action>
-        <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
-        <call-macro n="remove-advtag-1Param"><with-param pos="1"/></call-macro>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
-        <out>
-          <chunk name="num" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="NumG"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-    <rule comment="REGLA: paratax: num gen = gaskal viđa ja guđa - viiđâ já kuuđâ kooskâst">
-      <pattern>
-        <pattern-item n="numgen"/>
-        <pattern-item n="CNP"/>
-        <pattern-item n="numgen"/>
-     </pattern>
-      <action>
-        <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
-        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-         <call-macro n="convert-deriv-1Param"><with-param pos="3"/></call-macro>
-        <call-macro n="remove-semtag-1Param"><with-param pos="3"/></call-macro>
-        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
-       <out>
-          <chunk name="num" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="NumG"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <lu><clip pos="1" side="tl" part="whole"/></lu>
-            <b/>
-            <lu><clip pos="2" side="tl" part="whole"/></lu>
-            <b/>
-            <lu><clip pos="3" side="tl" part="whole"/></lu>
-         </chunk>
-        </out>
-      </action>
-    </rule>
 
     <rule comment="REGLA: adv">
       <pattern>
@@ -1986,52 +1979,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
 
     <!-- SECTION: Adpositions -->
 
-<!--    <rule comment="REGLA: pr">
-      <pattern>
-        <pattern-item n="pr"/>
-      </pattern>
-      <action>
-        <call-macro n="general-macro-1Param">
-          <with-param pos="1"/>
-        </call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
-        <out>
-          <chunk name="pr" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="PREP"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
--->
 
-    <rule comment="REGLA: post">
-      <pattern>
-        <pattern-item n="post"/>
-      </pattern>
-      <action>
-        <call-macro n="general-macro-1Param">
-          <with-param pos="1"/>
-        </call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
-        <out>
-          <chunk name="post" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="PP"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
 
     <rule comment="REGLA: adj">
       <pattern>
@@ -2071,14 +2019,14 @@ t4x move foc_tag from wordfoc chunk to the word inside
                <in caseless="yes"><var n="current_verb"/><list n="loc_verbs" /></in>
           </test>
           <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>
-          <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="loc"/></let>
+          <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="loc"/></let>
         </when>
         <when>
           <test>
                <in caseless="yes"><var n="current_verb"/><list n="acc_verbs" /></in>
           </test>
           <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>
-          <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="acc"/></let>
+          <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="acc"/></let>
         </when>
       </choose>
         <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
@@ -2137,7 +2085,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
           <test>
                <in caseless="yes"><var n="current_verb"/><list n="com-ess_verbs" /></in>
           </test>
-          <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="ess"/></let>
+          <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="ess"/></let>
         </when>
       </choose>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
@@ -2163,7 +2111,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
       <action>
         <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-          <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="ess"/></let>
+          <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="ess"/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
@@ -2193,7 +2141,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-         <let><clip pos="2" side="tl" part="a_cas"/><lit-tag v="abe"/></let>
+         <let><clip pos="2" side="tl" part="a_case"/><lit-tag v="abe"/></let>
 	<out>
           <chunk name="almmá">
             <tags>
@@ -2216,7 +2164,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-         <let><clip pos="2" side="tl" part="a_cas"/><lit-tag v="abe"/></let>
+         <let><clip pos="2" side="tl" part="a_case"/><lit-tag v="abe"/></let>
         <let><clip pos="3" side="tl" part="whole"/><lit v=""/></let>
 	<out>
           <chunk name="haga-po">
@@ -2244,7 +2192,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="remove-semtag-1Param"><with-param pos="3"/></call-macro>
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="3" side="tl" part="a_cas"/><lit-tag v="abe"/></let>
+        <let><clip pos="3" side="tl" part="a_case"/><lit-tag v="abe"/></let>
 	    <out>
           <chunk name="almmá">
             <tags>
@@ -2275,7 +2223,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <call-macro n="remove-semtag-1Param"><with-param pos="3"/></call-macro>
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
-         <let><clip pos="3" side="tl" part="a_cas"/><lit-tag v="abe"/></let>
+         <let><clip pos="3" side="tl" part="a_case"/><lit-tag v="abe"/></let>
         <let><clip pos="4" side="tl" part="whole"/><lit v=""/></let>
 	<out>
           <chunk name="haga-po">
@@ -2303,7 +2251,7 @@ t4x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="abe"/></let>
+        <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="abe"/></let>
         <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>
 	    <out>
           <chunk name="haga-po">
