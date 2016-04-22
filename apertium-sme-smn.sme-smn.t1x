@@ -1463,8 +1463,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </def-macro>
 
     <def-macro n="general-macro-2Param" npar="2"><!-- this is the one macro we want to use for everything -->
-      <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
       <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
+      <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
       <choose>
         <when>
           <test>
@@ -1761,10 +1761,11 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
-          <chunk name="noun" case="caseFirstWord">
+          <chunk name="nominal" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="1" side="tl" part="a_PoS"/></tag>
               <tag><clip pos="1" side="tl" part="a_case"/></tag>
             </tags>
             <lu>
@@ -2460,14 +2461,15 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <let><clip pos="1" side="tl" part="lem"/><lit v="šiev"/></let>
         <let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.attr"/></let>
-        <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
+
        <out>
-          <chunk name="a-n" case="caseFirstWord">
+          <chunk name="nominal" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="2" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="2" side="tl" part="a_case"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
