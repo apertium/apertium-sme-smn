@@ -9,7 +9,7 @@ t4x match larger contexts
 t5x move foc_tag from wordfoc chunk to the word inside
 
 This file:
-Coordination
+Coordination – merge NP CNP NP chunks into one NP chunk.
 
 Rules:
 
@@ -21,9 +21,16 @@ Rules:
     <def-cat n="NP">
       <cat-item tags="NP.*"/>
     </def-cat>
+    <def-cat n="SV">
+      <cat-item tags="SV.*"/>
+    </def-cat>
     <def-cat n="CNP">
       <cat-item tags="cnjcoo.@CNP.*"/>
       <cat-item tags="cnjcoo.@CNP"/>
+    </def-cat>
+    <def-cat n="CVP">
+      <cat-item tags="cnjcoo.@CVP.*"/>
+      <cat-item tags="cnjcoo.@CVP"/>
     </def-cat>
   </section-def-cats>
   <section-def-attrs>
@@ -70,6 +77,30 @@ Rules:
          <chunk>
            <clip pos="3" part="lem"/>
            <clip pos="3" part="tags"/>
+           <lit v="{"/>
+           <clip pos="1" part="content"/>
+           <b pos="1"/>
+           <clip pos="2" part="content"/>
+           <b pos="2"/>
+           <clip pos="3" part="content"/>
+           <lit v="}"/>
+         </chunk>
+       </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: SV CVP SV">
+      <pattern>
+        <pattern-item n="SV"/>
+        <pattern-item n="CVP"/>
+        <pattern-item n="SV"/>
+      </pattern>
+      <action>
+       <out>
+         <chunk>
+           <clip pos="3" part="lem"/>
+           <clip pos="3" part="tags"/>
+           <lit-tag v="coord"/>
            <lit v="{"/>
            <clip pos="1" part="content"/>
            <b pos="1"/>
