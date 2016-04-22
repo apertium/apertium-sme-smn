@@ -1096,6 +1096,25 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
   <section-def-macros>
 
+
+    <def-macro n="set_caseFirstword" npar="1"
+               c="Set the typographic case to be carried by the chunk.
+                  - if argument is _not_ a proper noun: caseFirstword is the case of the lemma, and the lemma gets lowercase.
+                  - if argument _is_ a proper noun: caseFirstword is lowercase, and lemma stays unchanged.
+
+                  We treat UPPERCASE as proper nouns.">
+      <let><var n="caseFirstword"/><lit v="aa"/></let>
+      <choose><when>
+        <test><not><or>
+          <begins-with><clip pos="1" side="tl" part="a_nom"/><lit-tag v="np"/></begins-with>
+          <!-- <equal><clip pos="1" side="tl" part="lettercase"/><lit-tag v="fixedcase"/></equal> -->
+          <equal><get-case-from pos="1"><lit v="aa"/></get-case-from><lit v="AA"/></equal>
+        </or></not></test>
+        <let><var n="caseFirstword"/><get-case-from pos="1"><lit v="aa"/></get-case-from></let>
+        <modify-case><clip pos="1" side="tl" part="lemh"/><lit v="aa"/></modify-case>
+      </when></choose>
+    </def-macro>
+
     <def-macro n="remove-semtag-1Param" npar="1">
           <let>
             <clip pos="1" side="tl" part="a_sem"/>
@@ -1446,7 +1465,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </def-macro>
 
     <def-macro n="general-macro-1Param" npar="1" c="Use for all chunks of one pattern-item">
-      <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+      <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
       <choose><when>
           <test><not><equal><clip pos="1" side="tl" part="a_func"/><lit v=""/></equal></not></test>
           <let><var n="func"/><clip pos="1" side="sl" part="a_func"/></let>
@@ -1465,7 +1484,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
                                                     param2: second pattern-item; used to set func variable">
       <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
       <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
-      <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+      <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
       <choose><when>
         <test><and>
           <equal><clip pos="1" side="sl" part="a_func"/><lit-tag v="@-FMAINV"/></equal>
@@ -1478,7 +1497,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
                                                               param1: first pattern-item; used to set caseFirstword and func variable">
       <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
       <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
-      <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+      <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
       <choose><when>
         <test><and>
           <equal><clip pos="1" side="sl" part="a_func"/><lit-tag v="@-FMAINV"/></equal>
@@ -1494,7 +1513,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
                                                     param3: third pattern-item; used to set func variable">
       <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
       <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
-      <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+      <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
       <choose><when>
         <test><and>
           <equal><clip pos="2" side="sl" part="a_func"/><lit-tag v="@-FMAINV"/></equal>
@@ -1511,7 +1530,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
                                                     param4: fourth pattern-item; used to set func variable">
       <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
       <call-macro n="general-macro-1Param"><with-param pos="4"/></call-macro>
-      <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+      <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
     </def-macro>
 
   </section-def-macros>
@@ -2875,7 +2894,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </let>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+        <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="noun">
             <tags>
@@ -2911,7 +2930,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+        <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="noun">
             <tags>
@@ -2953,7 +2972,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+        <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="noun">
             <tags>
@@ -2997,7 +3016,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="4"/></call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+        <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="noun">
             <tags>
@@ -3053,7 +3072,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
                 <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
               </otherwise>
 		</choose>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+        <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="noun">
             <tags>
@@ -3098,7 +3117,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
             <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
           </otherwise>
 		</choose>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+        <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="noun">
             <tags>
@@ -3205,22 +3224,20 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </pattern>
       <action>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
-        <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
-        <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+        <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <out>
-          <chunk name="agreement-np">
+          <chunk name="agreement-np" case="caseFirstword">
             <tags>
               <tag><lit-tag v="SM"/></tag>
               <tag><var n="func"/></tag>
             </tags>
-	        <lu>
+            <lu>
               <clip pos="1" side="tl" part="whole"/>
-		    </lu>
-	        <b/>
+            </lu>
+            <b/>
             <lu>
               <clip pos="2" side="tl" part="whole"/>
-	        </lu>
+            </lu>
           </chunk>
         </out>
 
@@ -3228,23 +3245,21 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-<rule comment="REGLA: mainverb = Iige / ">
+    <rule comment="REGLA: mainverb = Iige / ">
       <pattern>
         <pattern-item n="auxverb"/>
       </pattern>
       <action>
-      <choose>
+        <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
+        <choose>
           <when>
             <test><and>
-               <equal><clip pos="1" side="sl" part="lem"/><lit v="ii"/></equal>
-               <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_neg-ge"/></equal> </and>
+              <equal><clip pos="1" side="sl" part="lem"/><lit v="ii"/></equal>
+              <equal><clip pos="1" side="sl" part="a_foc"/><lit-tag v="foc_neg-ge"/></equal> </and>
             </test>
-          <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_ge"/></let>
+            <let><clip pos="1" side="tl" part="a_foc"/><lit-tag v="foc_ge"/></let>
           </when>
-          <otherwise><call-macro n="foc-1Param"><with-param pos="1"/></call-macro></otherwise>
-      </choose>
-        <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+        </choose>
         <out>
           <chunk name="auxverb" case="caseFirstWord">
             <tags>
@@ -3267,8 +3282,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <let><var n="current_verb"/><clip pos="1" side="sl" part="lem"/></let><!-- here we set the variable-->
-        <call-macro n="foc-1Param"><with-param pos="1"/></call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
           <chunk name="mainverb" case="caseFirstWord">
             <tags>
@@ -3342,10 +3355,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <pattern-item n="cnjsub"/>
       </pattern>
       <action>
-	<call-macro n="general-macro-1Param">
-	  <with-param pos="1"/>
-        </call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+	<call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="cnjsub" case="caseFirstWord">
             <tags>
@@ -3365,10 +3375,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <pattern-item n="cnjcoo"/>
       </pattern>
       <action>
-        <call-macro n="general-macro-1Param">
-          <with-param pos="1"/>
-        </call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+        <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="cnjcoo" case="caseFirstWord">
             <tags>
@@ -3390,7 +3397,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </pattern>
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
           <chunk name="sent" case="caseFirstWord">
             <tags>
@@ -3410,7 +3416,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </pattern>
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
           <chunk name="numsem" case="caseFirstWord">
             <tags>
@@ -3428,13 +3433,12 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <pattern-item n="default"/>
       </pattern>
       <action>
-      <choose><when>
+        <choose><when>
           <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Seahkas ii leat mihkkege. - Seehâst ij lah mihheen.-->
           <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
-          </when>
-       </choose>
-       <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+        </when>
+        </choose>
+        <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="default" case="caseFirstWord">
             <tags>
