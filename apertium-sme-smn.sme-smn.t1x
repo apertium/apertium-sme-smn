@@ -2029,7 +2029,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
           </when>
         </choose>
         <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
           <chunk name="pp-birra">
             <tags>
@@ -2055,11 +2054,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <pattern-item n="mielde"/>
       </pattern>
       <action>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="whole"/>
              <concat><lit v="fáárus"/><lit-tag v="adv"/><clip pos="1" side="tl" part="a_poss"/></concat></let>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
           <chunk name="refl">
             <tags>
@@ -2073,21 +2070,21 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </out>
       </action>
     </rule>
+
     <rule comment="REGLA: refl-ess = Son humai iežainis. Sun sáárnui jiečânis.">
       <pattern>
         <pattern-item n="refcom"/>
       </pattern>
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
-      <choose>
-        <when>
-          <test>
-               <in caseless="yes"><var n="current_verb"/><list n="com-ess_verbs" /></in>
-          </test>
-          <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="ess"/></let>
-        </when>
-      </choose>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+        <choose>
+          <when>
+            <test>
+              <in caseless="yes"><var n="current_verb"/><list n="com-ess_verbs" /></in>
+            </test>
+            <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="ess"/></let>
+          </when>
+        </choose>
         <out>
           <chunk name="refl">
             <tags>
@@ -2096,7 +2093,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
-	        </lu>
+            </lu>
           </chunk>
         </out>
       </action>
@@ -2108,11 +2105,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <pattern-item n="com-ess-verb"/>
       </pattern>
       <action>
-        <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-          <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="ess"/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+        <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
+        <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="ess"/></let>
         <out>
           <chunk name="refl">
             <tags>
@@ -2139,8 +2133,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </pattern>
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-         <let><clip pos="2" side="tl" part="a_case"/><lit-tag v="abe"/></let>
+        <let><clip pos="2" side="tl" part="a_case"/><lit-tag v="abe"/></let>
+        <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
 	<out>
           <chunk name="almmá">
             <tags>
@@ -2329,15 +2323,11 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </pattern>
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="tags"/><lit-tag v="num.sg.gen"/></let>
-        <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>
-        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="3" side="tl" part="a_sem"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="lem"/><lit v="ihásâš"/></let>
-        <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+        <call-macro n="general-macro-2Param-headfirst"><with-param pos="1"/><with-param pos="3"/></call-macro>
         <out>
-          <chunk name="inf">
+          <chunk name="inf" case="caseFirstword">
             <tags>
               <tag><lit-tag v="num-adj"/></tag>
               <tag><var n="func"/></tag>
@@ -2345,13 +2335,14 @@ t5x move foc_tag from wordfoc chunk to the word inside
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="tags"/>
-	        </lu>
-	        <b/>
+            </lu>
+            <b pos="1"/>
             <lu>
               <clip pos="3" side="tl" part="lem"/>
               <clip pos="3" side="tl" part="tags"/>
-	        </lu>
+            </lu>
           </chunk>
+          <b pos="2"/>
         </out>
       </action>
     </rule>
