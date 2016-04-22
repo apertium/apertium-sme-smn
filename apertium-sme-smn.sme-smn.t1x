@@ -1444,66 +1444,58 @@ t5x move foc_tag from wordfoc chunk to the word inside
 	</choose>
     </def-macro>
 
-    <def-macro n="general-macro-1Param" npar="1"><!-- this is the one macro we want to use for everything -->
-          <choose>
-            <when>
-              <test>
-                <not><equal><clip pos="1" side="tl" part="a_func"/><lit v=""/></equal></not>
-              </test>
-              <let><var n="func"/><clip pos="1" side="sl" part="a_func"/></let>
-            </when>
-          </choose>
-         <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
-         <call-macro n="foc-1Param"><with-param pos="1"/></call-macro>
-<!--         <call-macro n="remove-advtag-1Param"><with-param pos="1"/></call-macro> this needs a test in the macro-->
-         <let><clip pos="1" side="tl" part="a_south"/><lit v=""/></let>
-         <let><clip pos="1" side="tl" part="a_sem"/><lit v=""/></let>
-         <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
-         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+    <def-macro n="general-macro-1Param" npar="1" c="This is the one macro we want to use for all chunks of one pattern-item">
+      <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+      <choose><when>
+          <test><not><equal><clip pos="1" side="tl" part="a_func"/><lit v=""/></equal></not></test>
+          <let><var n="func"/><clip pos="1" side="sl" part="a_func"/></let>
+      </when></choose>
+      <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
+      <call-macro n="foc-1Param"><with-param pos="1"/></call-macro>
+      <!--         <call-macro n="remove-advtag-1Param"><with-param pos="1"/></call-macro> this needs a test in the macro-->
+      <let><clip pos="1" side="tl" part="a_south"/><lit v=""/></let>
+      <let><clip pos="1" side="tl" part="a_sem"/><lit v=""/></let>
+      <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
+      <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
     </def-macro>
 
-    <def-macro n="general-macro-2Param" npar="2"><!-- this is the one macro we want to use for everything -->
+    <def-macro n="general-macro-2Param" npar="2" c="this is the one macro we want to use for all chunks of two pattern-items
+                                                    param1: first pattern-item; used to set caseFirstword
+                                                    param2: second pattern-item; used to set func variable">
       <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
       <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
-      <choose>
-        <when>
-          <test>
-            <and>
-              <equal><clip pos="1" side="sl" part="a_func"/><lit-tag v="@-FMAINV"/></equal>
-              <equal><clip pos="2" side="sl" part="a_func"/><lit-tag v="@+FAUXV"/></equal>
-            </and>
-          </test>
-          <let><var n="func"/><lit-tag v="@+FMAINV"/></let>
-        </when>
-      </choose>
+      <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+      <choose><when>
+        <test><and>
+          <equal><clip pos="1" side="sl" part="a_func"/><lit-tag v="@-FMAINV"/></equal>
+          <equal><clip pos="2" side="sl" part="a_func"/><lit-tag v="@+FAUXV"/></equal>
+        </and></test>
+        <let><var n="func"/><lit-tag v="@+FMAINV"/></let>
+      </when></choose>
     </def-macro>
 
-    <def-macro n="general-macro-3Param" npar="3"><!-- this is the one macro we want to use for everything -->
+    <def-macro n="general-macro-3Param" npar="3" c="this is the one macro we want to use for all chunks of three pattern-items
+                                                    param1: first pattern-item; used to set caseFirstword
+                                                    param2: second pattern-item
+                                                    param2: third pattern-item; used to set func variable">
       <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
       <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
       <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
-      <choose>
-        <when>
-          <test>
-            <and>
-              <equal><clip pos="1" side="sl" part="a_func"/><lit-tag v="@-FMAINV"/></equal>
-              <equal><clip pos="2" side="sl" part="a_func"/><lit-tag v="@+FAUXV"/></equal>
-            </and>
-          </test>
-          <let><var n="func"/><lit-tag v="@+FMAINV"/></let>
-        </when>
-      </choose>
-      <choose>
-        <when>
-          <test>
-            <and>
-              <equal><clip pos="2" side="sl" part="a_func"/><lit-tag v="@-FMAINV"/></equal>
-              <equal><clip pos="3" side="sl" part="a_func"/><lit-tag v="@+FAUXV"/></equal>
-            </and>
-          </test>
-          <let><var n="func"/><lit-tag v="@+FMAINV"/></let>
-        </when>
-      </choose>
+      <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
+      <choose><when>
+        <test><and>
+          <equal><clip pos="1" side="sl" part="a_func"/><lit-tag v="@-FMAINV"/></equal>
+          <equal><clip pos="2" side="sl" part="a_func"/><lit-tag v="@+FAUXV"/></equal>
+        </and></test>
+        <let><var n="func"/><lit-tag v="@+FMAINV"/></let>
+      </when></choose>
+      <choose><when>
+        <test><and>
+          <equal><clip pos="2" side="sl" part="a_func"/><lit-tag v="@-FMAINV"/></equal>
+          <equal><clip pos="3" side="sl" part="a_func"/><lit-tag v="@+FAUXV"/></equal>
+        </and></test>
+        <let><var n="func"/><lit-tag v="@+FMAINV"/></let>
+      </when></choose>
     </def-macro>
 
   </section-def-macros>
