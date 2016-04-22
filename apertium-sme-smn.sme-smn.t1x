@@ -2708,13 +2708,15 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <pattern-item n="noun"/>
       </pattern>
       <action>
-        <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
+        <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <out>
-          <chunk name="agreement-np">
+          <chunk name="nominal" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="2" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="2" side="tl" part="a_case"/></tag>
             </tags>
             <lu><clip pos="1" side="tl" part="whole"/></lu>
             <b pos="1"/>
@@ -2735,10 +2737,12 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="3"/></call-macro>
         <call-macro n="agreement-attr-2Param"><with-param pos="2"/><with-param pos="3"/></call-macro>
         <out>
-          <chunk name="agreement-np">
+          <chunk name="nominal" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="3" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="3" side="tl" part="a_case"/></tag>
             </tags>
             <lu><clip pos="1" side="tl" part="whole"/></lu>
             <b pos="1"/>
@@ -2760,10 +2764,12 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-3Param"><with-param pos="2"/><with-param pos="2"/><with-param pos="3"/></call-macro>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="3"/></call-macro>
         <out>
-          <chunk name="agreement-np">
+          <chunk name="nominal" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="3" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="3" side="tl" part="a_case"/></tag>
             </tags>
             <lu><clip pos="1" side="tl" part="whole"/></lu>
             <b pos="1"/>
@@ -2785,10 +2791,12 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-3Param"><with-param pos="2"/><with-param pos="2"/><with-param pos="3"/></call-macro>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="3"/></call-macro>
         <out>
-          <chunk name="agreement-np">
+          <chunk name="nominal" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="3" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="3" side="tl" part="a_case"/></tag>
             </tags>
             <lu><clip pos="1" side="tl" part="whole"/></lu>
             <b pos="1"/>
@@ -2811,10 +2819,12 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-4Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/><with-param pos="4"/></call-macro>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="4"/></call-macro>
         <out>
-          <chunk name="agreement-np" case="caseFirstword">
+          <chunk name="nominal" case="caseFirstword">
             <tags>
-              <tag><lit-tag v="SM"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="4" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="4" side="tl" part="a_case"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -2850,7 +2860,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="4"/></call-macro>
         <call-macro n="agreement-attr-2Param"><with-param pos="3"/><with-param pos="4"/></call-macro>
         <out>
-          <chunk name="agreement-np" case="caseFirstword">
+          <chunk name="nominal" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2896,7 +2906,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
         <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="noun">
+          <chunk name="nominal" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2932,7 +2942,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
         <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="noun">
+          <chunk name="nominal" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2974,7 +2984,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
         <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="noun">
+          <chunk name="nominal" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3018,7 +3028,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-1Param"><with-param pos="4"/></call-macro>
         <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="noun">
+          <chunk name="nominal" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3074,7 +3084,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 		</choose>
         <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="noun">
+          <chunk name="nominal" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3119,10 +3129,12 @@ t5x move foc_tag from wordfoc chunk to the word inside
 		</choose>
         <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="noun">
+          <chunk name="nominal" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="1" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="1" side="tl" part="a_case"/></tag>
             </tags>
 	        <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -3148,8 +3160,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <pattern-item n="noun"/>
       </pattern>
       <action>
-        <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
-        <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
+        <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <choose><when>
          <test><equal><clip pos="1" side="tl" part="lem"/><lit v="puohah"/></equal>
            </test>
@@ -3157,10 +3168,12 @@ t5x move foc_tag from wordfoc chunk to the word inside
        </when>
         </choose>
        <out>
-          <chunk name="noun">
+          <chunk name="nominal" case="caseFirstword">
             <tags>
-              <tag><lit-tag v="SM"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="2" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="2" side="tl" part="a_case"/></tag>
             </tags>
 	        <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -3182,9 +3195,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <pattern-item n="noun"/>
       </pattern>
       <action>
-        <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
-        <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
-        <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
+        <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
         <choose><when>
          <test><equal><clip pos="1" side="tl" part="lem"/><lit v="puohah"/></equal>
            </test>
@@ -3192,10 +3203,12 @@ t5x move foc_tag from wordfoc chunk to the word inside
        </when>
         </choose>
        <out>
-          <chunk name="agreement-np">
+          <chunk name="nominal" case="caseFirstword">
             <tags>
-              <tag><lit-tag v="SM"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="3" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="3" side="tl" part="a_case"/></tag>
             </tags>
 	        <lu>
               <clip pos="1" side="tl" part="whole"/>
@@ -3226,10 +3239,12 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <out>
-          <chunk name="agreement-np" case="caseFirstword">
+          <chunk name="nominal" case="caseFirstword">
             <tags>
-              <tag><lit-tag v="SM"/></tag>
+              <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
+              <tag><clip pos="2" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="2" side="tl" part="a_case"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
