@@ -77,7 +77,7 @@ REGLA: WORD FOC">
         </let>
         <out>
           <chunk>
-            <lit v="wordfoc"/>
+            <get-case-from pos="1"><lit v="wordfoc"/></get-case-from>
             <clip pos="1" part="tags"/>
             <clip pos="1" part="chcontent"/>
           </chunk>
