@@ -2870,7 +2870,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
                    <with-param pos="3"/><with-param pos="4"/></call-macro>
         <let><var n="caseFirstWord"/><case-of pos="1" side="sl" part="lem"/></let>
         <out>
-          <chunk name="agreement-np">
+          <chunk name="agreement-np" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2894,7 +2894,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
 	        </lu>
           </chunk>
         </out>
-
       </action>
     </rule>
 
@@ -3487,8 +3486,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </out>
       </action>
     </rule>
-
-
 
   </section-rules>
 </transfer>
