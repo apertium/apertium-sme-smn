@@ -673,7 +673,9 @@
     <!-- ASECTION: Adjectives -->
     
     <e><p><l>milliibáhcci<s n="adj"/></l><r>mieláidpäccee<s n="adj"/></r></p></e>
+    <e><p><l>eahpedievaslaš<s n="n"/></l><r>epitievâslâš<s n="n"/></r></p></e>
     <e><p><l>áitosaš<s n="adj"/></l><r>eidusâš<s n="adj"/></r></p></e>
+    <e><p><l>produktiiva<s n="adj"/></l><r>puáđuslâš<s n="adj"/></r></p></e>
     <e><p><l>utnolaš<s n="adj"/></l><r>soválâš<s n="adj"/></r></p></e>
     <e><p><l>kultursensitiiva<s n="adj"/></l><r>kulttuursensitiivlâš<s n="adj"/></r></p></e>
     <e><p><l>berošmeahttun<s n="adj"/></l><r>peerustmettum<s n="adj"/></r></p></e>
@@ -1084,7 +1086,12 @@
 
     <e><p><l>káfestallan<s n="n"/></l><r>káhvástâllâm<s n="n"/></r></p></e>
     <e><p><l>evangelium<s n="n"/></l><r>evangelium<s n="n"/></r></p></e>
+    <e><p><l>vátnivuohta<s n="n"/></l><r>vááijuvvuotâ<s n="n"/></r></p></e>
     <e><p><l>láhkaásaheapmi<s n="n"/></l><r>lahâasâttem<s n="n"/></r></p></e>
+    <e><p><l>hávdádus<s n="n"/><s n="sg"/></l><r>havdajááh<s n="n"/><s n="pl"/></r></p></e>
+    <e><p><l>vihaheapmi<s n="n"/></l><r>vihkâm<s n="n"/></r></p></e>
+    <e><p><l>čonnâsem<s n="n"/></l><r>čatnasupmi<s n="n"/></r></p></e>
+    <e><p><l>mihcamarbeaivi<s n="n"/></l><r>jonsahpeivi<s n="n"/></r></p></e>
     <e><p><l>oamastus<s n="n"/></l><r>omâstem<s n="n"/></r></p></e>
     <e><p><l>olgu<s n="n"/></l><r>olgo<s n="n"/></r></p></e>
     <e><p><l>luomusvuohta<s n="n"/></l><r>luovâsvuotâ<s n="n"/></r></p></e>
@@ -3598,6 +3605,7 @@
     <e><p><l>koordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
     <e><p><l>bálkkašit<s n="vblex"/><s n="tv"/></l><r>palhâšiđ<s n="vblex"/></r></p></e>
     <e><p><l>báddet<s n="vblex"/><s n="tv"/></l><r>paddâđ<s n="vblex"/></r></p></e>
+    <e><p><l>siiddastit<s n="vblex"/><s n="iv"/></l><r>jotteeđ<s n="vblex"/></r></p></e>
     <e><p><l>fuopmášahttit<s n="vblex"/><s n="tv"/></l><r>huámášittiđ<s n="vblex"/></r></p></e>
     <e><p><l>jođálmahttit<s n="vblex"/><s n="tv"/></l><r>huáputtiđ<s n="vblex"/></r></p></e>
     <e><p><l>áigáioažžut<s n="vblex"/><s n="tv"/></l><r>ááigánfinniđ<s n="vblex"/></r></p></e>
