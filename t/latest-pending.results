@@ -1,6 +1,6 @@
-Revision: 67443
-AP_SRC1 Revision: 132752
-AP_SRC2 Revision: 132762
+Revision: 67471
+AP_SRC1 (doesn't seem to be a repo)
+AP_SRC2 (doesn't seem to be a repo)
 Running Pending-tests with mode "sme-smn" with updated tests ...
 
 sme-smn	  Doppe ledje buot meahci eallit.
@@ -40,7 +40,8 @@ WORKS	  Ij maaŋgâi savehijguin koostâ kuussân.
 
 
 sme-smn	  Boađán maŋŋil guovtti.
-WORKS	  Puáđám kyevti maŋa.
+	- Puáđám kyevti maŋa.
+	+ Puáđám maŋa kyevti.
 
 
 sme-smn	  Mun jávkkan guovttis guđa rádjái.
@@ -397,4 +398,4 @@ sme-smn	  Ean fuola su iežame mielde.
 WORKS	  Iän huolâ suu fárusân.
 
 
-41 / 87
+40 / 87, 45.98%

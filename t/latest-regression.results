@@ -1,6 +1,6 @@
-Revision: 67443
-AP_SRC1 Revision: 132752
-AP_SRC2 Revision: 132762
+Revision: 67471
+AP_SRC1 (doesn't seem to be a repo)
+AP_SRC2 (doesn't seem to be a repo)
 Running Regression-tests with mode "sme-smn" with updated tests ...
 
 sme-smn	  Mus leat golbma beatnaga.
@@ -617,7 +617,8 @@ WORKS	  Mun tolvum rievâ viäsu luusâ.
 
 
 sme-smn	  Áhkku bođii maŋŋil juovllaid.
-WORKS	  Ákku poođij juovlâi maŋa.
+	- Ákku poođij juovlâi maŋa.
+	+ Ákku poođij maŋa juovlâi.
 
 
 sme-smn	  Elle váccii bálgá mielde johkagáddái.
@@ -693,15 +694,18 @@ WORKS	  Čokkáán munnuu kooskân.
 
 
 sme-smn	  Áhkku bođii maŋŋil juovllaid.
-WORKS	  Ákku poođij juovlâi maŋa.
+	- Ákku poođij juovlâi maŋa.
+	+ Ákku poođij maŋa juovlâi.
 
 
 sme-smn	  Son lea čoahkkimis gaskal viđa ja guđa.
-WORKS	  Sun lii čuákkimist viiđâ já kuuđâ kooskâst.
+	- Sun lii čuákkimist viiđâ já kuuđâ kooskâst.
+	+ Sun lii čuákkimist kooskâst viiđâ já kuuđâ.
 
 
 sme-smn	  Son bargá birra jándora.
-WORKS	  Sun parga pirrâmpeeivi miätá.
+	- Sun parga pirrâmpeeivi miätá.
+	+ Sun parga miätá pirrâmpeeivi.
 
 
 sme-smn	  Mun human dávjá nieidda birra.
@@ -869,4 +873,4 @@ sme-smn	  Giittos eatnat luoikamis.
 WORKS	  Kijttos ennâg luoikkâmist.
 
 
-214 / 216
+210 / 216, 97.22%
