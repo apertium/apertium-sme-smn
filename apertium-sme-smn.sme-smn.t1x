@@ -1556,7 +1556,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 		</choose>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="prn" case="caseFirstWord">
+          <chunk name="prn" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -1579,7 +1579,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="foc" case="caseFirstWord">
+          <chunk name="foc" case="caseFirstword">
             <tags>
               <tag><lit-tag v="FOC"/></tag>
               <tag><var n="func"/></tag>
@@ -1612,7 +1612,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
           </concat>
         </let>
         <out>
-          <chunk name="verbqst" case="caseFirstWord">
+          <chunk name="verbqst" case="caseFirstword">
             <tags>
               <tag><lit-tag v="SV"/></tag>
               <tag><var n="func"/></tag>
@@ -1642,7 +1642,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
          <let><var n="subject"/><lit v="l_subj"/></let>
         <out>
-          <chunk namefrom="subject" case="caseFirstWord">
+          <chunk namefrom="subject" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -1662,7 +1662,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
          <let><var n="spred"/><lit v="l_spred"/></let>
         <out>
-          <chunk namefrom="spred" case="caseFirstWord">
+          <chunk namefrom="spred" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -1683,7 +1683,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
          <let><var n="object"/><lit v="obj_l"/></let>
         <out>
-          <chunk namefrom="object" case="caseFirstWord">
+          <chunk namefrom="object" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -1710,7 +1710,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
          <let><var n="object"/><lit v="obj_l"/></let>
        <out>
-          <chunk name="object" case="caseFirstWord">
+          <chunk name="object" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -1743,7 +1743,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
          <let><var n="object"/><lit v="obj_l"/></let>
         <out>
-          <chunk namefrom="object" case="caseFirstWord">
+          <chunk namefrom="object" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -1780,7 +1780,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
          <let><var n="object"/><lit v="obj_l"/></let>
         <out>
-          <chunk namefrom="object" case="caseFirstWord">
+          <chunk namefrom="object" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -1808,7 +1808,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="nominal" case="caseFirstWord">
+          <chunk name="nominal" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -1831,7 +1831,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <out>
-          <chunk name="noun" case="caseFirstWord">  
+          <chunk name="noun" case="caseFirstword">  
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -1858,7 +1858,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
         <out>
-          <chunk name="noun" case="caseFirstWord">
+          <chunk name="noun" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -1888,7 +1888,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <out>
-          <chunk name="adj" case="caseFirstWord">
+          <chunk name="adj" case="caseFirstword">
             <tags>
               <tag><lit-tag v="AP"/></tag>
               <tag><var n="func"/></tag>
@@ -1918,7 +1918,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
         <out>
-          <chunk name="adj" case="caseFirstWord">
+          <chunk name="adj" case="caseFirstword">
             <tags>
               <tag><lit-tag v="AP"/></tag>
               <tag><var n="func"/></tag>
@@ -1960,7 +1960,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
          </otherwise>
        </choose>
         <out>
-          <chunk namefrom="chunk_name" case="caseFirstWord">
+          <chunk namefrom="chunk_name" case="caseFirstword">
             <tags>
               <tag><lit-tag v="PP"/></tag>
               <tag><var n="func"/></tag>
@@ -1988,7 +1988,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="remove-advtag-1Param"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="adv" case="caseFirstWord">
+          <chunk name="adv" case="caseFirstword">
             <tags>
               <tag><lit-tag v="ADVL"/></tag>
               <tag><var n="func"/></tag>
@@ -2013,7 +2013,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="adj" case="caseFirstWord">
+          <chunk name="adj" case="caseFirstword">
             <tags>
               <tag><lit-tag v="AP"/></tag>
               <tag><var n="func"/></tag>
@@ -2504,7 +2504,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
 
        <out>
-          <chunk name="nominal" case="caseFirstWord">
+          <chunk name="nominal" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2675,7 +2675,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
           </let>
         </when></choose>
         <out>
-          <chunk name="num-noun" case="caseFirstWord">
+          <chunk name="num-noun" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3261,7 +3261,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
           </when>
         </choose>
         <out>
-          <chunk name="auxverb" case="caseFirstWord">
+          <chunk name="auxverb" case="caseFirstword">
             <tags>
               <tag><lit-tag v="SV"/></tag>
               <tag><var n="func"/></tag>
@@ -3283,7 +3283,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <let><var n="current_verb"/><clip pos="1" side="sl" part="lem"/></let><!-- here we set the variable-->
         <out>
-          <chunk name="mainverb" case="caseFirstWord">
+          <chunk name="mainverb" case="caseFirstword">
             <tags>
               <tag><lit-tag v="SV"/></tag>
               <tag><var n="func"/></tag>
@@ -3357,7 +3357,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
 	<call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="cnjsub" case="caseFirstWord">
+          <chunk name="cnjsub" case="caseFirstword">
             <tags>
               <tag><lit-tag v="cnjsub"/></tag>
               <tag><var n="func"/></tag>
@@ -3377,7 +3377,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="cnjcoo" case="caseFirstWord">
+          <chunk name="cnjcoo" case="caseFirstword">
             <tags>
               <tag><lit-tag v="cnjcoo"/></tag>
               <tag><var n="func"/></tag>
@@ -3398,7 +3398,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="sent" case="caseFirstWord">
+          <chunk name="sent" case="caseFirstword">
             <tags>
               <tag><lit-tag v="SENT"/></tag>
             </tags>
@@ -3417,7 +3417,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="numsem" case="caseFirstWord">
+          <chunk name="numsem" case="caseFirstword">
             <tags>
               <tag><clip pos="1" side="sl" part="func"/></tag>
             </tags>
@@ -3440,7 +3440,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </choose>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="default" case="caseFirstWord">
+          <chunk name="default" case="caseFirstword">
             <tags>
               <tag><clip pos="1" side="sl" part="a_func"/></tag>
             </tags>
