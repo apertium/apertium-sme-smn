@@ -2053,7 +2053,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </choose>
         <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="noun">
+           <chunk name="noun" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
