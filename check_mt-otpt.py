@@ -57,7 +57,7 @@ def prettify(elem):
     reparsed = minidom.parseString(rough_string)
     return reparsed.toprettyxml(indent="\t")
 
-def getAMT(f,o_dir):
+def getAMT(f,o_dir,src_only,wer):
     """Return a XML structure enriched with the Apertium MT output.
     """
     print('... processing ' + str(f))
@@ -90,22 +90,41 @@ def getAMT(f,o_dir):
         tr_sme = ET.SubElement(o_table, 'tr')
         th_sme = ET.SubElement(tr_sme, 'th')
         th_sme.set('class', 'tg-sme')
+        th_sme.set('colspan', '2')
         th_sme.text = tu[0][0].text
         
+        print('processing ' + str(tu[0][0].text) + '\n')
+
         p = Popen('echo '+'\''+tu[0][0].text+'\''+cmd, shell=True, stdout=PIPE, stderr=PIPE)
         out, err = p.communicate()
         
-        tr_smn = ET.SubElement(o_table, 'tr')
-        th_smn = ET.SubElement(tr_smn, 'th')
-        th_smn.set('class', 'tg-smn')
-        th_smn.text = tu[1][0].text
+        if (not src_only):
+            tr_smn = ET.SubElement(o_table, 'tr')
+            th_smn = ET.SubElement(tr_smn, 'th')
+            th_smn.set('class', 'tg-smn')
+            th_smn.set('colspan', '2')
+            th_smn.text = tu[1][0].text
         
         tr_amt = ET.SubElement(o_table, 'tr')
         th_amt = ET.SubElement(tr_amt, 'th')
         th_amt.set('class', 'tg-amt')
-        th_amt.text = out
+        th_amt.set('colspan', '2')
+        th_amt.text = out.strip()
+        if (not wer):
+            th_amt.set('style', 'border-bottom: 2pt solid;')
 
-        
+        if (wer):
+            tr_wer = ET.SubElement(o_table, 'tr')
+            td_wer = ET.SubElement(tr_wer, 'td')
+            td_wer.set('class', 'tg-wer')
+            td_wer.set('style', 'border-bottom: 5pt solid;')
+            td_wer.text = 'WER = value'
+            td_ble = ET.SubElement(tr_wer, 'td')
+            td_ble.set('class', 'tg-wer')
+            td_ble.set('style', 'border-bottom: 5pt solid;')
+            td_ble.text = 'BLEU = value'
+            
+
         file_name=os.path.basename(str(f))[:-3]+'html'
         indent(o_root)
         o_tree = ET.ElementTree(o_root)
@@ -114,7 +133,7 @@ def getAMT(f,o_dir):
                     method="xml")
     print('DONE ' + str(f) + '\n\n')
 
-table_style = '<style type="text/css">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:8px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}\n.tg th{text-align:left;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:8px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}\n.tg .tg-sme{background-color:#c0c0c0;vertical-align:top;font-weight:bold;}\n.tg .tg-smn{background-color:#efefef;vertical-align:top;font-style:normal;}\n.tg .tg-amt{vertical-align:top;font-style:normal;border-bottom: 2pt solid;}</style>'
+table_style = '<style type="text/css">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:8px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}\n.tg th{text-align:left;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:8px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}\n.tg .tg-sme{background-color:#c0c0c0;vertical-align:top;font-weight:bold;}\n.tg .tg-smn{background-color:#efefef;vertical-align:top;font-style:normal;}\n.tg .tg-amt{vertical-align:top;font-style:normal;}\n.tg .tg-wer{vertical-align:top;font-style:normal;color:grey;font-style: italic;}\n.hr.vertical{width: 0px; height: 100%;}</style>'
 
 # parameters to be adjusted as needed
 s_lang = 'sme'
@@ -144,6 +163,11 @@ def main():
     i_file = ''
     i_dir = 'tmx_data'
     o_dir = 'otpt_dir'
+    src_only = True
+    wer = True
+
+    if (src_only):
+        wer = False
 
     if (total == 3):
         print('... total ' + str(total))
@@ -151,7 +175,7 @@ def main():
         #print '... file ' + str(sys.argv[1])
         	i_file = str(sys.argv[2])
         	if i_file.endswith('tmx'):
-        		getAMT(i_file,o_dir)
+        		getAMT(i_file,o_dir,src_only,wer)
         if str(sys.argv[1]) == '-d':
             i_dir = str(sys.argv[2])
             for root, dirs, files in os.walk(i_dir): # Walk directory tree
@@ -159,7 +183,7 @@ def main():
         
                 for f in files:
                     if f.endswith('tmx'):
-                    	getAMT(os.path.join(root,f),o_dir)
+                    	getAMT(os.path.join(root,f),o_dir,src_only,wer)
     else:
         if (i_file == ''):
             for root, dirs, files in os.walk(i_dir): # Walk directory tree
@@ -167,7 +191,7 @@ def main():
         
                 for f in files:
                     if f.endswith('tmx'):
-                        getAMT(os.path.join(i_dir,f),o_dir)
+                        getAMT(os.path.join(i_dir,f),o_dir,src_only,wer)
                 
 if __name__ == "__main__":
     reload(sys)

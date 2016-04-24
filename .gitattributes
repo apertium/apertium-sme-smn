@@ -631,6 +631,8 @@ fi.samediggi/view_id_EQ_9_itemid_EQ_69.tmx -text
 /hash.sh -text
 inc/parallell-text-not-bidix.freq -text
 /modes.xml -text
+pseudo_tmx_data/SP-18-2012_sme2smn.tmx -text
+pseudo_tmx_data/cahceravgga_sme2smn.tmx -text
 /rm-deriv-cmp.twol -text
 /star.sh -text
 t/README.org -text
