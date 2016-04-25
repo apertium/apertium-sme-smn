@@ -89,6 +89,7 @@
     <sdef n="prfprc" c="Perfect Participle"/>
     <sdef n="der_avt" c="derivation Der_avt"/>
     <sdef n="der_at" c="derivation Der_at"/>
+    <sdef n="der_dimin" c="derivation"/>
    
   </sdefs>
 
