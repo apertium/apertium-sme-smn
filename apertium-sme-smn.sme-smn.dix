@@ -349,6 +349,8 @@
     <e><p><l>gululdaga<s n="adv"/></l><r>váhá<s n="adv"/></r></p></e>
     <e><p><l>uhcán<s n="adv"/></l><r>uccáá<s n="adv"/></r></p></e>
     <e><p><l>dušše<b/>beare<s n="adv"/></l><r>tuše<s n="adv"/></r></p></e>
+    <e><p><l>fáhkka<s n="adv"/></l><r>fakkist<s n="adv"/></r></p></e>
+
 
     <e><p><l>litnásit<s n="adv"/></l><r>linásávt<s n="adv"/></r></p></e>
     <e><p><l>maŋos<b/>guvlui<s n="adv"/></l><r>maŋaskulij<s n="adv"/></r></p></e>
@@ -1163,6 +1165,7 @@
     <e><p><l>suodji<s n="n"/></l><r>syeji<s n="n"/></r></p></e>
     <e><p><l>eaŋgalasgiella<s n="n"/></l><r>eŋgâlâskielâ<s n="n"/></r></p></e>
     <e><p><l>berošteaddji<s n="n"/><s n="nomag"/></l><r>kiddiistum<b/>olmooš<s n="n"/></r></p></e>
+    <e><p><l>berosteaddji<s n="n"/><s n="nomag"/></l><r>kiddiistum<b/>olmooš<s n="n"/></r></p></e>
     <e><p><l>geahčču<s n="n"/></l><r>kiäčču<s n="n"/></r></p></e>
     <e><p><l>čuvgehussearvi<s n="n"/></l><r>čuovviittâsservi<s n="n"/></r></p></e>
     <e><p><l>sáddehus<s n="n"/></l><r>vuolgâttâs<s n="n"/></r></p></e>
@@ -1965,7 +1968,7 @@
     <e><p><l>má<s n="n"/></l><r>má<s n="n"/></r></p></e>
     <e><p><l>ng<s n="n"/></l><r>nk<s n="n"/></r></p></e>
     <e><p><l>milj<s n="n"/></l><r>milj<s n="n"/></r></p></e>
-    <e><p><l>AHR<s n="adv"/></l><r>AHR<s n="adv"/></r></p></e>
+    <e><p><l>AHR<s n="n"/></l><r>AHR<s n="n"/></r></p></e>
 
 
     <!-- ASECTION: sme-person names with two possible translations -->
@@ -3615,7 +3618,10 @@
     <e><p><l>koordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
     <e><p><l>bálkkašit<s n="vblex"/><s n="tv"/></l><r>palhâšiđ<s n="vblex"/></r></p></e>
     <e><p><l>báddet<s n="vblex"/><s n="tv"/></l><r>paddâđ<s n="vblex"/></r></p></e>
+    <e><p><l>bahkket<s n="vblex"/><s n="tv"/></l><r>pokkiđ<s n="vblex"/></r></p></e>
     <e><p><l>siiddastit<s n="vblex"/><s n="iv"/></l><r>jotteeđ<s n="vblex"/></r></p></e>
+    <e><p><l>berostit<s n="vblex"/><s n="iv"/></l><r>perustiđ<s n="vblex"/></r></p></e>
+    <e><p><l>meinnet<s n="vblex"/><s n="iv"/></l><r>meinađ<s n="vblex"/></r></p></e>
     <e><p><l>jiekŋut<s n="vblex"/><s n="iv"/></l><r>jiäŋŋuđ<s n="vblex"/></r></p></e>
     <e><p><l>gávastallat<s n="vblex"/><s n="iv"/></l><r>kavâstâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>fuopmášahttit<s n="vblex"/><s n="tv"/></l><r>huámášittiđ<s n="vblex"/></r></p></e>
