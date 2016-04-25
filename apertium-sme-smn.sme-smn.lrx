@@ -81,6 +81,12 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.6">
+    <match lemma="sápmi" tags="n.sg.gen.*">
+      <select lemma="säämi" tags="n.*"/>
+    </match>
+  </rule>
+
+  <rule weight="0.6">
     <match lemma="sápmi" tags="n.*.sg.acc.*">
       <select lemma="säämi" tags="n.*"/>
     </match>
