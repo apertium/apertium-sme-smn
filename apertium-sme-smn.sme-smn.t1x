@@ -1016,6 +1016,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
   <section-def-vars>
     <def-var n="number"/>
     <def-var n="current_verb"/>
+    <def-var n="current_noun"/>
     <def-var n="chunk_name"/>
     <def-var n="object"/>
     <def-var n="subject"/>
@@ -1081,6 +1082,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <list-item v="gullat"/>
       <list-item v="leat"/>
       <list-item v="leđe"/>
+      <list-item v="čilget"/>
     </def-list>
     <def-list n="acc_verbs">
       <list-item v="jurddašit"/>
@@ -2038,7 +2040,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <choose>
           <when>
             <test>
-              <in caseless="yes"><var n="current_verb"/><list n="loc_verbs" /></in>
+		<in caseless="yes"><var n="current_verb"/><list n="loc_verbs" /></in>
             </test>
             <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>
             <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="loc"/></let>
@@ -2066,6 +2068,43 @@ t5x move foc_tag from wordfoc chunk to the word inside
             <b/>
             <lu>
               <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+        <rule comment="REGLA: birra-loc = diehtu Sámedikki birra - Loc"> <!-- perhaps all nouns -->
+      <pattern>
+        <pattern-item n="noun"/>
+        <pattern-item n="nom-gen"/>
+        <pattern-item n="birra-po"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-3Param">
+           <with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
+            <let><clip pos="3" side="tl" part="whole"/><lit v=""/></let>
+            <let><clip pos="2" side="tl" part="a_case"/><lit-tag v="loc"/></let>
+        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
+        <out>
+           <chunk name="noun" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="func"/></tag>
+              <tag><clip pos="1" side="tl" part="a_case"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="tags"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
