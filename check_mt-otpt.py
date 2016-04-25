@@ -163,8 +163,8 @@ def main():
     i_file = ''
     i_dir = 'tmx_data'
     o_dir = 'otpt_dir'
-    src_only = True
-    wer = True
+    src_only = False # True = no parallel, False = parallel
+    wer = False # True = WER, False = no WER
 
     if (src_only):
         wer = False
