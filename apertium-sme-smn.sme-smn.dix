@@ -678,6 +678,7 @@
     
     <e><p><l>milliibáhcci<s n="adj"/></l><r>mieláidpäccee<s n="adj"/></r></p></e>
     <e><p><l>eahpedievaslaš<s n="adj"/></l><r>epitievâslâš<s n="adj"/></r></p></e>
+    <e><p><l>vádjitválddálaš<s n="adj"/></l><r>vááijuvváldálâš<s n="adj"/></r></p></e>
     <e><p><l>eatnigielat<s n="adj"/></l><r>eenikielâlâš<s n="adj"/></r></p></e>
     <e><p><l>anársámegielat<s n="adj"/></l><r>anarâškiel<s n="adj"/></r></p></e>
     <e><p><l>anársámegielat<s n="adj"/></l><r>anarâškielâlâš<s n="adj"/></r></p></e>
@@ -1095,6 +1096,7 @@
 
     <e><p><l>káfestallan<s n="n"/></l><r>káhvástâllâm<s n="n"/></r></p></e>
     <e><p><l>evangelium<s n="n"/></l><r>evangelium<s n="n"/></r></p></e>
+    <e><p><l>hovden<s n="n"/></l><r>hovdim<s n="n"/></r></p></e>
     <e><p><l>šleađga<s n="n"/></l><r>šleđgâ<s n="n"/></r></p></e>
     <e><p><l>stámpa<s n="n"/></l><r>šaavâ<s n="n"/></r></p></e>
     <e><p><l>gilvvagárdi<s n="n"/></l><r>šaddokärdi<s n="n"/></r></p></e>
@@ -4070,7 +4072,8 @@
     <e><p><l>coazzi<s n="adj"/></l><r>tiivâs<s n="adj"/></r></p></e>
     <e><p><l>dalloš<s n="adj"/></l><r>tallaaš<s n="adj"/></r></p></e>
     <e><p><l>dalá<s n="adj"/></l><r>tallaaš<s n="adj"/></r></p></e>
-    <e><p><l>davvisámegielat<s n="adj"/></l><r>orjâlâš<s n="adj"/></r></p></e>
+    <e><p><l>davvisámegielat<s n="adj"/></l><r>orjâlâškiel<s n="adj"/></r></p></e>
+    <e><p><l>davvisámegielat<s n="adj"/></l><r>orjâlâškielâš<s n="adj"/></r></p></e>
     <e><p><l>dearvvas<s n="adj"/></l><r>tiervâs<s n="adj"/></r></p></e>
     <e><p><l>dearvvaslaš<s n="adj"/></l><r>tiervâslâš<s n="adj"/></r></p></e>
     <e><p><l>dearvvaš<s n="adj"/></l><r>tiervâs<s n="adj"/></r></p></e>
@@ -4543,7 +4546,9 @@
     <e><p><l>suohkat<s n="adj"/></l><r>suohâd<s n="adj"/></r></p></e>
     <e><p><l>suohtas<s n="adj"/></l><r>suotâs<s n="adj"/></r></p></e>
     <e><p><l>suollemas<s n="adj"/></l><r>syeligâs<s n="adj"/></r></p></e>
+    <e><p><l>suomagielat<s n="adj"/></l><r>suomâkiel<s n="adj"/></r></p></e>
     <e><p><l>suomagielat<s n="adj"/></l><r>suomâkielâg<s n="adj"/></r></p></e>
+    <e><p><l>vierrogielat<s n="adj"/></l><r>viereskielâl<s n="adj"/></r></p></e>
     <e><p><l>vierrogielat<s n="adj"/></l><r>viereskielâlâš<s n="adj"/></r></p></e>
     <e><p><l>surolaš<s n="adj"/></l><r>sorolâš<s n="adj"/></r></p></e>
     <e><p><l>suttolaš<s n="adj"/></l><r>suddogâs<s n="adj"/></r></p></e>
