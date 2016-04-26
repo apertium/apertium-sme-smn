@@ -1096,6 +1096,14 @@
     <e><p><l>káfestallan<s n="n"/></l><r>káhvástâllâm<s n="n"/></r></p></e>
     <e><p><l>evangelium<s n="n"/></l><r>evangelium<s n="n"/></r></p></e>
     <e><p><l>šleađga<s n="n"/></l><r>šleđgâ<s n="n"/></r></p></e>
+    <e><p><l>stámpa<s n="n"/></l><r>šaavâ<s n="n"/></r></p></e>
+    <e><p><l>gilvvagárdi<s n="n"/></l><r>šaddokärdi<s n="n"/></r></p></e>
+    <e><p><l>flávda<s n="n"/></l><r>lippu<s n="n"/></r></p></e>
+    <e><p><l>jovssus<s n="n"/></l><r>puátu<s n="n"/></r></p></e>
+    <e><p><l>suorggideapmi<s n="n"/></l><r>suorgiittem<s n="n"/></r></p></e>
+    <e><p><l>syntáksa<s n="n"/></l><r>syntaks<s n="n"/></r></p></e>
+    <e><p><l>sojaheapmi<s n="n"/></l><r>sujâttem<s n="n"/></r></p></e>
+    <e><p><l>sojahangeažus<s n="n"/></l><r>sujâttemkiäjus<s n="n"/></r></p></e>
     <e><p><l>giddodat<s n="n"/></l><r>kiddodâh<s n="n"/></r></p></e>
     <e><p><l>jođiheapmi<s n="n"/></l><r>jođettem<s n="n"/></r></p></e>
     <e><p><l>badji<s n="n"/></l><r>paje<s n="n"/></r></p></e>
@@ -1981,7 +1989,7 @@
     <e><p><l>tel<s n="n"/></l><r>puh<s n="n"/></r></p></e>
     <e><p><l>má<s n="n"/></l><r>má<s n="n"/></r></p></e>
     <e><p><l>ng<s n="n"/></l><r>nk<s n="n"/></r></p></e>
-    <e><p><l>milj<s n="n"/></l><r>milj<s n="n"/></r></p></e>
+    <e><p><l>milj<s n="num"/></l><r>milj<s n="num"/></r></p></e>
     <e><p><l>AHR<s n="n"/></l><r>AHR<s n="n"/></r></p></e>
 
 
@@ -3631,9 +3639,12 @@
     <!-- ASECTION: Verbs -->
     <e><p><l>koordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
     <e><p><l>bálkkašit<s n="vblex"/><s n="tv"/></l><r>palhâšiđ<s n="vblex"/></r></p></e>
+    <e><p><l>biđđit<s n="vblex"/><s n="tv"/></l><r>steikkiđ<s n="vblex"/></r></p></e>
     <e><p><l>báddet<s n="vblex"/><s n="tv"/></l><r>paddâđ<s n="vblex"/></r></p></e>
+    <e><p><l>oađestuvvat<s n="vblex"/><s n="iv"/></l><r>uáđistuđ<s n="vblex"/></r></p></e>
     <e><p><l>guođahit<s n="vblex"/><s n="tv"/></l><r>šeštiđ<s n="vblex"/></r></p></e>
     <e><p><l>bahkket<s n="vblex"/><s n="tv"/></l><r>pokkiđ<s n="vblex"/></r></p></e>
+    <e><p><l>analyseret<s n="vblex"/><s n="tv"/></l><r>analysistiđ<s n="vblex"/></r></p></e>
     <e><p><l>siiddastit<s n="vblex"/><s n="iv"/></l><r>jotteeđ<s n="vblex"/></r></p></e>
     <e><p><l>berostit<s n="vblex"/><s n="iv"/></l><r>perustiđ<s n="vblex"/></r></p></e>
     <e><p><l>meinnet<s n="vblex"/><s n="iv"/></l><r>meinađ<s n="vblex"/></r></p></e>
