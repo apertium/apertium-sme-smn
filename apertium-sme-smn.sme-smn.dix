@@ -698,6 +698,7 @@
     <e><p><l>rájeheapme<s n="adj"/></l><r>räjittem<s n="adj"/></r></p></e>
     <e><p><l>ijaheapme<s n="adj"/></l><r>ijâttem<s n="adj"/></r></p></e>
     <e><p><l>sámegielat<s n="adj"/></l><r>sämikielâlâš<s n="adj"/></r></p></e>
+    <e><p><l>sámegielat<s n="adj"/></l><r>sämikiel<s n="adj"/></r></p></e>
     <e><p><l>iešráđálaš<s n="adj"/></l><r>jieráđálâš<s n="adj"/></r></p></e>
     <e><p><l>beallásaš<s n="adj"/></l><r>jieráđálâš<s n="adj"/></r></p></e>
     <e><p><l>ovddidandohkálaš<s n="adj"/></l><r>ovdánemtohálâš<s n="adj"/></r></p></e>
@@ -1693,7 +1694,8 @@
     <e><p><l>loddi<s n="n"/></l><r>lodde<s n="n"/></r></p></e>
     <e><p><l>logopediija<s n="n"/></l><r>logopedia<s n="n"/></r></p></e>
     <e><p><l>lohkomearri<s n="n"/></l><r>lohomeeri<s n="n"/></r></p></e>
-    <e><p><l>lohku<s n="n"/></l><r>loho<s n="n"/></r></p></e>
+    <e><p><l>lohku<s n="n"/></l><r>loho<s n="n"/></r></p></e> <!-- konkrehta  -->
+    <e><p><l>lohku<s n="n"/></l><r>meeri<s n="n"/></r></p></e> <!-- mengde  -->
     <e><p><l>luoddaearru<s n="n"/></l><r>luoddâiäru<s n="n"/></r></p></e>
     <e><p><l>lupiidna<s n="n"/></l><r>lupiin<s n="n"/></r></p></e>
     <e><p><l>láhka<s n="n"/></l><r>laahâ<s n="n"/></r></p></e>
@@ -8809,7 +8811,7 @@
     <e><p><l>fárus<s n="adv"/></l><r>fáárust<s n="adv"/></r></p></e>
     <e><p><l>eanemus<s n="adv"/></l><r>iänááš<s n="adv"/></r></p></e>
     <e><p><l>easkka<s n="adv"/></l><r>esken<s n="adv"/></r></p></e>
-    <e><p><l>jur<s n="adv"/></l><r>eidu<s n="adv"/></r></p></e>
+    <e><p><l>jur<s n="adv"/></l><r>jur<s n="adv"/></r></p></e> <!-- eidu? -->
     <e><p><l>birrasii<s n="adv"/></l><r>suulân<s n="adv"/></r></p></e>
     <e><p><l>almmatge<s n="adv"/></l><r>ain-uv<s n="adv"/></r></p></e>
     <e><p><l>almmatge<s n="adv"/></l><r>kuittâg<s n="adv"/></r></p></e>
