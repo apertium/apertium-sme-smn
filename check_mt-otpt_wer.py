@@ -174,7 +174,7 @@ table_style = '<style type="text/css">\n.tg  {border-collapse:collapse;border-sp
 
 # parameters to be adjusted as needed
 s_lang = 'sme'
-t_lang = 'smj'
+t_lang = 'smn'
 
 try:
     os.environ["APERTIUM_HOME"]
