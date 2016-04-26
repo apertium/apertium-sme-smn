@@ -2827,7 +2827,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <pattern-item n="noun"/>
       </pattern>
       <action>
-        <call-macro n="general-macro-3Param"><with-param pos="2"/><with-param pos="2"/><with-param pos="3"/></call-macro>
+        <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="3"/></call-macro>
         <out>
           <chunk name="nominal" case="caseFirstword">
@@ -2839,9 +2839,10 @@ t5x move foc_tag from wordfoc chunk to the word inside
             </tags>
             <lu><clip pos="1" side="tl" part="whole"/></lu>
             <b pos="1"/>
+            <mlu>
             <lu><clip pos="2" side="tl" part="whole"/></lu>
-            <b pos="2"/>
             <lu><clip pos="3" side="tl" part="whole"/></lu>
+            </mlu>
           </chunk>
         </out>
       </action>
