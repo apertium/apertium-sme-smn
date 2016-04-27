@@ -575,6 +575,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </def-attr>
     <def-attr n="a_nom">
       <attr-item tags="n"/>
+      <attr-item tags="np"/>
     </def-attr>
     <def-attr n="a_case">
       <attr-item tags="nom"/>
