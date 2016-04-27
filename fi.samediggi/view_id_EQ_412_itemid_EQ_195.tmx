@@ -27,7 +27,7 @@
             <seg>Čoahkkinlatnja lea guovddáža vuosttaš gearddis .</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>Čuákkimviste Silba lii kuávdáá vuossâmuu keerdist , čuákkimaula ohtâvuođâst .</seg>
+            <seg>Čuákkimviste Silba lii kuávdáá vuossâmuu keerdist .</seg>
          </tuv>
       </tu>
       <tu>
@@ -43,12 +43,12 @@
             <seg>Čoahkkinlanja sáhttá ovttastahttit stuorát čoahkkinlanjain Násttiin , nu ahte oažžu saji oktiibuot 25 olbmui ( 50m2 ) .</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>Čuákkimviste puáhtá ovtâstittiđ stuárráb čuákkimviste Nástin , kuás finnee saje 25 ulmui ( 50 m2 ) . Silba lii tavesämikielâ já tot meerhâš siilbâ .</seg>
+            <seg>Čuákkimviste puáhtá ovtâstittiđ stuárráb čuákkimviste Nástin , kuás finnee saje 25 ulmui ( 50 m2 ) .</seg>
          </tuv>
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>xxx</seg>
+            <seg>Silba lii tavesämikielâ já tot meerhâš siilbâ .</seg>
          </tuv>
          <tuv xml:lang="smn">
             <seg>Silbâ lii ohtâ sämityeje amnâsijn .</seg>
@@ -212,22 +212,6 @@
          </tuv>
          <tuv xml:lang="smn">
             <seg>Čuákkimviste 1=Silba .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Čoahkkinsajis leat addalanvuoigatvuođat .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Čuákkimviste 1+2 ovtâstittum = Silbanásti .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Čoahkkinsadjái sáhttá diŋgot ovddalgihtii boradanbálvalusaid .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Čuákkimviistán finnimnáál purâdempalvâlusâid muuneeld tiiláámáin .</seg>
          </tuv>
       </tu>
    </body>
