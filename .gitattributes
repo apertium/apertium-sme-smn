@@ -23,7 +23,6 @@ aigin/aigin.smn -text
 /apertium-sme-smn.smn-sme.t3x -text
 /autogen.sh -text
 /check_mt-otpt.py -text
-/check_mt-otpt_wer.py -text
 /configure.ac -text
 dev/bidix-sanity.sh -text
 dev/complicateddifferences.txt -text
@@ -768,3 +767,4 @@ tmx_data/tarina_sme2smn.tmx -text
 tmx_data/vaalit2012_sme2smn.tmx -text
 tmx_data/vajaldumjuovlah_sme2smn.tmx -text
 tmx_data/ympsiht_sme2smn.tmx -text
+/wercheck_mt-otpt.py -text
