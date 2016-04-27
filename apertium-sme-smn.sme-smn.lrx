@@ -835,5 +835,28 @@ Write comments to forthcoming rules before this line -->
  </or>  
   </rule>
 
+<!-- sämikielâlâš vs sämikiel -->
+  <rule weight="1.0">
+    <match lemma="eatnigielat">
+      <select lemma="eenikielâl"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="eatnigielat">
+      <select lemma="eenikielâlâš"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="eatnigielat" tags="adj.sem_hum.attr.*">
+      <select lemma="eenikielâlâš"/>
+   </match>
+<or>
+   <match tags="n.sem_hum.*"/>
+   <match tags="n.*.sem_hum.*"/>
+ </or>  
+  </rule>
+
 
 </rules>
