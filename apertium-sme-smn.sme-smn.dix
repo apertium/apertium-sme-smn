@@ -259,6 +259,7 @@
     <e><p><l>birra<s n="pr"/></l><r>miätá<s n="post"/></r></p></e>
     <e><p><l>miehtá<s n="pr"/></l><r>miätá<s n="pr"/></r></p></e>
     <e><p><l>olggobealde<s n="pr"/></l><r>ulguubeln<s n="pr"/></r></p></e>
+    <e><p><l>olggobealde<s n="adv"/></l><r>ulguubeln<s n="adv"/></r></p></e>
 
     <!-- ASECTION: Postpositions -->     
 
@@ -275,8 +276,9 @@
     <e><p><l>dáfus<s n="post"/></l><r>tááhust<s n="post"/></r></p></e>
     <e><p><l>duogi<s n="post"/></l><r>tyehin<s n="post"/></r></p></e>
     <e><p><l>fárrui<s n="post"/></l><r>fáárun<s n="post"/></r></p></e>
-     <e><p><l>gaskan<s n="post"/></l><r>koskân<s n="post"/></r></p></e>
-   <e><p><l>guora<s n="post"/></l><r>piällás<s n="post"/></r></p></e>
+    <e><p><l>fárrui<s n="adv"/></l><r>fáárun<s n="adv"/></r></p></e>
+    <e><p><l>gaskan<s n="post"/></l><r>koskân<s n="post"/></r></p></e>
+    <e><p><l>guora<s n="post"/></l><r>piällás<s n="post"/></r></p></e>
     <e><p><l>gurrii<s n="post"/></l><r>piällás<s n="post"/></r></p></e>
     <e><p><l>háldui<s n="post"/></l><r>haaldun<s n="post"/></r></p></e> 
     <e><p><l>lusa<s n="post"/></l><r>luusâ<s n="post"/></r></p></e>
@@ -300,7 +302,7 @@
     <e><p><l>čađa<s n="post"/></l><r>čoođâ<s n="post"/></r></p></e>
     <e><p><l>duohkin<s n="post"/></l><r>tyehin<s n="post"/></r></p></e>
     <e><p><l>loahpageahčen<s n="post"/></l><r>loppâkeččin<s n="post"/></r></p></e>
-    <e><p><l>vuollai<s n="post"/></l><r>vyellin<s n="post"/></r></p></e>
+    <e><p><l>vuollai<s n="post"/></l><r>vuálá<s n="post"/></r></p></e>
 
 <!-- Moved from the bottom up here,  -->
 
@@ -346,7 +348,7 @@
     <e><p><l>danne<s n="adv"/></l><r>tondiet<s n="adv"/></r></p></e>
     <e><p><l>dan<b/>dihte<s n="adv"/></l><r>tondiet<s n="adv"/></r></p></e>
     <e><p><l>dan<b/>dihtii<s n="adv"/></l><r>tondiet<s n="adv"/></r></p></e>
-    <e><p><l>dávjjibut<s n="adv"/></l><r>távjáb<s n="adv"/></r></p></e> <!-- not in smn -->
+    <e><p><l>dávjjibut<s n="adv"/></l><r>täävjib<s n="adv"/></r></p></e>
     <e><p><l>gululdaga<s n="adv"/></l><r>váhá<s n="adv"/></r></p></e>
     <e><p><l>uhcán<s n="adv"/></l><r>uccáá<s n="adv"/></r></p></e>
     <e><p><l>dušše<b/>beare<s n="adv"/></l><r>tuše<s n="adv"/></r></p></e>
@@ -591,7 +593,7 @@
     <e><p><l>háválassii<s n="adv"/></l><r>häävild<s n="adv"/></r></p></e>
     <e><p><l>ruoŧabealde<s n="adv"/></l><r>Ruotâbeln<s n="adv"/></r></p></e>
     <e><p><l>norggabealde<s n="adv"/></l><r>Taažâbeln<s n="adv"/></r></p></e>
-    <e><p><l>suomabealde<s n="adv"/></l><r>Suomâbeln<s n="adv"/></r></p></e>
+    <e><p><l>suomabealde<s n="adv"/></l><r>Suomâ<b/>beln<s n="adv"/></r></p></e>
     <e><p><l>seamma<b/>láhkai<s n="adv"/></l><r>siämmáánáál<s n="adv"/></r></p></e>
     <e><p><l>dađibahábut<s n="adv"/></l><r>vaidâlitteht<s n="adv"/></r></p></e>
     <e><p><l>ovddos<b/>guvlui<s n="adv"/></l><r>ovdâskulij<s n="adv"/></r></p></e>
@@ -3680,7 +3682,6 @@
     <e><p><l>vuoluštit<s n="vblex"/><s n="tv"/></l><r>väldidiđ<s n="vblex"/></r></p></e>
     <e><p><l>stáđásmuvvat<s n="vblex"/><s n="iv"/></l><r>vuáháduttiđ<s n="vblex"/></r></p></e>
     <e><p><l>laskat<s n="vblex"/><s n="iv"/></l><r>lasaniđ<s n="vblex"/></r></p></e>
-    <e><p><l>hápmašuvvat<s n="vblex"/><s n="iv"/></l><r>häämi<b/>rievdâđ<s n="vblex"/></r></p></e>
     <e><p><l>guoskadit<s n="vblex"/><s n="tv"/></l><r>heiviittiđ<s n="vblex"/></r></p></e>
     <e><p><l>prentet<s n="vblex"/><s n="tv"/></l><r>teddiliđ<s n="vblex"/></r></p></e>
     <e><p><l>čielggasmahttit<s n="vblex"/><s n="tv"/></l><r>čielgâsmittiđ<s n="vblex"/></r></p></e>
@@ -4542,7 +4543,7 @@
     <e><p><l>somá<s n="adj"/></l><r>suámi<s n="adj"/></r></p></e>
     <e><p><l>sosialisttalaš<s n="adj"/></l><r>sosialistlâš<s n="adj"/></r></p></e>
     <e><p><l>sosiála<s n="adj"/></l><r>sosiaallâš<s n="adj"/></r></p></e>
-    <e><p><l>sosiála<s n="adj"/></l><r>sosiaal<s n="adj"/></r></p></e>
+    <e><p><l>sosiála<s n="adj"/></l><r>sosial<s n="adj"/></r></p></e>
     <e><p><l>speanta<s n="adj"/></l><r>jiäráskittee<s n="adj"/></r></p></e>
     <e><p><l>spállái<s n="adj"/></l><r>rossii<s n="adj"/></r></p></e>
     <e><p><l>spánska<s n="adj"/></l><r>espanjalâš<s n="adj"/></r></p></e>
@@ -5636,7 +5637,6 @@
     <e><p><l>fánen<s n="n"/></l><r>faanin<s n="n"/></r></p></e>
     <e><p><l>fápmu<s n="n"/></l><r>fáámu<s n="n"/></r></p></e>
     <e><p><l>fárppal<s n="n"/></l><r>faarpâl<s n="n"/></r></p></e>
-    <e><p><l>fárru<s n="n"/></l><r>fááru<s n="n"/></r></p></e>
     <e><p><l>fárvealla<s n="n"/><s n="sg"/></l><r>iärutiervuođah<s n="n"/><s n="pl"/></r></p></e>  <!-- not in sme -->
     <e><p><l>fástu<s n="n"/></l><r>vástu<s n="n"/></r></p></e>
     <e><p><l>fáttar<s n="n"/></l><r>faadâr<s n="n"/></r></p></e>
