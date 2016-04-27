@@ -8,14 +8,6 @@
    <body>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Ovdasiidu</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Almos tiätu</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>xxx</seg>
          </tuv>
          <tuv xml:lang="smn">
@@ -24,18 +16,10 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Sajosa lanjat</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Čuákkimpaketteh</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>Čoahkkinpakeahtat</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>Raavâdviäsu Galla</seg>
+            <seg>Čuákkimpaketteh</seg>
          </tuv>
       </tu>
       <tu>
@@ -44,14 +28,6 @@
          </tuv>
          <tuv xml:lang="smn">
             <seg>Mađhâšempalvâlusâid</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Várreneavttut 2012</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Sajadâh já väridem</seg>
          </tuv>
       </tu>
       <tu>
@@ -67,7 +43,7 @@
             <seg>Anára gielddas leat mánggalágan idjadan- , boradan- ja prográmmafálaldagat .</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>: +358 16 672713 Aanaar kieldâst lii maaŋgâpiälásâš falâldâh ijâstâllâm- , purâdem- já ohjelmpalvâlusirâttâsâid .</seg>
+            <seg>Aanaar kieldâst lii maaŋgâpiälásâš falâldâh ijâstâllâm- , purâdem- já ohjelmpalvâlusirâttâsâid .</seg>
          </tuv>
       </tu>
       <tu>
@@ -267,7 +243,7 @@
             <seg>Siidii lea 200 m mátki Sajosis .</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>Sijdâ lii 200 meetter keejist Sajosist , Juvduujuv nubebeln .</seg>
+            <seg>Sijdâ lii 200 meetter keejist Sajosist .</seg>
          </tuv>
       </tu>
       <tu>
@@ -483,7 +459,7 @@
             <seg>Geasseprográmman ee. meallun- , vánddardan- , dádjadan- , ja golledoidinreaissut .</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>miällum- , vandârdem- , sundedem- já kolletoidemmoheh . Tälviv ohjelmist el .</seg>
+            <seg>Kesiohjelmist el . miällum- , vandârdem- , sundedem- já kolletoidemmoheh .</seg>
          </tuv>
       </tu>
       <tu>
@@ -491,7 +467,7 @@
             <seg>Dálvet prográmman ee. čuoigan- ja muohtagámatuvrrat , muohttaga čuollan , meahccedáidduid oahpahallan ja jieŋa vuolde oaggun .</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>čuoigâm- já muotâkamuvmoheh , muotâveerrâm , meccitááiđui máttááttâllâm já tälvivuoggâpivdo .</seg>
+            <seg>Tälviv ohjelmist el . čuoigâm- já muotâkamuvmoheh , muotâveerrâm , meccitááiđui máttááttâllâm já tälvivuoggâpivdo .</seg>
          </tuv>
       </tu>
       <tu>
@@ -539,15 +515,7 @@
             <seg>Maiddái guhkes safarat Jiekŋameara nala ja Ruššii .</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>Keessiv kuoškâlyeštim kumikárbáiguin , kaanootmoheh já vandârdem .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Fievridem 16-sajasii uccâbussáin .</seg>
+            <seg>Meid kuhes safareh Jieŋâmeerân já Ruošân .</seg>
          </tuv>
       </tu>
       <tu>
@@ -555,71 +523,7 @@
             <seg>Fievrredeapmi 16 olbmo unnabussein .</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>IJÂSTÂLLÂMSAJEH JUÁVHOID AANAAR MARKKÂNIST</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>* Hotelli Inari , Inarintie , 99870 Inari , puh. .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>+358 ( 0)16 671 026 , šleđgâpostâ : Tämä sähköpostiosoite on suojattu roskapostia vastaan , aseta javascripttuki päälle nähdäksesi osoitteen . .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Aanaar markkânist , Aanaarjäävri riddoost lii hooteel-raavâdviäsu , kost láá 37 stk kyevti ulmuu hooteelvisteh já vistáduvah .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>IDJADANBÁIKKIT JOVKKUIDE EARÁ SAJIS DAVVI-LAPPIS</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Hotelli Inarist lii ijâstâllâmsaje ohtsis 100 ulmui .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Njurguluokta ; Tákset : Anára ja Avvila tákset .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Hotelli Inari lii 500 meetter keejist Sajosist .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>* Sami Duodji , tel. +358(0)16671254</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Hotelli Inarist lii raavâdviäsu .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Puoh hooteel visteh já raavâdviäsu láá tivvojum eidu .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>* Siida Shop Sámemusea Siidda feaskáris .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>* Hotelli Kultahovi , 99870 Inari , puh. .</seg>
+            <seg>Fievridem 16-sajasii uccâbussáin .</seg>
          </tuv>
       </tu>
       <tu>
@@ -1140,14 +1044,6 @@
          </tuv>
          <tuv xml:lang="smn">
             <seg>96 kyevti ulmuu hooteelvisted , 77 superior-visted sávnáin , 7 sviittid sávnáin já 80 vistádâhhád sávnáin .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>MÁTKKIID ORDNEJEADDJIT DAVVI-LAPPIS</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Ohtsis 260 visted já vistádâhhâd 1000 ulmui .</seg>
          </tuv>
       </tu>
       <tu>
