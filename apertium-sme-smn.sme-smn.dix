@@ -144,14 +144,14 @@
     <e><p><l>gii<s n="prn"/><s n="rel"/></l><r>kii<s n="prn"/><s n="rel"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kii<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kihheen<s n="prn"/><s n="ind"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/><s n="itg"/></l><r>kote<s n="prn"/><s n="itg"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="rel"/></l><r>kote<s n="prn"/><s n="rel"/></r></p></e>
-    <e><p><l>guhte<s n="prn"/><s n="itg"/></l><r>kotemuš<s n="prn"/><s n="itg"/></r></p></e>
+    <e><p><l>guhtemuš<s n="prn"/><s n="itg"/></l><r>kotemuš<s n="prn"/><s n="itg"/></r></p></e>
     <e><p><l>guhtemuš<s n="prn"/><s n="rel"/></l><r>kotemuš<s n="prn"/><s n="rel"/></r></p></e>
-<!--    <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>jyehi<s n="prn"/><s n="ind"/></r></p></e>-->
     <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>kihheen<s n="prn"/><s n="ind"/></r></p></e>
-    <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>jieškote<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>ieš<s n="prn"/></l><r>jieš<s n="prn"/></r></p></e>
     <e><p><l>iešguhte<s n="prn"/></l><r>jieškote<s n="prn"/></r></p></e>
+<!--    <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>jyehi<s n="prn"/><s n="ind"/></r></p></e>-->
 
     <e><p><l>eará<s n="prn"/></l><r>eres<s n="prn"/></r></p></e>
     <e><p><l>iežá<s n="prn"/></l><r>eres<s n="prn"/></r></p></e>
@@ -171,7 +171,6 @@
     <e><p><l>buot<s n="prn"/></l><r>puoh<s n="prn"/></r></p></e>   
     <e><p><l>buohkat<s n="prn"/></l><r>puohah<s n="prn"/></r></p></e>
     <e><p><l>buot<s n="prn"/></l><r>puohah<s n="prn"/></r></p></e>   
-<!--    <e><p><l>iešguhtet<s n="prn"/></l><r>jieškote-uv<s n="prn"/></r></p></e> -->
     <e><p><l>iešguhtet<s n="prn"/><s n="ind"/></l><r>sierâ<s n="adj"/></r></p></e>
     <e><p><l>diekkár<s n="prn"/></l><r>tieggáár<s n="prn"/></r></p></e>
     <e><p><l>juohkehaš<s n="prn"/></l><r>juáháš<s n="prn"/></r></p></e>
@@ -204,7 +203,6 @@
     <e><p><l>dihto<s n="adj"/></l><r>tiätu<s n="adj"/></r></p></e>
     <e><p><l>okta<s n="prn"/></l><r>ohtâ<s n="prn"/></r></p></e>
 
-    <e><p><l>iešguhte<s n="adj"/></l><r>jieškote<s n="adj"/></r></p></e>
     <e><p><l>juogamii<s n="prn"/></l><r>miinii<s n="prn"/></r></p></e>
     <e><p><l>uhccánaš<s n="prn"/><s n="ind"/></l><r>ucánjáhháá<s n="adj"/></r></p></e>
     <e><p><l>unnánaš<s n="prn"/><s n="ind"/></l><r>siemnáhháá<s n="adj"/></r></p></e>
@@ -374,7 +372,7 @@
     <e><p><l>guhkkelii<s n="adv"/></l><r>kukkeláá<s n="adv"/></r></p></e>
     <e><p><l>ohpihii<s n="adv"/></l><r>oppeet<s n="adv"/></r></p></e>
     <e><p><l>dasttán<s n="adv"/></l><r>tiegu<s n="adv"/></r></p></e>
-    <e><p><l>ovddosmaŋás<s n="adv"/></l><r>ovdâs maŋas<s n="adv"/></r></p></e>
+    <e><p><l>ovddosmaŋás<s n="adv"/></l><r>ovdâsmaŋas<s n="adv"/></r></p></e>
     <e><p><l>gallii<s n="adv"/></l><r>kollii<s n="adv"/></r></p></e>
     <e><p><l>oppalohkái<s n="adv"/></l><r>puohrâkkân<s n="adv"/></r></p></e>
     <e><p><l>obba<s n="adv"/></l><r>ubâ<s n="adv"/></r></p></e>
@@ -466,7 +464,6 @@
     <e><p><l>čomil<s n="adv"/></l><r>čuumâld<s n="adv"/></r></p></e>
     <e><p><l>čielggosnaga<s n="adv"/></l><r>čiälgus<s n="adv"/></r></p></e>
     <e><p><l>árgget<s n="adv"/></l><r>äärgiht<s n="adv"/></r></p></e>
-    <e><p><l>álgage<s n="adv"/></l><r>aldagin<s n="adv"/></r></p></e>
     <e><p><l>vuosterávdnjái<s n="adv"/></l><r>vyestiviirdán<s n="adv"/></r></p></e>
     <e><p><l>vuolil<s n="adv"/></l><r>vuálá<s n="adv"/></r></p></e>
     <e><p><l>varranaga<s n="adv"/></l><r>vorrân<s n="adv"/></r></p></e>
@@ -500,7 +497,7 @@
     <e><p><l>vuolábeale<s n="adv"/></l><r>vuoluupeeli<s n="adv"/></r></p></e>
     <e><p><l>birratbirra<s n="adv"/></l><r>pirrâ<s n="adv"/></r></p></e>
     <e><p><l>bieđgguid<s n="adv"/></l><r>piäđgui<s n="adv"/></r></p></e>
-    <e><p><l>bearehaga<s n="adv"/></l><r>tušij tiet<s n="adv"/></r></p></e>
+    <e><p><l>bearehaga<s n="adv"/></l><r>tušij<b/>tiet<s n="adv"/></r></p></e>
     <e><p><l>beaiveguovdil<s n="adv"/></l><r>koskâpeeivi<s n="adv"/></r></p></e>
     <e><p><l>badjálagaid<s n="adv"/></l><r>pajaluvâi<s n="adv"/></r></p></e>
     <e><p><l>áramustá<s n="adv"/></l><r>tolemustáá<s n="adv"/></r></p></e>
