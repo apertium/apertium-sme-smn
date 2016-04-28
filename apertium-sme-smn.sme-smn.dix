@@ -1103,6 +1103,13 @@
     <e><p><l>káfestallan<s n="n"/></l><r>káhvástâllâm<s n="n"/></r></p></e>
     <e><p><l>evangelium<s n="n"/></l><r>evangelium<s n="n"/></r></p></e>
     <e><p><l>hovden<s n="n"/></l><r>hovdim<s n="n"/></r></p></e>
+    <e><p><l>johtin<s n="n"/></l><r>varriistâllâm<s n="n"/></r></p></e>
+    <e><p><l>geinnodat<s n="n"/></l><r>jotteemkiäinu<s n="n"/></r></p></e>
+    <e><p><l>buđaldus<s n="n"/></l><r>puđâldâs<s n="n"/></r></p></e>
+    <e><p><l>dáktegávnnus<s n="n"/></l><r>tähtikavnâm<s n="n"/></r></p></e>
+    <e><p><l>eadnivuohta<s n="n"/></l><r>ennivuotâ<s n="n"/></r></p></e>
+    <e><p><l>vearuhus<s n="n"/></l><r>viäruttâs<s n="n"/></r></p></e>
+    <e><p><l>logahallan<s n="n"/></l><r>luvâttâllâm<s n="n"/></r></p></e>
     <e><p><l>teleguovddáš<s n="n"/></l><r>puhelinkuávdáš<s n="n"/></r></p></e>
     <e><p><l>goasttádus<s n="n"/></l><r>kuástádâs<s n="n"/></r></p></e>
     <e><p><l>stiila<s n="n"/></l><r>stijlâ<s n="n"/></r></p></e>
@@ -2007,6 +2014,7 @@
     <e><p><l>ng<s n="adj"/></l><r>nk<s n="n"/></r></p></e>
     <e><p><l>milj<s n="num"/></l><r>milj<s n="num"/></r></p></e>
     <e><p><l>AHR<s n="n"/></l><r>AHR<s n="n"/></r></p></e>
+    <e><p><l>DNA<s n="n"/></l><r>DNA<s n="n"/></r></p></e>
 
 
     <!-- ASECTION: sme-person names with two possible translations -->
@@ -3656,6 +3664,11 @@
     <e><p><l>koordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
     <e><p><l>bálkkašit<s n="vblex"/><s n="tv"/></l><r>palhâšiđ<s n="vblex"/></r></p></e>
     <e><p><l>attašit<s n="vblex"/><s n="tv"/></l><r>adeliđ<s n="vblex"/></r></p></e>
+    <e><p><l>fárrestallat<s n="vblex"/><s n="iv"/></l><r>varriistâllâđ<s n="vblex"/></r></p></e>
+    <e><p><l>spesialiseret<s n="vblex"/><s n="tv"/></l><r>spesialistiđ<s n="vblex"/></r></p></e>
+    <e><p><l>sogahuvvat<s n="vblex"/><s n="tv"/></l><r>suvâttuđ<s n="vblex"/></r></p></e>
+    <e><p><l>informeret<s n="vblex"/><s n="tv"/></l><r>tieđettiđ<s n="vblex"/></r></p></e>
+    <e><p><l>vearuhit<s n="vblex"/><s n="tv"/></l><r>viäruttiđ<s n="vblex"/></r></p></e>
     <e><p><l>buvttašit<s n="vblex"/><s n="tv"/></l><r>pyehtiđ<s n="vblex"/></r></p></e>
     <e><p><l>biđđit<s n="vblex"/><s n="tv"/></l><r>steikkiđ<s n="vblex"/></r></p></e>
     <e><p><l>báddet<s n="vblex"/><s n="tv"/></l><r>paddâđ<s n="vblex"/></r></p></e>
