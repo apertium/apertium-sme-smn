@@ -635,6 +635,7 @@ inc/parallell-text-not-bidix.freq -text
 pseudo_tmx_data/SP-18-2012_sme2smn.tmx -text
 pseudo_tmx_data/cahceravgga_sme2smn.tmx -text
 /rm-deriv-cmp.twol -text
+/skuvlahistoria_hash_report_smn.txt -text
 /star.sh -text
 t/README.org -text
 t/config.sh -text
