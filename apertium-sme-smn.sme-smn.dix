@@ -4351,7 +4351,6 @@
     <e><p><l>kritihkalaš<s n="adj"/></l><r>kriittâlâš<s n="adj"/></r></p></e>
     <e><p><l>kuonna<s n="adj"/></l><r>kuonnâ<s n="adj"/></r></p></e>
     <e><p><l>lagamuš<s n="n"/></l><r>aldemuš<s n="adj"/></r></p></e>
-    <e><p><l>lahka<s n="adj"/></l><r>alde<s n="adj"/></r></p></e>
     <e><p><l>lagaš<s n="adj"/></l><r>aldasâš<s n="adj"/></r></p></e>
     <e><p><l>lihkolaš<s n="adj"/></l><r>luholâš<s n="adj"/></r></p></e>
     <e><p><l>liiggálaš<s n="adj"/></l><r>epitáválâš<s n="adj"/></r></p></e>
@@ -7636,6 +7635,8 @@
     <e><p><l>guhku<s n="post"/></l><r>kuho<s n="post"/></r></p></e>
     <e><p><l>guovdu<s n="post"/></l><r>kuávdoo<s n="post"/></r></p></e>
     <e><p><l>lahka<s n="post"/></l><r>alda<s n="post"/></r></p></e>
+    <e><p><l>lahka<s n="adv"/></l><r>alda<s n="adv"/></r></p></e>
+    <e><p><l>lahka<s n="pr"/></l><r>alda<s n="pr"/></r></p></e>
     <e><p><l>luhtti<s n="post"/></l><r>kulen<s n="post"/></r></p></e>
     <e><p><l>maŋŋái<s n="post"/></l><r>maŋŋaal<s n="post"/></r></p></e>
     <e><p><l>miehtá<s n="post"/></l><r>miätá<s n="post"/></r></p></e>
@@ -29758,6 +29759,7 @@
     <e><p><l>Eierforhold<s n="np"/></l><r>Eierforhold<s n="np"/></r></p></e>
     <e><p><l>Eiesland<s n="np"/></l><r>Eiesland<s n="np"/></r></p></e>
     <e><p><l>Eifel<s n="np"/></l><r>Eifel<s n="np"/></r></p></e>
+    <e><p><l>Eiffel<s n="np"/></l><r>Eiffel<s n="np"/></r></p></e>
     <e><p><l>Eiffeltårnet<s n="np"/></l><r>Eiffeltårnet<s n="np"/></r></p></e>
     <e><p><l>Eigedomsretten<s n="np"/></l><r>Eigedomsretten<s n="np"/></r></p></e>
     <e><p><l>Eigentum<s n="np"/></l><r>Eigentum<s n="np"/></r></p></e>
