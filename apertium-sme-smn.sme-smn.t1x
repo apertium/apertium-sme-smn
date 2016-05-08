@@ -125,7 +125,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
     </def-cat>
-    <def-cat n="noun"> <!-- not @OBJ→ because of change of wordorder, sg/pl/ess to avoid derivations   -->
+    <def-cat n="noun"> 
       <cat-item tags="*.n.*.sg.*"/>
       <cat-item tags="*.n.*.pl.*"/>
       <cat-item tags="*.n.*.ess.*"/>
@@ -142,6 +142,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="n.pl.*"/>
       <cat-item tags="n.ess.*"/>
       <cat-item tags="np.*"/>
+      <cat-item tags="*.cmp_sgnom.cmp_splitr.*"/>
     </def-cat>
 
     <def-cat n="nominal"> <!-- as noun, but also num, adj -->
