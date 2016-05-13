@@ -176,6 +176,7 @@
     <e><p><l>diekkár<s n="prn"/></l><r>tieggáár<s n="prn"/></r></p></e>
     <e><p><l>juohkehaš<s n="prn"/></l><r>juáháš<s n="prn"/></r></p></e>
     <e><p><l>eanas<s n="prn"/></l><r>iänááš<s n="prn"/></r></p></e>
+    <e><p><l>eanaš<s n="prn"/></l><r>iänááš<s n="prn"/></r></p></e>
     <e><p><l>eatnagat<s n="prn"/></l><r>iänááš<s n="prn"/></r></p></e>
 <!--    <e><p><l>guhtege<s n="prn"/><s n="ind"/><s n="sg"/><s n="acc"/></l><r>jyehi<s n="prn"/><s n="ind"/><s n="attr"/></r></p></e>-->
     <e><p><l>goappašat<s n="prn"/></l><r>kuohtuuh<s n="prn"/></r></p></e>
@@ -333,6 +334,7 @@
     <e><p><l>nu<s n="pcle"/></l><r>nii<s n="foc_nii"/></r></p></e>
     <e><p><l>son<s n="pcle"/></l><r>sun<s n="foc_sun"/></r></p></e>
     <e><p><l>goittotge<s n="pcle"/></l><r>kuittâg<s n="pcle"/></r></p></e>
+    <e><p><l>goittot<s n="pcle"/></l><r>kuittâg<s n="pcle"/></r></p></e>
 
 
     <!-- ASECTION: Adverbs -->
@@ -341,6 +343,9 @@
     <e><p><l>iešguđet<b/>láhkai<s n="adv"/></l><r>eresnáál<s n="adv"/></r></p></e>
     <e><p><l>máŋgga<b/>láhkai<s n="adv"/></l><r>maaŋgânáál<s n="adv"/></r></p></e> <!-- not in smn -->
     <e><p><l>oanehaččat<s n="adv"/></l><r>uánihávt<s n="adv"/></r></p></e>
+    <e><p><l>lulás<s n="adv"/></l><r>máádás<s n="adv"/></r></p></e>
+    <e><p><l>gaskan<s n="adv"/></l><r>koskânis<s n="adv"/></r></p></e>
+    <e><p><l>dálvet<s n="adv"/></l><r>tälviv<s n="adv"/></r></p></e>
     <e><p><l>iđđedis<s n="adv"/></l><r>iđedist<s n="adv"/></r></p></e>
     <e><p><l>namalassii<s n="adv"/></l><r>nomâlâsân<s n="adv"/></r></p></e>
     <e><p><l>danin<s n="adv"/></l><r>tondet<s n="adv"/></r></p></e>
@@ -580,6 +585,7 @@
     <e><p><l>dálvit<s n="adv"/></l><r>tälviv<s n="adv"/></r></p></e>
     <e><p><l>maŋás<s n="adv"/></l><r>maŋas<s n="adv"/></r></p></e>
     <e><p><l>mahká<s n="adv"/></l><r>maka<s n="adv"/></r></p></e>
+    <e><p><l>mahkáš<s n="adv"/></l><r>maka<s n="adv"/></r></p></e>
     <e><p><l>mađe<s n="post"/></l><r>verd<s n="post"/></r></p></e>
     <e><p><l>nuppe<b/>láhkai<s n="adv"/></l><r>nube<b/>naalijn<s n="adv"/></r></p></e>
     <e><p><l>vehá<s n="adv"/></l><r>váhá<s n="adv"/></r></p></e>
@@ -1102,7 +1108,13 @@
     <e><p><l>káfestallan<s n="n"/></l><r>káhvástâllâm<s n="n"/></r></p></e>
     <e><p><l>evangelium<s n="n"/></l><r>evangelium<s n="n"/></r></p></e>
     <e><p><l>hovden<s n="n"/></l><r>hovdim<s n="n"/></r></p></e>
+    <e><p><l>heahpat<s n="n"/></l><r>heeppâdvuotâ<s n="n"/></r></p></e>
+    <e><p><l>guoddu<s n="n"/></l><r>munejuurdâ<s n="n"/></r></p></e>
+    <e><p><l>rivgu<s n="n"/></l><r>rivgoo<s n="n"/></r></p></e>
+    <e><p><l>sitáhta<s n="n"/></l><r>siitaat<s n="n"/></r></p></e>
+    <e><p><l>eksámen<s n="n"/></l><r>iskos<s n="n"/></r></p></e>
     <e><p><l>internáhta<s n="n"/></l><r>asâttâh<s n="n"/></r></p></e>
+    <e><p><l>gaskan<s n="n"/></l><r>koskâ<s n="n"/></r></p></e>
     <e><p><l>johtin<s n="n"/></l><r>varriistâllâm<s n="n"/></r></p></e>
     <e><p><l>geinnodat<s n="n"/></l><r>jotteemkiäinu<s n="n"/></r></p></e>
     <e><p><l>buđaldus<s n="n"/></l><r>puđâldâs<s n="n"/></r></p></e>
@@ -2011,6 +2023,7 @@
     <e><p><l>tel<s n="n"/></l><r>puh<s n="n"/></r></p></e>
     <e><p><l>má<s n="adj"/></l><r>má<s n="adj"/></r></p></e>
     <e><p><l>rs<s n="n"/></l><r>rs<s n="n"/></r></p></e>
+    <e><p><l>km<s n="n"/></l><r>km<s n="n"/></r></p></e>
     <e><p><l>ng<s n="adj"/></l><r>nk<s n="n"/></r></p></e>
     <e><p><l>milj<s n="num"/></l><r>milj<s n="num"/></r></p></e>
     <e><p><l>AHR<s n="n"/></l><r>AHR<s n="n"/></r></p></e>
@@ -3663,6 +3676,7 @@
     <!-- ASECTION: Verbs -->
     <e><p><l>koordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
     <e><p><l>bálkkašit<s n="vblex"/><s n="tv"/></l><r>palhâšiđ<s n="vblex"/></r></p></e>
+    <e><p><l>vuosttaldit<s n="vblex"/><s n="tv"/></l><r>vyestilistiđ<s n="vblex"/></r></p></e>
     <e><p><l>attašit<s n="vblex"/><s n="tv"/></l><r>adeliđ<s n="vblex"/></r></p></e>
     <e><p><l>fárrestallat<s n="vblex"/><s n="iv"/></l><r>varriistâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>sámástit<s n="vblex"/><s n="iv"/></l><r>sámástiđ<s n="vblex"/></r></p></e>
