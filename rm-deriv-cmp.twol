@@ -5,6 +5,7 @@ Alphabet
 
 %<der%_a%>
 %<der%_adv%>
+%<der%_car%>
 %<der%_dimin%>
 %<der%_nomact%>
 %<der%_nomag%>
@@ -63,6 +64,7 @@ Cmp =
 Derivations =
 %<der%_a%>
 %<der%_adv%>
+%<der%_car%>
 %<der%_dimin%>
 %<der%_nomact%>
 %<der%_nomag%>
@@ -115,6 +117,7 @@ HandledDerivations =
 %<der%_ahtti%>
 %<der%_alla%>
 %<der%_aadv%>
+%<der%_car%>
 %<der%_d%>
 %<der%_dimin%>
 %<der%_inchl%>
