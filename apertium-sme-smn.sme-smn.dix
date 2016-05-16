@@ -684,6 +684,8 @@
     
     <e><p><l>milliibáhcci<s n="adj"/></l><r>mieláidpäccee<s n="adj"/></r></p></e>
     <e><p><l>jagaš<s n="adj"/></l><r>ihásâš<s n="adj"/></r></p></e>
+    <e><p><l>gággat<s n="adj"/></l><r>kaggâd<s n="adj"/></r></p></e>
+    <e><p><l>árki<s n="adj"/></l><r>raše<s n="adj"/></r></p></e>
     <e><p><l>friijahápmásaš<s n="adj"/></l><r>rijjâhámásâš<s n="adj"/></r></p></e>
     <e><p><l>eahpedievaslaš<s n="adj"/></l><r>epitievâslâš<s n="adj"/></r></p></e>
     <e><p><l>vádjitválddálaš<s n="adj"/></l><r>vááijuvváldálâš<s n="adj"/></r></p></e>
@@ -1111,6 +1113,17 @@
     <e><p><l>káfestallan<s n="n"/></l><r>káhvástâllâm<s n="n"/></r></p></e>
     <e><p><l>evangelium<s n="n"/></l><r>evangelium<s n="n"/></r></p></e>
     <e><p><l>hovden<s n="n"/></l><r>hovdim<s n="n"/></r></p></e>
+    <e><p><l>diploma<s n="n"/></l><r>diploom<s n="n"/></r></p></e>
+    <e><p><l>meašttir<s n="n"/></l><r>miäštár<s n="n"/></r></p></e>
+    <e><p><l>muvren<s n="n"/></l><r>muvrám<s n="n"/></r></p></e>
+    <e><p><l>brošyra<s n="n"/></l><r>tieđettemčáálus<s n="n"/></r></p></e>
+    <e><p><l>oavdu<s n="n"/></l><r>hiätu<s n="n"/></r></p></e>
+    <e><p><l>váikkuhanvejolašvuohta<s n="n"/></l><r>vaikuttemmáhđulâšvuotâ<s n="n"/></r></p></e>
+    <e><p><l>áššehaš<s n="n"/></l><r>ässee<s n="n"/></r></p></e>
+    <e><p><l>pateanta<s n="n"/></l><r>patent<s n="n"/></r></p></e>
+    <e><p><l>anárlaš<s n="n"/></l><r>aanaarlâš<s n="n"/></r></p></e>
+    <e><p><l>vuohččulaš<s n="n"/></l><r>vuáččulâš<s n="n"/></r></p></e>
+    <e><p><l>gágga<s n="n"/></l><r>kaggâ<s n="n"/></r></p></e>
     <e><p><l>oassálasti<s n="n"/></l><r>uásálistee<s n="n"/></r></p></e>
     <e><p><l>ruovttubáiki<s n="n"/></l><r>aassâmpäikki<s n="n"/></r></p></e>
     <e><p><l>márkanastinhoavda<s n="n"/></l><r>markkânistemhovdâ<s n="n"/></r></p></e>
@@ -3683,6 +3696,10 @@
     <e><p><l>koordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
     <e><p><l>bálkkašit<s n="vblex"/><s n="tv"/></l><r>palhâšiđ<s n="vblex"/></r></p></e>
     <e><p><l>vuosttaldit<s n="vblex"/><s n="tv"/></l><r>vyestilistiđ<s n="vblex"/></r></p></e>
+    <e><p><l>muvret<s n="vblex"/><s n="tv"/></l><r>muvráđ<s n="vblex"/></r></p></e>
+    <e><p><l>bearrat<s n="vblex"/><s n="tv"/></l><r>peerrâđ<s n="vblex"/></r></p></e>
+    <e><p><l>márkanastit<s n="vblex"/><s n="tv"/></l><r>markkânistiđ<s n="vblex"/></r></p></e>
+    <e><p><l>registreret<s n="vblex"/><s n="tv"/></l><r>registeeriđ<s n="vblex"/></r></p></e>
     <e><p><l>attašit<s n="vblex"/><s n="tv"/></l><r>adeliđ<s n="vblex"/></r></p></e>
     <e><p><l>fárrestallat<s n="vblex"/><s n="iv"/></l><r>varriistâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>sámástit<s n="vblex"/><s n="iv"/></l><r>sámástiđ<s n="vblex"/></r></p></e>
@@ -4073,7 +4090,7 @@
     <e><p><l>amerihkálaš<s n="adj"/></l><r>ameriklâš<s n="adj"/></r></p></e>
     <e><p><l>analoga<s n="adj"/></l><r>analogâlâš<s n="adj"/></r></p></e>
     <e><p><l>anistuhkes<s n="adj"/></l><r>himolâš<s n="adj"/></r></p></e>
-    <e><p><l>anárlaš<s n="n"/></l><r>aanaarlâš<s n="n"/></r></p></e> 
+    <e><p><l>anárlaš<s n="n"/></l><r>n<s n="n"/></r></p></e> 
     <e><p><l>arveš<s n="adj"/></l><r>iäljár<s n="adj"/></r></p></e> <!-- not in sme -->
     <e><p><l>arvái<s n="adj"/></l><r>arvaa<s n="adj"/></r></p></e> <!-- not in sme -->
     <e><p><l>automáhtalaš<s n="adj"/></l><r>automaatlâš<s n="adj"/></r></p></e>
