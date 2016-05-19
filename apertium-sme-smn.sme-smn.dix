@@ -686,6 +686,7 @@
     
     <e><p><l>milliibáhcci<s n="adj"/></l><r>mieláidpäccee<s n="adj"/></r></p></e>
     <e><p><l>jagaš<s n="adj"/></l><r>ihásâš<s n="adj"/></r></p></e>
+    <e><p><l>intensiiva<s n="adj"/></l><r>pehtil<s n="adj"/></r></p></e>
     <e><p><l>gággat<s n="adj"/></l><r>kaggâd<s n="adj"/></r></p></e>
     <e><p><l>šlunddas<s n="adj"/></l><r>šlunde<s n="adj"/></r></p></e>
     <e><p><l>reála<s n="adj"/></l><r>tuođâlâš<s n="adj"/></r></p></e>
@@ -1117,7 +1118,10 @@
     <e><p><l>káfestallan<s n="n"/></l><r>káhvástâllâm<s n="n"/></r></p></e>
     <e><p><l>evangelium<s n="n"/></l><r>evangelium<s n="n"/></r></p></e>
     <e><p><l>dárkojeaddji<s n="n"/></l><r>tárkkojeijee<s n="n"/></r></p></e>
+    <e><p><l>ragat<s n="n"/></l><r>roohâm<s n="n"/></r></p></e>
+    <e><p><l>geasseeana<s n="n"/></l><r>kesieennâm<s n="n"/></r></p></e>
     <e><p><l>guoibmevuohta<s n="n"/></l><r>kyeimivuotâ<s n="n"/></r></p></e>
+    <e><p><l>miessemearkun<s n="n"/></l><r>vyesimiärkkum<s n="n"/></r></p></e>
     <e><p><l>hovden<s n="n"/></l><r>hovdim<s n="n"/></r></p></e>
     <e><p><l>oaivámuš<s n="n"/></l><r>hovdâ<s n="n"/></r></p></e>
     <e><p><l>preassadieđáhus<s n="n"/></l><r>lostâmediatiäđáttâs<s n="n"/></r></p></e>
@@ -3722,8 +3726,10 @@
     <e><p><l>márkanastit<s n="vblex"/><s n="tv"/></l><r>markkânistiđ<s n="vblex"/></r></p></e>
     <e><p><l>registreret<s n="vblex"/><s n="tv"/></l><r>registeeriđ<s n="vblex"/></r></p></e>
     <e><p><l>attašit<s n="vblex"/><s n="tv"/></l><r>adeliđ<s n="vblex"/></r></p></e>
+    <e><p><l>sirdašuvvat<s n="vblex"/><s n="iv"/></l><r>sirdâšuđ<s n="vblex"/></r></p></e>
     <e><p><l>fárrestallat<s n="vblex"/><s n="iv"/></l><r>varriistâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>čiehkadit<s n="vblex"/><s n="iv"/></l><r>peittâttâđ<s n="vblex"/></r></p></e>
+    <e><p><l>ortniiduvvat<s n="vblex"/><s n="iv"/></l><r>ornijdâttâđ<s n="vblex"/></r></p></e>
     <e><p><l>servvoštallat<s n="vblex"/><s n="iv"/></l><r>siärvástâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>sámástit<s n="vblex"/><s n="iv"/></l><r>sámástiđ<s n="vblex"/></r></p></e>
     <e><p><l>spesialiseret<s n="vblex"/><s n="tv"/></l><r>spesialistiđ<s n="vblex"/></r></p></e>
