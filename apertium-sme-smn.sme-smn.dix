@@ -688,6 +688,8 @@
     <e><p><l>jagaš<s n="adj"/></l><r>ihásâš<s n="adj"/></r></p></e>
     <e><p><l>intensiiva<s n="adj"/></l><r>pehtil<s n="adj"/></r></p></e>
     <e><p><l>gággat<s n="adj"/></l><r>kaggâd<s n="adj"/></r></p></e>
+    <e><p><l>bisovaš<s n="adj"/></l><r>pisovâš<s n="adj"/></r></p></e>
+    <e><p><l>mystihkalaš<s n="adj"/></l><r>mystisâš<s n="adj"/></r></p></e>
     <e><p><l>šlunddas<s n="adj"/></l><r>šlunde<s n="adj"/></r></p></e>
     <e><p><l>reála<s n="adj"/></l><r>tuođâlâš<s n="adj"/></r></p></e>
     <e><p><l>árki<s n="adj"/></l><r>raše<s n="adj"/></r></p></e>
@@ -1119,6 +1121,17 @@
     <e><p><l>evangelium<s n="n"/></l><r>evangelium<s n="n"/></r></p></e>
     <e><p><l>dárkojeaddji<s n="n"/></l><r>tárkkojeijee<s n="n"/></r></p></e>
     <e><p><l>ragat<s n="n"/></l><r>roohâm<s n="n"/></r></p></e>
+    <e><p><l>muittuhus<s n="n"/></l><r>muštottâs<s n="n"/></r></p></e>
+    <e><p><l>árgabeaivi<s n="n"/></l><r>argâpeivi<s n="n"/></r></p></e>
+    <e><p><l>meahcásteaddji<s n="n"/></l><r>miäcásteijee<s n="n"/></r></p></e>
+    <e><p><l>geahpil<s n="n"/></l><r>keeppil<s n="n"/></r></p></e>
+    <e><p><l>seahtu<s n="n"/></l><r>siätu<s n="n"/></r></p></e>
+    <e><p><l>sáttagilvu<s n="n"/></l><r>viestâkišto<s n="n"/></r></p></e>
+    <e><p><l>suotna<s n="n"/></l><r>suonâ<s n="n"/></r></p></e>
+    <e><p><l>etnisitehta<s n="n"/></l><r>etnisiteet<s n="n"/></r></p></e>
+    <e><p><l>njuolggosátta<s n="n"/></l><r>njuálguvuolgâttâs<s n="n"/></r></p></e>
+    <e><p><l>njoarosteapmi<s n="n"/></l><r>njuárustem<s n="n"/></r></p></e>
+    <e><p><l>sáttačuoigan<s n="n"/></l><r>viestâčuoigâm<s n="n"/></r></p></e>
     <e><p><l>geasseeana<s n="n"/></l><r>kesieennâm<s n="n"/></r></p></e>
     <e><p><l>guoibmevuohta<s n="n"/></l><r>kyeimivuotâ<s n="n"/></r></p></e>
     <e><p><l>miessemearkun<s n="n"/></l><r>vyesimiärkkum<s n="n"/></r></p></e>
@@ -3720,6 +3733,10 @@
     <e><p><l>bálkkašit<s n="vblex"/><s n="tv"/></l><r>palhâšiđ<s n="vblex"/></r></p></e>
     <e><p><l>vuosttaldit<s n="vblex"/><s n="tv"/></l><r>vyestilistiđ<s n="vblex"/></r></p></e>
     <e><p><l>lagadit<s n="vblex"/><s n="tv"/></l><r>aldediđ<s n="vblex"/></r></p></e>
+    <e><p><l>gárdut<s n="vblex"/><s n="tv"/></l><r>pivdeđ<s n="vblex"/></r></p></e>
+    <e><p><l>ostet<s n="vblex"/><s n="tv"/></l><r>ostodiđ<s n="vblex"/></r></p></e>
+    <e><p><l>njoarostit<s n="vblex"/><s n="tv"/></l><r>njuárustiđ<s n="vblex"/></r></p></e>
+    <e><p><l>skádjat<s n="vblex"/><s n="tv"/></l><r>škaaijâđ<s n="vblex"/></r></p></e>
     <e><p><l>láttiiduhttit<s n="vblex"/><s n="tv"/></l><r>lädijduttiđ<s n="vblex"/></r></p></e>
     <e><p><l>muvret<s n="vblex"/><s n="tv"/></l><r>muvráđ<s n="vblex"/></r></p></e>
     <e><p><l>bearrat<s n="vblex"/><s n="tv"/></l><r>peerrâđ<s n="vblex"/></r></p></e>
