@@ -8,7 +8,7 @@
    <body>
       <tu>
          <tuv xml:lang="sme">
-            <seg>xxx</seg>
+            <seg>Doaibma</seg>
          </tuv>
          <tuv xml:lang="smn">
             <seg>Toimâ</seg>
@@ -16,18 +16,10 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Doaibma</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Sämikielâ</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>Oahppamateriálabargu</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>Škovlim Oppâmateriaalpargo</seg>
+            <seg>Oppâmateriaalpargo</seg>
          </tuv>
       </tu>
       <tu>
@@ -60,22 +52,6 @@
          </tuv>
          <tuv xml:lang="smn">
             <seg>Artikla 8(j ) olášuttem</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>SáFá- ovdâčielgiittâshaavâ</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>SáFá - davviriikkalaš sámi giellafágaguovddáža ásaheami čielggadus</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>SáFá – ovdâčielgiittâshaahâ ohtsâštave-eennâmlii sämikielâ tutkâm- já áámmát / reesuurskuávdáá vuáđđudmân</seg>
          </tuv>
       </tu>
       <tu>
@@ -124,14 +100,6 @@
          </tuv>
          <tuv xml:lang="smn">
             <seg>Hahâäigi lii 6 mánuppaje já haavâ meriáigásâžžân proojeekthovdân pálkkááttui hum .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>kand .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>kand .</seg>
          </tuv>
       </tu>
       <tu>
@@ -220,22 +188,6 @@
          </tuv>
          <tuv xml:lang="smn">
             <seg>Lasetiäđuh :</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>SáFá - ovdâčielgiittâshaavâ má. proojeekthovdâ Hanna Mattila Tämä sähköpostiosoite on suojattu roskapostia vastaan , aseta javascripttuki päälle nähdäksesi osoitteen .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>vs. kielâašijčällee Outi Paadar Tämä sähköpostiosoite on suojattu roskapostia vastaan , aseta javascripttuki päälle nähdäksesi osoitteen .</seg>
          </tuv>
       </tu>
    </body>

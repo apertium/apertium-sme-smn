@@ -8,7 +8,7 @@
    <body>
       <tu>
          <tuv xml:lang="sme">
-            <seg>xxx</seg>
+            <seg>Doaibma</seg>
          </tuv>
          <tuv xml:lang="smn">
             <seg>Toimâ</seg>
@@ -16,18 +16,10 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Doaibma</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Sämikielâ</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>Oahppamateriálabargu</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>Škovlim Oppâmateriaalpargo</seg>
+            <seg>Oppâmateriaalpargo</seg>
          </tuv>
       </tu>
       <tu>
@@ -88,14 +80,6 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Sámediggi - Saamelaiskäräjät 2005 .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Sämitigge 2005 .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>Ohcansánit leat suomagillii ja vástagat davvisáme- , ruoŧa- ja dárogillii .</seg>
          </tuv>
          <tuv xml:lang="smn">
@@ -104,31 +88,7 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Fuobm !</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Huám !</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>Dárkkiskeahtes láhkasánit .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Riikabeaivesátnelistá ( suomagiella-davvisámegiella ) 2008 .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>( leahkku eará ruovttusiiddu )</seg>
          </tuv>
          <tuv xml:lang="smn">
             <seg>Täärhisthánnáá lahâsäänih .</seg>
@@ -136,18 +96,10 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Valter stáhtaráđi tearbmabáŋku .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>Stáhtaráđđi ( leahkku eará ruovttusiiddu )</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>Ovdâskoddesäänih . Staatârääđi ( lekkâs uđđâ laasân )</seg>
+            <seg>Staatârääđi ( lekkâs uđđâ laasân )</seg>
          </tuv>
       </tu>
       <tu>
@@ -184,7 +136,7 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>( leahkku eará ruovttusiiddu )</seg>
+            <seg>Norga sámediggi ( leahkku eará ruovttusiiddu )</seg>
          </tuv>
          <tuv xml:lang="smn">
             <seg>Taažâ sämitigge ( lekkâs uđđâ laasân )</seg>
@@ -203,23 +155,7 @@
             <seg>Ruoktoeatnan gielaid dutkanguovddáš ( Kotus ) ( leahkku eará ruovttusiiddu )</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>Päikkieennâm kielâi tutkâmkuávdáš ( Kotus ) ( lekkâs uđđâ laasân ) Šleđgâlâš kielâtoimâttuv sänikirje .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Riävtuičäällim lasseen sänikirje muštâl el .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Riikkaid namat čieža gillii ee. davvisámegillii .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>suomâkielâ saanij tááláid merhâšuumijd já kevttimohtâvuođâid .</seg>
+            <seg>Päikkieennâm kielâi tutkâmkuávdáš ( Kotus ) ( lekkâs uđđâ laasân )</seg>
          </tuv>
       </tu>
       <tu>
@@ -315,7 +251,7 @@
             <seg>Sámegiela doaimmahaga bálvalanmávssut</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>Sämikielâ toimâttuv palvâlemmáávsuh jurgâlempalvâlusâin ( lekkâs uđđâ laasân )</seg>
+            <seg>Sämikielâ toimâttuv palvâlemmáávsuh jurgâlempalvâlusâin</seg>
          </tuv>
       </tu>
       <tu>
@@ -376,34 +312,10 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Čállinrávagirji .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>( lekkâs uđđâ laasân )</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Davvisámegillii .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Maalih ja tiervâttâsah</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>xxx</seg>
          </tuv>
          <tuv xml:lang="smn">
             <seg>Pyeri ustevpeivi tiervâttâs 14.2. - tave- , aanaar- já nuorttâsâmikielân</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Máren Palismaa ja Inger-Marie Oskal .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Šleđgâpoostâ olgon-tile viestâ mallicelkkuuh el .</seg>
          </tuv>
       </tu>
       <tu>
@@ -472,22 +384,6 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Buori ustibabeaivvi dearvvahus 14.2. - davvisáme- , anáraš- ja nuortalašgillii</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Šleađgaboastta olgun-dili sáddaga mállecealkagat ee. davvi- , anáraš- ja nuortalašgillii</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>tave- , aanaar- já nuorttâsämikielân</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>Sámi álbmotbeaivvi dearvvahusat 6.2. - davvisáme- , anáraš- ja nuortalašgillii</seg>
          </tuv>
          <tuv xml:lang="smn">
@@ -504,10 +400,10 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Juovlaáiggi dearvvahusat máŋgga iešguđege gillii , ( Stáhtaráđi giellabálvalusa siidu ) maid davvisáme- , anáraš- ja nuortalašgillii ( leahkku eará ruovttusiiddu )</seg>
+            <seg>Juovlaáiggi dearvvahusat máŋgga iešguđege gillii , maid davvisáme- , anáraš- ja nuortalašgillii</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>Juovlâiääigi tiervâttâsah maaŋgâ jieškote-uv kielân , meid tave- , aanaar- já nuorttâsâmikielân ( liŋkkâ staatârääđi jurgâlus- já kielâpalvâlusâi sijđoid ) ( lekkâs uđđâ laasân )</seg>
+            <seg>Juovlâiääigi tiervâttâsah maaŋgâ jieškote-uv kielân , meid tave- , aanaar- já nuorttâsâmikielân</seg>
          </tuv>
       </tu>
       <tu>
@@ -544,18 +440,10 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Giellagas-instituhtta , Oulu universitehta .</seg>
+            <seg>Giellagas-instituhtta , Oulu universitehta . Váldoávnnasin sámegiella ja sámekultuvra .</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Váldoávnnasin sámegiella ja sámekultuvra .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Giellagas-instituut , Oulu ollâopâttâh Válduamnâsin sämikielâ já sämikulttuur .</seg>
+            <seg>Giellagas-instituut , Oulu ollâopâttâh . Válduamnâsin sämikielâ já sämikulttuur .</seg>
          </tuv>
       </tu>
       <tu>
@@ -592,7 +480,7 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Sámegiela oahput , Lappi universitehta , Pedagogihka dieđagoddi Sámegiella siidoávnnasoahppun vuođđooahput ( 25 oč ) ( leahkku eará ruovttusiiddu )</seg>
+            <seg>Sámegiela oahput , Lappi universitehta , Pedagogihka dieđagoddi Sámegiella siidoávnnasoahppun vuođđooahput ( 25 oč ) </seg>
          </tuv>
          <tuv xml:lang="smn">
             <seg>Sämikielâ vuáđuoopah , Šoddâdemtiettui tieđâkodde , Laapi ollâopâttâh Sämikielâ uálgiamnâsoppân vuáđuoopah ( 25 op . )</seg>
