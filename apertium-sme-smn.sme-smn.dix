@@ -264,6 +264,7 @@
     <!-- ASECTION: Postpositions -->     
 
     <e><p><l>alde<s n="post"/></l><r>alne<s n="post"/></r></p></e>
+    <e><p><l>áigge<s n="post"/></l><r>ääigi<s n="post"/></r></p></e>
     <e><p><l>hárrái<s n="post"/></l><r>kuáttá<s n="post"/></r></p></e>
     <e><p><l>veardde<s n="post"/></l><r>verd<s n="post"/></r></p></e>
     <e><p><l>badjel<s n="post"/></l><r>paijeel<s n="post"/></r></p></e>
@@ -686,6 +687,9 @@
     
     <e><p><l>milliibáhcci<s n="adj"/></l><r>mieláidpäccee<s n="adj"/></r></p></e>
     <e><p><l>jagaš<s n="adj"/></l><r>ihásâš<s n="adj"/></r></p></e>
+    <e><p><l>prosentuálalaš<s n="adj"/></l><r>prosentuaallâš<s n="adj"/></r></p></e>
+    <e><p><l>máŋggaámmátlaš<s n="adj"/></l><r>maaŋgâáámmátlâš<s n="adj"/></r></p></e>
+    <e><p><l>oktilaš<s n="adj"/></l><r>ohtâlâš<s n="adj"/></r></p></e>
     <e><p><l>intensiiva<s n="adj"/></l><r>pehtil<s n="adj"/></r></p></e>
     <e><p><l>gággat<s n="adj"/></l><r>kaggâd<s n="adj"/></r></p></e>
     <e><p><l>bisovaš<s n="adj"/></l><r>pisovâš<s n="adj"/></r></p></e>
@@ -1121,9 +1125,15 @@
     <e><p><l>evangelium<s n="n"/></l><r>evangelium<s n="n"/></r></p></e>
     <e><p><l>dárkojeaddji<s n="n"/></l><r>tárkkojeijee<s n="n"/></r></p></e>
     <e><p><l>idea<s n="n"/></l><r>idea<s n="n"/></r></p></e>
+    <e><p><l>studio<s n="n"/></l><r>studio<s n="n"/></r></p></e>
+    <e><p><l>lanjadat<s n="n"/></l><r>viste<s n="n"/></r></p></e>
+    <e><p><l>sisabeassan<s n="n"/></l><r>siisâpeessâm<s n="n"/></r></p></e>
+    <e><p><l>linnjabiila<s n="n"/></l><r>linjâšauto<s n="n"/></r></p></e>
+    <e><p><l>komponista<s n="n"/></l><r>nuotâsteijee<s n="n"/></r></p></e>
     <e><p><l>riekkis<s n="n"/></l><r>kerho<s n="n"/></r></p></e>
     <e><p><l>váilevuohta<s n="n"/></l><r>vááijuvvuotâ<s n="n"/></r></p></e>
     <e><p><l>nolla<s n="n"/></l><r>nollá<s n="n"/></r></p></e>
+    <e><p><l>karrieara<s n="n"/></l><r>karrieer<s n="n"/></r></p></e>
     <e><p><l>rákkas<s n="n"/></l><r>raagâs<s n="n"/></r></p></e>
     <e><p><l>ragat<s n="n"/></l><r>roohâm<s n="n"/></r></p></e>
     <e><p><l>muittuhus<s n="n"/></l><r>muštottâs<s n="n"/></r></p></e>
