@@ -252,6 +252,7 @@
     
     <!-- ASECTION: Prepositions -->
 
+    <e><p><l>vuollil<s n="pr"/></l><r>vuálá<s n="post"/></r></p></e>
     <e><p><l>maŋŋel<s n="pr"/></l><r>maŋa<s n="post"/></r></p></e>
     <e><p><l>gaskal<s n="pr"/></l><r>kooskâst<s n="post"/></r></p></e>
     <e><p><l>gaskkal<s n="pr"/></l><r>kooskâst<s n="post"/></r></p></e>
@@ -263,6 +264,7 @@
 
     <!-- ASECTION: Postpositions -->     
 
+    <e><p><l>vuálá<s n="post"/></l><r>vuálá<s n="post"/></r></p></e>
     <e><p><l>alde<s n="post"/></l><r>alne<s n="post"/></r></p></e>
     <e><p><l>áigge<s n="post"/></l><r>ääigi<s n="post"/></r></p></e>
     <e><p><l>hárrái<s n="post"/></l><r>kuáttá<s n="post"/></r></p></e>
@@ -345,12 +347,14 @@
     <e><p><l>máŋgga<b/>láhkai<s n="adv"/></l><r>maaŋgânáál<s n="adv"/></r></p></e> 
     <e><p><l>oanehaččat<s n="adv"/></l><r>uánihávt<s n="adv"/></r></p></e>
     <e><p><l>ainjuo<s n="adv"/></l><r>aainâs<s n="adv"/></r></p></e>
+    <e><p><l>vuollil<s n="adv"/></l><r>vuálá<s n="adv"/></r></p></e>
     <e><p><l>ovdalačča<s n="adv"/></l><r>ovdiist<s n="adv"/></r></p></e>
     <e><p><l>lulás<s n="adv"/></l><r>máádás<s n="adv"/></r></p></e>
     <e><p><l>gaskan<s n="adv"/></l><r>koskânis<s n="adv"/></r></p></e>
     <e><p><l>dálvet<s n="adv"/></l><r>tälviv<s n="adv"/></r></p></e>
     <e><p><l>iđđedis<s n="adv"/></l><r>iđedist<s n="adv"/></r></p></e>
     <e><p><l>namalassii<s n="adv"/></l><r>nomâlâsân<s n="adv"/></r></p></e>
+    <e><p><l>čuođenáre<s n="adv"/></l><r>čyeđeverd<s n="adv"/></r></p></e>
     <e><p><l>danin<s n="adv"/></l><r>tondet<s n="adv"/></r></p></e>
     <e><p><l>danne<s n="adv"/></l><r>tondiet<s n="adv"/></r></p></e>
     <e><p><l>dan<b/>dihte<s n="adv"/></l><r>tondiet<s n="adv"/></r></p></e>
@@ -2091,6 +2095,7 @@
     <e><p><l>dmu<s n="adv"/></l><r>tme<s n="adv"/></r></p></e>
     <e><p><l>dii<s n="adv"/></l><r>tme<s n="adv"/></r></p></e>
     <e><p><l>tel<s n="n"/></l><r>puh<s n="n"/></r></p></e>
+    <e><p><l>gč<s n="vblex"/></l><r>k<s n="vblex"/></r></p></e>
     <e><p><l>má<s n="adj"/></l><r>má<s n="adj"/></r></p></e>
     <e><p><l>rs<s n="n"/></l><r>rs<s n="n"/></r></p></e>
     <e><p><l>km<s n="n"/></l><r>km<s n="n"/></r></p></e>
@@ -2098,7 +2103,7 @@
     <e><p><l>milj<s n="num"/></l><r>milj<s n="num"/></r></p></e>
     <e><p><l>AHR<s n="n"/></l><r>AHR<s n="n"/></r></p></e>
     <e><p><l>DNA<s n="n"/></l><r>DNA<s n="n"/></r></p></e>
-
+    
 
     <!-- ASECTION: sme-person names with two possible translations -->
     <e><p><l>Biera<s n="np"/></l><r>Biera<s n="np"/></r></p></e> 
