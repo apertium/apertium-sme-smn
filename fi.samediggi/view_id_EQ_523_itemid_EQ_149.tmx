@@ -19,7 +19,7 @@
             <seg>Sámi parlamentáralaš ráđđi lágida sámeparlamentarihkkárkonferánssa goalmmát geardde .</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>SSäämi parlamentaarlâš rääđi uárnee kuálmád sämmilâšparlamiänttárij konferens .</seg>
+            <seg>Säämi parlamentaarlâš rääđi uárnee kuálmád sämmilâšparlamiänttárij konferens .</seg>
          </tuv>
       </tu>
       <tu>
@@ -36,22 +36,6 @@
          </tuv>
          <tuv xml:lang="smn">
             <seg>Konferens teeman láá ärbibvuáválâš tiätu já arktâlâš ääših .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Lassin galget árvvoštallat ovddit parlamentarihkkárkonferánssa bohtosiid .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Lasseen tarkkuustâllâp tave-eennâmlâš sämisopâmuš já árvuštâllâp ovdebáá parlamiänttárij konferens puátusijd .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Konferánsa čohkke sámedikkiid álbmotválljejuvvon áirasiid ja ruoššabealde sámiid ovddasteddjiid .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Konferens čuákkee oohtân sämitigij aalmug valjim jesânijd .</seg>
          </tuv>
       </tu>
       <tu>
@@ -147,7 +131,7 @@
             <seg>Sámi parlamentarihkáriid konferánssa OĐĐA prográmme skábmamánu 10. beaivve 2011 Girkonjárggas</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>Sämmilâšparlamiänttárij konferens ohjelm skammâmáánu 10. peeivi 2011 Kirkkonjaargâst ( suomâkielân , tavesämikielân )</seg>
+            <seg>Sämmilâšparlamiänttárij konferens ohjelm skammâmáánu 10. peeivi 2011 Kirkkonjaargâst</seg>
          </tuv>
       </tu>
       <tu>
@@ -192,26 +176,10 @@
       </tu>
       <tu>
          <tuv xml:lang="sme">
-            <seg>Gohččumis boahtá ovdan makkár áššit evttohuvvojit meannuduvvot .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Lasetiäđuh Suomâbeln politiikääših : klemetti .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Lassedieđut Suoma bealde</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>nakkalajarvi ( at ) sámediggi .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
             <seg>geavatlaš ordnemat : siiri .</seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>fi keevâtlâš orniimeh : siiri .</seg>
+            <seg>keevâtlâš orniimeh : siiri .</seg>
          </tuv>
       </tu>
       <tu>
@@ -236,14 +204,6 @@
          </tuv>
          <tuv xml:lang="smn">
             <seg>paadar ( at ) sámediggi .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>fi</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>fi</seg>
          </tuv>
       </tu>
    </body>
