@@ -1300,7 +1300,7 @@
     <e><p><l>antropologa<s n="n"/></l><r>antropoloog<s n="n"/></r></p></e> 
     <e><p><l>teáhter<s n="n"/></l><r>teatter<s n="n"/></r></p></e>
     <e><p><l>ovttastupmi<s n="n"/></l><r>ovtâstume<s n="n"/></r></p></e>
-    <e><p><l>bigálus<s n="n"/><s n="sem_dummytag"/><s n="pl"/></l><r>pygályseh<s n="n"/><s n="pl"/></r></p></e>
+    <e><p><l>bigálus<s n="n"/></l><r>pygálys<s n="n"/></r></p></e>
     <e><p><l>máinnašupmi<s n="n"/></l><r>mainâšume<s n="n"/></r></p></e>
     <e><p><l>osolašvuohta<s n="n"/></l><r>uásálâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>badjeolmmái<s n="n"/></l><r>puásuituállee<s n="n"/></r></p></e>
@@ -5261,7 +5261,7 @@
     <e><p><l>bilka<s n="n"/></l><r>tälvivuoggâ<s n="n"/></r></p></e>
     <e><p><l>bilkideaddji<s n="n"/><s n="nomag"/></l><r>pilkkár<s n="n"/></r></p></e>
     <e><p><l>bilku<s n="n"/></l><r>pilkke<s n="n"/></r></p></e>
-    <e><p><l>binná<s n="n"/><s n="g3"/></l><r>váhá<s n="n"/></r></p></e>
+    <e><p><l>binná<s n="n"/><s n="g3"/></l><r>pittá<s n="n"/></r></p></e>
     <e><p><l>biodiversitehta<s n="n"/></l><r>biodiversiteet<s n="n"/></r></p></e>
     <e><p><l>bipmi<s n="n"/></l><r>pime<s n="n"/></r></p></e>
     <e><p><l>biras<s n="n"/></l><r>piirâs<s n="n"/></r></p></e>
@@ -10036,9 +10036,6 @@
     <e><p><l>ođđajagemánnu<s n="n"/></l><r>uđđâivemáánu<s n="n"/></r></p></e>
     <e><p><l>listu<s n="n"/></l><r>listo<s n="n"/></r></p></e>
     <e><p><l>bigán<s n="n"/></l><r>pikkáin<s n="n"/></r></p></e>
-    <e><p><l>bigán<s n="n"/></l><r>puárkkáá<s n="n"/></r></p></e>
-    <e><p><l>bigán<s n="n"/></l><r>skarppaa<s n="n"/></r></p></e>
-    <e><p><l>bigán<s n="n"/></l><r>vaimuu<s n="n"/></r></p></e>
     <e><p><l>boaisán<s n="n"/></l><r>foostâg<s n="n"/></r></p></e>
     <e><p><l>boaisán<s n="n"/></l><r>kuárádâs<s n="n"/></r></p></e>
     <e><p><l>boimmon<s n="n"/></l><r>tuápulâs<s n="n"/></r></p></e>
@@ -10125,7 +10122,6 @@
     <e><p><l>beavdebiigá<s n="n"/></l><r>pevdipijgá<s n="n"/></r></p></e>
     <e><p><l>belá<s n="n"/></l><r>uárbimpeeli<s n="n"/></r></p></e>
     <e><p><l>belá<s n="n"/></l><r>viljâpeeli<s n="n"/></r></p></e>
-    <e><p><l>binná<s n="n"/><s n="g3"/></l><r>ucánjii<s n="n"/></r></p></e><!-- no noun -->
     <e><p><l>birgemuš<s n="n"/></l><r>áigápuátu<s n="n"/></r></p></e>
     <e><p><l>buohcu<s n="n"/></l><r>puácuvuotâ<s n="n"/></r></p></e>
     <e><p><l>buolaš<s n="n"/></l><r>puolâš<s n="n"/></r></p></e>
@@ -54864,7 +54860,6 @@
     <e><p><l>Zündapp<s n="np"/></l><r>Zündapp<s n="np"/></r></p></e>
     <e><p><l>Zürich<s n="np"/></l><r>Zürich<s n="np"/></r></p></e>
     <e><p><l>al-Qaida<s n="np"/></l><r>al-Qaida<s n="np"/></r></p></e>
-    <e><p><l>by%:Larm<s n="np"/></l><r>by%:Larm<s n="np"/></r></p></e>
     <e><p><l>d'Arc<s n="np"/></l><r>d'Arc<s n="np"/></r></p></e>
     <e><p><l>eNorga<s n="np"/></l><r>eNorga<s n="np"/></r></p></e>
     <e><p><l>eNorge<s n="np"/></l><r>eNorge<s n="np"/></r></p></e>
