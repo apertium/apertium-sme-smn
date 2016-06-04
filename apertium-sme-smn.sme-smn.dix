@@ -699,7 +699,7 @@
     <e><p><l>lávga<s n="adj"/></l><r>teetis<s n="adj"/></r></p></e>
     <e><p><l>guoddil<s n="adj"/></l><r>kyeddee<s n="adj"/></r></p></e>
     <e><p><l>ruoššagielat<s n="adj"/></l><r>ruošâkielâlâš<s n="adj"/></r></p></e>
-    <e><p><l>ruoššagielat<s n="adj"/></l><r>ruošâkielâl<s n="adj"/></r></p></e>
+    <e><p><l>ruoššagiel<s n="adj"/></l><r>ruošâkielâl<s n="adj"/></r></p></e>
     <e><p><l>luteralaš<s n="adj"/></l><r>luterilâš<s n="adj"/></r></p></e>
     <e><p><l>prosentuálalaš<s n="adj"/></l><r>prosentuaallâš<s n="adj"/></r></p></e>
     <e><p><l>máŋggaámmátlaš<s n="adj"/></l><r>maaŋgâáámmátlâš<s n="adj"/></r></p></e>
@@ -714,14 +714,14 @@
     <e><p><l>friijahápmásaš<s n="adj"/></l><r>rijjâhámásâš<s n="adj"/></r></p></e>
     <e><p><l>eahpedievaslaš<s n="adj"/></l><r>epitievâslâš<s n="adj"/></r></p></e>
     <e><p><l>vádjitválddálaš<s n="adj"/></l><r>vááijuvváldálâš<s n="adj"/></r></p></e>
+    <e><p><l>eatnigiel<s n="adj"/></l><r>eenikiel<s n="adj"/></r></p></e>
     <e><p><l>eatnigielat<s n="adj"/></l><r>eenikielâlâš<s n="adj"/></r></p></e>
-    <e><p><l>eatnigielat<s n="adj"/></l><r>eenikielâl<s n="adj"/></r></p></e>
     <e><p><l>golmmagielat<s n="adj"/></l><r>kulmâkielâlâš<s n="adj"/></r></p></e>
-    <e><p><l>golmmagielat<s n="adj"/></l><r>kulmâkielâl<s n="adj"/></r></p></e>
-    <e><p><l>anársámegielat<s n="adj"/></l><r>anarâškiel<s n="adj"/></r></p></e>
+    <e><p><l>golmmagielat<s n="adj"/></l><r>kulmâkielâlâš<s n="adj"/></r></p></e>
+    <e><p><l>anársámegiel<s n="adj"/></l><r>anarâškiel<s n="adj"/></r></p></e>
     <e><p><l>anársámegielat<s n="adj"/></l><r>anarâškielâlâš<s n="adj"/></r></p></e>
     <e><p><l>máŋggagielalaš<s n="adj"/></l><r>maaŋgâkielâlâš<s n="adj"/></r></p></e> 
-    <e><p><l>máŋggagielat<s n="adj"/></l><r>maaŋgâkielâg<s n="adj"/></r></p></e>
+    <e><p><l>máŋggagiel<s n="adj"/></l><r>maaŋgâkiel<s n="adj"/></r></p></e>
     <e><p><l>máŋggagielat<s n="adj"/></l><r>maaŋgâkielâlâš<s n="adj"/></r></p></e>
     <e><p><l>áitosaš<s n="adj"/></l><r>eidusâš<s n="adj"/></r></p></e>
     <e><p><l>produktiiva<s n="adj"/></l><r>puáđuslâš<s n="adj"/></r></p></e>
@@ -739,8 +739,8 @@
     <e><p><l>rájeheapme<s n="adj"/></l><r>räjittem<s n="adj"/></r></p></e>
     <e><p><l>ijaheapme<s n="adj"/></l><r>ijâttem<s n="adj"/></r></p></e>
     <e><p><l>sámegielat<s n="adj"/></l><r>sämikielâlâš<s n="adj"/></r></p></e>
-    <e><p><l>sámegielat<s n="adj"/></l><r>sämikiel<s n="adj"/></r></p></e>
-    <e><p><l>iešráđálaš<s n="adj"/></l><r>jieráđálâš<s n="adj"/></r></p></e>
+    <e><p><l>sámegielč<s n="adj"/></l><r>sämikiel<s n="adj"/></r></p></e>
+    <e><p><l>iešráđálaš<s n="adj"/></l><r>jiešráđálâš<s n="adj"/></r></p></e>
     <e><p><l>beallásaš<s n="adj"/></l><r>jieráđálâš<s n="adj"/></r></p></e>
     <e><p><l>ovddidandohkálaš<s n="adj"/></l><r>ovdánemtohálâš<s n="adj"/></r></p></e>
 
@@ -918,7 +918,8 @@
     <e><p><l>hárvenaš<s n="adj"/></l><r>härvinâš<s n="adj"/></r></p></e>
     <e><p><l>iehčanas<s n="adj"/></l><r>jiečânâs<s n="adj"/></r></p></e>
     <e><p><l>ievttáš<s n="adj"/></l><r>jiävtáš<s n="adj"/></r></p></e>
-    <e><p><l>iežasgielat<s n="adj"/></l><r>jieijâskielâg<s n="adj"/></r></p></e>
+    <e><p><l>iežasgiel<s n="adj"/></l><r>jieijâskiel<s n="adj"/></r></p></e>
+    <e><p><l>iežasgielat<s n="adj"/></l><r>jieijâskielâlâš<s n="adj"/></r></p></e>
     <e><p><l>iežaslágan<s n="adj"/></l><r>jieijâslágán<s n="adj"/></r></p></e>
     <e><p><l>iešbirgejeaddji<s n="adj"/></l><r>jiešpiergejeijee<s n="adj"/></r></p></e>
     <e><p><l>iešdáhtolaš<s n="adj"/></l><r>jieštátulâš<s n="adj"/></r></p></e>
@@ -995,6 +996,7 @@
     <e><p><l>nuorra<s n="adj"/></l><r>nuorâ<s n="adj"/></r></p></e>
     <e><p><l>nuortalaš<s n="adj"/></l><r>nuorttâlâš<s n="adj"/></r></p></e>
     <e><p><l>nuortalašgiel<s n="adj"/></l><r>nuorttâkiel<s n="adj"/></r></p></e>
+    <e><p><l>nuortalašgielat<s n="adj"/></l><r>nuorttâkielâlâš<s n="adj"/></r></p></e>    
     <e><p><l>nuppelogát<s n="adj"/></l><r>nubálovváád<s n="adj"/></r></p></e>
     <e><p><l>oahpoheapme<s n="adj"/></l><r>uáputtem<s n="adj"/></r></p></e>
     <e><p><l>oanehisáigásaš<s n="adj"/></l><r>uánihâšáigásâš<s n="adj"/></r></p></e>
@@ -1455,7 +1457,7 @@
     <e><p><l>árvvusatnin<s n="n"/></l><r>áárvustanneem<s n="n"/></r></p></e>
     <e><p><l>tulkon<s n="n"/></l><r>tulkkum<s n="n"/></r></p></e>
     <e><p><l>bálges<s n="n"/></l><r>paalgâs<s n="n"/></r></p></e>
-    <e><p><l>ng<s n="n"/></l><r>nk<s n="n"/></r></p></e>
+    <e><p><l>ng.<s n="adj"/></l><r>nk.<s n="adj"/></r></p></e>
     <e><p><l>kongreassa<s n="n"/></l><r>kongres<s n="n"/></r></p></e>
     <e><p><l>kommeanta<s n="n"/></l><r>komment<s n="n"/></r></p></e>
     <e><p><l>parlamentarihkkár<s n="n"/></l><r>parlamentarik<s n="n"/></r></p></e>
@@ -4227,8 +4229,8 @@
     <e><p><l>coazzi<s n="adj"/></l><r>tiivâs<s n="adj"/></r></p></e>
     <e><p><l>dalloš<s n="adj"/></l><r>tallaaš<s n="adj"/></r></p></e>
     <e><p><l>dalá<s n="adj"/></l><r>tallaaš<s n="adj"/></r></p></e>
-    <e><p><l>davvisámegielat<s n="adj"/></l><r>orjâlâškiel<s n="adj"/></r></p></e>
-    <e><p><l>davvisámegielat<s n="adj"/></l><r>orjâlâškielâš<s n="adj"/></r></p></e>
+    <e><p><l>davvisámegiel<s n="adj"/></l><r>orjâlâškiel<s n="adj"/></r></p></e>
+    <e><p><l>davvisámegielat<s n="adj"/></l><r>orjâlâškielâlâš<s n="adj"/></r></p></e>
     <e><p><l>dearvvas<s n="adj"/></l><r>tiervâs<s n="adj"/></r></p></e>
     <e><p><l>dearvvaslaš<s n="adj"/></l><r>tiervâslâš<s n="adj"/></r></p></e>
     <e><p><l>dearvvaš<s n="adj"/></l><r>tiervâs<s n="adj"/></r></p></e>
@@ -4385,7 +4387,7 @@
     <e><p><l>guovnnjas<s n="adj"/></l><r>vuovdân<s n="adj"/></r></p></e>
     <e><p><l>guovttegielalaš<s n="adj"/></l><r>kyevtkielâlâš<s n="adj"/></r></p></e>
     <e><p><l>guovttegielat<s n="adj"/></l><r>kyevtkielâlâš<s n="adj"/></r></p></e>
-    <e><p><l>guovttegielat<s n="adj"/></l><r>kyevtkielâl<s n="adj"/></r></p></e>
+    <e><p><l>guovttegiel<s n="adj"/></l><r>kyevtkielâl<s n="adj"/></r></p></e>
     <e><p><l>gutnálaš<s n="adj"/></l><r>kunnáálâš<s n="adj"/></r></p></e>
     <e><p><l>guvllolaš<s n="adj"/></l><r>kuávlulâš<s n="adj"/></r></p></e>
     <e><p><l>guđat<s n="adj"/></l><r>kuuđâd<s n="adj"/></r></p></e>
@@ -4579,8 +4581,8 @@
     <e><p><l>ovddeš<s n="adj"/></l><r>oovdiš<s n="adj"/></r></p></e>
     <e><p><l>ovddit<s n="adj"/></l><r>oovdeb<s n="adj"/></r></p></e>
     <e><p><l>ovttageardán<s n="adj"/></l><r>oovtâkiärdán<s n="adj"/></r></p></e>
-    <e><p><l>ovttagielat<s n="adj"/></l><r>oovtâkielâg<s n="adj"/></r></p></e>
-    <e><p><l>ovttagielat<s n="adj"/></l><r>oovtâkiel<s n="adj"/></r></p></e>
+    <e><p><l>ovttagielat<s n="adj"/></l><r>oovtâkielâlâš<s n="adj"/></r></p></e>
+    <e><p><l>ovttagiel<s n="adj"/></l><r>oovtâkiel<s n="adj"/></r></p></e>
     <e><p><l>ovttalágan<s n="adj"/></l><r>siämmáálágán<s n="adj"/></r></p></e>
     <e><p><l>ovttamielalaš<s n="adj"/></l><r>oovtâmielâlâš<s n="adj"/></r></p></e>
     <e><p><l>ovttaskas<s n="adj"/></l><r>ovtâskâs<s n="adj"/></r></p></e>
@@ -4679,7 +4681,8 @@
     <e><p><l>somá<s n="adj"/></l><r>suámi<s n="adj"/></r></p></e>
     <e><p><l>sosialisttalaš<s n="adj"/></l><r>sosialistlâš<s n="adj"/></r></p></e>
     <e><p><l>sosiála<s n="adj"/></l><r>sosiaallâš<s n="adj"/></r></p></e>
-    <e><p><l>sosiála<s n="adj"/></l><r>sosial<s n="adj"/></r></p></e>
+    <e><p><l>sosiála<s n="adj"/></l><r>sosiaal<s n="adj"/></r></p></e>
+<!--     <e><p><l>sosiála<s n="adj"/></l><r>sosial<s n="adj"/></r></p></e> -->    
     <e><p><l>speanta<s n="adj"/></l><r>jiäráskittee<s n="adj"/></r></p></e>
     <e><p><l>spállái<s n="adj"/></l><r>rossii<s n="adj"/></r></p></e>
     <e><p><l>spánska<s n="adj"/></l><r>espanjalâš<s n="adj"/></r></p></e>
@@ -4701,9 +4704,9 @@
     <e><p><l>suohkat<s n="adj"/></l><r>suohâd<s n="adj"/></r></p></e>
     <e><p><l>suohtas<s n="adj"/></l><r>suotâs<s n="adj"/></r></p></e>
     <e><p><l>suollemas<s n="adj"/></l><r>syeligâs<s n="adj"/></r></p></e>
-    <e><p><l>suomagielat<s n="adj"/></l><r>suomâkiel<s n="adj"/></r></p></e>
-    <e><p><l>suomagielat<s n="adj"/></l><r>suomâkielâg<s n="adj"/></r></p></e>
-    <e><p><l>vierrogielat<s n="adj"/></l><r>viereskielâl<s n="adj"/></r></p></e>
+    <e><p><l>suomagiel<s n="adj"/></l><r>suomâkiel<s n="adj"/></r></p></e>
+    <e><p><l>suomagielat<s n="adj"/></l><r>suomâkielâlâš<s n="adj"/></r></p></e>
+    <e><p><l>vierrogiel<s n="adj"/></l><r>viereskiel<s n="adj"/></r></p></e>
     <e><p><l>vierrogielat<s n="adj"/></l><r>viereskielâlâš<s n="adj"/></r></p></e>
     <e><p><l>surolaš<s n="adj"/></l><r>sorolâš<s n="adj"/></r></p></e>
     <e><p><l>suttolaš<s n="adj"/></l><r>suddogâs<s n="adj"/></r></p></e>
