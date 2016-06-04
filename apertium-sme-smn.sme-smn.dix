@@ -200,7 +200,7 @@
     <e><p><l>makkár<s n="prn"/></l><r>maggaar<s n="prn"/></r></p></e>
     <e><p><l>seammá<s n="prn"/></l><r>siämmáš<s n="prn"/></r></p></e>
     <e><p><l>soames<s n="prn"/></l><r>mottoom<s n="prn"/></r></p></e>
-    <e><p><l>váháš<s n="prn"/></l><r>váhá<s n="prn"/></r></p></e>
+    <e><p><l>váháš<s n="adv"/></l><r>váhá<s n="adv"/></r></p></e>
     <e><p><l>nubbi<s n="prn"/></l><r>nubbe<s n="prn"/></r></p></e>
     <e><p><l>dihto<s n="adj"/></l><r>tiätu<s n="adj"/></r></p></e>
     <e><p><l>okta<s n="prn"/></l><r>ohtâ<s n="prn"/></r></p></e>
@@ -693,7 +693,8 @@
 
 
     <!-- ASECTION: Adjectives -->
-    
+
+    <e><p><l>vuoigatvuođalaš<s n="adj"/></l><r>vuoigâdvuođâlâš<s n="adj"/></r></p></e>    
     <e><p><l>milliibáhcci<s n="adj"/></l><r>mieláidpäccee<s n="adj"/></r></p></e>
     <e><p><l>jagaš<s n="adj"/></l><r>ihásâš<s n="adj"/></r></p></e>
     <e><p><l>lávga<s n="adj"/></l><r>teetis<s n="adj"/></r></p></e>
@@ -757,7 +758,7 @@
     <e><p><l>seammaárvosaš<s n="adj"/></l><r>siämmáá-árvusâš<s n="adj"/></r></p></e>
     <e><p><l>bánna<s n="adj"/></l><r>siemin<s n="adj"/></r></p></e>
     <e><p><l>sieiva<s n="adj"/></l><r>sieivâ<s n="adj"/></r></p></e>
-    <e><p><l>primitiiva<s n="adj"/></l><r>primitiiv<s n="adj"/></r></p></e>
+    <e><p><l>primitiiva<s n="adj"/></l><r>primitiivlâš<s n="adj"/></r></p></e>
     <e><p><l>cealkemeahttun<s n="adj"/></l><r>etâmettum<s n="adj"/></r></p></e>
     <e><p><l>bás<s n="adj"/></l><r>uccâ<s n="adj"/></r></p></e>
     <e><p><l>rántui<s n="adj"/></l><r>ranttu<s n="adj"/></r></p></e>
@@ -767,7 +768,7 @@
     <e><p><l>giivvis<s n="adj"/></l><r>kiijves<s n="adj"/></r></p></e>
     <e><p><l>ebmui<s n="adj"/></l><r>muččâd<s n="adj"/></r></p></e>
     <e><p><l>seaŋggabuorre<s n="adj"/></l><r>illávaje<s n="adj"/></r></p></e>
-    <e><p><l>primitiivvalaš<s n="adj"/></l><r>primitivlâš<s n="adj"/></r></p></e>
+    <e><p><l>primitiivvalaš<s n="adj"/></l><r>primitiivlâš<s n="adj"/></r></p></e>
     <e><p><l>olmmošmeahttun<s n="adj"/></l><r>olmoošmettum<s n="adj"/></r></p></e>
     <e><p><l>eahpenjuolgat<s n="adj"/></l><r>epinjuolgâd<s n="adj"/></r></p></e>
     <e><p><l>abstrákta<s n="adj"/></l><r>abstraktâ<s n="adj"/></r></p></e>
@@ -1101,6 +1102,7 @@
     <e><p><l>árbevirolaš<s n="adj"/></l><r>ärbivuáválâš<s n="adj"/></r></p></e>
     <e><p><l>árjjálaš<s n="adj"/></l><r>arjalâš<s n="adj"/></r></p></e>
     <e><p><l>árktalaš<s n="adj"/></l><r>arktâlâš<s n="adj"/></r></p></e>
+    <e><p><l>euroárktalaš<s n="adj"/></l><r>euroarktâlâš<s n="adj"/></r></p></e>
     <e><p><l>árpmuheapme<s n="adj"/></l><r>ármuttem<s n="adj"/></r></p></e>
     <e><p><l>árvitmeahttun<s n="adj"/></l><r>ervidmettum<s n="adj"/></r></p></e>
     <e><p><l>šamanisttalaš<s n="adj"/></l><r>šamanistlâš<s n="adj"/></r></p></e>
@@ -1447,7 +1449,6 @@
     <e><p><l>beaivelatnja<s n="n"/></l><r>orroomviste<s n="n"/></r></p></e>
     <e><p><l>meahcástus<s n="n"/></l><r>miäcástem<s n="n"/></r></p></e>
     <e><p><l>gizzu<s n="n"/></l><r>kiccâ<s n="n"/></r></p></e>
-    <e><p><l>vuosttildeaddji<s n="n"/></l><r>vuástálistee<s n="n"/></r></p></e>
     <e><p><l>assimileren<s n="n"/></l><r>assimilaatio<s n="n"/></r></p></e>
     <e><p><l>atmosfeara<s n="n"/></l><r>vuoiŋâ<s n="n"/></r></p></e>
     <e><p><l>diplomáhtta<s n="n"/></l><r>diplomaat<s n="n"/></r></p></e>
@@ -9797,7 +9798,7 @@
     <e><p><l>liehpa<s n="n"/></l><r>sudes<s n="n"/></r></p></e>
     <e><p><l>lihkohisvuohta<s n="n"/></l><r>luhottesvuotâ<s n="n"/></r></p></e>
     <e><p><l>lihkuhisvuohta<s n="n"/></l><r>luhottesvuotâ<s n="n"/></r></p></e>
-    <e><p><l>liibma<s n="n"/></l><r>lijme<s n="n"/></r></p></e>
+    <e><p><l>liibma<s n="n"/></l><r>lijmá<s n="n"/></r></p></e>
     <e><p><l>liidna<s n="n"/></l><r>kiärdu<s n="n"/></r></p></e>
     <e><p><l>liidna<s n="n"/></l><r>vuoggâčielgi<s n="n"/></r></p></e>
     <e><p><l>linjála<s n="n"/></l><r>njuálgusárgum<s n="n"/></r></p></e>
@@ -10153,16 +10154,11 @@
     <e><p><l>fuotnu<s n="n"/></l><r>ciŋkkáhâš<s n="n"/></r></p></e>
     <e><p><l>fuotnu<s n="n"/></l><r>fanttinâs<s n="n"/></r></p></e>
     <e><p><l>fuotnu<s n="n"/></l><r>luási<s n="n"/></r></p></e>
-    <e><p><l>fuotnu<s n="n"/></l><r>paahus<s n="n"/></r></p></e>
     <e><p><l>fuotnu<s n="n"/></l><r>pahalâš<s n="n"/></r></p></e>
-    <e><p><l>fuotnu<s n="n"/></l><r>panjig<s n="n"/></r></p></e>
-    <e><p><l>fuotnu<s n="n"/></l><r>ruollâ<s n="n"/></r></p></e>
     <e><p><l>fuotnu<s n="n"/></l><r>rävkki<s n="n"/></r></p></e>
     <e><p><l>fuotnu<s n="n"/></l><r>sottáán<s n="n"/></r></p></e>
     <e><p><l>fuotnu<s n="n"/></l><r>tuonârokke<s n="n"/></r></p></e>
     <e><p><l>fuotnu<s n="n"/></l><r>tuonâš<s n="n"/></r></p></e>
-    <e><p><l>fuotnu<s n="n"/></l><r>čiäráttâs<s n="n"/></r></p></e>
-    <e><p><l>fuotnu<s n="n"/></l><r>šyeiji<s n="n"/></r></p></e>
     <e><p><l>gapmu<s n="n"/></l><r>avâštâs<s n="n"/></r></p></e>
     <e><p><l>gapmu<s n="n"/></l><r>kuommâm<s n="n"/></r></p></e>
     <e><p><l>gapmu<s n="n"/></l><r>ulme<s n="n"/></r></p></e>
@@ -11115,6 +11111,8 @@
     <e><p><l>basttehuvvat<s n="vblex"/><s n="iv"/></l><r>tulccođ<s n="vblex"/></r></p></e>
     <e><p><l>almmaiduvvat<s n="vblex"/><s n="iv"/></l><r>almostuđ<s n="vblex"/></r></p></e>
     <e><p><l>almmaiduvvat<s n="vblex"/><s n="iv"/></l><r>itteeđ<s n="vblex"/></r></p></e>
+    <e><p><l>vuosttildit<s n="vblex"/><s n="tv"/></l><r>vuástálistiđ<s n="vblex"/></r></p></e>
+
 
 <!-- EEEEEE   CHAPTER 5. North-Saami placenames added       -->
 
