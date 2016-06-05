@@ -1140,6 +1140,9 @@
     <!-- ASECTION: Nouns --> 
 
     <e><p><l>káfestallan<s n="n"/></l><r>káhvástâllâm<s n="n"/></r></p></e>
+    <e><p><l>dárkkisteaddji<s n="n"/></l><r>tärhisteijee<s n="n"/></r></p></e>
+    <e><p><l>lágalašvuohta<s n="n"/></l><r>lavâlâšvuotâ<b/><s n="n"/></r></p></e>
+    <e><p><l>mearridanváldi<s n="n"/></l><r>meridemváldálâšvuotâ<s n="n"/></r></p></e>     
     <e><p><l>evangelium<s n="n"/></l><r>evangelium<s n="n"/></r></p></e>
     <e><p><l>dárkojeaddji<s n="n"/></l><r>tárkkojeijee<s n="n"/></r></p></e>
     <e><p><l>idea<s n="n"/></l><r>idea<s n="n"/></r></p></e>
@@ -1371,6 +1374,12 @@
     <e><p><l>t<s n="n"/><s n="abbr"/></l><r>t<s n="n"/><s n="abbr"/></r></p></e>
     <e><p><l>u<s n="n"/><s n="abbr"/></l><r>u<s n="n"/><s n="abbr"/></r></p></e>
     <e><p><l>v<s n="n"/><s n="abbr"/></l><r>v<s n="n"/><s n="abbr"/></r></p></e>
+    <e><p><l>várresj<s n="n"/><s n="abbr"/></l><r>värisj<s n="n"/><s n="abbr"/></r></p></e>
+    <e><p><l>vs<s n="adj"/><s n="abbr"/></l><r>vs<s n="adj"/><s n="abbr"/></r></p></e>
+
+    <e><p><l>bve<s n="n"/><s n="abbr"/></l><r>peivi<s n="n"/></r></p></e>
+
+
     <e><p><l>badjeskuvla<s n="n"/></l><r>paješkovlâ<s n="n"/></r></p></e>
     <e><p><l>stipeanda<s n="n"/></l><r>stipend<s n="n"/></r></p></e>
     <e><p><l>forum<s n="n"/></l><r>foorum<s n="n"/></r></p></e>
@@ -3766,6 +3775,9 @@
     <e><p><l>Čoavččesjohbuolžžat<s n="np"/></l><r>Čovčjuvpuolžiih<s n="np"/></r></p></e>
     <e><p><l>Čoavččesjohka<s n="np"/></l><r>Čovčjuuhâ<s n="np"/></r></p></e>
     <e><p><l>Čoavččesjávri<s n="np"/></l><r>Čovčjävri<s n="np"/></r></p></e>
+    <e><p><l>Nihkolas<s n="np"/></l><r>Nihkolas<s n="np"/></r></p></e>
+    <e><p><l>Teerhi<s n="np"/></l><r>Teerhi<s n="np"/></r></p></e>
+    <e><p><l>Tuomas<s n="np"/></l><r>Tuomas<s n="np"/></r></p></e>
 
 
     <!-- ASECTION: Verbs -->
@@ -6119,6 +6131,7 @@
     <e><p><l>hoahkan<s n="n"/></l><r>kuuhâs<s n="n"/></r></p></e>
     <e><p><l>hoahppu<s n="n"/></l><r>huáppu<s n="n"/></r></p></e>
     <e><p><l>hoavda<s n="n"/></l><r>hovdâ<s n="n"/></r></p></e>
+    <e><p><l>hálddahushoavda<s n="n"/></l><r>haldâttâhhovdâ<s n="n"/></r></p></e>    
     <e><p><l>hoavva<s n="n"/></l><r>haavi<s n="n"/></r></p></e>
     <e><p><l>hoaŋka<s n="n"/></l><r>haŋgâ<s n="n"/></r></p></e>
     <e><p><l>hoašša<s n="n"/><s n="g3"/></l><r>huášši<s n="n"/></r></p></e>
@@ -6140,6 +6153,7 @@
     <e><p><l>háhtádus<s n="n"/></l><r>kuárádâs<s n="n"/></r></p></e>
     <e><p><l>hálbma<s n="n"/></l><r>olgâ<s n="n"/></r></p></e>
     <e><p><l>hálddahus<s n="n"/></l><r>haldâttâs<s n="n"/></r></p></e>
+    <e><p><l>skuvlenčálli<s n="n"/></l><r>škovlimčällee<s n="n"/></r></p></e>
     <e><p><l>hálddašanorgána<s n="n"/></l><r>haldâttâsorgaan<s n="n"/></r></p></e>
     <e><p><l>hálddašeapmi<s n="n"/></l><r>haldâttâs<s n="n"/></r></p></e>
     <e><p><l>hálgu<s n="n"/></l><r>hálgu<s n="n"/></r></p></e>
@@ -6493,7 +6507,7 @@
     <e><p><l>miehkki<s n="n"/></l><r>miekki<s n="n"/></r></p></e>
     <e><p><l>miehta<s n="n"/></l><r>mietâ<s n="n"/></r></p></e>
     <e><p><l>miekta<s n="n"/></l><r>miehtâluhtee<s n="n"/></r></p></e>
-    <e><p><l>mielddus<s n="n"/></l><r>miäldus<s n="n"/></r></p></e>
+    <e><p><l>mielddus<s n="n"/></l><r>lahtos<s n="n"/></r></p></e>
     <e><p><l>mielki<s n="n"/></l><r>mielkki<s n="n"/></r></p></e>
     <e><p><l>miella<s n="n"/></l><r>mielâ<s n="n"/></r></p></e>
     <e><p><l>miellahttu<s n="n"/></l><r>jeessân<s n="n"/></r></p></e>
@@ -38736,6 +38750,8 @@
     <e><p><l>Kusjal<s n="np"/></l><r>Kusjal<s n="np"/></r></p></e>
     <e><p><l>Kusken<s n="np"/></l><r>Kusken<s n="np"/></r></p></e>
     <e><p><l>Kustaa<s n="np"/></l><r>Kustaa<s n="np"/></r></p></e>
+    <e><p><l>Kustula<s n="np"/></l><r>Kustula<s n="np"/></r></p></e>
+
     <e><p><l>Kustannus-Puntsi<s n="np"/></l><r>Kustannus-Puntsi<s n="np"/></r></p></e>
     <e><p><l>Kustannus<s n="np"/></l><r>Kustannus<s n="np"/></r></p></e>
     <e><p><l>Kutila<s n="np"/></l><r>Kutila<s n="np"/></r></p></e>
@@ -42984,6 +43000,7 @@
     <e><p><l>Need<s n="np"/></l><r>Need<s n="np"/></r></p></e>
     <e><p><l>Neergaard<s n="np"/></l><r>Neergaard<s n="np"/></r></p></e>
     <e><p><l>Neerland<s n="np"/></l><r>Neerland<s n="np"/></r></p></e>
+    <e><p><l>Neeta<s n="np"/></l><r>Neeta<s n="np"/></r></p></e>
     <e><p><l>Nefelin<s n="np"/></l><r>Nefelin<s n="np"/></r></p></e>
     <e><p><l>Negeri<s n="np"/></l><r>Negeri<s n="np"/></r></p></e>
     <e><p><l>Negev<s n="np"/></l><r>Negev<s n="np"/></r></p></e>
@@ -55325,8 +55342,9 @@
 
     <e><p><l>NATO<s n="n"/><s n="acr"/></l><r>NATO<s n="n"/><s n="acr"/></r></p></e>
     <e><p><l>NRK<s n="n"/><s n="acr"/></l><r>NRK<s n="n"/><s n="acr"/></r></p></e>
-       <e><p><l>YLE<s n="n"/><s n="acr"/></l><r>YLE<s n="n"/><s n="acr"/></r></p></e>    
-   
+    <e><p><l>YLE<s n="n"/><s n="acr"/></l><r>YLE<s n="n"/><s n="acr"/></r></p></e>    
+    <e><p><l>SáDi<s n="n"/><s n="acr"/></l><r>SäTi<s n="n"/><s n="acr"/></r></p></e>    
+
   </section> 
 
 </dictionary>
