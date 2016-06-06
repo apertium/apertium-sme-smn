@@ -1128,10 +1128,10 @@
     <!-- ASECTION: Nouns --> 
 
     <e><p><l>káfestallan<s n="n"/></l><r>káhvástâllâm<s n="n"/></r></p></e>
+    <e><p><l>oassálastin<s n="n"/></l><r>uásálistem<s n="n"/></r></p></e>
     <e><p><l>dárkkisteaddji<s n="n"/></l><r>tärhisteijee<s n="n"/></r></p></e>
     <e><p><l>lágalašvuohta<s n="n"/></l><r>lavâlâšvuotâ<b/><s n="n"/></r></p></e>
-    <e><p><l>mearridanváldi<s n="n"/></l><r>meridemváldálâšvuotâ<s n="n"/></r></p></e>     
-    <e><p><l>evangelium<s n="n"/></l><r>evangelium<s n="n"/></r></p></e>
+    <e><p><l>mearridanváldi<s n="n"/></l><r>meridemváldálâšvuotâ<s n="n"/></r></p></e>    <e><p><l>evangelium<s n="n"/></l><r>evangelium<s n="n"/></r></p></e>
     <e><p><l>dárkojeaddji<s n="n"/></l><r>tárkkojeijee<s n="n"/></r></p></e>
     <e><p><l>idea<s n="n"/></l><r>idea<s n="n"/></r></p></e>
     <e><p><l>detállja<s n="n"/></l><r>deetaalj<s n="n"/></r></p></e>
@@ -2089,7 +2089,6 @@
     <e><p><l>árru<s n="n"/></l><r>iästu<s n="n"/></r></p></e>
     <e><p><l>ásaheapmi<s n="n"/></l><r>vuáđudem<s n="n"/></r></p></e>
     <e><p><l>ássanguovlu<s n="n"/></l><r>aassâmkuávlu<s n="n"/></r></p></e>
-    <e><p><l>ávvir<s n="n"/></l><r>huolâ<b/>anneem<s n="n"/></r></p></e>
     <e><p><l>ávvodoalut<s n="n"/><s n="pl"/></l><r>juhlálâšvuotâ<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>ávvu<s n="n"/></l><r>áávu<s n="n"/></r></p></e>
     <e><p><l>ávvoguossi<s n="n"/><s n="g3"/></l><r>juhleviehâ<s n="n"/></r></p></e>
@@ -4875,7 +4874,6 @@
     <e><p><l>ávnnaslaš<s n="adj"/></l><r>amnâslâš<s n="adj"/></r></p></e>
     <e><p><l>ávvirheapme<s n="adj"/></l><r>peerustmettum<s n="adj"/></r></p></e>
     <e><p><l>ávvirmeahttun<s n="adj"/></l><r>peerustmettum<s n="adj"/></r></p></e>
-    <e><p><l>áđat<s n="adj"/></l><r>Suo<s n="adj"/></r></p></e>
     <e><p><l>áŋgir<s n="adj"/></l><r>äŋgir<s n="adj"/></r></p></e>
     <e><p><l>áššáigullevaš<s n="adj"/></l><r>áášánkullee<s n="adj"/></r></p></e>
     <e><p><l>áššálaš<s n="adj"/></l><r>ášálâš<s n="adj"/></r></p></e>
@@ -7526,7 +7524,6 @@
     <e><p><l>váidda<s n="n"/></l><r>väidim<s n="n"/></r></p></e>
     <e><p><l>váikkuheapmi<s n="n"/></l><r>vaikuttem<s n="n"/></r></p></e>
     <e><p><l>váikkuhus<s n="n"/></l><r>vaikuttâs<s n="n"/></r></p></e>
-    <e><p><l>váili<s n="n"/></l><r>vááijuv<s n="n"/></r></p></e> <!-- no noun -->
     <e><p><l>váksi<s n="n"/></l><r>vyepsi<s n="n"/></r></p></e>
     <e><p><l>vákta<s n="n"/></l><r>vahtâ<s n="n"/></r></p></e>
     <e><p><l>válbor<s n="n"/></l><r>válbur<s n="n"/></r></p></e>
@@ -9211,7 +9208,6 @@
     <e><p><l>ipmirdahtti<s n="adj"/></l><r>iberdettee<s n="adj"/></r></p></e>
     <e><p><l>diekkáraš<s n="adj"/></l><r>tieggáár<s n="adj"/></r></p></e>
     <e><p><l>diekkáraš<s n="prn"/></l><r>tieggáár<s n="prn"/></r></p></e>
-    <e><p><l>álás<s n="adj"/></l><r>päljis<s n="adj"/></r></p></e>
     <e><p><l>álás<s n="adj"/></l><r>pääljis<s n="adj"/></r></p></e>
     <e><p><l>namaheapme<s n="adj"/></l><r>nomâttem<s n="adj"/></r></p></e>
     <e><p><l>nággár<s n="adj"/></l><r>nággár<s n="adj"/></r></p></e>
@@ -9532,9 +9528,6 @@
     <e><p><l>čibbi<s n="n"/></l><r>iidâ<s n="n"/></r></p></e>
     <e><p><l>čižži<s n="n"/></l><r>njamma<s n="n"/></r></p></e>
     <e><p><l>šleaivi<s n="n"/></l><r>njuággá<s n="n"/></r></p></e>
-    <e><p><l>šleaivi<s n="n"/></l><r>tuáŋgi<s n="n"/></r></p></e>
-    <e><p><l>šleaivi<s n="n"/></l><r>tuáŋgáá<s n="n"/></r></p></e>
-    <e><p><l>šleaivi<s n="n"/></l><r>čunžáá<s n="n"/></r></p></e>
     <e><p><l>čovdojupmi<s n="n"/></l><r>čuávdus<s n="n"/></r></p></e>
     <e><p><l>šuddi<s n="n"/></l><r>tuškâ<s n="n"/></r></p></e>
     <e><p><l>šuddi<s n="n"/></l><r>viiđgâs<s n="n"/></r></p></e>
@@ -55391,6 +55384,7 @@
     <e><p><l>NATO<s n="n"/><s n="acr"/></l><r>NATO<s n="n"/><s n="acr"/></r></p></e>
     <e><p><l>NRK<s n="n"/><s n="acr"/></l><r>NRK<s n="n"/><s n="acr"/></r></p></e>
     <e><p><l>YLE<s n="n"/><s n="acr"/></l><r>YLE<s n="n"/><s n="acr"/></r></p></e>    
+
     <e><p><l>SáDi<s n="n"/><s n="acr"/></l><r>SäTi<s n="n"/><s n="acr"/></r></p></e>    
 
   </section> 
