@@ -683,7 +683,9 @@
     <!-- ASECTION: Adjectives -->
 
     <e><p><l>vuoigatvuođalaš<s n="adj"/></l><r>vuoigâdvuođâlâš<s n="adj"/></r></p></e>    
+    <e><p><l>kultursensitiivvalaš<s n="adj"/></l><r>kulttuursensitiivlâš<s n="adj"/></r></p></e>    
     <e><p><l>milliibáhcci<s n="adj"/></l><r>mieláidpäccee<s n="adj"/></r></p></e>
+    <e><p><l>láhkaásahuslaš<s n="adj"/></l><r>lahâaasâtlâš<s n="adj"/></r></p></e>
     <e><p><l>jagaš<s n="adj"/></l><r>ihásâš<s n="adj"/></r></p></e>
     <e><p><l>lávga<s n="adj"/></l><r>teetis<s n="adj"/></r></p></e>
     <e><p><l>guoddil<s n="adj"/></l><r>kyeddee<s n="adj"/></r></p></e>
@@ -1128,7 +1130,9 @@
     <!-- ASECTION: Nouns --> 
 
     <e><p><l>káfestallan<s n="n"/></l><r>káhvástâllâm<s n="n"/></r></p></e>
+    <e><p><l>ávkingeavaheapmi<s n="n"/></l><r>ävkkinanneem<s n="n"/></r></p></e>
     <e><p><l>bušeahttaárvalus<s n="n"/></l><r>budjetiävtuttâs<s n="n"/></r></p></e>
+    <e><p><l>oktovuoigatvuohta<s n="n"/></l><r>ohtuuvuoigâdvuotâ<s n="n"/></r></p></e>
     <e><p><l>ruhtaministeriija<s n="n"/></l><r>staatâvarijministeriö<s n="n"/></r></p></e>
     <e><p><l>molsun<s n="n"/></l><r>molsom<s n="n"/></r></p></e>
     <e><p><l>oassálastin<s n="n"/></l><r>uásálistem<s n="n"/></r></p></e>
@@ -3831,8 +3835,11 @@
     <e><p><l>koordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
     <e><p><l>bálkkašit<s n="vblex"/><s n="tv"/></l><r>palhâšiđ<s n="vblex"/></r></p></e>
     <e><p><l>vuosttaldit<s n="vblex"/><s n="tv"/></l><r>vyestilistiđ<s n="vblex"/></r></p></e>
+    <e><p><l>goahcat<s n="vblex"/><s n="tv"/></l><r>kooccâđ<s n="vblex"/></r></p></e>
     <e><p><l>lagadit<s n="vblex"/><s n="tv"/></l><r>aldediđ<s n="vblex"/></r></p></e>
+    <e><p><l>eastit<s n="vblex"/><s n="tv"/></l><r>estiđ<s n="vblex"/></r></p></e>
     <e><p><l>vuoruhit<s n="vblex"/><s n="tv"/></l><r>vuosâsajadiđ<s n="vblex"/></r></p></e>
+    <e><p><l>álkidahttit<s n="vblex"/><s n="tv"/></l><r>toohâđ<b/>älkkeebin<s n="vblex"/></r></p></e>
     <e><p><l>mekaniseret<s n="vblex"/><s n="tv"/></l><r>mekanistiđ<s n="vblex"/></r></p></e>
     <e><p><l>boktalit<s n="vblex"/><s n="tv"/></l><r>ravkkâđ<s n="vblex"/></r></p></e>
     <e><p><l>bosádit<s n="vblex"/><s n="tv"/></l><r>posoliđ<s n="vblex"/></r></p></e>
@@ -3850,6 +3857,7 @@
     <e><p><l>registreret<s n="vblex"/><s n="tv"/></l><r>registeeriđ<s n="vblex"/></r></p></e>
     <e><p><l>attašit<s n="vblex"/><s n="tv"/></l><r>adeliđ<s n="vblex"/></r></p></e>
     <e><p><l>sirdašuvvat<s n="vblex"/><s n="iv"/></l><r>sirdâšuđ<s n="vblex"/></r></p></e>
+    <e><p><l>viidut<s n="vblex"/><s n="iv"/></l><r>vijđániđ<s n="vblex"/></r></p></e>
     <e><p><l>unnut<s n="vblex"/><s n="iv"/></l><r>uccođ<s n="vblex"/></r></p></e>
     <e><p><l>sámáiduvvat<s n="vblex"/><s n="iv"/></l><r>sámáiditteđ<s n="vblex"/></r></p></e>
     <e><p><l>fárrestallat<s n="vblex"/><s n="iv"/></l><r>varriistâllâđ<s n="vblex"/></r></p></e>
