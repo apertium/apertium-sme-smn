@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- -*- nxml -*- -->
 
 <!--
@@ -20,8 +20,11 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item lemma="gii" tags="prn.ind.*"/>
       <cat-item lemma="mii" tags="prn.ind.*"/>
     </def-cat>
-    <def-cat n="numsem">
+    <def-cat n="numeral">
       <cat-item tags="num.*"/>
+    </def-cat>
+    <def-cat n="numeral_year">
+      <cat-item tags="num.sem_year.*"/>
     </def-cat>
     <def-cat n="adv_r">
       <cat-item tags="*.@←ADVL"/>
@@ -234,6 +237,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
      <def-cat n="jagi">
       <cat-item lemma="jahki" tags="n.*.sg.gen.*"/>
       <cat-item lemma="jahki" tags="n.sg.gen.*"/>
+    </def-cat>
+     <def-cat n="jahki">
+      <cat-item lemma="jahki" tags="n.*"/>
     </def-cat>
      <def-cat n="boaris">
       <cat-item lemma="boaris" tags="adj.*"/>
@@ -1127,15 +1133,13 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <def-macro n="remove-semtag-1Param" npar="1">
           <let>
-            <clip pos="1" side="tl" part="a_sem"/>
-            <lit v=""/>
+            <clip pos="1" side="tl" part="a_sem"/><lit v=""/>
           </let>
     </def-macro>
 
     <def-macro n="remove-advtag-1Param" npar="1"> <!--  +Adv+Comp +Adv+Superl to +Adv -->
           <let>
-            <clip pos="1" side="tl" part="a_comp-superl"/>
-            <lit v=""/>
+            <clip pos="1" side="tl" part="a_comp-superl"/><lit v=""/>
           </let>
     </def-macro>
 
@@ -1146,32 +1150,26 @@ t5x move foc_tag from wordfoc chunk to the word inside
             <or>
              <and>
         		<equal>
-        		  <clip pos="2" side="tl" part="a_case"/>
-        		  <lit-tag v="com"/>
+        		  <clip pos="2" side="tl" part="a_case"/><lit-tag v="com"/>
         		</equal>
                         <equal>
-        		  <clip pos="2" side="tl" part="a_nbr"/>
-        		  <lit-tag v="pl"/>
+        		  <clip pos="2" side="tl" part="a_nbr"/><lit-tag v="pl"/>
         		</equal>
               </and>
               <and>
         		<equal>
-        		  <clip pos="2" side="tl" part="a_case"/>
-        		  <lit-tag v="loc"/>
+        		  <clip pos="2" side="tl" part="a_case"/><lit-tag v="loc"/>
         		</equal>
                         <equal>
-        		  <clip pos="2" side="tl" part="a_nbr"/>
-        		  <lit-tag v="sg"/>
+        		  <clip pos="2" side="tl" part="a_nbr"/><lit-tag v="sg"/>
         		</equal>
                </and>
               <and>
         		<equal>
-        		  <clip pos="2" side="tl" part="a_case"/>
-        		  <lit-tag v="ill"/>
+        		  <clip pos="2" side="tl" part="a_case"/><lit-tag v="ill"/>
         		</equal>
                         <equal>
-        		  <clip pos="2" side="tl" part="a_nbr"/>
-        		  <lit-tag v="sg"/>
+        		  <clip pos="2" side="tl" part="a_nbr"/><lit-tag v="sg"/>
         		</equal>
              </and>
 	      </or>
@@ -1188,8 +1186,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let>
           <clip pos="1" side="tl" part="tags"/>
 	  <concat>
-        <clip pos="1" side="tl" part="a_npagree_type"/>
-        <clip pos="1" side="tl" part="a_comp-superl"/>
+            <clip pos="1" side="tl" part="a_npagree_type"/>
+            <clip pos="1" side="tl" part="a_comp-superl"/>
 	    <clip pos="2" side="tl" part="a_nbr"/>
 	    <lit-tag v="gen"/>
 	    <clip pos="1" side="tl" part="a_foc"/>
@@ -1201,7 +1199,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
            <let>
           	  <clip pos="2" side="tl" part="tags"/>
         	  <concat>
-                <lit-tag v="n"/>
+                    <lit-tag v="n"/>
    	            <clip pos="2" side="tl" part="a_ntype"/>
 	            <clip pos="2" side="tl" part="a_nbr"/>
    	            <clip pos="2" side="tl" part="a_case"/>
@@ -1209,12 +1207,12 @@ t5x move foc_tag from wordfoc chunk to the word inside
            </let>
            <let>
              <clip pos="1" side="tl" part="tags"/>
-   	  <concat>
-           <clip pos="1" side="tl" part="a_npagree_type"/>
-           <clip pos="1" side="tl" part="a_comp-superl"/>
-   	    <clip pos="2" side="tl" part="a_nbr"/>
-   	    <clip pos="2" side="tl" part="a_case"/>
-   	  </concat>
+   	     <concat>
+               <clip pos="1" side="tl" part="a_npagree_type"/>
+               <clip pos="1" side="tl" part="a_comp-superl"/>
+   	       <clip pos="2" side="tl" part="a_nbr"/>
+   	       <clip pos="2" side="tl" part="a_case"/>
+   	     </concat>
            </let>
         </otherwise>
         </choose>
@@ -1480,11 +1478,14 @@ t5x move foc_tag from wordfoc chunk to the word inside
           <test><not><equal><clip pos="1" side="tl" part="a_func"/><lit v=""/></equal></not></test>
           <let><var n="func"/><clip pos="1" side="sl" part="a_func"/></let>
       </when></choose>
+      <choose><when>
+          <test><not><equal><clip pos="1" side="tl" part="a_sem"/><lit-tag v="sem_year"/></equal></not></test>
+	  <let><clip pos="1" side="tl" part="a_sem"/><lit v=""/></let>
+      </when></choose>
       <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
       <call-macro n="foc-1Param"><with-param pos="1"/></call-macro>
       <!--         <call-macro n="remove-advtag-1Param"><with-param pos="1"/></call-macro> this needs a test in the macro-->
       <let><clip pos="1" side="tl" part="a_south"/><lit v=""/></let>
-      <let><clip pos="1" side="tl" part="a_sem"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
     </def-macro>
@@ -1547,12 +1548,10 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
 
 
+
   <section-rules>
 
     <!-- SECTION: Nominal groups -->
-
-
-
 
     <rule comment="REGLA: pron-pers = Mun lean ruovttus.">
       <pattern>
@@ -1811,6 +1810,92 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule> -->
 
+    <rule comment="REGLA: jagis 2013 jahkái 2014 = ive 2013 rääjist ihán 2014">
+      <pattern>
+        <pattern-item n="jahki"/>
+        <pattern-item n="numeral_year"/>
+        <pattern-item n="jahki"/>
+        <pattern-item n="numeral_year"/>
+	</pattern>
+      <action>
+        <call-macro n="general-macro-4Param">
+	  <with-param pos="1"/>
+	  <with-param pos="2"/>
+	  <with-param pos="3"/>
+	  <with-param pos="4"/>
+	</call-macro>
+        <choose>
+           <when><test>
+	     <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="loc"/></equal>
+	     </test>
+             <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="gen"/></let>
+        </when></choose>
+	<out>
+          <chunk name="nominal" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="ADVLXXXX"/></tag>
+              <tag><var n="func"/></tag>
+              <tag><clip pos="1" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="1" side="tl" part="a_case"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+	    <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+	    <b/>
+            <lu>
+	      <lit v="rääjist"/><lit-tag v="post"/>
+	      </lu>
+	      <b/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+	    <b/>
+            <lu>
+              <clip pos="4" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: jagis 2013 = ive 2013">
+      <pattern>
+        <pattern-item n="jahki"/>
+        <pattern-item n="numeral_year"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
+        <choose>
+           <when><test>
+	     <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="loc"/></equal>
+	     </test>
+             <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="gen"/></let>
+        </when></choose>
+	<out>
+          <chunk name="nominal" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="ADVLXXXX"/></tag>
+              <tag><var n="func"/></tag>
+              <tag><clip pos="1" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="1" side="tl" part="a_case"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+	    <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: nominal = Add NP to nominal">
       <pattern>
         <pattern-item n="nominal"/>
@@ -1832,7 +1917,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </out>
       </action>
     </rule>
-
+    
     <rule comment="REGLA: nnomcmp 2 = skuvlabusse">
       <pattern>
         <pattern-item n="nouncmp"/>
@@ -3473,14 +3558,14 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: numsem">
+    <rule comment="REGLA: numeral">
       <pattern>
-        <pattern-item n="numsem"/>
+        <pattern-item n="numeral"/>
       </pattern>
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="numsem" case="caseFirstword">
+          <chunk name="numeral" case="caseFirstword">
             <tags>
               <tag><clip pos="1" side="sl" part="func"/></tag>
             </tags>
