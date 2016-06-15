@@ -418,6 +418,25 @@ Write comments to forthcoming rules before this line -->
   </match>
   </rule>
   
+<!--  báiki -->
+  <rule weight="1.0"> 
+    <match lemma="báiki" tags="n.*">
+      <select lemma="saje"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="báiki" tags="n.*">
+      <select lemma="päikki"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+    <match/> 
+    <match lemma="báiki" tags="n.*">
+      <select lemma="päikki"/>
+  </match>
+  </rule>
 
 <!-- ja -->
   <rule weight="1.0">
