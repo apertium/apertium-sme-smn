@@ -98,6 +98,7 @@
 <!-- AAAAA CHAPTER 1 The initial bidix - manually made in 2014 pluss october 2015, pluss placenames from Miina/Hannu November 2015   -->
     <!-- ASECTION: Conjunctions -->
     <e><p><l>ahte<s n="cnjcoo"/></l><r>et<s n="cnjcoo"/></r></p></e>
+    <e><p><l>vs<s n="cnjcoo"/></l><r>vs<s n="cnjcoo"/></r></p></e>    
     <e><p><l>dahje<s n="cnjcoo"/></l><r>teikkâ<s n="cnjcoo"/></r></p></e>
     <e><p><l>dahjege<s n="cnjcoo"/></l><r>teikkâ<s n="cnjcoo"/></r></p></e>
     <e><p><l>dehege<s n="cnjcoo"/></l><r>teikâ<s n="cnjcoo"/></r></p></e>
@@ -1128,7 +1129,8 @@
     
     <!-- ASECTION: Nouns --> 
 
-    <e><p><l>káfestallan<s n="n"/></l><r>káhvástâllâm<s n="n"/></r></p></e>
+    <e><p><l>ráppára<s n="n"/></l><r>räppäjeijee<s n="n"/></r></p></e>
+    <e><p><l>káfestallan<s n="n"/></l><r>káhvástâllâm<s n="n"/></r></p></e>    
     <e><p><l>ávkingeavaheapmi<s n="n"/></l><r>ävkkinanneem<s n="n"/></r></p></e>
     <e><p><l>bušeahttaárvalus<s n="n"/></l><r>budjetiävtuttâs<s n="n"/></r></p></e>
     <e><p><l>oktovuoigatvuohta<s n="n"/></l><r>ohtuuvuoigâdvuotâ<s n="n"/></r></p></e>
@@ -1137,7 +1139,8 @@
     <e><p><l>oassálastin<s n="n"/></l><r>uásálistem<s n="n"/></r></p></e>
     <e><p><l>dárkkisteaddji<s n="n"/></l><r>tärhisteijee<s n="n"/></r></p></e>
     <e><p><l>lágalašvuohta<s n="n"/></l><r>lavâlâšvuotâ<b/><s n="n"/></r></p></e>
-    <e><p><l>mearridanváldi<s n="n"/></l><r>meridemváldálâšvuotâ<s n="n"/></r></p></e>    <e><p><l>evangelium<s n="n"/></l><r>evangelium<s n="n"/></r></p></e>
+    <e><p><l>mearridanváldi<s n="n"/></l><r>meridemváldálâšvuotâ<s n="n"/></r></p></e>
+    <e><p><l>evangelium<s n="n"/></l><r>evangelium<s n="n"/></r></p></e>
     <e><p><l>dárkojeaddji<s n="n"/></l><r>tárkkojeijee<s n="n"/></r></p></e>
     <e><p><l>idea<s n="n"/></l><r>idea<s n="n"/></r></p></e>
     <e><p><l>detállja<s n="n"/></l><r>deetaalj<s n="n"/></r></p></e>
@@ -1371,7 +1374,8 @@
     <e><p><l>várresj<s n="n"/><s n="abbr"/></l><r>värisj<s n="n"/><s n="abbr"/></r></p></e>
     <e><p><l>vs<s n="adj"/><s n="abbr"/></l><r>vs<s n="adj"/><s n="abbr"/></r></p></e>
 
-    <e><p><l>bve<s n="n"/><s n="abbr"/></l><r>peivi<s n="n"/></r></p></e>
+    <!--    <e><p><l>bve<s n="n"/><s n="abbr"/></l><r>peivi<s n="n"/></r></p></e>-->
+    <e><p><l>bve<s n="adv"/><s n="abbr"/></l><r></r></p></e>	 
 
 
     <e><p><l>badjeskuvla<s n="n"/></l><r>paješkovlâ<s n="n"/></r></p></e>
@@ -2123,8 +2127,10 @@
     <e><p><l>milj<s n="num"/></l><r>milj<s n="num"/></r></p></e>
     <e><p><l>AHR<s n="n"/></l><r>AHR<s n="n"/></r></p></e>
     <e><p><l>DNA<s n="n"/></l><r>DNA<s n="n"/></r></p></e>
-    
+    <e><p><l>KTL<s n="n"/></l><r>KTL<s n="n"/></r></p></e>    
+    <e><p><l>St<s n="n"/></l><r>St<s n="n"/></r></p></e>    
 
+    
     <!-- ASECTION: sme-person names with two possible translations -->
     <e><p><l>Biera<s n="np"/></l><r>Biera<s n="np"/></r></p></e> 
     <e><p><l>Biera<s n="np"/></l><r>Pierâ<s n="np"/></r></p></e> 
@@ -2156,6 +2162,7 @@
     
     <!-- ASECTION: sme-person names x=x -->
     <e><p><l>Tást<s n="np"/></l><r>Tást<s n="np"/></r></p></e>
+    <e><p><l>Ara<s n="np"/></l><r>Ara<s n="np"/></r></p></e>    
     <e><p><l>Áigin<s n="np"/></l><r>Äigee<s n="np"/></r></p></e>
     <e><p><l>Lávra<s n="np"/></l><r>Lavri<s n="np"/></r></p></e>
     <e><p><l>Heandarat<s n="np"/></l><r>Heandarat<s n="np"/></r></p></e>
@@ -4047,6 +4054,7 @@
     <e><p><l>eaktudit<s n="vblex"/><s n="tv"/></l><r>vaattâđ<s n="vblex"/></r></p></e> 
     <e><p><l>ealašit<s n="vblex"/><s n="tv"/></l><r>elâččiđ<s n="vblex"/></r></p></e> 
     <e><p><l>ealáskit<s n="vblex"/><s n="iv"/></l><r>iäláskiđ<s n="vblex"/></r></p></e> 
+    <e><p><l>fertet<s n="vblex"/><s n="iv"/></l><r>kolgâđ<s n="vblex"/></r></p></e>
     <e><p><l>fertet<s n="vblex"/><s n="iv"/></l><r>ferttiđ<s n="vblex"/></r></p></e>
     <e><p><l>fuollat<s n="vblex"/><s n="tv"/></l><r>huollâđ<s n="vblex"/></r></p></e> 
     <e><p><l>fuomášahttit<s n="vblex"/><s n="tv"/></l><r>huámášittiđ<s n="vblex"/></r></p></e>
@@ -5492,7 +5500,6 @@
     <e><p><l>báhti<s n="n"/></l><r>pääti<s n="n"/></r></p></e>
     <e><p><l>báidi<s n="n"/></l><r>päiđi<s n="n"/></r></p></e>
     <e><p><l>báidnejaš<s n="n"/></l><r>peinijâš<s n="n"/></r></p></e>
-    <e><p><l>báiki<s n="n"/></l><r>päikki<s n="n"/></r></p></e>
     <e><p><l>báiki<s n="n"/></l><r>saje<s n="n"/></r></p></e>
     <e><p><l>báimman<s n="n"/></l><r>paaimân<s n="n"/></r></p></e>
     <e><p><l>báiski<s n="n"/></l><r>päiski<s n="n"/></r></p></e>
@@ -6451,6 +6458,7 @@
     <e><p><l>logaldallan<s n="n"/></l><r>luvâldâh<s n="n"/></r></p></e>
     <e><p><l>logijahki<s n="n"/></l><r>ihelohe<s n="n"/></r></p></e>
     <e><p><l>lohkanortnet<s n="n"/></l><r>luuhâmoornig<s n="n"/></r></p></e>
+    <e><p><l>gieđahallanortnet<s n="n"/></l><r>kieđâvuššâmoornig<s n="n"/></r></p></e>
     <e><p><l>lohkka<s n="n"/></l><r>lukkâ<s n="n"/></r></p></e>
     <e><p><l>lohkki<s n="n"/></l><r>lohhee<s n="n"/></r></p></e>
     <e><p><l>lohkki<s n="n"/></l><r>lokke<s n="n"/></r></p></e>
@@ -6852,7 +6860,7 @@
     <e><p><l>ovttadássásašvuohta<s n="n"/></l><r>täsiárvu<s n="n"/></r></p></e>
     <e><p><l>ovttamielalašvuohta<s n="n"/></l><r>oovtâmielâlâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>ovttaoaivilvuohta<s n="n"/></l><r>oovtâmielâlâšvuotâ<s n="n"/></r></p></e>
-    <e><p><l>ovttasbargu<s n="n"/></l><r>ovtâspargo<s n="n"/></r></p></e>
+    <e><p><l>ovttasbargu<s n="n"/></l><r>oovtâstpargo<s n="n"/></r></p></e>
     <e><p><l>ovttasorru<s n="n"/></l><r>ávuskyeimi<s n="n"/></r></p></e>
     <e><p><l>ovtteš<s n="n"/></l><r>oovtâš<s n="n"/></r></p></e>
     <e><p><l>ođas<s n="n"/></l><r>uuđâs<s n="n"/></r></p></e>
@@ -7542,6 +7550,7 @@
     <e><p><l>váldostivra<s n="n"/></l><r>váldustivrâ<s n="n"/></r></p></e>
     <e><p><l>váldoášši<s n="n"/><s n="g3"/></l><r>válduäšši<s n="n"/></r></p></e>
     <e><p><l>váldočálli<s n="n"/></l><r>uáivičällee<s n="n"/></r></p></e>
+    <e><p><l>skuvlenčálli<s n="n"/></l><r>škovlimčällee<s n="n"/></r></p></e>    
     <e><p><l>válgabadji<s n="n"/></l><r>vaaljâpaje<s n="n"/></r></p></e>
     <e><p><l>válgalávdegoddi<s n="n"/></l><r>vaaljalävdikodde<s n="n"/></r></p></e>
     <e><p><l>válljen<s n="n"/></l><r>valjim<s n="n"/></r></p></e>
