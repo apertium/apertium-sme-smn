@@ -1882,7 +1882,6 @@
     <e><p><l>mánná<s n="n"/></l><r>páárnáš<s n="n"/></r></p></e>
     <e><p><l>nektariidna<s n="n"/></l><r>nektariin<s n="n"/></r></p></e>
     <e><p><l>neuralgiija<s n="n"/></l><r>neuralgia<s n="n"/></r></p></e>
-    <e><p><l>ng<s n="n"/></l><r>nk<s n="n"/></r></p></e> <!-- abbr -->
     <e><p><l>nieida<s n="n"/></l><r>nieidâ<s n="n"/></r></p></e>
     <e><p><l>nigá<s n="n"/></l><r>tonttu<s n="n"/></r></p></e>
     <e><p><l>njealjejuvllat<s n="n"/></l><r>muávloo<s n="n"/></r></p></e>
@@ -2113,7 +2112,7 @@
 
     <!-- ASECTION: Abbreviations -->
     
-    <e><p><l>dmu<s n="adv"/></l><r>tme<s n="adv"/></r></p></e>
+    <e><p><l>dmu<s n="n"/></l><r>tme<s n="n"/></r></p></e>
     <e><p><l>dii<s n="adv"/></l><r>tme<s n="adv"/></r></p></e>
     <e><p><l>tel<s n="n"/></l><r>puh<s n="n"/></r></p></e>
     <e><p><l>gč<s n="vblex"/></l><r>k<s n="vblex"/></r></p></e>
@@ -7321,6 +7320,7 @@
     <e><p><l>sámegiella<s n="n"/></l><r>sämikielâ<s n="n"/></r></p></e>
     <e><p><l>sándil<s n="n"/></l><r>sendil<s n="n"/></r></p></e>
     <e><p><l>sápmelaš<s n="n"/></l><r>sämmilâš<s n="n"/></r></p></e>
+    <e><p><l>sápmelaš<s n="adj"/></l><r>sämmilâš<s n="adj"/></r></p></e>
     <e><p><l>sáppat<s n="n"/></l><r>steevvil<s n="n"/></r></p></e>
     <e><p><l>sárdi<s n="n"/></l><r>särgi<s n="n"/></r></p></e>
     <e><p><l>sárdni<s n="n"/></l><r>särni<s n="n"/></r></p></e>
@@ -55395,6 +55395,7 @@
     <e><p><l>YLE<s n="n"/><s n="acr"/></l><r>YLE<s n="n"/><s n="acr"/></r></p></e>    
 
     <e><p><l>SáDi<s n="n"/><s n="acr"/></l><r>SäTi<s n="n"/><s n="acr"/></r></p></e>    
+    <e><p><l>ro<s n="n"/><s n="acr"/></l><r>ry<s n="n"/><s n="acr"/></r></p></e>    
 
   </section> 
 
