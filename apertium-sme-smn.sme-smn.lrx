@@ -391,7 +391,7 @@ Write comments to forthcoming rules before this line -->
 
 
 <!-- maiddái -->
-  <rule weight="1.0">
+  <rule weight="1.0"> <!-- Oainnán du maiddái = meiddei -->
     <match lemma="maiddái" tags="adv.*">
       <select lemma="meiddei"/>
     </match> 
@@ -404,9 +404,29 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.6">
-    <match lemma="ja"/>
+    <match lemma="ja"/> <!-- Oainnán du ja maiddái su = ja sehe  -->
     <match lemma="maiddái" tags="adv.*">
       <select lemma="sehe"/>
+  </match>
+  </rule>
+  
+<!--  báiki -->
+  <rule weight="1.0"> 
+    <match lemma="báiki" tags="n.*">
+      <select lemma="saje"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="báiki" tags="n.*">
+      <select lemma="päikki"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+    <match/> 
+    <match lemma="báiki" tags="n.*">
+      <select lemma="päikki"/>
   </match>
   </rule>
 
