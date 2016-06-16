@@ -113,6 +113,7 @@
     <!-- ASECTION: Subjunctions -->
     <e><p><l>ahte<s n="cnjsub"/></l><r>et<s n="cnjsub"/></r></p></e>
     <e><p><l>daningo<s n="cnjsub"/></l><r>ko<s n="cnjsub"/></r></p></e>
+    <e><p><l>dasgo<s n="cnjsub"/></l><r>tastko<s n="cnjsub"/></r></p></e>
     <e><p><l>dego<s n="cnjsub"/></l><r>tegu<s n="cnjsub"/></r></p></e>
     <e><p><l>go<s n="cnjsub"/></l><r>ko<s n="cnjsub"/></r></p></e><!-- check-->
     <e><p><l>jos<s n="cnjsub"/></l><r>jis<s n="cnjsub"/></r></p></e>
@@ -1129,6 +1130,8 @@
     
     <!-- ASECTION: Nouns --> 
 
+    <e><p><l>riikkabeaivi<s n="n"/></l><r>ovdâskodde<s n="n"/></r></p></e>
+    <e><p><l>bargofápmu<s n="n"/></l><r>pargovyeimi<s n="n"/></r></p></e>
     <e><p><l>ráppára<s n="n"/></l><r>räppäjeijee<s n="n"/></r></p></e>
     <e><p><l>káfestallan<s n="n"/></l><r>káhvástâllâm<s n="n"/></r></p></e>    
     <e><p><l>ávkingeavaheapmi<s n="n"/></l><r>ävkkinanneem<s n="n"/></r></p></e>
@@ -6407,9 +6410,9 @@
     <e><p><l>lahpis<s n="n"/></l><r>suámsur<s n="n"/></r></p></e>
     <e><p><l>lahttu<s n="n"/></l><r>jeessân<s n="n"/></r></p></e>
     <e><p><l>laksi<s n="n"/></l><r>lapse<s n="n"/></r></p></e>
-    <e><p><l>lasiheapmi<s n="n"/></l><r>lasattâs<s n="n"/></r></p></e>
+    <e><p><l>lasiheapmi<s n="n"/></l><r>lasettem<s n="n"/></r></p></e>
     <e><p><l>lassi<s n="n"/></l><r>lase<s n="n"/></r></p></e>
-    <e><p><l>lassáneapmi<s n="n"/></l><r>lasattâs<s n="n"/></r></p></e>
+    <e><p><l>lassáneapmi<s n="n"/></l><r>lasanem<s n="n"/></r></p></e>
     <e><p><l>lasta<s n="n"/></l><r>lostâ<s n="n"/></r></p></e>
     <e><p><l>lasáhus<s n="n"/></l><r>lasattâs<s n="n"/></r></p></e>
     <e><p><l>latnja<s n="n"/></l><r>lonnjâ<s n="n"/></r></p></e>
@@ -7392,6 +7395,7 @@
     <e><p><l>ullobáidi<s n="n"/></l><r>tikkur<s n="n"/></r></p></e>
     <e><p><l>ullu<s n="n"/><s n="g3"/></l><r>ullo<s n="n"/></r></p></e>
     <e><p><l>universitehta<s n="n"/></l><r>ollâopâttâh<s n="n"/></r></p></e>
+    <e><p><l>allaoahpahat<s n="n"/></l><r>ollâopâttâh<s n="n"/></r></p></e>
     <e><p><l>unnitlogugiella<s n="n"/></l><r>ucceeblovokielâ<s n="n"/></r></p></e>
     <e><p><l>unnitlohku<s n="n"/></l><r>ucceebloho<s n="n"/></r></p></e>
     <e><p><l>urbi<s n="n"/></l><r>urbe<s n="n"/></r></p></e>
@@ -8324,6 +8328,7 @@
     <e><p><l>bargat<s n="vblex"/><s n="tv"/></l><r>toohâđ<s n="vblex"/></r></p></e>
     <e><p><l>bassaladdat<s n="vblex"/><s n="tv"/></l><r>posâlâddâđ<s n="vblex"/></r></p></e>
     <e><p><l>bassat<s n="vblex"/><s n="tv"/></l><r>poossâđ<s n="vblex"/></r></p></e>
+    <e><p><l>bassat<s n="vblex"/><s n="tv"/></l><r>posâluhčâđ<s n="vblex"/></r></p></e> <!-- Add lexical sel rule: Bassat biktasiid posâluhčâđ-->
     <e><p><l>batnit<s n="vblex"/><s n="tv"/></l><r>panneeđ<s n="vblex"/></r></p></e>
     <e><p><l>beahttit<s n="vblex"/><s n="tv"/></l><r>pettiđ<s n="vblex"/></r></p></e>
     <e><p><l>beaitalit<s n="vblex"/><s n="tv"/></l><r>lovdâččiđ<s n="vblex"/></r></p></e>
@@ -8802,7 +8807,7 @@
     <e><p><l>rávkat<s n="vblex"/><s n="tv"/></l><r>ravkkâđ<s n="vblex"/></r></p></e>
     <e><p><l>rávvet<s n="vblex"/><s n="tv"/></l><r>ravviđ<s n="vblex"/></r></p></e>
     <e><p><l>ráškalit<s n="vblex"/><s n="tv"/></l><r>teškâliđ<s n="vblex"/></r></p></e>
-    <e><p><l>ráđđet<s n="vblex"/><s n="tv"/></l><r>rađđiđ<s n="vblex"/></r></p></e>
+    <e><p><l>ráđđet<s n="vblex"/><s n="tv"/></l><r>haldâšiđ<s n="vblex"/></r></p></e>
     <e><p><l>ráđđidit<s n="vblex"/><s n="iv"/></l><r>räđidiđ<s n="vblex"/></r></p></e>
     <e><p><l>ráđđádallat<s n="vblex"/><s n="iv"/></l><r>ráđádâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>sallut<s n="vblex"/><s n="tv"/></l><r>salloođ<s n="vblex"/></r></p></e>
@@ -25126,7 +25131,6 @@
     <e><p><l>Ahvenlampi<s n="np"/></l><r>Ahvenlampi<s n="np"/></r></p></e>
     <e><p><l>Ahvenniemi<s n="np"/></l><r>Ahvenniemi<s n="np"/></r></p></e>
     <e><p><l>Ahvonen<s n="np"/></l><r>Ahvonen<s n="np"/></r></p></e>
-    <e><p><l>Ai<s n="np"/></l><r>Ai<s n="np"/></r></p></e>
     <e><p><l>Aias<s n="np"/></l><r>Aias<s n="np"/></r></p></e>
     <e><p><l>Aid<s n="np"/></l><r>Aid<s n="np"/></r></p></e>
     <e><p><l>Aida<s n="np"/></l><r>Aida<s n="np"/></r></p></e>
