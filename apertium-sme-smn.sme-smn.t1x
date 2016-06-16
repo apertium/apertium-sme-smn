@@ -23,6 +23,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-cat n="numsem">
       <cat-item tags="num.*"/>
     </def-cat>
+    <def-cat n="semyear">
+      <cat-item tags="*.sem_year.sg.*"/>
+    </def-cat>
     <def-cat n="adv_r">
       <cat-item tags="*.@←ADVL"/>
     </def-cat>
@@ -163,18 +166,15 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="n.pl.*"/>
       <cat-item tags="n.ess.*"/>
       <cat-item tags="np.*"/>
-      <cat-item tags="*.num.*.sg.*"/>
-      <cat-item tags="*.num.*.pl.*"/>
-      <cat-item tags="*.num.*.ess.*"/>
+      <cat-item tags="*.num.arab.sg.*"/>
+      <cat-item tags="*.num.arab.pl.*"/>
+      <cat-item tags="*.num.arab.ess.*"/>
       <cat-item tags="*.num.sg.*"/>
       <cat-item tags="*.num.pl.*"/>
       <cat-item tags="*.num.ess.*"/>
-      <cat-item tags="num.*.sg.*"/>
-      <cat-item tags="num.*.pl.*"/>
-      <cat-item tags="num.*.ess.*"/>
-      <cat-item tags="num.*.*.sg.*"/>
-      <cat-item tags="num.*.*.pl.*"/>
-      <cat-item tags="num.*.*.ess.*"/>
+      <cat-item tags="num.arab.sg.*"/>
+      <cat-item tags="num.arab.pl.*"/>
+      <cat-item tags="num.arab.ess.*"/>
       <cat-item tags="num.sg.*"/>
       <cat-item tags="num.pl.*"/>
       <cat-item tags="n.ess.*"/>
@@ -2596,6 +2596,35 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
       </action>
     </rule>
+
+   <rule comment="REGLA: year - 1 position in-out"> <!-- ive 2013 -->
+      <pattern>
+        <pattern-item n="semyear"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-1Param">
+          <with-param pos="1"/>
+        </call-macro>
+          <let><clip pos="1" side="tl" part="tags"/><lit-tag v="num.arab.sg.nom"/></let>
+                          <out>
+          <chunk name="num" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu>
+              <lit v="ihe"/>
+              <lit-tag v="n.sg.gen"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+ 
     <rule comment="REGLA: numcmp numerals n-sg to n-par = Son oastá 10-12 láibbi. Sun uástá 10-12 leibid.">
       <pattern>
         <pattern-item n="numcmp"/>
