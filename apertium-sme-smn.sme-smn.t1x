@@ -23,8 +23,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-cat n="numsem">
       <cat-item tags="num.*"/>
     </def-cat>
-    <def-cat n="semyear">
-      <cat-item tags="*.sem_year.sg.*"/>
+    <def-cat n="semyear-loc">
+      <cat-item tags="*.sem_year.sg.loc.*"/>
+      <cat-item tags="*.sem_year.sg.loc"/>
     </def-cat>
     <def-cat n="adv_r">
       <cat-item tags="*.@←ADVL"/>
@@ -2599,7 +2600,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
    <rule comment="REGLA: year - 1 position in-out"> <!-- ive 2013 -->
       <pattern>
-        <pattern-item n="semyear"/>
+        <pattern-item n="semyear-loc"/>
       </pattern>
       <action>
         <call-macro n="general-macro-1Param">
