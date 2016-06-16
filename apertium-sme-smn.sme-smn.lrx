@@ -432,10 +432,14 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.6">
-    <match/> 
     <match lemma="báiki" tags="n.*">
       <select lemma="päikki"/>
   </match>
+  <or>
+  	<match tags="np.sem_plc.*"/>
+	<match tags="np.*.sem_plc.*"/>
+	<match tags="np.top.*"/>
+	</or>
   </rule>
 
 <!-- ja -->
