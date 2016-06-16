@@ -192,6 +192,34 @@ Write comments to forthcoming rules before this line -->
     </match>
     <match lemma="ge" tags="pcle.*"/>
   </rule>
+  
+  <!--bassat-->
+   <rule weight="1.0">
+    <match lemma="bassat" tags="vblex.*">
+      <select lemma="poossâđ" tags="vblex.*"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="bassat" tags="vblex.*">
+      <select lemma="posâluhčâđ" tags="vblex.*"/>
+    </match>
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="bassat" tags="vblex.*">
+      <select lemma="posâluhčâđ" tags="vblex.*"/>
+    </match>
+    <match lemma="bivttas" tags="n.*"/>
+  </rule>
+  
+  <rule weight="0.6">
+    <match lemma="bassat" tags="vblex.*">
+      <select lemma="posâluhčâđ" tags="vblex.*"/>
+    </match>
+    <match/>
+    <match lemma="bivttas" tags="n.*"/>
+  </rule>
 
 <!-- oarjjás --> 
     <rule weight="1.0">
