@@ -20,6 +20,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item lemma="gii" tags="prn.ind.*"/>
       <cat-item lemma="mii" tags="prn.ind.*"/>
     </def-cat>
+    <def-cat n="prn-dem-sg">
+      <cat-item tags="prn.dem.sg.*"/>
+    </def-cat>
     <def-cat n="numsem">
       <cat-item tags="num.*"/>
     </def-cat>
@@ -2712,6 +2715,54 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
       </action>
     </rule>
+
+    <rule comment="REGLA: dem numsg noun - 3 positions out"> <!-- Mun vááldám täid kulmâ kirje. -->
+      <pattern>
+        <pattern-item n="prn-dem-sg"/>
+        <pattern-item n="numerals"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>     
+     <choose><when>
+     <test><equal><clip pos="2" side="sl" part="a_func"/><lit-tag v="@→N"/></equal></test>
+         <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
+         </when>
+        <otherwise>
+         <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="3"/><with-param pos="2"/></call-macro>
+        </otherwise>
+     </choose>
+
+     <choose>
+     <when>
+     <test>
+     <not><equal><clip pos="2" side="sl" part="lem"/><lit v="okta"/></equal></not>
+     </test>
+          <let><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="pl"/></let>
+          <let><clip pos="1" side="tl" part="a_attr"/><lit v=""/></let>
+          </when>
+          </choose>
+       <out>
+          <chunk name="noun" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+              <lu>
+                <clip pos="1" side="tl" part="whole"/>
+              </lu>
+              <b/>
+              <lu>
+                <clip pos="2" side="tl" part="whole"/>
+              </lu>
+              <b/>
+              <lu>
+                <clip pos="3" side="tl" part="whole"/>
+              </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: num-nomacc adv attr n-sg to n-par"> <!--  Mus leat čieža hui njálgga láibbi. , does not function  -->
       <pattern>
