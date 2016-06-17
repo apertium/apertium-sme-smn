@@ -68,6 +68,8 @@ Write comments to forthcoming rules before this line -->
     <match lemma="fertet" tags="vblex.*"><select lemma="ferttiđ" tags="vblex.*"/></match>
   </rule>
 
+
+
   <!-- sápmi -->
   <rule weight="1.0">
     <match lemma="sápmi" tags="n.*">
