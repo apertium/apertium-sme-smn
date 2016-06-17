@@ -339,6 +339,7 @@
     <e><p><l>iešguđet<b/>láhkai<s n="adv"/></l><r>eresnáál<s n="adv"/></r></p></e>
     <e><p><l>máŋgga<b/>láhkai<s n="adv"/></l><r>maaŋgânáál<s n="adv"/></r></p></e> 
     <e><p><l>oanehaččat<s n="adv"/></l><r>uánihávt<s n="adv"/></r></p></e>
+    <e><p><l>degomat<s n="adv"/></l><r>tego<s n="pcle"/></r></p></e>
     <e><p><l>ainjuo<s n="adv"/></l><r>aainâs<s n="adv"/></r></p></e>
     <e><p><l>lávga<s n="adv"/></l><r>lavvâ<s n="adv"/></r></p></e>
     <e><p><l>vuollil<s n="adv"/></l><r>vuálá<s n="adv"/></r></p></e>
@@ -1129,8 +1130,10 @@
 
     
     <!-- ASECTION: Nouns --> 
+    <e><p><l>áššealmmái<s n="n"/></l><r>äššialmai<s n="n"/></r></p></e>
     <e><p><l>meađđen<s n="n"/></l><r>meini<s n="n"/></r></p></e>
     <e><p><l>riikkabeaivi<s n="n"/></l><r>ovdâskodde<s n="n"/></r></p></e>
+    <e><p><l>káhtekismmos<s n="n"/></l><r>katkismus<s n="n"/></r></p></e>
     <e><p><l>bargofápmu<s n="n"/></l><r>pargovyeimi<s n="n"/></r></p></e>
     <e><p><l>ráppára<s n="n"/></l><r>räppäjeijee<s n="n"/></r></p></e>
     <e><p><l>káfestallan<s n="n"/></l><r>káhvástâllâm<s n="n"/></r></p></e> 
@@ -1256,6 +1259,7 @@
     <e><p><l>bargobádji<s n="n"/></l><r>pargopáájá<s n="n"/></r></p></e>
     <e><p><l>láhkaásaheapmi<s n="n"/></l><r>lahâasâttem<s n="n"/></r></p></e>
     <e><p><l>hávdádus<s n="n"/><s n="sg"/></l><r>havdajááh<s n="n"/><s n="pl"/></r></p></e>
+    <e><p><l>hávdádus<s n="n"/><s n="pl"/></l><r>havdajááh<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>vihaheapmi<s n="n"/></l><r>vihkâm<s n="n"/></r></p></e>
     <e><p><l>čatnasupmi<s n="n"/></l><r>čonnâsem<s n="n"/></r></p></e> 
     <e><p><l>mihcamarbeaivi<s n="n"/></l><r>jonsahpeivi<s n="n"/></r></p></e>
@@ -3842,6 +3846,7 @@
 
     <!-- ASECTION: Verbs -->
     <e><p><l>koordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
+    <e><p><l>ođadit<s n="vblex"/><s n="tv"/></l><r>uđâsmiđ<s n="vblex"/></r></p></e>
     <e><p><l>bálkkašit<s n="vblex"/><s n="tv"/></l><r>palhâšiđ<s n="vblex"/></r></p></e>
     <e><p><l>vuosttaldit<s n="vblex"/><s n="tv"/></l><r>vyestilistiđ<s n="vblex"/></r></p></e>
     <e><p><l>goahcat<s n="vblex"/><s n="tv"/></l><r>kooccâđ<s n="vblex"/></r></p></e>
