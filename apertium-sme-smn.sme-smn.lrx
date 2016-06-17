@@ -643,40 +643,6 @@ Write comments to forthcoming rules before this line -->
     </match>
   </rule>
 
-  <rule weight="0.5">
-    <match lemma="bargat">
-      <select lemma="toohâđ"/>
-    </match> 
-  </rule>
-
-  <rule weight="0.6">
-   <match tags="*.*.*.acc.*"/>
-   <match lemma="bargat" tags="vblex.*">
-      <select lemma="toohâđ" tags="vblex.*"/>
-    </match>
-  </rule>
-
-  <rule weight="0.6">
-   <match lemma="bargat">
-      <select lemma="toohâđ"/>
-    </match>
-    <or>
-   <match tags="*.*.*.acc.*"/>
-   <match tags="*.*.acc.*"/>
-   </or>
-   </rule>
-
-  <rule weight="0.6">
-   <match lemma="bargat">
-      <select lemma="toohâđ"/>
-    </match>
-   <match tags="*.*.*.gen.*"/>
-    <or>
-      <match tags="*.*.*.acc.*"/>
-      <match tags="*.*.acc.*"/>
-   </or>
-   </rule>
-
 
 
 <!-- árbi -->
