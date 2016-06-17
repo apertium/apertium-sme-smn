@@ -26,6 +26,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-cat n="numsem">
       <cat-item tags="num.*"/>
     </def-cat>
+    <def-cat n="semyear">
+      <cat-item tags="*.sem_year.*"/>
+    </def-cat>
     <def-cat n="semyear-loc">
       <cat-item tags="*.sem_year.sg.loc.*"/>
       <cat-item tags="*.sem_year.sg.loc"/>
@@ -234,6 +237,10 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="num.arab.sg.attr.*"/>
       <cat-item tags="num.sg.*.attr.*"/>
       <cat-item tags="num.sg.attr.*"/>
+    </def-cat>
+     <def-cat n="jagis">
+      <cat-item lemma="jahki" tags="n.*.sg.loc.*"/>
+      <cat-item lemma="jahki" tags="n.sg.loc.*"/>
     </def-cat>
      <def-cat n="jagi">
       <cat-item lemma="jahki" tags="n.*.sg.gen.*"/>
@@ -2623,6 +2630,32 @@ t5x move foc_tag from wordfoc chunk to the word inside
             <b/>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+   <rule comment="REGLA: year - 2 position in-out"> <!-- ive 2013 -->
+      <pattern>
+        <pattern-item n="jagis"/>
+        <pattern-item n="semyear"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
+            <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="gen"/></let>
+         <let><clip pos="2" side="tl" part="tags"/><lit-tag v="num.arab.sg.nom"/></let>
+                          <out>
+          <chunk name="num" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
