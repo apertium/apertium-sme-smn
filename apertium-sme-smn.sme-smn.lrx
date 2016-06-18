@@ -55,17 +55,18 @@ Write comments to forthcoming rules before this line -->
   <rule weight="0.5"><match lemma="mánáidmánná" tags="n.*"><select lemma="áijuh"/></match></rule>
   <rule weight="0.6"><match tags="np.ant.m.*"/><match lemma="mánáidmánná" tags="n.*"><select lemma="áijuh"/></match></rule> <!-- Pierâ áijuheh -->
 
- <!-- fertet -->
+ <!-- loaktit -->
   <rule weight="1.0">
-    <match lemma="fertet" tags="vblex.*"><select lemma="kolgâđ" tags="vblex.*"/></match>
+    <match lemma="loaktit" tags="vblex.*"><select lemma="makkuđ" tags="vblex.*"/></match>
   </rule>
-
+  
   <rule weight="0.5">
-    <match lemma="fertet" tags="vblex.*"><select lemma="ferttiđ" tags="vblex.*"/></match>
+    <match lemma="loaktit" tags="vblex.*"><select lemma="kulâttiđ" tags="vblex.*"/></match>
   </rule>
 
   <rule weight="0.6">
-    <match lemma="fertet" tags="vblex.*"><select lemma="ferttiđ" tags="vblex.*"/></match>
+    <match lemma="loaktit" tags="vblex.*"><select lemma="kulâttiđ" tags="vblex.*"/></match>
+    <match tags="*.*.acc.*"/>
   </rule>
 
 
@@ -291,7 +292,7 @@ Write comments to forthcoming rules before this line -->
     </match>
   </rule>
 
-<!-- mielde -->
+<!-- mielde post -->
   <rule weight="1.0">
     <match lemma="mielde" tags="post.*">
       <select lemma="mield"/>
@@ -323,7 +324,7 @@ Write comments to forthcoming rules before this line -->
 
   <rule weight="0.5">
     <match lemma="mielde" tags="post.*">
-      <select lemma="mield"/> <!-- fáárust -->
+      <select lemma="fáárust"/> <!-- mielde -->
     </match> 
   </rule>
 
@@ -343,6 +344,7 @@ Write comments to forthcoming rules before this line -->
     </match>
   </rule>
 
+<!-- mielde adv -->
   <rule weight="1.0">
     <match lemma="mielde" tags="adv.*">
       <select lemma="fáárust"/>
@@ -367,6 +369,7 @@ Write comments to forthcoming rules before this line -->
       <select lemma="mield"/>
     </match>
   </rule>
+
 
 <!-- jándor -->
   <rule weight="1.0">
