@@ -41,7 +41,6 @@ dev/sanityoutput.noun -text
 dev/sanityoutput.verb -text
 dev/script_csv2bidix.pl -text
 dev/sme_FI.A.noder.missing -text
-dev/sme_FI.Adv.missing -text
 dev/sme_FI.N.nocmp.missing -text
 dev/sme_FI.Pron.missing -text
 dev/sme_FI.V.noder.missing -text
