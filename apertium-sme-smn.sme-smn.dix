@@ -1124,6 +1124,7 @@
 
     
     <!-- ASECTION: Nouns --> 
+    <e><p><l>rissi<s n="n"/></l><r>risse<s n="n"/></r></p></e>
     <e><p><l>áššealmmái<s n="n"/></l><r>äššialmai<s n="n"/></r></p></e>
     <e><p><l>meađđen<s n="n"/></l><r>meini<s n="n"/></r></p></e>
     <e><p><l>riikkabeaivi<s n="n"/></l><r>ovdâskodde<s n="n"/></r></p></e>
@@ -3830,6 +3831,9 @@
 
 
     <!-- ASECTION: Verbs -->
+    <e><p><l>rišidit<s n="vblex"/><s n="iv"/></l><r>rusádiđ<s n="vblex"/></r></p></e>
+    <e><p><l>savdadit<s n="vblex"/><s n="iv"/></l><r>riškáttâllâđ<s n="vblex"/></r></p></e>
+    <e><p><l>jorgut<s n="vblex"/><s n="tv"/></l><r>jorgođ<s n="vblex"/></r></p></e>
     <e><p><l>koordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
     <e><p><l>ođadit<s n="vblex"/><s n="tv"/></l><r>uđâsmiđ<s n="vblex"/></r></p></e>
     <e><p><l>bálkkašit<s n="vblex"/><s n="tv"/></l><r>palhâšiđ<s n="vblex"/></r></p></e>
