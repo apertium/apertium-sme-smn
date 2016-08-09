@@ -51,6 +51,7 @@
     <sdef n="foc_pa"      c="clitic pa"/>
     <sdef n="foc_kis"      c="clitic kis"/>
     <sdef n="foc_kas"      c="clitic kas"/>
+    <sdef n="der_pass"      c="clitic kas"/>
 
     <sdef n="pers"     c="Personal"/>
     <sdef n="itg"      c="Interrogative"/>
@@ -315,7 +316,7 @@
     <!-- ASECTION: Particles -->
 
     <e><p><l>ba<s n="pcle"/></l><r>ba<s n="foc_ba"/></r></p></e>
-    <e><p><l>amma<s n="pcle"/></l><r>ama<s n="foc_ba"/></r></p></e>
+    <e><p><l>amma<s n="pcle"/></l><r>ama<s n="pcle"/></r></p></e>
     <e><p><l>bat<s n="pcle"/></l><r>ba<s n="foc_ba"/></r></p></e>
     <e><p><l>ge<s n="pcle"/></l><r>-uv<s n="foc_uv"/></r></p></e>
     <e><p><l>ge<s n="pcle"/></l><r>ge<s n="foc_ge"/></r></p></e>
@@ -707,7 +708,7 @@
     <e><p><l>friijahápmásaš<s n="adj"/></l><r>rijjâhámásâš<s n="adj"/></r></p></e>
     <e><p><l>eahpedievaslaš<s n="adj"/></l><r>epitievâslâš<s n="adj"/></r></p></e>
     <e><p><l>vádjitválddálaš<s n="adj"/></l><r>vááijuvváldálâš<s n="adj"/></r></p></e>
-    <e><p><l>eatnigiel<s n="adj"/></l><r>eenikiel<s n="adj"/></r></p></e>
+	<e><p><l>eatnigiel<s n="adj"/></l><r>eenikiel<s n="adj"/></r></p></e>
     <e><p><l>eatnigielat<s n="adj"/></l><r>eenikielâlâš<s n="adj"/></r></p></e>
     <e><p><l>golmmagielat<s n="adj"/></l><r>kulmâkielâlâš<s n="adj"/></r></p></e>
     <e><p><l>anársámegiel<s n="adj"/></l><r>anarâškiel<s n="adj"/></r></p></e>
@@ -750,7 +751,7 @@
     <e><p><l>sieiva<s n="adj"/></l><r>sieivâ<s n="adj"/></r></p></e>
     <e><p><l>primitiiva<s n="adj"/></l><r>primitiivlâš<s n="adj"/></r></p></e>
     <e><p><l>cealkemeahttun<s n="adj"/></l><r>etâmettum<s n="adj"/></r></p></e>
-    <e><p><l>bás<s n="adj"/></l><r>uccâ<s n="adj"/></r></p></e>
+    <e><p><l>bás<s n="adj"/></l><r>ucce<s n="adj"/></r></p></e>
     <e><p><l>rántui<s n="adj"/></l><r>ranttu<s n="adj"/></r></p></e>
     <e><p><l>ránto<s n="adj"/></l><r>ranttu<s n="adj"/></r></p></e>
     <e><p><l>gudneáŋgir<s n="adj"/></l><r>kunneeäŋgir<s n="adj"/></r></p></e>
@@ -826,7 +827,7 @@
     <e><p><l>deaivil<s n="adj"/></l><r>teivil<s n="adj"/></r></p></e>
     <e><p><l>dearvvašlaš<s n="adj"/></l><r>tiervâslâš<s n="adj"/></r></p></e>
     <e><p><l>deattoheapme<s n="adj"/></l><r>tiäduttem<s n="adj"/></r></p></e>
-    <e><p><l>diehtemeahttun<s n="adj"/></l><r>tietimáttum<s n="adj"/></r></p></e>
+    <e><p><l>diehtemeahttun<s n="adj"/></l><r>tietimettum<s n="adj"/></r></p></e>
     <e><p><l>diimmá<s n="adj"/></l><r>tiijmá<s n="adj"/></r></p></e>
     <e><p><l>diimmá<s n="adj"/></l><r>tiijmáš<s n="adj"/></r></p></e>
     <e><p><l>diimmáš<s n="adj"/></l><r>tiijmáš<s n="adj"/></r></p></e>
@@ -1470,7 +1471,7 @@
     <e><p><l>árvvusatnin<s n="n"/></l><r>áárvustanneem<s n="n"/></r></p></e>
     <e><p><l>tulkon<s n="n"/></l><r>tulkkum<s n="n"/></r></p></e>
     <e><p><l>bálges<s n="n"/></l><r>paalgâs<s n="n"/></r></p></e>
-    <e><p><l>ng.<s n="adj"/></l><r>nk.<s n="adj"/></r></p></e>
+    <e><p><l>ng<s n="adj"/></l><r>nk<s n="adj"/></r></p></e>
     <e><p><l>kongreassa<s n="n"/></l><r>kongres<s n="n"/></r></p></e>
     <e><p><l>kommeanta<s n="n"/></l><r>komment<s n="n"/></r></p></e>
     <e><p><l>parlamentarihkkár<s n="n"/></l><r>parlamentarik<s n="n"/></r></p></e>
@@ -1482,7 +1483,6 @@
     <e><p><l>liŋka<s n="n"/></l><r>liŋkkâ<s n="n"/></r></p></e>
     <e><p><l>vuolláičálli<s n="n"/></l><r>vuáláčällee<s n="n"/></r></p></e>
     <e><p><l>journalisma<s n="n"/></l><r>journalism<s n="n"/></r></p></e>
-    <e><p><l>easka<s n="n"/></l><r>eskân<s n="n"/></r></p></e>
     <e><p><l>earáhuhttin<s n="n"/></l><r>nubásmittem<s n="n"/></r></p></e>
     <e><p><l>nr<s n="n"/></l><r>nr<s n="n"/></r></p></e>
     <e><p><l>áššenr<s n="n"/></l><r>äššinr<s n="n"/></r></p></e>
@@ -1569,7 +1569,7 @@
     <e><p><l>D-vitamiidna<s n="n"/></l><r>D-vitamiin<s n="n"/></r></p></e>
     <e><p><l>EU-politihkka<s n="n"/></l><r>EU-politiik<s n="n"/></r></p></e>
     <e><p><l>Fránska<s n="n"/></l><r>Ranska<s n="n"/></r></p></e>
-    <e><p><l>Gárjil<s n="n"/></l><r>Kärjil<s n="n"/></r></p></e>
+    <e><p><l>Gárjil<s n="np"/></l><r>Kärjil<s n="np"/></r></p></e>
     <e><p><l>Hollánda<s n="n"/></l><r>Holland<s n="n"/></r></p></e>
     <e><p><l>IT-politihkka<s n="n"/></l><r>IT-politiik<s n="n"/></r></p></e>
     <e><p><l>IT-strategiija<s n="n"/></l><r>IT-strategia<s n="n"/></r></p></e>
@@ -4023,7 +4023,7 @@
     <e><p><l>biehkut<s n="vblex"/><s n="iv"/></l><r>piähuđ<s n="vblex"/></r></p></e>
     <e><p><l>bieđganit<s n="vblex"/><s n="iv"/></l><r>pieđgâniđ<s n="vblex"/></r></p></e> 
     <e><p><l>boahtit<s n="vblex"/><s n="iv"/></l><r>puáttiđ<s n="vblex"/></r></p></e>
-    <e><p><l>boarásmuvvat<s n="vblex"/><s n="iv"/></l><r>puárásmuđ<s n="vblex"/></r></p></e> 
+    <e><p><l>boarásmuvvat<s n="vblex"/><s n="iv"/></l><r>puárásmiđ<s n="vblex"/><s n="der_pass"/><s n="vblex"/><s n="iv"/></r></p></e> 
     <e><p><l>bohciidit<s n="vblex"/><s n="iv"/></l><r>šoddâđ<s n="vblex"/></r></p></e> 
     <e><p><l>bohtanit<s n="vblex"/><s n="iv"/></l><r>puttâniđ<s n="vblex"/></r></p></e> 
     <e><p><l>borrat<s n="vblex"/><s n="tv"/></l><r>puurrâđ<s n="vblex"/></r></p></e>
@@ -4236,6 +4236,7 @@
     <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
     <e><p><l>"<s n="quot"/></l><r>"<s n="quot"/></r></p></e>
     <e><re>[0-9]+([:'\-–—/  .,][0-9]+)*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[A-Z]+([., \-–]+[0-9]+)*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><re>[IVXLMC]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
    
 
@@ -6455,7 +6456,6 @@
     <e><p><l>logaldallan<s n="n"/></l><r>luvâldâh<s n="n"/></r></p></e>
     <e><p><l>logijahki<s n="n"/></l><r>ihelohe<s n="n"/></r></p></e>
     <e><p><l>lohkanortnet<s n="n"/></l><r>luuhâmoornig<s n="n"/></r></p></e>
-    <e><p><l>gieđahallanortnet<s n="n"/></l><r>kieđâvuššâmoornig<s n="n"/></r></p></e>
     <e><p><l>lohkka<s n="n"/></l><r>lukkâ<s n="n"/></r></p></e>
     <e><p><l>lohkki<s n="n"/></l><r>lohhee<s n="n"/></r></p></e>
     <e><p><l>lohkki<s n="n"/></l><r>lokke<s n="n"/></r></p></e>
@@ -7787,7 +7787,7 @@
     <e><p><l>galle<s n="num"/></l><r>kalle<s n="num"/></r></p></e>
     <e><p><l>gávccilogi<s n="num"/></l><r>kähcilov<s n="num"/></r></p></e>
     <e><p><l>miljovdna<s n="num"/></l><r>miljovn<s n="num"/></r></p></e>
-    <e><p><l>miljárda<s n="num"/></l><r>miljard<s n="num"/></r></p></e>
+    <e><p><l>miljárda<s n="num"/></l><r>miljard<s n="n"/></r></p></e>
     <e><p><l>čiežalogi<s n="num"/></l><r>čiččâmlov<s n="num"/></r></p></e>
     <e><p><l>beannot<s n="num"/></l><r>pelnub<s n="num"/></r></p></e>
     <e><p><l>moadde<s n="num"/></l><r>muáddi<s n="num"/></r></p></e>
@@ -7852,7 +7852,7 @@
     <e><p><l>oččodit<s n="vblex"/><s n="tv"/></l><r>viggâđ<s n="vblex"/></r></p></e>
     <e><p><l>konsulteret<s n="vblex"/><s n="tv"/></l><r>konsulteeriđ<s n="vblex"/></r></p></e>
     <e><p><l>adopteret<s n="vblex"/><s n="tv"/></l><r>adoptistiđ<s n="vblex"/></r></p></e>
-    <e><p><l>agáiduvvat<s n="vblex"/><s n="iv"/></l><r>eliluđ<s n="vblex"/></r></p></e>
+    <e><p><l>agáiduvvat<s n="vblex"/><s n="iv"/></l><r>eliliđ<s n="vblex"/><s n="der_pass"/><s n="vblex"/><s n="iv"/></r></p></e>
     <e><p><l>aiddostahttit<s n="vblex"/><s n="tv"/></l><r>tärkkilistiđ<s n="vblex"/></r></p></e>
     <e><p><l>albmadit<s n="vblex"/><s n="tv"/></l><r>kuoddâliđ<s n="vblex"/></r></p></e>
     <e><p><l>allánaddat<s n="vblex"/><s n="iv"/></l><r>alanâddâđ<s n="vblex"/></r></p></e>
@@ -9139,7 +9139,7 @@
     <e><p><l>árjjalaš<s n="adj"/></l><r>iäljár<s n="adj"/></r></p></e>
     <e><p><l>vuoras<s n="adj"/></l><r>vuorâs<s n="adj"/></r></p></e>
     <e><p><l>rávis<s n="adj"/></l><r>räävis<s n="adj"/></r></p></e>
-    <e><p><l>dákkáraš<s n="adj"/></l><r>tággáár<s n="adj"/></r></p></e>
+    <e><p><l>dákkáraš<s n="adj"/></l><r>tággáár<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>gurut<s n="adj"/></l><r>čižet<s n="adj"/></r></p></e>
     <e><p><l>olgeš<s n="adj"/></l><r>uálgis<s n="adj"/></r></p></e>
     <e><p><l>vuoiggalaš<s n="adj"/></l><r>vuoigâlâš<s n="adj"/></r></p></e>
@@ -9214,7 +9214,7 @@
     <e><p><l>álbmái<s n="adj"/></l><r>áppáá<s n="adj"/></r></p></e>
     <e><p><l>álbmái<s n="adj"/></l><r>ápálâš<s n="adj"/></r></p></e>
     <e><p><l>ipmirdahtti<s n="adj"/></l><r>iberdettee<s n="adj"/></r></p></e>
-    <e><p><l>diekkáraš<s n="adj"/></l><r>tieggáár<s n="adj"/></r></p></e>
+    <e><p><l>diekkáraš<s n="adj"/></l><r>tieggáár<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>diekkáraš<s n="prn"/></l><r>tieggáár<s n="prn"/></r></p></e>
     <e><p><l>álás<s n="adj"/></l><r>pääljis<s n="adj"/></r></p></e>
     <e><p><l>namaheapme<s n="adj"/></l><r>nomâttem<s n="adj"/></r></p></e>
