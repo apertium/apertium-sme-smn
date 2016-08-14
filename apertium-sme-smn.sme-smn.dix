@@ -335,6 +335,8 @@
 
 
     <!-- ASECTION: Adverbs -->
+    
+    <e><p><l>dárkilit<s n="adv"/></l><r>tárkká<s n="adv"/></r></p></e>
     <e><p><l>dienu<s n="adv"/></l><r>tienuuvt<s n="adv"/></r></p></e>
     <e><p><l>albma<b/>láhkai<s n="adv"/></l><r>olmânáál<s n="adv"/></r></p></e>
     <e><p><l>iešguđet<b/>láhkai<s n="adv"/></l><r>eresnáál<s n="adv"/></r></p></e>
@@ -845,7 +847,7 @@
     <e><p><l>dálá<s n="adj"/></l><r>tááláš<s n="adj"/></r></p></e>
     <e><p><l>dánsullasaš<s n="adj"/></l><r>taansullâsâš<s n="adj"/></r></p></e>
     <e><p><l>dánsullasaš<s n="adj"/></l><r>taantiijpâlâš<s n="adj"/></r></p></e>
-    <e><p><l>dárkil<s n="adj"/></l><r>tärkkil<s n="adj"/></r></p></e>
+    <e><p><l>dárkil<s n="adj"/></l><r>tärkki<s n="adj"/></r></p></e>
     <e><p><l>dássit<s n="adj"/></l><r>täässiv<s n="adj"/></r></p></e>
     <e><p><l>eahpedemokráhtalaš<s n="adj"/></l><r>epidemokraatlâš<s n="adj"/></r></p></e>
     <e><p><l>eahpedieđalaš<s n="adj"/></l><r>epitieđâlâš<s n="adj"/></r></p></e>
@@ -1125,6 +1127,7 @@
 
     
     <!-- ASECTION: Nouns --> 
+    <e><p><l>hástálus<s n="n"/></l><r>hástu<s n="n"/></r></p></e>
     <e><p><l>Kulturruhtarádju<s n="n"/></l><r>Kulttuurruttârááju<s n="n"/></r></p></e>
     <e><p><l>ruhtadeaddji<s n="n"/></l><r>ruttâdeijee<s n="n"/></r></p></e>
     <e><p><l>rissi<s n="n"/></l><r>risse<s n="n"/></r></p></e>
@@ -6824,7 +6827,7 @@
     <e><p><l>olgoriika<s n="n"/></l><r>olgoeennâm<s n="n"/></r></p></e>
     <e><p><l>olgouksa<s n="n"/></l><r>olgouksâ<s n="n"/></r></p></e>
     <e><p><l>olju<s n="n"/></l><r>oljo<s n="n"/></r></p></e>
-    <e><p><l>ollesolmmoš<s n="n"/></l><r>olesolmooš<s n="n"/></r></p></e>
+    <e><p><l>ollesolmmoš<s n="n"/></l><r>rävisolmooš<s n="n"/></r></p></e>
     <e><p><l>ollesčoahkkin<s n="n"/></l><r>tievâsčuákkim<s n="n"/></r></p></e>
     <e><p><l>ollisvuohta<s n="n"/></l><r>ubâlâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>olmmoš<s n="n"/></l><r>olmooš<s n="n"/></r></p></e>
