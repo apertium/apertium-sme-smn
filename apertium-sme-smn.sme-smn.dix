@@ -688,6 +688,11 @@
     <!-- ASECTION: Adjectives -->
 
     <e><p><l>vuoigatvuođalaš<s n="adj"/></l><r>vuoigâdvuođâlâš<s n="adj"/></r></p></e>    
+    <e><p><l>temáhtalaš<s n="adj"/></l><r>teemaatlâš<s n="adj"/></r></p></e>    
+    <e><p><l>searválas<s n="adj"/></l><r>viärmádâhlâš<s n="adj"/></r></p></e>    
+    <e><p><l>psykososiála<s n="adj"/></l><r>psykososiaallâš<s n="adj"/></r></p></e>    
+    <e><p><l>seammanammasaš<s n="adj"/></l><r>siämmáánommâsâš<s n="adj"/></r></p></e>    
+    <e><p><l>máŋggadoaimmat<s n="adj"/></l><r>maaŋgâtoimâlâš<s n="adj"/></r></p></e>    
     <e><p><l>kultursensitiivvalaš<s n="adj"/></l><r>kulttuursensitiivlâš<s n="adj"/></r></p></e>    
     <e><p><l>milliibáhcci<s n="adj"/></l><r>mieláidpäccee<s n="adj"/></r></p></e>
     <e><p><l>láhkaásahuslaš<s n="adj"/></l><r>lahâaasâtlâš<s n="adj"/></r></p></e>
@@ -942,6 +947,7 @@
     <e><p><l>konservatiivvalaš<s n="adj"/></l><r>konservativlâš<s n="adj"/></r></p></e>
     <e><p><l>konstruktiiva<s n="adj"/></l><r>konstruktiivlâš<s n="adj"/></r></p></e>
     <e><p><l>kultuvrralaš<s n="adj"/></l><r>kulttuurlâš<s n="adj"/></r></p></e>
+    <e><p><l>kulturlaš<s n="adj"/></l><r>kulttuurlâš<s n="adj"/></r></p></e>
     <e><p><l>kursiiva<s n="adj"/></l><r>kursiiv<s n="adj"/></r></p></e>
     <e><p><l>lappalaš<s n="adj"/></l><r>lappalâš<s n="adj"/></r></p></e>
     <e><p><l>leabuheapme<s n="adj"/></l><r>liävuttem<s n="adj"/></r></p></e>
@@ -1130,6 +1136,8 @@
     
     <e><p><l>gávnnus<s n="n"/></l><r>kavnâm<s n="n"/></r></p></e>
     <e><p><l>turista<s n="n"/></l><r>tuuriist<s n="n"/></r></p></e>
+    <e><p><l>šelggon<s n="n"/></l><r>širottâs<s n="n"/></r></p></e>
+    <e><p><l>diđolašvuohta<s n="n"/></l><r>tiäđulâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>bázahus<s n="n"/></l><r>pasâttâs<s n="n"/></r></p></e>
     <e><p><l>hástálus<s n="n"/></l><r>hástu<s n="n"/></r></p></e>
     <e><p><l>Kulturruhtarádju<s n="n"/></l><r>Kulttuurruttârááju<s n="n"/></r></p></e>
@@ -1137,6 +1145,8 @@
     <e><p><l>rissi<s n="n"/></l><r>risse<s n="n"/></r></p></e>
     <e><p><l>áššealmmái<s n="n"/></l><r>äššialmai<s n="n"/></r></p></e>
     <e><p><l>meađđen<s n="n"/></l><r>meini<s n="n"/></r></p></e>
+    <e><p><l>mánnárávvehat<s n="n"/></l><r>ravviittâs<s n="n"/></r></p></e>
+    <e><p><l>oahppamateriála<s n="n"/></l><r>oppâmateriaal<s n="n"/></r></p></e>
     <e><p><l>riikkabeaivi<s n="n"/></l><r>ovdâskodde<s n="n"/></r></p></e>
     <e><p><l>káhtekismmos<s n="n"/></l><r>katkismus<s n="n"/></r></p></e>
     <e><p><l>bargofápmu<s n="n"/></l><r>pargovyeimi<s n="n"/></r></p></e>
