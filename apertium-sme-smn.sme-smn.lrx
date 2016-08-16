@@ -889,4 +889,29 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
 
+<!-- buorre -->
+  <rule weight="1.0">
+    <match lemma="buorre">
+      <select lemma="pyeri"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="buot">
+      <select lemma="šiev"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="buorre">
+      <select lemma="šiev"/>
+    </match>
+	<or>
+	<match lemma="dálki"/>
+	<match lemma="bieivi"/>
+        </or>
+  </rule>
+
+
+
 </rules>

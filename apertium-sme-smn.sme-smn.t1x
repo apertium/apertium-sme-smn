@@ -29,6 +29,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-cat n="semyear">
       <cat-item tags="*.sem_year.*"/>
     </def-cat>
+    <def-cat n="abbr">
+      <cat-item tags="*.abbr.*"/>
+    </def-cat>
     <def-cat n="semyear-loc">
       <cat-item tags="*.sem_year.sg.loc.*"/>
       <cat-item tags="*.sem_year.sg.loc"/>
@@ -488,6 +491,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
      <def-cat n="birra-po">
       <cat-item lemma="birra" tags="post.*"/>
     </def-cat>
+     <def-cat n="dihto-adj">
+      <cat-item lemma="dihto" tags="adj.*"/>
+    </def-cat>
     <def-cat n="shoes">
       <cat-item lemma="gáma" tags="n.*"/>
       <cat-item lemma="skuovva" tags="n.*"/>
@@ -576,6 +582,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </def-attr>
     <def-attr n="qst">
       <attr-item tags="qst"/>
+    </def-attr>
+    <def-attr n="a_abbr">
+      <attr-item tags="abbr"/>
     </def-attr>
     <def-attr n="a_ntype">
       <attr-item tags="nomag"/>
@@ -1635,173 +1644,173 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
 
 <!--     <rule comment="REGLA: SUBJ to right"> --> <!-- Dalle ledjen mun ain vuođđoskuvllas. - Talle mun lijjim ain vuáđuškoovlâst. -->
-<!--       <pattern>
-        <pattern-item n="l_subj"/>
-      </pattern>
-      <action>
-        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
-         <let><var n="subject"/><lit v="l_subj"/></let>
-        <out>
-          <chunk namefrom="subject" case="caseFirstword">
-            <tags>
-              <tag><lit-tag v="NP"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule> -->
+<!--       <pattern>															    -->
+<!--        <pattern-item n="l_subj"/>											    -->
+<!--      </pattern>															    -->
+<!--      <action>																    -->
+<!--        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro> -->
+<!--        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>		    -->
+<!--        <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>		    -->
+<!--         <let><var n="subject"/><lit v="l_subj"/></let>						    -->
+<!--        <out>																    -->
+<!--          <chunk namefrom="subject" case="caseFirstword">					    -->
+<!--            <tags>															    -->
+<!--              <tag><lit-tag v="NP"/></tag>									    -->
+<!--              <tag><var n="func"/></tag>									    -->
+<!--            </tags>															    -->
+<!--            <lu>															    -->
+<!--              <clip pos="1" side="tl" part="whole"/>						    -->
+<!--            </lu>															    -->
+<!--          </chunk>															    -->
+<!--        </out>																    -->
+<!--      </action>																    -->
+<!--    </rule> 																    -->
 <!--    <rule comment="REGLA: SPRED to right"> --> <!-- Makkár sátni lea dát? - Maggaar sääni taat lii? -->
- <!--     <pattern>
-        <pattern-item n="l_spred"/>
-      </pattern>
-      <action>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-         <let><var n="spred"/><lit v="l_spred"/></let>
-        <out>
-          <chunk namefrom="spred" case="caseFirstword">
-            <tags>
-              <tag><lit-tag v="NP"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-    <rule comment="REGLA: OBJ to left simple">
-      <pattern>
-        <pattern-item n="obj_l"/>
-      </pattern>
-      <action>
-        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-         <let><var n="object"/><lit v="obj_l"/></let>
-        <out>
-          <chunk namefrom="object" case="caseFirstword">
-            <tags>
-              <tag><lit-tag v="NP"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-    <rule comment="REGLA: OBJ to left cmp">
-      <pattern>
-        <pattern-item n="nouncmp"/>
-        <pattern-item n="obj_l"/>
-      </pattern>
-      <action>
-        <call-macro n="convert-deriv-1Param"><with-param pos="2"/></call-macro>
-        <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
-        <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
-        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
-        <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-         <let><var n="object"/><lit v="obj_l"/></let>
-       <out>
-          <chunk name="object" case="caseFirstword">
-            <tags>
-              <tag><lit-tag v="NP"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <mlu>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-             <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-             </mlu>
-        </chunk>
-        </out>
-      </action>
-    </rule>
-
-
-    <rule comment="REGLA: OBJ to left attr">
-      <pattern>
-         <pattern-item n="attr"/>
-       <pattern-item n="obj_l"/>
-      </pattern>
-      <action>
-        <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv-1Param"><with-param pos="2"/></call-macro>
-        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
-        <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-         <let><var n="object"/><lit v="obj_l"/></let>
-        <out>
-          <chunk namefrom="object" case="caseFirstword">
-            <tags>
-              <tag><lit-tag v="NP"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-            <b/>
-             <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-
-
-    <rule comment="REGLA: OBJ to left attr attr">
-      <pattern>
-         <pattern-item n="attr"/>
-         <pattern-item n="attr"/>
-       <pattern-item n="obj_l"/>
-      </pattern>
-      <action>
-        <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
-        <call-macro n="convert-deriv-1Param"><with-param pos="2"/></call-macro>
-        <call-macro n="convert-deriv-1Param"><with-param pos="3"/></call-macro>
-       <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
-        <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
-        <call-macro n="remove-semtag-1Param"><with-param pos="3"/></call-macro>
-        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
-         <let><var n="object"/><lit v="obj_l"/></let>
-        <out>
-          <chunk namefrom="object" case="caseFirstword">
-            <tags>
-              <tag><lit-tag v="NP"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-            <b/>
-             <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-            <b/>
-             <lu>
-              <clip pos="3" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule> -->
+<!--     <pattern>                                                                    -->
+<!--        <pattern-item n="l_spred"/>											      -->
+<!--      </pattern>															      -->
+<!--      <action>																      -->
+<!--        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>		      -->
+<!--         <let><var n="spred"/><lit v="l_spred"/></let>						      -->
+<!--        <out>																      -->
+<!--          <chunk namefrom="spred" case="caseFirstword">						      -->
+<!--            <tags>															      -->
+<!--              <tag><lit-tag v="NP"/></tag>									      -->
+<!--              <tag><var n="func"/></tag>									      -->
+<!--            </tags>															      -->
+<!--            <lu>															      -->
+<!--              <clip pos="1" side="tl" part="whole"/>						      -->
+<!--            </lu>															      -->
+<!--          </chunk>															      -->
+<!--        </out>																      -->
+<!--      </action>																      -->
+<!--    </rule>																	      -->
+<!--    <rule comment="REGLA: OBJ to left simple">								      -->
+<!--      <pattern>																      -->
+<!--        <pattern-item n="obj_l"/>											      -->
+<!--      </pattern>															      -->
+<!--      <action>																      -->
+<!--        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>   -->
+<!--        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>		      -->
+<!--         <let><var n="object"/><lit v="obj_l"/></let>						      -->
+<!--        <out>																      -->
+<!--          <chunk namefrom="object" case="caseFirstword">					      -->
+<!--            <tags>															      -->
+<!--              <tag><lit-tag v="NP"/></tag>									      -->
+<!--              <tag><var n="func"/></tag>									      -->
+<!--            </tags>															      -->
+<!--            <lu>															      -->
+<!--              <clip pos="1" side="tl" part="whole"/>						      -->
+<!--            </lu>															      -->
+<!--          </chunk>															      -->
+<!--        </out>																      -->
+<!--      </action>																      -->
+<!--    </rule>																	      -->
+<!--																			      -->
+<!--    <rule comment="REGLA: OBJ to left cmp">									      -->
+<!--      <pattern>																      -->
+<!--        <pattern-item n="nouncmp"/>											      -->
+<!--        <pattern-item n="obj_l"/>											      -->
+<!--      </pattern>															      -->
+<!--      <action>																      -->
+<!--        <call-macro n="convert-deriv-1Param"><with-param pos="2"/></call-macro>   -->
+<!--        <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>   -->
+<!--        <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>   -->
+<!--        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>   -->
+<!--        <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let>		      -->
+<!--        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>		      -->
+<!--         <let><var n="object"/><lit v="obj_l"/></let>						      -->
+<!--       <out>																      -->
+<!--          <chunk name="object" case="caseFirstword">						      -->
+<!--            <tags>															      -->
+<!--              <tag><lit-tag v="NP"/></tag>									      -->
+<!--              <tag><var n="func"/></tag>									      -->
+<!--            </tags>															      -->
+<!--            <mlu>															      -->
+<!--            <lu>															      -->
+<!--              <clip pos="1" side="tl" part="whole"/>						      -->
+<!--            </lu>															      -->
+<!--             <lu>															      -->
+<!--              <clip pos="2" side="tl" part="whole"/>						      -->
+<!--            </lu>															      -->
+<!--             </mlu>															      -->
+<!--        </chunk>															      -->
+<!--        </out>																      -->
+<!--      </action>																      -->
+<!--    </rule>																	      -->
+<!--																			      -->
+<!--																			      -->
+<!--    <rule comment="REGLA: OBJ to left attr">								      -->
+<!--      <pattern>																      -->
+<!--         <pattern-item n="attr"/>											      -->
+<!--       <pattern-item n="obj_l"/>											      -->
+<!--      </pattern>															      -->
+<!--      <action>																      -->
+<!--        <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>   -->
+<!--        <call-macro n="convert-deriv-1Param"><with-param pos="2"/></call-macro>   -->
+<!--        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>   -->
+<!--        <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>   -->
+<!--        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>		      -->
+<!--        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>		      -->
+<!--         <let><var n="object"/><lit v="obj_l"/></let>						      -->
+<!--        <out>																      -->
+<!--          <chunk namefrom="object" case="caseFirstword">					      -->
+<!--            <tags>															      -->
+<!--              <tag><lit-tag v="NP"/></tag>									      -->
+<!--              <tag><var n="func"/></tag>									      -->
+<!--            </tags>															      -->
+<!--            <lu>															      -->
+<!--              <clip pos="1" side="tl" part="whole"/>						      -->
+<!--            </lu>															      -->
+<!--            <b/>															      -->
+<!--             <lu>															      -->
+<!--              <clip pos="2" side="tl" part="whole"/>						      -->
+<!--            </lu>															      -->
+<!--          </chunk>															      -->
+<!--        </out>																      -->
+<!--      </action>																      -->
+<!--    </rule>																	      -->
+<!--																			      -->
+<!--																			      -->
+<!--																			      -->
+<!--    <rule comment="REGLA: OBJ to left attr attr">							      -->
+<!--      <pattern>																      -->
+<!--         <pattern-item n="attr"/>											      -->
+<!--         <pattern-item n="attr"/>											      -->
+<!--       <pattern-item n="obj_l"/>											      -->
+<!--      </pattern>															      -->
+<!--      <action>																      -->
+<!--        <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>   -->
+<!--        <call-macro n="convert-deriv-1Param"><with-param pos="2"/></call-macro>   -->
+<!--        <call-macro n="convert-deriv-1Param"><with-param pos="3"/></call-macro>   -->
+<!--       <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>    -->
+<!--        <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>   -->
+<!--        <call-macro n="remove-semtag-1Param"><with-param pos="3"/></call-macro>   -->
+<!--        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>		      -->
+<!--        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>		      -->
+<!--        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>		      -->
+<!--         <let><var n="object"/><lit v="obj_l"/></let>						      -->
+<!--        <out>																      -->
+<!--          <chunk namefrom="object" case="caseFirstword">					      -->
+<!--            <tags>															      -->
+<!--              <tag><lit-tag v="NP"/></tag>									      -->
+<!--              <tag><var n="func"/></tag>									      -->
+<!--            </tags>															      -->
+<!--            <lu>															      -->
+<!--              <clip pos="1" side="tl" part="whole"/>						      -->
+<!--            </lu>															      -->
+<!--            <b/>															      -->
+<!--             <lu>															      -->
+<!--              <clip pos="2" side="tl" part="whole"/>						      -->
+<!--            </lu>															      -->
+<!--            <b/>															      -->
+<!--             <lu>															      -->
+<!--              <clip pos="3" side="tl" part="whole"/>						      -->
+<!--            </lu>															      -->
+<!--          </chunk>															      -->
+<!--        </out>																      -->
+<!--      </action>																      -->
+<!--    </rule> 																      -->
 
     <rule comment="REGLA: nominal = Add NP to nominal">
       <pattern>
@@ -2075,6 +2084,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
+
         <rule comment="REGLA: birra-loc = diehtu Sámedikki birra - Loc"> <!-- perhaps all nouns -->
       <pattern>
         <pattern-item n="noun"/>
@@ -2110,6 +2120,53 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </out>
       </action>
     </rule>
+
+<!--    <rule comment="REGLA: dihto-adj">           								    -->
+<!--      <pattern>																	    -->
+<!--        <pattern-item n="dihto-adj"/>											    -->
+<!--        <pattern-item n="noun"/>												    -->
+<!--      </pattern>																    -->
+<!--      <action>																	    -->
+<!--        <call-macro n="general-macro-2Param">									    -->
+<!--           <with-param pos="1"/><with-param pos="2"/></call-macro>				    -->
+<!--        <choose>																    -->
+<!--          <when>																    -->
+<!--            <test>																    -->
+<!--		<in caseless="yes"><var n="current_verb"/><list n="loc_verbs" /></in>	    -->
+<!--            </test>																    -->
+<!--            <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>		    -->
+<!--            <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="loc"/></let>    -->
+<!--          </when>																    -->
+<!--          <when>																    -->
+<!--            <test>																    -->
+<!--              <in caseless="yes"><var n="current_verb"/><list n="acc_verbs" /></in> -->
+<!--            </test>																    -->
+<!--            <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>		    -->
+<!--            <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="acc"/></let>    -->
+<!--          </when>																    -->
+<!--        </choose>																    -->
+<!--        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>	    -->
+<!--        <out>																	    -->
+<!--           <chunk name="noun" case="caseFirstword">								    -->
+<!--            <tags>																    -->
+<!--              <tag><lit-tag v="NP"/></tag>										    -->
+<!--              <tag><var n="func"/></tag>										    -->
+<!--              <tag><clip pos="1" side="tl" part="a_case"/></tag>				    -->
+<!--            </tags>																    -->
+<!--            <lu>																    -->
+<!--              <clip pos="1" side="tl" part="lem"/>								    -->
+<!--              <clip pos="1" side="tl" part="tags"/>								    -->
+<!--            </lu>																    -->
+<!--            <b/>																    -->
+<!--            <lu>																    -->
+<!--              <clip pos="2" side="tl" part="whole"/>							    -->
+<!--            </lu>																    -->
+<!--          </chunk>																    -->
+<!--        </out>																	    -->
+<!--      </action>																	    -->
+<!--    </rule>																		    -->
+
+
 
     <rule comment="REGLA: refl-gen mielde = Ean fuola su iežame mielde. - Iän huolâ suu fárusân.">
       <pattern>
@@ -2532,36 +2589,36 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: buorre attr = Lea buorre dálki odne. Lii šiev šoŋŋâ onne.">
-      <pattern>
-        <pattern-item n="buorre"/>
-        <pattern-item n="noun"/>
-      </pattern>
-      <action>
-        <let><clip pos="1" side="tl" part="lem"/><lit v="šiev"/></let>
-        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.attr"/></let>
-        <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
-
-       <out>
-          <chunk name="nominal" case="caseFirstword">
-            <tags>
-              <tag><lit-tag v="NP"/></tag>
-              <tag><var n="func"/></tag>
-              <tag><clip pos="2" side="tl" part="a_PoS"/></tag>
-              <tag><clip pos="2" side="tl" part="a_case"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="tags"/>
-	        </lu>
-	        <b/>
-	        <lu>
-              <clip pos="2" side="tl" part="whole"/>
-		    </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
+<!--  <rule comment="REGLA: buorre attr = Lea buorre dálki odne. Lii šiev šoŋŋâ onne.">				   -->
+<!--    <pattern>																					   -->
+<!--      <pattern-item n="buorre"/>																   -->
+<!--      <pattern-item n="noun"/>																	   -->
+<!--    </pattern>																					   -->
+<!--    <action>																					   -->
+<!--      <let><clip pos="1" side="tl" part="lem"/><lit v="šiev"/></let>							   -->
+<!--      <let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.attr"/></let>					   -->
+<!--      <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro> -->
+<!--																								   -->
+<!--     <out>																						   -->
+<!--        <chunk name="nominal" case="caseFirstword">												   -->
+<!--          <tags>																				   -->
+<!--            <tag><lit-tag v="NP"/></tag>														   -->
+<!--            <tag><var n="func"/></tag>															   -->
+<!--            <tag><clip pos="2" side="tl" part="a_PoS"/></tag>									   -->
+<!--            <tag><clip pos="2" side="tl" part="a_case"/></tag>									   -->
+<!--          </tags>																				   -->
+<!--          <lu>																					   -->
+<!--            <clip pos="1" side="tl" part="lem"/>												   -->
+<!--            <clip pos="1" side="tl" part="tags"/>												   -->
+<!--          </lu>																					   -->
+<!--          <b/>																					   -->
+<!--          <lu>																					   -->
+<!--            <clip pos="2" side="tl" part="whole"/>												   -->
+<!--  	    </lu>																					   -->
+<!--        </chunk>																				   -->
+<!--      </out>																					   -->
+<!--    </action>																					   -->
+<!--  </rule>																						   -->
 
 
     <rule comment="REGLA: num-nomacc n-sg to n-par = Son oastá čieža láibbi. Sun uástá čiččâm leibid.">
@@ -2576,10 +2633,16 @@ t5x move foc_tag from wordfoc chunk to the word inside
               <test><and>
                  <not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
                <not><in><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>
+               <not><equal><clip pos="2" side="sl" part="a_abbr"/><lit-tag v="abbr"/></equal></not>
               </and></test>
         <let><clip pos="2" side="tl" part="tags"/>
            <concat>
-            <lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let>
+            <lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/><lit-tag v="par"/>
+<!--            <lit-tag v="n"/><lit-tag v="abbr"/><clip pos="2" side="tl" part="a_ntype"/><lit-tag v="par"/>-->
+            </concat>
+       </let>
+
+
               </when>
          <otherwise>
         <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let>
@@ -2592,7 +2655,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
-              <tag><lit-tag v="blabla"/></tag>
+              <tag><lit-tag v="numphrase"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
@@ -3577,6 +3640,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <out>
           <chunk name="numsem" case="caseFirstword">
             <tags>
+              <tag><lit-tag v="SN"/></tag>
               <tag><clip pos="1" side="sl" part="func"/></tag>
             </tags>
             <lu>
