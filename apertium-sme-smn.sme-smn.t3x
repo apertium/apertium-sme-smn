@@ -59,6 +59,12 @@ Rules:
       <attr-item tags="foc_son"/>
       <attr-item tags="foc_sun"/>
   </def-attr>
+  <def-attr n="a_chunktype">
+    <attr-item tags="NP"/>
+    <attr-item tags="SV"/>
+    <attr-item tags="AP"/>
+    <attr-item tags="PP"/>
+  </def-attr>
   </section-def-attrs>
 
   <section-def-vars>
@@ -73,6 +79,8 @@ Rules:
         <pattern-item n="NP"/>
       </pattern>
       <action>
+      <let><clip pos="3" part="a_chunktype"/>
+           <lit-tag v="NPCOORD"/></let>
        <out>
          <chunk>
            <clip pos="3" part="lem"/>
