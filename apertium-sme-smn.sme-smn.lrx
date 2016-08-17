@@ -888,6 +888,29 @@ Write comments to forthcoming rules before this line -->
  </or>  
   </rule>
 
+<!-- dii -->
+  <rule weight="1.0">
+    <match lemma="dii">
+      <select lemma="tij"/>
+    </match>
+  </rule>
+
+
+  <rule weight="0.5">
+    <match lemma="dij">
+      <select lemma="tme"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="dii">
+      <select lemma="tme"/>
+   </match>
+   <match tag="num.*"/>
+  </rule>
+
+
+  
 
 <!-- buorre -->
   <rule weight="1.0">
@@ -911,6 +934,7 @@ Write comments to forthcoming rules before this line -->
 	<match lemma="bieivi"/>
         </or>
   </rule>
+
 
 
 
