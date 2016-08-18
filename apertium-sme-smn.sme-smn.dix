@@ -23,18 +23,18 @@
     <sdef n="cnjsub"   c="Subordinating conjunction"/>
     <sdef n="iv"       c="Intransitive"/>
     <sdef n="tv"       c="Transitive"/>
-   <sdef n="prsprc"      c="PrsPrc"/> 
-   <sdef n="ord"      c="Ord"/> 
-   <sdef n="sup"      c="Superl"/> 
+    <sdef n="prsprc"      c="PrsPrc"/> 
+    <sdef n="ord"      c="Ord"/> 
+    <sdef n="sup"      c="Superl"/> 
     <sdef n="nomag"      c="NomAg type noun, both sme and smn"/>
      <sdef n="g3"       c="g3 type noun, only sme"/>
      <sdef n="g7"       c="g7 type noun, only sme"/>
-   <sdef n="sem_ani"      c="Sem/Ani"/> 
+    <sdef n="sem_ani"      c="Sem/Ani"/> 
     <sdef n="sem_act"      c="Sem/Act"/> 
     <sdef n="sem_hum"      c="Sem/Hum"/> 
   <sdef n="sem_dummytag"      c="Sem/Dummytag"/> 
     <sdef n="sem_plc"      c="Sem/Plc"/>
-   <sdef n="foc_sun"      c="clitic sun"/>
+    <sdef n="foc_sun"      c="clitic sun"/>
     <sdef n="foc_ge"       c="clitic ge"/>
     <sdef n="foc_uv"       c="clitic -uv"/>
     <sdef n="foc_nii"       c="clitic nii"/>
@@ -1114,20 +1114,16 @@
     <e><p><l>čádjidahtti<s n="adj"/></l><r>čájádittee<s n="adj"/></r></p></e>
     <e><p><l>čáhppat<s n="adj"/></l><r>čappâd<s n="adj"/></r></p></e>
     <e><p><l>šállošahtti<s n="adj"/></l><r>šallišittee<s n="adj"/></r></p></e>
-   <e><p><l>aiddonas<s n="adj"/></l><r>eidusâš<s n="adj"/></r></p></e>
-   <e><p><l>balddihahtti<s n="adj"/></l><r>polâttettee<s n="adj"/></r></p></e>
-   <e><p><l>ekumenalaš<s n="adj"/></l><r>ekumeenlâš<s n="adj"/></r></p></e>
-   <e><p><l>geažos<s n="adj"/></l><r>ubâ<s n="adj"/></r></p></e>
-   <e><p><l>guovlluguovdasaš<s n="adj"/></l><r>kuávlulâš<s n="adj"/></r></p></e>
-   <e><p><l>lágaheapme<s n="adj"/></l><r>lavâttem<s n="adj"/></r></p></e>
-   <e><p><l>mihtilmas<s n="adj"/></l><r>jiešvuođâlâš<s n="adj"/></r></p></e>
-   <e><p><l>nohkameahttun<s n="adj"/></l><r>nuhâmettum<s n="adj"/></r></p></e>
-   <e><p><l>otnáš<s n="adj"/></l><r>onnáš<s n="adj"/></r></p></e>
-   <e><p><l>ođđalágan<s n="adj"/></l><r>uđđâlágán<s n="adj"/></r></p></e>
-   <e><p><l>roanci<s n="adj"/></l><r>ruánzáá<s n="adj"/></r></p></e>
-   <e><p><l>sisriikkalaš<s n="adj"/></l><r>aalmuglâš<s n="adj"/></r></p></e>
-   <e><p><l>ávnnahis<s n="adj"/></l><r>immateriaallâš<s n="adj"/></r></p></e>
-   <e><p><l>lingvisttalaš<s n="adj"/></l><r>immateriaallâš<s n="adj"/></r></p></e>
+    <e><p><l>aiddonas<s n="adj"/></l><r>eidusâš<s n="adj"/></r></p></e>
+    <e><p><l>balddihahtti<s n="adj"/></l><r>polâttettee<s n="adj"/></r></p></e>
+    <e><p><l>ekumenalaš<s n="adj"/></l><r>ekumeenlâš<s n="adj"/></r></p></e>
+    <e><p><l>geažos<s n="adj"/></l><r>ubâ<s n="adj"/></r></p></e>
+    <e><p><l>mihtilmas<s n="adj"/></l><r>jiešvuođâlâš<s n="adj"/></r></p></e>
+    <e><p><l>ođđalágan<s n="adj"/></l><r>uđđâlágán<s n="adj"/></r></p></e>
+    <e><p><l>roanci<s n="adj"/></l><r>ruánzáá<s n="adj"/></r></p></e>
+    <e><p><l>sisriikkalaš<s n="adj"/></l><r>aalmuglâš<s n="adj"/></r></p></e>
+    <e><p><l>ávnnahis<s n="adj"/></l><r>immateriaallâš<s n="adj"/></r></p></e>
+    <e><p><l>lingvisttalaš<s n="adj"/></l><r>immateriaallâš<s n="adj"/></r></p></e>
 <!--    <e><p><l>vuoigat<s n="adj"/></l><r>vuoigâ<s n="adj"/></r></p></e> -->
 
 
@@ -1542,30 +1538,28 @@
     <e><p><l>iešvuohki<s n="n"/></l><r>jiešvyehi<s n="n"/></r></p></e>
     <e><p><l>goalmmádas<s n="n"/></l><r>kuálmádâs<s n="n"/></r></p></e>
     <e><p><l>etihkka<s n="n"/></l><r>eetik<s n="n"/></r></p></e>    
-   	 <e><p><l>fáhcca<s n="n"/></l><r>vaccâ<s n="n"/></r></p></e>
-   	 <e><p><l>iešláhki<s n="n"/></l><r>jiešvuotâ<s n="n"/></r></p></e>
-   	 <e><p><l>kriisa<s n="n"/></l><r>kriisâ<s n="n"/></r></p></e>
-   	 <e><p><l>iešluohttámuš<s n="n"/></l><r>jiešluáttámuš<s n="n"/></r></p></e>
-   	 <e><p><l>čuovvumuš<s n="n"/></l><r>čuávumuš<s n="n"/></r></p></e>
-   	 <e><p><l>sisafárrejeaddji<s n="n"/></l><r>siisâvärrejeijee<s n="n"/></r></p></e>
-   	 <e><p><l>terrorista<s n="n"/></l><r>terrorist<s n="n"/></r></p></e>
-   	 <e><p><l>boahtti<s n="n"/></l><r>puáttee<s n="n"/></r></p></e>
-   	 <e><p><l>rahčamuš<s n="n"/></l><r>ročâmâš<s n="n"/></r></p></e>
-   	 <e><p><l>dutkkus<s n="n"/></l><r>tuđhos<s n="n"/></r></p></e>
-   	 <e><p><l>republihkka<s n="n"/></l><r>täsiväldi<s n="n"/></r></p></e>
-   	 <e><p><l>dáiddár<s n="n"/></l><r>taaidâr<s n="n"/></r></p></e>
-   	 <e><p><l>riepmobeaivi<s n="n"/></l><r>juhlepeivi<s n="n"/></r></p></e>
-   	 <e><p><l>mánotbadji<s n="n"/></l><r>mánuppaje<s n="n"/></r></p></e>
-   	 <e><p><l>eaŋgalsgiella<s n="n"/></l><r>eŋgâlâskielâ<s n="n"/></r></p></e>
-   	 <e><p><l>normeren<s n="n"/></l><r>normâdem<s n="n"/></r></p></e>
-   	 <e><p><l>láddelaš<s n="n"/></l><r>läddilâš<s n="n"/></r></p></e>
-   	 <e><p><l>interneahtta<s n="n"/></l><r>internet<s n="n"/></r></p></e>
-   	 <e><p><l>ovttastat<s n="n"/></l><r>ovdâstâs<s n="n"/></r></p></e>
-   	 <e><p><l>válgalihttu<s n="n"/></l><r>vaaljâlitto<s n="n"/></r></p></e>
-   	 <e><p><l>lihttu<s n="n"/></l><r>litto<s n="n"/></r></p></e>
-   	 <e><p><l>folklore<s n="n"/></l><r>aalmugärbivyehi<s n="n"/></r></p></e>
-   	 <e><p><l>šleađgaboasta<s n="n"/></l><r>šleđgâpostâ<s n="n"/></r></p></e>
-   	 <e><p><l>čatnašupmi<s n="n"/></l><r>čonnâsem<s n="n"/></r></p></e>
+    <e><p><l>fáhcca<s n="n"/></l><r>vaccâ<s n="n"/></r></p></e>
+    <e><p><l>iešláhki<s n="n"/></l><r>jiešvuotâ<s n="n"/></r></p></e>
+    <e><p><l>kriisa<s n="n"/></l><r>kriisâ<s n="n"/></r></p></e>
+    <e><p><l>iešluohttámuš<s n="n"/></l><r>jiešluáttámuš<s n="n"/></r></p></e>
+    <e><p><l>sisafárrejeaddji<s n="n"/></l><r>siisâvärrejeijee<s n="n"/></r></p></e>
+    <e><p><l>terrorista<s n="n"/></l><r>terrorist<s n="n"/></r></p></e>
+    <e><p><l>boahtti<s n="n"/></l><r>puáttee<s n="n"/></r></p></e>
+    <e><p><l>rahčamuš<s n="n"/></l><r>ročâmâš<s n="n"/></r></p></e>
+    <e><p><l>dutkkus<s n="n"/></l><r>tuđhos<s n="n"/></r></p></e>
+    <e><p><l>republihkka<s n="n"/></l><r>täsiväldi<s n="n"/></r></p></e>
+    <e><p><l>dáiddár<s n="n"/></l><r>taaidâr<s n="n"/></r></p></e>
+    <e><p><l>riepmobeaivi<s n="n"/></l><r>juhlepeivi<s n="n"/></r></p></e>
+    <e><p><l>mánotbadji<s n="n"/></l><r>mánuppaje<s n="n"/></r></p></e>
+    <e><p><l>eaŋgalsgiella<s n="n"/></l><r>eŋgâlâskielâ<s n="n"/></r></p></e>
+    <e><p><l>normeren<s n="n"/></l><r>normâdem<s n="n"/></r></p></e>
+    <e><p><l>interneahtta<s n="n"/></l><r>internet<s n="n"/></r></p></e>
+    <e><p><l>ovttastat<s n="n"/></l><r>ovdâstâs<s n="n"/></r></p></e>
+    <e><p><l>válgalihttu<s n="n"/></l><r>vaaljâlitto<s n="n"/></r></p></e>
+    <e><p><l>lihttu<s n="n"/></l><r>litto<s n="n"/></r></p></e>
+    <e><p><l>folklore<s n="n"/></l><r>aalmugärbivyehi<s n="n"/></r></p></e>
+    <e><p><l>šleađgaboasta<s n="n"/></l><r>šleđgâpostâ<s n="n"/></r></p></e>
+    <e><p><l>čatnašupmi<s n="n"/></l><r>čonnâsem<s n="n"/></r></p></e>
      <e><p><l>dovddaldat<s n="n"/></l><r>tubdâldâh<s n="n"/></r></p></e>
      <e><p><l>geavat<s n="n"/></l><r>vuáhádâh<s n="n"/></r></p></e>
      <e><p><l>gordnegihppu<s n="n"/></l><r>jivekieddee<s n="n"/></r></p></e>
@@ -2249,7 +2243,7 @@
     <e><p><l>Bávval<s n="np"/></l><r>Bávval<s n="np"/></r></p></e>
     <e><p><l>Bávval-Ánne<s n="np"/></l><r>Bávval-Ánne<s n="np"/></r></p></e>
     <e><p><l>Bávvál<s n="np"/></l><r>Bávvál<s n="np"/></r></p></e>
-   <e><p><l>Davvi<b/>Girji<s n="np"/></l><r>Davvi<b/>Girji<s n="np"/></r></p></e>
+    <e><p><l>Davvi<b/>Girji<s n="np"/></l><r>Davvi<b/>Girji<s n="np"/></r></p></e>
     <e><p><l>Davvi-Fosen<s n="np"/></l><r>Davvi-Fosen<s n="np"/></r></p></e>
     <e><p><l>Deahppán<s n="np"/></l><r>Deahppán<s n="np"/></r></p></e>
     <e><p><l>Dergačeva<s n="np"/></l><r>Dergačeva<s n="np"/></r></p></e>
@@ -9359,7 +9353,7 @@
       <e><p><l>máŋggas<s n="n"/></l><r>maaŋgâs<s n="n"/></r></p></e>
     <e><p><l>eretfárren<s n="n"/></l><r>meddâlvarrim<s n="n"/></r></p></e>
      <e><p><l>fidnu<s n="n"/></l><r>haahâ<s n="n"/></r></p></e>
-   <e><p><l>tiipa<s n="n"/></l><r>tijppâ<s n="n"/></r></p></e>
+    <e><p><l>tiipa<s n="n"/></l><r>tijppâ<s n="n"/></r></p></e>
     <e><p><l>váldu<s n="n"/></l><r>uáivi<s n="n"/></r></p></e> <!-- cmp -->
     <e><p><l>váldi<s n="n"/></l><r>väldi<s n="n"/></r></p></e>
     <e><p><l>bargoveahka<s n="n"/></l><r>pargojuávkku<s n="n"/></r></p></e>
