@@ -1,3 +1,15 @@
+
+<metalrx>
+
+  <def-seqs>
+    <def-seq n="foo-verbs">
+      <or>
+        <match lemma="foo"/>
+        <match lemma="bar"/>
+      </or>
+    </def-seq>
+  </def-seqs>
+
 <rules>
  
   <rule weight="1.0">
@@ -5,3 +17,4 @@
   </rule>
 
 </rules>
+</metalrx>
