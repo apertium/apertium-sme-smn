@@ -1129,7 +1129,8 @@
 
 
     
-    <!-- ASECTION: Nouns --> 
+<!-- ASECTION: Nouns -->
+
     
     <e><p><l>suopma<s n="n"/></l><r>suomâ<s n="n"/></r></p></e>
     <e><p><l>moattilogis<s n="n"/></l><r>muádiloves<s n="n"/></r></p></e>
@@ -1144,6 +1145,7 @@
     <e><p><l>bázahus<s n="n"/></l><r>pasâttâs<s n="n"/></r></p></e>
     <e><p><l>hástálus<s n="n"/></l><r>hástu<s n="n"/></r></p></e>
     <e><p><l>Kulturruhtarádju<s n="n"/></l><r>Kulttuurruttârááju<s n="n"/></r></p></e>
+    <e><p><l>tearbma<s n="n"/></l><r>termâ<s n="n"/></r></p></e>
     <e><p><l>ruhtadeaddji<s n="n"/></l><r>ruttâdeijee<s n="n"/></r></p></e>
     <e><p><l>rissi<s n="n"/></l><r>risse<s n="n"/></r></p></e>
     <e><p><l>áššealmmái<s n="n"/></l><r>äššialmai<s n="n"/></r></p></e>
@@ -1361,7 +1363,6 @@
     <e><p><l>metálladuodji<s n="n"/></l><r>meetaaltyeji<s n="n"/></r></p></e>
     <e><p><l>tekstiila<s n="n"/></l><r>tekstiil<s n="n"/></r></p></e>
     <e><p><l>badjealmmái<s n="n"/></l><r>puásuialmai<s n="n"/></r></p></e>
-    <e><p><l>badjebargu<s n="n"/></l><r>pajepargo<s n="n"/></r></p></e> <!-- not in sme -->
     <e><p><l>badjesápmelaš<s n="n"/></l><r>puásuisämmilâš<s n="n"/></r></p></e>
     <e><p><l>lágádus<s n="n"/></l><r>lájádâs<s n="n"/></r></p></e>
     <e><p><l>vuigengáibádus<s n="n"/></l><r>njuolgimvátámuš<s n="n"/></r></p></e>
@@ -8548,7 +8549,7 @@
     <e><p><l>gurret<s n="vblex"/><s n="tv"/></l><r>kuorriđ<s n="vblex"/></r></p></e>
     <e><p><l>gádjut<s n="vblex"/><s n="tv"/></l><r>kááijuđ<s n="vblex"/></r></p></e>
     <e><p><l>gáhtat<s n="vblex"/><s n="tv"/></l><r>kaattâđ<s n="vblex"/></r></p></e>
-    <e><p><l>gáhttet<s n="vblex"/><s n="tv"/></l><r>kaattâđ<s n="vblex"/></r></p></e>
+    <e><p><l>gáhttet<s n="vblex"/><s n="tv"/></l><r>kattiđ<s n="vblex"/></r></p></e>
     <e><p><l>gáivut<s n="vblex"/><s n="tv"/></l><r>káivuđ<s n="vblex"/></r></p></e>
     <e><p><l>gánnihit<s n="vblex"/><s n="iv"/></l><r>kannattiđ<s n="vblex"/></r></p></e>
     <e><p><l>gánnáhit<s n="vblex"/><s n="iv"/></l><r>kannattiđ<s n="vblex"/></r></p></e>
