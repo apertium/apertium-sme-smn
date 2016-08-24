@@ -601,8 +601,8 @@
     <e><p><l>maŋŋelis<s n="adv"/></l><r>maŋeláá<s n="adv"/></r></p></e>
     <e><p><l>dárkket<s n="adv"/></l><r>tárkká<s n="adv"/></r></p></e>
     <e><p><l>háválassii<s n="adv"/></l><r>häävild<s n="adv"/></r></p></e>
-    <e><p><l>ruoŧabealde<s n="adv"/></l><r>Ruotâbeln<s n="adv"/></r></p></e>
-    <e><p><l>norggabealde<s n="adv"/></l><r>Taažâbeln<s n="adv"/></r></p></e>
+    <e><p><l>ruoŧabealde<s n="adv"/></l><r>Ruotâ<b/>peln<s n="adv"/></r></p></e>
+    <e><p><l>norggabealde<s n="adv"/></l><r>Taažâ<b/>peln<s n="adv"/></r></p></e>
     <e><p><l>suomabealde<s n="adv"/></l><r>Suomâ<b/>peln<s n="adv"/></r></p></e>
     <e><p><l>seamma<b/>láhkai<s n="adv"/></l><r>siämmáánáál<s n="adv"/></r></p></e>
     <e><p><l>dađibahábut<s n="adv"/></l><r>vaidâlitteht<s n="adv"/></r></p></e>
@@ -2129,7 +2129,7 @@
 
     <!-- ASECTION: Abbreviations -->
     
-    <e><p><l>dmu<s n="n"/></l><r>tme<s n="n"/></r></p></e>
+    <e><p><l>dmu<s n="adv"/></l><r>tme<s n="adv"/></r></p></e>
     <e><p><l>dii<s n="adv"/></l><r>tme<s n="adv"/></r></p></e>
     <e><p><l>tel<s n="n"/></l><r>puh<s n="n"/></r></p></e>
     <e><p><l>gč<s n="vblex"/></l><r>k<s n="vblex"/></r></p></e>
