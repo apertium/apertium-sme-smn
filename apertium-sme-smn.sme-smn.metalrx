@@ -19,6 +19,12 @@ Write comments to forthcoming rules before this line -->
         <match tags="ij.*"/>
       </or>
     </def-seq>
+    <def-seq n="skuovva">
+      <or>
+        <match lemma="gáma"/>  
+        <match lemma="skuovva"/>  
+      </or>
+    </def-seq>
     <def-seq n="ela-verbs">
       <or>
         <match lemma="fárret"/>
@@ -723,24 +729,15 @@ Write comments to forthcoming rules before this line -->
   <rule weight="0.6">
     <match lemma="coggat">
       <select lemma="kárvudâttâđ"/>
-    </match> 
-   <match tags="n.sem_clth.*"/>  
+    </match>
+     <match tags="n.sem_clth.*"/>  
   </rule>
 
   <rule weight="0.6">
     <match lemma="coggat">
       <select lemma="kárvudâttâđ"/>
-    </match> 
-    <match/>
-   <match tags="n.sem_clth.*"/>  
-  </rule>
-
-  <rule weight="0.6">
-    <match lemma="coggat">
-      <select lemma="kárvudâttâđ"/>
-    </match> 
-    <match/>
-    <match/>
+    </match>
+    <repeat upto="3"><seq n="word"/></repeat>  <!-- 1-3 words -->
    <match tags="n.sem_clth.*"/>  
   </rule>
 
@@ -749,33 +746,15 @@ Write comments to forthcoming rules before this line -->
     <match lemma="coggat">
       <select lemma="kamâdâttâđ"/>
     </match> 
-    <or>
-      <match lemma="gáma"/>  
-      <match lemma="skuovva"/>  
-    </or>
+    <seq n="skuovva"/>
   </rule>
 
   <rule weight="0.65">
     <match lemma="coggat">
       <select lemma="kamâdâttâđ"/>
     </match> 
-    <match/>
-    <or>
-      <match lemma="gáma"/>  
-      <match lemma="skuovva"/>  
-    </or>
-  </rule>
-
-  <rule weight="0.65">
-    <match lemma="coggat">
-      <select lemma="kamâdâttâđ"/>
-    </match> 
-    <match/>
-    <match/>
-    <or>
-      <match lemma="gáma"/>  
-      <match lemma="skuovva"/>  
-    </or>
+    <repeat upto="3"><seq n="word"/></repeat>  <!-- 1-3 words -->
+    <seq n="skuovva"/>
   </rule>
 
 
@@ -803,16 +782,7 @@ Write comments to forthcoming rules before this line -->
    <match lemma="čuojahit">
       <select lemma="suáittiđ"/>
    </match>
-   <match/>
-   <match tags="*.*.*.ill.*"/>
-  </rule>
-
-  <rule weight="0.6">
-   <match lemma="čuojahit">
-      <select lemma="suáittiđ"/>
-   </match>
-   <match/>
-   <match/>
+   <repeat upto="3"><seq n="word"/></repeat>  <!-- 1-3 words -->
    <match tags="*.*.*.ill.*"/>
   </rule>
 
