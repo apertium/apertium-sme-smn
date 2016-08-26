@@ -24,6 +24,7 @@ aigin/aigin.smn -text
 /autogen.sh -text
 /check_mt-otpt.py -text
 /configure.ac -text
+dev/all.html -text svneol=unset#application/xml
 dev/bidix-sanity.sh -text
 dev/complicateddifferences.txt -text
 dev/fi_depts.A.noder.missing -text
