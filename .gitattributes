@@ -48,6 +48,7 @@ dev/sme_bidix_sanity.sh -text
 dev/sme_blogspot.A.nocmp.missing -text
 dev/sme_blogspot.N.nocmp.missing -text
 dev/sme_blogspot.V.noder.missing -text
+dev/sme_synonyms.freq -text
 dev/sorting_sanityoutput.sh -text
 dev/source_lists/README -text
 dev/source_lists/fi.history.missing.freq -text
