@@ -1,27 +1,27 @@
-182800 sápmi N
-92114 gii Pron
-74370 lohkat V
-59755 maiddái Adv
-58815 buorre A
-54256 birra Po
-41186 mielde Po
-37811 buot Pron
-35204 ge Pcle
-35197 gal Adv
-34927 hui Adv
-24858 mielde Adv
-23726 fas Adv
-19970 nubbi Pron
-14428 ealáhus N
-12992 riika N
-12435 báiki N
-11359 lohku N
-10524 gaskkas Po
-8920 sávvat V
-8801 guhte Pron
-6784 riekti N
+182800 sápmi N	lrx-rule
+92114 gii Pron	kii	corrected_dix
+74370 lohkat V	luuhâđ ettâđ	lrx-rule
+59755 maiddái Adv	meiddei	corrected_dix
+58815 buorre A	šiev is mainly used as an attr ==>lrx rule
+54256 birra Po	lrx-rule
+41186 mielde Po	lrx-rule
+37811 buot Pron	corrected_dix
+35204 ge Pcle	gin / kin	kvasikode_dix
+35197 gal Adv	corrected_dix
+34927 hui Adv	corrected_dix
+24858 mielde Adv	lrx-rule
+23726 fas Adv	corrected_dix
+19970 nubbi Pron	lrx-rule
+14428 ealáhus N	corrected_dix
+12992 riika N	corrected_dix
+12435 báiki N	lrx-rule
+11359 lohku N	lrx-rule
+10524 gaskkas Po	corrected_dix
+8920 sávvat V	lrx-rule
+8801 guhte Pron	corrected_dix
+6784 riekti N	corrected_dix
 6185 láhki N
-6048 birra Adv
+6048 birra Adv	lrx-rule
 5998 ekonomalaš A
 5716 fápmu N
 5072 nubbi A
