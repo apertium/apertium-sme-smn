@@ -260,6 +260,35 @@ Write comments to forthcoming rules before this line -->
     <match lemma="bivttas" tags="n.*"/>
   </rule>
 
+
+  <!--gustot-->
+   <rule weight="1.0">
+    <match lemma="gustot" tags="vblex.*">
+      <select lemma="poossâđ" tags="vblex.*"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="gustot" tags="vblex.*">
+      <select lemma="posâluhčâđ" tags="vblex.*"/>
+    </match>
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="gustot" tags="vblex.*">
+      <select lemma="posâluhčâđ" tags="vblex.*"/>
+    </match>
+    <match lemma="bivttas" tags="n.*"/>
+  </rule>
+  
+  <rule weight="0.6">
+    <match lemma="gustot" tags="vblex.*">
+      <select lemma="posâluhčâđ" tags="vblex.*"/>
+    </match>
+    <match/>
+    <match lemma="bivttas" tags="n.*"/>
+  </rule>
+  
 <!-- oarjjás --> 
     <rule weight="1.0">
     <match lemma="oarjjás" tags="adv.*">
@@ -679,6 +708,43 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
 
+<!-- isit -->
+  <rule weight="1.0">
+    <match lemma="isit">
+      <select lemma="iššeed"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="isit">
+      <select lemma="käälis"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+  <match tags="pron.*"/>
+   <match lemma="isit">
+      <select lemma="käälis"/>
+    </match>
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="isit" tags="n.sg.*.*.px1sg">
+      <select lemma="käälis"/>
+   </match>
+  </rule>
+  <rule weight="0.6">
+   <match lemma="isit" tags="n.sg.*.*.px2sg">
+      <select lemma="käälis"/>
+    </match>
+  </rule>
+  <rule weight="0.6">
+   <match lemma="isit" tags="n.sg.*.*.px3sg">
+      <select lemma="käälis"/>
+    </match>
+  </rule>
+
+
 
 
 
@@ -895,7 +961,41 @@ Write comments to forthcoming rules before this line -->
  </or>  
   </rule>
 
-<!-- dii -->
+<!-- fápmu fáámu vs. vyeimi -->
+  <rule weight="1.0">
+    <match lemma="fápmu">
+      <select lemma="fáámu"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="fápmu">
+      <select lemma="vyeimi"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+    <or>
+      <match lemma="boahtit" tags="vblex.*"/>
+      <match lemma="leat" tags="vblex.*"/>
+    </or>
+    <match lemma="fápmu">
+       <select lemma="vyeimi"/> 
+     </match>
+  </rule>
+  <rule weight="0.6">
+    <or>
+      <match lemma="boahtit" tags="vblex.*"/>
+      <match lemma="leat" tags="vblex.*"/>
+    </or>
+    <repeat upto="3"><seq n="word"/></repeat>
+    <match lemma="fápmu">
+       <select lemma="vyeimi"/> 
+    </match>
+  </rule>
+
+
+  <!-- dii -->
   <rule weight="1.0">
     <match lemma="dii">
       <select lemma="tij"/>
