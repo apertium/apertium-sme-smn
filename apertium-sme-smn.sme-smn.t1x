@@ -280,6 +280,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item lemma="makkár" tags="prn.ind.*"/>
       <cat-item lemma="makkár" tags="prn.itg.*"/>
       <cat-item lemma="otná" tags="adj.*.attr.*"/>
+      <cat-item lemma="sosiála" tags="adj.*.attr.*"/>
       <cat-item lemma="seammá" tags="prn.ind.*"/>
       <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!--  put under vuosttaš as lemma in sme -->
       <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/>
@@ -490,6 +491,12 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </def-cat>
      <def-cat n="birra-po">
       <cat-item lemma="birra" tags="post.*"/>
+    </def-cat>
+     <def-cat n="guokte">
+      <cat-item lemma="guokte" tags="num.*"/>
+    </def-cat>
+     <def-cat n="láhki">
+      <cat-item lemma="láhki" tags="n.*"/>
     </def-cat>
      <def-cat n="dihto-adj">
       <cat-item lemma="dihto" tags="adj.*"/>
@@ -2037,6 +2044,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
 
 
+
+    
+
         <rule comment="REGLA: birra-loc = diehtu Sámedikki birra - Loc"> <!-- perhaps all nouns -->
       <pattern>
         <pattern-item n="noun"/>
@@ -2117,6 +2127,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
 <!--        </out>																	    -->
 <!--      </action>																	    -->
 <!--    </rule>																		    -->
+
+
+
 
 
 
@@ -2335,6 +2348,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </out>
       </action>
     </rule>
+
     <rule comment="REGLA: nubbi beallai = rájá nuppe beallái – rääji nubebel">
       <pattern>
         <pattern-item n="nubbi"/>
@@ -2359,7 +2373,33 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
+    <rule comment="REGLA: guovtti láhkái - kyevtináál">
+      <pattern>
+        <pattern-item n="guokte"/>
+        <pattern-item n="láhki"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="lem"/><lit v="kyevtináál"/></let>
+         <let><clip pos="1" side="tl" part="tags"/><lit-tag v="adv"/></let>
+        <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>
+	<out>
+          <chunk name="adv">
+            <tags>
+              <tag><lit-tag v="ADV"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="tags"/>
+	        </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
+
+
+    
     <rule comment="REGLA: birra-px = Son geahččá birra. Sun kiäččá pirrâsis.">
       <pattern>
         <pattern-item n="geahččatverb"/>
