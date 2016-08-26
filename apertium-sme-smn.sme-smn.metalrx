@@ -1,8 +1,10 @@
+
+<!-- Note !! Write in the file .metalrx, not in the file .lrx -->
 <!-- Write comments to forthcoming rules after this line
 
-
-
 Write comments to forthcoming rules before this line -->
+
+
 <metalrx>
 
 
@@ -212,7 +214,7 @@ Write comments to forthcoming rules before this line -->
   <!--guhte-->
    <rule weight="1.0">
     <match lemma="guhte" tags="prn.*">
-      <select lemma="kotemuš" tags="prn.*"/>
+      <select lemma="kote" tags="prn.*"/>
     </match>
   </rule>
 
