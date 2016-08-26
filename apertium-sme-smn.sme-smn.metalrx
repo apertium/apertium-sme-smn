@@ -501,6 +501,13 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.6">
+    <match tags="adj.*"/>
+    <match lemma="báiki" tags="n.*">
+      <select lemma="päikki"/>
+  </match>
+  </rule>
+
+  <rule weight="0.6">
     <match lemma="báiki" tags="n.*">
       <select lemma="päikki"/>
   </match>
@@ -929,10 +936,7 @@ Write comments to forthcoming rules before this line -->
     <match lemma="buorre">
       <select lemma="šiev"/>
     </match>
-	<or>
-	<match lemma="dálki"/>
-	<match lemma="bieivi"/>
-        </or>
+    <match tags="n.*"/>
   </rule>
 
 
