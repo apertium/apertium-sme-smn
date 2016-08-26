@@ -146,16 +146,12 @@
 
     <e><p><l>gii<s n="prn"/><s n="rel"/></l><r>kii<s n="prn"/><s n="rel"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kii<s n="prn"/><s n="ind"/></r></p></e>
-    <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kihheen<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="itg"/></l><r>kote<s n="prn"/><s n="itg"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="rel"/></l><r>kote<s n="prn"/><s n="rel"/></r></p></e>
     <e><p><l>guhtemuš<s n="prn"/><s n="itg"/></l><r>kotemuš<s n="prn"/><s n="itg"/></r></p></e>
     <e><p><l>guhtemuš<s n="prn"/><s n="rel"/></l><r>kotemuš<s n="prn"/><s n="rel"/></r></p></e>
-    <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>kihheen<s n="prn"/><s n="ind"/></r></p></e>
-    <e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>jieškote<s n="prn"/><s n="ind"/></r></p></e> <!-- flagged in bdx-sanity but corr in .lrx -->
     <e><p><l>ieš<s n="prn"/></l><r>jieš<s n="prn"/></r></p></e>
     <e><p><l>iešguhte<s n="prn"/></l><r>jieškote<s n="prn"/></r></p></e>
-<!--<e><p><l>guhte<s n="prn"/><s n="ind"/></l><r>jyehi<s n="prn"/><s n="ind"/></r></p></e>-->
 
     <e><p><l>eará<s n="prn"/></l><r>eres<s n="prn"/></r></p></e>
     <e><p><l>iežá<s n="prn"/></l><r>eres<s n="prn"/></r></p></e>
@@ -174,7 +170,6 @@
     <e><p><l>goabbat<b/>guoibmi<s n="prn"/></l><r>kuábáš-uv<b/>kyeimi<s n="prn"/></r></p></e>
     <e><p><l>buot<s n="prn"/></l><r>puoh<s n="prn"/></r></p></e>   
     <e><p><l>buohkat<s n="prn"/></l><r>puohah<s n="prn"/></r></p></e>
-    <e><p><l>buot<s n="prn"/></l><r>puohah<s n="prn"/></r></p></e>   
     <e><p><l>iešguhtet<s n="prn"/><s n="ind"/></l><r>sierâ<s n="adj"/></r></p></e>
     <e><p><l>diekkár<s n="prn"/></l><r>tieggáár<s n="prn"/></r></p></e>
     <e><p><l>juohkehaš<s n="prn"/></l><r>juáháš<s n="prn"/></r></p></e>
@@ -280,8 +275,8 @@
     <e><p><l>lusa<s n="post"/></l><r>luusâ<s n="post"/></r></p></e>
     <e><p><l>maŋŋel<s n="post"/></l><r>maŋa<s n="post"/></r></p></e>
     <e><p><l>maŋŋá<s n="post"/></l><r>maŋa<s n="post"/></r></p></e>
-    <e><p><l>mielde<s n="post"/></l><r>mield<s n="post"/></r></p></e>
-    <e><p><l>mielde<s n="post"/></l><r>fáárun<s n="post"/></r></p></e>
+    <e><p><l>mielde<s n="post"/></l><r>mield<s n="post"/></r></p></e> <!-- lrx
+    <e><p><l>mielde<s n="post"/></l><r>fáárun<s n="post"/></r></p></e> <!-- lrx
     <e><p><l>nalde<s n="post"/></l><r>alne<s n="post"/></r></p></e>
     <e><p><l>nubbi<s n="prn"/></l><r>nubebel<s n="post"/></r></p></e>     
     <e><p><l>oasil<s n="post"/></l><r>uásild<s n="post"/></r></p></e>
@@ -318,9 +313,8 @@
     <e><p><l>ba<s n="pcle"/></l><r>ba<s n="foc_ba"/></r></p></e>
     <e><p><l>amma<s n="pcle"/></l><r>ama<s n="pcle"/></r></p></e>
     <e><p><l>bat<s n="pcle"/></l><r>ba<s n="foc_ba"/></r></p></e>
-    <e><p><l>ge<s n="pcle"/></l><r>-uv<s n="foc_uv"/></r></p></e>
-    <e><p><l>ge<s n="pcle"/></l><r>ge<s n="foc_ge"/></r></p></e>
-    <e><p><l>ge<s n="pcle"/></l><r>gin<s n="foc_gin"/></r></p></e>
+    <e><p><l>ge<s n="pcle"/></l><r>-uv<s n="foc_uv"/></r></p></e> <!-- in positive sentences -->
+    <e><p><l>ge<s n="pcle"/></l><r>gin<s n="foc_gin"/></r></p></e> <!-- negations -->
     <e><p><l>gen<s n="pcle"/></l><r>gin<s n="foc_gin"/></r></p></e>
     <e><p><l>ges<s n="pcle"/></l><r>gis<s n="foc_gis"/></r></p></e>
     <e><p><l>gis<s n="pcle"/></l><r>gis<s n="foc_gis"/></r></p></e>
@@ -609,7 +603,6 @@
     <e><p><l>ovddos<b/>guvlui<s n="adv"/></l><r>ovdâskulij<s n="adv"/></r></p></e>
     <e><p><l>ovddos<s n="adv"/></l><r>ovdâskulij<s n="adv"/></r></p></e>
     <e><p><l>ain<s n="adv"/></l><r>ain<s n="adv"/></r></p></e>
-    <e><p><l>gal<s n="adv"/></l><r>kal<s n="adv"/></r></p></e>
     <e><p><l>gal<s n="adv"/></l><r>kale<s n="adv"/></r></p></e>
     <e><p><l>eatnat<s n="adv"/></l><r>ennâg<s n="adv"/></r></p></e>
     <e><p><l>aivve<s n="adv"/></l><r>aaibâs<s n="adv"/></r></p></e>
@@ -636,7 +629,6 @@
     <e><p><l>erenoamážit<s n="adv"/></l><r>eromâšávt<s n="adv"/></r></p></e>
     <e><p><l>erenomážit<s n="adv"/></l><r>eromâšávt<s n="adv"/></r></p></e>
     <e><p><l>fas<s n="adv"/></l><r>vuod<s n="adv"/></r></p></e>
-    <e><p><l>fas<s n="adv"/></l><r>oppeet<s n="adv"/></r></p></e>
     <e><p><l>feara<s n="adv"/></l><r>veikâ<s n="adv"/></r></p></e>
     <e><p><l>goassige<s n="adv"/></l><r>kuássin<s n="adv"/></r></p></e>
     <e><p><l>goit<s n="pcle"/></l><r>kuittâg<s n="pcle"/></r></p></e>
@@ -656,7 +648,6 @@
     <e><p><l>maid<s n="adv"/></l><r>meid<s n="adv"/></r></p></e>
     <e><p><l>maiddái<s n="adv"/></l><r>meiddei<s n="adv"/></r></p></e>
     <e><p><l>maiddá<s n="adv"/></l><r>meiddei<s n="adv"/></r></p></e>
-    <e><p><l>maiddái<s n="adv"/></l><r>sehe<s n="adv"/></r></p></e>
     <e><p><l>maŋimustá<s n="adv"/></l><r>majemustáá<s n="adv"/></r></p></e>
     <e><p><l>maŋimuštá<s n="adv"/></l><r>majemustáá<s n="adv"/></r></p></e>
     <e><p><l>maŋŋemaŋŋálaga<s n="adv"/></l><r>maŋaluvâi<s n="adv"/></r></p></e>
@@ -2149,32 +2140,19 @@
 
     
     <!-- ASECTION: sme-person names with two possible translations -->
-    <e><p><l>Biera<s n="np"/></l><r>Biera<s n="np"/></r></p></e> 
-    <e><p><l>Biera<s n="np"/></l><r>Pierâ<s n="np"/></r></p></e> 
-    <e><p><l>Biret<s n="np"/></l><r>Biret<s n="np"/></r></p></e> 
+    <e><p><l>Biera<s n="np"/></l><r>Piera<s n="np"/></r></p></e> 
     <e><p><l>Biret<s n="np"/></l><r>Piirit<s n="np"/></r></p></e> 
-    <e><p><l>Duomis<s n="np"/></l><r>Duomis<s n="np"/></r></p></e>
     <e><p><l>Duomis<s n="np"/></l><r>Tyemes<s n="np"/></r></p></e>
-    <e><p><l>Duommá<s n="np"/></l><r>Duommá<s n="np"/></r></p></e>
     <e><p><l>Duommá<s n="np"/></l><r>Tyemes<s n="np"/></r></p></e>
-    <e><p><l>Elle<s n="np"/></l><r>Elle<s n="np"/></r></p></e> 
     <e><p><l>Elle<s n="np"/></l><r>Elli<s n="np"/></r></p></e> 
     <e><p><l>Juhán<s n="np"/></l><r>Juhháán<s n="np"/></r></p></e>
-    <e><p><l>Juhán<s n="np"/></l><r>Juhán<s n="np"/></r></p></e>
     <e><p><l>Máhtte<s n="np"/></l><r>Matti<s n="np"/></r></p></e> 
-    <e><p><l>Máhtte<s n="np"/></l><r>Máhtte<s n="np"/></r></p></e> 
     <e><p><l>Máret<s n="np"/></l><r>Maarit<s n="np"/></r></p></e>
-    <e><p><l>Máret<s n="np"/></l><r>Máret<s n="np"/></r></p></e>
-    <e><p><l>Niillas<s n="np"/></l><r>Niillas<s n="np"/></r></p></e>
     <e><p><l>Niillas<s n="np"/></l><r>Nijlâs<s n="np"/></r></p></e>
     <e><p><l>Piera<s n="np"/></l><r>Piera<s n="np"/></r></p></e> 
-    <e><p><l>Piera<s n="np"/></l><r>Pierâ<s n="np"/></r></p></e>
-    <e><p><l>Ánde<s n="np"/></l><r>Ánde<s n="np"/></r></p></e> 
-    <e><p><l>Ánde<s n="np"/></l><r>Antti<s n="np"/></r></p></e> 
-    <e><p><l>Ánne<s n="np"/></l><r>Ánne<s n="np"/></r></p></e> 
+    <e><p><l>Ánde<s n="np"/></l><r>Ande<s n="np"/></r></p></e> 
     <e><p><l>Ánne<s n="np"/></l><r>Ánná<s n="np"/></r></p></e> 
-    <e><p><l>Ánte<s n="np"/></l><r>Antti<s n="np"/></r></p></e> 
-    <e><p><l>Ánte<s n="np"/></l><r>Ánte<s n="np"/></r></p></e> 
+    <e><p><l>Ánte<s n="np"/></l><r>Ande<s n="np"/></r></p></e> 
     
     
     <!-- ASECTION: sme-person names x=x -->
@@ -6943,7 +6921,6 @@
     <e><p><l>riehtet<s n="n"/></l><r>čässih<s n="n"/></r></p></e>
     <e><p><l>riehtti<s n="n"/></l><r>nähki<s n="n"/></r></p></e>
     <e><p><l>riekti<s n="n"/></l><r>riehti<s n="n"/></r></p></e>
-    <e><p><l>riekti<s n="n"/></l><r>vuoigâdvuotâ<s n="n"/></r></p></e>
     <e><p><l>riestalas<s n="n"/></l><r>resthâš<s n="n"/></r></p></e>
     <e><p><l>rievdadeapmi<s n="n"/></l><r>nubástus<s n="n"/></r></p></e>
     <e><p><l>rievdadus<s n="n"/></l><r>nubástus<s n="n"/></r></p></e>
@@ -6959,7 +6936,6 @@
     <e><p><l>rihppaskuvla<s n="n"/></l><r>rippâškovlâ<s n="n"/></r></p></e>
     <e><p><l>rihtu<s n="n"/></l><r>riđo<s n="n"/></r></p></e>
     <e><p><l>riidu<s n="n"/></l><r>rijdo<s n="n"/></r></p></e>
-    <e><p><l>riika<s n="n"/></l><r>staatâ<s n="n"/></r></p></e>
     <e><p><l>riipu<s n="n"/></l><r>rippo<s n="n"/></r></p></e>
     <e><p><l>rikkisvuohta<s n="n"/></l><r>rigesvuotâ<s n="n"/></r></p></e>
     <e><p><l>risen<s n="n"/></l><r>riisi<s n="n"/></r></p></e>
@@ -9015,7 +8991,6 @@
     <e><p><l>davábealde<s n="adv"/></l><r>taavaabeln<s n="adv"/></r></p></e>
     <e><p><l>geardde<s n="adv"/></l><r>keerdi<s n="adv"/></r></p></e>
     <e><p><l>dušše<s n="adv"/></l><r>tuše<s n="adv"/></r></p></e>
-    <e><p><l>hui<s n="adv"/></l><r>hirmâd<s n="adv"/></r></p></e>
     <e><p><l>álggos<s n="adv"/></l><r>aalgâst<s n="adv"/></r></p></e>
     <e><p><l>dás<s n="adv"/></l><r>täst<s n="adv"/></r></p></e>
     <e><p><l>ovdal<s n="adv"/></l><r>ovdil<s n="adv"/></r></p></e>
@@ -9595,7 +9570,6 @@
     <e><p><l>fanccis<s n="n"/></l><r>luáđjá<s n="n"/></r></p></e>
     <e><p><l>fanccis<s n="n"/></l><r>voonâs<s n="n"/></r></p></e>
     <e><p><l>gaskkas<s n="n"/></l><r>riätká<s n="n"/></r></p></e>
-    <e><p><l>gaskkas<s n="n"/></l><r>rátká<s n="n"/></r></p></e>
     <e><p><l>giddagas<s n="n"/></l><r>faŋgâl<s n="n"/></r></p></e>
     <e><p><l>giitalus<s n="n"/></l><r>kiijtos<s n="n"/></r></p></e>
     <e><p><l>giitalus<s n="n"/></l><r>kijtto<s n="n"/></r></p></e>
