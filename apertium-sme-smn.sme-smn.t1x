@@ -257,6 +257,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </def-cat>
     <def-cat n="agreement-attr">    <!-- todo: remove starless versions of adj -->
       <cat-item lemma="aiddonas" tags="adj.*.attr.*"/>
+      <cat-item lemma="aitosaš" tags="adj.*.attr.*"/>
       <cat-item lemma="boahttevaš" tags="adj.*.attr.*"/>
       <cat-item lemma="čuvgehuslaš" tags="adj.*.attr.*"/>
       <cat-item lemma="dieđalaš" tags="adj.*.attr.*"/>
