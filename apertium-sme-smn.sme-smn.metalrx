@@ -1041,6 +1041,20 @@ Write comments to forthcoming rules before this line -->
 
 
 
+<!-- divat -->
+  <rule weight="1.0">
+    <match lemma="divat">
+      <select lemma="máksu"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="divat">
+      <select lemma="lovádâs"/>
+    </match> 
+  </rule>
+<!-- no rule for lovádâs = kymmennys yet -->
+
 
 </rules>
 
