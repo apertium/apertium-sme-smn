@@ -457,6 +457,27 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
 
+  <!-- lohkki -->
+  <rule weight="1.0">
+    <match lemma="lohkki">
+      <select lemma="lohhee"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="lohkki">
+      <select lemma="lokke"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+     <match lemma="bidjat"/>
+   <match lemma="lohkki"> 
+      <select lemma="lokke"/>
+    </match>
+  </rule>
+
+
 <!-- birra -->
   <rule weight="1.0">
     <match lemma="birra">
