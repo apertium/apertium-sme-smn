@@ -971,6 +971,7 @@ texts/eval2/2-2016/MTeval_PM.txt -text
 texts/eval2/2-2016/smn_mt.txt -text
 texts/eval2/README -text
 texts/eval2/results -text
+texts/eval2/wer_analysis.ods -text svneol=unset#application/vnd.oasis.opendocument.spreadsheet
 texts/giella.sme.txt -text
 texts/giella.smn.txt -text
 texts/giellagaldu_tyo.sme.txt -text
