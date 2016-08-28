@@ -1,20 +1,16 @@
-  70 #tme<adv><abbr><sg><nom>
-  33 #leđe
   24 #tiervâs<adj><attr><der_vuota><n><cmp_sgnom><cmp>palvâlusâi
-  21 #puh<n><abbr><sg><nom>
-  20 #Puovtâdem<n><sg><nom>
   18 #väldiđ
-  15 #tot<prn><dem><pl><loc><attr>
+  16 #puh<n><abbr><sg><nom>
   13 #tááláš<adj><attr>
   13 #eellimvyehi<n><sg><gen>
   13 #eellimvyehi<n><sg><acc>
   13 #2012-2015<num><pl><nom>
   12 #rs<n><abbr><sg><nom>
-  11 #taat<prn><dem><pl><loc><attr>
   11 #eellimvyehi<n><sg><nom>
   10 #vuosmuš<adj><ord><attr>
+  10 #tot<prn><dem><pl><loc><attr>
    9 #Áillohâš<np><ant><m><sg><gen>
-   9 #pyehtiđ
+   9 #puh<n><abbr><sg><acc>
    9 #Asâttâsvuáđustâs<adj><attr>
    8 #tyejipiergâs<n><g3><cmp_sgnom><cmp>kassâ
    8 #tiervâs<adj><attr><der_vuota><n><cmp_sggen><cmp>palvâlusâi
@@ -22,6 +18,7 @@
    8 #kielâ<n><der_t><adj><attr>
    8 #algâttem<n><sg><loc>
    7 #tiervâs<adj><attr><der_vuota><n><cmp_sggen><cmp>syergi
+   7 #taat<prn><dem><pl><loc><attr>
    7 #ruákášâttâđ<vblex><der_caus><vblex><inf>
    7 #oovdiš<adj><sg><loc>
    7 #Sirmá<np><top><sg><gen>
@@ -30,16 +27,13 @@
    6 #valmâštiđ<vblex><der_alla><vblex><der_passs><vblex><iv><prfprc>
    6 #uásálistee<n><nomag><sg><gen>
    6 #uásálistee<n><nomag><pl><nom>
-   6 #puovtâdem<n><sg><loc>
-   6 #puovtâdem<n><sg><ill>
-   6 #kolgâđ
+   6 #toohâđ
    6 #algâttem<n><sg><gen>
    6 #Ume<np><top><sg><loc>
    5 #čujottuđ<vblex><prfprc>
    5 #čujottuđ<vblex><indic><pret><p1><sg>
    5 #valmâštiđ<vblex><der_alla><vblex><der_passl><vblex><iv><prfprc>
    5 #uásálistee<n><nomag><sg><nom>
-   5 #toohâđ
    5 #tohálâš<adj><attr><der_vuota><n><cmp_sgnom><cmp>vátámâššân
    5 #tiervâs<adj><attr><der_vuota><n><cmp_sgnom><cmp>lävdikodde
    5 #tiervâs<adj><attr><der_vuota><n><cmp_sgnom><cmp>huolâttâs
@@ -62,20 +56,15 @@
    4 #ávus<adj><pl><nom>
    4 #vuáru<n><g3><cmp_sgnom><cmp>vaikuttâs
    4 #velttâ<n><err_dersub><der_keahtta>
-   4 #toimâttiđ<n>
+   4 #valmâštiđ<vblex><der_alla><vblex><der_passl><vblex><iv><indic><pret><p3><sg>
    4 #tiervâs<adj><attr><der_vuota><n><cmp_sgnom><cmp>palvâlusâin
    4 #tiervâs<adj><attr><der_vuota><n><cmp_sgnom><cmp>palvâlusâid
    4 #suomâ
-   4 #sosiaal<adj><attr>
    4 #skaappuđ<vblex><der_nomact><n><sg><loc>
    4 #siiviil<adj><cmp_attr><cmp>siäđu
    4 #saje<n><der_lasj><adj><cmp_sggen><cmp>siärvusij
    4 #puáđđuđ<vblex><vgen>
-   4 #puovtâdem<n><sg><gen>
-   4 #puovtâdem<n><sg><acc>
-   4 #puh<n><abbr><sg><acc>
    4 #ovtviärdásâš<adj><attr><der_vuota><n><cmp_sggen><cmp>vuávám
-   4 #oppâmateriaal<n><cmp_sgnom><cmp>#puovtâdem<n><sg><gen>
    4 #olášuđ<vblex><der_tt><vblex><inf>
    4 #nuuhâđ<vblex><ger>
    4 #netti<n><sg><loc>
@@ -85,8 +74,6 @@
    4 #kannattiđ<vblex><der_caus><vblex><tv><prsprc>
    4 #k<vblex><abbr><tv><imp>
    4 #juovlah<n><cmp_sgnom><cmp>jivekieddee
-   4 #ij
-   4 #ihe<num><arab><sg><nom>
    4 #U<n><abbr><cmp><guio>häämist
    4 #Truándin<np><top><sg><loc>
    4 #Tiänu
@@ -108,29 +95,27 @@
    3 #vuáđustiđ<vblex><der_alla><vblex><der_passs><vblex><iv><prfprc>
    3 #viälláđ<vblex><der_tt><vblex><der_passl><vblex><iv><inf>
    3 #viggâđ<vblex><der_tt><vblex><der_passl><vblex><iv><prfprc>
-   3 #valmâštiđ<vblex><der_alla><vblex><der_passl><vblex><iv><indic><pret><p3><sg>
    3 #valmâštiđ<vblex><der_alla><vblex><der_passl><vblex><iv><indic><pres><p3><sg>
    3 #uási<n><der_lasj><adj><attr><der_vuota><n><sg><acc>
    3 #uáinus<n><attr>
    3 #ubâmaailmlâš<adj><attr>
+   3 #tááláš<adj><cmp_attr><cmp>tile
    3 #tyejettem<adj><comp><cmp_attr><cmp>čällee
    3 #tyejettem<adj><comp><cmp_attr><cmp>loonjâi
    3 #tiätu<n><cmp_plgen><cmp>#lonnoođ<vblex><der_halla><vblex><der_nomact><n><cmp_sgnom><cmp>vuáháduvâid
    3 #tiervâs<adj><attr><der_vuota><n><cmp_sgnom><cmp>ministeriöst
    3 #teivâdem<n><sem_act><pl><acc>
+   3 #tehálâš<adj><attr><der_vuota><n><sg><nom>
    3 #sämikielâ<n><cmp_sh><cmp>táiđulâš
    3 #sämikielâ<n><cmp_sh><cmp>mátulâš
    3 #suomâ<n><cmp_sggen><cmp><guio>säämi
    3 #styeres<adj><sup>
-   3 #stivriđ<n>
    3 #seksuaal<adj><cmp_sgnom><cmp>ucceeblovoi
    3 #räđidiđ<vblex><der_alla><vblex><der_nomact><n><cmp_sgnom><cmp>#kodde<n><nomag><sg><acc>
    3 #raami<n><cmp_sgnom><cmp>#ohtâsâš<adj><cmp_attr><cmp>sopâmuš
    3 #päälgis<n><cmp_sgnom><cmp>
-   3 #puovtâdem<n><cmp_sgnom><cmp>vuávám
    3 #priivaat<adj><cmp_sggen><cmp>ulmui
-   3 #oppâmateriaal<n><cmp_sgnom><cmp>#puovtâdem<n><sg><nom>
-   3 #oppâmateriaal<n><cmp_sgnom><cmp>#puovtâdem<n><sg><loc>
+   3 #original<adj><attr>
    3 #olluv<adj><cmp_attr><cmp>
    3 #oles<adj><cmp_sgnom><cmp>merelávt
    3 #nubbe<adj><ord><attr>
@@ -138,18 +123,17 @@
    3 #mäddi<n><cmp_sgnom><cmp>
    3 #mielâsávt<adv>
    3 #loppâ<n><der_car><adj><comp><attr>
-   3 #leđe<n>
    3 #lasettiđ<vblex><actio><gen>
    3 #kyehti<num><cmp_splitr>
    3 #kuáttum<n><sem_act><cmp_sgnom><cmp>enâmij
    3 #kuábáš-uv<prn><ind><gen>
    3 #kuullâđ<vblex><indic><pres><p3><sg>
    3 #kukke<adj><comp><cmp_attr><cmp>ääigi
+   3 #koskânis<adv><px3pl>
    3 #koskâ<n><cmp_sgnom><cmp>#meeri<n><der_lasj><adj><comp><attr>
    3 #kavnâm<n><pl><acc>
    3 #jyeigee<n><nomag><pl><gen>
    3 #juávkku<n><cmp_sgnom><cmp>#peerâ<n><cmp>peivikiäčču
-   3 #jurgâliđ<n>
    3 #jottáđ<vblex><der_caus><vblex><der_nomact><n><sg><gen>
    3 #ihe<n><der_dimin><n><sg><gen>
    3 #hoittáđ<vblex><ger>
@@ -163,7 +147,6 @@
    3 #Ucjuuhâ<np><err_hyphsub><cmp>mááccuh
    3 #Taat<prn><dem><pl><loc><attr>
    3 #Risku<np><ess>
-   3 #Puovtâdem<n><cmp_sgnom><cmp>torjuu
    3 #Piäccám<np><top><sg><gen>
    3 #Loho<n><cmp_sgnom><cmp>#leikkâ<n><sg><nom>
    3 #Iänudâh<np><cmp_sgnom><cmp><guio>#Kuovdâkiäinu<np><err_hyphsub><cmp>mááccuh
@@ -176,12 +159,11 @@
    2 #šoddâđ<vblex><der_caus><vblex><indic><pret><p3><sg>
    2 #čiččâd<adj><ord><attr>
    2 #čielgâs<adj><comp><attr>
-   2 #älgiđ<n>
    2 #Ålánda<np><top><sg><gen>
    2 #Äšši<n><cmp_sgnom><cmp>
    2 #vuáđudiđ<vblex><ger>
    2 #vuáđu<n><cmp_sgnom><cmp>#tiervâs<adj><attr><der_vuota><n><cmp_sggen><cmp>huolâttâs
-   2 #vuáláčällee<n><nomag><sg><nom><px1sg>
+   2 #vuáláčällee<n><nomag><sg><gen><px1sg>
    2 #vuáláčällee<n><nomag><pl><nom>
    2 #vuáháduđ<vblex><der_tt><vblex><inf>
    2 #vuossâmuš<adj><sup><attr>
@@ -189,7 +171,6 @@
    2 #virtuaal<adj><cmp_sgnom><cmp>máttááttâs
    2 #viijđes<adj><comp><attr>
    2 #vieres<adj><cmp_sgnom><cmp>
-   2 #valmâštuđ<n>
    2 #valmâštiđ<vblex><der_alla><vblex><der_passs><vblex><iv><indic><pres><p3><sg>
    2 #valjiđ<vblex><ger>
    2 #vaikuttiđ<vblex><der_tt><vblex><der_nomact><n><sg><gen>
@@ -202,7 +183,6 @@
    2 #ubâ<adj><comp><sg><nom>
    2 #ubâ<adj><comp><attr>
    2 #täsni<n><der_dimin><n><pl><nom>
-   2 #tááláš<adj><cmp_attr><cmp>tile
    2 #tááláš<adj><cmp_attr><cmp>tiileest
    2 #tánssájeijee<n><sg><nom>
    2 #tyejipiergâs<n><g3><pl><gen>
@@ -213,7 +193,6 @@
    2 #torvolâš<adj><attr><der_vuota><n><sg><gen>
    2 #torvo<n><der_lasj><adj><attr><der_vuota><n><sg><acc>
    2 #torvo<n><der_lasj><adj><attr><der_vuota><n><cmp_sggen><cmp_splitr>
-   2 #toohâđ<n>
    2 #toimâohtâdâh<n><der_dimin><n><sg><nom>
    2 #toimâohtâdâh<n><der_dimin><n><cmp_sgnom><cmp>osko
    2 #toimâ<n><der_car><adj><comp><cmp_attr><cmp>pargoh
@@ -226,7 +205,6 @@
    2 #tiervâs<adj><attr><der_vuota><n><cmp_sggen><cmp>ministeriöst
    2 #teivâđ<vblex><ger>
    2 #teivâdem<n><sem_act><cmp_sgnom><cmp_splitr>
-   2 #tehálâš<adj><attr><der_vuota><n><sg><nom>
    2 #tehálâš<adj><attr><der_vuota><n><cmp_sggen><cmp>kritereh
    2 #teatterrähtee<n><nomag><pl><nom>
    2 #sämmilâš<n><cmp_sggen><cmp><guio>suomâ
@@ -251,17 +229,15 @@
    2 #ruossâlâs<adj><attr><der_vuota><n><pl><nom>
    2 #rs<n><abbr><sg><gen>
    2 #roomaan<n><cmp_sgnom><cmp>
+   2 #riggodiđ<vblex><der_caus><vblex><tv><der_nomact><n><sg><nom>
    2 #pálkkááttiđ<vblex><ger>
    2 #puáttiđ<vblex><ger>
-   2 #puovtâdem<n><cmp_sgnom><cmp>vuáváámijd
    2 #priivaat<adj><cmp_sggen><cmp>ulmuuh
    2 #pištevâš<adj><attr><der_vuota><n><sg><gen>
    2 #perustiđ<vblex><der_caus><vblex><tv><prsprc>
-   2 #paha<adj><cmp_sgnom><cmp>täävilâžžân
+   2 #paa<adj><cmp_sgnom><cmp>täävilâžžân
    2 #ovtviärdásâš<adj><attr><der_vuota><n><cmp_sggen><cmp>vuáváámeh
    2 #ovdediđ<vblex><actio><gen>
-   2 #orniđ<n>
-   2 #original<adj><attr>
    2 #olášuđ<vblex><ger>
    2 #olášuđ<vblex><der_tt><vblex><der_nomact><n><sg><loc>
    2 #olášuđ<vblex><der_tt><vblex><der_nomact><n><sg><gen>
@@ -283,20 +259,14 @@
    2 #miärádâs<n><cmp_sgnom><cmp>#toohâđ<n><sg><nom>
    2 #merkkiđ<vblex><der_pass><vblex><der_upmi><n><sg><nom>
    2 #meriáigásâš<adj><attr><der_vuota><n><sg><loc>
-   2 #meiddei<n>
-   2 #maŋalâs<adj><attr>
    2 #maaŋgâlágán<adj><attr><der_vuota><n><sg><gen>
    2 #maaŋgâkielâlâš<adj><attr><der_vuota><n><sg><gen>
    2 #luovâs<adj><cmp_attr><cmp>stoovli
    2 #lonnoođ<vblex><der_halla><vblex><der_nomact><n><sg><gen>
    2 #lonnjâ<n><cmp_sgnom><cmp>
-   2 #leđe<sg><gen>
-   2 #leđe<ess>
    2 #lehâdiđ<vblex><der_pass><vblex><indic><pres><p3><sg>
-   2 #lavŋe<n><cmp_sgnom><cmp>#puovtâdem<n><sg><loc>
    2 #kyehti<num><cmp>#peivi<n><der_sasj><adj><attr>
    2 #kuáti<n><cmp_sgnom><cmp>#jotteeđ<vblex><der_alla><vblex><der_nomact><n><sg><acc>
-   2 #kuáivuttâh<n><cmp_sgnom><cmp>#puovtâdem<n><sg><loc>
    2 #kuábáš<prn><ind><sg><loc><attr><foc_uv>
    2 #kuábáš-uv<prn><ind><gen><foc_uv>
    2 #kuvviđ<vblex><der_alla><vblex><inf>
@@ -305,7 +275,6 @@
    2 #kuoskâđ<vblex><ger>
    2 #kulttuur<n><cmp_sgnom><cmp><guio>eđâldâh
    2 #kote<prn><rel><sg><loc><attr>
-   2 #koskânis<adv><px3pl>
    2 #kištottâllâđ<vblex><der_caus><vblex><tv><indic><pres><p3><sg>
    2 #kiäsutteijee<n><ess>
    2 #keččee<n><ess>
@@ -321,10 +290,10 @@
    2 #huolâ<n><err_dersub><der_keahtta>
    2 #globalisaatio<n><sg><nom>
    2 #eromâš<adj><attr><der_vuota><n><ess>
-   2 #el<adv><abbr><sg><nom>
    2 #eeči<n><der_dimin><n><sg><nom><px1sg>
    2 #eellim<n><cmp_sgnom><cmp>#vyeimi<n><der_lasj><adj><ess>
    2 #anneeđ<vblex><imp><p1><sg>
+   2 #algâttem<n><cmp_sgnom><cmp>seminaarist
    2 #aktiivlâš<adj><attr><der_vuota><n><sg><gen>
    2 #aalmugovdâsteijee<n><sg><nom>
    2 #Virge<n><cmp_sgnom><cmp>#sajasâš<adj><attr><der_vuota><n><sg><gen>
@@ -338,6 +307,7 @@
    2 #Tááláš<adj><cmp_attr><cmp>#säämi<n><cmp_sggen><cmp>muusik
    2 #Tyejettem<adj><comp><cmp_attr><cmp>čällee
    2 #Sámieana<np><top><sg><gen>
+   2 #Sámeeana<np><top><sg><loc>
    2 #Sádda<np><top><sg><nom><foc_gis>
    2 #Sirmá<np><top><sg><acc>
    2 #Siiviil<adj><cmp_attr><cmp_splitr>
@@ -382,28 +352,24 @@
    2 #2012-2020<num><pl><nom>
    2 #2012-2015<num><pl><gen>
    2 #2010-2011<num><pl><nom>
+   2 #2007-2008<num><pl><nom>
    2 #2004-2007<num><pl><nom>
    2 #2004-2006<num><pl><nom>
+   2 #2003-2004<num><pl><nom>
    2 #1906-1912<num><pl><nom>
    1 #čäälliđ<vblex><ger><px1pl>
    1 #čääci<n><der_car><adj><comp><attr>
    1 #čáitáldâh<n><pl><loc><px3sg>
    1 #čyeti<num><attr>
-   1 #čuávdiđ<n>
    1 #čuudâ<n><cmp_sgnom><cmp>#lávluđ<n><sg><nom>
    1 #čuoigâđ<vblex><der_pass><vblex><prfprc>
    1 #čujottâs<n><g3><sg><nom>
    1 #čujottâs<n><g3><sg><loc>
    1 #čujottuđ<vblex><prsprc>
    1 #čujottiđ<vblex><actio><gen>
-   1 #čujottiđ<n>
    1 #čokkiđ<vblex><ger>
-   1 #čokkiđ<n>
    1 #šoddâđ<vblex><ger><px2sg>
    1 #šoddâđ<vblex><der_caus><vblex><inf>
-   1 #šoddâđ<n><ess>
-   1 #šoddâđ<n>
-   1 #šoddâđ
    1 #škovliđ<vblex><vgen><foc_han>
    1 #čiččâmnubáloh<num><sg><nom><attr>
    1 #Čiččâd<adj><ord><attr>
@@ -432,7 +398,6 @@
    1 #árvu<n><cmp_sgnom><cmp>#väldi<n><der_lasj><adj><attr>
    1 #álguaalmug<n><cmp_sgnom><cmp>
    1 #álguaalmug<n>
-   1 #áiguđ
    1 #Äššigâs<n><cmp_sgnom><cmp>
    1 #Ässee<n><sg><gen>
    1 #Ässee<n><pl><ill>
@@ -441,7 +406,6 @@
    1 #Áltá<np><top><sg><gen>
    1 #Áillohâš<np><ant><m><sg><acc>
    1 #värisj<n><abbr><sg><nom>
-   1 #väldiđ<n>
    1 #väldi<n><nomag><ess>
    1 #válju<adj><attr>
    1 #vájáldittiđ<vblex><der_inchl><vblex><indic><pret><p3><pl>
@@ -454,8 +418,8 @@
    1 #vuáru<n><g3><cmp_sgnom><cmp>vaikuttâsâst
    1 #vuáru<n><g3><cmp_sgnom><cmp>vaikuttâsân
    1 #vuáru<n><g3><cmp_sgnom><cmp>iivijn
+   1 #vuáláčällee<n><nomag><sg><nom><px1sg>
    1 #vuáláčällee<n><nomag><sg><loc>
-   1 #vuáláčällee<n><nomag><sg><gen><px1sg>
    1 #vuáláčällee<n><nomag><sg><gen>
    1 #vuáittu<n><der_dimin><n><pl><acc>
    1 #vuáháduttiđ<vblex><der_caus><vblex><inf>
@@ -465,7 +429,6 @@
    1 #vošmâ<adj><attr>
    1 #viärráá<adj><comp><der_aadv><adv>
    1 #viärmádâhlâš<adj><attr><der_vuota><n><sg><gen>
-   1 #visásmittiđ<n>
    1 #virtuaal<adj><cmp_sgnom><cmp>škovlâ
    1 #virge<n><cmp_sgnom><cmp>#sajasâš<adj><attr><der_vuota><n><sg><gen>
    1 #viiđâd<adj><ord><cmp_sgnom><cmp>#luokka<n><der_lasj><adj><comp><attr>
@@ -477,10 +440,8 @@
    1 #valmâštuđ<vblex><der_nomact><n><sg><acc>
    1 #valmâštiđ<vblex><der_alla><vblex><der_passs><vblex><iv><indic><pret><p3><sg>
    1 #valmâštiđ<n><sg><ill>
-   1 #valmâštiđ<n>
    1 #valjiđ<vblex><der_pass><vblex><indic><pret><p3><du>
    1 #valjiđ<vblex><der_pass><vblex><indic><pret><conneg>
-   1 #val<n>
    1 #vaikuttiđ<vblex><der_tt><vblex><inf>
    1 #vaikuttiđ<n><pl><ill>
    1 #vaalmâš<adj><comp><attr>
@@ -490,8 +451,6 @@
    1 #v<n><abbr><cmp><guio>háámán
    1 #uđâsmiđ<vblex><der_tt><vblex><der_nomact><n><sg><gen>
    1 #uážžuđ<vblex><actio><gen>
-   1 #uážžuđ<n>
-   1 #uásálistiđ<n>
    1 #uásálistee<n><nomag><sg><ill>
    1 #uásálistee<n><nomag><pl><ill>
    1 #uásálistee<n><nomag><pl><gen>
@@ -500,17 +459,14 @@
    1 #uásálistee<n><nomag><cmp_sgnom><cmp>meeri
    1 #uási<n><der_lasj><adj><comp><sg><nom>
    1 #uási<n><der_lasj><adj><attr><der_vuota><n><sg><gen>
-   1 #uási<n><cmp_sgnom><cmp>
    1 #uáppu<n><cmp_sgnom><cmp>#materiaal<n><g3><pl><nom>
    1 #uáppu<n><cmp_sgnom><cmp>#materiaal<n><g3><cmp_sgnom><cmp>ovdedem
    1 #uápis<adj><comp><attr>
    1 #uálgis<adj><cmp_sgnom><cmp>piälán
-   1 #uáivildiđ<n>
    1 #uáivi<n><cmp_sgnom><cmp>#äšši<n><der_lasj><adj><attr>
    1 #uáivi<n><cmp_sgnom><cmp>#ruttâdeijee<n><nomag><sg><nom>
    1 #uáivi<n><cmp_sgnom><cmp>#korttâ<n><cmp_sgnom><cmp>#väldi<n><nomag><sg><nom>
    1 #uáivi<n><cmp_sgnom><cmp>
-   1 #uuđâs<n><cmp_sgnom><cmp>#puovtâdem<n><sg><gen>
    1 #uuđâs<adj><comp><cmp_attr><cmp>rähtimist
    1 #uuđâs<adj><cmp_sgnom><cmp>lääđi
    1 #ustevlâš<adj><attr><der_vuota><n><sg><acc>
@@ -531,10 +487,8 @@
    1 #tv<n><acr><cmp_hyph><cmp>uđđâsij
    1 #tv<n><acr><cmp_hyph><cmp>ohjelmij
    1 #tuđâvâš<adj><attr><der_vuota><n><sg><acc>
-   1 #tuáijuđ<n>
    1 #tutâmettum<adj><attr><der_vuota><n><sg><acc>
    1 #tutkâđ<vblex><vabess><adj><attr>
-   1 #turvâstiđ<n>
    1 #tupe<n><der_dimin><n><sg><loc>
    1 #tuođâlâš<adj><comp><attr>
    1 #tuođâlâš<adj><attr><der_vuota><n><sg><loc>
@@ -546,7 +500,6 @@
    1 #toolááš<adj><sup><pl><loc>
    1 #toolááš<adj><comp><pl><nom>
    1 #toollâđ<vblex><der_d><vblex><der_passl><vblex><iv><der_upmi><n><sg><gen>
-   1 #toimâđ<n>
    1 #toimâohtâdâh<n><der_dimin><n><cmp_sgnom><cmp>maalih
    1 #toimâ<n><der_car><adj><comp><cmp_attr><cmp>saje
    1 #toimâ<n><der_car><adj><comp><cmp_attr><cmp>pargoin
@@ -562,11 +515,9 @@
    1 #tobdos<adj><sup><pl><ill>
    1 #tobdos<adj><sup><ess>
    1 #tobdos<adj><sup><attr>
-   1 #tiäđust-uv<n>
-   1 #tiätu<n><cmp_sggen><cmp>#puovtâdem<n><sg><nom>
    1 #times<adj><cmp_attr><cmp>tuojijd
-   1 #tiiláđ<n>
    1 #tieđettiđ<vblex><der_nomact><n><cmp_sgnom><cmp>#lääđi<n><der_dimin><n><pl><gen>
+   1 #tieđettiđ<n><pl><nom>
    1 #tievâslâš<adj><attr><der_vuota><n><ess>
    1 #tiettiđ<vblex><der_tt><vblex><der_nomact><n><cmp_sgnom><cmp>#čaalâ<n><sg><ill><px2sg>
    1 #tiet<prn><dem><pl><loc><attr>
@@ -588,13 +539,10 @@
    1 #teivâdem<n><sem_act><pl><com>
    1 #tehálâš<adj><attr><der_vuota><n><sg><gen>
    1 #tehálâš<adj><attr><der_vuota><n><sg><acc>
-   1 #teatter<n>
    1 #tave<n><cmp_sgnom><cmp><guio>Säämi
    1 #tave<n><cmp_sgnom><cmp><guio>Suomâ
    1 #tave-eennâm<n><der_lasj><adj><attr><der_vuota><n><sg><nom>
-   1 #tarbâšiđ<n>
    1 #taiđâlâš<adj><attr><der_vuota><n><sg><gen>
-   1 #taat<n><sg><gen>
    1 #taaiđâ<n><sg><acc><px2sg>
    1 #taaiđâ<n>
    1 #säämi<n><cmp_sggen><cmp>#jyeigee<n><nomag><pl><gen>
@@ -624,8 +572,6 @@
    1 #siärvus<n><der_lasj><adj><attr>
    1 #siämmáálágán<adj><attr><der_vuota><n><sg><nom>
    1 #siämmáá
-   1 #siskáldâs<n><cmp_sgnom><cmp>#puovtâdem<n><sg><nom>
-   1 #siskáldâs<n><cmp_sgnom><cmp>#puovtâdem<n><sg><gen>
    1 #sirdeđ<vblex><ger>
    1 #siiviil<adj><cmp_attr><cmp>vuoigâdvuođâid
    1 #siiviil<adj><cmp_attr><cmp>siätun
@@ -657,8 +603,6 @@
    1 #rs<n><sg><nom>
    1 #rs<n><abbr><sg><loc>
    1 #rs<n><abbr><sg><acc>
-   1 #rijjâtátulâš<n>
-   1 #riggodiđ<vblex><der_caus><vblex><tv><der_nomact><n><sg><nom>
    1 #rievtis<adj><attr><der_vuota><n><cmp_sggen><cmp>tobdo
    1 #rehelâš<adj><attr><der_vuota><n><sg><nom>
    1 #reesuurs<n><der_dimin><n><pl><gen>
@@ -671,13 +615,9 @@
    1 #pyerediđ<vblex><ger>
    1 #pyerediđ<vblex><actio><gen>
    1 #puáttiđ<vblex><ger><px1sg>
-   1 #puáttiđ<n>
    1 #puástu<adj><attr><cmp>kyeddim-
    1 #puástu<adj><attr>
    1 #putes<adj><attr><der_vuota><n><sg><ill>
-   1 #puovtâdem<n><sg><nom>
-   1 #puovtâdem<n><cmp_sgnom><cmp>tekniik
-   1 #povdiđ<n>
    1 #porgâđ<vblex><ger>
    1 #poovij<n><cmp_sgnom><cmp>malli
    1 #piđoh<n><der_dimin><n><pl><gen>
@@ -688,6 +628,7 @@
    1 #pelnub<num><attr><cmp>#kerdi<n><der_sasj><adj><attr>
    1 #pelji<n><cmp_sgnom><cmp>
    1 #pehtil<adj><attr><der_vuota><n><sg><acc>
+   1 #peesi<n><g3><der_dimin><n><cmp_sgnom><cmp>markkânijd
    1 #peesi<n><g3><cmp_sgnom><cmp>tyejeh
    1 #peesi<n><g3><cmp_sgnom><cmp>pittáid
    1 #peerâ<n><sg><ill><px1pl>
@@ -698,12 +639,11 @@
    1 #peenuv<n><der_dimin><n><sg><nom>
    1 #pargo<n><cmp_sgnom><cmp>
    1 #pajeláá<adv><px3sg>
-   1 #paha<adj><cmp_sgnom><cmp>tahhee
+   1 #paa<adj><cmp_sgnom><cmp>tahhee
    1 #ovtviärdásâš<adj><attr><der_vuota><n><cmp_sgnom><cmp>vuáváámeh
    1 #ovtviärdásâš<adj><attr><der_vuota><n><cmp_sgnom><cmp>pargoost
    1 #ovtviärdásâš<adj><attr><der_vuota><n><cmp_sggen><cmp>vuáváámijd
    1 #ovdâstiđ<vblex><der_nomact><n><cmp_sgnom><cmp>#teivâdem<n><sem_act><pl><nom>
-   1 #ovdâstiđ<n>
    1 #ortodoksilâš<adj><attr><der_vuota><n><sg><loc>
    1 #ortodoksilâš<adj><attr><der_vuota><n><sg><gen>
    1 #orroođ<vblex><der_nomag><n><sg><nom>
@@ -730,13 +670,12 @@
    1 #oles<adj><cmp_sgnom><cmp>#meeri<n><der_lasj><adj><comp><attr>
    1 #ohtâ<num><cmp_sggen><cmp>#tääsi<n><der_sasj><adj><attr>
    1 #ohtnubáloh<num><sg><loc><attr>
-   1 #ohjelm<n><cmp_sgnom><cmp>#puovtâdem<n><sg><ill>
    1 #nyevt<adv>-*raidbarggu
    1 #nuuhâđ<vblex><der_tt><vblex><der_passl><vblex><iv><indic><pres><p3><sg>
    1 #nuotâsteijee<n><sg><nom>
    1 #nube
    1 #nomâttiđ<n><sg><gen>
-   1 #nomâttiđ<n>
+   1 #nollá<n><g3><cmp_sggen><cmp>#summe<n><cmp_sggen><cmp>spellâ
    1 #njyebžil<adj><attr><der_vuota><n><sg><nom>
    1 #njuolgimvátámuš<n><pl><nom>
    1 #njune<n><cmp>uulmijn
@@ -752,14 +691,10 @@
    1 #mätki<n><der_lasj><adj><sg><gen>
    1 #myerji<n><der_dimin><n><pl><loc>
    1 #muáddi
-   1 #mun<n><sg><gen>
-   1 #mottoom<n>
    1 #mollâ<n><sg><nom>
    1 #miärádâs<n><cmp_sgnom><cmp>#porgâđ<n><sg><ill>
-   1 #miäruštâllâđ<n>
    1 #mitto<n><der_lasj><adj><comp><attr>
    1 #mieđettiđ<vblex><ger>
-   1 #meridiđ<n>
    1 #mecci<n><cmp_sgnom><cmp>
    1 #markkânistiđ<vblex><der_inchl><vblex><prfprc>
    1 #maaŋgâpiälálâš<adj><attr><der_vuota><n><sg><nom>
@@ -774,7 +709,6 @@
    1 #lájádâs<n><cmp_sgnom><cmp>
    1 #lyetittettee<adj><der_vuota><n><sg><acc>
    1 #luuhâđ<vblex><ger><px1pl>
-   1 #luuhâđ<n>
    1 #luovâs<adj><cmp_attr><cmp>kálvu-
    1 #luovâs<adj><attr>
    1 #lovváád<adj><ord><cmp_sgnom><cmp>uási
@@ -782,10 +716,7 @@
    1 #lonnoođ<vblex><der_halla><vblex><der_nomact><n><sg><acc>
    1 #lonnoođ<vblex><der_halla><vblex><der_nomact><n><cmp_sgnom><cmp>uáppen
    1 #leđe<vblex><imp><p1><pl>
-   1 #leđe<n><pl>
    1 #leikkâ<n><sg><ill>
-   1 #lasaniđ<n><ess>
-   1 #lahteđ<n>
    1 #laahâ<n><cmp_sggen><cmp>#kevttim<n><cmp_sgnom><cmp>#väldi<n><nomag><sg><ill>
    1 #kááidus<adj><cmp_attr><cmp>ohtâvuođah
    1 #kááidus<adj><cmp_attr><cmp>luuhâm
@@ -809,14 +740,12 @@
    1 #kuullâđ<vblex><imp><p1><pl>
    1 #kuullâđ<vblex><der_tt><vblex><indic><pres><p3><pl>
    1 #kuullâđ<vblex><der_tt><vblex><indic><pres><p3><du>
-   1 #kulttuur<n><cmp_sgnom><cmp>#puovtâdem<n><sg><acc>
    1 #kulttuur<n><cmp_sgnom><cmp>#lonnoođ<vblex><der_halla><vblex><der_nomact><n><sg><loc>
    1 #kulttuur<n><cmp_sgnom><cmp>#antropoloog<n><sg><nom>
    1 #kulluđ<vblex><vgen>
    1 #kukke<adj><der_aadv><adv>
    1 #kukke<adj><cmp_sgnom><cmp>#liävvuđ<vblex><der_nomag><n><sg><ill>
-   1 #kukke<adj><cmp_sggen><cmp>#liävvuđ<vblex><der_nomag><n><sg><nom>
-   1 #kuhháá<n>
+   1 #kukke<adj><cmp_sggen><cmp>#liävvuđ<vblex><der_nomag><n><sg><gen>
    1 #koččođ<vblex><der_pass><vblex><indic><pret><p3><pl>
    1 #kote<prn><rel><sg><gen>
    1 #koskânis<adv><px1pl>
@@ -827,9 +756,11 @@
    1 #kirkko<n><der_lasj><adj><cmp_sggen><cmp>čuákkim
    1 #kiijlu<n><cmp_sgnom><cmp>juolgij
    1 #kieđâvuššâđ<vblex><vabess><adj><attr>
+   1 #kierdâvâš<adj><attr><der_vuota><n><sg><nom>
    1 #kielâ<n><der_t><adj><sg><acc>
    1 #keččâđ<vblex><ger>
    1 #keččâđ<vblex><der_pass><vblex><imp><p2><sg>
+   1 #keččâđ<n><sg><acc>
    1 #keriveh<n><cmp_sgnom><cmp>rievti
    1 #kavnâđ<n><sg><nom>-čokkânem
    1 #kalle<num><sg><loc>
@@ -838,7 +769,6 @@
    1 #kaatâ<n><cmp_sgnom><cmp>kován
    1 #jäämmiđ<vblex><der_d><vblex><cond><pres><p3><sg>
    1 #jávrrešduottar<n><sg><gen>
-   1 #já<num><sg><gen>
    1 #jyeigee<n><nomag><sg><nom>
    1 #jyeigee<n><nomag><sg><acc>
    1 #jyeigee<n><nomag><pl><nom>
@@ -872,8 +802,6 @@
    1 #intres<n><g3><cmp_sgnom><cmp>juávhuid
    1 #imâštâllâđ<vblex><der_caus><vblex><tv><indic><pret><p3><sg>
    1 #ij<vblex><neg><supn><p3><sg>
-   1 #ij<pl>
-   1 #ihe<vblex><actio><ill>
    1 #huámášiđ<vblex><actio><gen>
    1 #hiäjusmiđ<vblex><der_caus><vblex><tv><der_nomact><n><cmp_sgnom><cmp>tilálâšvuotân
    1 #hiäju<adj><comp><der_aadv><adv>
@@ -883,7 +811,6 @@
    1 #haldâšiđ<n><sg><nom>
    1 #gáddeluokta<n><sg><gen>
    1 #euroop<n><sg><gen>
-   1 #euro<vblex><actio><ill>
    1 #etnisâš<adj><attr><der_vuota><n><sg><ill>
    1 #etnisiteet<n><der_lasj><adj><comp><attr>
    1 #eromâš<adj><cmp_sgnom><cmp>
@@ -903,22 +830,19 @@
    1 #demokraatlâš<adj><comp><attr>
    1 #cimccâh<n><cmp_sgnom><cmp>
    1 #barents<n><sg><gen>
-   1 #ađai<n>
    1 #atâštuđ<vblex><der_tt><vblex><der_nomag><n><sg><nom>
-   1 #asâttiđ<n>
    1 #asettem<adj><comp><pl><nom>
    1 #arkitektuur<n><cmp_sgnom><cmp>#savâstâllâđ<n><sg><loc>
    1 #argâpeivi<n><cmp_sh><cmp>pihtâsáin
    1 #almugijkoskâsâš<adj>
    1 #almottiđ<vblex><der_tt><vblex><der_nomag><n><sg><loc>
    1 #almottiđ<n><pl><nom>
-   1 #almottiđ<n>
    1 #almos<adj><attr><der_vuota><n><sg><ill>
    1 #almolâš<adj><attr><der_vuota><n><sg><loc>
    1 #almolâš<adj><attr><der_vuota><n><sg><gen>
    1 #almolâš<adj><attr><der_vuota><n><sg><acc>
    1 #algâttem<n><sg><ill>
-   1 #algâttem<n><cmp_sgnom><cmp>seminaarist
+   1 #algâttem<n><cmp_sgnom><cmp>teivâdmist
    1 #algâttem<n><cmp_sgnom><cmp>ruuđâst
    1 #aldemuš<adj><pl><gen>
    1 #aldemuš<adj><pl><acc>
@@ -954,10 +878,10 @@
    1 #Tärhistiđ<vblex><vabess><adj><attr>
    1 #Tááláš<adj><attr>
    1 #Tuáijuđ<vblex><ger><px1sg>
+   1 #Tuot<prn><dem><pl><loc><attr>
    1 #Truándin<np><top><sg><gen>
    1 #Torvo<n><der_lasj><adj><attr><der_vuota><n><cmp_sgnom><cmp_splitr>
    1 #Tohálâš<adj><attr><der_vuota><n><cmp_sggen><cmp>vátámâššân
-   1 #Tme<adv><abbr><sg><nom>
    1 #Tiänuleehi<np><top><sg><loc>
    1 #Tiänuleehi<np><top><sg><gen>
    1 #Tiijmá<adj><attr>
@@ -972,7 +896,6 @@
    1 #Sämikielâ<n><cmp_sh><cmp>mátulâš
    1 #Sámmol<np><ant><m><sg><gen>
    1 #Sámieana<np><top><sg><acc>
-   1 #Sámeeana<np><top><sg><loc>
    1 #Sámeeana<np><top><sg><gen>
    1 #Suenjel<np><top><sg><gen>
    1 #Staatâ<n><cmp_sgnom><cmp>#väldi<n><nomag><sg><nom>
@@ -992,7 +915,6 @@
    1 #PÄÄLGIS<n><cmp_sgnom><cmp>
    1 #Puáđđuđ<vblex><vgen>
    1 #Puástu<adj><attr><cmp>haldâttâs
-   1 #Puovtâdem<n><cmp_sgnom><cmp>#toorjâ<n><cmp_sgnom><cmp>ucâmušah
    1 #Porsaŋg<np><top><sg><loc>
    1 #Porsaŋg<np><cmp_sgnom><cmp><guio>Rintala
    1 #Porgâđ<vblex><ger>
@@ -1016,7 +938,6 @@
    1 #Njuolgimvátámuš<n><pl><acc>
    1 #Netti<n><sg><loc>
    1 #Neakkel<np><top><sg><loc>
-   1 #NUUHÂĐ<n>
    1 #Mätki<n><der_lasj><adj><sg><ill>
    1 #Máren<np><ant><f><cmp_sgnom><cmp><guio>#Elli<np><ant><f><attr>
    1 #Muotkevuotna<np><top><sg><gen>
@@ -1034,7 +955,6 @@
    1 #Lie<np><pl><nom>
    1 #Leo<np><ant><m><ess>
    1 #Laiti<np><pl><nom>
-   1 #LEĐE
    1 #Kááijuđ<vblex><ger>
    1 #Kyehti<num><cmp_splitr>
    1 #Kuávlu<n><cmp_sgnom><cmp>#ohtâsâš<adj><cmp_attr><cmp>sopâmuš
@@ -1045,7 +965,6 @@
    1 #Kulttuur<n><cmp_sgnom><cmp><guio>tábáhtusân
    1 #Kulttuur<n><cmp_sgnom><cmp><guio>tábáhtusâid
    1 #Kolle<n><cmp_sgnom><cmp>#kielâ<n><der_t><adj><pl><nom>
-   1 #Kolgâđ
    1 #Kirste<np><ant><f><ess>
    1 #Kielâ<n><cmp_sgnom><cmp>#leikkâ<n><sg><nom>
    1 #Kielâ<n><cmp_sgnom><cmp>
@@ -1057,6 +976,7 @@
    1 #Iänudâh<np><cmp_sgnom><cmp><guio>#Kuovdâkiäinu<np><err_hyphsub><cmp>mááccuhân
    1 #Issat<np><ant><m><sg><gen>
    1 #IVIII<num><rom><sg><nom>
+   1 #ILO<np><cmp_sggen><cmp><guio>#169<num><cmp><guio>sopâmuš
    1 #IIIII<num><rom><sg><nom>
    1 #IIII<num><rom><sg><nom>
    1 #Huollâđ<vblex><der_st><vblex><der_caus><vblex><tv><der_nomag><n><sg><nom>
@@ -1090,18 +1010,18 @@
    1 #2010-2015<num><pl><nom>
    1 #2010-2013<num><pl><acc>
    1 #2009-2013<num><pl><gen>
+   1 #2009-2011<num><pl><nom>
    1 #2009-2010<num><pl><nom>
    1 #2008-2011<num><pl><gen>
    1 #2008-2011<num><pl><acc>
    1 #2008-2010<num><pl><nom>
    1 #2008-2009<num><pl><nom>
    1 #2007-2013<num><pl><acc>
-   1 #2007-2008<num><pl><nom>
    1 #2006-2007<num><pl><nom>
    1 #2005-2006<num><pl><nom>
    1 #2005-2006<num><pl><gen>
    1 #2004-2006<num><pl><nom>´
-   1 #2003-2004<num><pl><nom>
+   1 #1999-2000<num><pl><nom>
    1 #1993-1997<num><pl><nom>
    1 #1993-1995<num><pl><nom>
    1 #1973-1995<num><pl><nom>
