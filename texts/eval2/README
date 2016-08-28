@@ -1,0 +1,8 @@
+
+Text files for evaluation are in 2-2016.
+The command used for WER and PER is
+perl ~/apertium/trunk/apertium-eval-translator/apertium-eval-translator-line.pl -r smn.mt -t MTtext_miina.txt
+
+
+The original files are in
+techdoc/mt/smesmn/evalueren/2-2016
