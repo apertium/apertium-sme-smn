@@ -6,15 +6,21 @@ IM:
 Number of words in first file:  616
 Number of 1-word edit operations needed : 48
 Percent error rate : 7.79%
-Percent error rate : 7.79%
+
+MS:
+Number of words in first file:  614
+Number of 1-word edit operations needed : 81
+Percent error rate : 13.19%
 
 PM:
 Number of words in first file:  613
 Number of 1-word edit operations needed : 78
 Percent error rate : 12.72%
-Percent error rate : 12.72%
 
-
+SM:
+Number of words in first file:  614
+Number of 1-word edit operations needed : 74
+Percent error rate : 12.05%
 
 Evaluating using the perl command:
 perl ~/apertium/trunk/apertium-eval-translator/apertium-eval-translator-line.pl -r smn_mt.txt -t MTeval_IM.txt 
@@ -66,3 +72,19 @@ Edit distance: 77
 Word error rate (WER): 12.73 %
 Number of position-independent correct words: 533
 Position-independent word error rate (PER): 11.90 %
+
+
+
+SM:
+-------------------------------------------------------
+Number of words in reference: 605
+Number of words in test: 598
+Number of unknown words (marked with a star) in test: 0
+Percentage of unknown words: 0.00 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 86
+Word error rate (WER): 14.21 %
+Number of position-independent correct words: 497
+Position-independent word error rate (PER): 17.85 %
