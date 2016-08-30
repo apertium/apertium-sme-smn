@@ -1250,6 +1250,20 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
 
 
+    <def-macro n="convert-num-pl-1Param" npar="1">
+      <choose>
+        <when>
+          <test><and>
+	    <equal><clip pos="1" side="sl" part="numerals"/><lit-tag v="num"/></equal>
+	    <equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="pl"/></equal>
+	  </and></test>
+          <let><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/></let>
+        </when>
+      </choose>
+    </def-macro>
+
+    
+
     <def-macro n="inherenttag-px-2Param" npar="2">  <!-- Son geahččá birra. Sun kiäččá pirrâsis. -->
       <choose>
         <when>
@@ -1432,6 +1446,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <def-macro n="general-macro-1Param" npar="1" c="Use for all chunks of one pattern-item">
       <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
+      <call-macro n="convert-num-pl-1Param"><with-param pos="1"/></call-macro>
       <choose>
         <when>
           <test><not><equal><clip pos="1" side="tl" part="a_func"/><lit v=""/></equal></not></test>
