@@ -1,179 +1,213 @@
-			
-lex		lexical selection	vuogádat ii atte rivttes sáni
-fst		fst error	anárašgiela analysáhtor hukse boasttuhámi, dahje hápmi váilu
-wo		word order	vuogádat addá heajos syntávssa
-syn		syntax error	davvisámi sánis ii leat rivttes analysa konteavstta ektui%, ja boađus lea boasttuhápmi MT-teavsttas   
-sme		sme error	davvisámi teavsttas lea giella- dahje čállinmeattáhus%, ja boađus lea boasttuhápmi MT-teavsttas        
-punct		punctuation	jorgaleaddji lea lasihan rihku
-style		Riekta muhto...	
-			
-IM			
-			
-fst	< pooliitlâš --- > poolitlâš 		
-punct	> . 		
-	< valmâštâlâm --- > valmâštâllâm 		
-	< eereeb 		
-	> lasseen 		
-	< tuuriism --- > tuurism 		
-	< ruttâtoimâohtâdâhministeriö --- > ruttâtuáluministeriö 		
-	< máhđulub --- > máhđulávt 		
-	< pištevâš --- > pištee 		
-	< tuuriism --- > tuurism 		
-	< tuuriism --- > tuurism 		
-	< valmâštâlâđ --- > valmâštâllâđ 		
-	< lohá --- > iätá 		
-	< taveriijkâlâš --- > tave-eennâmlâš 		
-	< eereeb 		
-	< pooliitlâš < tooimâi --- > lasseen > poolitkâš > tooimâid 		
-	< iälámâšâi --- > iäláttâsâid 		
-	< ruttâtoimâohtâdâhministeriön --- > ruttâtuáluministeriön 		
-	< eurod --- > euro 		
-	< iälámâšâid --- > iäláttâsâ 		
-	< parlament --- > parlamenttaarlâš 		
-	< taveriijkâlâš --- > tave-eennâmlâš 		
-	< aašijd --- > aašij 		
-	< tos --- > toos 		
-	< ruttâdmin --- > ruttâdem 		
-	< säämisopâmušâin --- > säämisopâmuššáin 		
-	< lohá --- > iätá 		
-	< tos --- > toos 		
-	< oovdiš < sämikielâtáiđu --- > ovdiist > sämikieltáiđu 		
-	< haldâttâhlâš --- > haaldâtlâš 		
-	< kieđâvušškuáttám < tuámupittáást --- > kieđâvuškuáttám > tuámukapittâlist 		
-	< tuámupitá --- > tuámukapittâl 		
-	< valjâvyehi --- > vaaljâvyehi 		
-	< toh --- > tot 		
-	< čovgiđ --- > čovgâd 		
-	< ruttâdmijn --- > ruttâdmáin 		
-	< siämmáš --- > siämmáá 		
-	< occee --- > occei 		
-	< oovdiš < sämikielâtáiđu --- > ovdiist > sämikieltáiđu 		
-	< lohá --- > iätá 		
-	< Tuámupittáást --- > Tuámukapittâlist 		
-	< toh --- > tot 		
-			
-			
-			
-			
-MS			
-sme	< säämi --- > Säämi 		
-fst	< pooliitlâš --- > poolitlâš 		
-fst	< valmâštâlâm --- > valmâštâllâm 		
-	< eereeb < eres <  --- > ereslasseen > 		
-	< eereeb < eres < pooliitlâš --- > ereslasseen > poolitlâš 		
-	< säämi < tuuriism --- > Säämi > tuurism 		
-	< ruttâtoimâohtâdâhministeriö --- > staatâvarijministeriö 		
-	< taan --- > täst 		
-	< máhđulub --- > máhđulávt 		
-	> , > moh > láá 		
-	< párnáikuávdái --- > párnáikuávdáš > , 		
-	< säämi < tuuriism --- > Säämi > tuurism 		
-	< säämi < tuuriism --- > Säämi > tuurism 		
-	< valmâštâlâđ --- > valmâštâllâm 		
-	< lohá --- > iätá 		
-	< eereeb < eres < pooliitlâš < tooimâi --- > ereslasseen > poolitlâš > tooimâid 		
-	< säämi < iälámâšâi --- > Säämi > iäláttâsâid 		
-	< ruttâtoimâohtâdâhministeriön --- > staatâvarijministeriön 		
-	< pooliitlâš --- > poolitlâš 		
-	< lasattâs --- > lase 		
-	< Kielâkäldee-proojeekt --- > Kielâkäldee-projektân 		
-	< säämi < iälámâšâid < já --- > Säämi > iäláttâsâid > sehe 		
-	< parlament < rääđi --- > parlamentaarlâšrääđi 		
-	< teikkâ < - < sopâmuš 		
-	< puátá < leđe --- > lii > meid 		
-	< aašijd --- > aašij 		
-	< meiddei 		
-	< puátá < leđe --- > lii 		
-	< tos --- > toos 		
-	< ruttâdmin --- > ruttâdem 		
-	< nuuvt < lii --- > te 		
-	> lii 		
-	< säämisopâmušâin --- > säämisopâmušáin 		
-	< hiäjunâm --- > huánánâm 		
-	< lohá --- > iätá 		
-	< Budjettile < lii < taggaar < , < mii --- > Budjet 		
-	< tos --- > toos 		
-	< oovdiš --- > ovdiist 		
-	< virgálâš --- > virgálii 		
-	< virgálâš --- > virgálii 		
-	< tuámupittáást --- > tuámukapittâlist 		
-	< tuámupitá --- > tuámukapittâl 		
-	< ubâlohán --- > ubânâsân 		
-	< toh --- > tot 		
-	< čovgiđ --- > čovgâd 		
-	< tiäđust --- > tiäđust-uv 		
-	< occee --- > occei 		
-	< oovdiš --- > ovdiist 		
-	< lohá --- > iätá 		
-	< ohtâ < vátámâšâin --- > ohtân > vátámâššân 		
-	> jo-uv 		
-	< Tuámupittáást --- > Tuámukapittâlist 		
-	< toh --- > tot 		
-	< oovtâst 		
-	> oovtâst 		
-	< almaiolmoošpapâiguin --- > almaipapâiguin 		
-	> ¶ > ¶ 		
-			
-			
-			
-PM			
-			
-	< pooliitlâš --- > poolitlâš 		
-	< valmâštâlâm --- > valmâštâllâm 		
-	< eereeb < eres < pooliitlâš --- > iärrás > lasseen > poolitlâš 		
-	< tuuriism --- > tuurism 		
-	< taan 		
-	< máhđulub < puátimin --- > máhđulávt > älgimin 		
-	> - 		
-	< moos --- > já 		
-	> tađe > várás 		
-	< tuuriism --- > tuurism 		
-	> valmâštâllâđ 		
-	< tuuriism < kriterij < valmâštâlâđ --- > tuurism > kriterijd 		
-	< lohá --- > iätá 		
-	< eereeb < eres < pooliitlâš < tooimâi --- > iärrás > lasseen > poolitlâš > tooimâid 		
-	< iälámâšâi --- > iäláttâsvuovijd 		
-	< toid --- > tooid 		
-	< lasattâs < mii < pooliitlâš --- > poolitlâš 		
-	< , < moos < mij < iävtuttijm 		
-	< eurod --- > euro 		
-	< iälámâšâid --- > iäláttâsvuovij 		
-	< sopâmuš --- > konventio 		
-	< puátá --- > šadda 		
-	< aašijd --- > aašij 		
-	< puátá --- > šadda 		
-	< , < riehtiministeriö --- > . > Riehtiministeriö 		
-	< tos --- > toos 		
-	< ruttâdmin --- > ruttâdem 		
-	< nuuvt --- > te 		
-	< säämisopâmušâin --- > säämisopâmuššáin 		
-	< Sajos --- > Saijoos 		
-	< ekonomâlâš --- > ekonomisâš 		
-	< hiäjunâm --- > hiäjusmâm 		
-	< lohá --- > iätá 		
-	< ekonomâlâš --- > ekonomisâš 		
-	< ekonomâlâš --- > ekonomisâš 		
-	< hiäjus --- > hyenes 		
-	< tos --- > toos 		
-	< oovdiš --- > ovddist 		
-	< vist --- > vistig > sij 		
-	< tuámupittáást --- > tuámukapitulist 		
-	< tuámupitá --- > tuámukapitul 		
-	< ubâlohán --- > ollágin 		
-	< valjâvyehi --- > vaaljâvyehi 		
-	< áigáduvâst --- > äigitavâláin 		
-	< vist --- > vistig 		
-	< čovgiđ --- > čovgâd 		
-	< ruttâdmijn --- > ruttâdmáin 		
-	< vist --- > vistig 		
-	< siämmáš --- > siämmáá 		
-	< tiäđust --- > tiäđust-uv 		
-	< oovdiš --- > ovddist 		
-	< lohá --- > iätá 		
-	< uuccâp --- > olmooš > occoo 		
-	< ulmuu 		
-	< nissoon- --- > nisonijd 		
-	< almaiulmuid --- > almaid 		
-	< Tuámupittáást --- > Tuámukapitulist 		
-	< toh --- > tot 		
-	< almaiolmoošpapâiguin --- > almaipapâiguin 		
+
+Rievdadusat:
+1) lex	sátni a -> b
+1a) lex_fail	Boasttosáni geavaheapmi (feaila)	lohá --> iätá
+1b) lex_nofail	Nubbi sátneválljen (ii feaila, omd ii čielgga normeren) (ruhtadanministeriija namma)
+
+2) form	sátnehápmi
+2a) form_FST_fail	(sátni sodjá boastut FST:s): valmâštâlâđ --> valmâštâllâđ
+2b) form_FST_Var	 Giela iežas variašuvdna (ii čielga feaila): turiism -> turism; pooliitlâš -> politlâš
+2c) form_sme	Feaila dahje eahpečielggasvuohta sme bealde; muhtumin jorgalusa mearkkašupmi rievdá
+2d) form_FST_fail_and_morph_MTfail
+
+3) morph	sátnehámi válljen	ine -> ela, pl1 -> inf
+3a) morph_MTfail	ruttâdem puátá taan staatâbudjetist
+3b) morph_evalfail	ruttâdem puátá täst staatâbudjetist
+
+4) wo	wordorder, maid lásihit sániid +váldit eret: ab -> ba, a -> acb
+4a) wo_las	sániid lasiheapmi
+4b) wo_changed	sátneortnet rievdaduvvon
+
+
+5) punct	lasihit / váldit eret ,.:;()!?
+5a) wo_evalfail	evaluerejeaddji feaila goallossánis
+
+
+lex	sátni
+form	sátnehápmi 
+morph	sátnehámi válljen
+wordorder	d
+punct
+	
+lex	lexical selection	vuogádat ii atte rivttes sáni
+form	form error	anárašgiela analysáhtor hukse boasttuhámi, dahje hápmi váilu
+wo	word order	vuogádat addá heajos syntávssa
+syn	syntax error	davvisámi sánis ii leat rivttes analysa konteavstta ektui%, ja boađus lea boasttuhápmi MT-teavsttas dahje transfer ii doaimma  
+form	form error	davvisámi teavsttas lea giella- dahje čállinmeattáhus%, ja boađus lea boasttuhápmi MT-teavsttas        
+punct	punctuation	jorgaleaddji lea lasihan rihku
+style	Riekta muhto...
+
+
+
+NUBÁSTUSEH
+
+IM	
+	
+2b	form_FST_Var	< pooliitlâš --- > poolitlâš 	
+punct	> . 	
+2a	< valmâštâlâm --- > valmâštâllâm 	
+	< eereeb 	
+	> lasseen 	
+	< tuuriism --- > tuurism 	
+	< ruttâtoimâohtâdâhministeriö --- > ruttâtuáluministeriö 	
+	< máhđulub --- > máhđulávt 	
+	< pištevâš --- > pištee 	
+	< tuuriism --- > tuurism 	
+	< tuuriism --- > tuurism 	
+	< valmâštâlâđ --- > valmâštâllâđ 	
+	< lohá --- > iätá 	
+	< taveriijkâlâš --- > tave-eennâmlâš 	
+	< eereeb 	
+	< pooliitlâš < tooimâi --- > lasseen > poolitkâš > tooimâid 	
+	< iälámâšâi --- > iäláttâsâid 	
+	< ruttâtoimâohtâdâhministeriön --- > ruttâtuáluministeriön 	
+	< eurod --- > euro 	
+	< iälámâšâid --- > iäláttâsâ 	
+	< parlament --- > parlamenttaarlâš 	
+	< taveriijkâlâš --- > tave-eennâmlâš 	
+	< aašijd --- > aašij 	
+	< tos --- > toos 	
+	< ruttâdmin --- > ruttâdem 	
+	< säämisopâmušâin --- > säämisopâmuššáin 	
+	< lohá --- > iätá 	
+	< tos --- > toos 	
+	< oovdiš < sämikielâtáiđu --- > ovdiist > sämikieltáiđu 	
+	< haldâttâhlâš --- > haaldâtlâš 	
+	< kieđâvušškuáttám < tuámupittáást --- > kieđâvuškuáttám > tuámukapittâlist 	
+	< tuámupitá --- > tuámukapittâl 	
+	< valjâvyehi --- > vaaljâvyehi 	
+	< toh --- > tot 	
+	< čovgiđ --- > čovgâd 	
+	< ruttâdmijn --- > ruttâdmáin 	
+	< siämmáš --- > siämmáá 	
+	< occee --- > occei 	
+	< oovdiš < sämikielâtáiđu --- > ovdiist > sämikieltáiđu 	
+	< lohá --- > iätá 	
+	< Tuámupittáást --- > Tuámukapittâlist 	
+	< toh --- > tot 	
+	
+	
+MS	
+
+2c) form_sme	< säämi --- > Säämi 	
+2b) form_FST_var	< pooliitlâš --- > poolitlâš 	
+2a) form_FST-fail	< valmâštâlâm --- > valmâštâllâm 	
+1a) lex_fail	< eereeb < eres <  --- > ereslasseen > 	
+2b) form_FST_var	< pooliitlâš --- >  > poolitlâš 	GUKTII
+2c) form_sme	< säämi  --- > Säämi	GUKTII
+2b) form_FST_Var	< tuuriism --- > tuurism 	
+1a) lex_fail	< ruttâtoimâohtâdâhministeriö --- > staatâvarijministeriö 	
+3b) morph_evalfail	< taan --- > täst 	
+3a) morph_MTfail	< máhđulub --- > máhđulávt 	
+4a) wo_las	> , > moh > láá 	
+2c) form_sme	< párnáikuávdái --- > párnáikuávdáš > , 	ii dušše sátnehámi rievdan muhto doaibmá ovttas lasihemiin ovddabealde
+2c) form_sme	< säämi < tuuriism --- > Säämi > tuurism 	Säämi-analyys
+2b) form_FST_var	< säämi < tuuriism --- > Säämi > tuurism 	tuuriist-analyys
+2d) form_FST_fail_and_morph_MTfail	< valmâštâlâđ --- > valmâštâllâm 	
+1a) lex_fail	< lohá --- > iätá 	
+1a) lex_fail	< eereeb < eres < pooliitlâš < tooimâi --- > ereslasseen > poolitlâš > tooimâid 	
+1a) lex_fail	< säämi < iälámâšâi --- > Säämi > iäláttâsâid 	
+1a) lex_fail	< ruttâtoimâohtâdâhministeriön --- > staatâvarijministeriön 	
+2b) form_FST_var	< pooliitlâš --- > poolitlâš 	GOLBMII
+1a) lex_fail	< lasattâs --- > lase 	
+3a) morph_MTfail	< Kielâkäldee-proojeekt --- > Kielâkäldee-projektân 	
+1a) lex_fail ja 1b) lex_nofail 	< säämi < iälámâšâid < já --- > Säämi > iäláttâsâid > sehe 	
+1a) lex_fail ja 5a) wo_evalfail	< parlament < rääđi --- > parlamentaarlâšrääđi 	
+4b) wo_changed	< teikkâ < - < sopâmuš 	
+1a) lex_fail	< puátá < leđe --- > lii > meid 	Analyys "puátá leđe"
+3a) morph_MTfail	< aašijd --- > aašij 	
+4a) wo_las	< meiddei 	
+3a) morph_MTfail	< puátá < leđe --- > lii 	
+2a) form_FST_fail	< tos --- > toos 	
+3a) morph_MTfail	< ruttâdmin --- > ruttâdem 	
+1a) lex_fail	< nuuvt < lii --- > te 	
+	> lii 	
+	< säämisopâmušâin --- > säämisopâmušáin 	
+	< hiäjunâm --- > huánánâm 	
+	< lohá --- > iätá 	
+	< Budjettile < lii < taggaar < , < mii --- > Budjet 	
+	< tos --- > toos 	
+	< oovdiš --- > ovdiist 	
+	< virgálâš --- > virgálii 	
+	< virgálâš --- > virgálii 	
+	< tuámupittáást --- > tuámukapittâlist 	
+	< tuámupitá --- > tuámukapittâl 	
+	< ubâlohán --- > ubânâsân 	
+	< toh --- > tot 	
+	< čovgiđ --- > čovgâd 	
+	< tiäđust --- > tiäđust-uv 	
+	< occee --- > occei 	
+	< oovdiš --- > ovdiist 	
+	< lohá --- > iätá 	
+	< ohtâ < vátámâšâin --- > ohtân > vátámâššân 	
+	> jo-uv 	
+	< Tuámupittáást --- > Tuámukapittâlist 	
+	< toh --- > tot 	
+	< oovtâst 	
+	> oovtâst 	
+	< almaiolmoošpapâiguin --- > almaipapâiguin 	
+	> ¶ > ¶ 	
+	
+	
+	
+PM	
+	
+	< pooliitlâš --- > poolitlâš 	
+	< valmâštâlâm --- > valmâštâllâm 	
+	< eereeb < eres < pooliitlâš --- > iärrás > lasseen > poolitlâš 	
+	< tuuriism --- > tuurism 	
+	< taan 	
+	< máhđulub < puátimin --- > máhđulávt > älgimin 	
+	> - 	
+	< moos --- > já 	
+	> tađe > várás 	
+	< tuuriism --- > tuurism 	
+	> valmâštâllâđ 	
+	< tuuriism < kriterij < valmâštâlâđ --- > tuurism > kriterijd 	
+	< lohá --- > iätá 	
+	< eereeb < eres < pooliitlâš < tooimâi --- > iärrás > lasseen > poolitlâš > tooimâid 	
+	< iälámâšâi --- > iäláttâsvuovijd 	
+	< toid --- > tooid 	
+	< lasattâs < mii < pooliitlâš --- > poolitlâš 	
+	< , < moos < mij < iävtuttijm 	
+	< eurod --- > euro 	
+	< iälámâšâid --- > iäláttâsvuovij 	
+	< sopâmuš --- > konventio 	
+	< puátá --- > šadda 	
+	< aašijd --- > aašij 	
+	< puátá --- > šadda 	
+	< , < riehtiministeriö --- > . > Riehtiministeriö 	
+	< tos --- > toos 	
+	< ruttâdmin --- > ruttâdem 	
+	< nuuvt --- > te 	
+	< säämisopâmušâin --- > säämisopâmuššáin 	
+	< Sajos --- > Saijoos 	
+	< ekonomâlâš --- > ekonomisâš 	
+	< hiäjunâm --- > hiäjusmâm 	
+	< lohá --- > iätá 	
+	< ekonomâlâš --- > ekonomisâš 	
+	< ekonomâlâš --- > ekonomisâš 	
+	< hiäjus --- > hyenes 	
+	< tos --- > toos 	
+	< oovdiš --- > ovddist 	
+	< vist --- > vistig > sij 	
+	< tuámupittáást --- > tuámukapitulist 	
+	< tuámupitá --- > tuámukapitul 	
+	< ubâlohán --- > ollágin 	
+	< valjâvyehi --- > vaaljâvyehi 	
+	< áigáduvâst --- > äigitavâláin 	
+	< vist --- > vistig 	
+	< čovgiđ --- > čovgâd 	
+	< ruttâdmijn --- > ruttâdmáin 	
+	< vist --- > vistig 	
+	< siämmáš --- > siämmáá 	
+	< tiäđust --- > tiäđust-uv 	
+	< oovdiš --- > ovddist 	
+	< lohá --- > iätá 	
+	< uuccâp --- > olmooš > occoo 	
+	< ulmuu 	
+	< nissoon- --- > nisonijd 	
+	< almaiulmuid --- > almaid 	
+	< Tuámupittáást --- > Tuámukapitulist 	
+	< toh --- > tot 	
+	< almaiolmoošpapâiguin --- > almaipapâiguin 	
