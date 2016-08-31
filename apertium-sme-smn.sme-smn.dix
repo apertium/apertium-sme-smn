@@ -3840,7 +3840,7 @@
     <e><p><l>lagadit<s n="vblex"/><s n="tv"/></l><r>aldediđ<s n="vblex"/></r></p></e>
     <e><p><l>eastit<s n="vblex"/><s n="tv"/></l><r>estiđ<s n="vblex"/></r></p></e>
     <e><p><l>vuoruhit<s n="vblex"/><s n="tv"/></l><r>vuosâsajadiđ<s n="vblex"/></r></p></e>
-    <e><p><l>álkidahttit<s n="vblex"/><s n="tv"/></l><r>toohâđ<b/>älkkeebin<s n="vblex"/></r></p></e>
+    <e><p><l>álkidahttit<s n="vblex"/><s n="tv"/></l><r>toohâđ<s n="vblex"/></r></p></e><!-- t1x: älkkeebin-->
     <e><p><l>mekaniseret<s n="vblex"/><s n="tv"/></l><r>mekanistiđ<s n="vblex"/></r></p></e>
     <e><p><l>boktalit<s n="vblex"/><s n="tv"/></l><r>ravkkâđ<s n="vblex"/></r></p></e>
     <e><p><l>bosádit<s n="vblex"/><s n="tv"/></l><r>posoliđ<s n="vblex"/></r></p></e>
@@ -3887,8 +3887,8 @@
     <e><p><l>fuopmášahttit<s n="vblex"/><s n="tv"/></l><r>huámášittiđ<s n="vblex"/></r></p></e>
     <e><p><l>jođálmahttit<s n="vblex"/><s n="tv"/></l><r>huáputtiđ<s n="vblex"/></r></p></e>
     <e><p><l>áigáioažžut<s n="vblex"/><s n="tv"/></l><r>ááigánfinniđ<s n="vblex"/></r></p></e>
-    <e><p><l>vuostáiváldit<s n="vblex"/><s n="tv"/></l><r>väldiđ<b/>vuástá<s n="vblex"/></r></p></e>
-    <e><p><l>árvvusatnit<s n="vblex"/><s n="tv"/></l><r>áárvust<b/>anneeđ<s n="vblex"/></r></p></e>
+    <e><p><l>vuostáiváldit<s n="vblex"/><s n="tv"/></l><r>väldiđ<s n="vblex"/></r></p></e> <!-- vuástá -->
+    <e><p><l>árvvusatnit<s n="vblex"/><s n="tv"/></l><r>áárvust<s n="vblex"/></r></p></e> <!-- anneeđ -->
     <e><p><l>sajuštit<s n="vblex"/><s n="tv"/></l><r>saijeeđ<s n="vblex"/></r></p></e>
     <e><p><l>fuotnánit<s n="vblex"/><s n="iv"/></l><r>hiäjusmiđ<s n="vblex"/></r></p></e>
     <e><p><l>káfestallat<s n="vblex"/><s n="iv"/></l><r>káhvástâllâđ<s n="vblex"/></r></p></e>
@@ -3920,7 +3920,7 @@
     <e><p><l>vuohttut<s n="vblex"/><s n="tv"/></l><r>vuáttuđ<s n="vblex"/></r></p></e>
     <e><p><l>vuhttot<s n="vblex"/><s n="tv"/></l><r>vuottuđ<s n="vblex"/></r></p></e>
     <e><p><l>cuoigut<s n="vblex"/><s n="tv"/></l><r>cuáiguđ<s n="vblex"/></r></p></e>
-    <e><p><l>atnuiváldit<s n="vblex"/><s n="tv"/></l><r>väldiđ<b/>anon<s n="vblex"/></r></p></e>
+    <e><p><l>atnuiváldit<s n="vblex"/><s n="tv"/></l><r>väldiđ<s n="vblex"/></r></p></e><!-- t1x: anon -->
     <e><p><l>olggosaddit<s n="vblex"/><s n="tv"/></l><r>olgosadeliđ<s n="vblex"/></r></p></e>
     <e><p><l>rekryteret<s n="vblex"/><s n="tv"/></l><r>rekrytistiđ<s n="vblex"/></r></p></e>
     <e><p><l>girjiluvvat<s n="vblex"/><s n="iv"/></l><r>kirjálistiđ<s n="vblex"/></r></p></e>
@@ -4145,7 +4145,7 @@
     <e><p><l>oskkildit<s n="vblex"/><s n="tv"/></l><r>oskeldiđ<s n="vblex"/></r></p></e> 
     <e><p><l>ovddastit<s n="vblex"/><s n="tv"/></l><r>ovdâstiđ<s n="vblex"/></r></p></e>
     <e><p><l>ovddidit<s n="vblex"/><s n="tv"/></l><r>ovdediđ<s n="vblex"/></r></p></e>
-    <e><p><l>ovttasbargat<s n="vblex"/><s n="iv"/></l><r>oovtâst<b/>porgâđ<s n="vblex"/></r></p></e>
+    <e><p><l>ovttasbargat<s n="vblex"/><s n="iv"/></l><r>porgâđ<s n="vblex"/></r></p></e><!-- t1x: oovtâst-->
     <e><p><l>ovttastuvvat<s n="vblex"/><s n="iv"/></l><r>ovtâstuđ<s n="vblex"/></r></p></e> 
     <e><p><l>rahpasit<s n="vblex"/><s n="iv"/></l><r>lekkâsiđ<s n="vblex"/></r></p></e> 
     <e><p><l>ratifiseret<s n="vblex"/><s n="tv"/></l><r>ratifisistiđ<s n="vblex"/></r></p></e>
@@ -7967,7 +7967,7 @@
     <e><p><l>geađgádit<s n="vblex"/><s n="tv"/></l><r>keđgiđ<s n="vblex"/></r></p></e>
     <e><p><l>geiget<s n="vblex"/><s n="tv"/></l><r>keigiđ<s n="vblex"/></r></p></e>
     <e><p><l>geđget<s n="vblex"/><s n="tv"/></l><r>keđgiđ<s n="vblex"/></r></p></e>
-    <e><p><l>geđđot<s n="vblex"/><s n="iv"/></l><r>čalmettuđ<b/>koskâpuddâsávt<s n="vblex"/></r></p></e>
+    <e><p><l>geđđot<s n="vblex"/><s n="iv"/></l><r>čalmettuđ<s n="vblex"/></r></p></e>
     <e><p><l>giebahit<s n="vblex"/><s n="tv"/></l><r>kieptiđ<s n="vblex"/></r></p></e>
     <e><p><l>giektat<s n="vblex"/><s n="tv"/></l><r>kieptiđ<s n="vblex"/></r></p></e>
     <e><p><l>giellut<s n="vblex"/><s n="iv"/></l><r>káđálduđ<s n="vblex"/></r></p></e>
@@ -10356,7 +10356,7 @@
     <e><p><l>joavdat<s n="vblex"/><s n="iv"/></l><r>juovdâđ<s n="vblex"/></r></p></e>
     <e><p><l>dinet<s n="vblex"/><s n="tv"/></l><r>ánsášiđ<s n="vblex"/></r></p></e>
     <e><p><l>organiseret<s n="vblex"/><s n="tv"/></l><r>orniđ<s n="vblex"/></r></p></e>
-    <e><p><l>ođđasisorganiseret<s n="vblex"/><s n="tv"/></l><r>uđđâsist<b/>orniđ<s n="vblex"/></r></p></e>
+    <e><p><l>ođđasisorganiseret<s n="vblex"/><s n="tv"/></l><r>orniđ<s n="vblex"/></r></p></e><!-- t1x: uđđâsist -->
     <e><p><l>gilvalit<s n="vblex"/><s n="iv"/></l><r>kištottâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>ráddjet<s n="vblex"/><s n="tv"/></l><r>raijiđ<s n="vblex"/></r></p></e>
     <e><p><l>gierdat<s n="vblex"/><s n="tv"/></l><r>kierdâđ<s n="vblex"/></r></p></e>

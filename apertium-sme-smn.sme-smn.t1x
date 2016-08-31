@@ -111,7 +111,24 @@ t5x move foc_tag from wordfoc chunk to the word inside
    <def-cat n="ge">
       <cat-item lemma="ge" tags="pcle.*"/>
     </def-cat>
-   <def-cat n="foc">
+   <def-cat n="vuástá-verb">
+      <cat-item lemma="vuostáiváldit" tags="vblex.*"/>
+    </def-cat>
+   <def-cat n="älkkeebin-verb">
+      <cat-item lemma="álkidahttit" tags="vblex.*"/>
+    </def-cat>
+   <def-cat n="anon-verb">
+      <cat-item lemma="atnuiváldit" tags="vblex.*"/>
+    </def-cat>
+   <def-cat n="ovttâst-verb">
+      <cat-item lemma="ovttasbargat" tags="vblex.*"/>
+    </def-cat>
+   <def-cat n="uđđâsist-verb">
+      <cat-item lemma="ođđasisorganiseret" tags="vblex.*"/>
+    </def-cat>
+
+
+    <def-cat n="foc">
       <cat-item lemma="ba" tags="pcle.*"/>
       <cat-item lemma="ban" tags="pcle.*"/>
       <cat-item lemma="bat" tags="pcle.*"/>
@@ -3576,6 +3593,136 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
+
+
+    <rule comment="REGLA: vuostáiváldit - väldiđ vuástá">
+      <pattern>
+        <pattern-item n="vuástá-verb"/>
+      </pattern>
+      <action>
+	<call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
+        <out>
+          <chunk name="vblex_pcle" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="VP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+	    </lu>
+	    <b/>
+            <lu>
+              <lit v="vuástá"/>
+              <lit-tag v="post"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: atnuiváldit - väldiđ anon">
+      <pattern>
+        <pattern-item n="anon-verb"/>
+      </pattern>
+      <action>
+	<call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
+        <out>
+          <chunk name="vblex_pcle" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="VP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+	    </lu>
+	    <b/>
+            <lu>
+              <lit v="ano"/>
+              <lit-tag v="n.sg.ill"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: álkidahttit - toohâđ älkkeebin">
+      <pattern>
+        <pattern-item n="älkkeebin-verb"/>
+      </pattern>
+      <action>
+	<call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
+        <out>
+          <chunk name="vblex_pcle" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="VP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+	    </lu>
+	    <b/>
+            <lu>
+              <lit v="älkkee"/>
+              <lit-tag v="adj.comp.ess"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: ovttasbargat - porgâđ ovttâst">
+      <pattern>
+        <pattern-item n="ovttâst-verb"/>
+      </pattern>
+      <action>
+	<call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
+        <out>
+          <chunk name="vblex_pcle" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="VP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+	    </lu>
+	    <b/>
+            <lu>
+	      <lit v="oovtâst"/>
+              <lit-tag v="adv"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: ođđasisorganiseret - orniđ uđđâsist">
+      <pattern>
+        <pattern-item n="uđđâsist-verb"/>
+      </pattern>
+      <action>
+	<call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
+        <out>
+          <chunk name="vblex_pcle" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="VP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+	    </lu>
+	    <b/>
+            <lu>
+              <lit v="uđđâsist"/>
+              <lit-tag v="adv"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
 
 
