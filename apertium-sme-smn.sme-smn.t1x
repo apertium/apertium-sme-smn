@@ -625,7 +625,10 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <attr-item tags="n"/>
       <attr-item tags="np"/>
     </def-attr>
-    <def-attr n="a_case">
+      <def-attr n="a_attr">
+      <attr-item tags="attr"/>
+    </def-attr>
+   <def-attr n="a_case">
       <attr-item tags="nom"/>
       <attr-item tags="acc"/>
       <attr-item tags="ill"/>
@@ -719,6 +722,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
        <attr-item tags="der_lagan"/>
        <attr-item tags="der_nammasaš"/>
         <attr-item tags="der_sasj"/>
+        <attr-item tags="der_vuota"/>
    </def-attr>
 
     <def-attr n="a_deriv2">
@@ -1262,6 +1266,10 @@ t5x move foc_tag from wordfoc chunk to the word inside
           <test><equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_h"/></equal></test>
           <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_tt"/></let>
           <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let>
+        </when>
+         <when>
+          <test><equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_vuota"/></equal></test>
+          <let><clip pos="1" side="tl" part="a_attr"/><lit v=""/></let>
         </when>
       </choose>
     </def-macro>
