@@ -14,12 +14,14 @@ Rievdadusat:
 3) morph	sátnehámi válljen	ine -> ela, pl1 -> inf
 3a) morph_MTfail	ruttâdem puátá taan staatâbudjetist
 3b) morph_evalfail	ruttâdem puátá täst staatâbudjetist
+3c) morph_Var	pooliitlâš > pooliitlijd
 
 4) wo	wordorder, maid lásihit sániid +váldit eret: ab -> ba, a -> acb
 4a) wo_las	sániid lasiheapmi
 4b) wo_changed	sátneortnet rievdaduvvon
 4c) wo_eret	sáni eretváldin
 4d) wo_aktpass	aktiivvas passiiva
+4e) wo_goallosteapmi	guovtti sánis goallossátni
 
 5) punct	lasihit / váldit eret ,.:;()!?
 5a) wo_evalfail	evaluerejeaddji feaila goallossánis
@@ -119,7 +121,8 @@ MS
 1a) lex_fail	< lasattâs --- > lase 	
 3a) morph_MTfail	< Kielâkäldee-proojeekt --- > Kielâkäldee-projektân 	
 1a) lex_fail ja 1b) lex_nofail 	< säämi < iälámâšâid < já --- > Säämi > iäláttâsâid > sehe 	
-1a) lex_fail ja 5a) wo_evalfail	< parlament < rääđi --- > parlamentaarlâšrääđi 	
+1a) lex_fail 	< parlament < rääđi --- > parlamentaarlâšrääđi 	
+5a) wo_evalfail	< parlament < rääđi --- > parlamentaarlâšrääđi 	
 4b) wo_changed	< teikkâ < - < sopâmuš 	
 1a) lex_fail	< puátá < leđe --- > lii > meid 	Analyys "puátá leđe"
 3a) morph_MTfail	< aašijd --- > aašij 	
@@ -176,13 +179,13 @@ PM
 2b) form_FST_Var	< tuuriism < kriterij < valmâštâlâđ --- > tuurism > kriterijd 	tuuriism
 4b) wo_changed	< tuuriism < kriterij < valmâštâlâđ --- > tuurism > kriterijd 	
 1a) lex_fail	< lohá --- > iätá 	
-	< eereeb < eres < pooliitlâš < tooimâi --- > iärrás > lasseen > poolitlâš > tooimâid 
-	< eereeb < eres < pooliitlâš < tooimâi --- > iärrás > lasseen > poolitlâš > tooimâid 
-	< eereeb < eres < pooliitlâš < tooimâi --- > iärrás > lasseen > poolitlâš > tooimâid 	
-	< iälámâšâi --- > iäláttâsvuovijd 	
+1a) lex_fail	< eres  --- > iärrás  
+2b) form_FST_Var	< pooliitlâš  --- > poolitlâš 
+3a) morph_MTfail	< tooimâi --- > tooimâid 	
+1a) lex_fail	< iälámâšâi --- > iäláttâsvuovijd 	
 2b) form_FST_Var	< toid --- > tooid 	
-	< lasattâs < mii < pooliitlâš --- > poolitlâš 	
-	< , < moos < mij < iävtuttijm 	
+2b) form_FST_Var	< pooliitlâš --- > poolitlâš 	
+4a) wo_las	< , < moos < mij < iävtuttijm 	
 3a) morph_MTfail	< eurod --- > euro 	
 1a) lex_fail	< iälámâšâid --- > iäláttâsvuovij 	
 1a) lex_fail	< sopâmuš --- > konventio 	
@@ -219,68 +222,81 @@ PM
 2c) form_sme	< tiäđust --- > tiäđust-uv 	
 3a) morph_MTfail ja 3b) morph_evalfail	< oovdiš --- > ovddist 	
 1a) lex_fail	< lohá --- > iätá 	
-4b) wo_changed 4d) wo_aktpass	< uuccâp --- > olmooš > occoo 	
+4b) wo_changed	< uuccâp --- > olmooš > occoo 	
+4d) wo_aktpass	< uuccâp --- > olmooš > occoo 	
 4b) wo_changed	< ulmuu 	
 3a) morph_MTfail	< nissoon- --- > nisonijd 	
 4c) wo_eret	< almaiulmuid --- > almaid 	
 1a) lex_fail	< Tuámupittáást --- > Tuámukapitulist 	
 3a) morph_MTfail	< toh --- > tot 	
 4c) wo_eret	< almaiolmoošpapâiguin --- > almaipapâiguin 	
-	
+
+
 
 SM
-	< ¶ 
-	< säämi < turismân --- > sämiturismân 
-	< pooliitlâš --- > pooliitlijd 
-	< säämi < tuuriism --- > sämituuriism 
-	< ruttâtoimâohtâdâhministeriö --- > ruttâministeriö 
-	< máhđulub --- > máhđulávt 
-	< pištevâš --- > pissoo 
-	< säämi < tuuriism --- > sämituuriism 
-	< säämi < tuuriism < kriterij < valmâštâlâđ --- > meridiđ > sämituuriism > kriteerijd 
-	< lohá --- > iätá 
-	< taveriijkâlâš < säämisopâmuš --- > tave-eennâlij > sämisopâmuš 
-	< eres < pooliitlâš --- > iärásij > pooliitlij 
-	< säämi < iälámâšâi --- > sämi-iäláttâsâid 
-	< ruttâtoimâohtâdâhministeriön < págulâš --- > ruttâministeriön > págulij 
-	< pooliitlâš --- > pooliitlij 
-	< eurod --- > eevro 
-	< säämi < iälámâšâid --- > sämi-iäláttâsâi 
-	< , 
-	< säämi < parlament --- > Säämi > parlamentaarlâš 
-	< taveriijkâlâš < säämisopâmuš < teikkâ < - < sopâmuš --- > tave-eennâmlâš > sämisopâmuš 
-	< puátá --- > šadda 
-	< tehálâš < aašijd --- > tehálij > aašij 
-	< puátá --- > šadda 
-	< tos < ihásávt < ruttâdmin --- > toos > jyehi-ihásij > ruttâdem 
-	< nuuvt --- > te 
-	< säämisopâmušâin --- > sämisopâmušáin 
-	< eurod --- > evrod 
-	< lohá --- > iätá 
-	< eurod --- > evrod 
-	< hiäjus --- > hyenes 
-	< suulân --- > suullân 
-	< eurod --- > evrod 
-	< eurod --- > evrod 
-	< oovdiš --- > ovddiist 
-	< vist --- > vistig 
-	< leijee --- > orroo 
-	< virgálâš --- > virgálii 
-	< tuámupittáást --- > tuámukapittâlist 
-	< tuámupitá --- > tuámukapittâl 
-	< toh --- > tot 
-	< vist --- > vistig 
-	< čovgiđ --- > čoovgâs 
-	< vist --- > vistig 
-	< maainâš --- > maainâst 
-	< hoittáđ --- > tipšođ 
-	< siämmáš --- > siämmáá 
-	< tiäđust --- > tiäđust-uv 
-	< oovdiš --- > ovddiist 
-	< lohá --- > iätá 
-	< Mij --- > Ko > mij 
-	< Tuámupittáást --- > Tuámukapittâlist 
-	< eivi --- > ain 
-	< toh --- > tot 
-	< oovtâst 
-	> oovtâst 
+¶ 
+4e) wo_goallosteapmi	< säämi < turismân --- > sämiturismân 
+3c) morph_Var	< pooliitlâš --- > pooliitlijd 
+4e) wo_goallosteapmi	< säämi < tuuriism --- > sämituuriism 
+1a) lex_fail	< ruttâtoimâohtâdâhministeriö --- > ruttâministeriö 
+3a) morph_MTfail	< máhđulub --- > máhđulávt 
+2b) form_FST_Var	< pištevâš --- > pissoo 
+4e) wo_goallosteapmi	< säämi < tuuriism --- > sämituuriism 
+1b) lex_nofail 	 valmâštâlâđ --- > meridiđ
+4b) wo_changed	< valmâštâlâđ --- > meridiđ > 	kriterij
+4e) wo_goallosteapmi	< säämi < tuuriism  --- > sämituuriism
+3a) morph_MT	< kriterij --- > kriterijd > 	kriterij
+1a) lex_fail	< lohá --- > iätá 
+1b) lex_nofail	< taveriijkâlâš  --- > tave-eennâlij  	taveriijkâlâš
+2b) form_FST_Var	 < säämisopâmuš --- > sämisopâmuš 
+1a) lex_fail	< eres  --- > iärásij  
+2b) form_FST_Var	< pooliitlâš --- > pooliitlij 
+4e) wo_goallosteapmi	< säämi < iälámâšâi --- > sämi-iäláttâsâid 
+1a) lex_fail	< säämi < iälámâšâi --- > sämi-iäláttâsâid 
+1b) lex_nofail	< ruttâtoimâohtâdâhministeriön  --- > ruttâministeriön  
+3c) morph_Var	< págulâš --- > págulij 
+3c) morph_Var	< pooliitlâš --- > pooliitlij 
+2b) form_FST_Var	< eurod --- > eevro 
+4e) wo_goallosteapmi	< säämi < iälámâšâid --- > sämi-iäláttâsâi
+1a) lex_fail	< säämi < iälámâšâid --- > sämi-iäláttâsâi
+5c) mearkka eretváldin	< , 
+1a) lex_fail	< säämi < parlament --- > Säämi > parlamentaarlâš 
+1b) lex_nofail	< taveriijkâlâš  --- > tave-eennâmlâš  
+4e) wo_goallosteapmi	< säämisopâmuš  --- > sämisopâmuš 
+4c) wo_eret	< teikkâ < - < sopâmuš --- >  
+1a) lex_fail	< puátá --- > šadda 
+2b) form_FST_Var	< tehálâš  --- > tehálij  
+2b) form_FST_Var	< tehálâš < aašijd --- > tehálij > aašij 
+1a) lex_fail	< puátá --- > šadda 
+2a) form_FST_fail	< tos  --- > toos  
+1b) lex_nofail	< ihásávt  --- > jyehi-ihásij
+1a) lex_fail	< nuuvt --- > te 
+4e) wo_goallosteapmi	< säämisopâmušâin --- > sämisopâmušáin 
+2b) form_FST_Var	< eurod --- > evrod 
+1a) lex_fail	< lohá --- > iätá 
+2b) form_FST_Var	< eurod --- > evrod 
+1b) lex_nofail	< hiäjus --- > hyenes 
+2b) form_FST_Var	< suulân --- > suullân 
+2b) form_FST_Var	< eurod --- > evrod 
+2b) form_FST_Var	< eurod --- > evrod 
+1a) lex_fail	< oovdiš --- > ovddiist 
+1a) lex_fail	< vist --- > vistig 
+1b) lex_nofail	< leijee --- > orroo 
+3c) morph_Var	< virgálâš --- > virgálii 
+1a) lex_fail	< tuámupittáást --- > tuámukapittâlist 
+1a) lex_fail	< tuámupitá --- > tuámukapittâl 
+3a) morph_MTfail	< toh --- > tot 
+1a) lex_fail	< vist --- > vistig 
+1a) lex_fail	< čovgiđ --- > čoovgâs 
+1a) lex_fail	< vist --- > vistig 
+1b) lex_nofail	< maainâš --- > maainâst 
+1b) lex_nofail	< hoittáđ --- > tipšođ 
+3a) morph_MTfail	< siämmáš --- > siämmáá 
+1a) lex_fail	< tiäđust --- > tiäđust-uv 
+1a) lex_fail	< oovdiš --- > ovddiist 
+1a) lex_fail	< lohá --- > iätá 
+4a) wo_las	< Mij --- > Ko > mij 
+1a) lex_fail	< Tuámupittáást --- > Tuámukapittâlist 
+1a) lex_fail	< eivi --- > ain 
+3a) morph_MTfail	< toh --- > tot 
+4b) wo_changed	< oovtâst porgâđ --- > porgâđ oovtâst	
