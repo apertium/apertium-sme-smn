@@ -17,11 +17,14 @@ Rievdadusat:
 4) wo	wordorder, maid lásihit sániid +váldit eret: ab -> ba, a -> acb
 4a) wo_las	sániid lasiheapmi
 4b) wo_changed	sátneortnet rievdaduvvon
-
+4c) wo_eret	sáni eretváldin
+4d) wo_aktpass	aktiivvas passiiva
 
 5) punct	lasihit / váldit eret ,.:;()!?
 5a) wo_evalfail	evaluerejeaddji feaila goallossánis
-
+5b) mearkka lasiheapmi
+5c) mearkka eretváldin
+5d) mearkka rievdan
 
 lex	sátni
 form	sátnehápmi 
@@ -121,93 +124,99 @@ MS
 2a) form_FST_fail	< tos --- > toos 	
 3a) morph_MTfail	< ruttâdmin --- > ruttâdem 	
 1a) lex_fail	< nuuvt < lii --- > te 	
-	> lii 	
-	< säämisopâmušâin --- > säämisopâmušáin 	
-	< hiäjunâm --- > huánánâm 	
-	< lohá --- > iätá 	
+4b) wo_changed	> lii 	lii ulmen > ulmen lii
+3a) morph_MTfail and 3b) morph_evalfail	< säämisopâmušâin --- > säämisopâmušáin 	Rivttes hápmi: sopâmuššáin (com sg; vai: dát hápmi lea loc pl)
+1a) lex_fail	< hiäjunâm --- > huánánâm 	
+1a) lex_fail	< lohá --- > iätá 	
 	< Budjettile < lii < taggaar < , < mii --- > Budjet 	
-	< tos --- > toos 	
-	< oovdiš --- > ovdiist 	
-	< virgálâš --- > virgálii 	
-	< virgálâš --- > virgálii 	
-	< tuámupittáást --- > tuámukapittâlist 	
-	< tuámupitá --- > tuámukapittâl 	
-	< ubâlohán --- > ubânâsân 	
-	< toh --- > tot 	
-	< čovgiđ --- > čovgâd 	
-	< tiäđust --- > tiäđust-uv 	
-	< occee --- > occei 	
-	< oovdiš --- > ovdiist 	
-	< lohá --- > iätá 	
-	< ohtâ < vátámâšâin --- > ohtân > vátámâššân 	
-	> jo-uv 	
-	< Tuámupittáást --- > Tuámukapittâlist 	
-	< toh --- > tot 	
-	< oovtâst 	
-	> oovtâst 	
-	< almaiolmoošpapâiguin --- > almaipapâiguin 	
-	> ¶ > ¶ 	
+	< Budjettile < lii < taggaar < , < mii --- > Budjet 	
+2a) form_FST_fail	< tos --- > toos 	
+3a) morph_MTfail	< oovdiš --- > ovdiist 	
+2b) form_FST_Var	< virgálâš --- > virgálii 	
+2b) form_FST_Var	< virgálâš --- > virgálii 	Is this double?
+1a) lex_fail	< tuámupittáást --- > tuámukapittâlist 	
+1a) lex_fail	< tuámupitá --- > tuámukapittâl 	
+1a) lex_fail	< ubâlohán --- > ubânâsân 	
+3a) morph_MTfail	< toh --- > tot 	
+3a) morph_MTfail	< čovgiđ --- > čovgâd 	
+2c) form_sme	< tiäđust --- > tiäđust-uv 	
+3a) morph_MTfail	< occee --- > occei 	
+1a) lex_fail	< oovdiš --- > ovdiist 	
+1a) lex_fail	< lohá --- > iätá 	Many times
+2c) form_sme	< ohtâ < vátámâšâin --- > ohtân > vátámâššân 	
+4a) wo_las	> jo-uv 	
+1a) lex_fail	< Tuámupittáást --- > Tuámukapittâlist 	
+3a) morph_MTfail	< toh --- > tot 	
+4a) wo_las	< oovtâst 	
+4c) wo_eret	< almaiolmoošpapâiguin --- > almaipapâiguin 	
 	
 	
 	
 PM	
 	
-	< pooliitlâš --- > poolitlâš 	
-	< valmâštâlâm --- > valmâštâllâm 	
-	< eereeb < eres < pooliitlâš --- > iärrás > lasseen > poolitlâš 	
-	< tuuriism --- > tuurism 	
-	< taan 	
-	< máhđulub < puátimin --- > máhđulávt > älgimin 	
-	> - 	
-	< moos --- > já 	
-	> tađe > várás 	
-	< tuuriism --- > tuurism 	
-	> valmâštâllâđ 	
-	< tuuriism < kriterij < valmâštâlâđ --- > tuurism > kriterijd 	
-	< lohá --- > iätá 	
+2b) form_FST_var	< pooliitlâš --- > poolitlâš 	
+2d) form_FST_fail	< valmâštâlâm --- > valmâštâllâm 	
+1a) lex_fail	< eereeb < eres < pooliitlâš --- > iärrás > lasseen > poolitlâš 	eereeb eres
+2b) form_FST_var	< eereeb < eres < pooliitlâš --- > iärrás > lasseen > poolitlâš 	pooliitlâš
+2b) form_FST_var	< tuuriism --- > tuurism 	
+4c) wo_eret	< taan 	
+1a) lex_fail	< máhđulub < puátimin --- > máhđulávt > älgimin 	máhđulub-analiisa
+1a) lex_fail	< máhđulub < puátimin --- > máhđulávt > älgimin 	puátimin-analiisa
+5b) mearkka lasiheapmi	> - 	
+1b) lex_nofail	< moos --- > já 	
+4a) wo_las	> tađe > várás 	
+2b) form_FST_var	< tuuriism --- > tuurism 	
+2d) form_FST_fail	< valmâštâlâđ --- > valmâštâllâđ 	
+2b) form_FST_Var	< tuuriism < kriterij < valmâštâlâđ --- > tuurism > kriterijd 	tuuriism
+4b) wo_changed	< tuuriism < kriterij < valmâštâlâđ --- > tuurism > kriterijd 	
+1a) lex_fail	< lohá --- > iätá 	
+	< eereeb < eres < pooliitlâš < tooimâi --- > iärrás > lasseen > poolitlâš > tooimâid 
+	< eereeb < eres < pooliitlâš < tooimâi --- > iärrás > lasseen > poolitlâš > tooimâid 
 	< eereeb < eres < pooliitlâš < tooimâi --- > iärrás > lasseen > poolitlâš > tooimâid 	
 	< iälámâšâi --- > iäláttâsvuovijd 	
-	< toid --- > tooid 	
+2b) form_FST_Var	< toid --- > tooid 	
 	< lasattâs < mii < pooliitlâš --- > poolitlâš 	
 	< , < moos < mij < iävtuttijm 	
-	< eurod --- > euro 	
-	< iälámâšâid --- > iäláttâsvuovij 	
-	< sopâmuš --- > konventio 	
-	< puátá --- > šadda 	
-	< aašijd --- > aašij 	
-	< puátá --- > šadda 	
-	< , < riehtiministeriö --- > . > Riehtiministeriö 	
-	< tos --- > toos 	
-	< ruttâdmin --- > ruttâdem 	
-	< nuuvt --- > te 	
-	< säämisopâmušâin --- > säämisopâmuššáin 	
-	< Sajos --- > Saijoos 	
-	< ekonomâlâš --- > ekonomisâš 	
-	< hiäjunâm --- > hiäjusmâm 	
-	< lohá --- > iätá 	
-	< ekonomâlâš --- > ekonomisâš 	
-	< ekonomâlâš --- > ekonomisâš 	
-	< hiäjus --- > hyenes 	
-	< tos --- > toos 	
-	< oovdiš --- > ovddist 	
-	< vist --- > vistig > sij 	
-	< tuámupittáást --- > tuámukapitulist 	
-	< tuámupitá --- > tuámukapitul 	
-	< ubâlohán --- > ollágin 	
-	< valjâvyehi --- > vaaljâvyehi 	
-	< áigáduvâst --- > äigitavâláin 	
-	< vist --- > vistig 	
-	< čovgiđ --- > čovgâd 	
-	< ruttâdmijn --- > ruttâdmáin 	
-	< vist --- > vistig 	
-	< siämmáš --- > siämmáá 	
-	< tiäđust --- > tiäđust-uv 	
-	< oovdiš --- > ovddist 	
-	< lohá --- > iätá 	
-	< uuccâp --- > olmooš > occoo 	
-	< ulmuu 	
-	< nissoon- --- > nisonijd 	
-	< almaiulmuid --- > almaid 	
-	< Tuámupittáást --- > Tuámukapitulist 	
-	< toh --- > tot 	
-	< almaiolmoošpapâiguin --- > almaipapâiguin 	
+3a) morph_MTfail	< eurod --- > euro 	
+1a) lex_fail	< iälámâšâid --- > iäláttâsvuovij 	
+1a) lex_fail	< sopâmuš --- > konventio 	
+1a) lex_fail	< puátá --- > šadda 	
+3a) morph_MTfail	< aašijd --- > aašij 	
+1a) lex_fail	< puátá --- > šadda 	
+5c) mearkka eretváldin	< ,  --- > .  	rihkku
+5d) mearkka rievdan	< riehtiministeriö --- > . > Riehtiministeriö 	
+2a) form_FST_fail	< tos --- > toos 	
+3a) morph_MTfail	< ruttâdmin --- > ruttâdem 	
+1a) lex_fail	< nuuvt --- > te 	
+3a) morph_MTfail	< säämisopâmušâin --- > säämisopâmuššáin 	
+3a) morph_MTfail	< Sajos --- > Saijoos 	
+1b) lex_nofail	< ekonomâlâš --- > ekonomisâš 	
+1a) lex_fail	< hiäjunâm --- > hiäjusmâm 	
+1a) lex_fail	< lohá --- > iätá 	
+1b) lex_nofail	< ekonomâlâš --- > ekonomisâš 	
+1b) lex_nofail	< ekonomâlâš --- > ekonomisâš 	
+1b) lex_nofail	< hiäjus --- > hyenes 	
+2a) form_FST_fail	< tos --- > toos 	
+3a) morph_MTfail	< oovdiš --- > ovddist 	
+1a) lex_fail	< vist --- > vistig > sij	vistig
+4a) wo_las	< vist --- > vistig > sij	sij
+1a) lex_fail	< tuámupittáást --- > tuámukapitulist 	
+1a) lex_fail	< tuámupitá --- > tuámukapitul 	
+1a) lex_fail	< ubâlohán --- > ollágin 	
+2a) form_FST_fail	< valjâvyehi --- > vaaljâvyehi 	
+1a) lex_fail	< áigáduvâst --- > äigitavâláin 	
+1a) lex_fail	< vist --- > vistig 	
+3a) morph_MTfail	< čovgiđ --- > čovgâd 	
+3a) morph_MTfail	< ruttâdmijn --- > ruttâdmáin 	
+1a) lex_fail	< vist --- > vistig 	
+3a) morph_MTfail	< siämmáš --- > siämmáá 	
+2c) form_sme	< tiäđust --- > tiäđust-uv 	
+3a) morph_MTfail ja 3b) morph_evalfail	< oovdiš --- > ovddist 	
+1a) lex_fail	< lohá --- > iätá 	
+4b) wo_changed 4d) wo_aktpass	< uuccâp --- > olmooš > occoo 	
+4b) wo_changed	< ulmuu 	
+3a) morph_MTfail	< nissoon- --- > nisonijd 	
+4c) wo_eret	< almaiulmuid --- > almaid 	
+1a) lex_fail	< Tuámupittáást --- > Tuámukapitulist 	
+3a) morph_MTfail	< toh --- > tot 	
+4c) wo_eret	< almaiolmoošpapâiguin --- > almaipapâiguin 	
