@@ -283,6 +283,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item lemma="otná" tags="adj.*.attr.*"/>
       <cat-item lemma="sosiála" tags="adj.*.attr.*"/>
       <cat-item lemma="seammá" tags="prn.ind.*"/>
+      <cat-item lemma="virggálaš" tags="adj.*.attr.*"/>
       <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!--  put under vuosttaš as lemma in sme -->
       <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/>
       <cat-item lemma="vuosttas" tags="adj.ord.attr"/>
