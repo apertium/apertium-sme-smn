@@ -3,6 +3,7 @@ Rievdadusat:
 1) lex	sátni a -> b
 1a) lex_fail	Boasttosáni geavaheapmi (feaila)	lohá --> iätá
 1b) lex_nofail	Nubbi sátneválljen (ii feaila, omd ii čielgga normeren) (ruhtadanministeriija namma)
+1c) lex_evalfail	Evaluerejeaddji feaila
 
 2) form	sátnehápmi
 2a) form_FST_fail	(sátni sodjá boastut FST:s): valmâštâlâđ --> valmâštâllâđ
@@ -46,48 +47,51 @@ NUBÁSTUSEH
 
 IM	
 	
-2b	form_FST_Var	< pooliitlâš --- > poolitlâš 	
-punct	> . 	
-2a	< valmâštâlâm --- > valmâštâllâm 	
-	< eereeb 	
-	> lasseen 	
-	< tuuriism --- > tuurism 	
-	< ruttâtoimâohtâdâhministeriö --- > ruttâtuáluministeriö 	
-	< máhđulub --- > máhđulávt 	
-	< pištevâš --- > pištee 	
-	< tuuriism --- > tuurism 	
-	< tuuriism --- > tuurism 	
-	< valmâštâlâđ --- > valmâštâllâđ 	
-	< lohá --- > iätá 	
-	< taveriijkâlâš --- > tave-eennâmlâš 	
-	< eereeb 	
-	< pooliitlâš < tooimâi --- > lasseen > poolitkâš > tooimâid 	
-	< iälámâšâi --- > iäláttâsâid 	
-	< ruttâtoimâohtâdâhministeriön --- > ruttâtuáluministeriön 	
-	< eurod --- > euro 	
-	< iälámâšâid --- > iäláttâsâ 	
-	< parlament --- > parlamenttaarlâš 	
-	< taveriijkâlâš --- > tave-eennâmlâš 	
-	< aašijd --- > aašij 	
-	< tos --- > toos 	
-	< ruttâdmin --- > ruttâdem 	
-	< säämisopâmušâin --- > säämisopâmuššáin 	
-	< lohá --- > iätá 	
-	< tos --- > toos 	
-	< oovdiš < sämikielâtáiđu --- > ovdiist > sämikieltáiđu 	
-	< haldâttâhlâš --- > haaldâtlâš 	
-	< kieđâvušškuáttám < tuámupittáást --- > kieđâvuškuáttám > tuámukapittâlist 	
-	< tuámupitá --- > tuámukapittâl 	
-	< valjâvyehi --- > vaaljâvyehi 	
-	< toh --- > tot 	
-	< čovgiđ --- > čovgâd 	
-	< ruttâdmijn --- > ruttâdmáin 	
-	< siämmáš --- > siämmáá 	
-	< occee --- > occei 	
-	< oovdiš < sämikielâtáiđu --- > ovdiist > sämikieltáiđu 	
-	< lohá --- > iätá 	
-	< Tuámupittáást --- > Tuámukapittâlist 	
-	< toh --- > tot 	
+2b) form_FST_Var	< pooliitlâš --- > poolitlâš 	
+2a) form_FST_fail	< valmâštâlâm --- > valmâštâllâm 	
+1a) lex_fail	< eereeb 	
+1a) lex_fail	> lasseen 	
+2b) form_FST_Var	< tuuriism --- > tuurism 	
+1a) lex_fail	< ruttâtoimâohtâdâhministeriö --- > ruttâtuáluministeriö 	
+3a) morph_MTfail	< máhđulub --- > máhđulávt 	
+2b) form_FST_Var	< pištevâš --- > pištee 	
+2b) form_FST_Var	< tuuriism --- > tuurism 	
+2b) form_FST_Var	< tuuriism --- > tuurism 	
+2a) form_FST_fail	< valmâštâlâđ --- > valmâštâllâđ 	
+1a) lex_fail	< lohá --- > iätá 	
+1b) lex_nofail	< taveriijkâlâš --- > tave-eennâmlâš 	
+4c) eret	< eereeb 	
+4a) las	<  --- > lasseen
+2a) fst	< pooliitlâš  --- > lasseen > poolitkâš > tooimâid 
+3a)	< tooimâi --- >  tooimâid 
+1a) lex_fail	< iälámâšâi --- > iäláttâsâid 	
+1a) lex_fail	< ruttâtoimâohtâdâhministeriön --- > ruttâtuáluministeriön 	
+3a) morph_MTfail	< eurod --- > euro 	
+1a) lex_fail ja 1c) lex_evalfail	< iälámâšâid --- > iäláttâsâ 	
+3a)	< parlament --- > parlamenttaarlâš 	
+1b) lex_nofail	< taveriijkâlâš --- > tave-eennâmlâš 	
+3a) morph_MTfail	< aašijd --- > aašij 	
+2a) form_FST_fail	< tos --- > toos 	
+3a) morph_MTfail	< ruttâdmin --- > ruttâdem 	
+3a) morph_MTfail	< säämisopâmušâin --- > säämisopâmuššáin 	
+1a) lex_fail	< lohá --- > iätá 	
+2a) form_FST_fail	< tos --- > toos 	
+3a)	< oovdiš  --- > ovdiist 	
+2a)	< sämikielâtáiđu --- > sämikieltáiđu 	
+3a)	< haldâttâhlâš --- > haaldâtlâš 	
+1a) lex_fail	< kieđâvušškuáttám < tuámupittáást --- > kieđâvuškuáttám > tuámukapittâlist 	
+1a) lex_fail	< tuámupitá --- > tuámukapittâl 	
+3a) morph_MTfail	< valjâvyehi --- > vaaljâvyehi 	
+3a) morph_MTfail	< toh --- > tot 	
+1a) lex_fail	< čovgiđ --- > čovgâd 	
+3a) morph_MTfail	< ruttâdmijn --- > ruttâdmáin 	
+3a) morph_MTfail	< siämmáš --- > siämmáá 	
+3a) morph_MTfail	< occee --- > occei 	
+3a)	< oovdiš  --- > ovdiist 	
+2a) form_FST_fail	< sämikielâtáiđu --- > sämikieltáiđu 	
+1a) lex_fail	< lohá --- > iätá 	
+1a) lex_fail	< Tuámupittáást --- > Tuámukapittâlist 	
+3a) morph_MTfail	< toh --- > tot 	
 	
 	
 MS	
