@@ -91,3 +91,25 @@ where
 3 = error in choice of form (wrong wordform selected)
 4 = word order (word order changed, word deleted or added)
 5 = punctuation mark added or deleted.
+
+
+Subtyypit:
+
+  76 1a
+  16 1b
+  14 2a
+  31 2b
+   7 2c
+   3 2d
+  45 3a
+   1 3b
+   4 3c
+   9 4a
+   7 4b
+  10 4c
+   1 4d
+   8 4e
+   1 5a
+   1 5b
+   2 5c
+   
