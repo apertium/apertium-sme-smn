@@ -2710,6 +2710,8 @@
     
 
     <!-- ASECTION: other proper nouns -->
+    
+    <e><p><l>Inarilainen<s n="np"/></l><r>Inarilainen<s n="np"/></r></p></e>
     <e><p><l>Sibirjá<s n="np"/></l><r>Siberia<s n="np"/></r></p></e>
     <e><p><l>Kanáda<s n="np"/></l><r>Kanada<s n="np"/></r></p></e>
     <e><p><l>Amerihkká<s n="np"/></l><r>Amerik<s n="np"/></r></p></e>
@@ -5378,7 +5380,7 @@
     <e><p><l>boađđu<s n="n"/></l><r>kárgu<s n="n"/></r></p></e>
     <e><p><l>boaššu<s n="n"/><s n="g3"/></l><r>puáššu<s n="n"/></r></p></e>
     <e><p><l>bodda<s n="n"/></l><r>puddâ<s n="n"/></r></p></e>
-    <e><p><l>boddu<s n="n"/></l><r>potkâ<s n="n"/></r></p></e>
+    <e><p><l>boddu<s n="n"/></l><r>puddâ<s n="n"/></r></p></e>
     <e><p><l>bodni<s n="n"/></l><r>ponne<s n="n"/></r></p></e>
     <e><p><l>bohccosuoidni<s n="n"/></l><r>jävrihuášši<s n="n"/></r></p></e>
     <e><p><l>bohccádat<s n="n"/></l><r>poccee<s n="n"/></r></p></e>
@@ -7823,8 +7825,8 @@
 
     <!--    BSECTION: Prepositions -->
 
-    <e><p><l>earret<s n="pr"/></l><r>eereeb<s n="pr"/></r></p></e>
-    <e><p><l>earet<s n="pr"/></l><r>eereeb<s n="pr"/></r></p></e>
+    <e><p><l>earret<s n="pr"/></l><r>eereeb<s n="pr"/></r></p></e> 
+    <e><p><l>earet<s n="pr"/></l><r>eereeb<s n="pr"/></r></p></e> <!-- earet eará - eereeb iärrás-->
     <e><p><l>badjel<s n="pr"/></l><r>paijeel<s n="pr"/></r></p></e>
     <e><p><l>guovdelaš<s n="pr"/></l><r>kyevdil<s n="pr"/></r></p></e>
 
