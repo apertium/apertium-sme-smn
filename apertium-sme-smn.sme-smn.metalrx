@@ -39,6 +39,12 @@ Write comments to forthcoming rules before this line -->
         <match lemma="bar"/>
       </or>
     </def-seq>
+    <def-seq n="id-adjs">
+      <or>
+        <match lemma="ođđa"/>
+        <match lemma="vuosttaš"/>
+      </or>
+    </def-seq>
   </def-seqs>
 
 <rules>
@@ -426,6 +432,7 @@ Write comments to forthcoming rules before this line -->
     <or>
     <match tags="num.*"/>
     <match lemma="diehtu"/>
+    <match lemma="dárbu"/>
     <match lemma="árvu"/>
     <match lemma="láhka"/>
     <match lemma="vuođđoláhka"/>
@@ -653,7 +660,6 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.6">
-	  <match lemma='"'/>
    <or>
 	  <match lemma=","/>
    </or>
@@ -671,18 +677,26 @@ Write comments to forthcoming rules before this line -->
 	  <match lemma="ná"/>
 	  <match lemma="nie"/>
 	  <match lemma=":"/>
-   </or>
+      </or>
+  </rule>
+
+    <rule weight="0.6">
+      <match lemma="lohkat"> 
+      <select lemma="ettâđ"/>
+      </match>
+      <match lemma=","/>
+        <match lemma="ahte"/>
   </rule>
 
   <rule weight="0.6">
-   <match lemma="lohkat"> 
-      <select lemma="ettâđ"/>
-    </match>
-	  <match lemma="nu"/>
-       <or>
-	  <match lemma="ahte"/>
-	  <match lemma=","/>
-   </or>
+     <match lemma="lohkat"> 
+        <select lemma="ettâđ"/>
+     </match>
+     <match lemma="nu"/>
+     <or>
+       <match lemma="ahte"/>
+       <match lemma=","/>
+     </or>
   </rule>
 
 
@@ -1060,7 +1074,75 @@ Write comments to forthcoming rules before this line -->
     <match tags="n.*"/>
   </rule>
 
+<!-- duohko -->
+  <rule weight="1.0">
+    <match lemma="duohko">
+      <select lemma="tuohun"/>
+    </match> 
+  </rule>
 
+  <rule weight="0.5">
+    <match lemma="duohko">
+      <select lemma="ovdâskulij"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="dás"/>
+    <match lemma="duohko">
+      <select lemma="ovdâskulij"/>
+    </match>
+    <match tags="n.*"/>
+  </rule>
+
+<!-- skierru (LP dahje muorra -->
+  <rule weight="1.0">
+    <match lemma="skearru">
+      <select lemma="skierri"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="skearru">
+      <select lemma="skiärru"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+          <or>
+        <match lemma="ođas"/>
+        <match lemma="vuosttaš"/>
+      </or>
+    <match lemma="skierru">
+      <select lemma="skiärru"/>
+    </match>
+  </rule>
+
+
+<!-- máhtu -->
+  <rule weight="1.0">
+    <match lemma="máhttu">
+      <select lemma="máttu"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="máhttu">
+      <select lemma="tááiđu"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+          <or>
+        <match lemma="giella"/>
+        <match lemma="čállingiella"/>
+      </or>
+    <match lemma="máhttu">
+      <select lemma="tááiđu"/>
+    </match>
+  </rule>
+
+  
 
 <!-- divat -->
   <rule weight="1.0">
