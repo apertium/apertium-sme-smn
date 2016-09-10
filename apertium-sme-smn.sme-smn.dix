@@ -313,6 +313,7 @@
     <!-- ASECTION: Particles -->
 
     <e><p><l>ba<s n="pcle"/></l><r>ba<s n="foc_ba"/></r></p></e>
+    <e><p><l>hás<s n="pcle"/></l><r>ama<s n="pcle"/></r></p></e>
     <e><p><l>amma<s n="pcle"/></l><r>ama<s n="pcle"/></r></p></e>
     <e><p><l>bat<s n="pcle"/></l><r>ba<s n="foc_ba"/></r></p></e>
     <e><p><l>ge<s n="pcle"/></l><r>-uv<s n="foc_uv"/></r></p></e> <!-- in positive sentences -->
@@ -5786,9 +5787,9 @@
     <e><p><l>fabrihkka<s n="n"/></l><r>fabrik<s n="n"/></r></p></e>
     <e><p><l>faggi<s n="n"/></l><r>vagge<s n="n"/></r></p></e>
     <e><p><l>fanas<s n="n"/></l><r>käärbis<s n="n"/></r></p></e>
-    <e><p><l>fastodat<s n="n"/></l><r>vastevuotâ<s n="n"/></r></p></e>
+    <e><p><l>fastodat<s n="n"/></l><r>fastevuotâ<s n="n"/></r></p></e>
     <e><p><l>feaila<s n="n"/></l><r>feilâ<s n="n"/></r></p></e>
-    <e><p><l>fearán<s n="n"/></l><r>tábáhtus<s n="n"/></r></p></e>
+    <e><p><l>fearán<s n="n"/></l><r>fiäráán<s n="n"/></r></p></e>
     <e><p><l>feaskkir<s n="n"/></l><r>veeskir<s n="n"/></r></p></e>
     <e><p><l>feber<s n="n"/></l><r>kumeštâs<s n="n"/></r></p></e>
     <e><p><l>festivála<s n="n"/></l><r>festivaal<s n="n"/></r></p></e>
@@ -10226,7 +10227,7 @@
     <e><p><l>heahpu<s n="n"/><s n="sg"/></l><r>kuolah<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>hejoš<s n="n"/></l><r>luási<s n="n"/></r></p></e>
     <e><p><l>hejoš<s n="n"/></l><r>rävkki<s n="n"/></r></p></e>
-    <e><p><l>linjá<s n="n"/></l><r>säärgis<s n="n"/></r></p></e>
+    <e><p><l>linjá<s n="n"/></l><r>linjá<s n="n"/></r></p></e>
     <e><p><l>loađgu<s n="n"/></l><r>jeggiluátku<s n="n"/></r></p></e>
     <e><p><l>meannu<s n="n"/></l><r>keevâtlâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>meannu<s n="n"/></l><r>vuáválâšvuotâ<s n="n"/></r></p></e>
