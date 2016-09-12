@@ -935,6 +935,7 @@ texts/Lappumalmai_MT.txt -text
 texts/Lappumalmai_sme.txt -text
 texts/Lappumalmai_smn.txt -text
 texts/Outi-pieski_sme.txt -text
+texts/Patareijeeh_sme.txt -text
 texts/Toimenpideohjelma_sme.txt -text
 texts/Toimenpideohjelma_smn.txt -text
 texts/YLE_virgeh_MTjurg.txt -text
@@ -1029,6 +1030,8 @@ texts/meahccetuvra_sme.txt -text
 texts/nickel.sme.txt -text
 texts/np_intern_agreement.sme.txt -text
 texts/num_sentences_sme.txt -text
+texts/patareijeeh_MT.txt -text
+texts/patareijeeh_smn.txt -text
 texts/piittamsamikiela_sme_original.txt -text
 texts/piittamsamikiela_smesmn_MTtranslation.txt -text
 texts/piittamsamikiela_smn_MLOtranslation.txt -text
