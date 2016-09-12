@@ -1142,6 +1142,31 @@ Write comments to forthcoming rules before this line -->
     </match>
   </rule>
 
+
+
+
+
+
+<!-- gráda -->
+  <rule weight="1.0">
+    <match lemma="gráda">
+      <select lemma="muddo"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="gráda">
+      <select lemma="cekki"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+    <match tags="num.*"/>
+    <match lemma="gráda">
+      <select lemma="cekki"/>
+    </match>
+  </rule>
+
   
 
 <!-- divat -->
