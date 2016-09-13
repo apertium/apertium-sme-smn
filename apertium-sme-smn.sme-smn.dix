@@ -681,7 +681,7 @@
 
 
     <!-- ASECTION: Adjectives -->
-
+    <e><p><l>elekronalaš<s n="adj"/></l><r>elektronlâš<s n="adj"/></r></p></e>    
     <e><p><l>vuoigatvuođalaš<s n="adj"/></l><r>vuoigâdvuođâlâš<s n="adj"/></r></p></e>    
     <e><p><l>temáhtalaš<s n="adj"/></l><r>teemaatlâš<s n="adj"/></r></p></e>    
     <e><p><l>álgoálgosaš<s n="adj"/></l><r>algâalgâlâš<s n="adj"/></r></p></e>    
@@ -1480,6 +1480,7 @@
     <e><p><l>báikenamma<s n="n"/></l><r>päikkinommâ<s n="n"/></r></p></e>
     <e><p><l>konvoluhtta<s n="n"/></l><r>kooveert<s n="n"/></r></p></e>
     <e><p><l>beaivelatnja<s n="n"/></l><r>orroomviste<s n="n"/></r></p></e>
+    <e><p><l>meahcásteapmi<s n="n"/></l><r>miäcástem<s n="n"/></r></p></e>
     <e><p><l>meahcástus<s n="n"/></l><r>miäcástem<s n="n"/></r></p></e>
     <e><p><l>gizzu<s n="n"/></l><r>kiccâ<s n="n"/></r></p></e>
     <e><p><l>assimileren<s n="n"/></l><r>assimilaatio<s n="n"/></r></p></e>
@@ -5384,7 +5385,7 @@
     <e><p><l>boasttuvuohta<s n="n"/></l><r>puástuvuotâ<s n="n"/></r></p></e>
     <e><p><l>boatkkahas<s n="n"/></l><r>tivre<s n="n"/></r></p></e>
     <e><p><l>boazodoalli<s n="n"/></l><r>puásuituállee<s n="n"/></r></p></e>
-    <e><p><l>boazodoalloguovlu<s n="n"/></l><r>paalgâs<s n="n"/></r></p></e>
+    <e><p><l>boazodoalloguovlu<s n="n"/></l><r>puásuituálukuávlu<s n="n"/></r></p></e>
     <e><p><l>boazodoallu<s n="n"/></l><r>puásuituálu<s n="n"/></r></p></e>
     <e><p><l>boazolohku<s n="n"/></l><r>puásuiloho<s n="n"/></r></p></e>
     <e><p><l>boazorikkis<s n="n"/></l><r>puásuiriges<s n="n"/></r></p></e>
@@ -6202,6 +6203,7 @@
     <e><p><l>hubmi<s n="n"/></l><r>sárnoo<s n="n"/></r></p></e>
     <e><p><l>huikkas<s n="n"/></l><r>huuihâs<s n="n"/></r></p></e>
     <e><p><l>huksenlohpi<s n="n"/></l><r>huksimlope<s n="n"/></r></p></e>
+    <e><p><l>sierralohpi<s n="n"/></l><r>sierâlope<s n="n"/></r></p></e>
     <e><p><l>hupma<s n="n"/></l><r>huummân<s n="n"/></r></p></e>
     <e><p><l>hurri<s n="n"/><s n="g3"/></l><r>hurečuhčá<s n="n"/></r></p></e>
     <e><p><l>hábmen<s n="n"/></l><r>hammim<s n="n"/></r></p></e>
