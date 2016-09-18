@@ -1,6 +1,6 @@
-   55043 /tmp/sme-smn.exp
-   55043 /tmp/sme-smn.a
-  110086 total
+   55059 /tmp/sme-smn.exp
+   55059 /tmp/sme-smn.a
+  110118 total
 %	Ahlund<np>:Ahlund<np>:^Ahlund/*Ahlund$
 %	Anne-Maret<np>:Anne-Maret<np>:^Anne-Maret/*Anne-Maret$
 %	Antigua¬ja¬Barbuda<np>:Antigua¬já¬Barbuda<np>:^Antigua/Antigua<np><attr>/Antigua<np><sem_sur><attr>/Antigua<np><sem_sur><sg><acc>/Antigua<np><sem_sur><sg><gen>/Antigua<np><sem_sur><sg><nom>/Antigua<np><sg><acc>/Antigua<np><sg><gen>/Antigua<np><sg><nom>/Antigua<np><top><attr>/Antigua<np><top><sg><acc>/Antigua<np><top><sg><gen>/Antigua<np><top><sg><nom>$¬^já/já<cnjcoo>$¬^Barbuda/Barbuda<np><attr>/Barbuda<np><sem_sur><attr>/Barbuda<np><sem_sur><sg><acc>/Barbuda<np><sem_sur><sg><gen>/Barbuda<np><sem_sur><sg><nom>/Barbuda<np><sg><acc>/Barbuda<np><sg><gen>/Barbuda<np><sg><nom>/Barbuda<np><top><attr>/Barbuda<np><top><sg><acc>/Barbuda<np><top><sg><gen>/Barbuda<np><top><sg><nom>$
@@ -11,6 +11,7 @@
 %	Avviskáidi<np>:Avvilskáidi<np>:^Avvilskáidi/*Avvilskáidi$
 %	Ašen-nieida<np>:Ašen-nieida<np>:^Ašen/*Ašen$^-/-<guio>$^nieida/*nieida$
 %	Ašeneadni<np>:Ašeneadni<np>:^Ašeneadni/*Ašeneadni$
+%	Badje-Duortnus<np>:Paje-Tuárnus<np>:^Paje-Tuárnus/paje<n><cmp_sggen><cmp><guio>+Tuárnus<np><attr>/paje<n><cmp_sggen><cmp><guio>+Tuárnus<np><sem_sur><attr>/paje<n><cmp_sggen><cmp><guio>+Tuárnus<np><sem_sur><sg><acc>/paje<n><cmp_sggen><cmp><guio>+Tuárnus<np><sem_sur><sg><gen>/paje<n><cmp_sggen><cmp><guio>+Tuárnus<np><sem_sur><sg><nom>/paje<n><cmp_sggen><cmp><guio>+Tuárnus<np><sg><acc>/paje<n><cmp_sggen><cmp><guio>+Tuárnus<np><sg><gen>/paje<n><cmp_sggen><cmp><guio>+Tuárnus<np><sg><nom>/paje<n><cmp_sggen><cmp><guio>+Tuárnus<np><top><attr>/paje<n><cmp_sggen><cmp><guio>+Tuárnus<np><top><sg><acc>/paje<n><cmp_sggen><cmp><guio>+Tuárnus<np><top><sg><gen>/paje<n><cmp_sggen><cmp><guio>+Tuárnus<np><top><sg><nom>/paje<n><cmp_sgnom><cmp><guio>+Tuárnus<np><attr>/paje<n><cmp_sgnom><cmp><guio>+Tuárnus<np><sem_sur><attr>/paje<n><cmp_sgnom><cmp><guio>+Tuárnus<np><sem_sur><sg><acc>/paje<n><cmp_sgnom><cmp><guio>+Tuárnus<np><sem_sur><sg><gen>/paje<n><cmp_sgnom><cmp><guio>+Tuárnus<np><sem_sur><sg><nom>/paje<n><cmp_sgnom><cmp><guio>+Tuárnus<np><sg><acc>/paje<n><cmp_sgnom><cmp><guio>+Tuárnus<np><sg><gen>/paje<n><cmp_sgnom><cmp><guio>+Tuárnus<np><sg><nom>/paje<n><cmp_sgnom><cmp><guio>+Tuárnus<np><top><attr>/paje<n><cmp_sgnom><cmp><guio>+Tuárnus<np><top><sg><acc>/paje<n><cmp_sgnom><cmp><guio>+Tuárnus<np><top><sg><gen>/paje<n><cmp_sgnom><cmp><guio>+Tuárnus<np><top><sg><nom>$
 %	Bajit¬Bešku<np>:Bajimuš¬Beskoguoika<np>:^Bajimuš/*Bajimuš$¬^Beskoguoika/Beskoguoika<np><sg><nom>/Beskoguoika<np><top><sg><nom>$
 %	Beahcán<np>:Piäccám<np>:^Piäccám/peeci<n><sg><acc><px1sg>/peeci<n><sg><gen><px1sg>/peeci<n><sg><nom><px1sg>$
 %	Beahcánbuolžžat<np>:Piäccámpuolžah<np>:^Piäccámpuolžah/*Piäccámpuolžah$
@@ -83,7 +84,6 @@
 %	Idoli<np>:Idoli<np>:^Idoli/*Idoli$
 %	Iina-Marja<np>:Iina-Marja<np>:^Iina/*Iina$^-/-<guio>$^Marja/Marja<np><ant><f><attr>/Marja<np><ant><f><sg><acc>/Marja<np><ant><f><sg><gen>/Marja<np><ant><f><sg><nom>/Marja<np><attr>/Marja<np><sg><acc>/Marja<np><sg><gen>/Marja<np><sg><nom>$
 %	Iina<np>:Iina<np>:^Iina/*Iina$
-%	Inarilainen<np>:Inarilainen<np>:^Inarilainen/*Inarilainen$
 %	Ipmil¬Áhčči<np>:Ipmil¬Áhčči<np>:^Ipmil/*Ipmil$¬^Áhčči/*Áhčči$
 %	Ipmila¬Bárdni<np>:Ipmila¬Bárdni<np>:^Ipmila/*Ipmila$¬^Bárdni/*Bárdni$
 %	Irjánbuollán<np>:Irjánpuállâm<np>:^Irjánpuállâm/*Irjánpuállâm$
@@ -134,6 +134,7 @@
 %	Navnnagašjeaggi<np>:Njávnnagašjeaggi<np>:^Njávnnagašjeaggi/*Njávnnagašjeaggi$
 %	Njunnás<np>:Njunnáás<np>:^Njunnáás/*Njunnáás$
 %	Njuohttejávri<np>:Njuõttjäu´rr<np>:^Njuõttjäu/*Njuõttjäu$^´/´<punct>$^rr/*rr$
+%	Njuoranjárga<np>:Njuáruinjaargâš<np>:^Njuáruinjaargâš/njuárui<n><cmp_sgnom><cmp>+njargâ<n><der_dimin><n><sg><nom>$
 %	Njálmmebohki<np>:Njälpovvááš<np>:^Njälpovvááš/*Njälpovvááš$
 %	Njávnnagašjávri<np>:Moalkeláttu<np>:^Moalkeláttu/*Moalkeláttu$
 %	Nuortečohkka<np>:Njuõttčå´kk<np>:^Njuõttčå/*Njuõttčå$^´/´<punct>$^kk/*kk$
@@ -202,16 +203,23 @@
 %	Vuolit Besku<np>:Vuolimuš Beskoguoika<np>:^Vuolimuš/*Vuolimuš$ ^Beskoguoika/Beskoguoika<np><sg><nom>/Beskoguoika<np><top><sg><nom>$
 %	Vuopme-Bearttošvárri<np>:Vuovde-Bearttošvárri<np>:^Vu/Vu<np><attr>/Vu<np><sem_org><attr>/Vu<np><sem_org><sg><acc>/Vu<np><sem_org><sg><gen>/Vu<np><sem_org><sg><nom>/Vu<np><sg><acc>/Vu<np><sg><gen>/Vu<np><sg><nom>$^ovde/*ovde$^-/-<guio>$^Bearttošvárri/*Bearttošvárri$
 %	Várggát<np>:Várgááh<np>:^Várgááh/*Várgááh$
+%	Várjjat<np>:Vaarjâg<np>:^Vaarjâg/*Vaarjâg$
+%	Várjjatvuonna<np>:Vaarjâgvuonâ<np>:^Vaarjâgvuonâ/*Vaarjâgvuonâ$
+%	Várjjatvuotna<np>:Vaarjâgvuonâ<np>:^Vaarjâgvuonâ/*Vaarjâgvuonâ$
+%	Várjjavuonsuolu<np>:Vaarjagvuonsuolu<np>:^Vaarjagvuonsuolu/*Vaarjagvuonsuolu$
 %	Víctor<np>:Víctor<np>:^Víctor/*Víctor$
 %	Weltin<np>:Weltin<np>:^Weltin/*Weltin$
 %	Yliriesto<np>:Yliriesto<np>:^Yliriesto/*Yliriesto$
 %	antropologa<n>:antropoloog<n>:^antropoloog/*antropoloog$
-%	atnuiváldit<vblex>:väldiđ¬anon<vblex>:^väldiđ/väldiđ<vblex><imp><p2><pl>/väldiđ<vblex><inf>$¬^anon/ano<n><sg><ill>$
 %	ba<pcle>:ba<foc_ba>:^ba/*ba$
 %	bat<pcle>:ba<foc_ba>:^ba/*ba$
 %	beallásaš<adj>:jieráđálâš<adj>:^jieráđálâš/*jieráđálâš$
+%	birrasii<adv>:suullân<adv>:^suullân/suullân<pcle>$
+%	birrasiid<adv>:suullân<adv>:^suullân/suullân<pcle>$
 %	boaittobeale<adv>:tuárispele<adv>:^tuárispele/tuáris<adj><cmp_attr><cmp>+peeli<n><sg><acc>/tuáris<adj><cmp_attr><cmp>+peeli<n><sg><gen>/tuáris<adj><cmp_sgnom><cmp>+peeli<n><sg><acc>/tuáris<adj><cmp_sgnom><cmp>+peeli<n><sg><gen>$
-%	buvttadeapmi<n>:puovtâdem<n>:^puovtâdem/puovtâdiđ<vblex><actio><nom>/puovtâdiđ<vblex><der_nomact><n><sg><acc>/puovtâdiđ<vblex><der_nomact><n><sg><gen>/puovtâdiđ<vblex><der_nomact><n><sg><nom>$
+%	boazodoalloguovlu<n>:puásuituálukuávlu<n>:^puásuituálukuávlu/puásuituálu<n><cmp_sggen><cmp>+kuávlu<n><sg><acc>/puásuituálu<n><cmp_sggen><cmp>+kuávlu<n><sg><gen>/puásuituálu<n><cmp_sggen><cmp>+kuávlu<n><sg><nom>/puásuituálu<n><cmp_sgnom><cmp>+kuávlu<n><sg><acc>/puásuituálu<n><cmp_sgnom><cmp>+kuávlu<n><sg><gen>/puásuituálu<n><cmp_sgnom><cmp>+kuávlu<n><sg><nom>/puásui<n><cmp_sgnom><cmp>+tuálu<n><cmp_sggen><cmp>+kuávlu<n><sg><acc>/puásui<n><cmp_sgnom><cmp>+tuálu<n><cmp_sggen><cmp>+kuávlu<n><sg><gen>/puásui<n><cmp_sgnom><cmp>+tuálu<n><cmp_sggen><cmp>+kuávlu<n><sg><nom>/puásui<n><cmp_sgnom><cmp>+tuálu<n><cmp_sgnom><cmp>+kuávlu<n><sg><acc>/puásui<n><cmp_sgnom><cmp>+tuálu<n><cmp_sgnom><cmp>+kuávlu<n><sg><gen>/puásui<n><cmp_sgnom><cmp>+tuálu<n><cmp_sgnom><cmp>+kuávlu<n><sg><nom>$
+%	buolašgráda<n>:puolâšcekki<n>:^puolâšcekki/puolâš<n><cmp_sgnom><cmp>+cekki<n><sg><nom>$
+%	buolašgráđđa<n>:puolâšcekki<n>:^puolâšcekki/puolâš<n><cmp_sgnom><cmp>+cekki<n><sg><nom>$
 %	cohkolat<n>:koškes<n>:^koškes/koškes<adj><sg><nom>$
 %	dielvvis<adj>:läätis<adj>:^läätis/*läätis$
 %	dihkku<n>:postânjuš<n>:^postânjuš/*postânjuš$
@@ -231,7 +239,6 @@
 %	dássásaš<adj>:oovtâitosâš<adj>:^oovtâitosâš/oovtâitosâš<n><sg><nom>$
 %	eahpeluohtehahtti<adj>:epilyetittettee<adj>:^epilyetittettee/epilyetittettee<n><nomag><sg><acc>/epilyetittettee<n><nomag><sg><gen>/epilyetittettee<n><nomag><sg><nom>$
 %	eahpesealvi<adj>:episelvi<adj>:^episelvi/epi<adj><cmp_attr><cmp>+selvi<n><sg><nom>$
-%	eallinvuohki<n>:eellimvyehi<n>:^eellimvyehi/eellim<n><cmp_sggen><cmp>+vyehi<n><sg><nom>/eellim<n><cmp_sgnom><cmp>+vyehi<n><sg><nom>$
 %	eambbo<adj>:eenâb<adj>:^eenâb/eenâb<adv>$
 %	eamidastit<vblex>:emeduššâđ<vblex>:^emeduššâđ/*emeduššâđ$
 %	earáhuhttin<n>:nubásmittem<n>:^nubásmittem/nubásmittiđ<vblex><der_nomact><n><sg><acc>/nubásmittiđ<vblex><der_nomact><n><sg><gen>/nubásmittiđ<vblex><der_nomact><n><sg><nom>/nubásmittiđ<vblex><der_nomag><n><sg><acc><px1sg>/nubásmittiđ<vblex><der_nomag><n><sg><gen><px1sg>/nubásmittiđ<vblex><der_nomag><n><sg><nom><px1sg>/nubásmiđ<vblex><der_caus><vblex><der_nomact><n><sg><acc>/nubásmiđ<vblex><der_caus><vblex><der_nomact><n><sg><gen>/nubásmiđ<vblex><der_caus><vblex><der_nomact><n><sg><nom>/nubásmiđ<vblex><der_caus><vblex><der_nomag><n><sg><acc><px1sg>/nubásmiđ<vblex><der_caus><vblex><der_nomag><n><sg><gen><px1sg>/nubásmiđ<vblex><der_caus><vblex><der_nomag><n><sg><nom><px1sg>$
@@ -240,6 +247,7 @@
 %	eatnatlohkosaš<adj>:eenâblovolâš<adj>:^eenâblovolâš/eenâbloho<n><der_lasj><adj><attr>/eenâbloho<n><der_lasj><adj><sg><nom>$
 %	eatnigiel<adj>:eenikiel<adj>:^eenikiel/enni<n><cmp_sggen><cmp>+kielâ<adj><attr>$
 %	forminddar<n>:hormendar<n>:^hormendar/*hormendar$
+%	fuođđoguovddáš<n>:pivdoelleekuávdáš<n>:^pivdoelleekuávdáš/pivdoellee<n><nomag><cmp_sggen><cmp>+kuávdáš<n><sg><nom>/pivdoellee<n><nomag><cmp_sgnom><cmp>+kuávdáš<n><sg><nom>/pivdo<n><cmp_sgnom><cmp>+eelliđ<vblex><der_nomag><n><cmp_sggen><cmp>+kuávdáš<n><sg><nom>/pivdo<n><cmp_sgnom><cmp>+eelliđ<vblex><der_nomag><n><cmp_sgnom><cmp>+kuávdáš<n><sg><nom>/pivdo<n><cmp_sgnom><cmp>+ellee<n><nomag><cmp_sggen><cmp>+kuávdáš<n><sg><nom>/pivdo<n><cmp_sgnom><cmp>+ellee<n><nomag><cmp_sgnom><cmp>+kuávdáš<n><sg><nom>$
 %	gabba<n>:kobbâ<n>:^kobbâ/*kobbâ$
 %	gallii<adv>:kollii<adv>:^kollii/kolliđ<vblex><imp><conneg>/kolliđ<vblex><imp><p2><sg>/kolliđ<vblex><indic><pres><conneg>$
 %	gallás<adj>:naggâ<adj>:^naggâ/naggâ<adv>$
@@ -258,7 +266,6 @@
 %	gerolmas<adj>:mááinuh<adj>:^mááinuh/máinuđ<vblex><indic><pres><p2><sg>/máinu<n><pl><nom>$
 %	gerolmas<adj>:pegâlmâs<adj>:^pegâlmâs/peeggâlm<adj><attr>$
 %	ges<pcle>:gis<foc_gis>:^gis/gis<pcle>$
-%	geđđot<vblex>:čalmettuđ¬koskâpuddâsávt<vblex>:^čalmettuđ/čalmettuđ<vblex><iv><imp><p2><pl>/čalmettuđ<vblex><iv><inf>$¬^koskâpuddâsávt/koskâpuddâsâš<adj><der_aadv><adv>$
 %	gielu<n>:vorrâciccâlâs<n>:^vorrâciccâlâs/*vorrâciccâlâs$
 %	gielu<n>:vorrâcipâlâs<n>:^vorrâcipâlâs/*vorrâcipâlâs$
 %	gievvun<n>:kiävulem<n>:^kiävulem/kiävuliđ<vblex><actio><nom>/kiävuliđ<vblex><der_nomact><n><sg><acc>/kiävuliđ<vblex><der_nomact><n><sg><gen>/kiävuliđ<vblex><der_nomact><n><sg><nom>$
@@ -337,6 +344,7 @@
 %	jaska<adv>:joskâd<adv>:^joskâd/joskâd<adj><sg><acc>/joskâd<adj><sg><gen>/joskâd<adj><sg><nom>$
 %	jazz<n>:jazz<n>:^jazz/*jazz$
 %	joatkevaš<adj>:juátkoo<adj>:^juátkoo/jotkuđ<vblex><indic><pres><p3><sg>/juátkiđ<vblex><der_pass><vblex><iv><indic><pres><p3><sg>/juátkoo<n><sg><acc>/juátkoo<n><sg><gen>/juátkoo<n><sg><nom>$
+%	joksege<adv>:suullân<adv>:^suullân/suullân<pcle>$
 %	jorbmi<n>:jormo<n>:^jormo/*jormo$
 %	juggi<n>:kuovđâ<n>:^kuovđâ/*kuovđâ$
 %	juggi<n>:kuovđâš<n>:^kuovđâš/*kuovđâš$
@@ -360,6 +368,8 @@
 %	lakta<n>:lohtâ<n>:^lohtâ/*lohtâ$
 %	lakta<n>:loovtâ<n>:^loovtâ/*loovtâ$
 %	leaika<n>:leikkâ<n>:^leikkâ/*leikkâ$
+%	lieggagráda<n>:liegâsvuotcekki<n>:^liegâsvuotcekki/*liegâsvuotcekki$
+%	lieggagráđđa<n>:liegâsvuotcekki<n>:^liegâsvuotcekki/*liegâsvuotcekki$
 %	liehpa<n>:sudes<n>:^sudes/sudes<adj><attr>/sudes<adj><sg><nom>$
 %	linádas<n>:tuávŋis<n>:^tuávŋis/tuávŋi<n><sg><acc><px3du>/tuávŋi<n><sg><acc><px3pl>/tuávŋi<n><sg><acc><px3sg>/tuávŋi<n><sg><gen><px3du>/tuávŋi<n><sg><gen><px3pl>/tuávŋi<n><sg><gen><px3sg>/tuávŋi<n><sg><nom><px3du>/tuávŋi<n><sg><nom><px3pl>/tuávŋi<n><sg><nom><px3sg>$
 %	lisensiáhta<n>:lisensiaat<n>:^lisensiaat/*lisensiaat$
@@ -367,6 +377,7 @@
 %	loahppameahttun<adj>:loppâmettum<adj>:^loppâmettum/*loppâmettum$
 %	loavkašuvvat<vblex>:luávkkášuđ<vblex>:^luávkkášuđ/*luávkkášuđ$
 %	logadit<vblex>:luvâdiđ<vblex>:^luvâdiđ/luuhâđ<vblex><der_d><vblex><imp><p2><pl>/luuhâđ<vblex><der_d><vblex><inf>/luuppâđ<vblex><der_d><vblex><imp><p2><pl>/luuppâđ<vblex><der_d><vblex><inf>$
+%	logahallat<vblex>:luvâldâllâđ<vblex>:^luvâldâllâđ/luvâldiđ<vblex><der_alla><vblex><imp><p2><pl>/luvâldiđ<vblex><der_alla><vblex><inf>$
 %	logádas<adj>:lovádâs<adj>:^lovádâs/lovváád<adj><attr>/lovádâs<n><sg><acc>/lovádâs<n><sg><gen>/lovádâs<n><sg><nom>$
 %	lonástus<n>:lonástâs<n>:^lonástâs/*lonástâs$
 %	lotnji<n>:lonje<n>:^lonje/*lonje$
@@ -382,22 +393,25 @@
 %	marginála<adj>:marginaal<adj>:^marginaal/marginaal<n><sg><acc>/marginaal<n><sg><gen>/marginaal<n><sg><nom>$
 %	massiivvalaš<adj>:massivlâš<adj>:^massivlâš/*massivlâš$
 %	maŋŋiteahket<adv>:ehidist¬mannjeed<adv>:^ehidist/eehid<n><sg><loc>/ehidist<adv>$¬^mannjeed/mannjeed<adv>$
-%	maŋŋálas<adj>:maŋalâs<adj>:^maŋalâs/*maŋalâs$
 %	mearraháskil<n>:kubdâpođâšäskil<n>:^kubdâpođâšäskil/*kubdâpođâšäskil$
 %	mielga<n>:piksâ<n>:^piksâ/*piksâ$
 %	miellaguoddu<n>:arvâlâs<n>:^arvâlâs/*arvâlâs$
 %	miellaguoddu<n>:ovdâjuurdâ<n>:^ovdâjuurdâ/ovdâ<n><cmp_sgnom><cmp>+juurdâ<n><sg><nom>$
+%	mieđašeadni<n>:miäđošijn<n>:^miäđošijn/*miäđošijn$
 %	mihcamáreahket<n>:jonsahpeiveehid<n>:^jonsahpeiveehid/*jonsahpeiveehid$
 %	miidna<n>:miina<n>:^miina/*miina$
 %	millosepmosit<adv>:mielâsávt<adv>:^mielâsávt/mielâsâš<adj><der_aadv><adv>$
 %	moaddeduhát<num>:muáddi¬tuhháát<num>:^muáddi/muáddi<num><sg><acc>/muáddi<num><sg><nom>$¬^tuhháát/tuhháát<n><sg><acc>/tuhháát<n><sg><gen>/tuhháát<n><sg><nom>/tuhháát<num><sg><acc>/tuhháát<num><sg><gen>/tuhháát<num><sg><nom>$
 %	moalla<n>:mollâ<n>:^mollâ/*mollâ$
 %	mollui<adj>:smiäru<adj>:^smiäru/smiärruđ<vblex><imp><p2><sg>/smiärruđ<vblex><indic><pres><conneg>/smiärruđ<vblex><indic><pres><p3><sg>$
+%	molsašuvvat<vblex>:mulsâšuđ<vblex>:^mulsâšuđ/*mulsâšuđ$
 %	mugga<n>:kánnu<n>:^kánnu/*kánnu$
 %	muoddáluvvat<vblex>:kuullâđ<vblex>:^kuullâđ/kuullâđ²<vblex><imp><p2><pl>/kuullâđ²<vblex><inf>/kuullâđ¹<vblex><imp><p2><pl>/kuullâđ¹<vblex><inf>$
 %	murdu<n>:rohâdâs<n>:^rohâdâs/*rohâdâs$
 %	murdu<n>:suohâdâs<n>:^suohâdâs/*suohâdâs$
+%	musihkkaboddu<n>:muusikpuddâ<n>:^muusikpuddâ/muusik<n><cmp_sggen><cmp>+puddâ<n><sg><nom>/muusik<n><cmp_sgnom><cmp>+puddâ<n><sg><nom>$
 %	má<adj>:má<adj>:^má/*má$
+%	máhttu<n>:tááiđu<n>:^tááiđu/táiđu<n><sg><acc>/táiđu<n><sg><gen>$
 %	mávssuheapme<adj>:máávsuttem<adj>:^máávsuttem/*máávsuttem$
 %	máŋggagiel<adj>:maaŋgâkiel<adj>:^maaŋgâkiel/maaŋgâ<num><cmp_sggen><cmp>+kielâ<adj><attr>$
 %	máššil<adj>:määššil<adj>:^määššil/*määššil$
@@ -431,9 +445,9 @@
 %	ovttagielat<adj>:oovtâkielâlâš<adj>:^oovtâkielâlâš/*oovtâkielâlâš$
 %	ovttaoaivilis<adv>:siämmáá¬mielâ<adv>:^siämmáá/siämmáá<adj><sg><acc>/siämmáá<adj><sg><gen>/siämmáá<adj><sg><nom>/siämmáá<adv>/siämmáš<adj><sg><acc>/siämmáš<adj><sg><gen>/siämmáš<prn><ind><sg><acc>/siämmáš<prn><ind><sg><gen>/siämmáš<prn><ind><sg><ill><attr>/siämmáš<prn><ind><sg><loc><attr>$¬^mielâ/mielâ<n><sg><acc>/mielâ<n><sg><gen>/mielâ<n><sg><nom>$
 %	ovttasráđiid<adv>:oovtâmielâlávt<adv>:^oovtâmielâlávt/oovtâmielâlâš<adj><der_aadv><adv>$
+%	preassadieđáhus<n>:lostâtiäđáttâs<n>:^lostâtiäđáttâs/lostâ<n><cmp_sgnom><cmp>+tiäđáttâs<n><sg><acc>/lostâ<n><cmp_sgnom><cmp>+tiäđáttâs<n><sg><gen>/lostâ<n><cmp_sgnom><cmp>+tiäđáttâs<n><sg><nom>$
 %	propagánda<n>:propagand<n>:^propagand/*propagand$
 %	psykologalaš<adj>:psykologlâš<adj>:^psykologlâš/psykolog<n>+Der/Nom<der_lasj><adj><attr>/psykolog<n>+Der/Nom<der_lasj><adj><sg><nom>/psykolog<n><der_lasj><adj><attr>/psykolog<n><der_lasj><adj><sg><nom>$
-%	puh<n>:puh<n>:^puh/*puh$
 %	r<vblex>:š<vblex>:^š/š<n><abbr><attr>/š<n><abbr><sg><acc>/š<n><abbr><sg><gen>/š<n><abbr><sg><nom>$
 %	rahppot<vblex>:lehâdiđ<vblex>:^lehâdiđ/lekkâđ<vblex><der_d><vblex><imp><p2><pl>/lekkâđ<vblex><der_d><vblex><inf>$
 %	reahpenráigi<n>:reeppinräigi<n>:^reeppinräigi/reeppin<n><cmp_sggen><cmp>+räigi<n><sg><nom>/reeppin<n><cmp_sgnom><cmp>+räigi<n><sg><nom>$
@@ -503,10 +517,9 @@
 %	sulloš<n>:suolluš<n>:^suolluš/*suolluš$
 %	suohkadas<n>:suohâdâs<n>:^suohâdâs/*suohâdâs$
 %	suorggahahtti<adj>:suorgâtittee<adj>:^suorgâtittee/*suorgâtittee$
-%	tel<n>:puh<n>:^puh/*puh$
 %	termomehter<n>:liegâsvuotmittár<n>:^liegâsvuotmittár/*liegâsvuotmittár$
-%	tlf<n>:puh<n>:^puh/*puh$
 %	tráhppá<n>:porthâš<n>:^porthâš/*porthâš$
+%	turisma<n>:tuurism<n>:^tuurism/*tuurism$
 %	táhka<n>:takkâ<n>:^takkâ/takkâ<ij>$
 %	táhpa<n>:tappâ<n>:^tappâ/*tappâ$
 %	tálga<n>:tali<n>:^tali/*tali$
@@ -533,7 +546,6 @@
 %	vuigengáibádus<n>:njuolgimvátámuš<n>:^njuolgimvátámuš/*njuolgimvátámuš$
 %	vuoiddadus<n>:vuoidâdus<n>:^vuoidâdus/vuoidâđ<vblex><der_d><vblex><imp><p3><du>/vuoidâđ<vblex><der_d><vblex><imp><p3><pl>/vuoidâđ<vblex><der_d><vblex><imp><p3><sg>$
 %	vuoigatvuođalaš<n>:vuoigâdvuođâlâš<n>:^vuoigâdvuođâlâš/vuoigâdvuotâ<n><der_lasj><adj><attr>/vuoigâdvuotâ<n><der_lasj><adj><sg><nom>/vuoigâdvuođâlâš<adj><attr>/vuoigâdvuođâlâš<adj><sg><nom>$
-%	vuostáiváldit<vblex>:väldiđ¬vuástá<vblex>:^väldiđ/väldiđ<vblex><imp><p2><pl>/väldiđ<vblex><inf>$¬^vuástá/vuástá<n><sg><acc>/vuástá<n><sg><gen>/vuástá<n><sg><nom>/vuástá<post>$
 %	váivašuvvat<vblex>:váivášuđ<vblex>:^váivášuđ/váivášiđ<vblex><der_pass><vblex><iv><imp><p2><pl>/váivášiđ<vblex><der_pass><vblex><iv><inf>$
 %	várddus<adj>:váárdus<adj>:^váárdus/váárdus<n><sg><nom>$
 %	Áhppessavvon<np>:Appissuvanto<np>:^Appissuvanto/*Appissuvanto$
@@ -547,8 +559,7 @@
 %	Ásia<n>:Aasia<n>:^Aasia/Aasia<np><attr>/Aasia<np><sem_sur><attr>/Aasia<np><sem_sur><sg><acc>/Aasia<np><sem_sur><sg><gen>/Aasia<np><sem_sur><sg><nom>/Aasia<np><sg><acc>/Aasia<np><sg><gen>/Aasia<np><sg><nom>/Aasia<np><top><attr>/Aasia<np><top><sg><acc>/Aasia<np><top><sg><gen>/Aasia<np><top><sg><nom>/Asia<np><attr>/Asia<np><sem_sur><attr>/Asia<np><sem_sur><sg><acc>/Asia<np><sem_sur><sg><gen>/Asia<np><sem_sur><sg><nom>/Asia<np><sg><acc>/Asia<np><sg><gen>/Asia<np><sg><nom>/Asia<np><top><attr>/Asia<np><top><sg><acc>/Asia<np><top><sg><gen>/Asia<np><top><sg><nom>$
 %	Åstot<np>:Åstot<np>:^Åstot/*Åstot$
 %	álggaheapmi<n>:algâttem<n>:^algâttem/algâttiđ<vblex><actio><nom>/algâttiđ<vblex><der_nomact><n><sg><acc>/algâttiđ<vblex><der_nomact><n><sg><gen>/algâttiđ<vblex><der_nomact><n><sg><nom>/algâ<n><der_car><adj><sg><nom>$
-%	álkidahttit<vblex>:toohâđ¬älkkeebin<vblex>:^toohâđ/toohâđ<vblex><imp><p2><pl>/toohâđ<vblex><inf>$¬^älkkeebin/älkkee<adj><comp><ess>$
-%	árvvusatnit<vblex>:áárvust¬anneeđ<vblex>:^áárvust/árvu<n><sg><loc>$¬^anneeđ/anneeđ<vblex><imp><p2><pl>/anneeđ<vblex><inf>$
+%	árvvusatnit<vblex>:áárvust<vblex>:^áárvust/árvu<n><sg><loc>$
 %	áššenr<n>:äššinr<n>:^äššinr/*äššinr$
 %	Čaŋŋábohki<np>:Čavgŋábohki<np>:^Čavgŋábohki/*Čavgŋábohki$
 %	Čeavetčuodjá<np>:Čevetjävrčuájá<np>:^Čevetjävrčuájá/*Čevetjävrčuájá$
