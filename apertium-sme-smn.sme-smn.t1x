@@ -277,6 +277,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item lemma="aitosaš" tags="adj.*.attr.*"/>
       <cat-item lemma="boahttevaš" tags="adj.*.attr.*"/>
       <cat-item lemma="čuvgehuslaš" tags="adj.*.attr.*"/>
+      <cat-item lemma="čuovvovaš" tags="adj.*.attr.*"/>
       <cat-item lemma="dieđalaš" tags="adj.*.attr.*"/>
       <cat-item lemma="dárbbašlaš" tags="adj.*.attr.*"/>
       <cat-item lemma="dálá" tags="adj.*.attr.*"/>
@@ -2974,7 +2975,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
       <call-macro n="general-macro-3Param"><with-param pos="2"/><with-param pos="2"/><with-param pos="3"/></call-macro>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="3"/></call-macro>
-        <call-macro n="agreement-attr-2Param"><with-param pos="2"/><with-param pos="3"/></call-macro>
+<!--        <call-macro n="agreement-attr-2Param"><with-param pos="2"/><with-param pos="3"/></call-macro>-->
         <out>
           <chunk name="nominal" case="caseFirstword">
             <tags>
