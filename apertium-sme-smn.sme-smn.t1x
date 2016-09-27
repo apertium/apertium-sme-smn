@@ -595,9 +595,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
        <attr-item tags="pret"/>
        <attr-item tags="pres"/>
     </def-attr>
-
-    <def-attr n="a_south">
-       <attr-item tags="south"/>
+    <def-attr n="a_spec_sme_tags">
+      <attr-item tags="south"/>
+      <attr-item tags="g3"/>
     </def-attr>
 
     <def-attr n="a_poss">
@@ -1429,7 +1429,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
       <call-macro n="foc-1Param"><with-param pos="1"/></call-macro>
       <!--         <call-macro n="remove-advtag-1Param"><with-param pos="1"/></call-macro> this needs a test in the macro-->
-      <let><clip pos="1" side="tl" part="a_south"/><lit v=""/></let>
+      <let><clip pos="1" side="tl" part="a_spec_sme_tags"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_sem"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
