@@ -272,50 +272,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
      <def-cat n="agreement-buot">
       <cat-item lemma="buot" tags="prn.ind.attr.*"/>
     </def-cat>
-    <def-cat n="agreement-attr">    <!-- todo: remove starless versions of adj -->
-      <cat-item lemma="aiddonas" tags="adj.*.attr.*"/>
-      <cat-item lemma="aitosaš" tags="adj.*.attr.*"/>
-      <cat-item lemma="boahttevaš" tags="adj.*.attr.*"/>
-      <cat-item lemma="čuvgehuslaš" tags="adj.*.attr.*"/>
-      <cat-item lemma="čuovvovaš" tags="adj.*.attr.*"/>
-      <cat-item lemma="dieđalaš" tags="adj.*.attr.*"/>
-      <cat-item lemma="dárbbašlaš" tags="adj.*.attr.*"/>
-      <cat-item lemma="dálá" tags="adj.*.attr.*"/>
-      <cat-item lemma="dáláš" tags="adj.*.attr.*"/>
-      <cat-item lemma="dološ" tags="adj.*.attr.*"/>
-      <cat-item lemma="lihkolaš" tags="adj.*.attr.*"/>
-      <cat-item lemma="lihkolaš" tags="adj.attr.*"/>
-      <cat-item lemma="girjjálaš" tags="adj.*.attr.*"/>
-      <cat-item lemma="doaimmalaš" tags="adj.*.attr.*"/>
-      <cat-item lemma="doaimmalaš" tags="adj.attr.*"/>
-      <cat-item lemma="teknologalaš" tags="adj.*.attr.*"/>
-      <cat-item lemma="riikkaidgaskasaš" tags="adj.*.attr.*"/>
-      <cat-item lemma="analyhtalaš" tags="adj.*.attr.*"/>
-      <cat-item lemma="guhte" tags="prn.ind.*"/>
-      <cat-item lemma="guhtemuš" tags="prn.itg.*"/>
-      <cat-item lemma="guovddáš" tags="adj.*.attr.*"/>
-      <cat-item lemma="maŋit" tags="adj.*.attr.*"/>
-      <cat-item lemma="muhtun" tags="prn.ind.attr.*"/>
-      <cat-item lemma="makkár" tags="prn.ind.*"/>
-      <cat-item lemma="makkár" tags="prn.itg.*"/>
-      <cat-item lemma="otná" tags="adj.*.attr.*"/>
-      <cat-item lemma="sosiála" tags="adj.*.attr.*"/>
-      <cat-item lemma="seammá" tags="prn.ind.*"/>
-      <cat-item lemma="virggálaš" tags="adj.*.attr.*"/>
-      <cat-item lemma="vuosttas" tags="adj.ord.attr.*"/> <!--  put under vuosttaš as lemma in sme -->
-      <cat-item lemma="vuosttaš" tags="adj.ord.attr.*"/>
-      <cat-item lemma="vuosttas" tags="adj.ord.attr"/>
-      <cat-item tags="n.der_lasj.adj.attr"/>
-      <cat-item tags="n.*.der_lasj.adj.attr"/>
-      <cat-item tags="adj.comp.attr"/>
-      <cat-item tags="adj.comp.attr.*"/>
-      <cat-item tags="adj.sup.attr"/>
-      <cat-item tags="adj.sup.attr.*"/>
-      <cat-item tags="adj.*.comp.attr"/>
-      <cat-item tags="adj.*.comp.attr.*"/>
-      <cat-item tags="adj.*.sup.attr"/>
-      <cat-item tags="adj.*.sup.attr.*"/>
-    </def-cat>
     <def-cat n="n-sg-nom">
       <cat-item tags="np.*.*.sg.nom.*"/>
       <cat-item tags="np.*.sg.nom.*"/>
@@ -504,6 +460,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <def-cat n="adjattr">
       <cat-item tags="adj.*.attr.*"/>
       <cat-item tags="adj.attr.*"/>
+      <cat-item tags="*.adj.attr.*"/>
     </def-cat>
     <def-cat n="adpos">
       <cat-item tags="post.*"/>
@@ -706,7 +663,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <attr-item tags="iv"/>
       <attr-item tags="tv"/>
     </def-attr>
-    <def-attr n="a_comp-superl">
+    <def-attr n="a_comp-sup">
       <attr-item tags="comp"/>
       <attr-item tags="sup"/>
     </def-attr>
@@ -724,6 +681,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
        <attr-item tags="der_nammasaš"/>
         <attr-item tags="der_sasj"/>
         <attr-item tags="der_vuota"/>
+        <attr-item tags="der_lasj"/>
    </def-attr>
 
     <def-attr n="a_deriv2">
@@ -1146,6 +1104,35 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-list n="actio_ill_verbs">
       <list-item v="liikot"/>
     </def-list>
+    <def-list n="agreement-attr-lemmas">  
+      <list-item v="eidusâš"/>
+      <list-item v="puáttee"/>
+      <list-item v="čuovviittâslâš"/>
+      <list-item v="čuávuvâš"/>
+      <list-item v="tieđâlâš"/>
+      <list-item v="maaŋgâtieđâlâš"/>
+      <list-item v="tárbulâš"/>
+      <list-item v="tááláš"/>
+      <list-item v="toovláš"/>
+      <list-item v="luholâš"/>
+      <list-item v="kirjálâš"/>
+      <list-item v="toimâlâš"/>
+      <list-item v="almugijkoskâsâš"/>
+      <list-item v="analyytlâš"/>
+      <list-item v="kuávdáš"/>
+      <list-item v="onnáš"/>
+      <list-item v="sosiaallâš"/>
+      <list-item v="seammá"/>
+      <list-item v="virgálâš"/>
+      <list-item v="vuosmuš"/> 
+      <list-item v="kote"/> 
+      <list-item v="kotemuš"/> 
+      <list-item v="mottoom"/> 
+      <list-item v="maggaar"/> 
+      <list-item v="siämmáš"/> 
+    </def-list>
+
+
   </section-def-lists>
 
   <section-def-macros>
@@ -1178,7 +1165,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <def-macro n="remove-advtag-1Param" npar="1"> <!--  +Adv+Comp +Adv+Superl to +Adv -->
           <let>
-            <clip pos="1" side="tl" part="a_comp-superl"/><lit v=""/>
+            <clip pos="1" side="tl" part="a_comp-sup"/><lit v=""/>
           </let>
     </def-macro>
 
@@ -1212,7 +1199,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
           <clip pos="1" side="tl" part="tags"/>
            <concat>
              <clip pos="1" side="tl" part="a_npagree_type"/>
-             <clip pos="1" side="tl" part="a_comp-superl"/>
+             <clip pos="1" side="tl" part="a_comp-sup"/>
              <clip pos="2" side="tl" part="a_nbr"/>
              <lit-tag v="gen"/>
              <clip pos="1" side="tl" part="a_foc"/>
@@ -1234,7 +1221,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
              <clip pos="1" side="tl" part="tags"/>
              <concat>
                <clip pos="1" side="tl" part="a_npagree_type"/>
-               <clip pos="1" side="tl" part="a_comp-superl"/>
+               <clip pos="1" side="tl" part="a_comp-sup"/>
                <clip pos="2" side="tl" part="a_nbr"/>
                <clip pos="2" side="tl" part="a_case"/>
              </concat>
@@ -1554,8 +1541,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
   <section-rules>
 
     <!-- SECTION: Nominal groups -->
-
-
 
 
     <rule comment="REGLA: pron-pers = Mun lean ruovttus.">
@@ -2943,14 +2928,21 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: agreement-attr n agreement">  <!-- full agreement, new rule -->
+    <rule comment="REGLA: adjattr noun, also with agreement">  
       <pattern>
-        <pattern-item n="agreement-attr"/>
+        <pattern-item n="adjattr"/>
         <pattern-item n="noun"/>
       </pattern>
       <action>
-        <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
+        <choose><when><test><or>
+        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
+        </or></test>
+        <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
+        </when></choose>
         <out>
           <chunk name="nominal" case="caseFirstword">
             <tags>
@@ -2967,16 +2959,23 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
+
     <rule comment="REGLA: agreement-attr agreem-attr n agreement = vuosttas dievas girji - vuosmuš oles kirje">
       <pattern>
-        <pattern-item n="agreement-attr"/>
-        <pattern-item n="agreement-attr"/>
+        <pattern-item n="adjattr"/>
+        <pattern-item n="adjattr"/>
         <pattern-item n="noun"/>
       </pattern>
       <action>
       <call-macro n="general-macro-3Param"><with-param pos="2"/><with-param pos="2"/><with-param pos="3"/></call-macro>
+        <choose><when><test><or>
+        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
+        </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="3"/></call-macro>
-<!--        <call-macro n="agreement-attr-2Param"><with-param pos="2"/><with-param pos="3"/></call-macro>-->
+        </when></choose>
         <out>
           <chunk name="nominal" case="caseFirstword">
             <tags>
@@ -2995,42 +2994,23 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: agreement-attr attr n agreement = Yle tuáivu puohháid šiev juovlâi já luholii uđđâ ive.">
-      <pattern>
-        <pattern-item n="agreement-attr"/>
-        <pattern-item n="attr"/>
-        <pattern-item n="noun"/>
-      </pattern>
-      <action>
-        <call-macro n="general-macro-3Param"><with-param pos="2"/><with-param pos="2"/><with-param pos="3"/></call-macro>
-        <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="3"/></call-macro>
-        <out>
-          <chunk name="nominal" case="caseFirstword">
-            <tags>
-              <tag><lit-tag v="NP"/></tag>
-              <tag><var n="func"/></tag>
-              <tag><clip pos="3" side="tl" part="a_PoS"/></tag>
-              <tag><clip pos="3" side="tl" part="a_case"/></tag>
-            </tags>
-            <lu><clip pos="1" side="tl" part="whole"/></lu>
-            <b pos="1"/>
-            <lu><clip pos="2" side="tl" part="whole"/></lu>
-            <b pos="2"/>
-            <lu><clip pos="3" side="tl" part="whole"/></lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
 
     <rule comment="REGLA: agreement-attr cmp n-sg agreement = vuosttaš biilagirji - vuosmuš autokirje">
       <pattern>
-        <pattern-item n="agreement-attr"/>
+        <pattern-item n="adjattr"/>
         <pattern-item n="nouncmp"/>
         <pattern-item n="noun"/>
       </pattern>
       <action>
         <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
+        <choose><when><test><or>
+        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
+        </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="3"/></call-macro>
+        </when></choose>
         <out>
           <chunk name="nominal" case="caseFirstword">
             <tags>
@@ -3052,14 +3032,21 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: agreement-attr cmp n agreement = vuosttas albma biilagirji - vuosmuš olmâ autokirje">
       <pattern>
-        <pattern-item n="agreement-attr"/>
-        <pattern-item n="attr"/>
+        <pattern-item n="adjattr"/>
+        <pattern-item n="adjattr"/>
         <pattern-item n="nouncmp"/>
         <pattern-item n="noun"/>
       </pattern>
       <action>
         <call-macro n="general-macro-4Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/><with-param pos="4"/></call-macro>
+        <choose><when><test><or>
+        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
+        </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="4"/></call-macro>
+        </when></choose>
         <out>
           <chunk name="nominal" case="caseFirstword">
             <tags>
@@ -3090,17 +3077,31 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: agreement-attr CNP attr n-sg-gen">  <!-- half agreement:  stuorát ja buoret viesus -->
+    <rule comment="REGLA: agreement-attr CNP attr n-sg-gen">  <!--  stuorát ja buoret viesus -->
       <pattern>
-        <pattern-item n="agreement-attr"/>
+        <pattern-item n="adjattr"/>
         <pattern-item n="CNP"/>
-        <pattern-item n="agreement-attr"/>
+        <pattern-item n="adjattr"/>
         <pattern-item n="noun"/>
       </pattern>
       <action>
         <call-macro n="general-macro-4Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/><with-param pos="4"/></call-macro>
+        <choose><when><test><or>
+        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
+        </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="4"/></call-macro>
+        </when></choose>
+        <choose><when><test><or>
+        <in><clip pos="3" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <equal><clip pos="3" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
+        <equal><clip pos="3" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="3" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
+        </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="3"/><with-param pos="4"/></call-macro>
+        </when></choose>
         <out>
           <chunk name="nominal" case="caseFirstword">
             <tags>
@@ -3313,8 +3314,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
         <choose><when>
-                <test><not><in><clip pos="1" side="sl" part="lem"/>
-                <list n="gennum"/></in></not></test>
+                <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test>
                 <let><clip pos="2" side="tl" part="tags"/>
                 <concat>
                  <lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/>
