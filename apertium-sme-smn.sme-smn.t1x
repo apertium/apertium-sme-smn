@@ -32,6 +32,14 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-cat n="abbr">
       <cat-item tags="*.abbr.*"/>
     </def-cat>
+    <def-cat n="dálá">
+      <cat-item lemma="dálá" tags="adj.*"/>
+    </def-cat>
+    <def-cat n="a-adv-comp">
+      <cat-item tags="adv.comp.*"/>
+      <cat-item tags="adj.comp.*"/>
+      <cat-item tags="adj.*.comp.*"/>
+    </def-cat>
     <def-cat n="semyear-loc">
       <cat-item tags="*.sem_year.sg.loc.*"/>
       <cat-item tags="*.sem_year.sg.loc"/>
@@ -397,67 +405,11 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="prn.dem.sg.gen.*"/>
       <cat-item tags="prn.dem.pl.gen.*"/>
     </def-cat>
-    <def-cat n="agreem-sg-gen">
-      <cat-item tags="np.*.sg.gen.*"/>
-      <cat-item tags="np.sg.gen.*"/>
-      <cat-item tags="np.*.sg.ill.*"/>
-      <cat-item tags="np.sg.ill.*"/>
-      <cat-item tags="np.*.sg.loc.*"/>
-      <cat-item tags="np.sg.loc.*"/>
-      <cat-item tags="n.*.sg.gen.*"/>
-      <cat-item tags="n.sg.gen.*"/>
-      <cat-item tags="n.*.sg.ill.*"/>
-      <cat-item tags="n.sg.ill.*"/>
-      <cat-item tags="n.*.sg.loc.*"/>
-      <cat-item tags="n.sg.loc.*"/>
-      <cat-item tags="n.*.ess.*"/>
-      <cat-item tags="n.ess.*"/>
-      <cat-item tags="*.n.sg.gen.*"/>
-      <cat-item tags="*.n.sg.ill.*"/>
-      <cat-item tags="*.n.sg.loc.*"/>
-      <cat-item tags="*.n.*.ess.*"/>
-    </def-cat>
-    <def-cat n="agreem-sg">
-      <cat-item tags="n.*.sg.nom.*"/>
-      <cat-item tags="np.*.sg.nom.*"/>
-      <cat-item tags="np.sg.nom.*"/>
-      <cat-item tags="n.*.sg.acc.*"/>
-      <cat-item tags="n.*.sg.com.*"/>
-      <cat-item tags="n.sg.nom.*"/>
-      <cat-item tags="n.sg.acc.*"/>
-      <cat-item tags="n.sg.com.*"/>
-      <cat-item tags="*.n.sg.nom.*"/>
-      <cat-item tags="*.n.sg.acc.*"/>
-      <cat-item tags="*.n.sg.com.*"/>
-    </def-cat>
-    <def-cat n="agreem-pl">
-      <cat-item tags="n.*.pl.nom.*"/>
-      <cat-item tags="n.*.pl.gen.*"/>
-      <cat-item tags="n.*.pl.acc.*"/>
-      <cat-item tags="n.*.pl.ill.*"/>
-      <cat-item tags="n.*.pl.loc.*"/>
-      <cat-item tags="n.*.pl.abe.*"/>
-      <cat-item tags="n.*.pl.com.*"/>
-      <cat-item tags="n.pl.nom.*"/>
-      <cat-item tags="n.pl.gen.*"/>
-      <cat-item tags="n.pl.acc.*"/>
-      <cat-item tags="n.pl.ill.*"/>
-      <cat-item tags="n.pl.loc.*"/>
-      <cat-item tags="n.pl.abe.*"/>
-      <cat-item tags="n.pl.com.*"/>
-      <cat-item tags="*.n.pl.nom.*"/>
-      <cat-item tags="*.n.pl.gen.*"/>
-      <cat-item tags="*.n.pl.acc.*"/>
-      <cat-item tags="*.n.pl.ill.*"/>
-      <cat-item tags="*.n.pl.loc.*"/>
-      <cat-item tags="*.n.pl.abe.*"/>
-      <cat-item tags="*.n.pl.com.*"/>
-    </def-cat>
-      <def-cat n="attr">
+    <def-cat n="attr">
       <cat-item tags="*.attr.*"/>
       <cat-item tags="*.attr"/>
     </def-cat>
-      <def-cat n="adjattr">
+    <def-cat n="adjattr">
       <cat-item tags="adj.*.attr.*"/>
       <cat-item tags="adj.attr.*"/>
       <cat-item tags="*.adj.attr.*"/>
@@ -1468,6 +1420,12 @@ t5x move foc_tag from wordfoc chunk to the word inside
           <let><var n="func"/><clip pos="1" side="sl" part="a_func"/></let>
         </when>
       </choose>
+      <choose>
+        <when>
+          <test><equal><clip pos="1" side="tl" part="a_PoS"/><lit-tag v="adv"/></equal></test>
+          <let><clip pos="1" side="tl" part="a_comp-sup"/><lit v=""/></let>
+        </when>
+      </choose>
       <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
       <call-macro n="foc-1Param"><with-param pos="1"/></call-macro>
       <!--         <call-macro n="remove-advtag-1Param"><with-param pos="1"/></call-macro> this needs a test in the macro-->
@@ -2011,6 +1969,14 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </pattern>
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
+        <choose><when><test><or>
+        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
+        </or></test>
+        <let><clip pos="1" side="tl" part="a_attr"/><lit-tag v="sg.nom"/></let>
+        </when></choose>
         <out>
           <chunk name="adj" case="caseFirstword">
             <tags>
@@ -2019,6 +1985,32 @@ t5x move foc_tag from wordfoc chunk to the word inside
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: eanet comp, ex. dálá eanet -- tááláást eenâb ">
+      <pattern>
+        <pattern-item n="dálá"/>
+        <pattern-item n="a-adv-comp"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
+        <let><clip pos="1" side="tl" part="a_attr"/><lit-tag v="sg.loc"/></let>
+        <out>
+          <chunk name="adv" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="ADV"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
