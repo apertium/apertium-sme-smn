@@ -414,6 +414,12 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="adj.attr.*"/>
       <cat-item tags="*.adj.attr.*"/>
     </def-cat>
+    <def-cat n="prn-adj-attr">
+      <cat-item tags="prn.*.attr.*"/>
+      <cat-item tags="adj.*.attr.*"/>
+      <cat-item tags="adj.attr.*"/>
+      <cat-item tags="*.adj.attr.*"/>
+    </def-cat>
     <def-cat n="adpos">
       <cat-item tags="post.*"/>
       <cat-item tags="pr.*"/>
@@ -2922,7 +2928,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: adjattr noun, also with agreement">  
       <pattern>
-        <pattern-item n="adjattr"/>
+        <pattern-item n="prn-adj-attr"/>
         <pattern-item n="noun"/>
       </pattern>
       <action>
@@ -2954,7 +2960,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: agreement-attr agreem-attr n agreement = vuosttas dievas girji - vuosmuš oles kirje">
       <pattern>
-        <pattern-item n="adjattr"/>
+        <pattern-item n="prn-adj-attr"/>
         <pattern-item n="adjattr"/>
         <pattern-item n="noun"/>
       </pattern>
@@ -2987,7 +2993,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: agreement-attr cmp n-sg agreement = vuosttaš biilagirji - vuosmuš autokirje">
       <pattern>
-        <pattern-item n="adjattr"/>
+        <pattern-item n="prn-adj-attr"/>
         <pattern-item n="nouncmp"/>
         <pattern-item n="noun"/>
       </pattern>
@@ -3020,7 +3026,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: agreement-attr agreem-attr n agreement = vuosttas dievas girji - vuosmuš oles kirje">
       <pattern>
-        <pattern-item n="adjattr"/>
+        <pattern-item n="prn-adj-attr"/>
         <pattern-item n="adjattr"/>
         <pattern-item n="adjattr"/>
         <pattern-item n="noun"/>
@@ -3055,7 +3061,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: agreement-attr agreem-attr n agreement = vuosttas dievas girji - vuosmuš oles kirje">
       <pattern>
-        <pattern-item n="adjattr"/>
+        <pattern-item n="prn-adj-attr"/>
         <pattern-item n="adjattr"/>
         <pattern-item n="adjattr"/>
         <pattern-item n="gencompl"/>
@@ -3095,7 +3101,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: agreement-attr cmp n agreement = vuosttas albma biilagirji - vuosmuš olmâ autokirje">
       <pattern>
-        <pattern-item n="adjattr"/>
+        <pattern-item n="prn-adj-attr"/>
         <pattern-item n="adjattr"/>
         <pattern-item n="nouncmp"/>
         <pattern-item n="noun"/>
