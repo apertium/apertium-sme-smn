@@ -976,7 +976,7 @@ Write comments to forthcoming rules before this line -->
 <!-- sämikielâlâš vs sämikiel -->
   <rule weight="1.0">
     <match lemma="eatnigielat">
-      <select lemma="eenikielâl"/>
+      <select lemma="eenikiel"/>
     </match>
   </rule>
 
