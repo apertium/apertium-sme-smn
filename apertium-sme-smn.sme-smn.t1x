@@ -1281,8 +1281,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <choose>
         <when>
           <test><and>
-	    <equal><clip pos="1" side="sl" part="numerals"/><lit-tag v="num"/></equal>
+	    <equal><clip pos="1" side="sl" part="a_PoS"/><lit-tag v="num"/></equal>
 	    <equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="pl"/></equal>
+	    <equal><clip pos="1" side="sl" part="a_sem"/><lit-tag v="sem_year"/></equal>
 	  </and></test>
           <let><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/></let>
         </when>
