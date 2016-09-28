@@ -51,7 +51,9 @@
     <sdef n="foc_pa"      c="clitic pa"/>
     <sdef n="foc_kis"      c="clitic kis"/>
     <sdef n="foc_kas"      c="clitic kas"/>
-    <sdef n="der_pass"      c="clitic kas"/>
+    <sdef n="der_pass"      c="passive derivation"/>
+    <sdef n="der_t"      c="derivation gielat etc"/>
+    <sdef n="der_lasj"      c="derivation lasj"/>
 
     <sdef n="pers"     c="Personal"/>
     <sdef n="itg"      c="Interrogative"/>
@@ -698,7 +700,6 @@
     <e><p><l>lávga<s n="adj"/></l><r>teetis<s n="adj"/></r></p></e>
     <e><p><l>guoddil<s n="adj"/></l><r>kyeddee<s n="adj"/></r></p></e>
     <e><p><l>ruoššagielat<s n="adj"/></l><r>ruošâkielâlâš<s n="adj"/></r></p></e>
-    <e><p><l>ruoššagiel<s n="adj"/></l><r>ruošâkielâl<s n="adj"/></r></p></e>
     <e><p><l>luteralaš<s n="adj"/></l><r>luterilâš<s n="adj"/></r></p></e>
     <e><p><l>prosentuálalaš<s n="adj"/></l><r>prosentuaallâš<s n="adj"/></r></p></e>
     <e><p><l>máŋggaámmátlaš<s n="adj"/></l><r>maaŋgâáámmátlâš<s n="adj"/></r></p></e>
@@ -713,13 +714,10 @@
     <e><p><l>friijahápmásaš<s n="adj"/></l><r>rijjâhámásâš<s n="adj"/></r></p></e>
     <e><p><l>eahpedievaslaš<s n="adj"/></l><r>epitievâslâš<s n="adj"/></r></p></e>
     <e><p><l>vádjitválddálaš<s n="adj"/></l><r>vááijuvváldálâš<s n="adj"/></r></p></e>
-	<e><p><l>eatnigiel<s n="adj"/></l><r>eenikiel<s n="adj"/></r></p></e>
     <e><p><l>eatnigielat<s n="adj"/></l><r>eenikielâlâš<s n="adj"/></r></p></e>
     <e><p><l>golmmagielat<s n="adj"/></l><r>kulmâkielâlâš<s n="adj"/></r></p></e>
-    <e><p><l>anársámegiel<s n="adj"/></l><r>anarâškiel<s n="adj"/></r></p></e>
     <e><p><l>anársámegielat<s n="adj"/></l><r>anarâškielâlâš<s n="adj"/></r></p></e>
     <e><p><l>máŋggagielalaš<s n="adj"/></l><r>maaŋgâkielâlâš<s n="adj"/></r></p></e> 
-    <e><p><l>máŋggagiel<s n="adj"/></l><r>maaŋgâkiel<s n="adj"/></r></p></e>
     <e><p><l>máŋggagielat<s n="adj"/></l><r>maaŋgâkielâlâš<s n="adj"/></r></p></e>
     <e><p><l>áitosaš<s n="adj"/></l><r>eidusâš<s n="adj"/></r></p></e>
     <e><p><l>produktiiva<s n="adj"/></l><r>puáđuslâš<s n="adj"/></r></p></e>
@@ -737,7 +735,6 @@
     <e><p><l>rájeheapme<s n="adj"/></l><r>räjittem<s n="adj"/></r></p></e>
     <e><p><l>ijaheapme<s n="adj"/></l><r>ijâttem<s n="adj"/></r></p></e>
     <e><p><l>sámegielat<s n="adj"/></l><r>sämikielâlâš<s n="adj"/></r></p></e>
-    <e><p><l>sámegiel<s n="adj"/></l><r>sämikiel<s n="adj"/></r></p></e>
     <e><p><l>iešráđálaš<s n="adj"/></l><r>jiešráđálâš<s n="adj"/></r></p></e>
     <e><p><l>beallásaš<s n="adj"/></l><r>jieráđálâš<s n="adj"/></r></p></e>
     <e><p><l>ovddidandohkálaš<s n="adj"/></l><r>ovdánemtohálâš<s n="adj"/></r></p></e>
@@ -791,8 +788,7 @@
     <e><p><l>analogalaš<s n="adj"/></l><r>analoglâš<s n="adj"/></r></p></e>
     <e><p><l>analyhtalaš<s n="adj"/></l><r>analyytlâš<s n="adj"/></r></p></e>
     <e><p><l>antropologalaš<s n="adj"/></l><r>antropologlâš<s n="adj"/></r></p></e>
-    <e><p><l>anárašgiel<s n="adj"/></l><r>anarâškiel<s n="adj"/></r></p></e>
-    <e><p><l>dárogiel<s n="adj"/></l><r>dárogiel<s n="adj"/></r></p></e>
+    <e><p><l>dárogielat<s n="adj"/></l><r>tárukielâlâš<s n="adj"/></r></p></e>
     <e><p><l>arkeologalaš<s n="adj"/></l><r>arkeologâlâš<s n="adj"/></r></p></e>
     <e><p><l>arveš<s n="adj"/></l><r>iäljár<s n="adj"/></r></p></e>
     <e><p><l>arvves<s n="adj"/></l><r>arvaa<s n="adj"/></r></p></e>
@@ -828,7 +824,6 @@
     <e><p><l>báris<s n="adj"/></l><r>pääris<s n="adj"/></r></p></e>
     <e><p><l>ceakkonjuolgat<s n="adj"/></l><r>ciägunjuolgâd<s n="adj"/></r></p></e>
     <e><p><l>danlágan<s n="adj"/></l><r>taanlágán<s n="adj"/></r></p></e>
-    <e><p><l>davvisámegiel<s n="adj"/></l><r>pajekiel<s n="adj"/></r></p></e>
     <e><p><l>deaivil<s n="adj"/></l><r>teivil<s n="adj"/></r></p></e>
     <e><p><l>dearvvašlaš<s n="adj"/></l><r>tiervâslâš<s n="adj"/></r></p></e>
     <e><p><l>deattoheapme<s n="adj"/></l><r>tiäduttem<s n="adj"/></r></p></e>
@@ -1739,6 +1734,8 @@
     <e><p><l>geologiija<s n="n"/></l><r>geologia<s n="n"/></r></p></e>
     <e><p><l>geriatriija<s n="n"/></l><r>geriatria<s n="n"/></r></p></e>
     <e><p><l>giella<s n="n"/></l><r>kielâ<s n="n"/></r></p></e>
+    <e><p><l>giella<s n="n"/><s n="der_t"/><s n="adj"/></l><r>kielâ<s n="adj"/></r></p></e>
+    <e><p><l>giella<s n="n"/><s n="der_t"/><s n="adj"/></l><r>kielâ<s n="n"/><s n="der_lasj"/><s n="adj"/></r></p></e>
     <e><p><l>gielladorvočálli<s n="n"/></l><r>kielâtorvočällee<s n="n"/></r></p></e>
     <e><p><l>giellateknologiija<s n="n"/></l><r>kielâteknologia<s n="n"/></r></p></e>
     <e><p><l>gievvun<s n="n"/></l><r>kiävulem<s n="n"/></r></p></e>
@@ -4314,7 +4311,6 @@
     <e><p><l>coazzi<s n="adj"/></l><r>tiivâs<s n="adj"/></r></p></e>
     <e><p><l>dalloš<s n="adj"/></l><r>tallaaš<s n="adj"/></r></p></e>
     <e><p><l>dalá<s n="adj"/></l><r>tallaaš<s n="adj"/></r></p></e>
-    <e><p><l>davvisámegiel<s n="adj"/></l><r>orjâlâškiel<s n="adj"/></r></p></e>
     <e><p><l>davvisámegielat<s n="adj"/></l><r>orjâlâškielâlâš<s n="adj"/></r></p></e>
     <e><p><l>dearvvas<s n="adj"/></l><r>tiervâs<s n="adj"/></r></p></e>
     <e><p><l>dearvvaslaš<s n="adj"/></l><r>tiervâslâš<s n="adj"/></r></p></e>
