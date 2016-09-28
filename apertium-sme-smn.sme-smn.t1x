@@ -1431,6 +1431,14 @@ t5x move foc_tag from wordfoc chunk to the word inside
           <test><equal><clip pos="1" side="tl" part="a_PoS"/><lit-tag v="adv"/></equal></test>
           <let><clip pos="1" side="tl" part="a_comp-sup"/><lit v=""/></let>
         </when>
+        <when><test><and>
+          <equal><clip pos="1" side="tl" part="a_prn"/><lit-tag v="prn.dem"/></equal>
+          <equal><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="pl"/></equal>
+          <equal><clip pos="1" side="tl" part="a_case"/><lit-tag v="loc"/></equal>
+          <equal><clip pos="1" side="tl" part="a_attr"/><lit-tag v="attr"/></equal>
+          </and></test>
+          <let><clip pos="1" side="tl" part="a_attr"/><lit v=""/></let>
+        </when>
       </choose>
       <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
       <call-macro n="foc-1Param"><with-param pos="1"/></call-macro>
