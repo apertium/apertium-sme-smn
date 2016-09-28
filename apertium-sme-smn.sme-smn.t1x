@@ -163,6 +163,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
     </def-cat>
+      <def-cat n="cmp_splitr">
+      <cat-item tags="n.*.*.cmp_splitr.*"/>
+    </def-cat>
     <def-cat n="noun"> 
       <cat-item tags="*.n.*.sg.*"/>
       <cat-item tags="*.n.*.pl.*"/>
@@ -181,7 +184,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="n.pl.*"/>
       <cat-item tags="n.ess.*"/>
       <cat-item tags="np.*"/>
-      <cat-item tags="*.cmp_sgnom.cmp_splitr.*"/>
     </def-cat>
 
     <def-cat n="nominal"> <!-- as noun, but also num, adj -->
@@ -2965,6 +2967,79 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
+    <rule comment="REGLA: adjattr cmp_splitr ja noun, also with agreement">  
+      <pattern>
+        <pattern-item n="prn-adj-attr"/>  
+        <pattern-item n="cmp_splitr"/>
+       <pattern-item n="cnjcoo"/>
+        <pattern-item n="noun"/>
+       </pattern>
+      <action>
+        <call-macro n="general-macro-4Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/><with-param pos="4"/></call-macro>
+        <choose><when><test><or>
+        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
+        </or></test>
+        <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="4"/></call-macro>
+        </when></choose>
+        <out>
+          <chunk name="nominal" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu><clip pos="1" side="tl" part="whole"/></lu>
+            <b pos="1"/>
+            <lu><clip pos="2" side="tl" part="whole"/></lu>
+            <b pos="2"/>
+            <lu><clip pos="3" side="tl" part="whole"/></lu>
+            <b pos="3"/>
+            <lu><clip pos="4" side="tl" part="whole"/></lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: adjattr cmp_splitr ja noun, also with agreement">  
+      <pattern>
+        <pattern-item n="prn-adj-attr"/>  
+        <pattern-item n="cmp_splitr"/>
+       <pattern-item n="cnjcoo"/>
+         <pattern-item n="nouncmp"/>
+       <pattern-item n="noun"/>
+       </pattern>
+      <action>
+        <call-macro n="general-macro-4Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/><with-param pos="4"/></call-macro>
+        <call-macro n="general-macro-1Param"><with-param pos="5"/></call-macro>
+        <choose><when><test><or>
+        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
+        </or></test>
+        <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="5"/></call-macro>
+        </when></choose>
+        <out>
+          <chunk name="nominal" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu><clip pos="1" side="tl" part="whole"/></lu>
+            <b pos="1"/>
+            <lu><clip pos="2" side="tl" part="whole"/></lu>
+            <b pos="2"/>
+            <lu><clip pos="3" side="tl" part="whole"/></lu>
+            <b pos="3"/>
+            <lu><clip pos="4" side="tl" part="whole"/></lu>
+            <b pos="4"/>
+            <lu><clip pos="5" side="tl" part="whole"/></lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     <rule comment="REGLA: agreement-attr agreem-attr n agreement = vuosttas dievas girji - vuosmuš oles kirje">
       <pattern>
