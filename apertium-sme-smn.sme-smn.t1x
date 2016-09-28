@@ -325,9 +325,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </def-cat>
 
 <!-- from sme-nob starts -->
-    <def-cat n="ind">
-      <cat-item lemma="gii" tags="prn.ind.*"/>
-    </def-cat>
     <def-cat n="prn">
       <cat-item tags="prn.*"/>
     </def-cat>
@@ -356,8 +353,12 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-cat n="prn-itg">
       <cat-item tags="prn.itg.*"/>
     </def-cat>
-    <def-cat n="prn-indef">
+    <def-cat n="prn-ind">
       <cat-item tags="prn.ind.*"/>
+    </def-cat>
+    <def-cat n="prn-ind-dem">
+      <cat-item tags="prn.ind.*"/>
+      <cat-item tags="prn.dem.*"/>
     </def-cat>
     <def-cat n="prn-attr">
       <cat-item tags="prn.ind.attr"/>
@@ -411,16 +412,25 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="*.attr.*"/>
       <cat-item tags="*.attr"/>
     </def-cat>
-    <def-cat n="adjattr">
+    <def-cat n="adjattr-pos">
       <cat-item tags="adj.*.attr.*"/>
       <cat-item tags="adj.attr.*"/>
       <cat-item tags="*.adj.attr.*"/>
     </def-cat>
-    <def-cat n="prn-adj-attr">
-      <cat-item tags="prn.*.attr.*"/>
+    <def-cat n="adjattr-all">
       <cat-item tags="adj.*.attr.*"/>
       <cat-item tags="adj.attr.*"/>
       <cat-item tags="*.adj.attr.*"/>
+      <cat-item tags="adj.*.comp.attr.*"/>
+      <cat-item tags="adj.*.sup.attr.*"/>
+    </def-cat>
+    <def-cat n="prn-adj-attr">
+      <cat-item tags="prn.ind.attr.*"/>
+      <cat-item tags="adj.*.attr.*"/>
+      <cat-item tags="adj.attr.*"/>
+      <cat-item tags="*.adj.attr.*"/>
+      <cat-item tags="adj.*.comp.attr.*"/>
+      <cat-item tags="adj.*.sup.attr.*"/>
     </def-cat>
     <def-cat n="adpos">
       <cat-item tags="post.*"/>
@@ -2802,7 +2812,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
  <rule comment="REGLA: num-nomacc attr n-sg  to n-par"> <!--  Mus leat čieža njálgga láibbi. Must láá čiččâm njaalgâ leibid. -->
       <pattern>
         <pattern-item n="num-nomacc"/>
-        <pattern-item n="adjattr"/>
+        <pattern-item n="adjattr-pos"/>
         <pattern-item n="n-sg-accgen"/>
       </pattern>
       <action>
@@ -2893,7 +2903,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <pattern>
         <pattern-item n="num-nomacc"/>
         <pattern-item n="adv"/>
-        <pattern-item n="adjattr"/>
+        <pattern-item n="adjattr-pos"/>
         <pattern-item n="n-sg-accgen"/>
       </pattern>
       <action>
@@ -2969,7 +2979,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: adjattr cmp_splitr ja noun, also with agreement">  
       <pattern>
-        <pattern-item n="prn-adj-attr"/>  
+        <pattern-item n="attr"/>  
         <pattern-item n="cmp_splitr"/>
        <pattern-item n="cnjcoo"/>
         <pattern-item n="noun"/>
@@ -3004,7 +3014,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: adjattr cmp_splitr ja noun, also with agreement">  
       <pattern>
-        <pattern-item n="prn-adj-attr"/>  
+        <pattern-item n="attr"/>  
         <pattern-item n="cmp_splitr"/>
        <pattern-item n="cnjcoo"/>
          <pattern-item n="nouncmp"/>
@@ -3043,8 +3053,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: agreement-attr agreem-attr n agreement = vuosttas dievas girji - vuosmuš oles kirje">
       <pattern>
-        <pattern-item n="prn-adj-attr"/>
-        <pattern-item n="adjattr"/>
+        <pattern-item n="prn-ind-dem"/>
+        <pattern-item n="attr"/>
         <pattern-item n="noun"/>
       </pattern>
       <action>
@@ -3109,9 +3119,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: agreement-attr agreem-attr n agreement = vuosttas dievas girji - vuosmuš oles kirje">
       <pattern>
-        <pattern-item n="prn-adj-attr"/>
-        <pattern-item n="adjattr"/>
-        <pattern-item n="adjattr"/>
+        <pattern-item n="prn-ind-dem"/>
+        <pattern-item n="adjattr-all"/>
+        <pattern-item n="adjattr-pos"/>
         <pattern-item n="noun"/>
       </pattern>
       <action>
@@ -3144,9 +3154,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: agreement-attr agreem-attr n agreement = vuosttas dievas girji - vuosmuš oles kirje">
       <pattern>
-        <pattern-item n="prn-adj-attr"/>
-        <pattern-item n="adjattr"/>
-        <pattern-item n="adjattr"/>
+        <pattern-item n="prn-ind-dem"/>
+        <pattern-item n="adjattr-all"/>
+        <pattern-item n="adjattr-pos"/>
         <pattern-item n="gencompl"/>
         <pattern-item n="noun"/>
       </pattern>
@@ -3184,8 +3194,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: agreement-attr cmp n agreement = vuosttas albma biilagirji - vuosmuš olmâ autokirje">
       <pattern>
-        <pattern-item n="prn-adj-attr"/>
-        <pattern-item n="adjattr"/>
+        <pattern-item n="prn-ind-dem"/>
+        <pattern-item n="adjattr-all"/>
         <pattern-item n="nouncmp"/>
         <pattern-item n="noun"/>
       </pattern>
@@ -3229,9 +3239,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: agreement-attr CNP attr n-sg-gen">  <!--  stuorát ja buoret viesus -->
       <pattern>
-        <pattern-item n="adjattr"/>
+        <pattern-item n="adjattr-all"/>
         <pattern-item n="CNP"/>
-        <pattern-item n="adjattr"/>
+        <pattern-item n="adjattr-all"/>
         <pattern-item n="noun"/>
       </pattern>
       <action>
