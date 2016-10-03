@@ -1156,15 +1156,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
               <equal><clip pos="2" side="tl" part="a_nbr"/><lit-tag v="sg"/></equal>
             </and>
          </or></test>
-         <let>
-            <clip pos="2" side="tl" part="tags"/>
-            <concat>
-              <lit-tag v="n"/>
-              <clip pos="2" side="tl" part="a_ntype"/>
-              <clip pos="2" side="tl" part="a_nbr"/>
-              <clip pos="2" side="tl" part="a_case"/>
-            </concat>
-        </let>
         <let>
           <clip pos="1" side="tl" part="tags"/>
            <concat>
@@ -1178,15 +1169,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </when>
         <otherwise>
                 <!-- default -->
-           <let>
-             <clip pos="2" side="tl" part="tags"/>
-             <concat>
-                <lit-tag v="n"/>
-                <clip pos="2" side="tl" part="a_ntype"/>
-                <clip pos="2" side="tl" part="a_nbr"/>
-                <clip pos="2" side="tl" part="a_case"/>
-              </concat>
-           </let>
            <let>
              <clip pos="1" side="tl" part="tags"/>
              <concat>
@@ -1527,7 +1509,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <!-- SECTION: Nominal groups -->
 
 
-    <rule comment="REGLA: pron-pers = Mun lean ruovttus.">
+    <rule comment="REGLA: pron = Mun lean ruovttus.">
       <pattern>
         <pattern-item n="prn"/>
       </pattern>
@@ -1538,6 +1520,11 @@ t5x move foc_tag from wordfoc chunk to the word inside
               </when>
 		</choose>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
+        <choose><when><test>
+        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        </test>
+        <let><clip pos="1" side="tl" part="a_attr"/><lit-tag v="sg.nom"/></let>
+        </when></choose>
         <out>
           <chunk name="prn" case="caseFirstword">
             <tags>
@@ -2966,8 +2953,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
-              <tag><clip pos="2" side="tl" part="a_PoS"/></tag>
-              <tag><clip pos="2" side="tl" part="a_case"/></tag>
             </tags>
             <lu><clip pos="1" side="tl" part="whole"/></lu>
             <b pos="1"/>
