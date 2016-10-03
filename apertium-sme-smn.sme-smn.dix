@@ -150,7 +150,8 @@
     <e><p><l>gii<s n="prn"/><s n="rel"/></l><r>kii<s n="prn"/><s n="rel"/></r></p></e>
     <e><p><l>gii<s n="prn"/><s n="ind"/></l><r>kii<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>guhte<s n="prn"/><s n="itg"/></l><r>kote<s n="prn"/><s n="itg"/></r></p></e>
-    <e><p><l>guhte<s n="prn"/><s n="rel"/></l><r>kote<s n="prn"/><s n="rel"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/><s n="rel"/><s n="sg"/></l><r>kote<s n="prn"/><s n="rel"/><s n="sg"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/><s n="rel"/><s n="pl"/></l><r>kii<s n="prn"/><s n="rel"/><s n="pl"/></r></p></e>
     <e><p><l>guhtemuš<s n="prn"/><s n="itg"/></l><r>kotemuš<s n="prn"/><s n="itg"/></r></p></e>
     <e><p><l>guhtemuš<s n="prn"/><s n="rel"/></l><r>kotemuš<s n="prn"/><s n="rel"/></r></p></e>
     <e><p><l>ieš<s n="prn"/></l><r>jieš<s n="prn"/></r></p></e>
@@ -363,6 +364,7 @@
     <e><p><l>dušše<b/>beare<s n="adv"/></l><r>tuše<s n="adv"/></r></p></e>
     <e><p><l>fáhkka<s n="adv"/></l><r>fakkist<s n="adv"/></r></p></e>
     <e><p><l>vejolaččat<s n="adv"/></l><r>máhđulávt<s n="adv"/></r></p></e>
+    <e><p><l>ovddežis<s n="adv"/></l><r>ovddiist<s n="adv"/></r></p></e>
 
 
     <e><p><l>litnásit<s n="adv"/></l><r>linásávt<s n="adv"/></r></p></e>
@@ -1153,7 +1155,6 @@
     <e><p><l>bargofápmu<s n="n"/></l><r>pargovyeimi<s n="n"/></r></p></e>
     <e><p><l>ráppár<s n="n"/></l><r>ráppájeijee<s n="n"/></r></p></e>
     <e><p><l>káfestallan<s n="n"/></l><r>káhvástâllâm<s n="n"/></r></p></e> 
-    <e><p><l>álggaheapmi<s n="n"/></l><r>algâttem<s n="n"/></r></p></e>
     <e><p><l>ávkingeavaheapmi<s n="n"/></l><r>ävkkinanneem<s n="n"/></r></p></e>
     <e><p><l>bušeahttaárvalus<s n="n"/></l><r>budjetiävtuttâs<s n="n"/></r></p></e>
     <e><p><l>oktovuoigatvuohta<s n="n"/></l><r>ohtuuvuoigâdvuotâ<s n="n"/></r></p></e>
@@ -1267,6 +1268,7 @@
     <e><p><l>jođiheapmi<s n="n"/></l><r>jođettem<s n="n"/></r></p></e>
     <e><p><l>badji<s n="n"/></l><r>paje<s n="n"/></r></p></e>
     <e><p><l>raportevra<s n="n"/></l><r>raportistee<s n="n"/></r></p></e>
+    <e><p><l>sierraraporterejeaddji<s n="n"/></l><r>spesiaalraportistee<s n="n"/></r></p></e>
     <e><p><l>riikkabeailahttu<s n="n"/></l><r>aalmugovdâsteijee<s n="n"/></r></p></e>
     <e><p><l>ođasvuorká<s n="n"/></l><r>uđâsvuárkká<s n="n"/></r></p></e>
     <e><p><l>mikrofovdna<s n="n"/></l><r>mikrofon<s n="n"/></r></p></e>
