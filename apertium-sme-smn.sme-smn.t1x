@@ -637,6 +637,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <attr-item tags="comp"/>
       <attr-item tags="sup"/>
     </def-attr>
+    <def-attr n="a_ord">
+      <attr-item tags="ord"/>
+    </def-attr>    
     <def-attr n="a_deriv">
        <attr-item tags="der_dimin.n"/>
        <attr-item tags="der_alla"/>
@@ -646,6 +649,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
        <attr-item tags="der_d"/>
        <attr-item tags="der_h"/>
        <attr-item tags="der_tt"/>
+       <attr-item tags="der_t"/>
        <attr-item tags="der_lágan"/>
        <attr-item tags="der_lagan"/>
        <attr-item tags="der_nammasaš"/>
@@ -1081,25 +1085,366 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <list-item v="maggaar"/> 
       <list-item v="siämmáš"/> 
       <list-item v="puáttee"/>
-      <list-item v="eidusâš"/>
-      <list-item v="čuovviittâslâš"/>
       <list-item v="čuávuvâš"/>
-      <list-item v="tieđâlâš"/>
-      <list-item v="maaŋgâtieđâlâš"/>
-      <list-item v="tárbulâš"/>
       <list-item v="tááláš"/>
       <list-item v="toovláš"/>
-      <list-item v="luholâš"/>
-      <list-item v="kirjálâš"/>
-      <list-item v="toimâlâš"/>
-      <list-item v="almugijkoskâsâš"/>
-      <list-item v="analyytlâš"/>
       <list-item v="kuávdáš"/>
       <list-item v="onnáš"/>
-      <list-item v="sosiaallâš"/>
       <list-item v="seammá"/>
+      <list-item v="vuosmuš"/>
+      <list-item v="aakuustlâš"/>
+      <list-item v="aalmuglâš"/>
+      <list-item v="addalâš"/>
+      <list-item v="adelâš"/>
+      <list-item v="aggressivlâš"/>
+      <list-item v="aktiivlâš"/>
+      <list-item v="algâalgâlâš"/>
+      <list-item v="algâlâš"/>
+      <list-item v="almaalâš"/>
+      <list-item v="almalâš"/>
+      <list-item v="almolâš"/>
+      <list-item v="ameriiklâš"/>
+      <list-item v="ameriklâš"/>
+      <list-item v="amnâslâš"/>
+      <list-item v="analoglâš"/>
+      <list-item v="analogâlâš"/>
+      <list-item v="analyytlâš"/>
+      <list-item v="anarâškielâlâš"/>
+      <list-item v="antropologlâš"/>
+      <list-item v="arjalâš"/>
+      <list-item v="arkeologâlâš"/>
+      <list-item v="arktâlâš"/>
+      <list-item v="automaatlâš"/>
+      <list-item v="autonomlâš"/>
+      <list-item v="avalâš"/>
+      <list-item v="byrokraatlâš"/>
+      <list-item v="demokraatlâš"/>
+      <list-item v="digitaallâš"/>
+      <list-item v="dramaatlâš"/>
+      <list-item v="dyynaamlâš"/>
+      <list-item v="eenikielâlâš"/>
+      <list-item v="eennâmlâš"/>
+      <list-item v="eennâmtieđâlâš"/>
+      <list-item v="eenâblovolâš"/>
+      <list-item v="effektivlâš"/>
+      <list-item v="ekonomâlâš"/>
+      <list-item v="eksootlâš"/>
+      <list-item v="ekumeenlâš"/>
+      <list-item v="elektronlâš"/>
+      <list-item v="epidemokraatlâš"/>
+      <list-item v="epiluándulâš"/>
+      <list-item v="epimiärálâš"/>
+      <list-item v="epinjuolgâduslâš"/>
+      <list-item v="epirealistlâš"/>
+      <list-item v="epirehelâš"/>
+      <list-item v="episosiaallâš"/>
+      <list-item v="episystemaatlâš"/>
+      <list-item v="epitiervâslâš"/>
+      <list-item v="epitievâslâš"/>
+      <list-item v="epitieđâlâš"/>
+      <list-item v="epituođâlâš"/>
+      <list-item v="epitáválâš"/>
+      <list-item v="epiustevlâš"/>
+      <list-item v="epivirgálâš"/>
+      <list-item v="epivuoigâlâš"/>
+      <list-item v="espanjalâš"/>
+      <list-item v="esteetlâš"/>
+      <list-item v="euroarktâlâš"/>
+      <list-item v="eurooplâš"/>
+      <list-item v="evaŋgellâš-luuteerlâš"/>
+      <list-item v="fiktiivlâš"/>
+      <list-item v="filosooflâš"/>
+      <list-item v="formaallâš"/>
+      <list-item v="fyysilâš"/>
+      <list-item v="geeneetlâš"/>
+      <list-item v="geologlâš"/>
+      <list-item v="graafâlâš"/>
+      <list-item v="haaldâtlâš"/>
+      <list-item v="heeppâdlâš"/>
+      <list-item v="himolâš"/>
+      <list-item v="historjálâš"/>
+      <list-item v="hiäivulâš"/>
+      <list-item v="hollandlâš"/>
+      <list-item v="horisontlâš"/>
+      <list-item v="humanistlâš"/>
+      <list-item v="humoristlâš"/>
+      <list-item v="huolâlâš"/>
+      <list-item v="hámálâš"/>
+      <list-item v="iiđeedlâš"/>
+      <list-item v="ilolâš"/>
+      <list-item v="immateriaallâš"/>
+      <list-item v="imâšlâš"/>
+      <list-item v="indialâš"/>
+      <list-item v="individuaallâš"/>
+      <list-item v="italialâš"/>
+      <list-item v="iännálâš"/>
+      <list-item v="iästulâš"/>
+      <list-item v="iävtulâš"/>
+      <list-item v="iäčálâš"/>
+      <list-item v="jaapaanlâš"/>
+      <list-item v="jiegâlâš"/>
+      <list-item v="jieijâskielâlâš"/>
+      <list-item v="jienâvuoigâdlâš"/>
+      <list-item v="jieráđálâš"/>
+      <list-item v="jiešpiäiválâš"/>
+      <list-item v="jiešráđálâš"/>
+      <list-item v="jieštátulâš"/>
+      <list-item v="jiešvuođâlâš"/>
+      <list-item v="jiärmálâš"/>
+      <list-item v="julgâlâš"/>
+      <list-item v="juuriidlâš"/>
+      <list-item v="juuvdálâš"/>
+      <list-item v="jyehipiäiválâš"/>
+      <list-item v="jyevdilâš"/>
+      <list-item v="jáválâš"/>
+      <list-item v="keevâtlâš"/>
+      <list-item v="kemialâš"/>
+      <list-item v="kieldâlâš"/>
+      <list-item v="kirholâš"/>
+      <list-item v="kirjálâš"/>
+      <list-item v="kiäldulâš"/>
+      <list-item v="klassiklâš"/>
+      <list-item v="komálâš"/>
+      <list-item v="konkreetlâš"/>
+      <list-item v="konservativlâš"/>
+      <list-item v="konstruktiivlâš"/>
+      <list-item v="kriittâlâš"/>
+      <list-item v="kulmâkielâlâš"/>
+      <list-item v="kulttuurlâš"/>
+      <list-item v="kulttuursensitiivlâš"/>
+      <list-item v="kunnáálâš"/>
+      <list-item v="kunâgâslâš"/>
+      <list-item v="kuáhtulâš"/>
+      <list-item v="kuáskulâš"/>
+      <list-item v="kuávlulâš"/>
+      <list-item v="kyehtilâš"/>
+      <list-item v="kyevtkielâlâš"/>
+      <list-item v="kávpálâš"/>
+      <list-item v="lahâaasâtlâš"/>
+      <list-item v="lappalâš"/>
+      <list-item v="lavâlâš"/>
+      <list-item v="lopâlâš"/>
+      <list-item v="loválâš"/>
+      <list-item v="luholâš"/>
+      <list-item v="luterilâš"/>
+      <list-item v="luándulâš"/>
+      <list-item v="maailmlâš"/>
+      <list-item v="maaŋgâkielâlâš"/>
+      <list-item v="maaŋgâkulttuurlâš"/>
+      <list-item v="maaŋgâpiälálâš"/>
+      <list-item v="maaŋgâtieđâlâš"/>
+      <list-item v="maaŋgâtoimâlâš"/>
+      <list-item v="maaŋgâáámmátlâš"/>
+      <list-item v="massivlâš"/>
+      <list-item v="meekaanlâš"/>
+      <list-item v="meritiätulâš"/>
+      <list-item v="mirhâlâš"/>
+      <list-item v="moraallâš"/>
+      <list-item v="morfologalâš"/>
+      <list-item v="murâšlâš"/>
+      <list-item v="muulsâiävtulâš"/>
+      <list-item v="muusiklâš"/>
+      <list-item v="máhđulâš"/>
+      <list-item v="mátulâš"/>
+      <list-item v="mávsulâš"/>
+      <list-item v="negatiivlâš"/>
+      <list-item v="njuolgâduslâš"/>
+      <list-item v="njálmálâš"/>
+      <list-item v="noomaadlâš"/>
+      <list-item v="nuorttâkielâlâš"/>
+      <list-item v="nuorttâlâš"/>
+      <list-item v="objektiivlâš"/>
+      <list-item v="ohtâlâš"/>
+      <list-item v="olmoošlâš"/>
+      <list-item v="oovtmanolâš"/>
+      <list-item v="oovtâkielâlâš"/>
+      <list-item v="oovtâmielâlâš"/>
+      <list-item v="oovtâčiälgálâš"/>
+      <list-item v="orjâlâškielâlâš"/>
+      <list-item v="ortodoksilâš"/>
+      <list-item v="ovdánemtohálâš"/>
+      <list-item v="paijeelmiärálâš"/>
+      <list-item v="palolâš"/>
+      <list-item v="parlamentaarlâš"/>
+      <list-item v="pedagooglâš"/>
+      <list-item v="pirulâš"/>
+      <list-item v="piäiválâš"/>
+      <list-item v="piätulâš"/>
+      <list-item v="poolitlâš"/>
+      <list-item v="positiivlâš"/>
+      <list-item v="primitiivlâš"/>
+      <list-item v="prosentuaallâš"/>
+      <list-item v="psykiatrâlâš"/>
+      <list-item v="psykologlâš"/>
+      <list-item v="psykososiaallâš"/>
+      <list-item v="puohváldálâš"/>
+      <list-item v="puáđuslâš"/>
+      <list-item v="pyeritátulâš"/>
+      <list-item v="págulâš"/>
+      <list-item v="páihálâš"/>
+      <list-item v="párnálâš"/>
+      <list-item v="raasistlâš"/>
+      <list-item v="realistlâš"/>
+      <list-item v="reetoorlâš"/>
+      <list-item v="rehelâš"/>
+      <list-item v="rijjâtátulâš"/>
+      <list-item v="ristâlâš"/>
+      <list-item v="rumâšlâš"/>
+      <list-item v="ruošâkielâlâš"/>
+      <list-item v="ruánááeennâmlâš"/>
+      <list-item v="ruátálâš"/>
+      <list-item v="ruđâlâš"/>
+      <list-item v="ráhtulâš"/>
+      <list-item v="rávhálâš"/>
+      <list-item v="saksalâš"/>
+      <list-item v="seksuaallâš"/>
+      <list-item v="sipirjálâš"/>
+      <list-item v="siärvádâhlâš"/>
+      <list-item v="solidaarlâš"/>
+      <list-item v="sorolâš"/>
+      <list-item v="sosiaallâš"/>
+      <list-item v="sosialistlâš"/>
+      <list-item v="soválâš"/>
+      <list-item v="staatâlâš"/>
+      <list-item v="straateeglâš"/>
+      <list-item v="strategilâš"/>
+      <list-item v="subjektivlâš"/>
+      <list-item v="sujâlâš"/>
+      <list-item v="suomâkielâlâš"/>
+      <list-item v="suomâugrâlâš"/>
+      <list-item v="symbollâš"/>
+      <list-item v="systemaatlâš"/>
+      <list-item v="sánálâš"/>
+      <list-item v="sämikielâlâš"/>
+      <list-item v="sämmilâš"/>
+      <list-item v="taantiijpâlâš"/>
+      <list-item v="taiđâlâš"/>
+      <list-item v="teemaatlâš"/>
+      <list-item v="tehálâš"/>
+      <list-item v="teoreetlâš"/>
+      <list-item v="tiervâslâš"/>
+      <list-item v="tievâslâš"/>
+      <list-item v="tieđâlâš"/>
+      <list-item v="tiäđulâš"/>
+      <list-item v="tohálâš"/>
+      <list-item v="toimâlâš"/>
+      <list-item v="toorjâtohálâš"/>
+      <list-item v="torvolâš"/>
+      <list-item v="traumaatlâš"/>
+      <list-item v="tuođâlâš"/>
+      <list-item v="tárbulâš"/>
+      <list-item v="tárukielâlâš"/>
+      <list-item v="táválâš"/>
+      <list-item v="ubâlâš"/>
+      <list-item v="ubâmaailmlâš"/>
+      <list-item v="ubâpiäiválâš"/>
+      <list-item v="ucjuvlâš"/>
+      <list-item v="ustevlâš"/>
+      <list-item v="uásálâš"/>
+      <list-item v="uážálâš"/>
+      <list-item v="vaagâglâš"/>
+      <list-item v="vajalâš"/>
+      <list-item v="varâlâš"/>
+      <list-item v="viehâváldálâš"/>
+      <list-item v="viereskielâlâš"/>
       <list-item v="virgálâš"/>
-      <list-item v="vuosmuš"/> 
+      <list-item v="viälgulâš"/>
+      <list-item v="viärmádâhlâš"/>
+      <list-item v="vuoigâdvuođâlâš"/>
+      <list-item v="vuoigâlâš"/>
+      <list-item v="vuoiŋâlâš"/>
+      <list-item v="vuovnâlâš"/>
+      <list-item v="vuáimálâš"/>
+      <list-item v="vuáválâš"/>
+      <list-item v="vuáđulâš"/>
+      <list-item v="vuáččulâš"/>
+      <list-item v="váimulâš"/>
+      <list-item v="váldutoimâlâš"/>
+      <list-item v="várálâš"/>
+      <list-item v="vááijuvváldálâš"/>
+      <list-item v="ánsulâš"/>
+      <list-item v="ápálâš"/>
+      <list-item v="ávhálâš"/>
+      <list-item v="áámmátlâš"/>
+      <list-item v="ášálâš"/>
+      <list-item v="ärbivuáválâš"/>
+      <list-item v="šamanistlâš"/>
+      <list-item v="šleđgâlâš"/>
+      <list-item v="čuovviittâslâš"/>
+      <list-item v="aalmugijkoskâsâš"/>
+      <list-item v="ahasâš"/>
+      <list-item v="akateemisâš"/>
+      <list-item v="aldasâš"/>
+      <list-item v="almugijkoskâsâš"/>
+      <list-item v="alosâš"/>
+      <list-item v="asosâš"/>
+      <list-item v="eennâmsiskásâš"/>
+      <list-item v="eettisâš"/>
+      <list-item v="eidusâš"/>
+      <list-item v="epitäsiárvusâš"/>
+      <list-item v="eresmuáđusâš"/>
+      <list-item v="etnisâš"/>
+      <list-item v="ihásâš"/>
+      <list-item v="ivnásâš"/>
+      <list-item v="iätásâš"/>
+      <list-item v="jyehimuđusâš"/>
+      <list-item v="kiärdásâš"/>
+      <list-item v="koskâpuddâsâš"/>
+      <list-item v="koskâsâš"/>
+      <list-item v="koččâmâšvuálásâš"/>
+      <list-item v="kuhesáigásâš"/>
+      <list-item v="kukkosâš"/>
+      <list-item v="kyevtkiärdásâš"/>
+      <list-item v="loogisâš"/>
+      <list-item v="maailmvijđosâš"/>
+      <list-item v="maaŋgâkiärdásâš"/>
+      <list-item v="maaŋgâpiälásâš"/>
+      <list-item v="meriáigásâš"/>
+      <list-item v="mielâsâš"/>
+      <list-item v="miäldásâš"/>
+      <list-item v="mystisâš"/>
+      <list-item v="mánusâš"/>
+      <list-item v="nommâsâš"/>
+      <list-item v="ohtâsâš"/>
+      <list-item v="okkosâš"/>
+      <list-item v="olesáigásâš"/>
+      <list-item v="ollâárvusâš"/>
+      <list-item v="oovtâitosâš"/>
+      <list-item v="oovtâviärdásâš"/>
+      <list-item v="ovtviärdásâš"/>
+      <list-item v="pirrâihásâš"/>
+      <list-item v="psyykkisâš"/>
+      <list-item v="puárisáigásâš"/>
+      <list-item v="riijkâvijđosâš"/>
+      <list-item v="rijjâhámásâš"/>
+      <list-item v="sajasâš"/>
+      <list-item v="sierâstuárusâš"/>
+      <list-item v="sijđosâš"/>
+      <list-item v="siämmáá-árvusâš"/>
+      <list-item v="siämmáámuđusâš"/>
+      <list-item v="siämmáánommâsâš"/>
+      <list-item v="stuárusâš"/>
+      <list-item v="sullâsâš"/>
+      <list-item v="taansullâsâš"/>
+      <list-item v="teknisâš"/>
+      <list-item v="traagisâš"/>
+      <list-item v="trooppisâš"/>
+      <list-item v="täsiárvusâš"/>
+      <list-item v="uhkevuálásâš"/>
+      <list-item v="ulmemiäldásâš"/>
+      <list-item v="uánihisáigásâš"/>
+      <list-item v="uánihâšáigásâš"/>
+      <list-item v="uásiáigásâš"/>
+      <list-item v="uđđâáigásâš"/>
+      <list-item v="viärdásâš"/>
+      <list-item v="vuálásâš"/>
+      <list-item v="vuástásâš"/>
+      <list-item v="vyeliahasâš"/>
+      <list-item v="áigásâš"/>
+      <list-item v="áinookiärdásâš"/>
+      <list-item v="árvusâš"/>
+      <list-item v="ääšimiäldásâš"/>
+      
     </def-list>
 
 
@@ -1446,8 +1791,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-macro n="general-macro-2Param" npar="2" c="Use for all chunks of two pattern-items
                                                     param1: first pattern-item; used to set caseFirstword
                                                     param2: second pattern-item; used to set func variable">
-      <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
       <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
+      <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
       <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
       <choose>
         <when>
@@ -1490,7 +1835,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </when></choose>
     </def-macro>
 
-    <def-macro n="general-macro-4Param" npar="3" c="Use for all chunks of four pattern-items
+    <def-macro n="general-macro-4Param" npar="4" c="Use for all chunks of four pattern-items
                                                     param1: first pattern-item; used to set caseFirstword
                                                     param2: second pattern-item
                                                     param3: third pattern-item
@@ -1565,8 +1910,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
 
 
-    <rule comment="REGLA: vblex goqst
-                   Boahtá go? → Puátá-uv?">
+    <rule comment="REGLA: vblex goqst Boahtá go? → Puátá-uv?">
       <pattern>
         <pattern-item n="verb"/>
         <pattern-item n="goqst"/>
@@ -1600,177 +1944,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
 
 
-
-
-<!--     <rule comment="REGLA: SUBJ to right"> --> <!-- Dalle ledjen mun ain vuođđoskuvllas. - Talle mun lijjim ain vuáđuškoovlâst. -->
-<!--       <pattern>															    -->
-<!--        <pattern-item n="l_subj"/>											    -->
-<!--      </pattern>															    -->
-<!--      <action>																    -->
-<!--        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro> -->
-<!--        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>		    -->
-<!--        <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>		    -->
-<!--         <let><var n="subject"/><lit v="l_subj"/></let>						    -->
-<!--        <out>																    -->
-<!--          <chunk namefrom="subject" case="caseFirstword">					    -->
-<!--            <tags>															    -->
-<!--              <tag><lit-tag v="NP"/></tag>									    -->
-<!--              <tag><var n="func"/></tag>									    -->
-<!--            </tags>															    -->
-<!--            <lu>															    -->
-<!--              <clip pos="1" side="tl" part="whole"/>						    -->
-<!--            </lu>															    -->
-<!--          </chunk>															    -->
-<!--        </out>																    -->
-<!--      </action>																    -->
-<!--    </rule> 																    -->
-<!--    <rule comment="REGLA: SPRED to right"> --> <!-- Makkár sátni lea dát? - Maggaar sääni taat lii? -->
-<!--     <pattern>                                                                    -->
-<!--        <pattern-item n="l_spred"/>											      -->
-<!--      </pattern>															      -->
-<!--      <action>																      -->
-<!--        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>		      -->
-<!--         <let><var n="spred"/><lit v="l_spred"/></let>						      -->
-<!--        <out>																      -->
-<!--          <chunk namefrom="spred" case="caseFirstword">						      -->
-<!--            <tags>															      -->
-<!--              <tag><lit-tag v="NP"/></tag>									      -->
-<!--              <tag><var n="func"/></tag>									      -->
-<!--            </tags>															      -->
-<!--            <lu>															      -->
-<!--              <clip pos="1" side="tl" part="whole"/>						      -->
-<!--            </lu>															      -->
-<!--          </chunk>															      -->
-<!--        </out>																      -->
-<!--      </action>																      -->
-<!--    </rule>																	      -->
-<!--    <rule comment="REGLA: OBJ to left simple">								      -->
-<!--      <pattern>																      -->
-<!--        <pattern-item n="obj_l"/>											      -->
-<!--      </pattern>															      -->
-<!--      <action>																      -->
-<!--        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>   -->
-<!--        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>		      -->
-<!--         <let><var n="object"/><lit v="obj_l"/></let>						      -->
-<!--        <out>																      -->
-<!--          <chunk namefrom="object" case="caseFirstword">					      -->
-<!--            <tags>															      -->
-<!--              <tag><lit-tag v="NP"/></tag>									      -->
-<!--              <tag><var n="func"/></tag>									      -->
-<!--            </tags>															      -->
-<!--            <lu>															      -->
-<!--              <clip pos="1" side="tl" part="whole"/>						      -->
-<!--            </lu>															      -->
-<!--          </chunk>															      -->
-<!--        </out>																      -->
-<!--      </action>																      -->
-<!--    </rule>																	      -->
-<!--																			      -->
-<!--    <rule comment="REGLA: OBJ to left cmp">									      -->
-<!--      <pattern>																      -->
-<!--        <pattern-item n="nouncmp"/>											      -->
-<!--        <pattern-item n="obj_l"/>											      -->
-<!--      </pattern>															      -->
-<!--      <action>																      -->
-<!--        <call-macro n="convert-deriv-1Param"><with-param pos="2"/></call-macro>   -->
-<!--        <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>   -->
-<!--        <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>   -->
-<!--        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>   -->
-<!--        <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let>		      -->
-<!--        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>		      -->
-<!--         <let><var n="object"/><lit v="obj_l"/></let>						      -->
-<!--       <out>																      -->
-<!--          <chunk name="object" case="caseFirstword">						      -->
-<!--            <tags>															      -->
-<!--              <tag><lit-tag v="NP"/></tag>									      -->
-<!--              <tag><var n="func"/></tag>									      -->
-<!--            </tags>															      -->
-<!--            <mlu>															      -->
-<!--            <lu>															      -->
-<!--              <clip pos="1" side="tl" part="whole"/>						      -->
-<!--            </lu>															      -->
-<!--             <lu>															      -->
-<!--              <clip pos="2" side="tl" part="whole"/>						      -->
-<!--            </lu>															      -->
-<!--             </mlu>															      -->
-<!--        </chunk>															      -->
-<!--        </out>																      -->
-<!--      </action>																      -->
-<!--    </rule>																	      -->
-<!--																			      -->
-<!--																			      -->
-<!--    <rule comment="REGLA: OBJ to left attr">								      -->
-<!--      <pattern>																      -->
-<!--         <pattern-item n="attr"/>											      -->
-<!--       <pattern-item n="obj_l"/>											      -->
-<!--      </pattern>															      -->
-<!--      <action>																      -->
-<!--        <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>   -->
-<!--        <call-macro n="convert-deriv-1Param"><with-param pos="2"/></call-macro>   -->
-<!--        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>   -->
-<!--        <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>   -->
-<!--        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>		      -->
-<!--        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>		      -->
-<!--         <let><var n="object"/><lit v="obj_l"/></let>						      -->
-<!--        <out>																      -->
-<!--          <chunk namefrom="object" case="caseFirstword">					      -->
-<!--            <tags>															      -->
-<!--              <tag><lit-tag v="NP"/></tag>									      -->
-<!--              <tag><var n="func"/></tag>									      -->
-<!--            </tags>															      -->
-<!--            <lu>															      -->
-<!--              <clip pos="1" side="tl" part="whole"/>						      -->
-<!--            </lu>															      -->
-<!--            <b/>															      -->
-<!--             <lu>															      -->
-<!--              <clip pos="2" side="tl" part="whole"/>						      -->
-<!--            </lu>															      -->
-<!--          </chunk>															      -->
-<!--        </out>																      -->
-<!--      </action>																      -->
-<!--    </rule>																	      -->
-<!--																			      -->
-<!--																			      -->
-<!--																			      -->
-<!--    <rule comment="REGLA: OBJ to left attr attr">							      -->
-<!--      <pattern>																      -->
-<!--         <pattern-item n="attr"/>											      -->
-<!--         <pattern-item n="attr"/>											      -->
-<!--       <pattern-item n="obj_l"/>											      -->
-<!--      </pattern>															      -->
-<!--      <action>																      -->
-<!--        <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>   -->
-<!--        <call-macro n="convert-deriv-1Param"><with-param pos="2"/></call-macro>   -->
-<!--        <call-macro n="convert-deriv-1Param"><with-param pos="3"/></call-macro>   -->
-<!--       <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>    -->
-<!--        <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>   -->
-<!--        <call-macro n="remove-semtag-1Param"><with-param pos="3"/></call-macro>   -->
-<!--        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>		      -->
-<!--        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>		      -->
-<!--        <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>		      -->
-<!--         <let><var n="object"/><lit v="obj_l"/></let>						      -->
-<!--        <out>																      -->
-<!--          <chunk namefrom="object" case="caseFirstword">					      -->
-<!--            <tags>															      -->
-<!--              <tag><lit-tag v="NP"/></tag>									      -->
-<!--              <tag><var n="func"/></tag>									      -->
-<!--            </tags>															      -->
-<!--            <lu>															      -->
-<!--              <clip pos="1" side="tl" part="whole"/>						      -->
-<!--            </lu>															      -->
-<!--            <b/>															      -->
-<!--             <lu>															      -->
-<!--              <clip pos="2" side="tl" part="whole"/>						      -->
-<!--            </lu>															      -->
-<!--            <b/>															      -->
-<!--             <lu>															      -->
-<!--              <clip pos="3" side="tl" part="whole"/>						      -->
-<!--            </lu>															      -->
-<!--          </chunk>															      -->
-<!--        </out>																      -->
-<!--      </action>																      -->
-<!--    </rule> 																      -->
-
     <rule comment="REGLA: nominal = Add NP to nominal">
       <pattern>
         <pattern-item n="nominal"/>
@@ -1778,7 +1951,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -1801,7 +1974,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <out>
-          <chunk name="noun" case="caseFirstword">  
+          <chunk name="nc_n" case="caseFirstword">  
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -1828,7 +2001,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
         <out>
-          <chunk name="noun" case="caseFirstword">
+          <chunk name="nc_nc_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -1858,7 +2031,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <out>
-          <chunk name="adj" case="caseFirstword">
+          <chunk name="nc_adj" case="caseFirstword">
             <tags>
               <tag><lit-tag v="AP"/></tag>
               <tag><var n="func"/></tag>
@@ -1876,37 +2049,10 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-<!-- viđajahkásaš - viiđâihásâš -->
-<!--    <rule comment="REGLA: numcmp"> 
-      <pattern>
-        <pattern-item n="numcmp"/>
-        <pattern-item n="noun"/>
-      </pattern>
-      <action>
-        <call-macro n="convert-deriv-1Param"><with-param pos="2"/></call-macro>
-        <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
-        <let><clip pos="2" side="tl" part="a_exthab"/><lit v=""/></let>
-        <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
-        <out>
-          <chunk name="adj" case="caseFirstword">
-            <tags>
-              <tag><lit-tag v="AP"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <mlu>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-             <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-             </mlu>
-        </chunk>
-        </out>
-      </action>
-    </rule>-->
 
     <rule comment="REGLA: prep to postp or prep">
+
+
       <pattern>
         <pattern-item n="adpos"/>
       </pattern>
@@ -1986,6 +2132,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_ord"/><lit-tag v="ord"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
         </or></test>
         <let><clip pos="1" side="tl" part="a_attr"/><lit-tag v="sg.nom"/></let>
@@ -2057,7 +2204,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </choose>
         <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
         <out>
-           <chunk name="noun" case="caseFirstword">
+           <chunk name="n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2094,7 +2241,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
             <let><clip pos="2" side="tl" part="a_case"/><lit-tag v="loc"/></let>
         <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
         <out>
-           <chunk name="noun" case="caseFirstword">
+          <chunk name="n_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2116,52 +2263,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </out>
       </action>
     </rule>
-
-<!--    <rule comment="REGLA: dihto-adj">           								    -->
-<!--      <pattern>																	    -->
-<!--        <pattern-item n="dihto-adj"/>											    -->
-<!--        <pattern-item n="noun"/>												    -->
-<!--      </pattern>																    -->
-<!--      <action>																	    -->
-<!--        <call-macro n="general-macro-2Param">									    -->
-<!--           <with-param pos="1"/><with-param pos="2"/></call-macro>				    -->
-<!--        <choose>																    -->
-<!--          <when>																    -->
-<!--            <test>																    -->
-<!--		<in caseless="yes"><var n="current_verb"/><list n="loc_verbs" /></in>	    -->
-<!--            </test>																    -->
-<!--            <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>		    -->
-<!--            <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="loc"/></let>    -->
-<!--          </when>																    -->
-<!--          <when>																    -->
-<!--            <test>																    -->
-<!--              <in caseless="yes"><var n="current_verb"/><list n="acc_verbs" /></in> -->
-<!--            </test>																    -->
-<!--            <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>		    -->
-<!--            <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="acc"/></let>    -->
-<!--          </when>																    -->
-<!--        </choose>																    -->
-<!--        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>	    -->
-<!--        <out>																	    -->
-<!--           <chunk name="noun" case="caseFirstword">								    -->
-<!--            <tags>																    -->
-<!--              <tag><lit-tag v="NP"/></tag>										    -->
-<!--              <tag><var n="func"/></tag>										    -->
-<!--              <tag><clip pos="1" side="tl" part="a_case"/></tag>				    -->
-<!--            </tags>																    -->
-<!--            <lu>																    -->
-<!--              <clip pos="1" side="tl" part="lem"/>								    -->
-<!--              <clip pos="1" side="tl" part="tags"/>								    -->
-<!--            </lu>																    -->
-<!--            <b/>																    -->
-<!--            <lu>																    -->
-<!--              <clip pos="2" side="tl" part="whole"/>							    -->
-<!--            </lu>																    -->
-<!--          </chunk>																    -->
-<!--        </out>																	    -->
-<!--      </action>																	    -->
-<!--    </rule>																		    -->
-
 
 
 
@@ -2256,7 +2357,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="2" side="tl" part="a_case"/><lit-tag v="abe"/></let>
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
 	<out>
-          <chunk name="noun">
+          <chunk name="n">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2281,7 +2382,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
          <let><clip pos="2" side="tl" part="a_case"/><lit-tag v="abe"/></let>
         <let><clip pos="3" side="tl" part="whole"/><lit v=""/></let>
 	<out>
-          <chunk name="noun">
+          <chunk name="n">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2308,7 +2409,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
         <let><clip pos="3" side="tl" part="a_case"/><lit-tag v="abe"/></let>
 	    <out>
-          <chunk name="noun">
+          <chunk name="j_n">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2340,7 +2441,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
          <let><clip pos="3" side="tl" part="a_case"/><lit-tag v="abe"/></let>
         <let><clip pos="4" side="tl" part="whole"/><lit v=""/></let>
 	<out>
-          <chunk name="noun">
+          <chunk name="n_n">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2369,7 +2470,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="abe"/></let>
         <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>
 	    <out>
-          <chunk name="noun">
+          <chunk name="n">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2483,7 +2584,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <let><clip pos="3" side="tl" part="lem"/><lit v="ihásâš"/></let>
         <call-macro n="general-macro-2Param-headfirst"><with-param pos="1"/><with-param pos="3"/></call-macro>
         <out>
-          <chunk name="adj" case="caseFirstword">
+          <chunk name="z_j" case="caseFirstword">
             <tags>
               <tag><lit-tag v="AP"/></tag>
               <tag><var n="func"/></tag>
@@ -2615,37 +2716,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-<!--  <rule comment="REGLA: buorre attr = Lea buorre dálki odne. Lii šiev šoŋŋâ onne.">				   -->
-<!--    <pattern>																					   -->
-<!--      <pattern-item n="buorre"/>																   -->
-<!--      <pattern-item n="noun"/>																	   -->
-<!--    </pattern>																					   -->
-<!--    <action>																					   -->
-<!--      <let><clip pos="1" side="tl" part="lem"/><lit v="šiev"/></let>							   -->
-<!--      <let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.attr"/></let>					   -->
-<!--      <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro> -->
-<!--																								   -->
-<!--     <out>																						   -->
-<!--        <chunk name="nominal" case="caseFirstword">												   -->
-<!--          <tags>																				   -->
-<!--            <tag><lit-tag v="NP"/></tag>														   -->
-<!--            <tag><var n="func"/></tag>															   -->
-<!--            <tag><clip pos="2" side="tl" part="a_PoS"/></tag>									   -->
-<!--            <tag><clip pos="2" side="tl" part="a_case"/></tag>									   -->
-<!--          </tags>																				   -->
-<!--          <lu>																					   -->
-<!--            <clip pos="1" side="tl" part="lem"/>												   -->
-<!--            <clip pos="1" side="tl" part="tags"/>												   -->
-<!--          </lu>																					   -->
-<!--          <b/>																					   -->
-<!--          <lu>																					   -->
-<!--            <clip pos="2" side="tl" part="whole"/>												   -->
-<!--  	    </lu>																					   -->
-<!--        </chunk>																				   -->
-<!--      </out>																					   -->
-<!--    </action>																					   -->
-<!--  </rule>																						   -->
-
 
     <rule comment="REGLA: num-nomacc n-sg to n-par = Son oastá čieža láibbi. Sun uástá čiččâm leibid.">
       <pattern>
@@ -2677,7 +2747,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
          </otherwise>
 		</choose>
 		<out>
-          <chunk name="num-noun">
+          <chunk name="z_n">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2771,7 +2841,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
          </otherwise>
 		</choose>
 		<out>
-          <chunk name="num-noun">
+          <chunk name="z-n">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2816,7 +2886,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </when>
         </choose>
         <out>
-          <chunk name="num-noun">
+          <chunk name="z-n">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2864,7 +2934,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
           </when>
           </choose>
        <out>
-          <chunk name="noun" case="caseFirstword">
+          <chunk name="d_z_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2906,7 +2976,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
           </let>
         </when></choose>
         <out>
-          <chunk name="num-noun" case="caseFirstword">
+          <chunk name="z_a_j_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2949,7 +3019,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         </when></choose>
         <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="j_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -2980,7 +3050,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="4"/></call-macro>
         </when></choose>
         <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="j_nc_cc_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3017,7 +3087,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="5"/></call-macro>
         </when></choose>
         <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="j_nc_cc_nc_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3053,7 +3123,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="3"/></call-macro>
         </when></choose>
         <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="d_j_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3086,7 +3156,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="3"/></call-macro>
         </when></choose>
         <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="j_nc_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3120,7 +3190,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="4"/></call-macro>
         </when></choose>
         <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="d_j_j_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3157,7 +3227,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="5"/></call-macro>
         </when></choose>
         <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="d_j_j_n_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3195,7 +3265,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="4"/></call-macro>
         </when></choose>
         <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="d_j_nc_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3248,7 +3318,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="agreement-attr-2Param"><with-param pos="3"/><with-param pos="4"/></call-macro>
         </when></choose>
         <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="j_cc_j_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3292,7 +3362,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
         <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="z_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3328,7 +3398,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
         <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="z_j_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3370,7 +3440,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
         <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="z_nc_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3414,7 +3484,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-1Param"><with-param pos="4"/></call-macro>
         <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="z_j_nc_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3469,7 +3539,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 		</choose>
         <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="z_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3514,7 +3584,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 		</choose>
         <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="z_nc_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3553,7 +3623,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
        </when>
         </choose>
        <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="buot_nn" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3588,7 +3658,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
        </when>
         </choose>
        <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="buot_nc_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3624,7 +3694,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <out>
-          <chunk name="nominal" case="caseFirstword">
+          <chunk name="p_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
