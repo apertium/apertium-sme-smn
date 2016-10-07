@@ -5,7 +5,9 @@ Alphabet
 
 %<der%_a%>
 %<der%_adv%>
+%<der%_ag%>
 %<der%_car%>
+%<der%_caus%>
 %<der%_dimin%>
 %<der%_nomact%>
 %<der%_nomag%>
@@ -32,6 +34,7 @@ Alphabet
 %<der%_jagáš%>
 %<der%_l%>
 %<der%_lasj%>
+%<der%_lagan%>
 %<der%_lágan%>
 %<der%_lágaš%>
 %<der%_meahttun%>
@@ -39,6 +42,7 @@ Alphabet
 %<der%_nammasaš%>
 %<der%_nuolus%>
 %<der%_náittot%>
+%<der%_sasj%>
 %<der%_seagat%>
 %<der%_st%>
 %<der%_stuvva%>
@@ -64,8 +68,12 @@ Cmp =
 Derivations =
 %<der%_a%>
 %<der%_adv%>
+%<der%_ag%>
+%<der%_ahasas%>
 %<der%_car%>
+%<der%_caus%>
 %<der%_dimin%>
+%<der%_ivvaas%>
 %<der%_nomact%>
 %<der%_nomag%>
 %<der%_passl%>
@@ -92,6 +100,7 @@ Derivations =
 %<der%_l%>
 %<der%_lasj%>
 %<der%_laš%>
+%<der%_lagan%>
 %<der%_lágan%>
 %<der%_lágaš%>
 %<der%_meahttun%>
@@ -99,6 +108,7 @@ Derivations =
 %<der%_nammasaš%>
 %<der%_nuolus%>
 %<der%_náittot%>
+%<der%_sasj%>
 %<der%_seagat%>
 %<der%_st%>
 %<der%_stuvva%>
@@ -114,21 +124,26 @@ Derivations =
 ;
 
 HandledDerivations =
+%<der%_ag%>
 %<der%_ahtti%>
 %<der%_alla%>
 %<der%_aadv%>
 %<der%_car%>
+%<der%_caus%>
 %<der%_d%>
 %<der%_dimin%>
 %<der%_inchl%>
 %<der%_h%>
 %<der%_halla%>
 %<der%_l%>
+%<der%_lagan%>
+%<der%_lágan%>
 %<der%_lasj%>
 %<der%_nomact%>
 %<der%_nomag%>
 %<der%_passl%>
 %<der%_passs%>
+%<der%_sasj%>
 %<der%_st%>
 %<der%_t%>
 %<der%_upmi%>
