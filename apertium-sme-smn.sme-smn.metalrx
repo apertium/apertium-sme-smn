@@ -1,4 +1,4 @@
-
+﻿
 <!-- Note !! Write in the file .metalrx, not in the file .lrx -->
 <!-- Write comments to forthcoming rules after this line
 
@@ -483,6 +483,26 @@ Write comments to forthcoming rules before this line -->
       <select lemma="lokke"/>
     </match>
   </rule>
+  
+   <!-- gustojeaddji -->
+  <rule weight="1.0">
+    <match lemma="gustojeaddji">
+      <select lemma="tohálâš"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="gustojeaddji">
+      <select lemma="tuhhiittettee"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="gustojeaddji"> 
+      <select lemma="tuhhiittettee"/>
+    </match>
+    <match tags="n.*"/>
+</rule>
 
 
 <!-- birra -->
