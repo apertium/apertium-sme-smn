@@ -27,6 +27,7 @@ aigin/aigin.smn -text
 dev/all.html -text svneol=unset#application/xml
 dev/bidix-sanity.sh -text
 dev/complicateddifferences.txt -text
+dev/doublets_in_bidix_order.txt -text
 dev/fi_depts.A.noder.missing -text
 dev/fi_depts.Adv.missing -text
 dev/fi_depts.N.missing -text
