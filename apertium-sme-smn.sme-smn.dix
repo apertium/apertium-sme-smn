@@ -1,84 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <dictionary>
   <alphabet/>
   <sdefs>
-    <sdef n="hom1"        c="Hom1"/>
-    <sdef n="n"        c="Noun"/>
-    <sdef n="vblex"        c="Verb"/>
-    <sdef n="adj"        c="Adjective"/>
-    <sdef n="attr"        c="Attributive"/>
-    <sdef n="ij"        c="Interjection"/>
-    <sdef n="abbr"        c="Abbreviation"/>
-    <sdef n="acr"        c="Acronym"/>
-    <sdef n="np"       c="Proper noun"/>
-    <sdef n="coll"       c="Collective number"/>
-    <sdef n="num"      c="Numeral"/>
-    <sdef n="prn"      c="Pronoun"/>
-    <sdef n="post"       c="Postposition"/>
-    <sdef n="pr"       c="Preposition"/>
-    <sdef n="adv"      c="Adverb"/>
-    <sdef n="pcle"     c="Частица"/>
-    <sdef n="cnjcoo"   c="Coordinating conjunction"/>
-    <sdef n="cnjsub"   c="Subordinating conjunction"/>
-    <sdef n="iv"       c="Intransitive"/>
-    <sdef n="tv"       c="Transitive"/>
-    <sdef n="prsprc"      c="PrsPrc"/> 
-    <sdef n="ord"      c="Ord"/> 
-    <sdef n="sup"      c="Superl"/> 
-    <sdef n="nomag"      c="NomAg type noun, both sme and smn"/>
-     <sdef n="g3"       c="g3 type noun, only sme"/>
-     <sdef n="g7"       c="g7 type noun, only sme"/>
-    <sdef n="sem_ani"      c="Sem/Ani"/> 
-    <sdef n="sem_act"      c="Sem/Act"/> 
-    <sdef n="sem_hum"      c="Sem/Hum"/> 
-  <sdef n="sem_dummytag"      c="Sem/Dummytag"/> 
-    <sdef n="sem_plc"      c="Sem/Plc"/>
-    <sdef n="foc_sun"      c="clitic sun"/>
-    <sdef n="foc_ge"       c="clitic ge"/>
-    <sdef n="foc_uv"       c="clitic -uv"/>
-    <sdef n="foc_nii"       c="clitic nii"/>
-    <sdef n="foc_neg-ge"       c="foc_neg-ge"/>
-    <sdef n="foc_pos-ge"       c="foc_pos-ge"/>
-    <sdef n="qst"       c="clitic qst"/>
-    <sdef n="foc_gas"      c="clitic gas"/>
-    <sdef n="foc_ges"      c="clitic ges"/>
-    <sdef n="foc_gis"      c="clitic gis"/>
-    <sdef n="foc_gin"      c="clitic gin"/>
-    <sdef n="foc_han"      c="clitic hân"/>
-    <sdef n="foc_kin"      c="clitic kin"/>
-    <sdef n="foc_ba"      c="clitic ba"/>
-    <sdef n="foc_pa"      c="clitic pa"/>
-    <sdef n="foc_kis"      c="clitic kis"/>
-    <sdef n="foc_kas"      c="clitic kas"/>
-    <sdef n="der_pass"      c="passive derivation"/>
-    <sdef n="der_t"      c="derivation gielat etc"/>
-    <sdef n="der_lasj"      c="derivation lasj"/>
+    <sdef n="hom1" c="Hom1"/>
+    <sdef n="n" c="Noun"/>
+    <sdef n="vblex" c="Verb"/>
+    <sdef n="adj" c="Adjective"/>
+    <sdef n="attr" c="Attributive"/>
+    <sdef n="ij" c="Interjection"/>
+    <sdef n="abbr" c="Abbreviation"/>
+    <sdef n="acr" c="Acronym"/>
+    <sdef n="np" c="Proper noun"/>
+    <sdef n="coll" c="Collective number"/>
+    <sdef n="num" c="Numeral"/>
+    <sdef n="prn" c="Pronoun"/>
+    <sdef n="post" c="Postposition"/>
+    <sdef n="pr" c="Preposition"/>
+    <sdef n="adv" c="Adverb"/>
+    <sdef n="pcle" c="Частица"/>
+    <sdef n="cnjcoo" c="Coordinating conjunction"/>
+    <sdef n="cnjsub" c="Subordinating conjunction"/>
+    <sdef n="iv" c="Intransitive"/>
+    <sdef n="tv" c="Transitive"/>
+    <sdef n="prsprc" c="PrsPrc"/> 
+    <sdef n="ord" c="Ord"/> 
+    <sdef n="sup" c="Superl"/> 
+    <sdef n="nomag" c="NomAg type noun, both sme and smn"/>
+     <sdef n="g3" c="g3 type noun, only sme"/>
+     <sdef n="g7" c="g7 type noun, only sme"/>
+    <sdef n="sem_ani" c="Sem/Ani"/> 
+    <sdef n="sem_act" c="Sem/Act"/> 
+    <sdef n="sem_hum" c="Sem/Hum"/> 
+  <sdef n="sem_dummytag" c="Sem/Dummytag"/> 
+    <sdef n="sem_plc" c="Sem/Plc"/>
+    <sdef n="foc_sun" c="clitic sun"/>
+    <sdef n="foc_ge" c="clitic ge"/>
+    <sdef n="foc_uv" c="clitic -uv"/>
+    <sdef n="foc_nii" c="clitic nii"/>
+    <sdef n="foc_neg-ge" c="foc_neg-ge"/>
+    <sdef n="foc_pos-ge" c="foc_pos-ge"/>
+    <sdef n="qst" c="clitic qst"/>
+    <sdef n="foc_gas" c="clitic gas"/>
+    <sdef n="foc_ges" c="clitic ges"/>
+    <sdef n="foc_gis" c="clitic gis"/>
+    <sdef n="foc_gin" c="clitic gin"/>
+    <sdef n="foc_han" c="clitic hân"/>
+    <sdef n="foc_kin" c="clitic kin"/>
+    <sdef n="foc_ba" c="clitic ba"/>
+    <sdef n="foc_pa" c="clitic pa"/>
+    <sdef n="foc_kis" c="clitic kis"/>
+    <sdef n="foc_kas" c="clitic kas"/>
+    <sdef n="der_pass" c="passive derivation"/>
+    <sdef n="der_t" c="derivation gielat etc"/>
+    <sdef n="der_lasj" c="derivation lasj"/>
 
-    <sdef n="pers"     c="Personal"/>
-    <sdef n="itg"      c="Interrogative"/>
-    <sdef n="dem"      c="Demonstrative"/>
-    <sdef n="ref"     c="Reflexive"/>
-    <sdef n="rel"     c="Relative"/>
-    <sdef n="ind"     c="Indefinite"/>
+    <sdef n="pers" c="Personal"/>
+    <sdef n="itg" c="Interrogative"/>
+    <sdef n="dem" c="Demonstrative"/>
+    <sdef n="ref" c="Reflexive"/>
+    <sdef n="rel" c="Relative"/>
+    <sdef n="ind" c="Indefinite"/>
 
-    <sdef n="sent"     c="Sentence marker"/>
-    <sdef n="quot"     c="Quotation mark"/>
-    <sdef n="cm"       c="Comma"/>
+    <sdef n="sent" c="Sentence marker"/>
+    <sdef n="quot" c="Quotation mark"/>
+    <sdef n="cm" c="Comma"/>
 <!-- the following inserted inspired from sme-smna -->
 
-    <sdef n="sg"  c="Singular"/>
+    <sdef n="sg" c="Singular"/>
     <sdef n="pl" c="Plural"/>
 
-    <sdef n="px1sg"    c="First-person singular possessive suffix"/>
-    <sdef n="px2sg"    c="Second-person singular possessive suffix"/>
-    <sdef n="px3sg"    c="Third-person singular possessive suffix"/>
-    <sdef n="px1du"    c="First-person dual possessive suffix"/>
-    <sdef n="px2du"    c="Second-person dual possessive suffix"/>
-    <sdef n="px3du"    c="Third-person dual possessive suffix"/>
-    <sdef n="px1pl"    c="First-person plural possessive suffix"/>
-    <sdef n="px2pl"    c="Second-person plural possessive suffix"/>
-    <sdef n="px3pl"    c="Third-person plural possessive suffix"/>
+    <sdef n="px1sg" c="First-person singular possessive suffix"/>
+    <sdef n="px2sg" c="Second-person singular possessive suffix"/>
+    <sdef n="px3sg" c="Third-person singular possessive suffix"/>
+    <sdef n="px1du" c="First-person dual possessive suffix"/>
+    <sdef n="px2du" c="Second-person dual possessive suffix"/>
+    <sdef n="px3du" c="Third-person dual possessive suffix"/>
+    <sdef n="px1pl" c="First-person plural possessive suffix"/>
+    <sdef n="px2pl" c="Second-person plural possessive suffix"/>
+    <sdef n="px3pl" c="Third-person plural possessive suffix"/>
 
     <sdef n="gen" c="Genetive"/>
     <sdef n="ill" c="Illative"/>
@@ -307,7 +306,7 @@
     <e><p><l>fárus<s n="post"/></l><r>fáárust<s n="post"/></r></p></e>
     <e><p><l>gaskkas<s n="post"/></l><r>kooskâst<s n="post"/></r></p></e>
     <e><p><l>guvlui<s n="post"/></l><r>kulij<s n="post"/></r></p></e>
-    <e><p><l>haga<s n="post"/></l><r></r></p></e>
+    <e><p><l>haga<s n="post"/></l><r/></p></e>
     <e><p><l>luhtte<s n="post"/></l><r>kulen<s n="post"/></r></p></e>
     <e><p><l>olis<s n="post"/></l><r>mield<s n="post"/></r></p></e>
     <e><p><l>sisa<s n="post"/></l><r>siisâ<s n="post"/></r></p></e>
@@ -612,6 +611,7 @@
     <e><p><l>ovddos<s n="adv"/></l><r>ovdâskulij<s n="adv"/></r></p></e>
     <e><p><l>ain<s n="adv"/></l><r>ain<s n="adv"/></r></p></e>
     <e><p><l>gal<s n="adv"/></l><r>kale<s n="adv"/></r></p></e>
+    <e><p><l>gal<s n="adv"/></l><r>kal<s n="adv"/></r></p></e>
     <e><p><l>eatnat<s n="adv"/></l><r>ennâg<s n="adv"/></r></p></e>
     <e><p><l>aivve<s n="adv"/></l><r>aaibâs<s n="adv"/></r></p></e>
     <e><p><l>aivvefal<s n="adv"/></l><r>aaibâs<s n="adv"/></r></p></e>
@@ -1402,7 +1402,7 @@
     <e><p><l>vs<s n="adj"/><s n="abbr"/></l><r>vs<s n="adj"/><s n="abbr"/></r></p></e>
 
     <!--    <e><p><l>bve<s n="n"/><s n="abbr"/></l><r>peivi<s n="n"/></r></p></e>-->
-    <e><p><l>bve<s n="adv"/><s n="abbr"/></l><r></r></p></e>	 
+    <e><p><l>bve<s n="adv"/><s n="abbr"/></l><r/></p></e>	 
 
 
     <e><p><l>badjeskuvla<s n="n"/></l><r>paješkovlâ<s n="n"/></r></p></e>
@@ -9100,7 +9100,7 @@
     <e><p><l>ruossut<s n="adv"/></l><r>ruássud<s n="adv"/></r></p></e>
     <e><p><l>vátni<s n="adv"/></l><r>vääniht<s n="adv"/></r></p></e>
     <e><p><l>njulgestaga<s n="adv"/></l><r>njuolgist<s n="adv"/></r></p></e>
-    <e><p><l>taga<s n="post"/></l><r></r></p></e><!-- sme:abessive; should be po in sme; see also haga -->
+    <e><p><l>taga<s n="post"/></l><r/></p></e><!-- sme:abessive; should be po in sme; see also haga -->
     <e><p><l>sneakta<s n="adv"/></l><r>rasta<s n="adv"/></r></p></e>
     <e><p><l>ihcalassii<s n="adv"/></l><r>jiešmeidlist<s n="adv"/></r></p></e>
     <e><p><l>joksege<s n="adv"/></l><r>suullân<s n="adv"/></r></p></e>
@@ -55341,4 +55341,3 @@
   </section> 
 
 </dictionary>
-
