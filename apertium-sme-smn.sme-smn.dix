@@ -747,7 +747,7 @@
     <e><p><l>gánnetmeahttun<s n="adj"/></l><r>kannatmettum<s n="adj"/></r></p></e>
     <e><p><l>tropalaš<s n="adj"/></l><r>trooppisâš<s n="adj"/></r></p></e>
     <e><p><l>ipmilmeahttun<s n="adj"/></l><r>immeelmettum<s n="adj"/></r></p></e>
-    <e><p><l>pedagogalaš<s n="adj"/></l><r>pedagooglâš<s n="adj"/></r></p></e> <!-- pedagoglâš? -->
+    <e><p><l>pedagogalaš<s n="adj"/></l><r>pedagoglâš<s n="adj"/></r></p></e>
     <e><p><l>massiivvalaš<s n="adj"/></l><r>massivlâš<s n="adj"/></r></p></e>
     <e><p><l>vuovdnái<s n="adj"/></l><r>vuávnáá<s n="adj"/></r></p></e>
     <e><p><l>čalbmáičuohcci<s n="adj"/></l><r>čaalmančyeccee<s n="adj"/></r></p></e>
@@ -3843,6 +3843,7 @@
 
 
     <!-- ASECTION: Verbs -->
+    <e><p><l>gaifát<s n="vblex"/><s n="tv"/></l><r>kavkkâđ<s n="vblex"/></r></p></e>
     <e><p><l>prentet<s n="vblex"/><s n="tv"/></l><r>printtiđ<s n="vblex"/></r></p></e>
     <e><p><l>ávžžuhit<s n="vblex"/><s n="tv"/></l><r>avžuđ<s n="vblex"/></r></p></e>
     <e><p><l>prioriteret<s n="vblex"/><s n="tv"/></l><r>prioristiđ<s n="vblex"/></r></p></e>
