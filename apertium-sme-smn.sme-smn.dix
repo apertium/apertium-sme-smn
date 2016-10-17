@@ -1122,7 +1122,10 @@
     
 <!-- ASECTION: Nouns -->
 
-    <e><p><l>imaš<s n="n"/></l><r>iimâš<s n="n"/></r></p></e>  
+    <e><p><l>imaš<s n="n"/></l><r>iimâš<s n="n"/></r></p></e>
+    <e><p><l>rehppo<s n="n"/></l><r>reppu<s n="n"/></r></p></e>
+    <e><p><l>skuvlalaš<s n="n"/></l><r>škovlâlâš<s n="n"/></r></p></e>
+
     <e><p><l>mieđašeatni<s n="n"/></l><r>miäđošijn<s n="n"/></r></p></e>
     <e><p><l>termomehter<s n="n"/></l><r>liegâsvuotmittár<s n="n"/></r></p></e>
     <e><p><l>termomehter<s n="n"/></l><r>kumeštâsmittár<s n="n"/></r></p></e>
@@ -1140,7 +1143,7 @@
     <e><p><l>bajásgeassin<s n="n"/></l><r>elleešoddâdem<s n="n"/></r></p></e>
     <e><p><l>dikšun<s n="n"/></l><r>tipšom<s n="n"/></r></p></e>
     <e><p><l>fuođđu<s n="n"/></l><r>pivdoellee<s n="n"/></r></p></e>
-    <e><p><l>juohkeolbmorievtti<s n="n"/></l><r>jyehiulmuuvuoigâdvuotâ<s n="n"/></r></p></e>
+    <e><p><l>juohkeolbmoriekxti<s n="n"/></l><r>jyehiulmuuvuoigâdvuotâ<s n="n"/></r></p></e>
     <e><p><l>lubmen<s n="n"/></l><r>luommim<s n="n"/></r></p></e>
     <e><p><l>ovdanbuktin<s n="n"/></l><r>čájáttâs<s n="n"/></r></p></e>
     <e><p><l>pantomima<s n="n"/></l><r>pantomim<s n="n"/></r></p></e>
@@ -2742,6 +2745,8 @@
     <!-- ASECTION: other proper nouns -->
     
     <e><p><l>Inarilainen<s n="np"/></l><r>Inarilainen<s n="np"/></r></p></e>
+    <e><p><l>Eräkummit<s n="np"/></l><r>Eräkummit<s n="np"/></r></p></e>
+
     <e><p><l>Sibirjá<s n="np"/></l><r>Siberia<s n="np"/></r></p></e>
     <e><p><l>Kanáda<s n="np"/></l><r>Kanada<s n="np"/></r></p></e>
     <e><p><l>Amerihkká<s n="np"/></l><r>Amerik<s n="np"/></r></p></e>
