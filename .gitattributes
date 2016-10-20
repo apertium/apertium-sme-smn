@@ -996,6 +996,7 @@ texts/eval2/sme_orig.txt -text
 texts/eval2/wer_analysis.csv -text
 texts/eval3/README.txt -text
 texts/eval3/sme_orig.txt -text
+texts/eval3/texts/smn_mt.txt -text
 texts/giella.sme.txt -text
 texts/giella.smn.txt -text
 texts/giellagaldu_tyo.sme.txt -text
