@@ -306,7 +306,7 @@
     <e><p><l>fárus<s n="post"/></l><r>fáárust<s n="post"/></r></p></e>
     <e><p><l>gaskkas<s n="post"/></l><r>kooskâst<s n="post"/></r></p></e>
     <e><p><l>guvlui<s n="post"/></l><r>kulij<s n="post"/></r></p></e>
-    <e><p><l>haga<s n="post"/></l><r/></p></e>
+    <e r="LR"><p><l>haga<s n="post"/></l><r/></p></e>
     <e><p><l>luhtte<s n="post"/></l><r>kulen<s n="post"/></r></p></e>
     <e><p><l>olis<s n="post"/></l><r>mield<s n="post"/></r></p></e>
     <e><p><l>sisa<s n="post"/></l><r>siisâ<s n="post"/></r></p></e>
@@ -1421,7 +1421,7 @@
     <e><p><l>vs<s n="adj"/><s n="abbr"/></l><r>vs<s n="adj"/><s n="abbr"/></r></p></e>
 
     <!--    <e><p><l>bve<s n="n"/><s n="abbr"/></l><r>peivi<s n="n"/></r></p></e>-->
-    <e><p><l>bve<s n="adv"/><s n="abbr"/></l><r/></p></e>	 
+    <e r="LR"><p><l>bve<s n="adv"/><s n="abbr"/></l><r/></p></e>	 
 
 
     <e><p><l>badjeskuvla<s n="n"/></l><r>paješkovlâ<s n="n"/></r></p></e>
@@ -9123,7 +9123,7 @@
     <e><p><l>ruossut<s n="adv"/></l><r>ruássud<s n="adv"/></r></p></e>
     <e><p><l>vátni<s n="adv"/></l><r>vääniht<s n="adv"/></r></p></e>
     <e><p><l>njulgestaga<s n="adv"/></l><r>njuolgist<s n="adv"/></r></p></e>
-    <e><p><l>taga<s n="post"/></l><r/></p></e><!-- sme:abessive; should be po in sme; see also haga -->
+    <e r="LR"><p><l>taga<s n="post"/></l><r/></p></e><!-- sme:abessive; should be po in sme; see also haga -->
     <e><p><l>sneakta<s n="adv"/></l><r>rasta<s n="adv"/></r></p></e>
     <e><p><l>ihcalassii<s n="adv"/></l><r>jiešmeidlist<s n="adv"/></r></p></e>
     <e><p><l>joksege<s n="adv"/></l><r>suullân<s n="adv"/></r></p></e>
