@@ -9293,14 +9293,9 @@
     <e><p><l>muoraheapme<s n="adj"/></l><r>muorâttem<s n="adj"/></r></p></e>
     <e><p><l>suvdi<s n="adj"/></l><r>kyeddee<s n="adj"/></r></p></e>
     <e><p><l>hárpmas<s n="adj"/></l><r>erduu<s n="adj"/></r></p></e>
-    <e><p><l>gallás<s n="adj"/></l><r>kalanâm<s n="adj"/></r></p></e><!-- Saammâl -->
-    <e><p><l>gallás<s n="adj"/></l><r>naggâ<s n="adj"/></r></p></e>
-    <e><p><l>gallás<s n="adj"/></l><r>poggâ<s n="adj"/></r></p></e>
-    <e><p><l>gallás<s n="adj"/></l><r>poogâs<s n="adj"/></r></p></e>
+    <e><p><l>gallás<s n="adj"/></l><r>kalanâm<s n="adj"/></r></p></e>
     <e><p><l>gallás<s n="adj"/></l><r>tievâ<s n="adj"/></r></p></e>
     <e><p><l>basttoheapme<s n="adj"/></l><r>pastettem<s n="adj"/></r></p></e>
-    <e><p><l>basttoheapme<s n="adj"/></l><r>tielâs<s n="adj"/></r></p></e>
-    <e><p><l>basttoheapme<s n="adj"/></l><r>tulcce<s n="adj"/></r></p></e>
     <e><p><l>gearpmus<s n="adj"/></l><r>siävŋus<s n="adj"/></r></p></e>
     <e><p><l>gearpmus<s n="adj"/></l><r>skäävi<s n="adj"/></r></p></e>
     <e><p><l>gearpmus<s n="adj"/></l><r>veigi<s n="adj"/></r></p></e>
@@ -9315,11 +9310,7 @@
     <e><p><l>gušmmus<s n="adj"/></l><r>torduu<s n="adj"/></r></p></e>
     <e><p><l>gušmmus<s n="adj"/></l><r>torgâd<s n="adj"/></r></p></e>
     <e><p><l>gušmmus<s n="adj"/></l><r>távgáá<s n="adj"/></r></p></e>
-    <e><p><l>gerolmas<s n="adj"/></l><r>kulluuhâš<s n="adj"/></r></p></e>
-    <e><p><l>gerolmas<s n="adj"/></l><r>mááinuh<s n="adj"/></r></p></e>
-    <e><p><l>gerolmas<s n="adj"/></l><r>peeggâlm<s n="adj"/></r></p></e>
     <e><p><l>gerolmas<s n="adj"/></l><r>pegâlmâs<s n="adj"/></r></p></e>
-    <e><p><l>gerolmas<s n="adj"/></l><r>piäggálm<s n="adj"/></r></p></e>
     <e><p><l>dielvvis<s n="adj"/></l><r>jolgâd<s n="adj"/></r></p></e>
     <e><p><l>dielvvis<s n="adj"/></l><r>läätis<s n="adj"/></r></p></e>
     <e><p><l>dielvvis<s n="adj"/></l><r>tuolbâs<s n="adj"/></r></p></e>
@@ -9336,7 +9327,7 @@
 
 <!-- CSECTION: Nouns 1-m frequency ordered -->
 
-    <e><p><l>máŋggas<s n="n"/></l><r>maaŋgâs<s n="n"/></r></p></e>
+    <e><p><l>máŋggas<s n="n"/></l><r>maaŋgâs<s n="n"/></r></p></e><!-- Saammâl -->
     <e><p><l>eretfárren<s n="n"/></l><r>meddâlvarrim<s n="n"/></r></p></e>
     <e><p><l>fidnu<s n="n"/></l><r>haahâ<s n="n"/></r></p></e>
     <e><p><l>tiipa<s n="n"/></l><r>tijppâ<s n="n"/></r></p></e>
