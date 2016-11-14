@@ -3871,7 +3871,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
       </action>
     </rule>
-    <rule comment="REGLA: ovdâmerkkân" c="ovdamearkka dihtii - ovdâmerkkân">
+    <rule comment="REGLA: ovdâmerkkân c='ovdamearkka dihtii - ovdâmerkkân">
       <pattern>
         <pattern-item n="ovdamearka"/>
         <pattern-item n="dihte"/>
