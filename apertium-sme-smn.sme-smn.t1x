@@ -15,6 +15,213 @@ t5x move foc_tag from wordfoc chunk to the word inside
 <transfer default="chunk">
 
   <section-def-cats>
+    <!-- HARMONISED -->
+
+    <def-cat n="prn">
+      <cat-item tags="prn.*"/>
+    </def-cat>
+
+    <def-cat n="prn-rel">
+      <cat-item tags="prn.rel.*"/>
+    </def-cat>
+
+    <def-cat n="prn-res">
+      <cat-item tags="prn.res.*"/>
+    </def-cat>
+
+    <def-cat n="prn-pers">
+      <cat-item tags="prn.pers.*"/>
+    </def-cat>
+
+    <def-cat n="prn-dem">
+      <cat-item tags="prn.dem.*"/>
+    </def-cat>
+
+    <def-cat n="prn-refl">
+      <cat-item tags="prn.ref.*"/>
+    </def-cat>
+
+    <def-cat n="noun">
+      <cat-item tags="*.n.*.sg.*"/>
+      <cat-item tags="*.n.*.pl.*"/>
+      <cat-item tags="*.n.*.ess.*"/>
+      <cat-item tags="*.n.sg.*"/>
+      <cat-item tags="*.n.pl.*"/>
+      <cat-item tags="*.n.ess.*"/>
+      <cat-item tags="n.*.sg.*"/>
+      <cat-item tags="n.*.pl.*"/>
+      <cat-item tags="n.*.ess.*"/>
+      <cat-item tags="n.*.*.sg.*"/>
+      <cat-item tags="n.*.*.pl.*"/>
+      <cat-item tags="n.*.*.ess.*"/>
+      <cat-item tags="n.sg.*"/>
+      <cat-item tags="n.abbr.*"/>
+      <cat-item tags="n.pl.*"/>
+      <cat-item tags="n.ess.*"/>
+      <cat-item tags="np.*"/>
+    </def-cat>
+
+    <def-cat n="adj">
+      <cat-item tags="adj.*"/>
+      <cat-item tags="n.*.der_dibme.adj.*"/>
+      <cat-item tags="n.*.der_lasj.adj.*"/>
+      <cat-item tags="n.der_lasj.adj.*"/>
+      <cat-item tags="n.der_saš.adj.*"/>
+      <cat-item tags="n.*.der_sasj.adj.*"/>
+      <cat-item tags="n.der_sasj.adj.*"/>
+    </def-cat>
+
+    <def-cat n="cnjsub">
+      <cat-item tags="cnjsub"/>
+      <cat-item tags="cnjsub.*"/>
+    </def-cat>
+
+    <def-cat n="cnjcoo">
+      <cat-item tags="cnjcoo"/>
+      <cat-item tags="cnjcoo.*"/>
+    </def-cat>
+
+    <def-cat n="pcle">
+      <cat-item tags="pcle"/>
+      <cat-item tags="pcle.*"/>
+    </def-cat>
+
+    <def-cat n="adpos">
+      <cat-item tags="post.*"/>
+      <cat-item tags="pr.*"/>
+    </def-cat>
+
+    <def-cat n="pr">
+      <cat-item tags="pr"/>
+      <cat-item tags="pr.*"/>
+    </def-cat>
+
+    <def-cat n="post">
+      <cat-item tags="post"/>
+      <cat-item tags="post.*"/>
+    </def-cat>
+
+    <def-cat n="default">
+      <cat-item tags="*"/>
+    </def-cat>
+
+    <def-cat n="foc">
+      <cat-item lemma="ba" tags="pcle.*"/>
+      <cat-item lemma="ban" tags="pcle.*"/>
+      <cat-item lemma="bat" tags="pcle.*"/>
+      <cat-item lemma="ge" tags="pcle.*"/>
+      <cat-item lemma="ges" tags="pcle.*"/>
+      <cat-item lemma="gis" tags="pcle.*"/>
+      <cat-item lemma="hal" tags="pcle.*"/>
+      <cat-item lemma="han" tags="pcle.*"/>
+      <cat-item lemma="nai" tags="pcle.*"/>
+      <cat-item lemma="son" tags="pcle.*"/>
+      <cat-item lemma="nu" tags="pcle.*"/>
+    </def-cat>
+
+    <def-cat n="ja">
+      <cat-item lemma="ja" tags="cnjcoo"/>
+      <cat-item lemma="ja" tags="cnjcoo.*"/>
+    </def-cat>
+
+    <def-cat n="jagis">
+      <cat-item lemma="jahki" tags="n.*.sg.loc.*"/>
+      <cat-item lemma="jahki" tags="n.sg.loc.*"/>
+    </def-cat>
+
+    <def-cat n="jagi">
+      <cat-item lemma="jahki" tags="n.*.sg.gen.*"/>
+      <cat-item lemma="jahki" tags="n.sg.gen.*"/>
+    </def-cat>
+
+    <def-cat n="mánnu">
+      <cat-item lemma="ođđajagemánnu" tags="n.*"/>
+      <cat-item lemma="guovvamánnu" tags="n.*"/>
+      <cat-item lemma="njukčamánnu" tags="n.*"/>
+      <cat-item lemma="cuoŋománnu" tags="n.*"/>
+      <cat-item lemma="miessemánnu" tags="n.*"/>
+      <cat-item lemma="geassemánnu" tags="n.*"/>
+      <cat-item lemma="suoidnemánnu" tags="n.*"/>
+      <cat-item lemma="borgemánnu" tags="n.*"/>
+      <cat-item lemma="čakčamánnu" tags="n.*"/>
+      <cat-item lemma="golggotmánnu" tags="n.*"/>
+      <cat-item lemma="skábmamánnu" tags="n.*"/>
+      <cat-item lemma="juovlamánnu" tags="n.*"/>
+    </def-cat>
+
+    <def-cat n="semyear">
+      <cat-item tags="*.sem_year.sg.*"/>
+      <cat-item tags="*.sem_year.sg"/>
+    </def-cat>
+
+    <def-cat n="ge">
+      <cat-item lemma="ge" tags="pcle.*"/>
+    </def-cat>
+
+    <def-cat n="boaris">
+      <cat-item lemma="boaris" tags="adj.*"/>
+    </def-cat>
+
+    <def-cat n="buorre">
+      <cat-item lemma="buorre" tags="adj.*.@→N"/>
+    </def-cat>
+
+    <def-cat n="mielde_adv">
+      <cat-item lemma="mielde" tags="adv.*"/>
+    </def-cat>
+
+    <def-cat n="dihte">
+      <cat-item lemma="dihte" tags="post.*"/>
+      <cat-item lemma="dihtii" tags="post.*"/>
+    </def-cat>
+
+    <def-cat n="miehtá">
+      <cat-item lemma="miehtá" tags="pr.*"/>
+      <cat-item lemma="miehtá" tags="post.*"/>
+    </def-cat>
+
+    <def-cat n="váste">
+      <cat-item lemma="váste" tags="post.*"/>
+      <cat-item lemma="várás" tags="post.*"/>
+    </def-cat>
+
+    <def-cat n="birra-po">
+      <cat-item lemma="birra" tags="post.*"/>
+    </def-cat>
+
+    <def-cat n="birra-adv">
+      <cat-item lemma="birra" tags="adv.*"/>
+    </def-cat>
+
+    <def-cat n="liikotverb">
+      <cat-item lemma="liikot" tags="vblex.*"/>
+    </def-cat>
+
+    <def-cat n="geahččatverb">
+      <cat-item lemma="geahččat" tags="vblex.*"/>
+    </def-cat>
+
+    <def-cat n="váikkuhitverb">
+       <cat-item lemma="váikkuhit" tags="vblex.*"/>
+    </def-cat>
+
+    <def-cat n="sent">
+      <cat-item tags="sent.*"/>
+      <cat-item tags="sent"/>
+      <cat-item tags="clb"/>
+      <cat-item tags="clb.*"/>
+    </def-cat>
+
+    <def-cat n="comma">
+      <cat-item lemma="," tags="cm"/>
+    </def-cat>
+
+    <def-cat n="prosent">
+      <cat-item lemma="%" tags="punct"/>
+    </def-cat>
+
+    <!-- PENDING HARMONISERING -->
+
      <def-cat n="gosage">
       <cat-item lemma="gosa" tags="adv"/>
       <cat-item lemma="gii" tags="prn.ind.*"/>
@@ -25,9 +232,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </def-cat>
     <def-cat n="numsem">
       <cat-item tags="num.*"/>
-    </def-cat>
-    <def-cat n="semyear">
-      <cat-item tags="*.sem_year.*"/>
     </def-cat>
     <def-cat n="abbr">
       <cat-item tags="*.abbr.*"/>
@@ -50,10 +254,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-cat n="ovdamearka">
       <cat-item lemma="ovdamearka" tags="n.*"/>
     </def-cat>
-    <def-cat n="dihtii">
-      <cat-item lemma="dihtii" tags="post.*"/>
-      <cat-item lemma="dihte" tags="post.*"/>
-   </def-cat>
    <def-cat n="po_l">
       <cat-item tags="*.@→P"/>
     </def-cat>
@@ -100,12 +300,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="num.cmp_sggen.cmp"/>
       <cat-item tags="num.cmp_plgen.cmp"/>
     </def-cat>
-     <def-cat n="geahččatverb">
-      <cat-item lemma="geahččat" tags="vblex.*"/>
-    </def-cat>
-     <def-cat n="liikotverb">
-      <cat-item lemma="liikot" tags="vblex.*"/>
-    </def-cat>
      <def-cat n="verbinf">
       <cat-item tags="vblex.*.inf.*"/>
     </def-cat>
@@ -115,9 +309,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </def-cat>
   <def-cat n="negverb">
       <cat-item tags="vblex.iv.neg.indic.p3.sg"/>
-    </def-cat>
-   <def-cat n="ge">
-      <cat-item lemma="ge" tags="pcle.*"/>
     </def-cat>
    <def-cat n="vuástá-verb">
       <cat-item lemma="vuostáiváldit" tags="vblex.*"/>
@@ -135,23 +326,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item lemma="ođđasisorganiseret" tags="vblex.*"/>
     </def-cat>
 
-
-    <def-cat n="foc">
-      <cat-item lemma="ba" tags="pcle.*"/>
-      <cat-item lemma="ban" tags="pcle.*"/>
-      <cat-item lemma="bat" tags="pcle.*"/>
-      <cat-item lemma="ge" tags="pcle.*"/>
-      <cat-item lemma="ges" tags="pcle.*"/>
-      <cat-item lemma="gis" tags="pcle.*"/>
-      <cat-item lemma="hal" tags="pcle.*"/>
-      <cat-item lemma="han" tags="pcle.*"/>
-      <cat-item lemma="nai" tags="pcle.*"/>
-      <cat-item lemma="son" tags="pcle.*"/>
-      <cat-item lemma="nu" tags="pcle.*"/>
-    </def-cat>
-   <def-cat n="buorre">
-      <cat-item lemma="buorre" tags="adj.*.@→N"/>
-    </def-cat>
     <def-cat n="auxverb">
       <cat-item tags="*.@+FAUXV"/>
       <cat-item tags="*.@-FAUXV"/>
@@ -165,25 +339,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </def-cat>
       <def-cat n="cmp_splitr">
       <cat-item tags="n.*.*.cmp_splitr.*"/>
-    </def-cat>
-    <def-cat n="noun"> 
-      <cat-item tags="*.n.*.sg.*"/>
-      <cat-item tags="*.n.*.pl.*"/>
-      <cat-item tags="*.n.*.ess.*"/>
-      <cat-item tags="*.n.sg.*"/>
-      <cat-item tags="*.n.pl.*"/>
-      <cat-item tags="*.n.ess.*"/>
-      <cat-item tags="n.*.sg.*"/>
-      <cat-item tags="n.*.pl.*"/>
-      <cat-item tags="n.*.ess.*"/>
-      <cat-item tags="n.*.*.sg.*"/>
-      <cat-item tags="n.*.*.pl.*"/>
-      <cat-item tags="n.*.*.ess.*"/>
-      <cat-item tags="n.abbr.*"/>
-      <cat-item tags="n.sg.*"/>
-      <cat-item tags="n.pl.*"/>
-      <cat-item tags="n.ess.*"/>
-      <cat-item tags="np.*"/>
     </def-cat>
 
     <def-cat n="nominal"> <!-- as noun, but also num, adj -->
@@ -244,13 +399,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
        <cat-item tags="post.*"/>
        <cat-item tags="num.*"/>
    </def-cat>
-    <def-cat n="adj">
-      <cat-item tags="adj.*"/>
-      <cat-item tags="n.der_sasj.adj.*"/>
-      <cat-item tags="n.*.der_lasj.adj.*"/>
-      <cat-item tags="n.der_lasj.adj.*"/>
-      <cat-item tags="n.der_saš.adj.*"/>
-    </def-cat>
+
     <def-cat n="adv">
       <cat-item tags="adj.der_at.adv.*"/>
       <cat-item tags="adv.*"/>
@@ -267,17 +416,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="num.arab.sg.attr.*"/>
       <cat-item tags="num.sg.*.attr.*"/>
       <cat-item tags="num.sg.attr.*"/>
-    </def-cat>
-     <def-cat n="jagis">
-      <cat-item lemma="jahki" tags="n.*.sg.loc.*"/>
-      <cat-item lemma="jahki" tags="n.sg.loc.*"/>
-    </def-cat>
-     <def-cat n="jagi">
-      <cat-item lemma="jahki" tags="n.*.sg.gen.*"/>
-      <cat-item lemma="jahki" tags="n.sg.gen.*"/>
-    </def-cat>
-     <def-cat n="boaris">
-      <cat-item lemma="boaris" tags="adj.*"/>
     </def-cat>
      <def-cat n="agreement-buot">
       <cat-item lemma="buot" tags="prn.ind.attr.*"/>
@@ -325,9 +463,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </def-cat>
 
 <!-- from sme-nob starts -->
-    <def-cat n="prn">
-      <cat-item tags="prn.*"/>
-    </def-cat>
     <def-cat n="prn-refl_PRONl">
       <cat-item tags="prn.ref.*.@Pron←"/>
     </def-cat>
@@ -338,18 +473,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="prn.rel.pl.com.*"/>
     </def-cat>
 
-    <def-cat n="prn-res">
-      <cat-item tags="prn.res.*"/>
-    </def-cat>
-    <def-cat n="prn-refl">
-      <cat-item tags="prn.ref.*"/>
-    </def-cat>
-    <def-cat n="prn-rel">
-      <cat-item tags="prn.rel.*"/>
-    </def-cat>
-    <def-cat n="prn-dem">
-      <cat-item tags="prn.dem.*"/>
-    </def-cat>
     <def-cat n="prn-itg">
       <cat-item tags="prn.itg.*"/>
     </def-cat>
@@ -374,9 +497,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
 		<cat-item tags="n.*.sg.com.*"/>
 		<cat-item tags="n.sg.com.*"/>
 	</def-cat>
-    <def-cat n="prn-pers">
-      <cat-item tags="prn.pers.*"/>
-    </def-cat>
     <def-cat n="prn-pers-gen">
       <cat-item tags="prn.pers.*.gen.*"/>
     </def-cat>
@@ -384,9 +504,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="prn.pers.*.acc.*"/>
     </def-cat>
 <!-- from sme-nob ends -->
-    <def-cat n="prep">
-      <cat-item tags="pr.*"/>
-    </def-cat>
     <def-cat n="nom-gen">
       <cat-item tags="n.*.sg.gen.*"/>
       <cat-item tags="n.*.pl.gen.*"/>
@@ -432,13 +549,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="adj.*.comp.attr.*"/>
       <cat-item tags="adj.*.sup.attr.*"/>
     </def-cat>
-    <def-cat n="adpos">
-      <cat-item tags="post.*"/>
-      <cat-item tags="pr.*"/>
-    </def-cat>
-     <def-cat n="birra-po">
-      <cat-item lemma="birra" tags="post.*"/>
-    </def-cat>
      <def-cat n="guokte">
       <cat-item lemma="guokte" tags="num.*"/>
     </def-cat>
@@ -452,9 +562,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item lemma="gáma" tags="n.*"/>
       <cat-item lemma="skuovva" tags="n.*"/>
     </def-cat>
-    <def-cat n="birra-adv">
-      <cat-item lemma="birra" tags="adv.*"/>
-    </def-cat>
     <def-cat n="nubbi">
       <cat-item lemma="nubbi" tags="prn.*"/>
     </def-cat>
@@ -467,32 +574,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-cat n="maiddái">
       <cat-item lemma="maiddái" tags="adv.*"/>
     </def-cat>
-    <def-cat n="ja">
-      <cat-item lemma="ja" tags="cnjcoo.*"/>
-    </def-cat>
-    <def-cat n="cnjcoo">
-      <cat-item tags="cnjcoo"/>
-      <cat-item tags="cnjcoo.*"/>
-    </def-cat>
-    <def-cat n="cnjsub">
-      <cat-item tags="cnjsub"/>
-      <cat-item tags="cnjsub.*"/>
-    </def-cat>
-    <def-cat n="pr">
-      <cat-item tags="pr"/>
-      <cat-item tags="pr.*"/>
-    </def-cat>
-    <def-cat n="post">
-      <cat-item tags="post"/>
-      <cat-item tags="post.*"/>
-    </def-cat>
-    <def-cat n="sent">
-      <cat-item tags="sent"/>
-    </def-cat>
-    <def-cat n="default">
-      <cat-item tags="*"/>
-    </def-cat>
-     <def-cat n="CNP">
+    <def-cat n="CNP">
       <cat-item tags="cnjcoo.@CNP"/>
     </def-cat>
      <def-cat n="vp-boundary">
@@ -3789,10 +3871,10 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
       </action>
     </rule>
-    <rule comment="REGLA: ovdâmerkkân"> <!-- ovdamearkka dihtii - ovdâmerkkân  -->
+    <rule comment="REGLA: ovdâmerkkân" c="ovdamearkka dihtii - ovdâmerkkân">
       <pattern>
         <pattern-item n="ovdamearka"/>
-        <pattern-item n="dihtii"/>
+        <pattern-item n="dihte"/>
       </pattern>
       <action>
         <let><clip pos="1" side="tl" part="tags"/><lit-tag v="n.ess"/></let>
