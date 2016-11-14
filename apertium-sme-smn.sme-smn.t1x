@@ -650,8 +650,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
        <attr-item tags="der_h"/>
        <attr-item tags="der_tt"/>
        <attr-item tags="der_t"/>
-       <attr-item tags="der_lágan"/>
-       <attr-item tags="der_lagan"/>
+       <attr-item tags="der_laakan"/>
        <attr-item tags="der_nammasaš"/>
         <attr-item tags="der_sasj"/>
         <attr-item tags="der_vuota"/>
@@ -1534,10 +1533,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <def-macro n="convert-deriv-1Param" npar="1">
       <choose>
-        <when>
-          <test><equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_lágan"/></equal></test>
-          <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_lagan"/></let>
-        </when>
          <when>
           <test><equal><clip pos="1" side="sl" part="a_deriv"/><lit-tag v="der_passs"/></equal></test>
           <let><clip pos="1" side="tl" part="a_deriv"/><lit-tag v="der_pass"/></let>
