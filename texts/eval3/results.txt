@@ -1,0 +1,84 @@
+Test file: 'texts/MTeval_IM.txt'
+Reference file 'texts/smn_mt.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 318
+Number of words in test: 328
+Number of unknown words (marked with a star) in test: 
+Percentage of unknown words: 0.00 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 121
+Word error rate (WER): 38.05 %
+Number of position-independent correct words: 226
+Position-independent word error rate (PER): 32.08 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 121
+Word Error Rate (WER): 38.05 %
+Number of position-independent correct words: 226
+Position-independent word error rate (PER): 32.08 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 0
+Percentage of unknown words that were free rides: 0%
+Test file: 'texts/MTeval_MS.txt'
+Reference file 'texts/smn_mt.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 318
+Number of words in test: 328
+Number of unknown words (marked with a star) in test: 
+Percentage of unknown words: 0.00 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 121
+Word error rate (WER): 38.05 %
+Number of position-independent correct words: 226
+Position-independent word error rate (PER): 32.08 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 121
+Word Error Rate (WER): 38.05 %
+Number of position-independent correct words: 226
+Position-independent word error rate (PER): 32.08 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 0
+Percentage of unknown words that were free rides: 0%
+Test file: 'texts/MTeval_SM.txt'
+Reference file 'texts/smn_mt.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 318
+Number of words in test: 308
+Number of unknown words (marked with a star) in test: 
+Percentage of unknown words: 0.00 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 113
+Word error rate (WER): 35.53 %
+Number of position-independent correct words: 215
+Position-independent word error rate (PER): 32.39 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 113
+Word Error Rate (WER): 35.53 %
+Number of position-independent correct words: 215
+Position-independent word error rate (PER): 32.39 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 0
+Percentage of unknown words that were free rides: 0%
