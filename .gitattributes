@@ -995,6 +995,10 @@ texts/eval2/results -text
 texts/eval2/sme_orig.txt -text
 texts/eval2/wer_analysis.csv -text
 texts/eval3/README.txt -text
+texts/eval3/list/MTEval_IM.list -text
+texts/eval3/list/MTEval_MS.list -text
+texts/eval3/list/MTEval_SM.list -text
+texts/eval3/list/smn_mt.list -text
 texts/eval3/sme_orig.txt -text
 texts/eval3/texts/MTeval_IM.txt -text
 texts/eval3/texts/MTeval_MS.txt -text
