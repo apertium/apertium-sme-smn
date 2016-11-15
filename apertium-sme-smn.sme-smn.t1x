@@ -1932,13 +1932,13 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <!-- SECTION: Nominal groups -->
 
 
-    <rule comment="REGLA: pron = Mun lean ruovttus.">
+    <rule comment="REGLA: pron = Mun lean ruovttus. c=Ii goastta gosage. : Ij koostâ kuussân.">
       <pattern>
         <pattern-item n="prn"/>
       </pattern>
       <action>
       <choose><when>
-      <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Ii goastta gosage. - Ij koostâ kuussân.-->
+      <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> 
               <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
               </when>
 		</choose>
@@ -1988,7 +1988,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
 
 
-    <rule comment="REGLA: vblex goqst Boahtá go? → Puátá-uv?">
+    <rule comment="REGLA: vblex goqst c=Boahtá go? : Puátá-uv?">
       <pattern>
         <pattern-item n="verb"/>
         <pattern-item n="goqst"/>
@@ -2044,7 +2044,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: nnomcmp 2 = skuvlabusse">
+    <rule comment="REGLA: nnomcmp 2  c='skuvlabusse : škovlâbussi'">
       <pattern>
         <pattern-item n="nouncmp"/>
         <pattern-item n="noun"/>
@@ -2101,7 +2101,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: npnomcmpadj"> <!-- Estelle-nammasaš . Estelle-nommâsâš -->
+    <rule comment="REGLA: npnomcmpadj c=Estelle-nammasaš : Estelle-nommâsâš">
       <pattern>
         <pattern-item n="nouncmp"/>
         <pattern-item n="adj"/>
@@ -2129,8 +2129,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
 
     <rule comment="REGLA: prep to postp or prep">
-
-
       <pattern>
         <pattern-item n="adpos"/>
       </pattern>
@@ -2229,7 +2227,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: eanet comp, ex. dálá eanet -- tááláást eenâb ">
+    <rule comment="REGLA: eanet comp c=dálá eanet: tááláást eenb ">
       <pattern>
         <pattern-item n="dálá"/>
         <pattern-item n="a-adv-comp"/>
@@ -2256,7 +2254,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: birra-loc"> <!-- Sii hupmet nieidda birra. Sij sárnuh nieidâst. -->
+    <rule comment="REGLA: birra-loc c=Sii hupmet nieidda birra. : Sij sárnuh nieidâst.">
       <pattern>
         <pattern-item n="nom-gen"/>
         <pattern-item n="birra-po"/>
@@ -2306,7 +2304,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     
 
-        <rule comment="REGLA: birra-loc = diehtu Sámedikki birra - Loc"> <!-- perhaps all nouns -->
+        <rule comment="REGLA: birra-loc c='diehtu Sámedikki birra : tiätu Sämitiggeest'"> <!-- perhaps all nouns -->
       <pattern>
         <pattern-item n="noun"/>
         <pattern-item n="nom-gen"/>
@@ -2346,7 +2344,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
 
 
-    <rule comment="REGLA: refl-gen mielde = Ean fuola su iežame mielde. - Iän huolâ suu fárusân.">
+    <rule comment="REGLA: refl-gen mielde c='Ean fuola su iežame mielde. : Iän huolâ suu fárusân.'">
       <pattern>
         <pattern-item n="prnrefgen"/>
         <pattern-item n="mielde"/>
@@ -2370,7 +2368,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: refl-ess = Son humai iežainis. Sun sáárnui jiečânis.">
+    <rule comment="REGLA: refl-ess c='Son humai iežainis. : Sun sáárnui jiečânis.'">
       <pattern>
         <pattern-item n="refcom"/>
       </pattern>
@@ -2398,7 +2396,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: refl-ess = Soai leaba iežaineaskka jurddašan ahte .. - Suoi lává jiečânis jurdâččâm et ...">
+    <rule comment="REGLA: refl-ess c='Soai leaba iežaineaskka jurddašan ahte ... : Suoi lává jiečânis jurdâččâm et ...'">
       <pattern>
         <pattern-item n="refcom"/>
         <pattern-item n="com-ess-verb"/>
@@ -2537,7 +2535,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
     
-    <rule comment="REGLA: haga-po = Sii manne gápmagiid haga olggos. Te monnii kammuittáá olgos.">
+    <rule comment="REGLA: haga-po c='Sii manne gápmagiid haga olggos. Te monnii kammuittáá olgos.">
       <pattern>
         <pattern-item n="n-sg-pl-gen"/>
         <pattern-item n="haga"/>
