@@ -71,6 +71,15 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="n.der_sasj.adj.*"/>
     </def-cat>
 
+    <def-cat n="verb-inf">
+      <cat-item tags="vblex.*.inf.*"/>
+      <cat-item tags="vblex.*.der_l.v.inf.*"/>
+      <cat-item tags="vblex.*.der_d.v.inf.*"/>
+      <cat-item tags="vblex.*.der_caus.v.inf.*"/>
+      <cat-item tags="vblex.*.der_caus.v.*.inf.*"/>
+      <cat-item tags="vblex.*.der_inchl.v.inf.*"/>
+    </def-cat>
+
     <def-cat n="cnjsub">
       <cat-item tags="cnjsub"/>
       <cat-item tags="cnjsub.*"/>
@@ -104,6 +113,24 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-cat n="default">
       <cat-item tags="*"/>
     </def-cat>
+
+    <def-cat n="rdep">
+      <cat-item tags="prn.pers.*.*.@→N"/>
+      <cat-item tags="prn.ref.*.*.@→N"/>
+      <cat-item tags="prn.ref.*.*.*.@→N"/>
+      <cat-item tags="adj.*.*.@→N"/>
+      <cat-item tags="adj.*.@→N"/>
+      <cat-item tags="n.*.@→N"/>
+      <cat-item tags="adv.@→N"/>
+      <cat-item tags="adv.*.@→N"/>
+      <cat-item tags="n.*.*.*.@→N"/>
+      <cat-item tags="n.*.*.*.*.@→N"/>
+      <cat-item tags="n.*.*.@→N"/>
+      <cat-item tags="np.*.@→N"/>
+      <cat-item tags="vblex.*.@→N"/>
+      <cat-item tags="*.cmp_splitr.*"/>
+    </def-cat>
+
 
     <def-cat n="foc">
       <cat-item lemma="ba" tags="pcle.*"/>
