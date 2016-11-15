@@ -196,6 +196,10 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="*.sem_year.sg"/>
     </def-cat>
 
+    <def-cat n="áigi">
+      <cat-item lemma="áigi" tags="n.*"/>
+    </def-cat>
+
     <def-cat n="ge">
       <cat-item lemma="ge" tags="pcle.*"/>
     </def-cat>
