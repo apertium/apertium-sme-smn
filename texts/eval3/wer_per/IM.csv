@@ -37,21 +37,23 @@ Categories for classification:
 6 = word added
 7 = word deleted
 
-        	 >	láá
-        	 >	fáddán
-        pivdoelleefaadâr-škoovlâturneest	 |	meccifaadâr-škovlâkolliistâlmijn
-        Meecihaldâttuv	 |	Meccihaldâttâs
-        láá	 |	joteh
-        taan	 |	oho
-        ohhoost	 <
-        joođoost	 <
-        pivdoelleešoddâdem	 |	kolliistâlmin
-        aašij	 |	škoovlâin
-        škoovlâturneest	 |	já
-        	 >	sárnuh
-        	 >	meecist
-        	 >	jotteem
-        	 >	aašijn
+1        	 >	láá
+1        	 >	fáddán
+1        pivdoelleefaadâr-škoovlâturneest	 |	meccifaadâr-škovlâkolliistâlmijn
+2
+1        Meecihaldâttuv	 |	Meccihaldâttâs
+1        láá	 |	joteh
+1        taan	 |	oho
+3        ohhoost	 <
+3        joođoost	 <
+1        pivdoelleešoddâdem	 |	kolliistâlmin
+4        aašij	 <	
+1        škoovlâturneest	 |škoovlâin
+1		>	 já
+1        	 >	sárnuh
+1        	 >	meecist
+1        	 >	jotteem
+3        	 >	aašijn
         uážžuh	 |	finnejeh
         pivdoelleekulttuurân	 |	meecist
         	 >	jotteem
