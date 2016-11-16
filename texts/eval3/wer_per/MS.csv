@@ -1,0 +1,167 @@
+Test file: 'texts/MTeval_MS.txt'
+Reference file 'texts/smn_mt.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 318
+Number of words in test: 328
+Number of unknown words (marked with a star) in test: 
+Percentage of unknown words: 0.00 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 121
+Word error rate (WER): 38.05 %
+Number of position-independent correct words: 226
+Position-independent word error rate (PER): 32.08 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 121
+Word Error Rate (WER): 38.05 %
+Number of position-independent correct words: 226
+Position-independent word error rate (PER): 32.08 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 0
+Percentage of unknown words that were free rides: 0%
+Error classification
+
+Categories for classification:
+1 = lexical selection
+2 = error in generation (different shape of wordform)
+3 = error in choice of form (different wordform selected)
+4 = word order changed
+5 = punctuation
+6 = word added
+7 = word deleted
+
+        	 >	láá
+        	 >	fáddán
+        pivdoelleefaadâr-škoovlâturneest	 |	meccifaadâr-škovlâkolliistâlmijn
+        Meecihaldâttuv	 |	Meccihaldâttâs
+        láá	 |	joteh
+        taan	 |	oho
+        ohhoost	 <
+        joođoost	 <
+        pivdoelleešoddâdem	 |	kolliistâlmin
+        aašij	 |	škoovlâin
+        škoovlâturneest	 |	já
+        	 >	sárnuh
+        	 >	meecist
+        	 >	jotteem
+        	 >	aašijn
+        uážžuh	 |	finnejeh
+        pivdoelleekulttuurân	 |	meecist
+        	 >	jotteem
+        	 >	kulttuurân
+        anon	 |	kiävtun
+        Pivdoelleešoddâdmist	 |	Meecist
+        	 >	jotteem
+        	 >	máttááttâsâst
+        cuvnii	 |	uáinust
+        jođettuvvojeh	 |	uápistuvvojeh
+        Meecihaldâttuv	 |	Meccihaldâttâs
+        koordinistiđ	 |	koordinistem
+        riijkâvijđosii	 |	riijkâvijđosâš
+        Eräkummit-haavâ	 |	Meccifaadâr-haahâ
+        (	 <
+        Pivdoelleefaddâreh	 <
+        )	 <
+        Meecihaldâttuv	 |	Meccihaldâttâs
+        pivdoelleešoddâdem	 |	meecist
+        	 >	jotteem
+        	 >	máttááttâs
+        škoovlâturnee	 |	škovlâkolliistâlmeh
+        tuárju	 |	tuárjuh
+        pargopáájái	 |	pargopáájáin
+        ääigi	 <
+        tävgipisoin	 |	tävgipissoin
+        kyeddilis	 |	kilelis
+        liihâdmân	 |	jotemân
+        pessii	 |	peesih
+        čuággiđ	 |	nuurrâđ
+        maaŋgâpiälálij	 |	maaŋgâpiälálávt
+        koččâmâšâi	 |	nubásmitmáin
+        nubástusâin	 |	koččâmâšâid
+        kalga	 |	oppâp
+        oppâđ	 <
+        tom	 |	speelâ
+        spelliđ	 |	spellâđ
+        juávhu	 |	jo-uv
+        stuáruduv	 <
+        mield	 <
+        Meecihaldâttuv	 |	Meccihaldâttâs
+        Ukkos	 |	Ukkonen
+        /	 |	Luándukuávdáš
+        Ukkosii	 <
+        Luándukuávdáá	 <
+        toimâlâš	 |	Toimâlâš
+        já	 |	luándufáddá
+        luándufáádáh	 <
+        Eräkummit-haahâ	 |	Meccifaadâr-haavâ
+        toimâm	 |	ulmen
+        pivdoelleešoddâdem	 |	meecist
+        	 >	jotteem
+        	 >	tiäđu
+        maaŋgâpiälálij	 |	maaŋgâpiälálávt
+        meccivarriistâllâm	 |	meecist
+        	 >	jotteem
+        muuneeld	 |	ovdiist
+        	 >	äšši
+        párnáin	 |	párnááh
+        puáđi	 |	šoodâ
+        miäcásteijeeh	 |	miäcásteijen
+        	 >	,
+        vuáđuaašij	 |	vuáđuaašijd
+        Eanodatlaš	 |	Iänuduvlaš
+        juuttih	 |	sun
+        	 >	jotá
+        luommimreeisu	 |	luommimreeisuin
+        (	 <
+        12	 <
+        )	 <
+        poccui	 |	tegu
+        tiäđust-uv	 |	poccuid
+        mut	 |	riämnjáid
+        meiddei	 <
+        riämnjái	 <
+        soorvâi	 |	soorvâid
+        jotteeđ	 |	jođedijn
+        pantomiimčájáttâs	 |	pantomiimčaittâlem
+        párnááh	 |	Párnááh
+        čájáttâstááiđuid	 |	čaittâlemtáiđuidis
+        lihâdem	 |	jotteem
+        pakkajih	 |	pakkap
+        luándust	 |	Yllästuodâr
+        liihâdmist	 <
+        kiddiistum	 <
+        Ylläsduottar	 <
+        Meecihaldâttuvvâst	 |	Meccihaldâttâsâst
+        .	 |	Hanna
+        ¶	 |	lii
+        Pivdoelleeaašij	 |	meid
+        škoovlâturnee	 |	movtigis
+        	 >	luándust
+        	 >	jottee
+        	 >	Škovlâkolliistâlmeh
+        	 >	ohhoost
+        	 >	38
+        Hiätást	 |	Hettaast
+        kost	 |	kuus
+        Bealdovuopmi	 |	Piälduvyeme
+        ,	 |	Mätki
+        já	 <
+        tot	 <
+        škoovlâst	 |	škoovlân
+        kirkkosijdâ	 |	ko
+        škoovlâ	 |	kirkkosiijdâ
+        luusâ	 |	škoovlân
+        turnee	 |	vuárust
+        Anarist	 |	Aanaar
+        puátih	 |	pottii
+        Turnee	 |	Kolliistâlmeh
+        nohá	 |	noheh
+        Avelist	 |	Avelân
+        	 >	meid
