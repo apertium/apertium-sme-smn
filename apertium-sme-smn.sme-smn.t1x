@@ -547,7 +547,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-cat n="numsem">
       <cat-item tags="num.*"/>
     </def-cat>
-    <def-cat n="dálá">
+    <def-cat n="dálá_adj">
       <cat-item lemma="dálá" tags="adj.*"/>
     </def-cat>
     <def-cat n="a-adv-comp">
@@ -562,7 +562,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-cat n="H_advl">
       <cat-item tags="*.@←ADVL"/>
     </def-cat>
-    <def-cat n="ovdamearka">
+    <def-cat n="ovdamearka_n">
       <cat-item lemma="ovdamearka" tags="n.*"/>
     </def-cat>
    <def-cat n="po_l">
@@ -579,10 +579,10 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="n.*.@OBJ→"/>
       <cat-item tags="n.*.@-FOBJ→"/>
     </def-cat>
-    <def-cat n="giittos">
+    <def-cat n="giittos_n">
       <cat-item lemma="giittos" tags="n.*"/>
     </def-cat>
-      <def-cat n="eatnat">
+      <def-cat n="eatnat_adv">
       <cat-item lemma="eatnat" tags="adv.*"/>
     </def-cat>
     <def-cat n="gencompl">
@@ -599,19 +599,19 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="*.cmp"/>
       <cat-item tags="*.cmp.guio"/>
     </def-cat>
-   <def-cat n="vuástá-verb">
+   <def-cat n="vuostáiváldit_vblex">
       <cat-item lemma="vuostáiváldit" tags="vblex.*"/>
     </def-cat>
-   <def-cat n="älkkeebin-verb">
+   <def-cat n="álkidahttit_vblex">
       <cat-item lemma="álkidahttit" tags="vblex.*"/>
     </def-cat>
    <def-cat n="anon-verb">
       <cat-item lemma="atnuiváldit" tags="vblex.*"/>
     </def-cat>
-   <def-cat n="ovttâst-verb">
+   <def-cat n="ovttasbargat_vblex">
       <cat-item lemma="ovttasbargat" tags="vblex.*"/>
     </def-cat>
-   <def-cat n="uđđâsist-verb">
+   <def-cat n="ođđasisorganiseret_vblex">
       <cat-item lemma="ođđasisorganiseret" tags="vblex.*"/>
     </def-cat>
 
@@ -700,11 +700,11 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="n.*.*.sg.gen.*"/>
       <cat-item tags="n.*.*.pl.gen.*"/>
     </def-cat>
-    <def-cat n="haga">
+    <def-cat n="haga_post">
       <cat-item lemma="haga" tags="post.*"/>
       <cat-item lemma="taga" tags="post.*"/>
     </def-cat>
-    <def-cat n="almmá">
+    <def-cat n="almmá_adv">
       <cat-item lemma="almmá" tags="adv.*"/>
     </def-cat>
     <def-cat n="prnrefgen">
@@ -766,26 +766,26 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="adj.*.comp.attr.*"/>
       <cat-item tags="adj.*.sup.attr.*"/>
     </def-cat>
-     <def-cat n="guokte">
+     <def-cat n="guokte_num">
       <cat-item lemma="guokte" tags="num.*"/>
     </def-cat>
-     <def-cat n="láhki">
+     <def-cat n="láhki_n">
       <cat-item lemma="láhki" tags="n.*"/>
     </def-cat>
-     <def-cat n="dihto-adj">
+     <def-cat n="dihto_adj">
       <cat-item lemma="dihto" tags="adj.*"/>
     </def-cat>
-    <def-cat n="shoes">
+    <def-cat n="shoe_n">
       <cat-item lemma="gáma" tags="n.*"/>
       <cat-item lemma="skuovva" tags="n.*"/>
     </def-cat>
-    <def-cat n="nubbi">
+    <def-cat n="nubbi_prn">
       <cat-item lemma="nubbi" tags="prn.*"/>
     </def-cat>
-    <def-cat n="coggat">
+    <def-cat n="coggat_vblex">
       <cat-item lemma="coggat" tags="vblex.*"/>
     </def-cat>
-    <def-cat n="maiddái">
+    <def-cat n="maiddái_adv">
       <cat-item lemma="maiddái" tags="adv.*"/>
     </def-cat>
 
@@ -2435,7 +2435,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: eanet comp, ex. dálá eanet -- tááláást eenâb ">
       <pattern>
-        <pattern-item n="dálá"/>
+        <pattern-item n="dálá_adj"/>
         <pattern-item n="a-adv-comp"/>
       </pattern>
       <action>
@@ -2631,7 +2631,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: almmá-adv = almmá doarjaga ">
       <pattern>
-        <pattern-item n="almmá"/>
+        <pattern-item n="almmá_adv"/>
         <pattern-item n="H_advl"/>
       </pattern>
       <action>
@@ -2654,9 +2654,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
     
     <rule comment="REGLA: almmá haga-po = almmá doarjaga haga">
       <pattern>
-        <pattern-item n="almmá"/>
+        <pattern-item n="almmá_adv"/>
         <pattern-item n="n-sg-pl-gen"/>
-        <pattern-item n="haga"/>
+        <pattern-item n="haga_post"/>
       </pattern>
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
@@ -2680,7 +2680,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     
     <rule comment="REGLA: almmá-adv = almmá stáhta doarjaga">
       <pattern>
-        <pattern-item n="almmá"/>
+        <pattern-item n="almmá_adv"/>
         <pattern-item n="attr"/>
         <pattern-item n="H_advl"/>
       </pattern>
@@ -2710,10 +2710,10 @@ t5x move foc_tag from wordfoc chunk to the word inside
     
     <rule comment="REGLA: almmá haga-po = almmá stáhta doarjaga haga">
       <pattern>
-        <pattern-item n="almmá"/>
+        <pattern-item n="almmá_adv"/>
         <pattern-item n="attr"/>
         <pattern-item n="n-sg-pl-gen"/>
-        <pattern-item n="haga"/>
+        <pattern-item n="haga_post"/>
       </pattern>
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="2"/></call-macro>
@@ -2744,7 +2744,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <rule comment="REGLA: haga-po = Sii manne gápmagiid haga olggos. Te monnii kammuittáá olgos.">
       <pattern>
         <pattern-item n="n-sg-pl-gen"/>
-        <pattern-item n="haga"/>
+        <pattern-item n="haga_post"/>
       </pattern>
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
@@ -2768,7 +2768,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: nubbi beallai = rájá nuppe beallái – rääji nubebel">
       <pattern>
-        <pattern-item n="nubbi"/>
+        <pattern-item n="nubbi_prn"/>
         <pattern-item n="beallai"/>
       </pattern>
       <action>
@@ -2792,8 +2792,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: guovtti láhkái - kyevtináál">
       <pattern>
-        <pattern-item n="guokte"/>
-        <pattern-item n="láhki"/>
+        <pattern-item n="guokte_num"/>
+        <pattern-item n="láhki_n"/>
       </pattern>
       <action>
         <let><clip pos="1" side="tl" part="lem"/><lit v="kyevtináál"/></let>
@@ -2894,7 +2894,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <rule comment="REGLA: ja maiddái = ja maiddái. sehe">
       <pattern>
 	<pattern-item n="ja"/>
-	<pattern-item n="maiddái"/>
+	<pattern-item n="maiddái_adv"/>
       </pattern>
       <action>
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
@@ -2917,8 +2917,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: kamâdâttâđ = mun coggan skuovaid : mun kamâdâttâm">
       <pattern>
-    	<pattern-item n="coggat"/>
-    	<pattern-item n="shoes"/>
+    	<pattern-item n="coggat_vblex"/>
+    	<pattern-item n="shoe_n"/>
       </pattern>
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
@@ -4050,8 +4050,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: buorre attr"> <!-- Giittos eatnat  -->
       <pattern>
-        <pattern-item n="giittos"/>
-        <pattern-item n="eatnat"/>
+        <pattern-item n="giittos_n"/>
+        <pattern-item n="eatnat_adv"/>
       </pattern>
       <action>
         <let><clip pos="1" side="tl" part="tags"/><lit-tag v="n.sg.acc"/></let>
@@ -4077,7 +4077,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
     <rule comment="REGLA: ovdâmerkkân c='ovdamearkka dihtii - ovdâmerkkân">
       <pattern>
-        <pattern-item n="ovdamearka"/>
+        <pattern-item n="ovdamearka_n"/>
         <pattern-item n="dihte"/>
       </pattern>
       <action>
@@ -4102,7 +4102,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: vuostáiváldit - väldiđ vuástá">
       <pattern>
-        <pattern-item n="vuástá-verb"/>
+        <pattern-item n="vuostáiváldit_vblex"/>
       </pattern>
       <action>
 	<call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
@@ -4154,7 +4154,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: álkidahttit - toohâđ älkkeebin">
       <pattern>
-        <pattern-item n="älkkeebin-verb"/>
+        <pattern-item n="álkidahttit_vblex"/>
       </pattern>
       <action>
 	<call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
@@ -4180,7 +4180,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: ovttasbargat - porgâđ ovttâst">
       <pattern>
-        <pattern-item n="ovttâst-verb"/>
+        <pattern-item n="ovttasbargat_vblex"/>
       </pattern>
       <action>
 	<call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
@@ -4206,7 +4206,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: ođđasisorganiseret - orniđ uđđâsist">
       <pattern>
-        <pattern-item n="uđđâsist-verb"/>
+        <pattern-item n="ođđasisorganiseret_vblex"/>
       </pattern>
       <action>
 	<call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
