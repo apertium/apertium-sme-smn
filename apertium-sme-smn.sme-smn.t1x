@@ -21,49 +21,49 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="prn.*"/>
     </def-cat>
 
-    <def-cat n="prn-rel">
+    <def-cat n="prn_rel">
       <cat-item tags="prn.rel.*"/>
     </def-cat>
 
-    <def-cat n="prn-res">
+    <def-cat n="prn_res">
       <cat-item tags="prn.res.*"/>
     </def-cat>
 
-    <def-cat n="prn-pers">
+    <def-cat n="prn_pers">
       <cat-item tags="prn.pers.*"/>
     </def-cat>
 
-    <def-cat n="prn-pers-gen">
+    <def-cat n="prn_pers_gen">
       <cat-item tags="prn.pers.*.gen.*"/>
     </def-cat>
 
-    <def-cat n="prn-pers-acc">
+    <def-cat n="prn_pers_acc">
       <cat-item tags="prn.pers.*.acc.*"/>
     </def-cat>
 
-    <def-cat n="prn-dem">
+    <def-cat n="prn_dem">
       <cat-item tags="prn.dem.*"/>
     </def-cat>
 
-    <def-cat n="prn-refl">
+    <def-cat n="prn_refl">
       <cat-item tags="prn.ref.*"/>
     </def-cat>
 
-    <def-cat n="prn-itg">
+    <def-cat n="prn_itg">
       <cat-item tags="prn.itg.*"/>
     </def-cat>
 
-    <def-cat n="prn-ind">
+    <def-cat n="prn_ind">
       <cat-item tags="prn.ind.*"/>
     </def-cat>
 
-    <def-cat n="prn-attr">
+    <def-cat n="prn_attr">
       <cat-item tags="prn.ind.attr"/>
       <cat-item tags="prn.ind.attr.*"/>
       <cat-item tags="prn.itg.attr.*"/>
     </def-cat>
 
-    <def-cat n="prn-dem-sg">
+    <def-cat n="prn_dem_sg">
       <cat-item tags="prn.dem.sg.*"/>
     </def-cat>
 
@@ -71,21 +71,21 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="num.*"/>
     </def-cat>
 
-    <def-cat n="num-cmp">
+    <def-cat n="num_cmp">
       <cat-item tags="num.cmp"/>
       <cat-item tags="num.cmp.guio"/>
       <cat-item tags="num.cmp_sggen.cmp"/>
       <cat-item tags="num.cmp_plgen.cmp"/>
     </def-cat>
 
-    <def-cat n="num-nomacc">
+    <def-cat n="num_nomacc">
       <cat-item tags="num.sg.nom.*"/>
       <cat-item tags="num.sg.acc.*"/>
       <cat-item tags="num.arab.sg.nom.*"/>
       <cat-item tags="num.arab.sg.acc.*"/>
     </def-cat>
 
-    <def-cat n="num-ldep">
+    <def-cat n="num_ldep">
       <cat-item tags="num.*.@N←"/>
       <cat-item tags="num.*.*.@N←"/>
       <cat-item tags="num.*.*.*.@N←"/>
@@ -112,7 +112,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="*.cmp_sgnom.cmp_splitr.*"/>
     </def-cat>
 
-    <def-cat n="n-cmp">
+    <def-cat n="n_cmp">
       <cat-item tags="*.cmp.guio"/>
       <cat-item tags="*.cmp"/>
       <cat-item tags="np.*.cmp_sgnom.cmp.guio"/>
@@ -132,7 +132,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="vblex.*.der_nomag.n.*.cmp"/>
     </def-cat>
 
-    <def-cat n="nom-gen">
+    <def-cat n="nom_gen">
       <cat-item tags="n.*.sg.gen.*"/>
       <cat-item tags="n.*.pl.gen.*"/>
       <cat-item tags="n.*.*.sg.gen.*"/>
@@ -154,7 +154,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="prn.dem.pl.gen.*"/>
     </def-cat>
 
-    <def-cat n="n-not-cmp">
+    <def-cat n="n_not_cmp">
       <cat-item tags="n.*.sg.*"/>
       <cat-item tags="n.*.pl.*"/>
       <cat-item tags="n.*.ess.*"/>
@@ -168,7 +168,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="np.*.*.pl.*"/>
     </def-cat>
 
-    <def-cat n="n-sg-nom">
+    <def-cat n="n_sg_nom">
       <cat-item tags="np.*.*.sg.nom.*"/>
       <cat-item tags="np.*.sg.nom.*"/>
       <cat-item tags="np.sg.nom.*"/>
@@ -195,11 +195,11 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="*.attr"/>
     </def-cat>
 
-    <def-cat n="verb-inf">
+    <def-cat n="verb_inf">
       <cat-item tags="vblex.*.inf.*"/>
     </def-cat>
 
-    <def-cat n="verb-fin">
+    <def-cat n="verb_fin">
       <cat-item tags="vblex.*.indic.*"/>
       <cat-item tags="vblex.*.cond.*"/>
       <cat-item tags="vblex.*.pot.*"/>
@@ -212,28 +212,28 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item lemma="ii" tags="vblex.iv.neg.indic.*"/>
     </def-cat>
 
-    <def-cat n="verb-prfprc">
+    <def-cat n="verb_prfprc">
       <cat-item tags="*.prfprc.*"/>
     </def-cat>
 
-    <def-cat n="leat-main-fin">
+    <def-cat n="leat_main_fin">
       <cat-item lemma="leat" tags="*.@+FMAINV"/>
     </def-cat>
 
-    <def-cat n="leat-aux">
+    <def-cat n="leat_aux">
       <cat-item lemma="leat" tags="*.@+FAUXV"/>
       <cat-item lemma="leat" tags="*.@-FAUXV"/>
     </def-cat>
 
-    <def-cat n="prop-nom">
+    <def-cat n="prop_nom">
       <cat-item tags="np.*.sg.nom.*"/>
     </def-cat>
 
-    <def-cat n="prop-attr">
+    <def-cat n="prop_attr">
       <cat-item tags="np.*.attr.*"/>
     </def-cat>
 
-    <def-cat n="prop-cmp">
+    <def-cat n="prop_cmp">
       <cat-item tags="np.*.cmp"/>
       <cat-item tags="np.*.*.cmp"/>
       <cat-item tags="np.*.*.*.cmp"/>
@@ -305,7 +305,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="*.gen.*"/>
     </def-cat>
 
-    <def-cat n="dat-pcle">
+    <def-cat n="dat_pcle">
       <cat-item lemma="dat" tags="pcle.*"/>
     </def-cat>
 
@@ -385,7 +385,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item lemma="geatnegahttojuvvon" tags="adj.*"/>
     </def-cat>
 
-    <def-cat n="mielde-adv">
+    <def-cat n="mielde_adv">
       <cat-item lemma="mielde" tags="adv.*"/>
     </def-cat>
 
@@ -424,7 +424,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item lemma="geahčen" tags="post.*"/>
     </def-cat>
 
-    <def-cat n="mielde-post">
+    <def-cat n="mielde_post">
       <cat-item lemma="mielde" tags="post.*"/>
     </def-cat>
 
@@ -445,16 +445,16 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item lemma="fápmu" tags="n.*.sg.ill.*"/>
     </def-cat>
 
-    <def-cat n="go-qst">
+    <def-cat n="go_qst">
       <cat-item lemma="go" tags="pcle.qst.*"/>
     </def-cat>
 
-    <def-cat n="go-cnjsub">
+    <def-cat n="go_cnjsub">
       <cat-item lemma="go" tags="cnjsub"/>
       <cat-item lemma="go" tags="cnjsub.*"/>
     </def-cat>
 
-    <def-cat n="bealis-px">
+    <def-cat n="bealis_px">
       <cat-item lemma="bealis" tags="adv.px1sg.*"/>
       <cat-item lemma="bealis" tags="adv.px2sg.*"/>
       <cat-item lemma="bealis" tags="adv.px3sg.*"/>
@@ -512,7 +512,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="vblex.*"/>
     </def-cat>
 
-    <def-cat n="vp-boundary">
+    <def-cat n="vp_boundary">
       <cat-item tags="cm"/>
       <cat-item tags="sent"/>
       <cat-item tags="cnjcoo.@CVP"/>
@@ -2195,7 +2195,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <rule comment="REGLA: vblex go-qst Boahtá go? → Puátá-uv?">
       <pattern>
         <pattern-item n="verb"/>
-        <pattern-item n="go-qst"/>
+        <pattern-item n="go_qst"/>
       </pattern>
       <action>
         <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
@@ -2462,7 +2462,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: birra-loc"> <!-- Sii hupmet nieidda birra. Sij sárnuh nieidâst. -->
       <pattern>
-        <pattern-item n="nom-gen"/>
+        <pattern-item n="nom_gen"/>
         <pattern-item n="birra_post"/>
       </pattern>
       <action>
@@ -2513,7 +2513,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <rule comment="REGLA: birra-loc = diehtu Sámedikki birra - Loc"> <!-- perhaps all nouns -->
       <pattern>
         <pattern-item n="noun"/>
-        <pattern-item n="nom-gen"/>
+        <pattern-item n="nom_gen"/>
         <pattern-item n="birra_post"/>
       </pattern>
       <action>
@@ -2553,7 +2553,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <rule comment="REGLA: refl-gen mielde = Ean fuola su iežame mielde. - Iän huolâ suu fárusân.">
       <pattern>
         <pattern-item n="prnrefgen"/>
-        <pattern-item n="mielde-post"/>
+        <pattern-item n="mielde_post"/>
       </pattern>
       <action>
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
@@ -2856,7 +2856,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: jagi boaris = Son lea guhtta jagi boaris. Sun lii kuuđâ ihásâš.">
       <pattern>
-        <pattern-item n="num-nomacc"/>
+        <pattern-item n="num_nomacc"/>
         <pattern-item n="jahki_n_gen"/>
         <pattern-item n="boaris_adj"/>
       </pattern>
@@ -2944,8 +2944,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <rule comment="REGLA: liikot-actioill = Mun liikon lohkat. Mun lijkkuum luhâmân."> 
       <pattern>
         <pattern-item n="liikot_vblex"/>
-        <pattern-item n="verb-inf"/>
-        <pattern-item n="vp-boundary"/>
+        <pattern-item n="verb_inf"/>
+        <pattern-item n="vp_boundary"/>
       </pattern>
       <action>
         <let><clip pos="2" side="tl" part="tags"/><lit-tag v="vblex.actio.ill"/></let>
@@ -3001,7 +3001,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: num-nomacc n-sg to n-par = Son oastá čieža láibbi. Sun uástá čiččâm leibid.">
       <pattern>
-        <pattern-item n="num-nomacc"/>
+        <pattern-item n="num_nomacc"/>
         <pattern-item n="n-sg-accgen"/>
       </pattern>
       <action>
@@ -3105,7 +3105,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
  
     <rule comment="REGLA: num-cmp numerals n-sg to n-par = Son oastá 10-12 láibbi. Sun uástá 10-12 leibid.">
       <pattern>
-        <pattern-item n="num-cmp"/>
+        <pattern-item n="num_cmp"/>
         <pattern-item n="numeral"/>
         <pattern-item n="n-sg-accgen"/>
       </pattern>
@@ -3150,7 +3150,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
  <rule comment="REGLA: num-nomacc attr n-sg  to n-par"> <!--  Mus leat čieža njálgga láibbi. Must láá čiččâm njaalgâ leibid. -->
       <pattern>
-        <pattern-item n="num-nomacc"/>
+        <pattern-item n="num_nomacc"/>
         <pattern-item n="adjattr-pos"/>
         <pattern-item n="n-sg-accgen"/>
       </pattern>
@@ -3192,7 +3192,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: dem numsg noun - 3 positions out"> <!-- Mun vááldám täid kulmâ kirje. -->
       <pattern>
-        <pattern-item n="prn-dem-sg"/>
+        <pattern-item n="prn_dem_sg"/>
         <pattern-item n="numeral"/>
         <pattern-item n="noun"/>
       </pattern>
@@ -3240,7 +3240,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: num-nomacc adv attr n-sg to n-par"> <!--  Mus leat čieža hui njálgga láibbi. , does not function  -->
       <pattern>
-        <pattern-item n="num-nomacc"/>
+        <pattern-item n="num_nomacc"/>
         <pattern-item n="adv"/>
         <pattern-item n="adjattr-pos"/>
         <pattern-item n="n-sg-accgen"/>
