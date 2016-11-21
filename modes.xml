@@ -621,7 +621,7 @@
     </pipeline>
   </mode>
 
-  <mode name="smn-sme" install="no">
+  <mode name="smn-sme" install="yes">
     <pipeline>
       <program name="hfst-proc --weight-classes 1 -w -e">
         <file name="smn-sme.automorf.hfst"/>
