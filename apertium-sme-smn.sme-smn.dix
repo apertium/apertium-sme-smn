@@ -109,6 +109,7 @@
     <e><p><l>ja<s n="cnjcoo"/></l><r>já<s n="cnjcoo"/></r></p></e>
     <e><p><l>muhte<s n="cnjcoo"/></l><r>mut<s n="cnjcoo"/></r></p></e>
     <e><p><l>muhto<s n="cnjcoo"/></l><r>mut<s n="cnjcoo"/></r></p></e>
+    <e r="RL"><p><l>muhto<s n="cnjcoo"/></l><r>mutâ<s n="cnjsub"/></r></p></e>
 <!--    <e><p><l>sihke<s n="cnjcoo"/></l><r>sehe<s n="cnjcoo"/></r></p></e> xxx not cnjcoo in sme -->
     <e><p><l>vai<s n="cnjcoo"/></l><r>vâi<s n="cnjcoo"/></r></p></e>
 
@@ -119,14 +120,14 @@
     <e><p><l>dego<s n="cnjsub"/></l><r>tegu<s n="cnjsub"/></r></p></e>
     <e><p><l>go<s n="cnjsub"/></l><r>ko<s n="cnjsub"/></r></p></e><!-- check-->
     <e><p><l>jos<s n="cnjsub"/></l><r>jis<s n="cnjsub"/></r></p></e>
-    <e><p><l>juos<s n="cnjsub"/></l><r>jis<s n="cnjsub"/></r></p></e>
-    <e><p><l>jus<s n="cnjsub"/></l><r>jis<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>juos<s n="cnjsub"/></l><r>jis<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>jus<s n="cnjsub"/></l><r>jis<s n="cnjsub"/></r></p></e>
     <e><p><l>nugo<s n="cnjsub"/></l><r>nuuvtko<s n="cnjsub"/></r></p></e>
     <e><p><l>ovdalgo<s n="cnjsub"/></l><r>ovdilgo<s n="cnjsub"/></r></p></e>
     <e><p><l>vai<s n="cnjsub"/></l><r>vâi<s n="cnjcoo"/></r></p></e>
-    <e><p><l>vaikke<s n="cnjsub"/></l><r>veikkâ<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>vaikke<s n="cnjsub"/></l><r>veikkâ<s n="cnjsub"/></r></p></e>
     <e><p><l>vaikko<s n="cnjsub"/></l><r>veikkâ<s n="cnjsub"/></r></p></e>
-    <e><p><l>váikko<s n="cnjsub"/></l><r>veikkâ<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>váikko<s n="cnjsub"/></l><r>veikkâ<s n="cnjsub"/></r></p></e>
     <e><p><l>dassážii<b/>go<s n="cnjsub"/></l><r>tassaaš<b/>ko<s n="cnjsub"/></r></p></e>
 
     
@@ -163,7 +164,7 @@
     <e><p><l>juohke<s n="prn"/></l><r>jyehi<s n="prn"/></r></p></e>
     <e><p><l>mihkke<s n="prn"/></l><r>mihheen<s n="prn"/></r></p></e>
     <e><p><l>muhtun<s n="prn"/></l><r>mottoom<s n="prn"/></r></p></e>
-    <e><p><l>muhtin<s n="prn"/></l><r>mottoom<s n="prn"/></r></p></e>
+    <e r="LR"><p><l>muhtin<s n="prn"/></l><r>mottoom<s n="prn"/></r></p></e>
     <e><p><l>veaháš<s n="prn"/><s n="ind"/><s n="attr"/></l><r>váhá<s n="adv"/></r></p></e>
     <e><p><l>goappašagat<s n="prn"/></l><r>kuohtuuh<s n="prn"/></r></p></e>
     <e><p><l>guktot<s n="prn"/></l><r>kuohtuuh<s n="prn"/></r></p></e>
@@ -176,18 +177,18 @@
     <e><p><l>iešguhtet<s n="prn"/><s n="ind"/></l><r>sierâ<s n="adj"/></r></p></e>
     <e><p><l>diekkár<s n="prn"/></l><r>tieggáár<s n="prn"/></r></p></e>
     <e><p><l>juohkehaš<s n="prn"/></l><r>juáháš<s n="prn"/></r></p></e>
-    <e><p><l>eanas<s n="prn"/></l><r>iänááš<s n="prn"/></r></p></e>
+    <e r="LR"><p><l>eanas<s n="prn"/></l><r>iänááš<s n="prn"/></r></p></e>
     <e><p><l>eanaš<s n="prn"/></l><r>iänááš<s n="prn"/></r></p></e>
     <e><p><l>eatnagat<s n="prn"/></l><r>iänááš<s n="prn"/></r></p></e>
 <!--    <e><p><l>guhtege<s n="prn"/><s n="ind"/><s n="sg"/><s n="acc"/></l><r>jyehi<s n="prn"/><s n="ind"/><s n="attr"/></r></p></e>-->
     <e><p><l>goappašat<s n="prn"/></l><r>kuohtuuh<s n="prn"/></r></p></e>
     <e><p><l>goappaš<s n="prn"/></l><r>kuábáš<s n="prn"/></r></p></e>
-    <e><p><l>dakkáraš<s n="prn"/></l><r>taggaar<s n="prn"/></r></p></e>
-    <e><p><l>makkáraš<s n="prn"/></l><r>maggaar<s n="prn"/></r></p></e>
+    <e r="LR"><p><l>dakkáraš<s n="prn"/></l><r>taggaar<s n="prn"/></r></p></e>
+    <e r="LR"><p><l>makkáraš<s n="prn"/></l><r>maggaar<s n="prn"/></r></p></e>
     <e><p><l>goabbat<s n="prn"/></l><r>kuábáš-uv<s n="prn"/></r></p></e>
     <e><p><l>guhtemuš<s n="prn"/></l><r>kotemuš<s n="prn"/></r></p></e>
     <e><p><l>ollugat<s n="prn"/></l><r>maŋgâ<s n="prn"/></r></p></e>
-    <e><p><l>juobbá<s n="prn"/></l><r>nubbe<s n="prn"/></r></p></e>
+    <e r="LR"><p><l>juobbá<s n="prn"/></l><r>nubbe<s n="prn"/></r></p></e>
     <e><p><l>juobbágoabbá<s n="prn"/></l><r>juábáškuábáš<s n="prn"/></r></p></e>
 <!-- pronouns moved up from B-Chapter: -->
     <e><p><l>dakkár<s n="prn"/></l><r>taggaar<s n="prn"/></r></p></e>
@@ -246,9 +247,9 @@
     <e><p><l>vuollil<s n="pr"/></l><r>vuálá<s n="post"/></r></p></e>
     <e><p><l>maŋŋel<s n="pr"/></l><r>maŋa<s n="post"/></r></p></e>
     <e><p><l>gaskal<s n="pr"/></l><r>kooskâst<s n="post"/></r></p></e>
-    <e><p><l>gaskkal<s n="pr"/></l><r>kooskâst<s n="post"/></r></p></e>
+    <e r="LR"><p><l>gaskkal<s n="pr"/></l><r>kooskâst<s n="post"/></r></p></e>
     <e><p><l>birra<s n="pr"/></l><r>pirrâ<s n="post"/></r></p></e>
-    <e><p><l>birra<s n="pr"/></l><r>miätá<s n="post"/></r></p></e>
+    <e r="LR"><p><l>birra<s n="pr"/></l><r>miätá<s n="post"/></r></p></e>
     <e><p><l>miehtá<s n="pr"/></l><r>miätá<s n="pr"/></r></p></e>
     <e><p><l>olggobealde<s n="pr"/></l><r>ulguubeln<s n="pr"/></r></p></e>
     <e><p><l>olggobealde<s n="adv"/></l><r>ulguubeln<s n="adv"/></r></p></e>
@@ -277,7 +278,7 @@
     <e><p><l>gurrii<s n="post"/></l><r>piällás<s n="post"/></r></p></e>
     <e><p><l>háldui<s n="post"/></l><r>haaldun<s n="post"/></r></p></e> 
     <e><p><l>lusa<s n="post"/></l><r>luusâ<s n="post"/></r></p></e>
-    <e><p><l>maŋŋel<s n="post"/></l><r>maŋa<s n="post"/></r></p></e>
+    <e r="LR"><p><l>maŋŋel<s n="post"/></l><r>maŋa<s n="post"/></r></p></e>
     <e><p><l>maŋŋá<s n="post"/></l><r>maŋa<s n="post"/></r></p></e>
     <e><p><l>mielde<s n="post"/></l><r>mield<s n="post"/></r></p></e>
     <e><p><l>mielde<s n="post"/></l><r>fáárun<s n="post"/></r></p></e>
@@ -302,7 +303,7 @@
 <!-- Moved from the bottom up here,  -->
 
     <e><p><l>duohkái<s n="post"/></l><r>tuáhá<s n="post"/></r></p></e>
-    <e><p><l>duohkai<s n="post"/></l><r>tuáhá<s n="post"/></r></p></e>
+    <e r="LR"><p><l>duohkai<s n="post"/></l><r>tuáhá<s n="post"/></r></p></e>
     <e><p><l>fárus<s n="post"/></l><r>fáárust<s n="post"/></r></p></e>
     <e><p><l>gaskkas<s n="post"/></l><r>kooskâst<s n="post"/></r></p></e>
     <e><p><l>guvlui<s n="post"/></l><r>kulij<s n="post"/></r></p></e>
@@ -315,7 +316,7 @@
     <!-- ASECTION: Particles -->
 
     <e><p><l>ba<s n="pcle"/></l><r>ba<s n="foc_ba"/></r></p></e>
-    <e><p><l>hás<s n="pcle"/></l><r>ama<s n="pcle"/></r></p></e>
+    <e r="LR"><p><l>hás<s n="pcle"/></l><r>ama<s n="pcle"/></r></p></e>
     <e><p><l>amma<s n="pcle"/></l><r>ama<s n="pcle"/></r></p></e>
     <e><p><l>bat<s n="pcle"/></l><r>ba<s n="foc_ba"/></r></p></e>
     <e><p><l>ge<s n="pcle"/></l><r>-uv<s n="foc_uv"/></r></p></e> <!-- in positive sentences -->
@@ -329,7 +330,7 @@
     <e><p><l>nai<s n="pcle"/></l><r>-uv<s n="foc_uv"/></r></p></e>
     <e><p><l>nu<s n="pcle"/></l><r>nii<s n="foc_nii"/></r></p></e>
     <e><p><l>son<s n="pcle"/></l><r>sun<s n="foc_sun"/></r></p></e>
-    <e><p><l>goittotge<s n="pcle"/></l><r>kuittâg<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>goittotge<s n="pcle"/></l><r>kuittâg<s n="adv"/></r></p></e>
     <e><p><l>goittot<s n="pcle"/></l><r>kuittâg<s n="adv"/></r></p></e>
 
 
@@ -8521,6 +8522,7 @@
     <e><p><l>geahpidit<s n="vblex"/><s n="tv"/></l><r>kepidiđ<s n="vblex"/></r></p></e>
     <e><p><l>geahččaladdat<s n="vblex"/><s n="tv"/></l><r>keččâlâddâđ<s n="vblex"/></r></p></e>
     <e><p><l>geahččalit<s n="vblex"/><s n="tv"/></l><r>keččâliđ<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>geahččalit<s n="vblex"/><s n="tv"/></l><r>irâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>geardduhit<s n="vblex"/><s n="tv"/></l><r>kiärduttiđ<s n="vblex"/></r></p></e>
     <e><p><l>geassit<s n="vblex"/><s n="tv"/></l><r>keessiđ<s n="vblex"/></r></p></e>
     <e><p><l>geasuhit<s n="vblex"/><s n="tv"/></l><r>kiäsuttiđ<s n="vblex"/></r></p></e>
