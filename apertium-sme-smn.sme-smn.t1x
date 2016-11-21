@@ -330,17 +330,17 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item lemma="ahte" tags="cnjcoo"/>
     </def-cat>
 
-    <def-cat n="jagis">
+    <def-cat n="jahki_n_loc">
       <cat-item lemma="jahki" tags="n.*.sg.loc.*"/>
       <cat-item lemma="jahki" tags="n.sg.loc.*"/>
     </def-cat>
 
-    <def-cat n="jagi">
+    <def-cat n="jahki_n_gen">
       <cat-item lemma="jahki" tags="n.*.sg.gen.*"/>
       <cat-item lemma="jahki" tags="n.sg.gen.*"/>
     </def-cat>
 
-    <def-cat n="mánnu">
+    <def-cat n="months_n">
       <cat-item lemma="ođđajagemánnu" tags="n.*"/>
       <cat-item lemma="guovvamánnu" tags="n.*"/>
       <cat-item lemma="njukčamánnu" tags="n.*"/>
@@ -360,27 +360,27 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="*.sem_year.sg"/>
     </def-cat>
 
-    <def-cat n="áigi">
+    <def-cat n="áigi_n">
       <cat-item lemma="áigi" tags="n.*"/>
     </def-cat>
 
-    <def-cat n="ge">
+    <def-cat n="ge_pcle">
       <cat-item lemma="ge" tags="pcle.*"/>
     </def-cat>
 
-    <def-cat n="boaris">
+    <def-cat n="boaris_adj">
       <cat-item lemma="boaris" tags="adj.*"/>
     </def-cat>
 
-    <def-cat n="buorre">
+    <def-cat n="buorre_adj">
       <cat-item lemma="buorre" tags="adj.*.@→N"/>
     </def-cat>
 
-    <def-cat n="guhkki">
+    <def-cat n="guhkki_adj">
       <cat-item lemma="guhkki" tags="adj.*"/>
     </def-cat>
 
-    <def-cat n="geatnegahtton">
+    <def-cat n="geatnegahtton_adj">
       <cat-item lemma="geatnegahtton" tags="adj.*"/>
       <cat-item lemma="geatnegahttojuvvon" tags="adj.*"/>
     </def-cat>
@@ -389,38 +389,38 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item lemma="mielde" tags="adv.*"/>
     </def-cat>
 
-    <def-cat n="fárrui">
+    <def-cat n="fárrui_post">
       <cat-item lemma="fárrui" tags="adv.*"/>
     </def-cat>
 
-    <def-cat n="dihte">
+    <def-cat n="dihte_post">
       <cat-item lemma="dihte" tags="post.*"/>
       <cat-item lemma="dihtii" tags="post.*"/>
     </def-cat>
 
-    <def-cat n="miehtá">
+    <def-cat n="miehtá_adp">
       <cat-item lemma="miehtá" tags="pr.*"/>
       <cat-item lemma="miehtá" tags="post.*"/>
     </def-cat>
 
-    <def-cat n="váste">
+    <def-cat n="váste_post">
       <cat-item lemma="váste" tags="post.*"/>
       <cat-item lemma="várás" tags="post.*"/>
     </def-cat>
 
-    <def-cat n="birra-po">
+    <def-cat n="birra_post">
       <cat-item lemma="birra" tags="post.*"/>
     </def-cat>
 
-    <def-cat n="vuollai">
+    <def-cat n="vuollai_post">
       <cat-item lemma="vuollai" tags="post.*"/>
     </def-cat>
 
-    <def-cat n="sisa">
+    <def-cat n="sisa_post">
       <cat-item lemma="sisa" tags="post.*"/>
     </def-cat>
 
-    <def-cat n="geahčen">
+    <def-cat n="geahčen_post">
       <cat-item lemma="geahčen" tags="post.*"/>
     </def-cat>
 
@@ -428,20 +428,20 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item lemma="mielde" tags="post.*"/>
     </def-cat>
 
-    <def-cat n="bokte">
+    <def-cat n="bokte_post">
       <cat-item lemma="bokte" tags="post.*"/>
       <cat-item lemma="bakte" tags="post.*"/>
     </def-cat>
 
-    <def-cat n="beallai">
+    <def-cat n="beallai_post">
       <cat-item lemma="beallai" tags="post.*"/>
     </def-cat>
 
-    <def-cat n="birra-adv">
+    <def-cat n="birra_adv">
       <cat-item lemma="birra" tags="adv.*"/>
     </def-cat>
 
-    <def-cat n="fápmui">
+    <def-cat n="fápmu_n_ill">
       <cat-item lemma="fápmu" tags="n.*.sg.ill.*"/>
     </def-cat>
 
@@ -466,15 +466,15 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item lemma="bealis" tags="adv.px3pl.*"/>
     </def-cat>
 
-    <def-cat n="liikotverb">
+    <def-cat n="liikot_vblex">
       <cat-item lemma="liikot" tags="vblex.*"/>
     </def-cat>
 
-    <def-cat n="geahččatverb">
+    <def-cat n="geahččat_vblex">
       <cat-item lemma="geahččat" tags="vblex.*"/>
     </def-cat>
 
-    <def-cat n="váikkuhitverb">
+    <def-cat n="váikkuhit_vblex">
        <cat-item lemma="váikkuhit" tags="vblex.*"/>
     </def-cat>
 
@@ -482,11 +482,11 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item lemma="boahtit" tags="vblex.*"/>
     </def-cat>
 
-    <def-cat n="beassatverb">
+    <def-cat n="beassat_vblex">
       <cat-item lemma="beassat" tags="vblex.iv.*"/>
     </def-cat>
 
-    <def-cat n="hupmatverb">
+    <def-cat n="speech_vblex">
       <cat-item lemma="hupmat" tags="vblex.*"/>
       <cat-item lemma="hállat" tags="vblex.*"/>
       <cat-item lemma="muitalit" tags="vblex.*"/>
@@ -2463,7 +2463,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <rule comment="REGLA: birra-loc"> <!-- Sii hupmet nieidda birra. Sij sárnuh nieidâst. -->
       <pattern>
         <pattern-item n="nom-gen"/>
-        <pattern-item n="birra-po"/>
+        <pattern-item n="birra_post"/>
       </pattern>
       <action>
         <call-macro n="general-macro-2Param">
@@ -2514,7 +2514,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <pattern>
         <pattern-item n="noun"/>
         <pattern-item n="nom-gen"/>
-        <pattern-item n="birra-po"/>
+        <pattern-item n="birra_post"/>
       </pattern>
       <action>
         <call-macro n="general-macro-3Param">
@@ -2769,7 +2769,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <rule comment="REGLA: nubbi beallai = rájá nuppe beallái – rääji nubebel">
       <pattern>
         <pattern-item n="nubbi_prn"/>
-        <pattern-item n="beallai"/>
+        <pattern-item n="beallai_post"/>
       </pattern>
       <action>
         <let><clip pos="1" side="tl" part="lem"/><lit v="nubebel"/></let>
@@ -2819,8 +2819,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
     
     <rule comment="REGLA: birra-px = Son geahččá birra. Sun kiäččá pirrâsis.">
       <pattern>
-        <pattern-item n="geahččatverb"/>
-        <pattern-item n="birra-adv"/>
+        <pattern-item n="geahččat_vblex"/>
+        <pattern-item n="birra_adv"/>
       </pattern>
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
@@ -2857,8 +2857,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <rule comment="REGLA: jagi boaris = Son lea guhtta jagi boaris. Sun lii kuuđâ ihásâš.">
       <pattern>
         <pattern-item n="num-nomacc"/>
-        <pattern-item n="jagi"/>
-        <pattern-item n="boaris"/>
+        <pattern-item n="jahki_n_gen"/>
+        <pattern-item n="boaris_adj"/>
       </pattern>
       <action>
         <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
@@ -2943,7 +2943,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: liikot-actioill = Mun liikon lohkat. Mun lijkkuum luhâmân."> 
       <pattern>
-        <pattern-item n="liikotverb"/>
+        <pattern-item n="liikot_vblex"/>
         <pattern-item n="verb-inf"/>
         <pattern-item n="vp-boundary"/>
       </pattern>
@@ -3078,7 +3078,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
    <rule comment="REGLA: year - 2 position in-out"> <!-- ive 2013 -->
       <pattern>
-        <pattern-item n="jagis"/>
+        <pattern-item n="jahki_n_loc"/>
         <pattern-item n="semyear"/>
       </pattern>
       <action>
@@ -4078,7 +4078,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <rule comment="REGLA: ovdâmerkkân c='ovdamearkka dihtii - ovdâmerkkân">
       <pattern>
         <pattern-item n="ovdamearka_n"/>
-        <pattern-item n="dihte"/>
+        <pattern-item n="dihte_post"/>
       </pattern>
       <action>
         <let><clip pos="1" side="tl" part="tags"/><lit-tag v="n.ess"/></let>
