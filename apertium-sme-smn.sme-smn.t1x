@@ -820,7 +820,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
        <attr-item tags="prn.rel"/>
        <attr-item tags="num"/>
     </def-attr>
-    <def-attr n="qst">
+    <def-attr n="a_qst">
       <attr-item tags="qst"/>
     </def-attr>
     <def-attr n="a_abbr">
@@ -2204,7 +2204,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
           <clip pos="1" side="tl" part="tags"/>
           <concat>
             <clip pos="1" side="tl" part="tags"/>
-            <clip pos="1" side="tl" part="qst"/><lit-tag v="qst"/>
+            <clip pos="1" side="tl" part="a_qst"/><lit-tag v="qst"/>
           </concat>
         </let>
         <out>
