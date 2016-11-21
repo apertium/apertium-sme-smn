@@ -37,69 +37,68 @@ Categories for classification:
 6 = word added
 7 = word deleted
 
-        pivdoelleefaadâr-škoovlâturneest	 |	meccifaadâr-škovlâkolliimijn
-        Meecihaldâttuv	 |	Meccihaldâttâs
-        láá	 |	kolliistâleh
-        taan	 |	oho
-        ohhoost	 |	ääigi
-        joođoost	 |	sämikuávlu
-        sämikuávlust	 |	škoovlâin
-        pivdoelleešoddâdem	 |	muštâlmin
-        aašij	 |	meccišoddâdmist
-        škoovlâturneest	 <
-        toohâm	 |	porgâm
-        movtidiđ	 |	movtáskiđ
-        luándu-	 |	luándun
-        pivdoelleeaššijd	 |	meccijotemân
-        pivdoelleekulttuurân	 |	meccijotteemkulttuurân
-        máttááttâsmateriaal	 |	oppâmateriaal
-        Pivdoelleešoddâdmist	 |	Meccišoddâdmist
-        cuvnii	 |	peeleett
-        hoittáđ	 |	tipšođ
-        kunnijâttoo	 |	annoo
-        Meecihaldâttuv	 |	áárvust
-        koordinistiđ	 |	Meccihaldâttâs
-        riijkâvijđosii	 |	ornim
-        Eräkummit-haavâ	 |	väldikodálâš
-        (	 |	Meccifaddâreh-haahâ
-        Pivdoelleefaddâreh	 <
-        )	 <
-        Meecihaldâttuv	 |	Meecihaldâttâs
-        pivdoelleešoddâdem	 |	meccišoddâdem
-        škoovlâturnee	 |	škovlâkolliimist
-        tuárju	 |	tuárjuh
-        pääččimân	 |	päčimân
-        kyeddilis	 |	pištee
-        liihâdmân	 |	jotemân
-        pessii	 |	peessih
-        maaŋgâpiälálij	 |	maaŋgâpiälásávt
-        Spellâ	 |	Speelâ
-        vuáháduvá	 |	vaigâdvuođâ
-        	 >	puáhtá
-        	 >	vuáháduttiđ
-        koččâmâšâi	 |	muttemáin
-        nubástusâin	 |	koččâmâšâid
-        spelliđ	 |	spellâđ
-        stuáruduv	 <
-        Meecihaldâttuv	 |	Meecihaldâttâs
-        spesialvuávájeijee	 |	anarâškielâ
-        	 >	sárnoo
-        	 >	spesiaalvuávájeijee
-        Ukkos	 |	Ukkonen
-        /	 |	Luándukuávdáš
-        Ukkosii	 <
-        Luándukuávdáá	 <
-        toimâlâš	 |	Toimâliih
-        luándufáádáh	 |	luándufáddásiih
-        Eräkummit-haahâ	 |	Meccifaddâreh-haahâ
-        toimâm	 |	ulmen
-        pivdoelleešoddâdem	 |	meccišoddâdem
-        maaŋgâpiälálij	 |	maaŋgâpiälásávt
-        meccivarriistâllâm	 |	meccijotteem
-        párnáin	 |	párnááh
-        puáđi	 |	šoodâ
-        miäcásteijeeh	 |	miäcásteijen
-        vuáđuaašij	 |	vuáđuaašijd
+1        pivdoelleefaadâr-škoovlâturneest	 |	meccifaadâr-škovlâkolliimijn
+1        Meecihaldâttuv	 |	Meccihaldâttâs
+1        láá	 |	kolliistâleh
+1        taan	 |	oho
+1        ohhoost	 |	ääigi
+1        joođoost	 |	sämikuávlu
+1        sämikuávlust	 |	škoovlâin
+1,3        pivdoelleešoddâdem	 |	muštâlmin
+1,3        aašij	 |	meccišoddâdmist
+7       škoovlâturneest	 <
+1        toohâm	 |	porgâm
+1        movtidiđ	 |	movtáskiđ
+3        luándu-	 |	luándun
+1,3        pivdoelleeaššijd	 |	meccijotemân
+1        pivdoelleekulttuurân	 |	meccijotteemkulttuurân
+1        máttááttâsmateriaal	 |	oppâmateriaal
+1        Pivdoelleešoddâdmist	 |	Meccišoddâdmist
+1,3        cuvnii	 |	peeleett
+1        hoittáđ	 |	tipšođ
+1        kunnijâttoo	 |	annoo
+1,3        Meecihaldâttuv	 |	áárvust
+1,3        koordinistiđ	 |	Meccihaldâttâs
+1,3        riijkâvijđosii	 |	ornim
+1,3        Eräkummit-haavâ	 |	väldikodálâš
+5        (	 |	Meccifaddâreh-haahâ
+5        Pivdoelleefaddâreh	 <
+5        )	 <
+1        Meecihaldâttuv	 |	Meecihaldâttâs
+1        pivdoelleešoddâdem	 |	meccišoddâdem
+1,3        škoovlâturnee	 |	škovlâkolliimist
+3        tuárju	 |	tuárjuh
+2        pääččimân	 |	päčimân
+1        kyeddilis	 |	pištee
+1        liihâdmân	 |	jotemân
+3        pessii	 |	peessih
+3        maaŋgâpiälálij	 |	maaŋgâpiälásávt
+3        Spellâ	 |	Speelâ
+1        vuáháduvá	 |	vaigâdvuođâ
+6        	 >	puáhtá
+6        	 >	vuáháduttiđ
+1,3        koččâmâšâi	 |	muttemáin
+1,3        nubástusâin	 |	koččâmâšâid
+2        spelliđ	 |	spellâđ
+1        Meecihaldâttuv	 |	Meecihaldâttâs
+1        spesialvuávájeijee	 |	anarâškielâ
+6        	 >	sárnoo
+6        	 >	spesiaalvuávájeijee
+3        Ukkos	 |	Ukkonen
+?        /	 |	Luándukuávdáš
+7        Ukkosii	 <
+7        Luándukuávdáá	 <
+3        toimâlâš	 |	Toimâliih
+3        luándufáádáh	 |	luándufáddásiih
+1        Eräkummit-haahâ	 |	Meccifaddâreh-haahâ
+1,3        toimâm	 |	ulmen
+1        pivdoelleešoddâdem	 |	meccišoddâdem
+3        maaŋgâpiälálij	 |	maaŋgâpiälásávt
+1        meccivarriistâllâm	 |	meccijotteem
+3        párnáin	 |	párnááh
+1        puáđi	 |	šoodâ
+3        miäcásteijeeh	 |	miäcásteijen
+3        vuáđuaašij	 |	vuáđuaašijd
         Eanodatlaš	 |	Iänuduvlâš
         suottâsumos	 |	hitruumus
         juuttih	 |	joteh
