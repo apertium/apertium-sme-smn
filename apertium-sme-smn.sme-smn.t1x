@@ -826,7 +826,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-attr n="a_abbr">
       <attr-item tags="abbr"/>
     </def-attr>
-    <def-attr n="a_ntype">
+    <def-attr n="a_n_type">
       <attr-item tags="nomag"/>
     </def-attr>
     <def-attr n="a_mode">
@@ -3015,8 +3015,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
               </and></test>
         <let><clip pos="2" side="tl" part="tags"/>
            <concat>
-            <lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/><lit-tag v="par"/>
-<!--            <lit-tag v="n"/><lit-tag v="abbr"/><clip pos="2" side="tl" part="a_ntype"/><lit-tag v="par"/>-->
+            <lit-tag v="n"/><clip pos="2" side="tl" part="a_n_type"/><lit-tag v="par"/>
+<!--            <lit-tag v="n"/><lit-tag v="abbr"/><clip pos="2" side="tl" part="a_n_type"/><lit-tag v="par"/>-->
             </concat>
        </let>
 
@@ -3116,7 +3116,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
                <not><in><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>
               </and></test>
         <let><clip pos="3" side="tl" part="tags"/>
-        <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let>
+        <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_n_type"/><lit-tag v="par"/></concat></let>
               </when>
          <otherwise>
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
@@ -3163,7 +3163,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
           </and></test>
           <let>
             <clip pos="3" side="tl" part="tags"/>
-            <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_ntype"/><lit-tag v="par"/></concat>
+            <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_n_type"/><lit-tag v="par"/></concat>
           </let>
         </when>
         </choose>
@@ -3254,7 +3254,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
           </and></test>
           <let>
             <clip pos="4" side="tl" part="tags"/>
-            <concat><lit-tag v="n"/><clip pos="4" side="tl" part="a_ntype"/><lit-tag v="par"/></concat>
+            <concat><lit-tag v="n"/><clip pos="4" side="tl" part="a_n_type"/><lit-tag v="par"/></concat>
           </let>
         </when></choose>
         <out>
@@ -3812,7 +3812,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
                 <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test>
                 <let><clip pos="2" side="tl" part="tags"/>
                 <concat>
-                 <lit-tag v="n"/><clip pos="2" side="tl" part="a_ntype"/>
+                 <lit-tag v="n"/><clip pos="2" side="tl" part="a_n_type"/>
                  <lit-tag v="par"/></concat></let>
               </when>
               <otherwise>
@@ -3858,7 +3858,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
        <choose><when>
                 <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test>
                 <let><clip pos="3" side="tl" part="tags"/>
-                <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_ntype"/><lit-tag v="par"/></concat></let>
+                <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_n_type"/><lit-tag v="par"/></concat></let>
               </when>
           <otherwise>
             <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
