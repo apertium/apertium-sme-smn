@@ -550,12 +550,12 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-cat n="dálá_adj">
       <cat-item lemma="dálá" tags="adj.*"/>
     </def-cat>
-    <def-cat n="a-adv-comp">
+    <def-cat n="a_adv_comp">
       <cat-item tags="adv.comp.*"/>
       <cat-item tags="adj.comp.*"/>
       <cat-item tags="adj.*.comp.*"/>
     </def-cat>
-    <def-cat n="semyear-loc">
+    <def-cat n="semyear_loc">
       <cat-item tags="*.sem_year.sg.loc.*"/>
       <cat-item tags="*.sem_year.sg.loc"/>
     </def-cat>
@@ -605,7 +605,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
    <def-cat n="álkidahttit_vblex">
       <cat-item lemma="álkidahttit" tags="vblex.*"/>
     </def-cat>
-   <def-cat n="anon-verb">
+   <def-cat n="anon_verb">
       <cat-item lemma="atnuiváldit" tags="vblex.*"/>
     </def-cat>
    <def-cat n="ovttasbargat_vblex">
@@ -684,17 +684,17 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <cat-item tags="num.sg.*.attr.*"/>
       <cat-item tags="num.sg.attr.*"/>
     </def-cat>
-     <def-cat n="agreement-buot">
+     <def-cat n="agreement_buot">
       <cat-item lemma="buot" tags="prn.ind.attr.*"/>
     </def-cat>
 
-    <def-cat n="n-sg-accgen">
+    <def-cat n="n_sg_accgen">
       <cat-item tags="n.*.sg.gen.*"/>
       <cat-item tags="n.*.*.sg.gen.*"/>
       <cat-item tags="n.*.sg.acc.*"/>
       <cat-item tags="n.*.*.sg.acc.*"/>
    </def-cat>
-    <def-cat n="n-sg-pl-gen">
+    <def-cat n="n_sg_pl_gen">
       <cat-item tags="n.*.sg.gen.*"/>
       <cat-item tags="n.*.pl.gen.*"/>
       <cat-item tags="n.*.*.sg.gen.*"/>
@@ -713,7 +713,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <def-cat n="refcom">
       <cat-item tags="prn.ref.com.*"/>
     </def-cat>
-    <def-cat n="com-ess-verb">
+    <def-cat n="com_ess_verb">
       <cat-item lemma="hállat" tags="vblex.*"/>
       <cat-item lemma="hupmat" tags="vblex.*"/>
       <cat-item lemma="jurddašit" tags="vblex.*"/>
@@ -721,44 +721,44 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </def-cat>
 
 <!-- from sme-nob starts -->
-    <def-cat n="prn-refl_PRONl">
+    <def-cat n="prn_refl_PRONl">
       <cat-item tags="prn.ref.*.@Pron←"/>
     </def-cat>
-    <def-cat n="prn-pl-com">
+    <def-cat n="prn_pl_com">
       <cat-item tags="prn.dem.pl.com.*"/>
       <cat-item tags="prn.itg.pl.com.*"/>
       <cat-item tags="prn.ind.pl.com.*"/>
       <cat-item tags="prn.rel.pl.com.*"/>
     </def-cat>
 
-    <def-cat n="prn-ind-dem">
+    <def-cat n="prn_ind_dem">
       <cat-item tags="prn.ind.*"/>
       <cat-item tags="prn.dem.*"/>
     </def-cat>
 
-    <def-cat n="n-pl-com">
+    <def-cat n="n_pl_com">
 		<cat-item tags="n.*.pl.com.*"/>
 		<cat-item tags="n.pl.com.*"/>
 	</def-cat>
-    <def-cat n="n-sg-com">
+    <def-cat n="n_sg_com">
 		<cat-item tags="n.*.sg.com.*"/>
 		<cat-item tags="n.sg.com.*"/>
 	</def-cat>
 <!-- from sme-nob ends -->
 
-    <def-cat n="adjattr-pos">
+    <def-cat n="adjattr_pos">
       <cat-item tags="adj.*.attr.*"/>
       <cat-item tags="adj.attr.*"/>
       <cat-item tags="*.adj.attr.*"/>
     </def-cat>
-    <def-cat n="adjattr-all">
+    <def-cat n="adjattr_all">
       <cat-item tags="adj.*.attr.*"/>
       <cat-item tags="adj.attr.*"/>
       <cat-item tags="*.adj.attr.*"/>
       <cat-item tags="adj.*.comp.attr.*"/>
       <cat-item tags="adj.*.sup.attr.*"/>
     </def-cat>
-    <def-cat n="prn-adj-attr">
+    <def-cat n="prn_adj_attr">
       <cat-item tags="prn.ind.attr.*"/>
       <cat-item tags="adj.*.attr.*"/>
       <cat-item tags="adj.attr.*"/>
@@ -2436,7 +2436,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <rule comment="REGLA: eanet comp, ex. dálá eanet -- tááláást eenâb ">
       <pattern>
         <pattern-item n="dálá_adj"/>
-        <pattern-item n="a-adv-comp"/>
+        <pattern-item n="a_adv_comp"/>
       </pattern>
       <action>
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
@@ -2605,7 +2605,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <rule comment="REGLA: refl-ess = Soai leaba iežaineaskka jurddašan ahte .. - Suoi lává jiečânis jurdâččâm et ...">
       <pattern>
         <pattern-item n="refcom"/>
-        <pattern-item n="com-ess-verb"/>
+        <pattern-item n="com_ess_verb"/>
       </pattern>
       <action>
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
@@ -2655,7 +2655,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <rule comment="REGLA: almmá haga-po = almmá doarjaga haga">
       <pattern>
         <pattern-item n="almmá_adv"/>
-        <pattern-item n="n-sg-pl-gen"/>
+        <pattern-item n="n_sg_pl_gen"/>
         <pattern-item n="haga_post"/>
       </pattern>
       <action>
@@ -2712,7 +2712,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <pattern>
         <pattern-item n="almmá_adv"/>
         <pattern-item n="attr"/>
-        <pattern-item n="n-sg-pl-gen"/>
+        <pattern-item n="n_sg_pl_gen"/>
         <pattern-item n="haga_post"/>
       </pattern>
       <action>
@@ -2743,7 +2743,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     
     <rule comment="REGLA: haga-po = Sii manne gápmagiid haga olggos. Te monnii kammuittáá olgos.">
       <pattern>
-        <pattern-item n="n-sg-pl-gen"/>
+        <pattern-item n="n_sg_pl_gen"/>
         <pattern-item n="haga_post"/>
       </pattern>
       <action>
@@ -3002,7 +3002,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <rule comment="REGLA: num-nomacc n-sg to n-par = Son oastá čieža láibbi. Sun uástá čiččâm leibid.">
       <pattern>
         <pattern-item n="num_nomacc"/>
-        <pattern-item n="n-sg-accgen"/>
+        <pattern-item n="n_sg_accgen"/>
       </pattern>
       <action>
         <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
@@ -3051,7 +3051,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
    <rule comment="REGLA: year - 1 position in-out"> <!-- ive 2013 -->
       <pattern>
-        <pattern-item n="semyear-loc"/>
+        <pattern-item n="semyear_loc"/>
       </pattern>
       <action>
         <call-macro n="general-macro-1Param">
@@ -3107,7 +3107,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <pattern>
         <pattern-item n="num_cmp"/>
         <pattern-item n="numeral"/>
-        <pattern-item n="n-sg-accgen"/>
+        <pattern-item n="n_sg_accgen"/>
       </pattern>
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
@@ -3151,8 +3151,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
  <rule comment="REGLA: num-nomacc attr n-sg  to n-par"> <!--  Mus leat čieža njálgga láibbi. Must láá čiččâm njaalgâ leibid. -->
       <pattern>
         <pattern-item n="num_nomacc"/>
-        <pattern-item n="adjattr-pos"/>
-        <pattern-item n="n-sg-accgen"/>
+        <pattern-item n="adjattr_pos"/>
+        <pattern-item n="n_sg_accgen"/>
       </pattern>
       <action>
         <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
@@ -3242,8 +3242,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <pattern>
         <pattern-item n="num_nomacc"/>
         <pattern-item n="adv"/>
-        <pattern-item n="adjattr-pos"/>
-        <pattern-item n="n-sg-accgen"/>
+        <pattern-item n="adjattr_pos"/>
+        <pattern-item n="n_sg_accgen"/>
       </pattern>
       <action>
         <call-macro n="general-macro-4Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/><with-param pos="4"/></call-macro>
@@ -3287,7 +3287,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: adjattr noun, also with agreement">  
       <pattern>
-        <pattern-item n="prn-adj-attr"/>
+        <pattern-item n="prn_adj_attr"/>
         <pattern-item n="noun"/>
       </pattern>
       <action>
@@ -3390,7 +3390,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: agreement-attr agreem-attr n agreement = vuosttas dievas girji - vuosmuš oles kirje">
       <pattern>
-        <pattern-item n="prn-ind-dem"/>
+        <pattern-item n="prn_ind_dem"/>
         <pattern-item n="attr"/>
         <pattern-item n="noun"/>
       </pattern>
@@ -3423,7 +3423,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: agreement-attr cmp n-sg agreement = vuosttaš biilagirji - vuosmuš autokirje">
       <pattern>
-        <pattern-item n="prn-adj-attr"/>
+        <pattern-item n="prn_adj_attr"/>
         <pattern-item n="nouncmp"/>
         <pattern-item n="noun"/>
       </pattern>
@@ -3456,9 +3456,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: agreement-attr agreem-attr n agreement = vuosttas dievas girji - vuosmuš oles kirje">
       <pattern>
-        <pattern-item n="prn-ind-dem"/>
-        <pattern-item n="adjattr-all"/>
-        <pattern-item n="adjattr-pos"/>
+        <pattern-item n="prn_ind_dem"/>
+        <pattern-item n="adjattr_all"/>
+        <pattern-item n="adjattr_pos"/>
         <pattern-item n="noun"/>
       </pattern>
       <action>
@@ -3491,9 +3491,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: agreement-attr agreem-attr n agreement = vuosttas dievas girji - vuosmuš oles kirje">
       <pattern>
-        <pattern-item n="prn-ind-dem"/>
-        <pattern-item n="adjattr-all"/>
-        <pattern-item n="adjattr-pos"/>
+        <pattern-item n="prn_ind_dem"/>
+        <pattern-item n="adjattr_all"/>
+        <pattern-item n="adjattr_pos"/>
         <pattern-item n="gencompl"/>
         <pattern-item n="noun"/>
       </pattern>
@@ -3531,8 +3531,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: agreement-attr cmp n agreement = vuosttas albma biilagirji - vuosmuš olmâ autokirje">
       <pattern>
-        <pattern-item n="prn-ind-dem"/>
-        <pattern-item n="adjattr-all"/>
+        <pattern-item n="prn_ind_dem"/>
+        <pattern-item n="adjattr_all"/>
         <pattern-item n="nouncmp"/>
         <pattern-item n="noun"/>
       </pattern>
@@ -3576,9 +3576,9 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: agreement-attr cnp attr n-sg-gen">  <!--  stuorát ja buoret viesus -->
       <pattern>
-        <pattern-item n="adjattr-all"/>
+        <pattern-item n="adjattr_all"/>
         <pattern-item n="cnp"/>
-        <pattern-item n="adjattr-all"/>
+        <pattern-item n="adjattr_all"/>
         <pattern-item n="noun"/>
       </pattern>
       <action>
@@ -3633,7 +3633,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <rule comment="REGLA: agreement-num-attr n-sg-com "> <!-- hupmen vihttanuppelot studeanttain - sarnum vitnubáluvvijn pajeuáppein. -->
       <pattern>
         <pattern-item n="numattr"/>
-        <pattern-item n="n-sg-com"/>
+        <pattern-item n="n_sg_com"/>
       </pattern>
       <action>
         <let>
@@ -3668,7 +3668,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="attr"/>
-        <pattern-item n="n-sg-com"/>
+        <pattern-item n="n_sg_com"/>
       </pattern>
       <action>
         <let>
@@ -3710,7 +3710,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="nouncmp"/>
-        <pattern-item n="n-sg-com"/>
+        <pattern-item n="n_sg_com"/>
       </pattern>
       <action>
         <let>
@@ -3753,7 +3753,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <pattern-item n="numattr"/>
         <pattern-item n="attr"/>
         <pattern-item n="nouncmp"/>
-        <pattern-item n="n-sg-com"/>
+        <pattern-item n="n_sg_com"/>
       </pattern>
       <action>
         <let>
@@ -3799,7 +3799,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <rule comment="REGLA: agreement-num-attr n-sg-gen ">
       <pattern>
         <pattern-item n="numattr"/>
-        <pattern-item n="n-sg-accgen"/>
+        <pattern-item n="n_sg_accgen"/>
       </pattern>
       <action>
         <let>
@@ -3845,7 +3845,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="nouncmp"/>
-        <pattern-item n="n-sg-accgen"/>
+        <pattern-item n="n_sg_accgen"/>
       </pattern>
       <action>
         <let>
@@ -3893,7 +3893,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
      <rule comment="REGLA: agreement puohah n">
       <pattern>
-        <pattern-item n="agreement-buot"/>
+        <pattern-item n="agreement_buot"/>
         <pattern-item n="noun"/>
       </pattern>
       <action>
@@ -3927,7 +3927,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
      <rule comment="REGLA: agreement puohah cmp n"> <!-- buot biilaolbmot - puohah autoulmuuh -->
       <pattern>
-        <pattern-item n="agreement-buot"/>
+        <pattern-item n="agreement_buot"/>
         <pattern-item n="nouncmp"/>
         <pattern-item n="noun"/>
       </pattern>
@@ -3969,8 +3969,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: dem-pl-com n-pl-com"> <!-- Dáiguin mašiinnaiguin lea álki goarrut. - Taiguin mašinijguin lii älkkee kuárruđ. -->
       <pattern>
-        <pattern-item n="prn-pl-com"/>
-        <pattern-item n="n-pl-com"/>
+        <pattern-item n="prn_pl_com"/>
+        <pattern-item n="n_pl_com"/>
       </pattern>
       <action>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
@@ -4128,7 +4128,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     <rule comment="REGLA: atnuiváldit - väldiđ anon">
       <pattern>
-        <pattern-item n="anon-verb"/>
+        <pattern-item n="anon_verb"/>
       </pattern>
       <action>
 	<call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
