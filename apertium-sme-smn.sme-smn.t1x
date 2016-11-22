@@ -8,7 +8,17 @@ t3x coordination
 t4x match larger contexts
 t5x move foc_tag from wordfoc chunk to the word inside
 
+C[ACDLSTVW]
+M[ACDLSTVW]
 
+A = Add word
+C = Concordance / agreement
+D = Delete word
+L = Lexical change
+S = Compound (Samansetning)
+T = Tag change
+V = Variable change
+W = Reordering
 
 -->
 
@@ -2136,7 +2146,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     <!-- SECTION: Nominal groups -->
 
 
-    <rule comment="REGLA: pron = Mun lean ruovttus.">
+    <rule comment="C[ACDLSTVW]: pron = Mun lean ruovttus.">
       <pattern>
         <pattern-item n="prn"/>
       </pattern>
@@ -2169,7 +2179,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
 
 
-    <rule comment="REGLA: foc">
+    <rule comment="C[ACDLSTVW]: foc">
       <pattern>
         <pattern-item n="foc"/>
       </pattern>
@@ -2192,7 +2202,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
 
 
-    <rule comment="REGLA: vblex go-qst Boahtá go? → Puátá-uv?">
+    <rule comment="C[ACDLSTVW]: vblex go-qst Boahtá go? → Puátá-uv?">
       <pattern>
         <pattern-item n="verb"/>
         <pattern-item n="go_qst"/>
@@ -2226,7 +2236,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
 
 
-    <rule comment="REGLA: nominal = Add NP to nominal">
+    <rule comment="C[ACDLSTVW]: nominal = Add NP to nominal">
       <pattern>
         <pattern-item n="nominal"/>
       </pattern>
@@ -2248,7 +2258,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: nnomcmp 2 = skuvlabusse">
+    <rule comment="C[ACDLSTVW]: nnomcmp 2 = skuvlabusse">
       <pattern>
         <pattern-item n="nouncmp"/>
         <pattern-item n="noun"/>
@@ -2274,7 +2284,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: nnomcmp 3">
+    <rule comment="C[ACDLSTVW]: nnomcmp 3">
       <pattern>
         <pattern-item n="nouncmp"/>
         <pattern-item n="nouncmp"/>
@@ -2305,7 +2315,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: npnomcmpadj"> <!-- Estelle-nammasaš . Estelle-nommâsâš -->
+    <rule comment="C[ACDLSTVW]: npnomcmpadj"> <!-- Estelle-nammasaš . Estelle-nommâsâš -->
       <pattern>
         <pattern-item n="nouncmp"/>
         <pattern-item n="adj"/>
@@ -2332,7 +2342,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: prep to postp or prep">
+    <rule comment="C[ACDLSTVW]: prep to postp or prep">
 
 
       <pattern>
@@ -2372,7 +2382,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: adv">
+    <rule comment="C[ACDLSTVW]: adv">
       <pattern>
         <pattern-item n="adv"/>
       </pattern>
@@ -2404,7 +2414,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
 
 
-    <rule comment="REGLA: adj">
+    <rule comment="C[ACDLSTVW]: adj">
       <pattern>
         <pattern-item n="adj"/>
       </pattern>
@@ -2433,7 +2443,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: eanet comp, ex. dálá eanet -- tááláást eenâb ">
+    <rule comment="C[ACDLSTVW]: eanet comp, ex. dálá eanet -- tááláást eenâb ">
       <pattern>
         <pattern-item n="dálá_adj"/>
         <pattern-item n="a_adv_comp"/>
@@ -2460,7 +2470,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: birra-loc"> <!-- Sii hupmet nieidda birra. Sij sárnuh nieidâst. -->
+    <rule comment="C[ACDLSTVW]: birra-loc"> <!-- Sii hupmet nieidda birra. Sij sárnuh nieidâst. -->
       <pattern>
         <pattern-item n="nom_gen"/>
         <pattern-item n="birra_post"/>
@@ -2510,7 +2520,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
     
 
-        <rule comment="REGLA: birra-loc = diehtu Sámedikki birra - Loc"> <!-- perhaps all nouns -->
+        <rule comment="C[ACDLSTVW]: birra-loc = diehtu Sámedikki birra - Loc"> <!-- perhaps all nouns -->
       <pattern>
         <pattern-item n="noun"/>
         <pattern-item n="nom_gen"/>
@@ -2550,7 +2560,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
 
 
-    <rule comment="REGLA: refl-gen mielde = Ean fuola su iežame mielde. - Iän huolâ suu fárusân.">
+    <rule comment="C[ACDLSTVW]: refl-gen mielde = Ean fuola su iežame mielde. - Iän huolâ suu fárusân.">
       <pattern>
         <pattern-item n="prnrefgen"/>
         <pattern-item n="mielde_post"/>
@@ -2574,7 +2584,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: refl-ess = Son humai iežainis. Sun sáárnui jiečânis.">
+    <rule comment="C[ACDLSTVW]: refl-ess = Son humai iežainis. Sun sáárnui jiečânis.">
       <pattern>
         <pattern-item n="refcom"/>
       </pattern>
@@ -2602,7 +2612,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: refl-ess = Soai leaba iežaineaskka jurddašan ahte .. - Suoi lává jiečânis jurdâččâm et ...">
+    <rule comment="C[ACDLSTVW]: refl-ess = Soai leaba iežaineaskka jurddašan ahte .. - Suoi lává jiečânis jurdâččâm et ...">
       <pattern>
         <pattern-item n="refcom"/>
         <pattern-item n="com_ess_verb"/>
@@ -2628,8 +2638,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-
-    <rule comment="REGLA: almmá-adv = almmá doarjaga ">
+    <rule comment="C[ACDLSTVW]: almmá-adv = almmá doarjaga ">
       <pattern>
         <pattern-item n="almmá_adv"/>
         <pattern-item n="H_advl"/>
@@ -2652,7 +2661,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
     
-    <rule comment="REGLA: almmá haga-po = almmá doarjaga haga">
+    <rule comment="C[DT]: almmá_adv n_sg_pl_gen haga_post" c="Almmá doarjaga haga. : SMN.">
       <pattern>
         <pattern-item n="almmá_adv"/>
         <pattern-item n="n_sg_pl_gen"/>
@@ -2678,7 +2687,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
     
-    <rule comment="REGLA: almmá-adv = almmá stáhta doarjaga">
+    <rule comment="C[DT]: almmá-adv attr H_advl" c="Almmá stáhta doarjaga. : SMN.">
       <pattern>
         <pattern-item n="almmá_adv"/>
         <pattern-item n="attr"/>
@@ -2699,7 +2708,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
             <lu>
               <clip pos="2" side="tl" part="whole"/>
 	        </lu>
-	        <b/>
+	        <b pos="1"/>
             <lu>
               <clip pos="3" side="tl" part="whole"/>
 	        </lu>
@@ -2708,7 +2717,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
     
-    <rule comment="REGLA: almmá haga-po = almmá stáhta doarjaga haga">
+    <rule comment="C[DT]: almmá_adv attr n_sg_pl_gen haga_post" c="Almmá stáhta doarjaga haga. : SMN. ">
       <pattern>
         <pattern-item n="almmá_adv"/>
         <pattern-item n="attr"/>
@@ -2731,7 +2740,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
             <lu>
               <clip pos="2" side="tl" part="whole"/>
 	        </lu>
-	        <b/>
+	        <b pos="1"/>
             <lu>
               <clip pos="3" side="tl" part="lem"/>
               <clip pos="3" side="tl" part="tags"/>
@@ -2741,7 +2750,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
     
-    <rule comment="REGLA: haga-po = Sii manne gápmagiid haga olggos. Te monnii kammuittáá olgos.">
+    <rule comment="C[DT]: n_sg_pl_gen haga_post" c="Sii manne gápmagiid haga olggos. : Te monnii kammuittáá olgos.">
       <pattern>
         <pattern-item n="n_sg_pl_gen"/>
         <pattern-item n="haga_post"/>
@@ -2766,7 +2775,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: nubbi beallai = rájá nuppe beallái – rääji nubebel">
+    <rule comment="C[DLT]: nubbi_prn beallai_post" c="Rájá nuppe beallái. : Rääji nubebel.">
       <pattern>
         <pattern-item n="nubbi_prn"/>
         <pattern-item n="beallai_post"/>
@@ -2790,7 +2799,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: guovtti láhkái - kyevtináál">
+    <rule comment="C[DLT]: guokte_num láhki_n" c="Guovtti láhkái. : Kyevtináál.">
       <pattern>
         <pattern-item n="guokte_num"/>
         <pattern-item n="láhki_n"/>
@@ -2813,11 +2822,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </out>
       </action>
     </rule>
-
-
-
     
-    <rule comment="REGLA: birra-px = Son geahččá birra. Sun kiäččá pirrâsis.">
+    <rule comment="C[T]: geahččat_vblex birra_adv" c="Son geahččá birra. : Sun kiäččá pirrâsis.">
       <pattern>
         <pattern-item n="geahččat_vblex"/>
         <pattern-item n="birra_adv"/>
@@ -2839,7 +2845,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
               <clip pos="1" side="tl" part="tags"/>
             </lu>
           </chunk>
-            <b/>
+            <b pos="1"/>
           <chunk name="adv">
             <tags>
               <tag><lit-tag v="ADVL"/></tag>
@@ -2854,7 +2860,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: jagi boaris = Son lea guhtta jagi boaris. Sun lii kuuđâ ihásâš.">
+    <rule comment="C[ACDLSTVW]: num_nomacc jahki_n_gen boaris_adj" c="Son lea guhtta jagi boaris. : Sun lii kuuđâ ihásâš.">
       <pattern>
         <pattern-item n="num_nomacc"/>
         <pattern-item n="jahki_n_gen"/>
@@ -2887,11 +2893,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-
-
-
-
-    <rule comment="REGLA: ja maiddái = ja maiddái. sehe">
+    <rule comment="C[DT]: ja maiddái_adv" c="ja maiddái. : sehe.">
       <pattern>
 	<pattern-item n="ja"/>
 	<pattern-item n="maiddái_adv"/>
@@ -2915,7 +2917,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: kamâdâttâđ = mun coggan skuovaid : mun kamâdâttâm">
+    <rule comment="C[D]: coggat_vblex shoe_n" c="Mun coggan skuovaid. : Mun kamâdâttâm.">
       <pattern>
     	<pattern-item n="coggat_vblex"/>
     	<pattern-item n="shoe_n"/>
@@ -2930,18 +2932,13 @@ t5x move foc_tag from wordfoc chunk to the word inside
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
-	        </lu>
+            </lu>
           </chunk>
         </out>
       </action>
     </rule>
 
-
-
-
-
-
-    <rule comment="REGLA: liikot-actioill = Mun liikon lohkat. Mun lijkkuum luhâmân."> 
+    <rule comment="C[TV]: liikot_vblex verb_inf vp_boundary" c="Mun liikon lohkat. : Mun lijkkuum luhâmân."> 
       <pattern>
         <pattern-item n="liikot_vblex"/>
         <pattern-item n="verb_inf"/>
@@ -2999,7 +2996,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: num-nomacc n-sg to n-par = Son oastá čieža láibbi. Sun uástá čiččâm leibid.">
+    <rule comment="C[T]: num_nomacc n_sg_accgen" c="Son oastá čieža láibbi. : Sun uástá čiččâm leibid."> <!-- @@@MACRO@@@ -->
       <pattern>
         <pattern-item n="num_nomacc"/>
         <pattern-item n="n_sg_accgen"/>
@@ -3019,8 +3016,6 @@ t5x move foc_tag from wordfoc chunk to the word inside
 <!--            <lit-tag v="n"/><lit-tag v="abbr"/><clip pos="2" side="tl" part="a_n_type"/><lit-tag v="par"/>-->
             </concat>
        </let>
-
-
               </when>
          <otherwise>
         <let><clip pos="2" side="tl" part="a_sem"/><lit v=""/></let>
@@ -3049,7 +3044,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-   <rule comment="REGLA: year - 1 position in-out"> <!-- ive 2013 -->
+    <rule comment="C[AT]: semyear_loc" c="2013. : ive 2013.">
       <pattern>
         <pattern-item n="semyear_loc"/>
       </pattern>
@@ -3076,7 +3071,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </out>
       </action>
     </rule>
-   <rule comment="REGLA: year - 2 position in-out"> <!-- ive 2013 -->
+
+    <rule comment="C[T]: jahki_n_loc semyear" c="ive 2013. : SMN.">
       <pattern>
         <pattern-item n="jahki_n_loc"/>
         <pattern-item n="semyear"/>
@@ -3103,7 +3099,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
  
-    <rule comment="REGLA: num-cmp numerals n-sg to n-par = Son oastá 10-12 láibbi. Sun uástá 10-12 leibid.">
+    <rule comment="C[T]: num_cmp numeral n_sg_accgen" c="Son oastá 10-12 láibbi : Sun uástá 10-12 leibid.">
       <pattern>
         <pattern-item n="num_cmp"/>
         <pattern-item n="numeral"/>
@@ -3146,9 +3142,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-
-
- <rule comment="REGLA: num-nomacc attr n-sg  to n-par"> <!--  Mus leat čieža njálgga láibbi. Must láá čiččâm njaalgâ leibid. -->
+    <rule comment="C[T]: num_nomacc adjattr_pos n_sg_accgen" c="Mus leat čieža njálgga láibbi. : Must láá čiččâm njaalgâ leibid.">
       <pattern>
         <pattern-item n="num_nomacc"/>
         <pattern-item n="adjattr_pos"/>
@@ -3186,11 +3180,10 @@ t5x move foc_tag from wordfoc chunk to the word inside
             </lu>
           </chunk>
         </out>
-
       </action>
     </rule>
 
-    <rule comment="REGLA: dem numsg noun - 3 positions out"> <!-- Mun vááldám täid kulmâ kirje. -->
+    <rule comment="C[T]: prn_dem_sg numeral noun" c="Mun vááldám täid kulmâ kirje. : SMN.">
       <pattern>
         <pattern-item n="prn_dem_sg"/>
         <pattern-item n="numeral"/>
@@ -3205,16 +3198,15 @@ t5x move foc_tag from wordfoc chunk to the word inside
          <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="3"/><with-param pos="2"/></call-macro>
         </otherwise>
      </choose>
-
      <choose>
-     <when>
-     <test>
-     <not><equal><clip pos="2" side="sl" part="lem"/><lit v="okta"/></equal></not>
-     </test>
+       <when>
+        <test>
+         <not><equal><clip pos="2" side="sl" part="lem"/><lit v="okta"/></equal></not>
+        </test>
           <let><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="pl"/></let>
           <let><clip pos="1" side="tl" part="a_attr"/><lit v=""/></let>
           </when>
-          </choose>
+     </choose>
        <out>
           <chunk name="d_z_n" case="caseFirstword">
             <tags>
@@ -3238,7 +3230,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: num-nomacc adv attr n-sg to n-par"> <!--  Mus leat čieža hui njálgga láibbi. , does not function  -->
+    <rule comment="C[CT]: num-nomacc adv adjattr_pos n_sg_accgen" c="Mus leat čieža hui njálgga láibbi. : SMN.">
       <pattern>
         <pattern-item n="num_nomacc"/>
         <pattern-item n="adv"/>
@@ -3249,8 +3241,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
         <call-macro n="general-macro-4Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/><with-param pos="4"/></call-macro>
         <choose><when>
           <test><and>
-            <not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
-            <not><in><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>
+            <not><in caseless="yes"><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
+            <not><in caseless="yes"><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>
           </and></test>
           <let>
             <clip pos="4" side="tl" part="tags"/>
@@ -3280,12 +3272,11 @@ t5x move foc_tag from wordfoc chunk to the word inside
             </lu>
           </chunk>
         </out>
-
       </action>
     </rule>
 
 
-    <rule comment="REGLA: adjattr noun, also with agreement">  
+    <rule comment="C[C]: prn_adj_attr noun" c="SME : SMN">  
       <pattern>
         <pattern-item n="prn_adj_attr"/>
         <pattern-item n="noun"/>
@@ -3314,7 +3305,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: adjattr cmp_splitr ja noun, also with agreement">  
+    <rule comment="C[C]: attr cmp_splitr cnjcoo noun" c="SME : SMN">  
       <pattern>
         <pattern-item n="attr"/>  
         <pattern-item n="cmp_splitr"/>
@@ -3349,7 +3340,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: adjattr cmp_splitr ja noun, also with agreement">  
+    <rule comment="C[C]: attr cmp_splitr cnjcoo nouncmp noun" c="SME : SMN">  
       <pattern>
         <pattern-item n="attr"/>  
         <pattern-item n="cmp_splitr"/>
@@ -3388,7 +3379,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: agreement-attr agreem-attr n agreement = vuosttas dievas girji - vuosmuš oles kirje">
+    <rule comment="C[]: " c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
       <pattern>
         <pattern-item n="prn_ind_dem"/>
         <pattern-item n="attr"/>
@@ -3421,7 +3412,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: agreement-attr cmp n-sg agreement = vuosttaš biilagirji - vuosmuš autokirje">
+    <rule comment="C[S]: prn_adj_attr nouncmp noun" c="Vuosttaš biilagirji. : Vuosmuš autokirje.">
       <pattern>
         <pattern-item n="prn_adj_attr"/>
         <pattern-item n="nouncmp"/>
@@ -3454,7 +3445,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: agreement-attr agreem-attr n agreement = vuosttas dievas girji - vuosmuš oles kirje">
+    <rule comment="C[]: prn_ind_dem adjattr_all adjattr_pos noun" c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
       <pattern>
         <pattern-item n="prn_ind_dem"/>
         <pattern-item n="adjattr_all"/>
@@ -3489,7 +3480,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: agreement-attr agreem-attr n agreement = vuosttas dievas girji - vuosmuš oles kirje">
+    <rule comment="C[T]: prn_ind_dem adjattr_all adjattr_pos gencompl noun" c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
       <pattern>
         <pattern-item n="prn_ind_dem"/>
         <pattern-item n="adjattr_all"/>
@@ -3528,8 +3519,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-
-    <rule comment="REGLA: agreement-attr cmp n agreement = vuosttas albma biilagirji - vuosmuš olmâ autokirje">
+    <rule comment="C[ST]: prn_ind_dem adjattr_all nouncmp noun" c="Vuosttas albma biilagirji. : Vuosmuš olmâ autokirje.">
       <pattern>
         <pattern-item n="prn_ind_dem"/>
         <pattern-item n="adjattr_all"/>
@@ -3574,7 +3564,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: agreement-attr cnp attr n-sg-gen">  <!--  stuorát ja buoret viesus -->
+    <rule comment="C[]: adjattr_all cnp adjattr_all noun" c="Stuorát ja buoret viesus. : SMN">
       <pattern>
         <pattern-item n="adjattr_all"/>
         <pattern-item n="cnp"/>
@@ -3625,21 +3615,13 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-
-
-
-
-
-    <rule comment="REGLA: agreement-num-attr n-sg-com "> <!-- hupmen vihttanuppelot studeanttain - sarnum vitnubáluvvijn pajeuáppein. -->
+    <rule comment="C[T]: numattr n_sg_com" c="Hupmen vihttanuppelot studeanttain. : sarnum vitnubáluvvijn pajeuáppein.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="n_sg_com"/>
       </pattern>
       <action>
-        <let>
-        	<clip pos="1" side="tl" part="tags"/>
-            <lit-tag v="num.sg.com"/>
-        </let>
+        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="num.sg.com"/></let>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
         <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
@@ -3664,7 +3646,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: agreement-num-attr n-sg-com "> <!-- hupmen vihttanuppelot čeahpes studeanttain - sarnum vitnubáluvvijn čepis pajeuáppein. -->
+    <rule comment="C[T]: numattr attr n_sg_com" c="Hupmen vihttanuppelot čeahpes studeanttain. : Sarnum vitnubáluvvijn čepis pajeuáppein.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="attr"/>
@@ -3705,8 +3687,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: agreement-num-attr cmp n-sg-com =
-    birgen vihttanuppelot biilagirjjiin - piergiim vitnubáluvvijn autokirjijn.">
+    <rule comment="C[ST]: numattr nouncmp n_sg_com" c="Birgen vihttanuppelot biilagirjjiin. : Piergiim vitnubáluvvijn autokirjijn.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="nouncmp"/>
@@ -3747,8 +3728,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: agreement-num-attr attr cmp n-sg-com 
-    birgen olmâ vihttanuppelot biilagirjjiin - piergiim olmâ vitnubáluvvijn autokirjijn.">
+    <rule comment="C[ST]: numattr attr nouncmp n_sg_com" c="Birgen olmâ vihttanuppelot biilagirjjiin. : Piergiim olmâ vitnubáluvvijn autokirjijn.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="attr"/>
@@ -3780,7 +3760,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 	        <lu>
               <clip pos="2" side="tl" part="whole"/>
 		    </lu>
-	        <b/>
+	        <b pos="2"/>
             <mlu>
             <lu>
               <clip pos="3" side="tl" part="whole"/>
@@ -3796,7 +3776,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: agreement-num-attr n-sg-gen ">
+    <rule comment="C[T]: numattr n_sg_accgen" c="">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="n_sg_accgen"/>
@@ -3831,7 +3811,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 	        <lu>
               <clip pos="1" side="tl" part="whole"/>
 		    </lu>
-	        <b/>
+	        <b pos="1"/>
             <lu>
               <clip pos="2" side="tl" part="whole"/>
 	        </lu>
@@ -3841,7 +3821,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: agreement-num-attr cmp n-sg-com ">
+    <rule comment="C[ST]: num-attr nouncmp n_sg_accgen" c="">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="nouncmp"/>
@@ -3863,7 +3843,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
           <otherwise>
             <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
           </otherwise>
-		</choose>
+	</choose>
         <call-macro n="set_caseFirstword"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="z_nc_n" case="caseFirstword">
@@ -3876,7 +3856,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 	        <lu>
               <clip pos="1" side="tl" part="whole"/>
 		    </lu>
-	        <b/>
+	        <b pos="1"/>
             <mlu>
             <lu>
               <clip pos="2" side="tl" part="whole"/>
@@ -3891,7 +3871,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-     <rule comment="REGLA: agreement puohah n">
+     <rule comment="C[]: agreement_buot noun">
       <pattern>
         <pattern-item n="agreement_buot"/>
         <pattern-item n="noun"/>
@@ -3899,7 +3879,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <choose><when>
-         <test><equal><clip pos="1" side="tl" part="lem"/><lit v="puohah"/></equal>
+         <test><equal caseless="yes"><clip pos="1" side="tl" part="lem"/><lit v="puohah"/></equal>
            </test>
        <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
        </when>
@@ -3915,7 +3895,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 	        <lu>
               <clip pos="1" side="tl" part="whole"/>
 		    </lu>
-	        <b/>
+	        <b pos="1"/>
             <lu>
               <clip pos="2" side="tl" part="whole"/>
 	        </lu>
@@ -3925,7 +3905,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-     <rule comment="REGLA: agreement puohah cmp n"> <!-- buot biilaolbmot - puohah autoulmuuh -->
+     <rule comment="C[S]: agreement_buot nouncmp noun" c="buot biilaolbmot. : puohah autoulmuuh.">
       <pattern>
         <pattern-item n="agreement_buot"/>
         <pattern-item n="nouncmp"/>
@@ -3934,7 +3914,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       <action>
         <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
         <choose><when>
-         <test><equal><clip pos="1" side="tl" part="lem"/><lit v="puohah"/></equal>
+         <test><equal caseless="yes"><clip pos="1" side="tl" part="lem"/><lit v="puohah"/></equal>
            </test>
        <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="3"/></call-macro>
        </when>
@@ -3947,10 +3927,10 @@ t5x move foc_tag from wordfoc chunk to the word inside
               <tag><clip pos="3" side="tl" part="a_PoS"/></tag>
               <tag><clip pos="3" side="tl" part="a_case"/></tag>
             </tags>
-	        <lu>
+        <lu>
               <clip pos="1" side="tl" part="whole"/>
-		    </lu>
-	        <b/>
+	    </lu>
+	        <b pos="1"/>
             <mlu>
             <lu>
               <clip pos="2" side="tl" part="whole"/>
@@ -3967,7 +3947,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
 
 
-    <rule comment="REGLA: dem-pl-com n-pl-com"> <!-- Dáiguin mašiinnaiguin lea álki goarrut. - Taiguin mašinijguin lii älkkee kuárruđ. -->
+    <rule comment="C[]: prn_pl_com n_pl_com" c="Dáiguin mašiinnaiguin lea álki goarrut. : Taiguin mašinijguin lii älkkee kuárruđ.">
       <pattern>
         <pattern-item n="prn_pl_com"/>
         <pattern-item n="n_pl_com"/>
@@ -3986,7 +3966,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
             <lu>
               <clip pos="1" side="tl" part="whole"/>
             </lu>
-            <b/>
+            <b pos="1"/>
             <lu>
               <clip pos="2" side="tl" part="whole"/>
             </lu>
@@ -3997,7 +3977,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: mainverb = Iige / ">
+    <rule comment="C[T]: auxverb" c=" = Iige / ">
       <pattern>
         <pattern-item n="auxverb"/>
       </pattern>
@@ -4027,7 +4007,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: mainverb">
+    <rule comment="C[V]: mainverb" c="">
       <pattern>
         <pattern-item n="mainverb"/>
       </pattern>
@@ -4048,7 +4028,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: buorre attr"> <!-- Giittos eatnat  -->
+    <rule comment="C[T]: buorre attr" c="Giittos eatnat">
       <pattern>
         <pattern-item n="giittos_n"/>
         <pattern-item n="eatnat_adv"/>
@@ -4066,7 +4046,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
             <lu>
               <clip pos="1" side="tl" part="whole"/>
 		    </lu>
-		    <b/>
+		    <b pos="1"/>
 	        <lu>
               <clip pos="2" side="tl" part="whole"/>
 		    </lu>
@@ -4075,7 +4055,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
       </action>
     </rule>
-    <rule comment="REGLA: ovdâmerkkân c='ovdamearkka dihtii - ovdâmerkkân">
+    <rule comment="C[DT]: ovdâmerkkân c='ovdamearkka dihtii - ovdâmerkkân">
       <pattern>
         <pattern-item n="ovdamearka_n"/>
         <pattern-item n="dihte_post"/>
@@ -4091,7 +4071,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
-		    </lu>
+	    </lu>
           </chunk>
         </out>
 
@@ -4100,7 +4080,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
 
 
 
-    <rule comment="REGLA: vuostáiváldit - väldiđ vuástá">
+    <rule comment="C[A]: vuostáiváldit - väldiđ vuástá">
       <pattern>
         <pattern-item n="vuostáiváldit_vblex"/>
       </pattern>
@@ -4126,7 +4106,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: atnuiváldit - väldiđ anon">
+    <rule comment="C[A]: atnuiváldit - väldiđ anon">
       <pattern>
         <pattern-item n="anon_verb"/>
       </pattern>
@@ -4152,7 +4132,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: álkidahttit - toohâđ älkkeebin">
+    <rule comment="C[A]: álkidahttit - toohâđ älkkeebin">
       <pattern>
         <pattern-item n="álkidahttit_vblex"/>
       </pattern>
@@ -4177,8 +4157,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-
-    <rule comment="REGLA: ovttasbargat - porgâđ ovttâst">
+    <rule comment="C[A]: ovttasbargat - porgâđ ovttâst">
       <pattern>
         <pattern-item n="ovttasbargat_vblex"/>
       </pattern>
@@ -4203,8 +4182,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-
-    <rule comment="REGLA: ođđasisorganiseret - orniđ uđđâsist">
+    <rule comment="C[A]: ođđasisorganiseret - orniđ uđđâsist">
       <pattern>
         <pattern-item n="ođđasisorganiseret_vblex"/>
       </pattern>
@@ -4229,10 +4207,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-
-
-
-    <rule comment="REGLA: cs">
+    <rule comment="C[]: cs">
       <pattern>
         <pattern-item n="cnjsub"/>
       </pattern>
@@ -4252,7 +4227,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: cc">
+    <rule comment="C[]: cc">
       <pattern>
         <pattern-item n="cnjcoo"/>
       </pattern>
@@ -4273,7 +4248,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
     </rule>
 
 
-    <rule comment="REGLA: SENT">
+    <rule comment="C[]: SENT">
       <pattern>
         <pattern-item n="sent"/>
       </pattern>
@@ -4292,7 +4267,7 @@ t5x move foc_tag from wordfoc chunk to the word inside
       </action>
     </rule>
 
-    <rule comment="REGLA: numsem">
+    <rule comment="C[]: numsem">
       <pattern>
         <pattern-item n="numsem"/>
       </pattern>
@@ -4311,7 +4286,8 @@ t5x move foc_tag from wordfoc chunk to the word inside
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: DEFAULT">
+
+    <rule comment="C[T]: default">
       <pattern>
         <pattern-item n="default"/>
       </pattern>
