@@ -4,7 +4,7 @@ pair=`pwd | grep -o 'apertium-[a-z][a-z][a-z]-[a-z][a-z][a-z]'`;
 dir=`printf "%s\n" "$pair" | grep -o  -- '-[a-z][a-z][a-z]-[a-z][a-z][a-z]' | gsed 's/^-//g'`; 
 dix=$pair.$dir.dix
 lang2=`printf "%s\n"  "$dir" | cut -f2 -d'-'`
-gtdir=`printf "%s\n"  "$GTCORE" | gsed 's/\(gtcore\|core\)//g'`;
+gtdir=`printf "%s\n"  "$GTCORE" | gsed 's/\(gtcore\|core\|giella\-core\)//g'`;
 analysator=$gtdir"/langs/"$lang2"/tools/mt/apertium/analyser-mt-apertium-desc.und.hfstol"
 
 lt-expand ../$dix | gsed 's/\(<[^>]\+>\)\(<[^>]\+>\)\+/\1/g' | gsed 's/:[><]:/:/g'  | grep -v ':\([[:punct:]]\|[[:space:]]\)' | grep -v -- '-<' | grep -v '\/' | sort -u > /tmp/$dir.exp
