@@ -2142,23 +2142,21 @@ W = Reordering
 
 
   <section-rules>
-
     <!-- SECTION: Nominal groups -->
 
-
-    <rule comment="C[ACDLSTVW]: pron = Mun lean ruovttus.">
+    <rule comment="C[T]: prn" c="Mun lean ruovttus. : SMN.">
       <pattern>
         <pattern-item n="prn"/>
       </pattern>
       <action>
       <choose><when>
-      <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Ii goastta gosage. - Ij koostâ kuussân.-->
+      <test><in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Ii goastta gosage. - Ij koostâ kuussân.-->
               <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
               </when>
 		</choose>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <choose><when><test>
-        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
         </test>
         <let><clip pos="1" side="tl" part="a_attr"/><lit-tag v="sg.nom"/></let>
         </when></choose>
@@ -2179,7 +2177,7 @@ W = Reordering
 
 
 
-    <rule comment="C[ACDLSTVW]: foc">
+    <rule comment="C[]: foc" c="SME. : SMN.">
       <pattern>
         <pattern-item n="foc"/>
       </pattern>
@@ -2202,7 +2200,7 @@ W = Reordering
 
 
 
-    <rule comment="C[ACDLSTVW]: vblex go-qst Boahtá go? → Puátá-uv?">
+    <rule comment="C[DT]: vblex go-qst" c="Boahtá go? : Puátá-uv?">
       <pattern>
         <pattern-item n="verb"/>
         <pattern-item n="go_qst"/>
@@ -2223,11 +2221,9 @@ W = Reordering
               <tag><lit-tag v="SV"/></tag>
               <tag><var n="func"/></tag>
             </tags>
-            <mlu>
               <lu>
                 <clip pos="1" side="tl" part="whole"/>
               </lu>
-            </mlu>
           </chunk>
         </out>
       </action>
@@ -2236,7 +2232,7 @@ W = Reordering
 
 
 
-    <rule comment="C[ACDLSTVW]: nominal = Add NP to nominal">
+    <rule comment="C[]: nominal" c="SME. : SMN.">
       <pattern>
         <pattern-item n="nominal"/>
       </pattern>
@@ -2258,7 +2254,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[ACDLSTVW]: nnomcmp 2 = skuvlabusse">
+    <rule comment="C[S]: nouncmp noun" c="Skuvlabusse. : SMN.">
       <pattern>
         <pattern-item n="nouncmp"/>
         <pattern-item n="noun"/>
@@ -2284,7 +2280,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[ACDLSTVW]: nnomcmp 3">
+    <rule comment="C[S]: nouncmp nouncmp noun" c="SME. : SMN.">
       <pattern>
         <pattern-item n="nouncmp"/>
         <pattern-item n="nouncmp"/>
@@ -2299,23 +2295,23 @@ W = Reordering
               <tag><var n="func"/></tag>
             </tags>
             <mlu>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-             <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-             <lu>
-              <clip pos="3" side="tl" part="whole"/>
-            </lu>
-             </mlu>
+              <lu>
+                <clip pos="1" side="tl" part="whole"/>
+              </lu>
+               <lu>
+                <clip pos="2" side="tl" part="whole"/>
+              </lu>
+               <lu>
+                <clip pos="3" side="tl" part="whole"/>
+              </lu>
+            </mlu>
         </chunk>
         </out>
       </action>
     </rule>
 
 
-    <rule comment="C[ACDLSTVW]: npnomcmpadj"> <!-- Estelle-nammasaš . Estelle-nommâsâš -->
+    <rule comment="C[S]: nouncmp adj" c="Estelle-nammasaš. : Estelle-nommâsâš.">
       <pattern>
         <pattern-item n="nouncmp"/>
         <pattern-item n="adj"/>
@@ -2342,9 +2338,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[ACDLSTVW]: prep to postp or prep">
-
-
+    <rule comment="C[V]: adpos" c="SME. : SMN.">
       <pattern>
         <pattern-item n="adpos"/>
       </pattern>
@@ -2382,13 +2376,13 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[ACDLSTVW]: adv">
+    <rule comment="C[T]: adv" c="SME. : SMN.">
       <pattern>
         <pattern-item n="adv"/>
       </pattern>
       <action>
         <choose><when>
-          <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test>
+          <test><in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test>
           <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
         </when>
         </choose>
@@ -2409,19 +2403,16 @@ W = Reordering
       </action>
     </rule>
 
-
     <!-- SECTION: Adpositions -->
 
-
-
-    <rule comment="C[ACDLSTVW]: adj">
+    <rule comment="C[T]: adj" c="SME. : SMN.">
       <pattern>
         <pattern-item n="adj"/>
       </pattern>
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <choose><when><test><or>
-        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
         <equal><clip pos="1" side="sl" part="a_ord"/><lit-tag v="ord"/></equal>
@@ -2443,7 +2434,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[ACDLSTVW]: eanet comp, ex. dálá eanet -- tááláást eenâb ">
+    <rule comment="C[T]: dálá_adj a_adv_comp" c="Dálá eanet. : Tááláást eenâb.">
       <pattern>
         <pattern-item n="dálá_adj"/>
         <pattern-item n="a_adv_comp"/>
@@ -2460,7 +2451,7 @@ W = Reordering
             <lu>
               <clip pos="1" side="tl" part="whole"/>
             </lu>
-            <b/>
+            <b pos="1"/>
             <lu>
               <clip pos="2" side="tl" part="whole"/>
             </lu>
@@ -2470,7 +2461,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[ACDLSTVW]: birra-loc"> <!-- Sii hupmet nieidda birra. Sij sárnuh nieidâst. -->
+    <rule comment="C[DT]: nom_gen birra_post" c="Sii hupmet nieidda birra. : Sij sárnuh nieidâst.">
       <pattern>
         <pattern-item n="nom_gen"/>
         <pattern-item n="birra_post"/>
@@ -2506,7 +2497,7 @@ W = Reordering
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="tags"/>
             </lu>
-            <b/>
+            <b pos="1"/>
             <lu>
               <clip pos="2" side="tl" part="whole"/>
             </lu>
@@ -2514,13 +2505,8 @@ W = Reordering
         </out>
       </action>
     </rule>
-
-
-
-
     
-
-        <rule comment="C[ACDLSTVW]: birra-loc = diehtu Sámedikki birra - Loc"> <!-- perhaps all nouns -->
+    <rule comment="C[DT]: noun nom_gen birra_post" c="Diehtu Sámedikki birra. : SMN.">
       <pattern>
         <pattern-item n="noun"/>
         <pattern-item n="nom_gen"/>
@@ -2556,11 +2542,7 @@ W = Reordering
       </action>
     </rule>
 
-
-
-
-
-    <rule comment="C[ACDLSTVW]: refl-gen mielde = Ean fuola su iežame mielde. - Iän huolâ suu fárusân.">
+    <rule comment="C[L]: prnrefgen mielde_post" c="Ean fuola su iežame mielde. : Iän huolâ suu fárusân.">
       <pattern>
         <pattern-item n="prnrefgen"/>
         <pattern-item n="mielde_post"/>
@@ -2583,8 +2565,7 @@ W = Reordering
       </action>
     </rule>
 
-
-    <rule comment="C[ACDLSTVW]: refl-ess = Son humai iežainis. Sun sáárnui jiečânis.">
+    <rule comment="C[T]: refcom" c="Son humai iežainis. Sun sáárnui jiečânis.">
       <pattern>
         <pattern-item n="refcom"/>
       </pattern>
@@ -2612,7 +2593,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[ACDLSTVW]: refl-ess = Soai leaba iežaineaskka jurddašan ahte .. - Suoi lává jiečânis jurdâččâm et ...">
+    <rule comment="C[T]: reflcom com_ess_verb" c="Soai leaba iežaineaskka jurddašan ahte. : Suoi lává jiečânis jurdâččâm et.">
       <pattern>
         <pattern-item n="refcom"/>
         <pattern-item n="com_ess_verb"/>
@@ -2629,7 +2610,7 @@ W = Reordering
             <lu>
               <clip pos="1" side="tl" part="whole"/>
 	        </lu>
-	        <b/>
+	        <b pos="1"/>
             <lu>
               <clip pos="2" side="tl" part="whole"/>
 	        </lu>
@@ -2638,7 +2619,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[ACDLSTVW]: almmá-adv = almmá doarjaga ">
+    <rule comment="C[DT]: almmá_adv H_advl" c="Almmá doarjaga. : SMN.">
       <pattern>
         <pattern-item n="almmá_adv"/>
         <pattern-item n="H_advl"/>
@@ -2860,7 +2841,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[ACDLSTVW]: num_nomacc jahki_n_gen boaris_adj" c="Son lea guhtta jagi boaris. : Sun lii kuuđâ ihásâš.">
+    <rule comment="C[DLT]: num_nomacc jahki_n_gen boaris_adj" c="Son lea guhtta jagi boaris. : Sun lii kuuđâ ihásâš.">
       <pattern>
         <pattern-item n="num_nomacc"/>
         <pattern-item n="jahki_n_gen"/>
@@ -3006,8 +2987,8 @@ W = Reordering
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
       <choose><when>
               <test><and>
-                 <not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
-               <not><in><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>
+                 <not><in caseless="yes"><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
+               <not><in caseless="yes"><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>
                <not><equal><clip pos="2" side="sl" part="a_abbr"/><lit-tag v="abbr"/></equal></not>
               </and></test>
         <let><clip pos="2" side="tl" part="tags"/>
@@ -3108,8 +3089,8 @@ W = Reordering
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
       <choose><when>
-              <test><and><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
-               <not><in><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>
+              <test><and><not><in caseless="yes"><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
+               <not><in caseless="yes"><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>
               </and></test>
         <let><clip pos="3" side="tl" part="tags"/>
         <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_n_type"/><lit-tag v="par"/></concat></let>
@@ -3152,8 +3133,8 @@ W = Reordering
         <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
         <choose><when>
           <test><and>
-            <not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
-            <not><in><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>
+            <not><in caseless="yes"><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
+            <not><in caseless="yes"><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>
           </and></test>
           <let>
             <clip pos="3" side="tl" part="tags"/>
@@ -3284,7 +3265,7 @@ W = Reordering
       <action>
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <choose><when><test><or>
-        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
@@ -3315,7 +3296,7 @@ W = Reordering
       <action>
         <call-macro n="general-macro-4Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/><with-param pos="4"/></call-macro>
         <choose><when><test><or>
-        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
@@ -3352,7 +3333,7 @@ W = Reordering
         <call-macro n="general-macro-4Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/><with-param pos="4"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="5"/></call-macro>
         <choose><when><test><or>
-        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
@@ -3379,7 +3360,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[]: " c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
+    <rule comment="C[]: prn_ind_dem attr noun" c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
       <pattern>
         <pattern-item n="prn_ind_dem"/>
         <pattern-item n="attr"/>
@@ -3388,7 +3369,7 @@ W = Reordering
       <action>
       <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
         <choose><when><test><or>
-        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
@@ -3421,7 +3402,7 @@ W = Reordering
       <action>
         <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
         <choose><when><test><or>
-        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
@@ -3455,7 +3436,7 @@ W = Reordering
       <action>
       <call-macro n="general-macro-4Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/><with-param pos="4"/></call-macro>
         <choose><when><test><or>
-        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
@@ -3492,7 +3473,7 @@ W = Reordering
       <call-macro n="general-macro-4Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/><with-param pos="4"/></call-macro>
       <call-macro n="general-macro-1Param"><with-param pos="5"/></call-macro>
         <choose><when><test><or>
-        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
@@ -3529,7 +3510,7 @@ W = Reordering
       <action>
         <call-macro n="general-macro-4Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/><with-param pos="4"/></call-macro>
         <choose><when><test><or>
-        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
@@ -3574,7 +3555,7 @@ W = Reordering
       <action>
         <call-macro n="general-macro-4Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/><with-param pos="4"/></call-macro>
         <choose><when><test><or>
-        <in><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
@@ -3582,7 +3563,7 @@ W = Reordering
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="4"/></call-macro>
         </when></choose>
         <choose><when><test><or>
-        <in><clip pos="3" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <in caseless="yes"><clip pos="3" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
         <equal><clip pos="3" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
         <equal><clip pos="3" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
         <equal><clip pos="3" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
@@ -3776,7 +3757,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[T]: numattr n_sg_accgen" c="">
+    <rule comment="C[T]: numattr n_sg_accgen" c="SME. : SMN.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="n_sg_accgen"/>
@@ -3789,7 +3770,7 @@ W = Reordering
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <call-macro n="general-macro-1Param"><with-param pos="2"/></call-macro>
         <choose><when>
-                <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test>
+                <test><not><in caseless="yes"><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test>
                 <let><clip pos="2" side="tl" part="tags"/>
                 <concat>
                  <lit-tag v="n"/><clip pos="2" side="tl" part="a_n_type"/>
@@ -3821,7 +3802,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[ST]: num-attr nouncmp n_sg_accgen" c="">
+    <rule comment="C[ST]: num-attr nouncmp n_sg_accgen" c="SME. : SMN.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="nouncmp"/>
@@ -3836,7 +3817,7 @@ W = Reordering
         <call-macro n="general-macro-1Param"><with-param pos="3"/></call-macro>
 
        <choose><when>
-                <test><not><in><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test>
+                <test><not><in caseless="yes"><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not></test>
                 <let><clip pos="3" side="tl" part="tags"/>
                 <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_n_type"/><lit-tag v="par"/></concat></let>
               </when>
@@ -3871,7 +3852,7 @@ W = Reordering
       </action>
     </rule>
 
-     <rule comment="C[]: agreement_buot noun">
+    <rule comment="C[]: agreement_buot noun">
       <pattern>
         <pattern-item n="agreement_buot"/>
         <pattern-item n="noun"/>
@@ -3905,7 +3886,7 @@ W = Reordering
       </action>
     </rule>
 
-     <rule comment="C[S]: agreement_buot nouncmp noun" c="buot biilaolbmot. : puohah autoulmuuh.">
+    <rule comment="C[S]: agreement_buot nouncmp noun" c="buot biilaolbmot. : puohah autoulmuuh.">
       <pattern>
         <pattern-item n="agreement_buot"/>
         <pattern-item n="nouncmp"/>
@@ -3977,7 +3958,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[T]: auxverb" c=" = Iige / ">
+    <rule comment="C[T]: auxverb" c="Iige. : SMN. ">
       <pattern>
         <pattern-item n="auxverb"/>
       </pattern>
@@ -4007,7 +3988,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[V]: mainverb" c="">
+    <rule comment="C[V]: mainverb" c="SME. : SMN.">
       <pattern>
         <pattern-item n="mainverb"/>
       </pattern>
@@ -4028,7 +4009,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[T]: buorre attr" c="Giittos eatnat">
+    <rule comment="C[T]: giittos_n eatnat_adv" c="Giittos eatnat. : SMN.">
       <pattern>
         <pattern-item n="giittos_n"/>
         <pattern-item n="eatnat_adv"/>
@@ -4055,7 +4036,7 @@ W = Reordering
 
       </action>
     </rule>
-    <rule comment="C[DT]: ovdâmerkkân c='ovdamearkka dihtii - ovdâmerkkân">
+    <rule comment="C[DT]: ovdamearka_n dihte_post" c="Ovdamearkka dihtii. : Ovdâmerkkân.">
       <pattern>
         <pattern-item n="ovdamearka_n"/>
         <pattern-item n="dihte_post"/>
@@ -4078,9 +4059,7 @@ W = Reordering
       </action>
     </rule>
 
-
-
-    <rule comment="C[A]: vuostáiváldit - väldiđ vuástá">
+    <rule comment="C[A]: vuostáiváldit_vblex" c="Vuostáiváldit. : Väldiđ vuástá.">
       <pattern>
         <pattern-item n="vuostáiváldit_vblex"/>
       </pattern>
@@ -4106,7 +4085,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[A]: atnuiváldit - väldiđ anon">
+    <rule comment="C[A]: anon_verb" c="Atnuiváldit. : Väldiđ anon.">
       <pattern>
         <pattern-item n="anon_verb"/>
       </pattern>
@@ -4132,7 +4111,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[A]: álkidahttit - toohâđ älkkeebin">
+    <rule comment="C[A]: álkidahttit_vblex" c="Álkidahttit. : Toohâđ älkkeebin.">
       <pattern>
         <pattern-item n="álkidahttit_vblex"/>
       </pattern>
@@ -4157,7 +4136,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[A]: ovttasbargat - porgâđ ovttâst">
+    <rule comment="C[A]: ovttasbargat_vblex" c="Ovttasbargat. : Porgâđ ovttâst.">
       <pattern>
         <pattern-item n="ovttasbargat_vblex"/>
       </pattern>
@@ -4182,7 +4161,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[A]: ođđasisorganiseret - orniđ uđđâsist">
+    <rule comment="C[A]: ođđasisorganiseret_vblex" c="Ođđasisorganiseret. : Orniđ uđđâsist.">
       <pattern>
         <pattern-item n="ođđasisorganiseret_vblex"/>
       </pattern>
@@ -4207,7 +4186,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[]: cs">
+    <rule comment="C[]: cnjsub" c="SME. : SMN.">
       <pattern>
         <pattern-item n="cnjsub"/>
       </pattern>
@@ -4227,7 +4206,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[]: cc">
+    <rule comment="C[]: cnjcoo" c="SME. : SMN.">
       <pattern>
         <pattern-item n="cnjcoo"/>
       </pattern>
@@ -4248,7 +4227,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[]: SENT">
+    <rule comment="C[]: sent" c=". : .">
       <pattern>
         <pattern-item n="sent"/>
       </pattern>
@@ -4267,7 +4246,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[]: numsem">
+    <rule comment="C[]: numsem" c="SME. : SMN.">
       <pattern>
         <pattern-item n="numsem"/>
       </pattern>
@@ -4287,13 +4266,13 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[T]: default">
+    <rule comment="C[T]: default" c="SME. : SMN.">
       <pattern>
         <pattern-item n="default"/>
       </pattern>
       <action>
         <choose><when>
-          <test><in><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Seahkas ii leat mihkkege. - Seehâst ij lah mihheen.-->
+          <test><in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Seahkas ii leat mihkkege. - Seehâst ij lah mihheen.-->
           <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
         </when>
         </choose>
