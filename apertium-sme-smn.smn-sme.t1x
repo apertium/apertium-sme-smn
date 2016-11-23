@@ -16,6 +16,10 @@
     <def-attr n="a_nom">
       <attr-item tags="n"/>
     </def-attr>
+    <def-attr n="a_trans">
+      <attr-item tags="iv"/>
+      <attr-item tags="tv"/>
+    </def-attr>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
       <attr-item tags="acc"/>
@@ -130,6 +134,7 @@
       <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_dialect"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_par"/><lit-tag v="sg.gen"/></let>
+      <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let>
     </def-macro>
   </section-def-macros>
   <section-rules>
