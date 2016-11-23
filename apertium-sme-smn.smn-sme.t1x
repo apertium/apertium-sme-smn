@@ -135,6 +135,7 @@
       <let><clip pos="1" side="tl" part="a_dialect"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_par"/><lit-tag v="sg.gen"/></let>
       <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let>
+      <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let> <!-- must be twice -->
     </def-macro>
   </section-def-macros>
   <section-rules>
