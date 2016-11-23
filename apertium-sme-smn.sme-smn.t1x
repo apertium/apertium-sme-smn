@@ -2529,11 +2529,11 @@ W = Reordering
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="tags"/>
             </lu>
-            <b/>
+            <b pos="1"/>
             <lu>
               <clip pos="2" side="tl" part="whole"/>
             </lu>
-            <b/>
+            <b pos="2"/>
             <lu>
               <clip pos="3" side="tl" part="whole"/>
             </lu>
@@ -2951,7 +2951,7 @@ W = Reordering
               <clip pos="1" side="tl" part="tags"/>
            </lu>
           </chunk>
-	        <b/>
+	  <b pos="1"/>
           <chunk name="actio">
             <tags>
               <tag><lit-tag v="VP"/></tag>
@@ -2962,7 +2962,7 @@ W = Reordering
               <clip pos="2" side="tl" part="tags"/>
 	    </lu>
           </chunk>
-	   <b/>
+	  <b pos="1"/>
           <chunk namefrom="chunk_name">
             <tags>
               <tag><lit-tag v="VP"/></tag>
@@ -3004,7 +3004,7 @@ W = Reordering
         <let><clip pos="2" side="tl" part="a_func"/><lit v=""/></let>
          </otherwise>
 		</choose>
-		<out>
+	<out>
           <chunk name="z_n">
             <tags>
               <tag><lit-tag v="NP"/></tag>
@@ -3014,8 +3014,8 @@ W = Reordering
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="tags"/>
-	        </lu>
-	        <b/>
+            </lu>
+	        <b pos="1"/>
 	        <lu>
               <clip pos="2" side="tl" part="whole"/>
 		    </lu>
@@ -3071,7 +3071,7 @@ W = Reordering
             <lu>
               <clip pos="1" side="tl" part="whole"/>
             </lu>
-            <b/>
+            <b pos="1"/>
             <lu>
               <clip pos="2" side="tl" part="whole"/>
             </lu>
@@ -3113,10 +3113,10 @@ W = Reordering
               <clip pos="2" side="tl" part="whole"/>
             </lu>
              </mlu>
-	        <b/>
-	        <lu>
+	        <b pos="2"/>
+            <lu>
               <clip pos="3" side="tl" part="whole"/>
-		    </lu>
+	    </lu>
           </chunk>
         </out>
 
@@ -3197,11 +3197,11 @@ W = Reordering
               <lu>
                 <clip pos="1" side="tl" part="whole"/>
               </lu>
-              <b/>
+              <b pos="1"/>
               <lu>
                 <clip pos="2" side="tl" part="whole"/>
               </lu>
-              <b/>
+              <b pos="2"/>
               <lu>
                 <clip pos="3" side="tl" part="whole"/>
               </lu>
@@ -3834,9 +3834,9 @@ W = Reordering
               <tag><clip pos="1" side="tl" part="a_PoS"/></tag>
               <tag><clip pos="1" side="tl" part="a_case"/></tag>
             </tags>
-	        <lu>
+        <lu>
               <clip pos="1" side="tl" part="whole"/>
-		    </lu>
+	    </lu>
 	        <b pos="1"/>
             <mlu>
             <lu>
@@ -4026,11 +4026,11 @@ W = Reordering
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
-		    </lu>
-		    <b pos="1"/>
-	        <lu>
+	    </lu>
+	    <b pos="1"/>
+            <lu>
               <clip pos="2" side="tl" part="whole"/>
-		    </lu>
+	    </lu>
           </chunk>
         </out>
 
