@@ -9238,8 +9238,7 @@
     <e><p><l>álás<s n="adj"/></l><r>pääljis<s n="adj"/></r></p></e>
     <e><p><l>namaheapme<s n="adj"/></l><r>nomâttem<s n="adj"/></r></p></e>
     <e><p><l>nággár<s n="adj"/></l><r>nággár<s n="adj"/></r></p></e>
-    <e><p><l>láittas<s n="adj"/></l><r>pastettem<s n="adj"/></r></p></e>
-    <e><p><l>láittas<s n="adj"/></l><r>tielâs<s n="adj"/></r></p></e>
+    <e><p><l>láittas<s n="adj"/></l><r>ahheev<s n="adj"/></r></p></e>
     <e><p><l>lohkameahttun<s n="adj"/></l><r>luhâmettum<s n="adj"/></r></p></e>
     <e><p><l>lášmat<s n="adj"/></l><r>lašmâd<s n="adj"/></r></p></e>
     <e><p><l>árvvoheapme<s n="adj"/></l><r>váádduh<s n="adj"/></r></p></e>
@@ -9252,13 +9251,9 @@
     <e><p><l>mášoheapme<s n="adj"/></l><r>mášuttem<s n="adj"/></r></p></e>
     <e><p><l>heivetmeahttun<s n="adj"/></l><r>sopâmettum<s n="adj"/></r></p></e>
     <e><p><l>anonyma<s n="adj"/></l><r>nomâttem<s n="adj"/></r></p></e>
-    <e><p><l>suivat<s n="adj"/></l><r>pastettem<s n="adj"/></r></p></e>
-    <e><p><l>suivat<s n="adj"/></l><r>tielâs<s n="adj"/></r></p></e>
-    <e><p><l>suivat<s n="adj"/></l><r>tulcce<s n="adj"/></r></p></e>
+    <e><p><l>suivat<s n="adj"/></l><r>ahheev<s n="adj"/></r></p></e>
     <e><p><l>gappas<s n="adj"/></l><r>vielgâd<s n="adj"/></r></p></e>
-    <e><p><l>hillján<s n="adj"/></l><r>joskâd<s n="adj"/></r></p></e>
-    <e><p><l>hillján<s n="adj"/></l><r>jávuttem<s n="adj"/></r></p></e>
-    <e><p><l>hillján<s n="adj"/></l><r>loje<s n="adj"/></r></p></e>
+    <e><p><l>hillján<s n="adj"/></l><r>rávhálâš<s n="adj"/></r></p></e>
     <e><p><l>čavddis<s n="adj"/></l><r>čavos<s n="adj"/></r></p></e>
     <e><p><l>muoseheapme<s n="adj"/></l><r>myesittem<s n="adj"/></r></p></e>
     <e><p><l>umáhttu<s n="adj"/></l><r>čyerbi<s n="adj"/></r></p></e>
@@ -9272,7 +9267,7 @@
     <e><p><l>geaseheapme<s n="adj"/></l><r>ucce<s n="adj"/></r></p></e>
     <e><p><l>suvrris<s n="adj"/></l><r>suuvres<s n="adj"/></r></p></e>
     <e><p><l>dorvvuheapme<s n="adj"/></l><r>torvottem<s n="adj"/></r></p></e>
-    <e><p><l>smáđáhkis<s n="adj"/></l><r>vuovâs<s n="adj"/></r></p></e>
+    <e><p><l>smáđáhkis<s n="adj"/></l><r>pyeriluándulâš<s n="adj"/></r></p></e>
     <e><p><l>gámis<s n="adj"/></l><r>käämis<s n="adj"/></r></p></e>
     <e><p><l>čoahkkat<s n="adj"/></l><r>tevkkâd<s n="adj"/></r></p></e>
     <e><p><l>áššeheapme<s n="adj"/></l><r>äšittem<s n="adj"/></r></p></e>
@@ -10139,16 +10134,7 @@
     <e><p><l>lovpet<s n="vblex"/><s n="tv"/></l><r>kárgáđ<s n="vblex"/></r></p></e>
     <e><p><l>jallat<s n="vblex"/><s n="iv"/></l><r>jumijdiđ<s n="vblex"/></r></p></e>
     <e><p><l>jallat<s n="vblex"/><s n="iv"/></l><r>poŋkkeđ<s n="vblex"/></r></p></e>
-    <e><p><l>goardit<s n="vblex"/><s n="tv"/></l><r>fiskáđ<s n="vblex"/></r></p></e>
-    <e><p><l>goardit<s n="vblex"/><s n="tv"/></l><r>paseliđ<s n="vblex"/></r></p></e>
-    <e><p><l>goardit<s n="vblex"/><s n="tv"/></l><r>passeeđ<s n="vblex"/></r></p></e>
-    <e><p><l>goardit<s n="vblex"/><s n="tv"/></l><r>piđđeeđ<s n="vblex"/></r></p></e>
-    <e><p><l>goardit<s n="vblex"/><s n="tv"/></l><r>päštiđ<s n="vblex"/></r></p></e>
-    <e><p><l>goardit<s n="vblex"/><s n="tv"/></l><r>ruškáđ<s n="vblex"/></r></p></e>
-    <e><p><l>goardit<s n="vblex"/><s n="tv"/></l><r>steikkiistiđ<s n="vblex"/></r></p></e>
-    <e><p><l>goardit<s n="vblex"/><s n="tv"/></l><r>šiärráđ<s n="vblex"/></r></p></e>
-    <e><p><l>goardit<s n="vblex"/><s n="tv"/></l><r>čiäskáđ<s n="vblex"/></r></p></e>
-    <e><p><l>goardit<s n="vblex"/><s n="tv"/></l><r>čuovâttiđ<s n="vblex"/></r></p></e>
+    <e><p><l>goardit<s n="vblex"/><s n="tv"/></l><r>kuárdiđ<s n="vblex"/></r></p></e>
     <e><p><l>njorret<s n="vblex"/><s n="tv"/></l><r>leškiistiđ<s n="vblex"/></r></p></e>
     <e><p><l>skierbmut<s n="vblex"/><s n="iv"/></l><r>likkođ<s n="vblex"/></r></p></e>
     <e><p><l>njoarrat<s n="vblex"/><s n="tv"/></l><r>leškiđ<s n="vblex"/></r></p></e>
