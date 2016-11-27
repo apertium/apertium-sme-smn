@@ -996,7 +996,7 @@
     <e><p><l>ollesáigásaš<s n="adj"/></l><r>váldutoimâlâš<s n="adj"/></r></p></e>
     <e><p><l>olmmošlaš<s n="adj"/></l><r>olmoošlâš<s n="adj"/></r></p></e>
     <e><p><l>oppamáilmmálaš<s n="adj"/></l><r>ubâmaailmlâš<s n="adj"/></r></p></e>
-    <e><p><l>originála<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
+    <e><p><l>originála<s n="adj"/></l><r>originaal<s n="adj"/></r></p></e>
     <e><p><l>ortodoksa<s n="adj"/></l><r>ortodoks<s n="adj"/></r></p></e>
     <e><p><l>otná<s n="adj"/></l><r>onnáš<s n="adj"/></r></p></e>
     <e><p><l>otnáš<s n="adj"/></l><r>onnáš<s n="adj"/></r></p></e>
@@ -1125,81 +1125,82 @@
 <!-- ASECTION: Nouns -->
 
     <e><p><l>imaš<s n="n"/></l><r>iimâš<s n="n"/></r></p></e>
-mearusoassi:miärusuási
-vearba:verbâ
-dáhpahus:tábáhtus
-EU-direktiiva:EU-direktiiv
-ablatiiva:ablatiiv
-absolutiiva:absolutiiv
-additiiva:additiiv
-adhortatiiva:adhortatiiv
-adjunktiiva:adjunktiiv
-akkusatiiva:akkusatiiv
-allatiiva:allatiiv
-alternatiiva:alternatiiv
-appellatiiva:appellatiiv
-attentiiva:attentiiv
-datiiva:datiiv
-desideratiiva:desideratiiv
-diminutiiva:diminutiiv
-diminutiiva:diminutiiv
-direktiiva:direktiiv
-distributiiva:distributiiv
-duratiiva:duratiiv
-eksklamatiiva:eksklamatiiv
-elatiiva:elatiiv
-formatiiva:formatiiv
-frekventatiiva:frekventatiiv
-frikatiiva:frikatiiv
-genetiiva:genetiiv
-genitiiva:genitiiv
-habitiiva:habitiiv
-illatiiva:illatiiv
-imperatiiva:imperatiiv
-indikatiiva:indikatiiv
-infinitiiva:infinitiiv
-initiatiiva:initiatiiv
-initiiva:initiiv
-inkoatiiva:inkoatiiv
-innovatiiva:innovatiiv
-insentiiva:insentiiv
-interrogatiiva:interrogatiiv
-kausatiiva:kausatiiv
-komitatiiva:komitatiiv
-komparatiiva:komparatiiv
-konatiiva:konatiiv
-konnektiiva:konnektiiv
-kontinuatiiva:kontinuatiiv
-korrektiiva:korrektiiv
-latiiva:latiiv
-limitatiiva:limitatiiv
-lokatiiva:lokatiiv
-lokomotiiva:lokomotiiv
-multiplikatiiva:multiplikatiiv
-nominatiiva:nominatiiv
-oblikutiiva:oblikutiiv
-partitiiva:partitiiv
-predikatiiva:predikatiiv
-preskriptiiva:preskriptiiv
-privatiiva:privatiiv
-privatiiva:privatiiv
-prolatiiva:prolatiiv
-regulatiiva:regulatiiv
-rektiiva:rektiiv
-sitatiiva:sitatiiv
-statutiiva:statutiiv
-subitiiva:subitiiv
-substantiiva:substantiiv
-superlatiiva:superlatiiv
-terminatiiva:terminatiiv
-totalitiiva:totalitiiv
-translatiiva:translatiiv
-vokatiiva:vokatiiv
-agentiiva:agentiiv
-motiiva:motiiv
-perspektiiva:perspektiiv
-perspektiiva:perspektiiv
-statiiva:statiiv
+    <e><p><l>mearusoassi<s n="n"/></l><r>miärusuási<s n="n"/></r></p></e>
+    <e><p><l>vearba<s n="n"/></l><r>verbâ<s n="n"/></r></p></e>
+    <e><p><l>dáhpahus<s n="n"/></l><r>tábáhtus<s n="n"/></r></p></e>
+    <e><p><l>EU-direktiiva<s n="n"/></l><r>EU-direktiiv<s n="n"/></r></p></e>
+    <e><p><l>ablatiiva<s n="n"/></l><r>ablatiiv<s n="n"/></r></p></e>
+    <e><p><l>absolutiiva<s n="n"/></l><r>absolutiiv<s n="n"/></r></p></e>
+    <e><p><l>additiiva<s n="n"/></l><r>additiiv<s n="n"/></r></p></e>
+    <e><p><l>adhortatiiva<s n="n"/></l><r>adhortatiiv<s n="n"/></r></p></e>
+    <e><p><l>adjunktiiva<s n="n"/></l><r>adjunktiiv<s n="n"/></r></p></e>
+    <e><p><l>akkusatiiva<s n="n"/></l><r>akkusatiiv<s n="n"/></r></p></e>
+    <e><p><l>allatiiva<s n="n"/></l><r>allatiiv<s n="n"/></r></p></e>
+    <e><p><l>alternatiiva<s n="n"/></l><r>alternatiiv<s n="n"/></r></p></e>
+    <e><p><l>appellatiiva<s n="n"/></l><r>appellatiiv<s n="n"/></r></p></e>
+    <e><p><l>attentiiva<s n="n"/></l><r>attentiiv<s n="n"/></r></p></e>
+    <e><p><l>datiiva<s n="n"/></l><r>datiiv<s n="n"/></r></p></e>
+    <e><p><l>desideratiiva<s n="n"/></l><r>desideratiiv<s n="n"/></r></p></e>
+    <e><p><l>diminutiiva<s n="n"/></l><r>diminutiiv<s n="n"/></r></p></e>
+    <e><p><l>diminutiiva<s n="n"/></l><r>diminutiiv<s n="n"/></r></p></e>
+    <e><p><l>direktiiva<s n="n"/></l><r>direktiiv<s n="n"/></r></p></e>
+    <e><p><l>distributiiva<s n="n"/></l><r>distributiiv<s n="n"/></r></p></e>
+    <e><p><l>duratiiva<s n="n"/></l><r>duratiiv<s n="n"/></r></p></e>
+    <e><p><l>eksklamatiiva<s n="n"/></l><r>eksklamatiiv<s n="n"/></r></p></e>
+    <e><p><l>elatiiva<s n="n"/></l><r>elatiiv<s n="n"/></r></p></e>
+    <e><p><l>formatiiva<s n="n"/></l><r>formatiiv<s n="n"/></r></p></e>
+    <e><p><l>frekventatiiva<s n="n"/></l><r>frekventatiiv<s n="n"/></r></p></e>
+    <e><p><l>frikatiiva<s n="n"/></l><r>frikatiiv<s n="n"/></r></p></e>
+    <e><p><l>genetiiva<s n="n"/></l><r>genetiiv<s n="n"/></r></p></e>
+    <e><p><l>genitiiva<s n="n"/></l><r>genitiiv<s n="n"/></r></p></e>
+    <e><p><l>habitiiva<s n="n"/></l><r>habitiiv<s n="n"/></r></p></e>
+    <e><p><l>illatiiva<s n="n"/></l><r>illatiiv<s n="n"/></r></p></e>
+    <e><p><l>imperatiiva<s n="n"/></l><r>imperatiiv<s n="n"/></r></p></e>
+    <e><p><l>indikatiiva<s n="n"/></l><r>indikatiiv<s n="n"/></r></p></e>
+    <e><p><l>infinitiiva<s n="n"/></l><r>infinitiiv<s n="n"/></r></p></e>
+    <e><p><l>initiatiiva<s n="n"/></l><r>initiatiiv<s n="n"/></r></p></e>
+    <e><p><l>initiiva<s n="n"/></l><r>initiiv<s n="n"/></r></p></e>
+    <e><p><l>inkoatiiva<s n="n"/></l><r>inkoatiiv<s n="n"/></r></p></e>
+    <e><p><l>innovatiiva<s n="n"/></l><r>innovatiiv<s n="n"/></r></p></e>
+    <e><p><l>insentiiva<s n="n"/></l><r>insentiiv<s n="n"/></r></p></e>
+    <e><p><l>interrogatiiva<s n="n"/></l><r>interrogatiiv<s n="n"/></r></p></e>
+    <e><p><l>kausatiiva<s n="n"/></l><r>kausatiiv<s n="n"/></r></p></e>
+    <e><p><l>komitatiiva<s n="n"/></l><r>komitatiiv<s n="n"/></r></p></e>
+    <e><p><l>komparatiiva<s n="n"/></l><r>komparatiiv<s n="n"/></r></p></e>
+    <e><p><l>konatiiva<s n="n"/></l><r>konatiiv<s n="n"/></r></p></e>
+    <e><p><l>konnektiiva<s n="n"/></l><r>konnektiiv<s n="n"/></r></p></e>
+    <e><p><l>kontinuatiiva<s n="n"/></l><r>kontinuatiiv<s n="n"/></r></p></e>
+    <e><p><l>korrektiiva<s n="n"/></l><r>korrektiiv<s n="n"/></r></p></e>
+    <e><p><l>latiiva<s n="n"/></l><r>latiiv<s n="n"/></r></p></e>
+    <e><p><l>limitatiiva<s n="n"/></l><r>limitatiiv<s n="n"/></r></p></e>
+    <e><p><l>lokatiiva<s n="n"/></l><r>lokatiiv<s n="n"/></r></p></e>
+    <e><p><l>lokomotiiva<s n="n"/></l><r>lokomotiiv<s n="n"/></r></p></e>
+    <e><p><l>multiplikatiiva<s n="n"/></l><r>multiplikatiiv<s n="n"/></r></p></e>
+    <e><p><l>nominatiiva<s n="n"/></l><r>nominatiiv<s n="n"/></r></p></e>
+    <e><p><l>oblikutiiva<s n="n"/></l><r>oblikutiiv<s n="n"/></r></p></e>
+    <e><p><l>partitiiva<s n="n"/></l><r>partitiiv<s n="n"/></r></p></e>
+    <e><p><l>predikatiiva<s n="n"/></l><r>predikatiiv<s n="n"/></r></p></e>
+    <e><p><l>preskriptiiva<s n="n"/></l><r>preskriptiiv<s n="n"/></r></p></e>
+    <e><p><l>privatiiva<s n="n"/></l><r>privatiiv<s n="n"/></r></p></e>
+    <e><p><l>privatiiva<s n="n"/></l><r>privatiiv<s n="n"/></r></p></e>
+    <e><p><l>prolatiiva<s n="n"/></l><r>prolatiiv<s n="n"/></r></p></e>
+    <e><p><l>regulatiiva<s n="n"/></l><r>regulatiiv<s n="n"/></r></p></e>
+    <e><p><l>rektiiva<s n="n"/></l><r>rektiiv<s n="n"/></r></p></e>
+    <e><p><l>sitatiiva<s n="n"/></l><r>sitatiiv<s n="n"/></r></p></e>
+    <e><p><l>statutiiva<s n="n"/></l><r>statutiiv<s n="n"/></r></p></e>
+    <e><p><l>subitiiva<s n="n"/></l><r>subitiiv<s n="n"/></r></p></e>
+    <e><p><l>substantiiva<s n="n"/></l><r>substantiiv<s n="n"/></r></p></e>
+    <e><p><l>superlatiiva<s n="n"/></l><r>superlatiiv<s n="n"/></r></p></e>
+    <e><p><l>terminatiiva<s n="n"/></l><r>terminatiiv<s n="n"/></r></p></e>
+    <e><p><l>totalitiiva<s n="n"/></l><r>totalitiiv<s n="n"/></r></p></e>
+    <e><p><l>translatiiva<s n="n"/></l><r>translatiiv<s n="n"/></r></p></e>
+    <e><p><l>vokatiiva<s n="n"/></l><r>vokatiiv<s n="n"/></r></p></e>
+    <e><p><l>agentiiva<s n="n"/></l><r>agentiiv<s n="n"/></r></p></e>
+    <e><p><l>motiiva<s n="n"/></l><r>motiiv<s n="n"/></r></p></e>
+    <e><p><l>perspektiiva<s n="n"/></l><r>perspektiiv<s n="n"/></r></p></e>
+    <e><p><l>perspektiiva<s n="n"/></l><r>perspektiiv<s n="n"/></r></p></e>
+    <e><p><l>statiiva<s n="n"/></l><r>statiiv<s n="n"/></r></p></e>
+
 
     <e><p><l>rehppo<s n="n"/></l><r>reppu<s n="n"/></r></p></e>
     <e><p><l>skuvlalaš<s n="n"/></l><r>škovlâlâš<s n="n"/></r></p></e>
