@@ -912,6 +912,11 @@ W = Reordering
     <def-attr n="a_spec_sme_tags">
       <attr-item tags="south"/>
       <attr-item tags="g3"/>
+       <attr-item tags="allegro"/>
+       <attr-item tags="err_orth_nom_gen_mt"/>
+       <attr-item tags="err_orth_mt"/>
+       <attr-item tags="err_orth_nom_acc_mt"/>
+       <attr-item tags="err_orth_a_á_mt"/>
     </def-attr>
 
     <def-attr n="a_poss">
