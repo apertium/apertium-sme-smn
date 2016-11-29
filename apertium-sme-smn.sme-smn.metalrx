@@ -8,8 +8,6 @@ Rules for exception = 0.6
 Each node <match> (or each node <or>) is one word, we read
 the sentence from top to bottom.
 
-Must have a look at this:
-so - Default: "nuuvt". If only word in sentence: "naa".
 
 The rest: Build like "beassi" below:
 kássa - Default: "kassâ". If "mäksiđ" or "rekinistiđ" in sentence: "kassa". 
@@ -28,15 +26,6 @@ Write comments to forthcoming rules before this line -->
     <def-seq n="word">
        <match/>
     </def-seq>
-    <def-seq n="non-verb">
-      <or>
-        <match tags="n.*"/>
-        <match tags="adv.*"/>
-        <match tags="adj.*"/>
-        <match tags="pr.*"/>
-        <match tags="ij.*"/>
-      </or>
-    </def-seq>
     <def-seq n="skuovva">
       <or>
         <match lemma="gáma"/>  
@@ -47,18 +36,6 @@ Write comments to forthcoming rules before this line -->
       <or>
         <match lemma="fárret"/>
         <match lemma="boahtit"/>
-      </or>
-    </def-seq>
-    <def-seq n="ine-verbs">
-      <or>
-        <match lemma="foo"/>
-        <match lemma="bar"/>
-      </or>
-    </def-seq>
-    <def-seq n="id-adjs">
-      <or>
-        <match lemma="ođđa"/>
-        <match lemma="vuosttaš"/>
       </or>
     </def-seq>
   </def-seqs>
@@ -1193,6 +1170,34 @@ Write comments to forthcoming rules before this line -->
     </match> 
   </rule>
 <!-- no rule for lovádâs = kymmennys yet -->
+
+
+<!-- so -->
+  <rule weight="1.0">
+    <match lemma="so">
+      <select lemma="naa"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="so">
+      <select lemma="nuuvt"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+    <match/>
+    <match lemma="so">
+      <select lemma="nuuvt"/>
+    </match> 
+  </rule>
+
+    <rule weight="0.6">
+    <match lemma="so">
+      <select lemma="nuuvt"/>
+    </match> 
+    <match/>
+  </rule>
 
 
 
