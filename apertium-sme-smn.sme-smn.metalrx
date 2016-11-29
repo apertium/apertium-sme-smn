@@ -1,7 +1,14 @@
 ﻿
 <!-- Note !! Write in the file .metalrx, not in the file .lrx -->
 <!-- Write comments to forthcoming rules after this line
-
+skibas - Default: "puocâlâs". If next word "puásui": "ravžâ".
+so - Default: "nuuvt". If only word in sentence: "naa".
+beassi - Default: "peesi". If "uárree" in sentence: "poorá".
+kássa - Default: "kassâ". If "mäksiđ" or "rekinistiđ" in sentence: "kassa". 
+kreakta - Default: "puurâs". If "kulgâttiđ" or "leškiđ" in sentence: "paskos".
+rássa - Default: "nääli". If "pisso" in sentence: "läättinrassi".
+biire - Default: "pirrâdâh". If "puásui" in sentence: "paalgâs".
+haŋkit - Default: "vovâdiđ". If "lodde" or "riävská" in sentence: "škaŋkkeđ".
 Write comments to forthcoming rules before this line -->
 
 
