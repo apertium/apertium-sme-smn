@@ -1,14 +1,23 @@
-﻿
-<!-- Note !! Write in the file .metalrx, not in the file .lrx -->
+﻿<!-- Note !! Write in the file .metalrx, not in the file .lrx -->
 <!-- Write comments to forthcoming rules after this line
-skibas - Default: "puocâlâs". If next word "puásui": "ravžâ".
+
+In general: Like "skibas" at the end.
+Default = 1.0
+Exception = 0.5
+Rules for exception = 0.6
+Each node <match> (or each node <or>) is one word, we read
+the sentence from top to bottom.
+
+Must have a look at this:
 so - Default: "nuuvt". If only word in sentence: "naa".
-beassi - Default: "peesi". If "uárree" in sentence: "poorá".
+
+The rest: Build like "beassi" below:
 kássa - Default: "kassâ". If "mäksiđ" or "rekinistiđ" in sentence: "kassa". 
 kreakta - Default: "puurâs". If "kulgâttiđ" or "leškiđ" in sentence: "paskos".
 rássa - Default: "nääli". If "pisso" in sentence: "läättinrassi".
 biire - Default: "pirrâdâh". If "puásui" in sentence: "paalgâs".
 haŋkit - Default: "vovâdiđ". If "lodde" or "riävská" in sentence: "škaŋkkeđ".
+
 Write comments to forthcoming rules before this line -->
 
 
@@ -55,9 +64,9 @@ Write comments to forthcoming rules before this line -->
   </def-seqs>
 
 <rules>
-  <rule weight="0.5"><match lemma="Ánne" tags="np.*"><select lemma="Ánne"/></match></rule>
-  <rule weight="0.6"><match lemma="Ánne" tags="np.*.*.attr.*"><select lemma="Ánne"/></match></rule>
-  <rule weight="1.0"><match lemma="Ánne" tags="np.sg.*"><select lemma="Ánná" tags="np.*"/></match></rule>
+  <rule weight="0.5"><match lemma="ánne" tags="np.*"><select lemma="ánne"/></match></rule>
+  <rule weight="0.6"><match lemma="ánne" tags="np.*.*.attr.*"><select lemma="ánne"/></match></rule>
+  <rule weight="1.0"><match lemma="ánne" tags="np.sg.*"><select lemma="ánná" tags="np.*"/></match></rule>
   <rule weight="0.5"><match lemma="Elle" tags="np.*"><select lemma="Elle"/></match></rule>
   <rule weight="0.6"><match lemma="Elle" tags="np.*.*.attr.*"><select lemma="Elle"/></match></rule>
   <rule weight="1.0"><match lemma="Elle" tags="np.sg.*"><select lemma="Elli" tags="np.*"/></match></rule>
@@ -73,12 +82,12 @@ Write comments to forthcoming rules before this line -->
   <rule weight="0.5"><match lemma="Duomis" tags="np.*"><select lemma="Duomis"/></match></rule>
   <rule weight="0.6"><match lemma="Duomis" tags="np.ant.m.attr.*"><select lemma="Duomis"/></match></rule>
   <rule weight="1.0"><match lemma="Duomis" tags="np.*"><select lemma="Tyemes" tags="np.*"/></match></rule>
-  <rule weight="0.5"><match lemma="Ánde" tags="np.*"><select lemma="Ánde"/></match></rule>
-  <rule weight="0.6"><match lemma="Ánde" tags="np.ant.m.attr.*"><select lemma="Ánde"/></match></rule>
-  <rule weight="1.0"><match lemma="Ánde" tags="np.*"><select lemma="Antti" tags="np.*"/></match></rule>
-  <rule weight="0.5"><match lemma="Ánte" tags="np.*"><select lemma="Ánte"/></match></rule>
-  <rule weight="0.6"><match lemma="Ánte" tags="np.ant.m.attr.*"><select lemma="Ánte"/></match></rule>
-  <rule weight="1.0"><match lemma="Ánte" tags="np.*"><select lemma="Antti" tags="np.*"/></match></rule>
+  <rule weight="0.5"><match lemma="ánde" tags="np.*"><select lemma="ánde"/></match></rule>
+  <rule weight="0.6"><match lemma="ánde" tags="np.ant.m.attr.*"><select lemma="ánde"/></match></rule>
+  <rule weight="1.0"><match lemma="ánde" tags="np.*"><select lemma="Antti" tags="np.*"/></match></rule>
+  <rule weight="0.5"><match lemma="ánte" tags="np.*"><select lemma="ánte"/></match></rule>
+  <rule weight="0.6"><match lemma="ánte" tags="np.ant.m.attr.*"><select lemma="ánte"/></match></rule>
+  <rule weight="1.0"><match lemma="ánte" tags="np.*"><select lemma="Antti" tags="np.*"/></match></rule>
   <rule weight="0.5"><match lemma="Máhtte" tags="np.*"><select lemma="Máhtte"/></match></rule>
   <rule weight="0.6"><match lemma="Máhtte" tags="np.ant.m.attr.*"><select lemma="Máhtte"/></match></rule>
   <rule weight="1.0"><match lemma="Máhtte" tags="np.*"><select lemma="Matti" tags="np.*"/></match></rule>
@@ -100,7 +109,7 @@ Write comments to forthcoming rules before this line -->
 
   <rule weight="1.0"><match lemma="mánáidmánná" tags="n.*"><select lemma="párnáipáárnáš" tags="n.*"/></match></rule>
   <rule weight="0.5"><match lemma="mánáidmánná" tags="n.*"><select lemma="ákkuv"/></match></rule>
-  <rule weight="0.6"><match tags="np.ant.f.*"/><match lemma="mánáidmánná" tags="n.*"><select lemma="ákkuv"/></match></rule> <!-- Ááná ákkuveh -->
+  <rule weight="0.6"><match tags="np.ant.f.*"/><match lemma="mánáidmánná" tags="n.*"><select lemma="ákkuv"/></match></rule> <!-- ááná ákkuveh -->
   <rule weight="0.5"><match lemma="mánáidmánná" tags="n.*"><select lemma="áijuh"/></match></rule>
   <rule weight="0.6"><match tags="np.ant.m.*"/><match lemma="mánáidmánná" tags="n.*"><select lemma="áijuh"/></match></rule> <!-- Pierâ áijuheh -->
 
@@ -1149,9 +1158,6 @@ Write comments to forthcoming rules before this line -->
 
 
 
-
-
-
 <!-- gráda -->
   <rule weight="1.0">
     <match lemma="gráda">
@@ -1187,6 +1193,60 @@ Write comments to forthcoming rules before this line -->
     </match> 
   </rule>
 <!-- no rule for lovádâs = kymmennys yet -->
+
+
+
+<!-- beassi -->
+  <rule weight="1.0">
+    <match lemma="beassi">
+      <select lemma="peesi"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+   <match lemma="beassi">
+      <select lemma="poorá"/>
+   </match>
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="beassi">
+      <select lemma="poorá"/>
+    </match>
+    <repeat upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
+   <match lemma="uárree"/>  
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="uárree"/>  
+    <repeat upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
+    <match lemma="beassi">
+      <select lemma="poorá"/>
+    </match>
+  </rule>
+
+
+
+<!-- skibas -->
+  <rule weight="1.0">
+    <match lemma="skibas">
+      <select lemma="puocâlâs"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="skibas">
+      <select lemma="ravžâ"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="skibas">
+      <select lemma="ravžâ"/>
+    </match>
+    <match lemma="puásui"/>
+  </rule>
+
 
 
 </rules>
