@@ -1251,8 +1251,189 @@ Write comments to forthcoming rules before this line -->
     </match>
     <match lemma="puásui"/>
   </rule>
+  
+  
+
+<!-- kássa -->
+  <rule weight="1.0">
+    <match lemma="kássa">
+      <select lemma="kassâ"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="kássa">
+      <select lemma="kassa"/>
+    </match> 
+  </rule>
+
+   <rule weight="0.6">
+    <match lemma="kássa">
+      <select lemma="kassa"/>
+    </match>
+    <repeat upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
+   <match lemma="mäksiđ"/>  
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="mäksiđ"/>  
+    <repeat upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
+    <match lemma="kássa">
+      <select lemma="kassa"/>
+    </match>
+  </rule>
+  
+     <rule weight="0.6">
+    <match lemma="kássa">
+      <select lemma="kassa"/>
+    </match>
+    <repeat upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
+   <match lemma="rekinistiđ"/>  
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="rekinistiđ"/>  
+    <repeat upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
+    <match lemma="kássa">
+      <select lemma="kassa"/>
+    </match>
+  </rule>
 
 
+<!-- kreakta -->
+  <rule weight="1.0">
+    <match lemma="kreakta">
+      <select lemma="puurâs"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="kreakta">
+      <select lemma="paskos"/>
+    </match> 
+  </rule>
+
+   <rule weight="0.6">
+    <match lemma="kreakta">
+      <select lemma="paskos"/>
+    </match>
+    <repeat upto="4"><seq n="word"/></repeat>
+   <match lemma="kulgâttiđ"/>  
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="kulgâttiđ"/>  
+    <repeat upto="4"><seq n="word"/></repeat>
+    <match lemma="kreakta">
+      <select lemma="paskos"/>
+    </match>
+  </rule>
+  
+     <rule weight="0.6">
+    <match lemma="kreakta">
+      <select lemma="paskos"/>
+    </match>
+    <repeat upto="4"><seq n="word"/></repeat>
+   <match lemma="leškiđ"/>  
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="leškiđ"/>  
+    <repeat upto="4"><seq n="word"/></repeat>
+    <match lemma="kreakta">
+      <select lemma="paskos"/>
+    </match>
+  </rule>
+
+
+<!-- rássa -->
+  <rule weight="1.0">
+    <match lemma="rássa">
+      <select lemma="nääli"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="rássa">
+      <select lemma="läättinrassi"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="rássa">
+      <select lemma="läättinrassi"/>
+    </match>
+    <match lemma="pisso"/>
+
+
+<!-- biire -->
+  <rule weight="1.0">
+    <match lemma="biire">
+      <select lemma="pirrâdâh"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="biire">
+      <select lemma="paalgâs"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="biire">
+      <select lemma="paalgâs"/>
+    </match>
+    <match lemma="puásui"/>
+
+
+<!-- haŋkit -->
+  <rule weight="1.0">
+    <match lemma="haŋkit">
+      <select lemma="vovâdiđ"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="haŋkit">
+      <select lemma="škaŋkkeđ"/>
+    </match> 
+  </rule>
+
+   <rule weight="0.6">
+    <match lemma="haŋkit">
+      <select lemma="škaŋkkeđ"/>
+    </match>
+    <repeat upto="4"><seq n="word"/></repeat>
+   <match lemma="lodde"/>  
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="lodde"/>  
+    <repeat upto="4"><seq n="word"/></repeat>
+    <match lemma="haŋkit">
+      <select lemma="škaŋkkeđ"/>
+    </match>
+  </rule>
+  
+     <rule weight="0.6">
+    <match lemma="haŋkit">
+      <select lemma="škaŋkkeđ"/>
+    </match>
+    <repeat upto="4"><seq n="word"/></repeat>
+   <match lemma="riävská"/>  
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="riävská"/>  
+    <repeat upto="4"><seq n="word"/></repeat>
+    <match lemma="haŋkit">
+      <select lemma="škaŋkkeđ"/>
+    </match>
+  </rule>
+
+
+
+  </rule>
 
 </rules>
 
