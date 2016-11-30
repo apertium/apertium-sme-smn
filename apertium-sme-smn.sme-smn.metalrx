@@ -1262,13 +1262,13 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.5">
-    <match lemma="kássa">
+    <match lemma="kássa" tags="n.g3.*">
       <select lemma="kassa"/>
     </match> 
   </rule>
 
    <rule weight="0.6">
-    <match lemma="kássa">
+    <match lemma="kássa" tags="n.g3.*">
       <select lemma="kassa"/>
     </match>
     <repeat upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
@@ -1278,13 +1278,13 @@ Write comments to forthcoming rules before this line -->
   <rule weight="0.6">
    <match lemma="mäksiđ"/>  
     <repeat upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
-    <match lemma="kássa">
+    <match lemma="kássa" tags="n.g3.*">
       <select lemma="kassa"/>
     </match>
   </rule>
   
      <rule weight="0.6">
-    <match lemma="kássa">
+    <match lemma="kássa" tags="n.g3.*">
       <select lemma="kassa"/>
     </match>
     <repeat upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
@@ -1294,7 +1294,7 @@ Write comments to forthcoming rules before this line -->
   <rule weight="0.6">
    <match lemma="rekinistiđ"/>  
     <repeat upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
-    <match lemma="kássa">
+    <match lemma="kássa" tags="n.g3.*">
       <select lemma="kassa"/>
     </match>
   </rule>
@@ -1599,12 +1599,6 @@ Write comments to forthcoming rules before this line -->
   <match lemma="širrá" tags="n.g3.*"><select lemma="sahe" tags="n.*"/></match>
 </rule>
 
-<rule weight="0.22">
-  <match lemma="kássa" tags="n.g3.*"><select lemma="kassa" tags="n.*"/></match>
-</rule>
-<rule weight="0.78">
-  <match lemma="kássa" tags="n.g3.*"><select lemma="kassâ" tags="n.*"/></match>
-</rule>
 
 <rule weight="0.01">
   <match lemma="čađat" tags="adv.*"><select lemma="čoođâg" tags="adv.*"/></match>
@@ -1662,13 +1656,6 @@ Write comments to forthcoming rules before this line -->
 </rule>
 <rule weight="0.01">
   <match lemma="hihtásit" tags="adv.*"><select lemma="hittáht" tags="adv.*"/></match>
-</rule>
-
-<rule weight="0.02">
-  <match lemma="rássa" tags="n.g3.*"><select lemma="läättinrassi" tags="n.*"/></match>
-</rule>
-<rule weight="0.98">
-  <match lemma="rássa" tags="n.g3.*"><select lemma="nääli" tags="n.*"/></match>
 </rule>
 
 <rule weight="0.81">
@@ -1784,13 +1771,6 @@ Write comments to forthcoming rules before this line -->
   <match lemma="modealla" tags="n.g3.*"><select lemma="myenster" tags="n.*"/></match>
 </rule>
 
-
-<rule weight="0.71">
-  <match lemma="kreakta" tags="n.*"><select lemma="paskos" tags="n.*"/></match>
-</rule>
-<rule weight="0.29">
-  <match lemma="kreakta" tags="n.*"><select lemma="puurâs" tags="n.*"/></match>
-</rule>
 
 <rule weight="0.96">
   <match lemma="riikkasis" tags="adj.*"><select lemma="aalmuglâš" tags="adj.*"/></match>
