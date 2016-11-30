@@ -1,7 +1,19 @@
 import sys;
 
-#skibas<adj>	puocâlâs<adj>	0	puocâlâs<adj>	
-#skibas<adj>	ravžâ<adj>	0	ravžâ<adj>	
+# Input file (inputfile.tsv):
+
+# addálas<adj>	addalâš<adj>	0	addalâš<adj>	
+# addálas<adj>	adelâš<adj>	1	adelâš<adj>
+# áli<adv>	ain<adv>	2190	ain<adv>
+# áli<adv>	eivi<adv>	9	eivi<adv>
+# alitrássi<n>	čuovjisrääsi<n>	0	čuovjisrääsi<n>	
+# alitrássi<n>	puáriskállárääsi<n>	0	puáriskállárääsi<n>	
+
+# Usage: 
+
+# $ python3 adding-bidix-ambiguous-to-lrx-by-frequency.py < inputfile.tsv
+
+ 
 
 lrx = {};
 
