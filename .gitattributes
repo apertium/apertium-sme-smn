@@ -26,6 +26,7 @@ aigin/aigin.smn -text
 /autogen.sh -text
 /check_mt-otpt.py -text
 /configure.ac -text
+dev/adding-bidix-ambiguous-to-lrx-by-frequency.py -text
 dev/all.html -text svneol=unset#application/xml
 dev/bidix-sanity.sh -text
 dev/complicateddifferences.txt -text
