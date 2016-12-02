@@ -39,6 +39,7 @@ dev/fi_depts.V.noder.missing -text
 dev/fi_depts_ficti_hash_dgen.freq -text
 dev/hash-report.freq -text
 dev/missinglist.txt -text
+dev/ruledocu.sh -text
 dev/sanityoutput -text
 dev/sanityoutput.adj -text
 dev/sanityoutput.noun -text
