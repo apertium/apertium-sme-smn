@@ -1,12 +1,12 @@
 echo 'Documenting choose-parts in macros' > doculist
 
-egrep '(<def-macro|"M\[)' apertium-sme-sma.sme-sma.t1x |cut -d '"' -f2 |sed 's/^/¢/' |sed 's/¢M/M/' |tr '¢' '\n' >> doculist
+egrep '(<def-macro|"M\[)' apertium-sme-smn.sme-smn.t1x |cut -d '"' -f2 |sed 's/^/¢/' |sed 's/¢M/M/' |tr '¢' '\n' >> doculist
 echo ' ' >> doculist
 echo ' ' >> doculist
 
 echo 'Rules:' >> doculist
 
-grep 'rule c.*\[' apertium-sme-sma.sme-sma.t1x | grep -v '^<\!' |cut -d '"' -f2   > rules
+grep 'rule c.*\[' apertium-sme-smn.sme-smn.t1x | grep -v '^<\!' |cut -d '"' -f2   > rules
 echo 'Rules for verbals:' >> doculist
 grep '\-V ' rules |rev | sort | rev >> doculist
 echo ' ' >> doculist
