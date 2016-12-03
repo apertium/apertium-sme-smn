@@ -8,18 +8,57 @@ t3x coordination
 t4x match larger contexts
 t5x move foc_tag from wordfoc chunk to the word inside
 
-C[ACDLSTVW]
-M[ACDLSTVW]
+A = addition
+C = agreement / concordance
+D = deletion
+L = lexical change
+S = compound / sammensetning
+T = tag change
+V = set variable
+W = word order
 
-A = Add word
-C = Concordance / agreement
-D = Delete word
-L = Lexical change
-S = Compound (Samansetning)
-T = Tag change
-V = Variable change
-W = Reordering
-
+Rules:
+Rules for verbals:
+ 
+Rules for predicates:
+ 
+Rules for adjectives:
+C[T]-A  adj
+C[S]-A  nouncmp adj
+ 
+Rules for bare nouns and pronouns:
+C[T]-N  reflcom com_ess_verb
+C[W]-N nominal
+C[T]-N  refcom
+C[T]-N  prn
+C[S]-N nouncmp noun
+C[S]-N nouncmp nouncmp noun
+ 
+Rules for noun phrases:
+ 
+Rules for numeral expressions:
+ 
+Rules for adverbs:
+C[DT]-ADV  almmá-adv attr H_advl
+C[DT]-ADV  almmá_adv H_advl
+C[T]-ADV  dálá_adj a_adv_comp
+C[DT]-ADV  almmá_adv attr n_sg_pl_gen haga_post
+C[T]-ADV  adv
+ 
+Rules for P phrases:
+C[V]-PP  adpos
+C[DT]-PP  n_sg_pl_gen haga_post
+C[DT]-PP  almmá_adv n_sg_pl_gen haga_post
+C[DT]-PP  nom_gen birra_post
+C[DT]-PP  noun nom_gen birra_post
+C[L]-PP  prnrefgen mielde_post
+C[DLT]-PP  nubbi_prn beallai_post
+ 
+Rules for other phrases:
+ 
+Small word classes:
+ 
+Technical things:
 -->
 
 <transfer default="chunk">
@@ -1762,7 +1801,7 @@ W = Reordering
 
                   We treat UPPERCASE as proper nouns.">
       <let><var n="caseFirstword"/><lit v="aa"/></let>
-      <choose><when>
+      <choose><when >
         <test><not><or>
           <begins-with><clip pos="1" side="tl" part="a_nom"/><lit-tag v="np"/></begins-with>
           <!-- <equal><clip pos="1" side="tl" part="lettercase"/><lit-tag v="fixedcase"/></equal> -->
@@ -2150,7 +2189,7 @@ W = Reordering
   <section-rules>
     <!-- SECTION: Nominal groups -->
 
-    <rule comment="C[T]: prn" c="Mun lean ruovttus. : SMN.">
+    <rule comment="C[T]-N  prn" c="Mun lean ruovttus. : SMN.">
       <pattern>
         <pattern-item n="prn"/>
       </pattern>
@@ -2183,7 +2222,7 @@ W = Reordering
 
 
 
-    <rule comment="C[]: foc" c="SME. : SMN.">
+    <rule comment="C[W]-X foc" c="SME. : SMN.">
       <pattern>
         <pattern-item n="foc"/>
       </pattern>
@@ -2206,7 +2245,7 @@ W = Reordering
 
 
 
-    <rule comment="C[DT]: vblex go-qst" c="Boahtá go? : Puátá-uv?">
+    <rule comment="C[DT]-X vblex go-qst" c="Boahtá go? : Puátá-uv?">
       <pattern>
         <pattern-item n="verb"/>
         <pattern-item n="go_qst"/>
@@ -2238,7 +2277,7 @@ W = Reordering
 
 
 
-    <rule comment="C[]: nominal" c="SME. : SMN.">
+    <rule comment="C[W]-N nominal" c="SME. : SMN.">
       <pattern>
         <pattern-item n="nominal"/>
       </pattern>
@@ -2260,7 +2299,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[S]: nouncmp noun" c="Skuvlabusse. : SMN.">
+    <rule comment="C[S]-N nouncmp noun" c="Skuvlabusse. : SMN.">
       <pattern>
         <pattern-item n="nouncmp"/>
         <pattern-item n="noun"/>
@@ -2286,7 +2325,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[S]: nouncmp nouncmp noun" c="SME. : SMN.">
+    <rule comment="C[S]-N nouncmp nouncmp noun" c="SME. : SMN.">
       <pattern>
         <pattern-item n="nouncmp"/>
         <pattern-item n="nouncmp"/>
@@ -2317,7 +2356,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[S]: nouncmp adj" c="Estelle-nammasaš. : Estelle-nommâsâš.">
+    <rule comment="C[S]-A  nouncmp adj" c="Estelle-nammasaš. : Estelle-nommâsâš.">
       <pattern>
         <pattern-item n="nouncmp"/>
         <pattern-item n="adj"/>
@@ -2344,7 +2383,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[V]: adpos" c="SME. : SMN.">
+    <rule comment="C[V]-PP  adpos" c="SME. : SMN.">
       <pattern>
         <pattern-item n="adpos"/>
       </pattern>
@@ -2382,7 +2421,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[T]: adv" c="SME. : SMN.">
+    <rule comment="C[T]-ADV  adv" c="SME. : SMN.">
       <pattern>
         <pattern-item n="adv"/>
       </pattern>
@@ -2411,7 +2450,7 @@ W = Reordering
 
     <!-- SECTION: Adpositions -->
 
-    <rule comment="C[T]: adj" c="SME. : SMN.">
+    <rule comment="C[T]-A  adj" c="SME. : SMN.">
       <pattern>
         <pattern-item n="adj"/>
       </pattern>
@@ -2440,7 +2479,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[T]: dálá_adj a_adv_comp" c="Dálá eanet. : Tááláást eenâb.">
+    <rule comment="C[T]-ADV  dálá_adj a_adv_comp" c="Dálá eanet. : Tááláást eenâb.">
       <pattern>
         <pattern-item n="dálá_adj"/>
         <pattern-item n="a_adv_comp"/>
@@ -2467,7 +2506,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[DT]: nom_gen birra_post" c="Sii hupmet nieidda birra. : Sij sárnuh nieidâst.">
+    <rule comment="C[DT]-PP  nom_gen birra_post" c="Sii hupmet nieidda birra. : Sij sárnuh nieidâst.">
       <pattern>
         <pattern-item n="nom_gen"/>
         <pattern-item n="birra_post"/>
@@ -2512,7 +2551,7 @@ W = Reordering
       </action>
     </rule>
     
-    <rule comment="C[DT]: noun nom_gen birra_post" c="Diehtu Sámedikki birra. : SMN.">
+    <rule comment="C[DT]-PP  noun nom_gen birra_post" c="Diehtu Sámedikki birra. : SMN.">
       <pattern>
         <pattern-item n="noun"/>
         <pattern-item n="nom_gen"/>
@@ -2548,7 +2587,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[L]: prnrefgen mielde_post" c="Ean fuola su iežame mielde. : Iän huolâ suu fárusân.">
+    <rule comment="C[L]-PP  prnrefgen mielde_post" c="Ean fuola su iežame mielde. : Iän huolâ suu fárusân.">
       <pattern>
         <pattern-item n="prnrefgen"/>
         <pattern-item n="mielde_post"/>
@@ -2571,7 +2610,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[T]: refcom" c="Son humai iežainis. Sun sáárnui jiečânis.">
+    <rule comment="C[T]-N  refcom" c="Son humai iežainis. Sun sáárnui jiečânis.">
       <pattern>
         <pattern-item n="refcom"/>
       </pattern>
@@ -2599,7 +2638,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[T]: reflcom com_ess_verb" c="Soai leaba iežaineaskka jurddašan ahte. : Suoi lává jiečânis jurdâččâm et.">
+    <rule comment="C[T]-N  reflcom com_ess_verb" c="Soai leaba iežaineaskka jurddašan ahte. : Suoi lává jiečânis jurdâččâm et.">
       <pattern>
         <pattern-item n="refcom"/>
         <pattern-item n="com_ess_verb"/>
@@ -2625,7 +2664,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[DT]: almmá_adv H_advl" c="Almmá doarjaga. : SMN.">
+    <rule comment="C[DT]-ADV  almmá_adv H_advl" c="Almmá doarjaga. : SMN.">
       <pattern>
         <pattern-item n="almmá_adv"/>
         <pattern-item n="H_advl"/>
@@ -2648,7 +2687,7 @@ W = Reordering
       </action>
     </rule>
     
-    <rule comment="C[DT]: almmá_adv n_sg_pl_gen haga_post" c="Almmá doarjaga haga. : SMN.">
+    <rule comment="C[DT]-PP  almmá_adv n_sg_pl_gen haga_post" c="Almmá doarjaga haga. : SMN.">
       <pattern>
         <pattern-item n="almmá_adv"/>
         <pattern-item n="n_sg_pl_gen"/>
@@ -2674,7 +2713,7 @@ W = Reordering
       </action>
     </rule>
     
-    <rule comment="C[DT]: almmá-adv attr H_advl" c="Almmá stáhta doarjaga. : SMN.">
+    <rule comment="C[DT]-ADV  almmá-adv attr H_advl" c="Almmá stáhta doarjaga. : SMN.">
       <pattern>
         <pattern-item n="almmá_adv"/>
         <pattern-item n="attr"/>
@@ -2704,7 +2743,7 @@ W = Reordering
       </action>
     </rule>
     
-    <rule comment="C[DT]: almmá_adv attr n_sg_pl_gen haga_post" c="Almmá stáhta doarjaga haga. : SMN. ">
+    <rule comment="C[DT]-ADV  almmá_adv attr n_sg_pl_gen haga_post" c="Almmá stáhta doarjaga haga. : SMN. ">
       <pattern>
         <pattern-item n="almmá_adv"/>
         <pattern-item n="attr"/>
@@ -2737,7 +2776,7 @@ W = Reordering
       </action>
     </rule>
     
-    <rule comment="C[DT]: n_sg_pl_gen haga_post" c="Sii manne gápmagiid haga olggos. : Te monnii kammuittáá olgos.">
+    <rule comment="C[DT]-PP  n_sg_pl_gen haga_post" c="Sii manne gápmagiid haga olggos. : Te monnii kammuittáá olgos.">
       <pattern>
         <pattern-item n="n_sg_pl_gen"/>
         <pattern-item n="haga_post"/>
@@ -2762,7 +2801,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[DLT]: nubbi_prn beallai_post" c="Rájá nuppe beallái. : Rääji nubebel.">
+    <rule comment="C[DLT]-PP  nubbi_prn beallai_post" c="Rájá nuppe beallái. : Rääji nubebel.">
       <pattern>
         <pattern-item n="nubbi_prn"/>
         <pattern-item n="beallai_post"/>
@@ -2786,7 +2825,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[DLT]: guokte_num láhki_n" c="Guovtti láhkái. : Kyevtináál.">
+    <rule comment="C[DLT]  guokte_num láhki_n" c="Guovtti láhkái. : Kyevtináál.">
       <pattern>
         <pattern-item n="guokte_num"/>
         <pattern-item n="láhki_n"/>
@@ -2810,7 +2849,7 @@ W = Reordering
       </action>
     </rule>
     
-    <rule comment="C[T]: geahččat_vblex birra_adv" c="Son geahččá birra. : Sun kiäččá pirrâsis.">
+    <rule comment="C[T]  geahččat_vblex birra_adv" c="Son geahččá birra. : Sun kiäččá pirrâsis.">
       <pattern>
         <pattern-item n="geahččat_vblex"/>
         <pattern-item n="birra_adv"/>
@@ -2847,7 +2886,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[DLT]: num_nomacc jahki_n_gen boaris_adj" c="Son lea guhtta jagi boaris. : Sun lii kuuđâ ihásâš.">
+    <rule comment="C[DLT]  num_nomacc jahki_n_gen boaris_adj" c="Son lea guhtta jagi boaris. : Sun lii kuuđâ ihásâš.">
       <pattern>
         <pattern-item n="num_nomacc"/>
         <pattern-item n="jahki_n_gen"/>
@@ -2880,7 +2919,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[DT]: ja maiddái_adv" c="ja maiddái. : sehe.">
+    <rule comment="C[DT]  ja maiddái_adv" c="ja maiddái. : sehe.">
       <pattern>
 	<pattern-item n="ja"/>
 	<pattern-item n="maiddái_adv"/>
@@ -2904,7 +2943,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[D]: coggat_vblex shoe_n" c="Mun coggan skuovaid. : Mun kamâdâttâm.">
+    <rule comment="C[D]  coggat_vblex shoe_n" c="Mun coggan skuovaid. : Mun kamâdâttâm.">
       <pattern>
     	<pattern-item n="coggat_vblex"/>
     	<pattern-item n="shoe_n"/>
@@ -2925,7 +2964,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[TV]: liikot_vblex verb_inf vp_boundary" c="Mun liikon lohkat. : Mun lijkkuum luhâmân."> 
+    <rule comment="C[TV]  liikot_vblex verb_inf vp_boundary" c="Mun liikon lohkat. : Mun lijkkuum luhâmân."> 
       <pattern>
         <pattern-item n="liikot_vblex"/>
         <pattern-item n="verb_inf"/>
@@ -2983,7 +3022,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[T]: num_nomacc n_sg_accgen" c="Son oastá čieža láibbi. : Sun uástá čiččâm leibid."> <!-- @@@MACRO@@@ -->
+    <rule comment="C[T]  num_nomacc n_sg_accgen" c="Son oastá čieža láibbi. : Sun uástá čiččâm leibid."> <!-- @@@MACRO@@@ -->
       <pattern>
         <pattern-item n="num_nomacc"/>
         <pattern-item n="n_sg_accgen"/>
@@ -3031,7 +3070,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[AT]: semyear_loc" c="2013. : ive 2013.">
+    <rule comment="C[AT]  semyear_loc" c="2013. : ive 2013.">
       <pattern>
         <pattern-item n="semyear_loc"/>
       </pattern>
@@ -3059,7 +3098,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[T]: jahki_n_loc semyear" c="ive 2013. : SMN.">
+    <rule comment="C[T]  jahki_n_loc semyear" c="ive 2013. : SMN.">
       <pattern>
         <pattern-item n="jahki_n_loc"/>
         <pattern-item n="semyear"/>
@@ -3086,7 +3125,7 @@ W = Reordering
       </action>
     </rule>
  
-    <rule comment="C[T]: num_cmp numeral n_sg_accgen" c="Son oastá 10-12 láibbi : Sun uástá 10-12 leibid.">
+    <rule comment="C[T]  num_cmp numeral n_sg_accgen" c="Son oastá 10-12 láibbi : Sun uástá 10-12 leibid.">
       <pattern>
         <pattern-item n="num_cmp"/>
         <pattern-item n="numeral"/>
@@ -3129,7 +3168,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[T]: num_nomacc adjattr_pos n_sg_accgen" c="Mus leat čieža njálgga láibbi. : Must láá čiččâm njaalgâ leibid.">
+    <rule comment="C[T]  num_nomacc adjattr_pos n_sg_accgen" c="Mus leat čieža njálgga láibbi. : Must láá čiččâm njaalgâ leibid.">
       <pattern>
         <pattern-item n="num_nomacc"/>
         <pattern-item n="adjattr_pos"/>
@@ -3170,7 +3209,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[T]: prn_dem_sg numeral noun" c="Mun vááldám täid kulmâ kirje. : SMN.">
+    <rule comment="C[T]  prn_dem_sg numeral noun" c="Mun vááldám täid kulmâ kirje. : SMN.">
       <pattern>
         <pattern-item n="prn_dem_sg"/>
         <pattern-item n="numeral"/>
@@ -3217,7 +3256,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[CT]: num-nomacc adv adjattr_pos n_sg_accgen" c="Mus leat čieža hui njálgga láibbi. : SMN.">
+    <rule comment="C[CT]  num-nomacc adv adjattr_pos n_sg_accgen" c="Mus leat čieža hui njálgga láibbi. : SMN.">
       <pattern>
         <pattern-item n="num_nomacc"/>
         <pattern-item n="adv"/>
@@ -3263,7 +3302,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[C]: prn_adj_attr noun" c="SME : SMN">  
+    <rule comment="C[C]  prn_adj_attr noun" c="SME : SMN">  
       <pattern>
         <pattern-item n="prn_adj_attr"/>
         <pattern-item n="noun"/>
@@ -3292,7 +3331,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[C]: attr cmp_splitr cnjcoo noun" c="SME : SMN">  
+    <rule comment="C[C]  attr cmp_splitr cnjcoo noun" c="SME : SMN">  
       <pattern>
         <pattern-item n="attr"/>  
         <pattern-item n="cmp_splitr"/>
@@ -3327,7 +3366,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[C]: attr cmp_splitr cnjcoo nouncmp noun" c="SME : SMN">  
+    <rule comment="C[C]  attr cmp_splitr cnjcoo nouncmp noun" c="SME : SMN">  
       <pattern>
         <pattern-item n="attr"/>  
         <pattern-item n="cmp_splitr"/>
@@ -3366,7 +3405,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[]: prn_ind_dem attr noun" c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
+    <rule comment="C[]  prn_ind_dem attr noun" c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
       <pattern>
         <pattern-item n="prn_ind_dem"/>
         <pattern-item n="attr"/>
@@ -3399,7 +3438,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[S]: prn_adj_attr nouncmp noun" c="Vuosttaš biilagirji. : Vuosmuš autokirje.">
+    <rule comment="C[S]  prn_adj_attr nouncmp noun" c="Vuosttaš biilagirji. : Vuosmuš autokirje.">
       <pattern>
         <pattern-item n="prn_adj_attr"/>
         <pattern-item n="nouncmp"/>
@@ -3432,7 +3471,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[]: prn_ind_dem adjattr_all adjattr_pos noun" c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
+    <rule comment="C[]  prn_ind_dem adjattr_all adjattr_pos noun" c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
       <pattern>
         <pattern-item n="prn_ind_dem"/>
         <pattern-item n="adjattr_all"/>
@@ -3467,7 +3506,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[T]: prn_ind_dem adjattr_all adjattr_pos gencompl noun" c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
+    <rule comment="C[T]  prn_ind_dem adjattr_all adjattr_pos gencompl noun" c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
       <pattern>
         <pattern-item n="prn_ind_dem"/>
         <pattern-item n="adjattr_all"/>
@@ -3506,7 +3545,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[ST]: prn_ind_dem adjattr_all nouncmp noun" c="Vuosttas albma biilagirji. : Vuosmuš olmâ autokirje.">
+    <rule comment="C[ST]  prn_ind_dem adjattr_all nouncmp noun" c="Vuosttas albma biilagirji. : Vuosmuš olmâ autokirje.">
       <pattern>
         <pattern-item n="prn_ind_dem"/>
         <pattern-item n="adjattr_all"/>
@@ -3551,7 +3590,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[]: adjattr_all cnp adjattr_all noun" c="Stuorát ja buoret viesus. : SMN">
+    <rule comment="C[]  adjattr_all cnp adjattr_all noun" c="Stuorát ja buoret viesus. : SMN">
       <pattern>
         <pattern-item n="adjattr_all"/>
         <pattern-item n="cnp"/>
@@ -3602,7 +3641,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[T]: numattr n_sg_com" c="Hupmen vihttanuppelot studeanttain. : sarnum vitnubáluvvijn pajeuáppein.">
+    <rule comment="C[T]  numattr n_sg_com" c="Hupmen vihttanuppelot studeanttain. : sarnum vitnubáluvvijn pajeuáppein.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="n_sg_com"/>
@@ -3633,7 +3672,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[T]: numattr attr n_sg_com" c="Hupmen vihttanuppelot čeahpes studeanttain. : Sarnum vitnubáluvvijn čepis pajeuáppein.">
+    <rule comment="C[T]  numattr attr n_sg_com" c="Hupmen vihttanuppelot čeahpes studeanttain. : Sarnum vitnubáluvvijn čepis pajeuáppein.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="attr"/>
@@ -3674,7 +3713,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[ST]: numattr nouncmp n_sg_com" c="Birgen vihttanuppelot biilagirjjiin. : Piergiim vitnubáluvvijn autokirjijn.">
+    <rule comment="C[ST]  numattr nouncmp n_sg_com" c="Birgen vihttanuppelot biilagirjjiin. : Piergiim vitnubáluvvijn autokirjijn.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="nouncmp"/>
@@ -3715,7 +3754,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[ST]: numattr attr nouncmp n_sg_com" c="Birgen olmâ vihttanuppelot biilagirjjiin. : Piergiim olmâ vitnubáluvvijn autokirjijn.">
+    <rule comment="C[ST]  numattr attr nouncmp n_sg_com" c="Birgen olmâ vihttanuppelot biilagirjjiin. : Piergiim olmâ vitnubáluvvijn autokirjijn.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="attr"/>
@@ -3763,7 +3802,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[T]: numattr n_sg_accgen" c="SME. : SMN.">
+    <rule comment="C[T]  numattr n_sg_accgen" c="SME. : SMN.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="n_sg_accgen"/>
@@ -3808,7 +3847,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[ST]: num-attr nouncmp n_sg_accgen" c="SME. : SMN.">
+    <rule comment="C[ST]  num-attr nouncmp n_sg_accgen" c="SME. : SMN.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="nouncmp"/>
@@ -3858,7 +3897,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[]: agreement_buot noun">
+    <rule comment="C[]  agreement_buot noun">
       <pattern>
         <pattern-item n="agreement_buot"/>
         <pattern-item n="noun"/>
@@ -3892,7 +3931,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[S]: agreement_buot nouncmp noun" c="buot biilaolbmot. : puohah autoulmuuh.">
+    <rule comment="C[S]  agreement_buot nouncmp noun" c="buot biilaolbmot. : puohah autoulmuuh.">
       <pattern>
         <pattern-item n="agreement_buot"/>
         <pattern-item n="nouncmp"/>
@@ -3934,7 +3973,7 @@ W = Reordering
 
 
 
-    <rule comment="C[]: prn_pl_com n_pl_com" c="Dáiguin mašiinnaiguin lea álki goarrut. : Taiguin mašinijguin lii älkkee kuárruđ.">
+    <rule comment="C[]  prn_pl_com n_pl_com" c="Dáiguin mašiinnaiguin lea álki goarrut. : Taiguin mašinijguin lii älkkee kuárruđ.">
       <pattern>
         <pattern-item n="prn_pl_com"/>
         <pattern-item n="n_pl_com"/>
@@ -3964,7 +4003,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[T]: auxverb" c="Iige. : SMN. ">
+    <rule comment="C[T]  auxverb" c="Iige. : SMN. ">
       <pattern>
         <pattern-item n="auxverb"/>
       </pattern>
@@ -3994,7 +4033,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[V]: mainverb" c="SME. : SMN.">
+    <rule comment="C[V]  mainverb" c="SME. : SMN.">
       <pattern>
         <pattern-item n="mainverb"/>
       </pattern>
@@ -4015,7 +4054,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[T]: giittos_n eatnat_adv" c="Giittos eatnat. : SMN.">
+    <rule comment="C[T]  giittos_n eatnat_adv" c="Giittos eatnat. : SMN.">
       <pattern>
         <pattern-item n="giittos_n"/>
         <pattern-item n="eatnat_adv"/>
@@ -4042,7 +4081,7 @@ W = Reordering
 
       </action>
     </rule>
-    <rule comment="C[DT]: ovdamearka_n dihte_post" c="Ovdamearkka dihtii. : Ovdâmerkkân.">
+    <rule comment="C[DT]  ovdamearka_n dihte_post" c="Ovdamearkka dihtii. : Ovdâmerkkân.">
       <pattern>
         <pattern-item n="ovdamearka_n"/>
         <pattern-item n="dihte_post"/>
@@ -4065,7 +4104,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[A]: vuostáiváldit_vblex" c="Vuostáiváldit. : Väldiđ vuástá.">
+    <rule comment="C[A]  vuostáiváldit_vblex" c="Vuostáiváldit. : Väldiđ vuástá.">
       <pattern>
         <pattern-item n="vuostáiváldit_vblex"/>
       </pattern>
@@ -4091,7 +4130,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[A]: anon_verb" c="Atnuiváldit. : Väldiđ anon.">
+    <rule comment="C[A]  anon_verb" c="Atnuiváldit. : Väldiđ anon.">
       <pattern>
         <pattern-item n="anon_verb"/>
       </pattern>
@@ -4117,7 +4156,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[A]: álkidahttit_vblex" c="Álkidahttit. : Toohâđ älkkeebin.">
+    <rule comment="C[A]  álkidahttit_vblex" c="Álkidahttit. : Toohâđ älkkeebin.">
       <pattern>
         <pattern-item n="álkidahttit_vblex"/>
       </pattern>
@@ -4142,7 +4181,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[A]: ovttasbargat_vblex" c="Ovttasbargat. : Porgâđ ovttâst.">
+    <rule comment="C[A]  ovttasbargat_vblex" c="Ovttasbargat. : Porgâđ ovttâst.">
       <pattern>
         <pattern-item n="ovttasbargat_vblex"/>
       </pattern>
@@ -4167,7 +4206,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[A]: ođđasisorganiseret_vblex" c="Ođđasisorganiseret. : Orniđ uđđâsist.">
+    <rule comment="C[A]  ođđasisorganiseret_vblex" c="Ođđasisorganiseret. : Orniđ uđđâsist.">
       <pattern>
         <pattern-item n="ođđasisorganiseret_vblex"/>
       </pattern>
@@ -4192,7 +4231,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[]: cnjsub" c="SME. : SMN.">
+    <rule comment="C[]  cnjsub" c="SME. : SMN.">
       <pattern>
         <pattern-item n="cnjsub"/>
       </pattern>
@@ -4212,7 +4251,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[]: cnjcoo" c="SME. : SMN.">
+    <rule comment="C[]  cnjcoo" c="SME. : SMN.">
       <pattern>
         <pattern-item n="cnjcoo"/>
       </pattern>
@@ -4233,7 +4272,7 @@ W = Reordering
     </rule>
 
 
-    <rule comment="C[]: sent" c=". : .">
+    <rule comment="C[]  sent" c=". : .">
       <pattern>
         <pattern-item n="sent"/>
       </pattern>
@@ -4252,7 +4291,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[]: numsem" c="SME. : SMN.">
+    <rule comment="C[]  numsem" c="SME. : SMN.">
       <pattern>
         <pattern-item n="numsem"/>
       </pattern>
@@ -4272,7 +4311,7 @@ W = Reordering
       </action>
     </rule>
 
-    <rule comment="C[T]: default" c="SME. : SMN.">
+    <rule comment="C[T]  default" c="SME. : SMN.">
       <pattern>
         <pattern-item n="default"/>
       </pattern>

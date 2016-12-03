@@ -7,6 +7,9 @@ echo ' ' >> doculist
 echo 'Rules:' >> doculist
 
 grep 'rule c.*\[' apertium-sme-smn.sme-smn.t1x | grep -v '^<\!' |cut -d '"' -f2   > rules
+echo 'Rules concerning all parts of speech:' >> doculist
+grep '\-X ' rules |rev | sort | rev >> doculist
+echo ' ' >> doculist
 echo 'Rules for verbals:' >> doculist
 grep '\-V ' rules |rev | sort | rev >> doculist
 echo ' ' >> doculist
@@ -35,6 +38,7 @@ echo 'Rules for other phrases:' >> doculist
 grep '\-PHR ' rules |rev | sort | rev >> doculist
 echo ' ' >> doculist
 echo 'Small word classes:' >> doculist
+grep '\-FOC ' rules |rev | sort | rev >> doculist
 grep '\-CC ' rules |rev | sort | rev >> doculist
 grep '\-CS ' rules |rev | sort | rev >> doculist
 grep '\-IJ ' rules |rev | sort | rev >> doculist
