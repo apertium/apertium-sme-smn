@@ -10,6 +10,7 @@ aigin/AiginLavra_sme2smn_MT[!!-~]-[!!-~]org.txt -text
 aigin/AiginLavra_sme2smn_MT[!!-~]-[!!-~]tivvum.txt -text
 aigin/aigin.missing.freq -text
 aigin/aigin.missing.lemma -text
+aigin/aigin.missing.smefst.freq -text
 aigin/aigin.original.sme -text
 aigin/aigin.smn -text
 /apertium-sme-smn.sme-smn.dix -text
