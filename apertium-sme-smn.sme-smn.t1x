@@ -18,7 +18,13 @@ V = set variable
 W = word order
 
 Rules:
+Rules concerning all parts of speech:
+C[W]-X foc
+C[DT]-X vblex go-qst
+ 
 Rules for verbals:
+C[D]-V  coggat_vblex shoe_n
+C[TV]-V  liikot_vblex verb_inf vp_boundary
  
 Rules for predicates:
  
@@ -35,8 +41,34 @@ C[S]-N nouncmp noun
 C[S]-N nouncmp nouncmp noun
  
 Rules for noun phrases:
+C[CST]-NP  numattr attr nouncmp n_sg_com
+C[CST]-NP  numattr nouncmp n_sg_com
+C[CT]-NP  numattr attr n_sg_com
+C[CT]-NP  numattr n_sg_com
+C[CST]-NP  num-attr nouncmp n_sg_accgen
+C[CT]-NP  numattr n_sg_accgen
+C[CT]-NP  adjattr_all cnp adjattr_all noun
+C[CT]-NP  prn_ind_dem adjattr_all adjattr_pos gencompl noun
+C[C]-NP  attr cmp_splitr cnjcoo noun
+C[CST]-NP  prn_ind_dem adjattr_all nouncmp noun
+C[C]-NP  attr cmp_splitr cnjcoo nouncmp noun
+C[S]-NP  prn_adj_attr nouncmp noun
+C[]-NP  prn_ind_dem attr noun
+C[C]-NP  prn_adj_attr noun
+C[CL]-NP  prn_ind_dem adjattr_all adjattr_pos noun
+C[C]-NP  agreement_buot noun
  
-Rules for numeral expressions:
+Rules for numeral expressions and quantifier phrases:
+C[AT]-NUM  semyear_loc gets ive
+C[DLT]-NUM  num_nomacc jahki_n_gen boaris_adj
+C[]-NUM  numsem
+C[DLT]-NUM  guokte_num láhki_n
+C[T]-NUM  num_nomacc n_sg_accgen
+C[T]-NUM  num_cmp numeral n_sg_accgen
+C[T]-NUM  num_nomacc adjattr_pos n_sg_accgen
+C[CT]-NUM  num-nomacc adv adjattr_pos n_sg_accgen
+C[T]-NUM  prn_dem_sg numeral noun
+C[T]-NUM  jahki_n_loc semyear
  
 Rules for adverbs:
 C[DT]-ADV  almmá-adv attr H_advl
@@ -53,12 +85,20 @@ C[DT]-PP  nom_gen birra_post
 C[DT]-PP  noun nom_gen birra_post
 C[L]-PP  prnrefgen mielde_post
 C[DLT]-PP  nubbi_prn beallai_post
+C[T]-PP  geahččat_vblex birra_adv
  
 Rules for other phrases:
  
 Small word classes:
+C[]-CC  cnjcoo
+C[DT]-CC  ja maiddái_adv
+C[]-CS  cnjsub
  
 Technical things:
+ 
+Unclassified:
+C[T]-XXX  default
+C[]-XXX  sent
 -->
 
 <transfer default="chunk">
@@ -2825,7 +2865,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[DLT]  guokte_num láhki_n" c="Guovtti láhkái. : Kyevtináál.">
+    <rule comment="C[DLT]-NUM  guokte_num láhki_n" c="Guovtti láhkái. : Kyevtináál.">
       <pattern>
         <pattern-item n="guokte_num"/>
         <pattern-item n="láhki_n"/>
@@ -2849,7 +2889,7 @@ Technical things:
       </action>
     </rule>
     
-    <rule comment="C[T]  geahččat_vblex birra_adv" c="Son geahččá birra. : Sun kiäččá pirrâsis.">
+    <rule comment="C[T]-PP  geahččat_vblex birra_adv" c="Son geahččá birra. : Sun kiäččá pirrâsis.">
       <pattern>
         <pattern-item n="geahččat_vblex"/>
         <pattern-item n="birra_adv"/>
@@ -2886,7 +2926,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[DLT]  num_nomacc jahki_n_gen boaris_adj" c="Son lea guhtta jagi boaris. : Sun lii kuuđâ ihásâš.">
+    <rule comment="C[DLT]-NUM  num_nomacc jahki_n_gen boaris_adj" c="Son lea guhtta jagi boaris. : Sun lii kuuđâ ihásâš.">
       <pattern>
         <pattern-item n="num_nomacc"/>
         <pattern-item n="jahki_n_gen"/>
@@ -2919,7 +2959,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[DT]  ja maiddái_adv" c="ja maiddái. : sehe.">
+    <rule comment="C[DT]-CC  ja maiddái_adv" c="ja maiddái. : sehe.">
       <pattern>
 	<pattern-item n="ja"/>
 	<pattern-item n="maiddái_adv"/>
@@ -2943,7 +2983,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[D]  coggat_vblex shoe_n" c="Mun coggan skuovaid. : Mun kamâdâttâm.">
+    <rule comment="C[D]-V  coggat_vblex shoe_n" c="Mun coggan skuovaid. : Mun kamâdâttâm.">
       <pattern>
     	<pattern-item n="coggat_vblex"/>
     	<pattern-item n="shoe_n"/>
@@ -2964,7 +3004,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[TV]  liikot_vblex verb_inf vp_boundary" c="Mun liikon lohkat. : Mun lijkkuum luhâmân."> 
+    <rule comment="C[TV]-V  liikot_vblex verb_inf vp_boundary" c="Mun liikon lohkat. : Mun lijkkuum luhâmân."> 
       <pattern>
         <pattern-item n="liikot_vblex"/>
         <pattern-item n="verb_inf"/>
@@ -3022,7 +3062,7 @@ Technical things:
     </rule>
 
 
-    <rule comment="C[T]  num_nomacc n_sg_accgen" c="Son oastá čieža láibbi. : Sun uástá čiččâm leibid."> <!-- @@@MACRO@@@ -->
+    <rule comment="C[T]-NUM  num_nomacc n_sg_accgen" c="Son oastá čieža láibbi. : Sun uástá čiččâm leibid."> <!-- @@@MACRO@@@ -->
       <pattern>
         <pattern-item n="num_nomacc"/>
         <pattern-item n="n_sg_accgen"/>
@@ -3070,7 +3110,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[AT]  semyear_loc" c="2013. : ive 2013.">
+    <rule comment="C[AT]-NUM  semyear_loc gets ive" c="2013. : ive 2013.">
       <pattern>
         <pattern-item n="semyear_loc"/>
       </pattern>
@@ -3098,7 +3138,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[T]  jahki_n_loc semyear" c="ive 2013. : SMN.">
+    <rule comment="C[T]-NUM  jahki_n_loc semyear" c="ive 2013. : SMN.">
       <pattern>
         <pattern-item n="jahki_n_loc"/>
         <pattern-item n="semyear"/>
@@ -3125,7 +3165,7 @@ Technical things:
       </action>
     </rule>
  
-    <rule comment="C[T]  num_cmp numeral n_sg_accgen" c="Son oastá 10-12 láibbi : Sun uástá 10-12 leibid.">
+    <rule comment="C[T]-NUM  num_cmp numeral n_sg_accgen" c="Son oastá 10-12 láibbi : Sun uástá 10-12 leibid.">
       <pattern>
         <pattern-item n="num_cmp"/>
         <pattern-item n="numeral"/>
@@ -3168,7 +3208,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[T]  num_nomacc adjattr_pos n_sg_accgen" c="Mus leat čieža njálgga láibbi. : Must láá čiččâm njaalgâ leibid.">
+    <rule comment="C[T]-NUM  num_nomacc adjattr_pos n_sg_accgen" c="Mus leat čieža njálgga láibbi. : Must láá čiččâm njaalgâ leibid.">
       <pattern>
         <pattern-item n="num_nomacc"/>
         <pattern-item n="adjattr_pos"/>
@@ -3209,7 +3249,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[T]  prn_dem_sg numeral noun" c="Mun vááldám täid kulmâ kirje. : SMN.">
+    <rule comment="C[T]-NUM  prn_dem_sg numeral noun" c="Mun vááldám täid kulmâ kirje. : SMN.">
       <pattern>
         <pattern-item n="prn_dem_sg"/>
         <pattern-item n="numeral"/>
@@ -3256,7 +3296,7 @@ Technical things:
     </rule>
 
 
-    <rule comment="C[CT]  num-nomacc adv adjattr_pos n_sg_accgen" c="Mus leat čieža hui njálgga láibbi. : SMN.">
+    <rule comment="C[CT]-NUM  num-nomacc adv adjattr_pos n_sg_accgen" c="Mus leat čieža hui njálgga láibbi. : SMN.">
       <pattern>
         <pattern-item n="num_nomacc"/>
         <pattern-item n="adv"/>
@@ -3302,7 +3342,7 @@ Technical things:
     </rule>
 
 
-    <rule comment="C[C]  prn_adj_attr noun" c="SME : SMN">  
+    <rule comment="C[C]-NP  prn_adj_attr noun" c="SME : SMN">  
       <pattern>
         <pattern-item n="prn_adj_attr"/>
         <pattern-item n="noun"/>
@@ -3331,7 +3371,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[C]  attr cmp_splitr cnjcoo noun" c="SME : SMN">  
+    <rule comment="C[C]-NP  attr cmp_splitr cnjcoo noun" c="SME : SMN">  
       <pattern>
         <pattern-item n="attr"/>  
         <pattern-item n="cmp_splitr"/>
@@ -3366,7 +3406,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[C]  attr cmp_splitr cnjcoo nouncmp noun" c="SME : SMN">  
+    <rule comment="C[C]-NP  attr cmp_splitr cnjcoo nouncmp noun" c="SME : SMN">  
       <pattern>
         <pattern-item n="attr"/>  
         <pattern-item n="cmp_splitr"/>
@@ -3405,7 +3445,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[]  prn_ind_dem attr noun" c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
+    <rule comment="C[]-NP  prn_ind_dem attr noun" c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
       <pattern>
         <pattern-item n="prn_ind_dem"/>
         <pattern-item n="attr"/>
@@ -3438,7 +3478,7 @@ Technical things:
     </rule>
 
 
-    <rule comment="C[S]  prn_adj_attr nouncmp noun" c="Vuosttaš biilagirji. : Vuosmuš autokirje.">
+    <rule comment="C[S]-NP  prn_adj_attr nouncmp noun" c="Vuosttaš biilagirji. : Vuosmuš autokirje.">
       <pattern>
         <pattern-item n="prn_adj_attr"/>
         <pattern-item n="nouncmp"/>
@@ -3471,7 +3511,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[]  prn_ind_dem adjattr_all adjattr_pos noun" c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
+    <rule comment="C[CL]-NP  prn_ind_dem adjattr_all adjattr_pos noun" c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
       <pattern>
         <pattern-item n="prn_ind_dem"/>
         <pattern-item n="adjattr_all"/>
@@ -3506,7 +3546,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[T]  prn_ind_dem adjattr_all adjattr_pos gencompl noun" c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
+    <rule comment="C[CT]-NP  prn_ind_dem adjattr_all adjattr_pos gencompl noun" c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
       <pattern>
         <pattern-item n="prn_ind_dem"/>
         <pattern-item n="adjattr_all"/>
@@ -3545,7 +3585,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[ST]  prn_ind_dem adjattr_all nouncmp noun" c="Vuosttas albma biilagirji. : Vuosmuš olmâ autokirje.">
+    <rule comment="C[CST]-NP  prn_ind_dem adjattr_all nouncmp noun" c="Vuosttas albma biilagirji. : Vuosmuš olmâ autokirje.">
       <pattern>
         <pattern-item n="prn_ind_dem"/>
         <pattern-item n="adjattr_all"/>
@@ -3590,7 +3630,7 @@ Technical things:
     </rule>
 
 
-    <rule comment="C[]  adjattr_all cnp adjattr_all noun" c="Stuorát ja buoret viesus. : SMN">
+    <rule comment="C[CT]-NP  adjattr_all cnp adjattr_all noun" c="Stuorát ja buoret viesus. : SMN">
       <pattern>
         <pattern-item n="adjattr_all"/>
         <pattern-item n="cnp"/>
@@ -3641,7 +3681,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[T]  numattr n_sg_com" c="Hupmen vihttanuppelot studeanttain. : sarnum vitnubáluvvijn pajeuáppein.">
+    <rule comment="C[CT]-NP  numattr n_sg_com" c="Hupmen vihttanuppelot studeanttain. : sarnum vitnubáluvvijn pajeuáppein.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="n_sg_com"/>
@@ -3672,7 +3712,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[T]  numattr attr n_sg_com" c="Hupmen vihttanuppelot čeahpes studeanttain. : Sarnum vitnubáluvvijn čepis pajeuáppein.">
+    <rule comment="C[CT]-NP  numattr attr n_sg_com" c="Hupmen vihttanuppelot čeahpes studeanttain. : Sarnum vitnubáluvvijn čepis pajeuáppein.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="attr"/>
@@ -3713,7 +3753,7 @@ Technical things:
     </rule>
 
 
-    <rule comment="C[ST]  numattr nouncmp n_sg_com" c="Birgen vihttanuppelot biilagirjjiin. : Piergiim vitnubáluvvijn autokirjijn.">
+    <rule comment="C[CST]-NP  numattr nouncmp n_sg_com" c="Birgen vihttanuppelot biilagirjjiin. : Piergiim vitnubáluvvijn autokirjijn.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="nouncmp"/>
@@ -3754,7 +3794,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[ST]  numattr attr nouncmp n_sg_com" c="Birgen olmâ vihttanuppelot biilagirjjiin. : Piergiim olmâ vitnubáluvvijn autokirjijn.">
+    <rule comment="C[CST]-NP  numattr attr nouncmp n_sg_com" c="Birgen olmâ vihttanuppelot biilagirjjiin. : Piergiim olmâ vitnubáluvvijn autokirjijn.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="attr"/>
@@ -3802,7 +3842,7 @@ Technical things:
     </rule>
 
 
-    <rule comment="C[T]  numattr n_sg_accgen" c="SME. : SMN.">
+    <rule comment="C[CT]-NP  numattr n_sg_accgen" c="SME. : SMN.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="n_sg_accgen"/>
@@ -3847,7 +3887,7 @@ Technical things:
     </rule>
 
 
-    <rule comment="C[ST]  num-attr nouncmp n_sg_accgen" c="SME. : SMN.">
+    <rule comment="C[CST]-NP  num-attr nouncmp n_sg_accgen" c="SME. : SMN.">
       <pattern>
         <pattern-item n="numattr"/>
         <pattern-item n="nouncmp"/>
@@ -3897,7 +3937,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[]  agreement_buot noun">
+    <rule comment="C[C]-NP  agreement_buot noun">
       <pattern>
         <pattern-item n="agreement_buot"/>
         <pattern-item n="noun"/>
@@ -4231,7 +4271,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[]  cnjsub" c="SME. : SMN.">
+    <rule comment="C[]-CS  cnjsub" c="SME. : SMN.">
       <pattern>
         <pattern-item n="cnjsub"/>
       </pattern>
@@ -4251,7 +4291,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[]  cnjcoo" c="SME. : SMN.">
+    <rule comment="C[]-CC  cnjcoo" c="SME. : SMN.">
       <pattern>
         <pattern-item n="cnjcoo"/>
       </pattern>
@@ -4272,7 +4312,7 @@ Technical things:
     </rule>
 
 
-    <rule comment="C[]  sent" c=". : .">
+    <rule comment="C[]-XXX  sent" c=". : .">
       <pattern>
         <pattern-item n="sent"/>
       </pattern>
@@ -4291,7 +4331,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[]  numsem" c="SME. : SMN.">
+    <rule comment="C[]-NUM  numsem" c="SME. : SMN.">
       <pattern>
         <pattern-item n="numsem"/>
       </pattern>
@@ -4311,7 +4351,7 @@ Technical things:
       </action>
     </rule>
 
-    <rule comment="C[T]  default" c="SME. : SMN.">
+    <rule comment="C[T]-XXX  default" c="SME. : SMN.">
       <pattern>
         <pattern-item n="default"/>
       </pattern>

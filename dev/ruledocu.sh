@@ -1,48 +1,51 @@
-echo 'Documenting choose-parts in macros' > doculist
+echo 'Documenting choose-parts in macros' > /tmp/doculist
 
-egrep '(<def-macro|"M\[)' apertium-sme-smn.sme-smn.t1x |cut -d '"' -f2 |sed 's/^/¢/' |sed 's/¢M/M/' |tr '¢' '\n' >> doculist
-echo ' ' >> doculist
-echo ' ' >> doculist
+egrep '(<def-macro|"M\[)' apertium-sme-smn.sme-smn.t1x |cut -d '"' -f2 |sed 's/^/¢/' |sed 's/¢M/M/' |tr '¢' '\n' >> /tmp/doculist
+echo ' ' >> /tmp/doculist
+echo ' ' >> /tmp/doculist
 
-echo 'Rules:' >> doculist
+echo 'Rules:' >> /tmp/doculist
 
-grep 'rule c.*\[' apertium-sme-smn.sme-smn.t1x | grep -v '^<\!' |cut -d '"' -f2   > rules
-echo 'Rules concerning all parts of speech:' >> doculist
-grep '\-X ' rules |rev | sort | rev >> doculist
-echo ' ' >> doculist
-echo 'Rules for verbals:' >> doculist
-grep '\-V ' rules |rev | sort | rev >> doculist
-echo ' ' >> doculist
-echo 'Rules for predicates:' >> doculist
-grep '\-PRED ' rules |rev | sort | rev >> doculist
-echo ' ' >> doculist
-echo 'Rules for adjectives:' >> doculist
-grep '\-A ' rules |rev | sort | rev >> doculist
-echo ' ' >> doculist
-echo 'Rules for bare nouns and pronouns:' >> doculist
-grep '\-N ' rules |rev | sort | rev >> doculist
-echo ' ' >> doculist
-echo 'Rules for noun phrases:' >> doculist
-grep '\-NP ' rules |rev | sort | rev >> doculist
-echo ' ' >> doculist
-echo 'Rules for numeral expressions:' >> doculist
-grep '\-NUM ' rules |rev | sort | rev >> doculist
-echo ' ' >> doculist
-echo 'Rules for adverbs:' >> doculist
-grep '\-ADV ' rules |rev | sort | rev >> doculist
-echo ' ' >> doculist
-echo 'Rules for P phrases:' >> doculist
-grep '\-PP ' rules |rev | sort | rev >> doculist
-echo ' ' >> doculist
-echo 'Rules for other phrases:' >> doculist
-grep '\-PHR ' rules |rev | sort | rev >> doculist
-echo ' ' >> doculist
-echo 'Small word classes:' >> doculist
-grep '\-FOC ' rules |rev | sort | rev >> doculist
-grep '\-CC ' rules |rev | sort | rev >> doculist
-grep '\-CS ' rules |rev | sort | rev >> doculist
-grep '\-IJ ' rules |rev | sort | rev >> doculist
-echo ' ' >> doculist
-echo 'Technical things:' >> doculist
-grep '\-T ' rules |rev | sort | rev >> doculist
-see doculist
+grep 'rule c.*\[' apertium-sme-smn.sme-smn.t1x | grep -v '^<\!' |cut -d '"' -f2   > /tmp/rules
+echo 'Rules concerning all parts of speech:' >> /tmp/doculist
+grep '\-X ' /tmp/rules |rev | sort | rev >> /tmp/doculist
+echo ' ' >> /tmp/doculist
+echo 'Rules for verbals:' >> /tmp/doculist
+grep '\-V ' /tmp/rules |rev | sort | rev >> /tmp/doculist
+echo ' ' >> /tmp/doculist
+echo 'Rules for predicates:' >> /tmp/doculist
+grep '\-PRED ' /tmp/rules |rev | sort | rev >> /tmp/doculist
+echo ' ' >> /tmp/doculist
+echo 'Rules for adjectives:' >> /tmp/doculist
+grep '\-A ' /tmp/rules |rev | sort | rev >> /tmp/doculist
+echo ' ' >> /tmp/doculist
+echo 'Rules for bare nouns and pronouns:' >> /tmp/doculist
+grep '\-N ' /tmp/rules |rev | sort | rev >> /tmp/doculist
+echo ' ' >> /tmp/doculist
+echo 'Rules for noun phrases:' >> /tmp/doculist
+grep '\-NP ' /tmp/rules |rev | sort | rev >> /tmp/doculist
+echo ' ' >> /tmp/doculist
+echo 'Rules for numeral expressions and quantifier phrases:' >> /tmp/doculist
+grep '\-NUM ' /tmp/rules |rev | sort | rev >> /tmp/doculist
+echo ' ' >> /tmp/doculist
+echo 'Rules for adverbs:' >> /tmp/doculist
+grep '\-ADV ' /tmp/rules |rev | sort | rev >> /tmp/doculist
+echo ' ' >> /tmp/doculist
+echo 'Rules for P phrases:' >> /tmp/doculist
+grep '\-PP ' /tmp/rules |rev | sort | rev >> /tmp/doculist
+echo ' ' >> /tmp/doculist
+echo 'Rules for other phrases:' >> /tmp/doculist
+grep '\-PHR ' /tmp/rules |rev | sort | rev >> /tmp/doculist
+echo ' ' >> /tmp/doculist
+echo 'Small word classes:' >> /tmp/doculist
+grep '\-FOC ' /tmp/rules |rev | sort | rev >> /tmp/doculist
+grep '\-CC ' /tmp/rules |rev | sort | rev >> /tmp/doculist
+grep '\-CS ' /tmp/rules |rev | sort | rev >> /tmp/doculist
+grep '\-IJ ' /tmp/rules |rev | sort | rev >> /tmp/doculist
+echo ' ' >> /tmp/doculist
+echo 'Technical things:' >> /tmp/doculist
+grep '\-T ' /tmp/rules |rev | sort | rev >> /tmp/doculist
+echo ' ' >> /tmp/doculist
+echo 'Unclassified:' >> /tmp/doculist
+grep '\-XXX ' /tmp/rules |rev | sort | rev >> /tmp/doculist
+see /tmp/doculist
