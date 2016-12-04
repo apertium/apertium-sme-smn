@@ -26,12 +26,12 @@
     <sdef n="ord" c="Ord"/> 
     <sdef n="sup" c="Superl"/> 
     <sdef n="nomag" c="NomAg type noun, both sme and smn"/>
-     <sdef n="g3" c="g3 type noun, only sme"/>
-     <sdef n="g7" c="g7 type noun, only sme"/>
+    <sdef n="g3" c="g3 type noun, only sme"/>
+    <sdef n="g7" c="g7 type noun, only sme"/>
     <sdef n="sem_ani" c="Sem/Ani"/> 
     <sdef n="sem_act" c="Sem/Act"/> 
     <sdef n="sem_hum" c="Sem/Hum"/> 
-  <sdef n="sem_dummytag" c="Sem/Dummytag"/> 
+    <sdef n="sem_dummytag" c="Sem/Dummytag"/> 
     <sdef n="sem_plc" c="Sem/Plc"/>
     <sdef n="foc_sun" c="clitic sun"/>
     <sdef n="foc_ge" c="clitic ge"/>
@@ -60,10 +60,11 @@
     <sdef n="ref" c="Reflexive"/>
     <sdef n="rel" c="Relative"/>
     <sdef n="ind" c="Indefinite"/>
-
+    
     <sdef n="sent" c="Sentence marker"/>
     <sdef n="quot" c="Quotation mark"/>
     <sdef n="cm" c="Comma"/>
+    
 <!-- the following inserted inspired from sme-smna -->
 
     <sdef n="sg" c="Singular"/>
@@ -96,12 +97,13 @@
   </sdefs>
 
   <section id="main" type="standard">
-
 <!-- AAAAA CHAPTER 1 The initial bidix - manually made in 2014 pluss october 2015, pluss placenames from Miina/Hannu November 2015   -->
     <!-- ASECTION: Conjunctions -->
     <e><p><l>ahte<s n="cnjcoo"/></l><r>et<s n="cnjcoo"/></r></p></e>
+    <e r="RL"><p><l>ahte<s n="cnjcoo"/></l><r>ete<s n="cnjcoo"/></r></p></e>
     <e><p><l>vs<s n="cnjcoo"/></l><r>vs<s n="cnjcoo"/></r></p></e>    
     <e><p><l>dahje<s n="cnjcoo"/></l><r>teikkâ<s n="cnjcoo"/></r></p></e>
+    <e r="RL"><p><l>dahje<s n="cnjcoo"/></l><r>tâi<s n="cnjcoo"/></r></p></e>
     <e><p><l>dahjege<s n="cnjcoo"/></l><r>teikkâ<s n="cnjcoo"/></r></p></e>
     <e><p><l>dehege<s n="cnjcoo"/></l><r>teikâ<s n="cnjcoo"/></r></p></e>
     <e><p><l>dehe<s n="cnjcoo"/></l><r>teikkâ<s n="cnjcoo"/></r></p></e>
@@ -112,9 +114,11 @@
     <e r="RL"><p><l>muhto<s n="cnjcoo"/></l><r>mutâ<s n="cnjsub"/></r></p></e>
 <!--    <e><p><l>sihke<s n="cnjcoo"/></l><r>sehe<s n="cnjcoo"/></r></p></e> xxx not cnjcoo in sme -->
     <e><p><l>vai<s n="cnjcoo"/></l><r>vâi<s n="cnjcoo"/></r></p></e>
+  
 
     <!-- ASECTION: Subjunctions -->
     <e><p><l>ahte<s n="cnjsub"/></l><r>et<s n="cnjsub"/></r></p></e>
+    <e r="RL"><p><l>ahte<s n="cnjsub"/></l><r>ete<s n="cnjsub"/></r></p></e>
     <e><p><l>daningo<s n="cnjsub"/></l><r>ko<s n="cnjsub"/></r></p></e>
     <e><p><l>dasgo<s n="cnjsub"/></l><r>tastko<s n="cnjsub"/></r></p></e>
     <e><p><l>dego<s n="cnjsub"/></l><r>tegu<s n="cnjsub"/></r></p></e>
@@ -366,6 +370,7 @@
     <e><p><l>fáhkka<s n="adv"/></l><r>fakkist<s n="adv"/></r></p></e>
     <e><p><l>vejolaččat<s n="adv"/></l><r>máhđulávt<s n="adv"/></r></p></e>
     <e><p><l>ovddežis<s n="adv"/></l><r>ovddiist<s n="adv"/></r></p></e>
+    <e><p><l>vuos<s n="adv"/></l><r>vistig<s n="adv"/></r></p></e>
 
 
     <e><p><l>litnásit<s n="adv"/></l><r>linásávt<s n="adv"/></r></p></e>
@@ -1121,7 +1126,7 @@
 <!--    <e><p><l>vuoigat<s n="adj"/></l><r>vuoigâ<s n="adj"/></r></p></e> -->
 
 
-    
+   
 <!-- ASECTION: Nouns -->
 
     <e><p><l>karaoke<s n="n"/></l><r>karaoke<s n="n"/></r></p></e>
@@ -2230,7 +2235,8 @@
 <!--    <e><p><l>ruoktosiidu<s n="n"/></l><r>päikkisijđo<s n="n"/></r></p></e>-->
 
 
-    <!-- ASECTION: Abbreviations -->
+
+     <!-- ASECTION: Abbreviations -->
     
     <e><p><l>dmu<s n="adv"/></l><r>tme<s n="adv"/></r></p></e>
     <e><p><l>dii<s n="adv"/></l><r>tme<s n="adv"/></r></p></e>
@@ -3947,8 +3953,6 @@
 
 
 
-    
-
 
     <!-- ASECTION: Verbs -->
     <e><p><l>gaifát<s n="vblex"/><s n="tv"/></l><r>kavkkâđ<s n="vblex"/></r></p></e>
@@ -3960,6 +3964,7 @@
     <e><p><l>jorgut<s n="vblex"/><s n="tv"/></l><r>jorgođ<s n="vblex"/></r></p></e>
     <e><p><l>koordineret<s n="vblex"/><s n="tv"/></l><r>koordinistiđ<s n="vblex"/></r></p></e>
     <e><p><l>duššadit<s n="vblex"/><s n="tv"/></l><r>tuššâdiđ<s n="vblex"/></r></p></e>
+    <e><p><l>jearahallat<s n="vblex"/><s n="tv"/></l><r>sahhiittâllâđ<s n="vblex"/></r></p></e>
     
     <e><p><l>ođadit<s n="vblex"/><s n="tv"/></l><r>uđâsmiđ<s n="vblex"/></r></p></e>
     <e><p><l>bálkkašit<s n="vblex"/><s n="tv"/></l><r>palhâšiđ<s n="vblex"/></r></p></e>
@@ -4299,7 +4304,7 @@
     <e><p><l>stoahkat<s n="vblex"/><s n="iv"/></l><r>sierâdiđ<s n="vblex"/></r></p></e>
     <e><p><l>suddadit<s n="vblex"/><s n="tv"/></l><r>suddâdiđ<s n="vblex"/></r></p></e>
     <e><p><l>suitit<s n="vblex"/><s n="tv"/></l><r>suitteđ<s n="vblex"/></r></p></e>
-    <e><p><l>sávvat<s n="vblex"/><s n="tv"/></l><r>tuáivuttiđ<s n="vblex"/></r></p></e>!-- Lexical selection rule needed ; Tuáivuttiđ luho; šiev (+ maidnii); tuáivuttiđ tiervâpuáttim / pyeripuáttim; mudoi tuáivuđ-->
+    <e><p><l>sávvat<s n="vblex"/><s n="tv"/></l><r>tuáivuttiđ<s n="vblex"/></r></p></e> <!-- Lexical selection rule needed ; Tuáivuttiđ luho; šiev (+ maidnii); tuáivuttiđ tiervâpuáttim / pyeripuáttim; mudoi tuáivuđ-->
     <e><p><l>sávvat<s n="vblex"/><s n="tv"/></l><r>tuáivuđ<s n="vblex"/></r></p></e>
     <e><p><l>uhkidit<s n="vblex"/><s n="tv"/></l><r>uhkediđ<s n="vblex"/></r></p></e> 
     <e><p><l>veaddit<s n="vblex"/><s n="tv"/></l><r>veddiđ<s n="vblex"/></r></p></e> 
@@ -4354,6 +4359,9 @@
     <e><p><l>šealgát<s n="vblex"/><s n="iv"/></l><r>šiälguđ<s n="vblex"/></r></p></e>
     <e><p><l>šurrat<s n="vblex"/><s n="iv"/></l><r>šuridiđ<s n="vblex"/></r></p></e> 
 
+
+    
+
     <!-- ASECTION: Punctuation -->
 
     <e><re>[.\?:;!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
@@ -4363,7 +4371,12 @@
     <e><re>([0-9]|[0-3][0-9]+)</re><p><l><s n="adj"/><s n="ord"/></l><r><s n="adj"/><s n="ord"/></r></p></e>
     <e><re>[A-Z]+([., \-–]+[0-9]+)*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><re>[IVXLMC]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-   
+  
+
+
+
+
+
 
 <!-- BBBBBB       CHAPTER 2. tEQ1  = bidix with 1-1 match            -->
 
@@ -5277,7 +5290,9 @@
     <e><p><l>NRK<s n="n"/></l><r>NRK<s n="n"/></r></p></e>
     <e><p><l>ON<s n="n"/></l><r>ON<s n="n"/></r></p></e>
     <e><p><l>EU<s n="n"/></l><r>EU<s n="n"/></r></p></e>
+    <e><p><l>beallemuddu<s n="n"/></l><r>pelimuddo<s n="n"/></r></p></e>
 
+    
     <e><p><l>adjektiiva<s n="n"/></l><r>adjektiiv<s n="n"/></r></p></e>
     <e><p><l>administrašuvdna<s n="n"/></l><r>haldâttâs<s n="n"/></r></p></e>
     <e><p><l>admirála<s n="n"/></l><r>amiraal<s n="n"/></r></p></e>
@@ -6437,7 +6452,7 @@
     <e><p><l>julii<s n="n"/></l><r>syeinimáánu<s n="n"/></r></p></e>
     <e><p><l>jumeš<s n="n"/></l><r>jyemehâš<s n="n"/></r></p></e>
     <e><p><l>jumešbealli<s n="n"/></l><r>jyemehâšpeeli<s n="n"/></r></p></e>
-    <e><p><l>junii<s n="n"/></l><r>kesimáánu<s n="n"/></r></p></e>
+    <e r="LR"><p><l>junii<s n="n"/></l><r>kesimáánu<s n="n"/></r></p></e>
     <e><p><l>juogus<s n="n"/></l><r>juávus<s n="n"/></r></p></e>
     <e><p><l>juogut<s n="n"/></l><r>etimâs<s n="n"/></r></p></e>
     <e><p><l>juohkin<s n="n"/></l><r>jyehim<s n="n"/></r></p></e>
@@ -9194,7 +9209,7 @@
     <e><p><l>badjelii<s n="adv"/></l><r>pajeláá<s n="adv"/></r></p></e>
     <e><p><l>valjit<s n="adv"/></l><r>valjeest<s n="adv"/></r></p></e>
     <e><p><l>ruvva<s n="adv"/></l><r>fakkist<s n="adv"/></r></p></e>
-    <e><p><l>arvat<s n="adv"/></l><r>ennuv<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>arvat<s n="adv"/></l><r>ennuv<s n="adv"/></r></p></e>
     <e><p><l>so<s n="adv"/></l><r>naa<s n="adv"/></r></p></e>
     <e><p><l>so<s n="adv"/></l><r>nuuvt<s n="adv"/></r></p></e>
     <e><p><l>diehke<s n="adv"/></l><r>teehi<s n="adv"/></r></p></e>
@@ -54601,6 +54616,7 @@
 
     <e><p><l>SáDi<s n="n"/><s n="acr"/></l><r>SäTi<s n="n"/><s n="acr"/></r></p></e>    
     <e><p><l>ro<s n="n"/><s n="acr"/></l><r>ry<s n="n"/><s n="acr"/></r></p></e>    
+ 
 
   </section> 
 
