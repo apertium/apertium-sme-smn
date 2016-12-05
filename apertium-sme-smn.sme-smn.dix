@@ -17,7 +17,7 @@
     <sdef n="post" c="Postposition"/>
     <sdef n="pr" c="Preposition"/>
     <sdef n="adv" c="Adverb"/>
-    <sdef n="pcle" c="Частица"/>
+    <sdef n="pcle" c="Particle"/>
     <sdef n="cnjcoo" c="Coordinating conjunction"/>
     <sdef n="cnjsub" c="Subordinating conjunction"/>
     <sdef n="iv" c="Intransitive"/>
@@ -109,9 +109,12 @@
     <e><p><l>dehe<s n="cnjcoo"/></l><r>teikkâ<s n="cnjcoo"/></r></p></e>
 <!--    <e><p><l>ja<s n="cnjcoo"/></l><r></r></p></e>-->
     <e><p><l>ja<s n="cnjcoo"/></l><r>já<s n="cnjcoo"/></r></p></e>
+    <e r="RL"><p><l>ja<s n="cnjcoo"/></l><r>ja<s n="cnjcoo"/></r></p></e>
+    <e r="RL"><p><l>ja<s n="cnjcoo"/></l><r>jeđe<s n="cnjcoo"/></r></p></e>
     <e><p><l>muhte<s n="cnjcoo"/></l><r>mut<s n="cnjcoo"/></r></p></e>
     <e><p><l>muhto<s n="cnjcoo"/></l><r>mut<s n="cnjcoo"/></r></p></e>
     <e r="RL"><p><l>muhto<s n="cnjcoo"/></l><r>mutâ<s n="cnjsub"/></r></p></e>
+    <e r="RL"><p><l>muhto<s n="cnjcoo"/></l><r>pic<s n="cnjcoo"/></r></p></e>
 <!--    <e><p><l>sihke<s n="cnjcoo"/></l><r>sehe<s n="cnjcoo"/></r></p></e> xxx not cnjcoo in sme -->
     <e><p><l>vai<s n="cnjcoo"/></l><r>vâi<s n="cnjcoo"/></r></p></e>
   
@@ -260,6 +263,7 @@
 
     <!-- ASECTION: Postpositions -->     
 
+    <e><p><l>guvlui<s n="post"/></l><r>kuuvl<s n="post"/></r></p></e>
     <e><p><l>vuálá<s n="post"/></l><r>vuálá<s n="post"/></r></p></e>
     <e><p><l>mielas<s n="post"/></l><r>mielâst<s n="post"/></r></p></e>
     <e><p><l>alde<s n="post"/></l><r>alne<s n="post"/></r></p></e>
@@ -662,6 +666,7 @@
     <e><p><l>lagabui<s n="adv"/></l><r>aldeláá<s n="adv"/></r></p></e>
     <e><p><l>lahkalagaid<s n="adv"/></l><r>aldaluvâi<s n="adv"/></r></p></e>
     <e><p><l>maid<s n="adv"/></l><r>meid<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>maid<s n="adv"/></l><r>še<s n="pcle"/></r></p></e>
     <e><p><l>maiddái<s n="adv"/></l><r>meiddei<s n="adv"/></r></p></e>
     <e><p><l>maiddá<s n="adv"/></l><r>meiddei<s n="adv"/></r></p></e>
     <e><p><l>maŋimustá<s n="adv"/></l><r>majemustáá<s n="adv"/></r></p></e>
@@ -670,6 +675,7 @@
     <e><p><l>meaddel<s n="adv"/></l><r>lappâd<s n="adv"/></r></p></e>
     <e><p><l>mielde<s n="adv"/></l><r>fáárust<s n="adv"/></r></p></e><!-- Lexical selection rule needed ; Tot jotá fáárust; Tun peesah muu fáárust-->
     <e><p><l>mielde<s n="adv"/></l><r>mield<s n="adv"/></r></p></e><!-- Lexical selection rule needed ; táárbu mield, raapoort mield; -->
+    <e r="RL"><p><l>mielde<s n="adv"/></l><r>mieldi<s n="adv"/></r></p></e>
     <e><p><l>nalde<s n="adv"/></l><r>alne<s n="adv"/></r></p></e>
     <e><p><l>nu<s n="adv"/></l><r>nuuvt<s n="adv"/></r></p></e>
     <e><p><l>oalle<s n="adv"/></l><r>uáli<s n="adv"/></r></p></e>
@@ -2416,7 +2422,7 @@
     <e><p><l>Hammari<s n="np"/></l><r>Hammari<s n="np"/></r></p></e>
     <e><p><l>Haugaard<s n="np"/></l><r>Haugaard<s n="np"/></r></p></e>
     <e><p><l>Haveri<s n="np"/></l><r>Haveri<s n="np"/></r></p></e>
-    <e><p><l>Heaika<s n="np"/></l><r>Heaika<s n="np"/></r></p></e>
+    <e><p><l>Heaika<s n="np"/></l><r>Heikkâ<s n="np"/></r></p></e>
     <e><p><l>Heaikkaš<s n="np"/></l><r>Heaikkaš<s n="np"/></r></p></e>
     <e><p><l>Heammu<s n="np"/></l><r>Heammu<s n="np"/></r></p></e>
     <e><p><l>Heanttut<s n="np"/></l><r>Heanttut<s n="np"/></r></p></e>
@@ -5071,7 +5077,8 @@
     <e><p><l>báikkuid<s n="adv"/></l><r>pááihui<s n="adv"/></r></p></e>
     <e><p><l>dakkaviđe<s n="adv"/></l><r>tállán<s n="adv"/></r></p></e>
     <e><p><l>dal<s n="adv"/></l><r>tääl<s n="adv"/></r></p></e>
-    <e><p><l>dalán<s n="adv"/></l><r>tállán<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>dalán<s n="adv"/></l><r>tállán<s n="adv"/></r></p></e>
+    <e><p><l>dalán<s n="adv"/></l><r>tállân<s n="adv"/></r></p></e>
     <e><p><l>dalánaga<s n="adv"/></l><r>tállán<s n="adv"/></r></p></e>
     <e><p><l>danin<s n="adv"/></l><r>tondiet<s n="adv"/></r></p></e>
     <e><p><l>dasttá<s n="adv"/></l><r>tállán<s n="adv"/></r></p></e>
@@ -5086,6 +5093,7 @@
     <e><p><l>doarrás<s n="adv"/></l><r>tuárrást<s n="adv"/></r></p></e>
     <e><p><l>doarvái<s n="adv"/></l><r>tuárvi<s n="adv"/></r></p></e>
     <e><p><l>dohko<s n="adv"/></l><r>toho<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>dohko<s n="adv"/></l><r>tohon<s n="adv"/></r></p></e>
     <e><p><l>doppimustá<s n="adv"/></l><r>tovbemustáá<s n="adv"/></r></p></e>
     <e><p><l>duo<s n="adv"/></l><r>tuo<s n="adv"/></r></p></e>
     <e><p><l>duohken<s n="adv"/></l><r>tyehin<s n="adv"/></r></p></e>
@@ -5155,6 +5163,7 @@
     <e><p><l>jo<s n="adv"/></l><r>jo<s n="adv"/></r></p></e>
     <e><p><l>julggal<s n="adv"/></l><r>julgâlávt<s n="adv"/></r></p></e>
     <e><p><l>juo<s n="adv"/></l><r>jo<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>juo<s n="adv"/></l><r>juo<s n="cnjcoo"/></r></p></e>
     <e><p><l>justa<s n="adv"/></l><r>eidu<s n="adv"/></r></p></e>
     <e><p><l>liikká<s n="adv"/></l><r>liijká<s n="adv"/></r></p></e>
     <e><p><l>loahpas<s n="adv"/></l><r>loopâst<s n="adv"/></r></p></e>
@@ -5223,7 +5232,7 @@
     <e><p><l>sihkkarit<s n="adv"/></l><r>vissásávt<s n="adv"/></r></p></e>
     <e><p><l>skaippil<s n="adv"/></l><r>ponjen<s n="adv"/></r></p></e>
     <e><p><l>sulaid<s n="adv"/></l><r>suullân<s n="adv"/></r></p></e>
-    <e><p><l>sullii<s n="adv"/></l><r>suullân<s n="adv"/></r></p></e>
+    <e><p><l>sullii<s n="adv"/></l><r>suullân<s n="pcle"/></r></p></e>
     <e><p><l>birrasiid<s n="adv"/></l><r>suullân<s n="adv"/></r></p></e>
     <e><p><l>suoli<s n="adv"/></l><r>syele<s n="adv"/></r></p></e>
     <e><p><l>suollit<s n="adv"/></l><r>syele<s n="adv"/></r></p></e>
@@ -9139,7 +9148,8 @@
     <e><p><l>ovdal<s n="adv"/></l><r>ovdil<s n="adv"/></r></p></e>
     <e><p><l>dasto<s n="adv"/></l><r>tastoo<s n="adv"/></r></p></e>
     <e><p><l>ollu<s n="adv"/></l><r>ennuv<s n="adv"/></r></p></e>
-    <e><p><l>ná<s n="adv"/></l><r>näävt<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>ná<s n="adv"/></l><r>näävt<s n="adv"/></r></p></e>
+    <e><p><l>ná<s n="adv"/></l><r>návt<s n="adv"/></r></p></e>
     <e><p><l>dattetge<s n="adv"/></l><r>teđet<s n="adv"/></r></p></e>
     <e><p><l>vuos<s n="adv"/></l><r>vist<s n="adv"/></r></p></e>
     <e><p><l>vuhtii<s n="adv"/></l><r>vuotân<s n="adv"/></r></p></e>
@@ -35232,7 +35242,7 @@
     <e><p><l>Jessie<s n="np"/></l><r>Jessie<s n="np"/></r></p></e>
     <e><p><l>Jessnes<s n="np"/></l><r>Jessnes<s n="np"/></r></p></e>
     <e><p><l>Jesson<s n="np"/></l><r>Jesson<s n="np"/></r></p></e>
-    <e><p><l>Jesus<s n="np"/></l><r>Jesus<s n="np"/></r></p></e>
+    <e><p><l>Jesus<s n="np"/></l><r>Jeesus<s n="np"/></r></p></e>
     <e><p><l>Jetet<s n="np"/></l><r>Jetet<s n="np"/></r></p></e>
     <e><p><l>Jethro<b/>Tull<s n="np"/></l><r>Jethro<b/>Tull<s n="np"/></r></p></e>
     <e><p><l>Jethro<s n="np"/></l><r>Jethro<s n="np"/></r></p></e>
