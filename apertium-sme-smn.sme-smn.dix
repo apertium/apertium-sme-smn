@@ -286,6 +286,7 @@
     <e><p><l>gurrii<s n="post"/></l><r>piällás<s n="post"/></r></p></e>
     <e><p><l>háldui<s n="post"/></l><r>haaldun<s n="post"/></r></p></e> 
     <e><p><l>lusa<s n="post"/></l><r>luusâ<s n="post"/></r></p></e>
+    <e r="RL"><p><l>lusa<s n="post"/></l><r>luus<s n="post"/></r></p></e>
     <e r="LR"><p><l>maŋŋel<s n="post"/></l><r>maŋa<s n="post"/></r></p></e>
     <e><p><l>maŋŋá<s n="post"/></l><r>maŋa<s n="post"/></r></p></e>
     <e><p><l>mielde<s n="post"/></l><r>mield<s n="post"/></r></p></e>
@@ -307,6 +308,7 @@
     <e><p><l>duohkin<s n="post"/></l><r>tyehin<s n="post"/></r></p></e>
     <e><p><l>loahpageahčen<s n="post"/></l><r>loppâkeččin<s n="post"/></r></p></e>
     <e><p><l>vuollai<s n="post"/></l><r>vuálá<s n="post"/></r></p></e>
+    <e><p><l>sulain<s n="adv"/></l><r>suulâin<s n="post"/></r></p></e>
 
 <!-- Moved from the bottom up here,  -->
 
@@ -1136,6 +1138,8 @@
 <!-- ASECTION: Nouns -->
 
     <e><p><l>karaoke<s n="n"/></l><r>karaoke<s n="n"/></r></p></e>
+    <e><p><l>sulla<s n="n"/></l><r>sullâ<s n="n"/></r></p></e>
+
     <e><p><l>kapealla<s n="n"/></l><r>kappel<s n="n"/></r></p></e>
     <e><p><l>imaš<s n="n"/></l><r>iimâš<s n="n"/></r></p></e>
     <e><p><l>mearusoassi<s n="n"/></l><r>miärusuási<s n="n"/></r></p></e>
@@ -2275,6 +2279,7 @@
     <e><p><l>Ánde<s n="np"/></l><r>Ande<s n="np"/></r></p></e> 
     <e><p><l>Ánne<s n="np"/></l><r>Ánná<s n="np"/></r></p></e> 
     <e><p><l>Ánte<s n="np"/></l><r>Ande<s n="np"/></r></p></e> 
+    <e><p><l>Jovna<s n="np"/></l><r>Jovnâ<s n="np"/></r></p></e> 
     
     
     <!-- ASECTION: Proper nouns sme-person names x=x -->
@@ -6021,6 +6026,7 @@
     <e><p><l>geahči<s n="n"/></l><r>keeči<s n="n"/></r></p></e>
     <e><p><l>geahčči<s n="n"/></l><r>keččee<s n="n"/></r></p></e>
     <e><p><l>geaidnoguorra<s n="n"/></l><r>maađijpeŋkkâ<s n="n"/></r></p></e>
+    <e r="RL"><p><l>geaidnu<s n="n"/></l><r>maađij<s n="n"/></r></p></e>
     <e><p><l>geaidnu<s n="n"/></l><r>kiäinu<s n="n"/></r></p></e>
     <e><p><l>geaisár<s n="n"/></l><r>kiäisár<s n="n"/></r></p></e>
     <e><p><l>gealddáhat<s n="n"/></l><r>kihtâlâs<s n="n"/></r></p></e>
@@ -7961,6 +7967,7 @@
     <e><p><l>bakte<s n="post"/></l><r>peht<s n="post"/></r></p></e>
     <e><p><l>beal<s n="post"/></l><r>pele<s n="post"/></r></p></e>
     <e><p><l>beali<s n="post"/></l><r>pele<s n="post"/></r></p></e>
+    <e r="RL"><p><l>bokte<s n="post"/></l><r>pehti<s n="post"/></r></p></e>
     <e><p><l>bokte<s n="post"/></l><r>peht<s n="post"/></r></p></e>
     <e><p><l>bokti<s n="post"/></l><r>peht<s n="post"/></r></p></e>
     <e><p><l>dihtii<s n="post"/></l><r>tiet<s n="post"/></r></p></e>
