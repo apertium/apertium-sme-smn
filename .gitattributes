@@ -56,6 +56,10 @@ dev/sme_blogspot.A.nocmp.missing -text
 dev/sme_blogspot.N.nocmp.missing -text
 dev/sme_blogspot.V.noder.missing -text
 dev/sme_synonyms.freq -text
+dev/smnbound.sme.mt -text
+dev/smnbound.sme.mt.missing -text
+dev/smnsme_missing_fin.txt -text
+dev/smnsme_missing_gr.txt -text
 dev/sortedsanityoutput_withoutprop.txt -text
 dev/sorting_sanityoutput.sh -text
 dev/source_lists/README -text
