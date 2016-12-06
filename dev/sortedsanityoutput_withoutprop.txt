@@ -1,9 +1,7 @@
 %	gč<vblex>:kj.<vblex>: kj./kj<vblex><abbr><imp>
 
-   54302 /tmp/sme-smn.a	   54302 /tmp/sme-smn.a
+   54320 /tmp/sme-smn.a	   54320 /tmp/sme-smn.a
 %	ba<pcle>:ba<foc_ba>: ba/*ba
-
-%	bat<pcle>:ba<foc_ba>: ba/*ba
 
 %	eambbo<adj>:eenâb<adj>: eenâb/eenâb<adv>
 
@@ -11,8 +9,6 @@
 
 %	maŋŋiteahket<adv>:ehidist¬mannjeed<adv>: ehidist/eehid<n><sg><loc>/ehidist<adv>
 ¬ mannjeed/mannjeed<adv>
-
-%	jaska<adv>:joskâd<adv>: joskâd/joskâd<adj><sg><acc>/joskâd<adj><sg><gen>/joskâd<adj><sg><nom>
 
 %	eahpeluohtehahtti<adj>:epilyetittettee<adj>: epilyetittettee/epilyetittettee<n><nomag><sg><acc>/epilyetittettee<n><nomag><sg><gen>/epilyetittettee<n><nomag><sg><nom>
 
@@ -95,7 +91,7 @@
 
 %	marginála<adj>:marginaal<adj>: marginaal/marginaal<n><sg><acc>/marginaal<n><sg><gen>/marginaal<n><sg><nom>
 
-  108604 total	  108604 total
+  108640 total	  108640 total
 %	vierrogiel<adj>:viereskiel<adj>: viereskiel/vieres<adj><cmp_attr><cmp>+kielâ<adj><attr>/vieres<adj><cmp_sgnom><cmp>+kielâ<adj><attr>
 
 %	iežasgiel<adj>:jieijâskiel<adj>: jieijâskiel/*jieijâskiel
@@ -160,8 +156,6 @@
 
 %	joksege<adv>:suullân<adv>: suullân/suullân<pcle>
 
-%	sullii<adv>:suullân<adv>: suullân/suullân<pcle>
-
 %	birrasii<adv>:suullân<adv>: suullân/suullân<pcle>
 
 %	seaŋgagurrii<adv>:seŋgâkuorân<adv>: seŋgâkuorân/seŋgâ<n><cmp_sgnom><cmp>+kuorâ<n><sg><acc><px1du>/seŋgâ<n><cmp_sgnom><cmp>+kuorâ<n><sg><acc><px1pl>/seŋgâ<n><cmp_sgnom><cmp>+kuorâ<n><sg><acc><px1sg>/seŋgâ<n><cmp_sgnom><cmp>+kuorâ<n><sg><gen><px1du>/seŋgâ<n><cmp_sgnom><cmp>+kuorâ<n><sg><gen><px1pl>/seŋgâ<n><cmp_sgnom><cmp>+kuorâ<n><sg><gen><px1sg>/seŋgâ<n><cmp_sgnom><cmp>+kuorâ<n><sg><ill>
@@ -176,7 +170,7 @@
 
 %	gul<adv>:kulloo<adv>: kulloo/kulloo<n><sg><acc>/kulloo<n><sg><gen>/kulloo<n><sg><nom>/kulluđ<vblex><indic><pres><p3><sg>/kuullâđ¹<ex_vblex><der_pass><vblex><indic><pres><p3><sg>
 
-   54302 /tmp/sme-smn.exp	   54302 /tmp/sme-smn.exp
+   54320 /tmp/sme-smn.exp	   54320 /tmp/sme-smn.exp
 %	gudneáŋgir<adj>:kunneeäŋgir<adj>: kunneeäŋgir/*kunneeäŋgir
 
 %	nággár<adj>:nággár<adj>: nággár/nággár<n><sg><acc>/nággár<n><sg><gen>/nággár<n><sg><nom>
@@ -190,6 +184,8 @@
 %	sealas<adj>:seles<adj>: seles/*seles
 
 %	jalŋŋis<n>:jalŋes<n>: jalŋes/*jalŋes
+
+%	bat<pcle>:uvgs<foc_ba>: uvgs/*uvgs
 
 %	oarbbis<n>:uárbis<n>: uárbis/uárbis<adj><attr>/uárbis<adj><sg><nom>
 

@@ -1,6 +1,6 @@
-   54302 /tmp/sme-smn.exp
-   54302 /tmp/sme-smn.a
-  108604 total
+   54320 /tmp/sme-smn.exp
+   54320 /tmp/sme-smn.a
+  108640 total
 %	ACTA<np>:ACTA<np>:^ACTA/ACTA<n><acr><sg><acc>/ACTA<n><acr><sg><gen>/ACTA<n><acr><sg><nom>/Acta<np><attr>/Acta<np><cog><attr>/Acta<np><cog><sg><acc>/Acta<np><cog><sg><gen>/Acta<np><cog><sg><nom>/Acta<np><sg><acc>/Acta<np><sg><gen>/Acta<np><sg><nom>/Acta<np><top><attr>/Acta<np><top><sg><acc>/Acta<np><top><sg><gen>/Acta<np><top><sg><nom>$
 %	AIDS<np>:AIDS<np>:^AIDS/AIDS<n><acr><sg><acc>/AIDS<n><acr><sg><gen>/AIDS<n><acr><sg><nom>$
 %	ASVO<np>:ASVO<np>:^ASVO/ASVO<n><acr><sg><acc>/ASVO<n><acr><sg><gen>/ASVO<n><acr><sg><nom>/Asvo<np><attr>/Asvo<np><sem_org><attr>/Asvo<np><sem_org><sg><acc>/Asvo<np><sem_org><sg><gen>/Asvo<np><sem_org><sg><nom>/Asvo<np><sg><acc>/Asvo<np><sg><gen>/Asvo<np><sg><nom>$
@@ -312,7 +312,7 @@
 %	attentiiva<n>:attentiiv<n>:^attentiiv/*attentiiv$
 %	ba<pcle>:ba<foc_ba>:^ba/*ba$
 %	bajásgeassin<n>:elleešoddâdem<n>:^elleešoddâdem/eelliđ<ex_vblex><der_nomag><n><cmp_sggen><cmp>+šoddâdem<n><sg><acc>/eelliđ<ex_vblex><der_nomag><n><cmp_sggen><cmp>+šoddâdem<n><sg><gen>/eelliđ<ex_vblex><der_nomag><n><cmp_sggen><cmp>+šoddâdem<n><sg><nom>/eelliđ<ex_vblex><der_nomag><n><cmp_sggen><cmp>+šoddâdiđ<ex_vblex><der_nomact><n><sg><acc>/eelliđ<ex_vblex><der_nomag><n><cmp_sggen><cmp>+šoddâdiđ<ex_vblex><der_nomact><n><sg><gen>/eelliđ<ex_vblex><der_nomag><n><cmp_sggen><cmp>+šoddâdiđ<ex_vblex><der_nomact><n><sg><nom>/eelliđ<ex_vblex><der_nomag><n><cmp_sgnom><cmp>+šoddâdem<n><sg><acc>/eelliđ<ex_vblex><der_nomag><n><cmp_sgnom><cmp>+šoddâdem<n><sg><gen>/eelliđ<ex_vblex><der_nomag><n><cmp_sgnom><cmp>+šoddâdem<n><sg><nom>/eelliđ<ex_vblex><der_nomag><n><cmp_sgnom><cmp>+šoddâdiđ<ex_vblex><der_nomact><n><sg><acc>/eelliđ<ex_vblex><der_nomag><n><cmp_sgnom><cmp>+šoddâdiđ<ex_vblex><der_nomact><n><sg><gen>/eelliđ<ex_vblex><der_nomag><n><cmp_sgnom><cmp>+šoddâdiđ<ex_vblex><der_nomact><n><sg><nom>/ellee<adj><cmp_attr><cmp>+šoddâdem<n><sg><acc>/ellee<adj><cmp_attr><cmp>+šoddâdem<n><sg><gen>/ellee<adj><cmp_attr><cmp>+šoddâdem<n><sg><nom>/ellee<adj><cmp_attr><cmp>+šoddâdiđ<ex_vblex><der_nomact><n><sg><acc>/ellee<adj><cmp_attr><cmp>+šoddâdiđ<ex_vblex><der_nomact><n><sg><gen>/ellee<adj><cmp_attr><cmp>+šoddâdiđ<ex_vblex><der_nomact><n><sg><nom>/ellee<n><nomag><cmp_sggen><cmp>+šoddâdem<n><sg><acc>/ellee<n><nomag><cmp_sggen><cmp>+šoddâdem<n><sg><gen>/ellee<n><nomag><cmp_sggen><cmp>+šoddâdem<n><sg><nom>/ellee<n><nomag><cmp_sggen><cmp>+šoddâdiđ<ex_vblex><der_nomact><n><sg><acc>/ellee<n><nomag><cmp_sggen><cmp>+šoddâdiđ<ex_vblex><der_nomact><n><sg><gen>/ellee<n><nomag><cmp_sggen><cmp>+šoddâdiđ<ex_vblex><der_nomact><n><sg><nom>/ellee<n><nomag><cmp_sgnom><cmp>+šoddâdem<n><sg><acc>/ellee<n><nomag><cmp_sgnom><cmp>+šoddâdem<n><sg><gen>/ellee<n><nomag><cmp_sgnom><cmp>+šoddâdem<n><sg><nom>/ellee<n><nomag><cmp_sgnom><cmp>+šoddâdiđ<ex_vblex><der_nomact><n><sg><acc>/ellee<n><nomag><cmp_sgnom><cmp>+šoddâdiđ<ex_vblex><der_nomact><n><sg><gen>/ellee<n><nomag><cmp_sgnom><cmp>+šoddâdiđ<ex_vblex><der_nomact><n><sg><nom>$
-%	bat<pcle>:ba<foc_ba>:^ba/*ba$
+%	bat<pcle>:uvgs<foc_ba>:^uvgs/*uvgs$
 %	birrasii<adv>:suullân<adv>:^suullân/suullân<pcle>$
 %	birrasiid<adv>:suullân<adv>:^suullân/suullân<pcle>$
 %	boaittobeale<adv>:tuárispele<adv>:^tuárispele/tuáris<adj><cmp_attr><cmp>+peeli<n><sg><acc>/tuáris<adj><cmp_attr><cmp>+peeli<n><sg><gen>/tuáris<adj><cmp_sgnom><cmp>+peeli<n><sg><acc>/tuáris<adj><cmp_sgnom><cmp>+peeli<n><sg><gen>$
@@ -424,7 +424,6 @@
 %	interrogatiiva<n>:interrogatiiv<n>:^interrogatiiv/interrogativ<n><sg><acc>/interrogativ<n><sg><gen>/interrogativ<n><sg><nom>$
 %	ipmilviđá<adv>:immeelviđá<adv>:^immeelviđá/immeelviđá<adj><attr>/immeelviđá<adj><sg><acc>/immeelviđá<adj><sg><gen>/immeelviđá<adj><sg><nom>$
 %	jalŋŋis<n>:jalŋes<n>:^jalŋes/*jalŋes$
-%	jaska<adv>:joskâd<adv>:^joskâd/joskâd<adj><sg><acc>/joskâd<adj><sg><gen>/joskâd<adj><sg><nom>$
 %	jazz<n>:jazz<n>:^jazz/*jazz$
 %	joatkevaš<adj>:juátkoo<adj>:^juátkoo/jotkuđ<vblex><indic><pres><p3><sg>/juátkiđ<ex_vblex><der_pass><vblex><indic><pres><p3><sg>/juátkoo<n><sg><acc>/juátkoo<n><sg><gen>/juátkoo<n><sg><nom>$
 %	joksege<adv>:suullân<adv>:^suullân/suullân<pcle>$
@@ -562,7 +561,6 @@
 %	substantiiva<n>:substantiiv<n>:^substantiiv/substantiv<n><sg><acc>/substantiv<n><sg><gen>/substantiv<n><sg><nom>$
 %	sugahit<vblex>:suilottiđ<vblex>:^suilottiđ/suilođ<ex_vblex><der_tt><vblex><imp><p2><pl>/suilođ<ex_vblex><der_tt><vblex><inf>$
 %	sulaid<adv>:suullân<adv>:^suullân/suullân<pcle>$
-%	sullii<adv>:suullân<adv>:^suullân/suullân<pcle>$
 %	sulloš<n>:suolluš<n>:^suolluš/*suolluš$
 %	suohkadas<n>:suohâdâs<n>:^suohâdâs/*suohâdâs$
 %	superlatiiva<n>:superlatiiv<n>:^superlatiiv/superlativ<n><sg><acc>/superlativ<n><sg><gen>/superlativ<n><sg><nom>$
