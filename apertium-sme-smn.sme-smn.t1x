@@ -2229,7 +2229,7 @@ C[]-XXX  sent
   <section-rules>
     <!-- SECTION: Nominal groups -->
 
-    <rule comment="C[T]-N  prn" c="Mun lean ruovttus. : SMN.">
+    <rule comment="C[T]-NP: prn" c="Mun lean ruovttus. : SMN.">
       <pattern>
         <pattern-item n="prn"/>
       </pattern>
@@ -2285,7 +2285,13 @@ C[]-XXX  sent
 
 
 
+<<<<<<< .mine
+    <rule comment="C[DT]-V: vblex go-qst" c="Boahtá go? : Puátá-uv?">
+||||||| .r74579
+    <rule comment="C[DT]: vblex go-qst" c="Boahtá go? : Puátá-uv?">
+=======
     <rule comment="C[DT]-X vblex go-qst" c="Boahtá go? : Puátá-uv?">
+>>>>>>> .r74666
       <pattern>
         <pattern-item n="verb"/>
         <pattern-item n="go_qst"/>
@@ -2339,7 +2345,13 @@ C[]-XXX  sent
       </action>
     </rule>
 
+<<<<<<< .mine
+    <rule comment="C[S]-N: nouncmp noun" c="Skuvlabusse. : SMN.">
+||||||| .r74579
+    <rule comment="C[S]: nouncmp noun" c="Skuvlabusse. : SMN.">
+=======
     <rule comment="C[S]-N nouncmp noun" c="Skuvlabusse. : SMN.">
+>>>>>>> .r74666
       <pattern>
         <pattern-item n="nouncmp"/>
         <pattern-item n="noun"/>
@@ -2365,7 +2377,13 @@ C[]-XXX  sent
       </action>
     </rule>
 
+<<<<<<< .mine
+    <rule comment="C[S]-N: nouncmp nouncmp noun" c="SME. : SMN.">
+||||||| .r74579
+    <rule comment="C[S]: nouncmp nouncmp noun" c="SME. : SMN.">
+=======
     <rule comment="C[S]-N nouncmp nouncmp noun" c="SME. : SMN.">
+>>>>>>> .r74666
       <pattern>
         <pattern-item n="nouncmp"/>
         <pattern-item n="nouncmp"/>
@@ -2396,7 +2414,13 @@ C[]-XXX  sent
     </rule>
 
 
+<<<<<<< .mine
+    <rule comment="C[S]-A: nouncmp adj" c="Estelle-nammasaš. : Estelle-nommâsâš.">
+||||||| .r74579
+    <rule comment="C[S]: nouncmp adj" c="Estelle-nammasaš. : Estelle-nommâsâš.">
+=======
     <rule comment="C[S]-A  nouncmp adj" c="Estelle-nammasaš. : Estelle-nommâsâš.">
+>>>>>>> .r74666
       <pattern>
         <pattern-item n="nouncmp"/>
         <pattern-item n="adj"/>
