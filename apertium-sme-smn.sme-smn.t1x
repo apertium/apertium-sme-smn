@@ -854,6 +854,7 @@ C[]-XXX  sent
       <cat-item tags="*.adj.attr.*"/>
       <cat-item tags="adj.*.comp.attr.*"/>
       <cat-item tags="adj.*.sup.attr.*"/>
+      <cat-item lemma="guhtemuš" tags="prn.*"/>
     </def-cat>
      <def-cat n="guokte_num">
       <cat-item lemma="guokte" tags="num.*"/>
@@ -2242,8 +2243,8 @@ C[]-XXX  sent
         <pattern-item n="prn"/>
       </pattern>
       <action>
-      <choose><when>
-      <test><in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> <!-- Ii goastta gosage. - Ij koostâ kuussân.-->
+      <choose><when c="Ii goastta gosage. - Ij koostâ kuussân.">
+      <test><in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="kihheen"/></in></test> 
               <let><clip pos="1" side="tl" part="a_foc"/><lit v=""/></let>
               </when>
 		</choose>
@@ -3257,7 +3258,7 @@ C[]-XXX  sent
       </action>
     </rule>
 
-    <rule comment="C[T]-NUM  prn_dem_sg numeral noun" c="Mun vááldám täid kulmâ kirje. : SMN.">
+    <rule comment="C[T]-NUM  prn_dem_sg numeral noun" c="Mun válddán dán golbma girjji : Mun vááldám täid kulmâ kirje. : SMN.">
       <pattern>
         <pattern-item n="prn_dem_sg"/>
         <pattern-item n="numeral"/>
