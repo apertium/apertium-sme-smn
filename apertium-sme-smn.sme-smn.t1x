@@ -4085,27 +4085,6 @@ C[]-XXX  sent
     </rule>
 
 
-    <rule comment="C[V]  mainverb" c="SME. : SMN.">
-      <pattern>
-        <pattern-item n="mainverb"/>
-      </pattern>
-      <action>
-        <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
-        <let><var n="current_verb"/><clip pos="1" side="sl" part="lem"/></let><!-- here we set the variable-->
-        <out>
-          <chunk name="mainverb" case="caseFirstword">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-              <tag><var n="func"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
     <rule comment="C[T]  giittos_n eatnat_adv" c="Giittos eatnat. : SMN.">
       <pattern>
         <pattern-item n="giittos_n"/>
@@ -4277,6 +4256,27 @@ C[]-XXX  sent
             <lu>
               <lit v="uđđâsist"/>
               <lit-tag v="adv"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="C[V]  mainverb" c="SME. : SMN.">
+      <pattern>
+        <pattern-item n="mainverb"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
+        <let><var n="current_verb"/><clip pos="1" side="sl" part="lem"/></let><!-- here we set the variable-->
+        <out>
+          <chunk name="mainverb" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
