@@ -163,6 +163,7 @@
     <e><p><l>guhtemuš<s n="prn"/><s n="rel"/></l><r>kotemuš<s n="prn"/><s n="rel"/></r></p></e>
     <e><p><l>ieš<s n="prn"/></l><r>jieš<s n="prn"/></r></p></e>
     <e><p><l>iešguhte<s n="prn"/></l><r>jieškote<s n="prn"/></r></p></e>
+    <e><p><l>guhte<s n="prn"/></l><r>jieškote<s n="prn"/></r></p></e> <!-- don't remove, we have lrx-rules for it -->
 
     <e><p><l>eará<s n="prn"/></l><r>eres<s n="prn"/></r></p></e>
     <e><p><l>iežá<s n="prn"/></l><r>eres<s n="prn"/></r></p></e>
@@ -180,7 +181,7 @@
     <e><p><l>goappat<b/>guoibmi<s n="prn"/></l><r>kuábáš-uv<b/>kyeimi<s n="prn"/></r></p></e>
     <e><p><l>goabbat<b/>guoibmi<s n="prn"/></l><r>kuábáš-uv<b/>kyeimi<s n="prn"/></r></p></e>
     <e><p><l>buot<s n="prn"/></l><r>puoh<s n="prn"/></r></p></e><!-- vaattâđ sämikiel tááiđu puoh pargein, attr, ii kongr-->  
-    <e><p><l>buot<s n="prn"/></l><r>puohah<s n="prn"/></r></p></e><!-- don't remove - there are lrx rules for it -->  
+<!--    <e><p><l>buot<s n="prn"/></l><r>puohah<s n="prn"/></r></p></e>  with humans? rules for it in lrx -->  
     <e><p><l>buohkat<s n="prn"/></l><r>puohah<s n="prn"/></r></p></e>
     <e><p><l>iešguhtet<s n="prn"/><s n="ind"/></l><r>sierâ<s n="adj"/></r></p></e>
     <e><p><l>diekkár<s n="prn"/></l><r>tieggáár<s n="prn"/></r></p></e>

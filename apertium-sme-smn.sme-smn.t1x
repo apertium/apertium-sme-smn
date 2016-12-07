@@ -849,6 +849,7 @@ C[]-XXX  sent
     </def-cat>
     <def-cat n="prn_adj_attr">
       <cat-item tags="prn.ind.attr.*"/>
+      <cat-item tags="prn.ind.*.*.attr.*"/>
       <cat-item tags="adj.*.attr.*"/>
       <cat-item tags="adj.attr.*"/>
       <cat-item tags="*.adj.attr.*"/>
@@ -1461,6 +1462,7 @@ C[]-XXX  sent
       <list-item v="liikot"/>
     </def-list>
     <def-list n="agreement-attr-lemmas">      
+      <list-item v="jieškote"/> 
       <list-item v="puohah"/> 
       <list-item v="kote"/> 
       <list-item v="kotemuš"/> 
