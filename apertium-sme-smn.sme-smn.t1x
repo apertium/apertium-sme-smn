@@ -1825,6 +1825,14 @@ C[]-XXX  sent
       <list-item v="áinookiärdásâš"/>
       <list-item v="árvusâš"/>
       <list-item v="ääšimiäldásâš"/>
+      <list-item v="kuálmád"/>
+      <list-item v="niäljád"/>
+      <list-item v="viiđâd"/>
+      <list-item v="kuuđâd"/>
+      <list-item v="čiččâd"/>
+      <list-item v="káávcád"/>
+      <list-item v="oovcád"/>
+      <list-item v="lovváád"/>
       
     </def-list>
 
@@ -2500,9 +2508,9 @@ C[]-XXX  sent
         <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
         <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
-        <equal><clip pos="1" side="sl" part="a_ord"/><lit-tag v="ord"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
-        </or></test>
+        </or>
+        </test>
         <let><clip pos="1" side="tl" part="a_attr"/><lit-tag v="sg.nom"/></let>
         </when></choose>
         <out>
