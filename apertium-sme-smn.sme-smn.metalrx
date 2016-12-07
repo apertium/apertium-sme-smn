@@ -1053,7 +1053,7 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.5">
-    <match lemma="buot">
+    <match lemma="buorre">
       <select lemma="šiev"/>
     </match> 
   </rule>
