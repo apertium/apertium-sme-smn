@@ -1460,7 +1460,8 @@ C[]-XXX  sent
     <def-list n="actio_ill_verbs">
       <list-item v="liikot"/>
     </def-list>
-    <def-list n="agreement-attr-lemmas">  
+    <def-list n="agreement-attr-lemmas">      
+      <list-item v="puohah"/> 
       <list-item v="kote"/> 
       <list-item v="kotemuš"/> 
       <list-item v="mottoom"/> 
