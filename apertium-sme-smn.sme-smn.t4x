@@ -27,10 +27,12 @@ REGLA: PR_PO">
       <cat-item tags="@SUBJ→"/>
    </def-cat>
     <def-cat n="GenCompl">
-      <cat-item tags="NumG"/>
-      <cat-item tags="NumG.*"/>
-      <cat-item tags="NP"/>
-      <cat-item tags="NP.*"/>
+      <cat-item tags="NumG.@P←"/>
+      <cat-item tags="NumG.@P←.*"/>
+      <cat-item tags="NP.@P←"/>
+      <cat-item tags="NP.@P←.*"/>
+      <cat-item tags="NPCOORD.@P←.*"/>
+      <cat-item tags="NPCOORD.@P←"/>
     </def-cat>
     <def-cat n="NP">
       <cat-item tags="NP"/>
