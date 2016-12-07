@@ -3464,12 +3464,12 @@ C[]-XXX  sent
       <action>
       <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
         <choose><when><test><or>
-        <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
-        <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
+        <in caseless="yes"><clip pos="2" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
+        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="2" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
         </or></test>
-        <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="3"/></call-macro>
+        <call-macro n="agreement-attr-2Param"><with-param pos="2"/><with-param pos="3"/></call-macro>
         </when></choose>
         <out>
           <chunk name="d_j_n" case="caseFirstword">
