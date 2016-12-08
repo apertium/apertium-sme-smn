@@ -998,6 +998,7 @@ C[]-XXX  sent
        <attr-item tags="err_orth_mt"/>
        <attr-item tags="err_orth_nom_acc_mt"/>
        <attr-item tags="err_orth_a_á_mt"/>
+       <attr-item tags="err_orth-a-á"/>
        <attr-item tags="←logo→"/>
     </def-attr>
 
@@ -1462,6 +1463,7 @@ C[]-XXX  sent
       <list-item v="liikot"/>
     </def-list>
     <def-list n="agreement-attr-lemmas">      
+      <list-item v="kuábáš"/> 
       <list-item v="jieškote"/> 
       <list-item v="puohah"/> 
       <list-item v="kote"/> 
@@ -3082,6 +3084,7 @@ C[]-XXX  sent
       <action>
         <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
       <choose><when>
               <test><and>
                  <not><in caseless="yes"><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
@@ -4227,7 +4230,7 @@ C[]-XXX  sent
             <lu>
               <clip pos="1" side="tl" part="whole"/>
 	    </lu>
-	    <b/>
+	    <b pos="1"/>
             <lu>
 	      <lit v="oovtâst"/>
               <lit-tag v="adv"/>
