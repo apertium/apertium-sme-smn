@@ -675,6 +675,7 @@ Write comments to forthcoming rules before this line -->
   <rule weight="0.6">
    <or>
 	  <match lemma=","/>
+	  <match lemma='"'/>
    </or>
    <match lemma="lohkat"> 
       <select lemma="ettâđ"/>
