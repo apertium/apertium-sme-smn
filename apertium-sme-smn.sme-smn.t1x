@@ -278,6 +278,9 @@ C[]-XXX  sent
       <cat-item tags="n.*.der_sasj.adj.*"/>
       <cat-item tags="n.der_sasj.adj.*"/>
     </def-cat>
+    <def-cat n="lágan">
+      <cat-item lemma="lágan" tags="adj.*"/>
+    </def-cat>
 
     <def-cat n="attr">
       <cat-item tags="*.attr.*"/>
@@ -995,8 +998,11 @@ C[]-XXX  sent
       <attr-item tags="g3"/>
        <attr-item tags="allegro"/>
        <attr-item tags="err_orth_nom_gen_mt"/>
-       <attr-item tags="err_orth_mt"/>
+        <attr-item tags="err_orth_nom_gen"/>
+      <attr-item tags="err_orth_mt"/>
+      <attr-item tags="err_orth"/>
        <attr-item tags="err_orth_nom_acc_mt"/>
+       <attr-item tags="err_orth_nom_acc"/>
        <attr-item tags="err_orth_a_á_mt"/>
        <attr-item tags="err_orth-a-á"/>
        <attr-item tags="←logo→"/>
@@ -2101,7 +2107,21 @@ C[]-XXX  sent
         </when>
       </choose>
     </def-macro>
-
+    <def-macro n="lagan-2Param" npar="2">
+    <choose>
+      <when c="M[L] sierâ lágán to sierâlágán">
+        <test>
+        <equal><clip pos="1" side="tl" part="lem"/><lit v="sierâ"/></equal></test>
+        <let><clip pos="1" side="tl" part="lem"/><lit v="sierâlágán"/></let>
+      </when>
+      <when c="M[LT] mottoom lágán to mottoomlágán">
+        <test>
+        <equal><clip pos="1" side="tl" part="lem"/><lit v="mottoom"/></equal></test>
+        <let><clip pos="1" side="tl" part="lem"/><lit v="mottoomlágán"/></let>
+        <let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.attr"/></let>
+      </when>
+    </choose>
+    </def-macro>
     <def-macro n="foc-1Param" npar="1">
 	<choose>
       <when>
@@ -3476,8 +3496,24 @@ C[]-XXX  sent
         </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="2"/><with-param pos="3"/></call-macro>
         </when></choose>
+        <choose><when><test>
+        <equal><clip pos="2" side="tl" part="lem"/><lit v="lágán"/></equal></test>
+        <call-macro n="lagan-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <out>
           <chunk name="d_j_n" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu><clip pos="1" side="tl" part="whole"/></lu>
+            <b pos="2"/>
+            <lu><clip pos="3" side="tl" part="whole"/></lu>
+          </chunk>
+        </out>
+          </when>
+               <otherwise>
+          <out>
+        <chunk name="d_j_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
               <tag><var n="func"/></tag>
@@ -3488,7 +3524,8 @@ C[]-XXX  sent
             <b pos="2"/>
             <lu><clip pos="3" side="tl" part="whole"/></lu>
           </chunk>
-        </out>
+       </out>
+             </otherwise></choose>
       </action>
     </rule>
 
