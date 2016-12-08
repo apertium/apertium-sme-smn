@@ -2255,7 +2255,7 @@
     <e><p><l>dmu<s n="adv"/></l><r>tme<s n="adv"/></r></p></e>
     <e><p><l>dii<s n="adv"/></l><r>tme<s n="adv"/></r></p></e>
     <e><p><l>tel<s n="n"/></l><r>puh<s n="n"/></r></p></e>
-    <e><p><l>gč<s n="vblex"/></l><r>kj.<s n="vblex"/></r></p></e>
+    <e><p><l>gč<s n="vblex"/></l><r>kj<s n="vblex"/></r></p></e>
     <e><p><l>má<s n="adj"/></l><r>má<s n="adj"/></r></p></e>
     <e><p><l>tlf<s n="n"/></l><r>puh<s n="n"/></r></p></e>
     <e r="LR"><p><l>puh<s n="n"/></l><r>puh<s n="n"/></r></p></e>
@@ -3970,6 +3970,7 @@
 
 
     <!-- ASECTION: Verbs -->
+    <e><p><l>loahpahit<s n="vblex"/><s n="tv"/></l><r>lopâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>gaifát<s n="vblex"/><s n="tv"/></l><r>kavkkâđ<s n="vblex"/></r></p></e>
     <e><p><l>prentet<s n="vblex"/><s n="tv"/></l><r>printtiđ<s n="vblex"/></r></p></e>
     <e><p><l>ávžžuhit<s n="vblex"/><s n="tv"/></l><r>avžuđ<s n="vblex"/></r></p></e>
