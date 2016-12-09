@@ -995,7 +995,6 @@ C[]-XXX  sent
     </def-attr>
     <def-attr n="a_spec_sme_tags">
       <attr-item tags="south"/>
-      <attr-item tags="nomag"/> <!-- this is needed for sme bidix, but here we can remove it -->
       <attr-item tags="g3"/>
        <attr-item tags="allegro"/>
        <attr-item tags="err_orth_nom_gen_mt"/>
