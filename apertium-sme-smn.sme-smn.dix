@@ -365,7 +365,7 @@
     <e><p><l>vuollil<s n="adv"/></l><r>vuálá<s n="adv"/></r></p></e>
     <e><p><l>ovdalačča<s n="adv"/></l><r>ovdiist<s n="adv"/></r></p></e>
     <e><p><l>lulás<s n="adv"/></l><r>máádás<s n="adv"/></r></p></e>
-    <e><p><l>gaskan<s n="adv"/></l><r>koskânis<s n="adv"/></r></p></e>
+    <e><p><l>gaskan<s n="adv"/></l><r>koskân<s n="adv"/></r></p></e> <!-- possessive suffix is added -->
     <e><p><l>dálvet<s n="adv"/></l><r>tälviv<s n="adv"/></r></p></e>
     <e><p><l>iđđedis<s n="adv"/></l><r>iđedist<s n="adv"/></r></p></e>
     <e><p><l>namalassii<s n="adv"/></l><r>nomâlâsân<s n="adv"/></r></p></e>
@@ -7049,7 +7049,7 @@
     <e><p><l>ovttamielalašvuohta<s n="n"/></l><r>oovtâmielâlâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>ovttaoaivilvuohta<s n="n"/></l><r>oovtâmielâlâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>ovttasbargu<s n="n"/></l><r>oovtâstpargo<s n="n"/></r></p></e>
-    <e><p><l>ovttasorru<s n="n"/></l><r>ávuskyeimi<s n="n"/></r></p></e>
+    <e><p><l>ovttasorru<s n="n"/><s n="nomag"/></l><r>ávuskyeimi<s n="n"/></r></p></e>
     <e><p><l>ovtteš<s n="n"/></l><r>oovtâš<s n="n"/></r></p></e>
     <e><p><l>ođas<s n="n"/></l><r>uuđâs<s n="n"/></r></p></e>
     <e><p><l>ođasmahttin<s n="n"/></l><r>uđâsmittem<s n="n"/></r></p></e>

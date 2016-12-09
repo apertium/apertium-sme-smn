@@ -995,6 +995,7 @@ C[]-XXX  sent
     </def-attr>
     <def-attr n="a_spec_sme_tags">
       <attr-item tags="south"/>
+      <attr-item tags="nomag"/> <!-- this is needed for sme bidix, but here we can remove it -->
       <attr-item tags="g3"/>
        <attr-item tags="allegro"/>
        <attr-item tags="err_orth_nom_gen_mt"/>
@@ -2682,7 +2683,7 @@ C[]-XXX  sent
       <action>
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="whole"/>
-             <concat><lit v="fáárus"/><lit-tag v="adv"/><clip pos="1" side="tl" part="a_poss"/></concat></let>
+             <concat><lit v="fárusis"/><lit-tag v="adv"/><clip pos="1" side="tl" part="a_poss"/></concat></let>
         <out>
           <chunk name="adv">
             <tags>
