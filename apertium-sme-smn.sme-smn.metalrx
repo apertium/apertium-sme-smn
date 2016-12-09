@@ -1060,7 +1060,7 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.6">
-    <match lemma="buorre">
+    <match lemma="buorre" tags="adj.*.attr.*">
       <select lemma="šiev"/>
     </match>
     <match tags="n.*"/>
