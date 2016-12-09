@@ -1343,6 +1343,13 @@ C[]-XXX  sent
        <attr-item tags="@X"/>
     </def-attr>
 
+    <def-attr n="a_cmp">
+      <attr-item tags="cmp_sh"/>
+      <attr-item tags="cmp_sggen"/>
+      <attr-item tags="cmp_sgnom"/>
+      <attr-item tags="cmp_plgen"/>
+      <attr-item tags="cmp_attr"/>
+    </def-attr>
     <def-attr n="a_exthab">
       <attr-item tags="←ext→"/>
       <attr-item tags="←hab→"/>
@@ -2174,6 +2181,12 @@ C[]-XXX  sent
         <when>
           <test><not><equal><clip pos="1" side="tl" part="a_func"/><lit v=""/></equal></not></test>
           <let><var n="func"/><clip pos="1" side="sl" part="a_func"/></let>
+        </when>
+      </choose>
+      <choose>
+        <when>
+          <test><equal><clip pos="1" side="tl" part="a_cmp"/><lit-tag v="cmp_sh"/></equal></test>
+          <let><clip pos="1" side="tl" part="a_cmp"/><lit-tag v="cmp_sggen"/></let>
         </when>
       </choose>
       <choose>
