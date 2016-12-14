@@ -1,0 +1,480 @@
+1) 100 % MT match
+2) Errative inflection FST
+3) Missing translation 
+4) Fautive expression (interference from North Saami)
+5) Foutive word (MT)
+6) Changed word (evaluator)
+7) Changed expression (evaluator)
+8) Fautive North Saami translation (corrected by the evaluator)
+
+
+
+1) 100 % MT match
+
+
+FIN: Poronhoitajaperheessä kasvanut Ailu (12) on tottunut eränkävijä.
+SME: Boazobearrašis bajásšaddan Ailu (12) lea hárjánan meahcis johtti.
+MT: Puásuiperrust šoddâm Ailu (12) lii hárjánâm meecist jottee 
+IM: Puásuiperrust šoddâm Ailu (12) lii hárjánâm meecist jottee
+MS: Puásuiperrust šoddâm Ailu (12) lii hárjánâm meecist jottee
+SM: Puásuiperrust šoddâm Ailu (12) lii hárjánâm meecist jottee 
+
+
+FIN: Toiminnalliset luontoaiheiset rastit ovat mielenkiintoisia ja jättävät lapsille positiivisia muistijälkiä.
+MT: toimâlâš já luándufáádáh pargopáájáh láá mielâkiddiiviih já kyeđih párnáid positiivlijd muštoid 
+IM: Toimâlâš luándufáddá pargopáájáh láá mielâkiddiiviih já kyeđih párnáid positiivlijd muštoid
+MS: Toimâlâš luándufáddá pargopáájáh láá mielâkiddiiviih já kyeđih párnáid positiivlijd muštoid
+SM: Toimâliih já luándufáddásiih pargopáájáh láá mielâkiddiiviih já kyeđih párnáid positiivlijd muštoid
+
+
+!! 2 sentences with a 100 % match. A short, simple sentence, no complex terms / structures / syntax. Can easily be translated word by word. Finnish "eränkävijä" is a near equivalent to "meecist jottee". The North Saami translation has already solved this problem.
+
+
+==
+
+2) Errative inflection FST
+
+FIN: - Luonnossa liikkuessa pitää käyttää omaa päätään, huolehtia käytännön asioista, kuten nuotion sytyttämisestä, Ailu Näkkäläjärvi mainitsee.
+SME: - Luonddus jođedettiin galgá geavahit iežas oaivvi, fuolahit geavatlaš áššiin, dego dola cahkkeheames, Ailu Näkkäläjärvi máinnaša.
+MT:- Luándust [jotteeđ] kalga kevttiđ jieijâs uáivi, huolâttiđ [keevâtlijn] aašijn, tegu tuulâ cokkiitmist, Ailu Näkkäläjärvi [maainâš].
+IM: - Luándust jođedijn kalga kevttiđ jieijâs uáivi, huolâttiđ keevâtlijn aašijn, tegu tuulâ cokkiitmist, Ailu Näkkäläjärvi maainâš.
+MS: - Luándust jođedijn kalga kevttiđ jieijâs uáivi, huolâttiđ keevâtlijn aašijn, tegu tuulâ cokkiitmist, Ailu Näkkäläjärvi maainâš.
+SM: - Luándust jođedijn kalga kevttiđ jieijâs uáivi, huolâttiđ vuáválâšvuođâ aašijn, tegu tuulâ cokkiitmist, Ailu Näkkäläjärvi maainâst.
+
+jođedettiin --> jotteeđ > jođedijn - errative inflection (FST); verb genetive has not been worked out.
+
+Two optional changes, done by one evaluator: 
+keevâtlijn: no need to change; vuáválâšvuođâ, not very understandable, though.
+maainâš / maainâst - a very close equivalence; the change in 1 evaluation seems to be a style question.
+
+
+Word by word translation possible. However: cokkiitmist should be cokkitmist, and no one has corrected it. Is there a "risk" that the human typo-like errors will remain unobserved? 
+
+
+FIN: Metsähallituksen koordinoima valtakunnallinen Eräkummit-hanke on rahoitettu riistanhoitomaksuista.
+SME: Meahciráđđehusa koordineren riikkaviidosaš Eräkummit-fidnu (Fuođđofáddarat) ruhtaduvvo fuođđodikšunmávssuid bokte.
+MT: Meecihaldâttuv [koordinistiđ] [riijkâvijđosii] Eräkummit-[haavâ] (Pivdoelleefaddâreh) ruttâduvvoo pivdoelleetipšommáávsui peht.
+IM: Meccihaldâttâs koordinistem riijkâvijđosâš Meccifaadâr-haahâ ruttâduvvoo pivdoelleetipšommáávsui peht.
+MS: Meccihaldâttâs koordinistem riijkâvijđosâš Meccifaadâr-haahâ ruttâduvvoo pivdoelleetipšommáávsui peht.
+SM: Meccihaldâttâs ornim väldikodálâš Meccifaddâreh-haahâ  ruttâduvvoo pivdoelleetipšommáávsui peht.
+
+Actio Nom not working in the MT-translation. 
+Attr: [riijkâvijđosii]; erratively giving a partial congruence.
+All evaluators have aborted the translation given in brackets.
+!! Postposition "peht" has been kept; even though it seems to be strong interference from North Saami; it would be better to say "pivdoelleemávsuiguin" --> ? misleading mt
+!! A question: should project's name be translated or not? 
+
+
+FIN: Rastilla pärjäävät lapset, jotka ovat liikkuneet luonnossa monipuolisesti.
+SME: Spealus birgejit mánát, geat leat johtán luonddus máŋggabealagiid.
+MT: Speelâst piergejeh párnááh, kiäh láá jottáám luándust [maaŋgâpiälálij] 
+IM: Speelâst piergejeh párnááh, kiäh láá jottáám luándust maaŋgâpiälálávt
+MS: Speelâst piergejeh párnááh, kiäh láá jottáám luándust maaŋgâpiälálávt
+SM: Speelâst piergejeh párnááh, kiäh láá jottáám luándust maaŋgâpiälásávt
+
+adv-fail, needs to be corrected; the mt gives genetive pl. A fautive translation into North Saami. 
+
+
+
+FIN: Samalla täytetään reppu metsäretkiä varten, kertoo luonnossa liikkumista harrastava Yllästunturin luontokeskus Kellokkaan asiakasneuvoja Hanna Alakulppi Metsähallituksesta.
+SME: Seammás [páhkkejit] rehpo meahccetuvrraid várás, muitala luonddus lihkadeamis beroštuvvan Ylläsduoddara luondduguovddáš Kellokas áššehasrávvejeaddji Hanna Alakulppi Meahciráđđehusas.
+MT: Siämmást [pakkajih] reepu meccimaađhij várás, muštâl luándust liihâdmist kiddiistum Ylläsduottar luándukuávdáš Kellokas äššigâsrävvejeijee Hanna Alakulppi [Meecihaldâttuvvâst].
+IM: Siämmást pakkap reepu meccimaađhij várás, muštâl Yllästuodâr luándukuávdáš. Kellokas äššigâsrävvejeijee Hanna Alakulppi Meccihaldâttâsâst
+MS: Siämmást pakkap reepu meccimaađhij várás, muštâl Yllästuodâr luándukuávdáš Kellokas äššigâsrävvejeijee Hanna Alakulppi Meccihaldâttâsâst 
+SM: Siämmást pakkajeh reepu meccimaađhij várás, muštâl luándust jotemist kiäsuttum Yllästuoddâr luándukuávdáš Kellokas äššigâsrävvejeijee Hanna Alakulppi Meecihaldâttâsâst.
+
+meecihaldâttâs, via sme-error
+
+páhkkejit > evaluators have changed it in two ways: SM: only inflection has been corrected; IM + MS: pl1 used, instead of MT's pl3 in smn
+
+
+FIN: - Metsähallituksen eräkasvatuksen lisäksi koulukiertue tukee saamen kielen käyttöä, kertoo saamenkielinen tiedottaja Pentti Pieski Metsähallituksesta.
+SME: - Meahciráđđehusa fuođđobajásgeassima lassin skuvllaturnea doarju sámegiela geavaheami, muitala sámegielat dieđiheaddji Pentti Pieski.
+MT: - [Meecihaldâttuv] [pivdoelleešoddâdem] lasseen [škoovlâturnee] [tuárju] sämikielâ kevttim, muštâl sämikielâlâš tieđetteijee Pentti Pieski.
+IM: - Meccihaldâttâs meecist jotteem máttááttâs lasseen škovlâkolliistâlmeh tuárjuh sämikielâ kevttim, muštâl sämikielâlâš tieđetteijee Pentti Pieski.
+MS: - Meccihaldâttâs meecist jotteem máttááttâs lasseen škovlâkolliistâlmeh tuárjuh sämikielâ kevttim, muštâl sämikielâlâš tieđetteijee Pentti Pieski.
+SM: - Meecihaldâttâs meccišoddâdem lasseen škovlâkolliimist tuárjuh sämikielâ kevttim, muštâl sämikielâlâš tieđetteijee Pentti Pieski.
+
+SME-fail: meahciráđđehusa, gives also an error for Aanaar Saami; not corrected by one evaluator
+kiertue-word not translated (difficult; no proper equivalence)
+fuođđu - is this really the correct translation into North Saami?
+turnee- turnea -> no natural equivalent in Aanaar Saami. Kolliistâlmeh / kolliistâllâm is a good explanation.
+
+
+
+FIN: Luonnossa liikkumiseen kiertueella tutustutaan Lemmenjoen kansallispuistopelin kautta.
+SME: Luonddus lihkadeapmái mánát besse oahpásmuvvat Leammi álbmotmeahccespealu bokte.
+MT: Luándust [liihâdmân] párnááh [pessii] uápásmuđ Lemmee aalmuglâšmeccispeelâ peht.
+IM: Luándust jotemân párnááh peesih uápásmuđ Lemmee aalmuglâšmeccispeelâ peht.
+MS: Luándust jotemân párnááh peesih uápásmuđ Lemmee aalmuglâšmeccispeelâ peht.
+SM: Luándust jotemân párnááh peessih  uápásmuđ Lemmee aalmuglâšmeccispeelâ peht.
+
+sme besse: MT chooses for the past tense, in stead of sg3 prs. Homonymy. A correct form but NOT in this context.
+lihkadeapmái: sme sounds ok, in AS lihâdiđ is more or less used for sports; in this case, the correct word choice is "jotteeđ".
+Again: kiertue has not been translated. 
+
+
+FIN: Peli mukautuu ikäryhmän mukaan kysymyksiä muutellen.
+SME: Speallu vuogáiduvvá ahkejoavkkuid mielde jearaldagaid rievdademiin.
+MT: Spellâ vuáháduvá ahejuávhui mield [koččâmâšâi nubástusâin].
+IM: Spellâ vuáháduvá ahejuávhui mield nubásmitmáin koččâmâšâid. 
+MS: Spellâ vuáháduvá ahejuávhui mield nubásmitmáin koččâmâšâid.
+SM: Speelâ vaigâdvuođâ puáhtá vuáháduttiđ ahejuávhui mield muttemáin koččâmâšâid.
+
+SVO-giella! Unnatural to stress "koččâmâšâid".
+Aktio comitative does not work - yet..
+SM: Somewhat too much explanation, "vaigâdvuotâ" not in the original text. 
+
+
+FIN: Ryhmässä opettelemme keskustelemaan ja peliä voidaan pelata ryhmän mukaan joko suomeksi tai saameksi kertoo inarinsaamea puhuva Metsähallituksen erikoissuunnittelija Kirsi Ukkonen Luontokeskus Siidasta.
+SME: Spealus galgá oahppat háleštit joavkkus ja dan sáhttá speallat joavkku sturrodaga mielde suoma- dahje sámegillii, muitala Meahciráđđehusa spesiálaplánejeaddji Kirsi Ukkonen Luondduguovddáš Siiddas.
+MT: Speelâst [kalga oppâđ savâstâllâđ] juávhust já tom puáhtá [spelliđ] juávhu stuáruduv mield suomâ- teikkâ sämikielân, muštâl [Meecihaldâttuv] spesialvuávájeijee [Kirsi Ukkos/Ukkosii] Luándukuávdáá Siijdâst.
+IM: Speelâst oppâp savâstâllâđ juávhust já speelâ puáhtá spellâđ jo-uv suomâ- teikkâ sämikielân, muštâl Meccihaldâttâs spesialvuávájeijee Kirsi Ukkonen Luándukuávdáš Siijdâst.
+MS: Speelâst oppâp savâstâllâđ juávhust já speelâ puáhtá spellâđ jo-uv suomâ- teikkâ sämikielân, muštâl Meccihaldâttâs spesialvuávájeijee Kirsi Ukkonen Luándukuávdáš Siijdâst.
+SM: Speelâst kalga oppâđ savâstâllâđ juávhust já tom puáhtá spellâđ juávhu mield suomâ- teikkâ sämikielân, muštâl Meecihaldâttâs anarâškielâ sárnoo spesiaalvuávájeijee Kirsi Ukkonen Luándukuávdáš Siijdâst.
+
+
+SME - translatation: "opettelemme keskustelemaan" translated into sme with "galgá oahppat háleštit". This is too strong, also for Aanaar Saami, and also pl1 prs disappeares when using the 3rd person. Therefore two evaluators have changed it, and so the AS text follows better the Finnish original. 
+
+spellâđ-verb has got a strange form of "spelliđ". An error in the dictionary!
+
+Surnames ending with -nen: muštâl Meecihaldâttuv spesialvuávájeijee [Kirsi Ukkos/Ukkosii] Luándukuávdáá Siijdâst
+Ukkosii should be only in genetive attr, like Kirsi Ukkosii proojeekt.
+
+The sme fail Meahciráđđehus gives a fautive form in Aanaar Saami as well: Meecihaldâttâs, should be Meccihaldâttâs.
+
+
+FIN: Eräkummit-hankkeen tehtävänä on tuoda eräkasvatusta lapsille monipuolisesti, myös niille lapsille joille eränkäynti ei ole ennestään tuttu juttu.
+SME: 
+MT: Eräkummit-haahâ toimâm lii pyehtiđ pivdoelleešoddâdem párnáid maaŋgâpiälálij, meiddei toid párnáid, kiäid meccivarriistâllâm ij lah muuneeld uápis.
+IM: Meccifaadâr-haavâ ulmen lii pyehtiđ meecist jotteem tiäđu párnáid maaŋgâpiälálávt, meiddei toid párnáid, kiäid meecist jotteem ij lah ovdiist uápis äšši.
+MS: Meccifaadâr-haavâ ulmen lii pyehtiđ meecist jotteem tiäđu párnáid maaŋgâpiälálávt, meiddei toid párnáid, kiäid meecist jotteem ij lah ovdiist uápis äšši.
+SM: Meccifaddâreh-haahâ ulmen lii pyehtiđ meccišoddâdem párnáid maaŋgâpiälásávt, meiddei toid párnáid, kiäid meccijotteem ij lah muuneeld uápis.
+
+
+FIN: Luonnossa liikutaan poronhoitotöissä, kalastus- ja hillareissuilla.
+SME: Luonddus johtet boazobargguin, guollebivdo- ja lubmenreaissuin.
+MT: Luándust [juuttih] puásuipargoin, kyelipivdo- já [luommimreeisu] 
+IM: Luándust sun jotá puásuipargoin, kyelipivdo- já luommimreeisuin
+MS: Luándust sun jotá puásuipargoin, kyelipivdo- já luommimreeisuin 
+SM: Luándust joteh puásuipargoin, kyelipivdo- já luommimmaađhijn
+
+sme-homonyme
+
+juuttih: Looks like a formulating failure (the sentence in the middle of the text); I think this should have been a subtitle? Therefore a correction "sun jotá". 
+
+Evaluator SM has seen it as a subtitle and corrected it this way.
+Strange: why does the MT translate a sme-comitative with smn-genetive: luommimreeisu? Is it because of the list?
+
+
+
+FIN: Ailu on myös nähnyt luonnossa monia eläimiä, kuten poroja, kettuja, hirviä ja karhunkin.
+SME: Ailu (12) lea maiddái oaidnán luonddus máŋggaid ealliid, bohccuid dieđusge, muhto maiddái riebaniid, ealggaid ja guovžžage.
+MT: Ailu (12) lii meiddei uáinám luándust maaŋgâid elleid, [poccui] tiäđust-uv, mut meiddei [riämnjái], [soorvâi] já kuobžâ-uv 
+IM: Ailu lii meiddei uáinám luándust maaŋgâid elleid, tegu poccuid, riämnjáid, soorvâid já kuobžâ-uv 
+MS: Ailu lii meiddei uáinám luándust maaŋgâid elleid, tegu poccuid, riämnjáid, soorvâid já kuobžâ-uv 
+SM: Ailu (12) lii meiddei uáinám luándust maaŋgâid elleid, poccuid, riämnjáid, soorvâid já kuobžâ-uv 
+
+pl Acc failing: kill acc! Otherwise a good match. A simple sentence, nothing very special in it.
+
+
+
+==
+
+3) Missing translation 
+
+FIN: Enontekiöläisen Ailu Näkkäläjärven mielestä jousiammunta oli kiertueen mukavin rasti.
+SME: Eanodatlaš Ailu Näkkäläjärvi mielas dávgebissuin báhčin lei somámus bargobádji.
+MT: [Eanodatlaš] Ailu Näkkäläjärvi mielâst [tävgipissoin pääččim] lâi [suottâsumos] pargopáájá.
+IM: Iänuduvlaš Ailu Näkkäläjärvi mielâst tävgipissoin pääččim lâi suottâsumos pargopáájá.
+MS: Iänuduvlaš Ailu Näkkäläjärvi mielâst tävgipissoin pääččim lâi suottâsumos pargopáájá.
+SM: Iänuduvlâš Ailu Näkkäläjärvi mielâst tävgipissoin pääččim lâi hitruumus pargopáájá.
+
+Two of the three evaluators have a 100 % match with MT.
+The Finnish word "rasti" is an expression. It has been translated into North Saami with an explanatory equivalent "bargobádji", workshop. The same solution has been accepted for Aanaar Saami.
+
+Eanodatlâš has not been translated at all by MT.
+
+Jousiammunta has no official term in AS. The North Saami translator has solved the problem with an explanatory translation dávgebissuin báhčin. The same equivalent [Tävgipissoin pääččim] is also accepted for the AS translation.
+hitruu / suotâs - a very close equivalence; an optional change, though. The change seems to be a style question. "Hitruu" sounds to include more fun than "suotâs". 
+
+
+FIN: Hanna on myös aktiivinen luonnossa kulkija (TARKISTA TÄMÄ!!)
+MT: -
+IM: Hanna lii meid movtigis luándust jottee
+MS: Hanna lii meid movtigis luándust jottee
+SM: -
+
+Not translated into sme - added by evaluators
+
+
+FIN: Kiertue kiertää viikolla 38 maanantaina Enontekiön kouluista Hetta ja Peltovuoma.  Tiistaina Enontekiön kouluista Karesuvanto.
+SME: Fuođđoáššiid skuvllaturnea álggii vuossárgga Heahtás, gos maiddái Bealdovuomi skuvllalaččat ledje boahtán, ja dat joatkašuvai maŋŋebárgga Gárasavvona skuvllas. 
+MT: Pivdoelleeaašij škoovlâturnee aalgij vuossaargâ Hiätást, kost meiddei Bealdovuopmi škovlâliih lijjii puáttám, já tot jotkui majebaargâ Käresavvoon škoovlâst 
+IM: Škovlâkolliistâlmeh aalgij ohhoost 38 vuossaargâ Hettaast, kuus meiddei Piälduvyeme škovlâliih lijjii puáttám Mätki jotkui majebaargâ Käresavvoon škoovlân 
+MS: Škovlâkolliistâlmeh aalgij ohhoost 38 vuossaargâ Hettaast, kuus meiddei Piälduvyeme škovlâliih lijjii puáttám Mätki jotkui majebaargâ Käresavvoon škoovlân
+SM: Meccifaddâreh kuállejeh 38 ohhoost vuossaargâ Iänuduv Heta já Peltovuoma škoovlâin, já majebaargâ Käresavvoon škoovlâst 
+
+SME-translation is not adequate in this case. "viikolla 38" is missing. 
+"Enontekiön kouluista Hetta ja Peltovuoma" has been translated with "Heahtás, gos maiddái Bealdovuomi skuvllalaččat ledje boahtán". This is wrong. Only one evaluator (SM) has changed this, according to the Finnish text. The others follow the fautive SME translation.
+
+The rest of the sentence "Ja dat joatkašuvai maŋŋebárgga Gárasavvona skuvllas" has been corrected by all evaluators. The demonstr pron has been aborted and replaced by the noun "mätki" (subject). The real subjact in the sme-sentence is too far, so it is confusing.
+
+
+
+
+==
+4) Fautive expression (interference from North Saami)
+
+- Buot mánáin eai boađe meahcásteaddjit muhto vuođđoáššiid lea buorre diehtit. 
+
+FIN: - Kaikista lapsista ei kasva metsästäjiä mutta perusasiat on hyvä ymmärtää.
+SME: - Buot mánáin eai boađe meahcásteaddjit muhto vuođđoáššiid lea buorre diehtit.
+MT: - Puoh párnáin [iä puáđi] [miäcásteijeeh] mut [vuáđuaašij] lii pyeri tiettiđ 
+IM: - Puoh párnááh iä šoodâ miäcásteijen, mut vuáđuaašijd lii pyeri tiettiđ 
+MS: - Puoh párnááh iä šoodâ miäcásteijen, mut vuáđuaašijd lii pyeri tiettiđ
+SM: - Puoh párnááh iä šoodâ miäcásteijen mut vuáđuaašijd lii pyeri tiettiđ
+
+The Finnish expression "ei kasva" has been translated into North Saami with "eai boađe". The MT translation follows this, producing "eai boađe", meaning "will not become". However, šoddâđ-verb cannot be used in this context in Aanaar Saami, because it gives a meaning of a concrete arriving. The human translator could have seen this directly. From the viewpoint of the target language, the MT translation is misleading.
+
+
+==
+5) Foutive word (MT, also via sme)
+
+FIN: Jokamiehenoikeuksia ja jousiammuntaa saamelaisalueen eräkummi-koulukiertueella
+SME: Juohkeolbmorievttit ja dávgebissuin báhčin sámeguovllu fuođđofáttar-skuvllaturneas
+MT: Jyehiulmuuvuoigâdvuođah já [tävgipissoin pääččim] sämikuávlu [pivdoelleefaadâr]-škoovlâturneest
+IM: Jyehiulmuuvuoigâdvuođah já tävgipissoin pääččim láá fáddán sämikuávlu meccifaadâr-škovlâkolliistâlmijn
+MS: Jyehiulmuuvuoigâdvuođah já tävgipissoin pääččim láá fáddán sämikuávlu meccifaadâr-škovlâkolliistâlmijn
+SM: Jyehiulmuuvuoigâdvuođah já tävgipissoin pääččim sämikuávlu meccifaadâr-škovlâkolliimijn
+
+Two translation issues in this sentence, both concerning expressions. Jousiammunta has no term in Aanaar Saami. The term problem has been solved via North Saami. Eräkummi is a specific expression, a name for the project, not easy to be translated. Also here the North Saami translation is misleading, using a word "fuođđu", meaning . 
+
+
+FIN: Kiertueen aikana toiminnallisilla rasteilla tutustutaan muun muassa riistanhoitoon, jousiammuntaan sekä kestävään luonnon hyödyntämiseen ja jokamiehenoikeuksiin.
+SME: Doaimmalaš bargobájiid áigge mánát besset oahpásmuvvat fuođđodikšumii, dávgebissuin báhčimii sihke suvdilis luonddu ávkkástallamii ja juohkeolbmorivttiide.
+MT: Toimâlij [pargopáájái ääigi] párnááh peesih uápásmuđ pivdoelleetipšomân, [tävgipisoin pääččimân] sehe [kyeddilis] luándu ávhástâlmân já jyehiulmuuvuoigâdvuođáid 
+IM: Toimâlij pargopáájáin párnááh peesih uápásmuđ pivdoelleetipšomân, tävgipissoin pääččimân sehe kilelis luándu ávhástâlmân já jyehiulmuuvuoigâdvuođáid
+MS: Toimâlij pargopáájáin párnááh peesih uápásmuđ pivdoelleetipšomân, tävgipissoin pääččimân sehe kilelis luándu ávhástâlmân já jyehiulmuuvuoigâdvuođáid 
+SM: Toimâlij pargopáájái ääigi párnááh peesih uápásmuđ pivdoelleetipšomân, tävgipisoin päčimân sehe pištee luándu ávhástâlmân já jyehiulmuuvuoigâdvuođáid
+
+FIN: Eräkasvatuksessa luontoa tarkastellaan riistanäkökulmasta ja opastetaan lapsia kunnioittamaan ja hoitamaan luontoa riistaa kunnioittaen.
+SME: Fuođđobajásgeassimis luondu guorahallo meahcivallji bokte ja mánát láidestuvvojit gudnejahttit ja dikšut luonddu nu, ahte meahcivallji gudnejahtto.
+MT: [Pivdoelleešoddâdmist] luándu kieđâvuššoo meccivalje [cuvnii] já párnááh [jođettuvvojeh] kunnijâttiđ já hoittáđ luándu nuuvt, et meccivalje [kunnijâttoo] 
+IM: Meecist jotteem máttááttâsâst luándu kieđâvuššoo meccivalje uáinust já párnááh uápistuvvojeh kunnijâttiđ já hoittáđ luándu nuuvt, et meccivalje kunnijâttoo 
+MS: Meecist jotteem máttááttâsâst luándu kieđâvuššoo meccivalje uáinust já párnááh uápistuvvojeh kunnijâttiđ já hoittáđ luándu nuuvt, et meccivalje kunnijâttoo
+SM: Meccišoddâdmist luándu kieđâvuššoo meccivalje peeleett já párnááh jođettuvvojeh kunnijâttiđ já tipšođ luándu nuuvt, et meccivalje annoo áárvust
+
+In MT translation, some errors:
+
+a) Eräkasvatus has been erratively translated with fuođđobajásgeassin; 
+b) The sme postposition "bokte" has been translated by MT as a verb "boktet", which gives an error in the translation.
+c) opastaa = láidestit but NOT jođettiđ; Bidix-failure: láidestit = uápistiđ.
+!! SM-evaluation: a typo, somehow: peeleett; not understandable.  
+
+FIN: - Metsähallituksen eräkasvatuksen lisäksi koulukiertue tukee saamen kielen käyttöä, kertoo saamenkielinen tiedottaja Pentti Pieski Metsähallituksesta.
+SME: - Meahciráđđehusa fuođđobajásgeassima lassin skuvllaturnea doarju sámegiela geavaheami, muitala sámegielat dieđiheaddji Pentti Pieski.
+MT: - [Meecihaldâttuv] [pivdoelleešoddâdem] lasseen [škoovlâturnee] [tuárju] sämikielâ kevttim, muštâl sämikielâlâš tieđetteijee Pentti Pieski.
+IM: - Meccihaldâttâs meecist jotteem máttááttâs lasseen škovlâkolliistâlmeh tuárjuh sämikielâ kevttim, muštâl sämikielâlâš tieđetteijee Pentti Pieski.
+MS: - Meccihaldâttâs meecist jotteem máttááttâs lasseen škovlâkolliistâlmeh tuárjuh sämikielâ kevttim, muštâl sämikielâlâš tieđetteijee Pentti Pieski.
+SM: - Meecihaldâttâs meccišoddâdem lasseen škovlâkolliimist tuárjuh sämikielâ kevttim, muštâl sämikielâlâš tieđetteijee Pentti Pieski.
+
+SME-fail: meahciráđđehusa, gives also an error for Aanaar Saami; not corrected by one evaluator
+kiertue-word not translated (difficult; no proper equivalence)
+fuođđu - is this really the correct translation into North Saami?
+turnee- turnea -> no natural equivalent in Aanaar Saami. Kolliistâlmeh / kolliistâllâm is a good explanation.
+
+
+FIN: - Jokamiehenoikeuksiin tutustutaan pantomiimiesitysten kautta. Lapset ja opettajat saavat harjoitella esiintymistaitoja ja samalla luonnossa liikkumisen perusteet tulevat tutuksi.
+SME: - Juohkeolbmorivttiide oahpásmuvvat pantomimaovdanbuktima bokte. Mánát ja oahpaheaddjit ožžot hárjehallat ovdanbuktindáidduid ja seammás luonddus lihkadeami vuođđoáššit šaddet oahpisin.
+MT: - Jyehiulmuuvuoigâdvuođáid uápásmup pantomiimčájáttâs peht[] párnááh já máttáátteijeeh uážžuh hárjuttâllâđ čájáttâstááiđuid já siämmást luándust [lihâdem] vuáđuääših šaddeh uápisin 
+IM: - Jyehiulmuuvuoigâdvuođáid uápásmup pantomiimčaittâlem peht. Párnááh já máttáátteijeeh uážžuh hárjuttâllâđ čaittâlemtáiđuidis já siämmást luándust jotteem vuáđuääših šaddeh uápisin
+MS: - Jyehiulmuuvuoigâdvuođáid uápásmup pantomiimčaittâlem peht 
+Párnááh já máttáátteijeeh uážžuh hárjuttâllâđ čaittâlemtáiđuidis já siämmást luándust jotteem vuáđuääših šaddeh uápisin
+SM: - Jyehiulmuuvuoigâdvuođáid uápásmup pantomiimčájáttâsij peht 
+Párnááh já máttáátteijeeh uážžuh hárjuttâllâđ čájáttâllâmtááiđuid já siämmást luándust jotteem vuáđuääših šaddeh uápisin
+
+
+Dot has not been added. 
+
+lihkadeapmi is lihâdem and jotteem; lihâdem is more or less sports (an opposite to sitting in one place) and jotteem is when one has to orientate somehow, like in a forest. 
+
+
+==
+
+6) Changed word (evaluator)
+
+FIN: - Pelissä on ideana kiertää kansallispuisto ja kerätä pisteitä. 
+SME: - Spealu jurddan lea johtit álbmotmeahcis ja čoaggit čuoggáid.
+MT: - Speelâ juurdân lii jotteeđ aalmuglâšmeecist já [čuággiđ] čuággáid 
+IM: - Speelâ juurdân lii jotteeđ aalmuglâšmeecist já nuurrâđ čuággáid
+MS: - Speelâ juurdân lii jotteeđ aalmuglâšmeecist já nuurrâđ čuággáid
+SM: - Speelâ juurdân lii jotteeđ aalmuglâšmeecist já čuággiđ čuággáid
+
+Nearly a perfect match!  
+Čuággiđ čuággáid - tautomomical but still correct. An understandable change.
+
+
+
+FIN: Kiertueella lapset pääsevät tekemisen kautta oppimaan ja innostumaan luonnosta sekä eränkäynnistä.
+SME: Mánát besset dahkama bokte oahpásmuvvat ja movttiidit luonddu- ja fuođđoáššiide.
+MT: Párnááh peesih [toohâm] peht uápásmuđ já movtidiđ [luándu- já pivdoelleeaššijd]
+IM: Párnááh peesih toohâm peht uápásmuđ já movtidiđ luándu- já pivdoelleeaššijd 
+MS: Párnááh peesih toohâm peht uápásmuđ já movtidiđ luándu- já pivdoelleeaššijd 
+SM: Párnááh peesih porgâm peht uápásmuđ já movtáskiđ luándun já meccijotemân
+
+The Aanar Saami evaluators mainly follow the North Saami translation solution. The Finnish word "kiertueella" has not been translated,and the evaluators have not added it. One evaluator has changed the verb "toohâm". This is understandable, as the verb has a strong sexual meaning of a coitus.
+
+
+FIN: Opettajat saavat eränkäyntikulttuuriin ja ekosysteemipalveluihin liittyvää valmista opetusmateriaalia opetuksen tueksi.
+SME: Oahpaheaddjit ožžot fuođđokultuvrii ja ekosystemabálvalusaide gullevaš gárvves oahpahusmateriála skuvllaid atnui.
+MT: Máttáátteijeeh [uážžuh] [pivdoelleekulttuurân] já ekosysteempalvâlussáid kullee valmâš [máttááttâsmateriaal] škoovlâi [anon].
+IM: Máttáátteijeeh finnejeh meecist jotteem kulttuurân já ekosysteempalvâlussáid kullee valmâš máttááttâsmateriaal škoovlâi kiävtun.
+MS: Máttáátteijeeh finnejeh meecist jotteem kulttuurân já ekosysteempalvâlussáid kullee valmâš máttááttâsmateriaal škoovlâi kiävtun.
+SM: Máttáátteijeeh uážžuh meccijotteemkulttuurân já ekosysteempalvâlussáid kullee valmâš oppâmateriaal škoovlâi anon.
+
+MT translation: a literal translation from North Saami.
+Uážžuh > finnejeh: an optional change
+fuođđokultuvrii > pivdoelleekulttuurân: the evaluators have corrected an unadequate sme-translation. The Aanaar Saami corrections are closer to the source language word.
+SM: máttááttâsmateriaal > oppâmateriaal; not a literal translation but very clear. Not a necessary change, though.
+2x . atnui > kiävtun. More or less a style question.
+
+
+FIN: Kiertue päättyy  Ivaloon jossa on mukana myös Vuotson koulu.
+SME: Turnea nohká bearjadaga Avvilis, gos mielde leat Vuohču skuvlalaččat.
+MT: Turnee nohá vástuppeeivi Avelist, kost fáárust láá Vuáču škovlâliih.
+IM: Kolliistâlmeh noheh vástuppeeivi Avelân, kost fáárust láá meid Vuáču škovlâ
+MS: Kolliistâlmeh noheh vástuppeeivi Avelân, kost fáárust láá meid Vuáču škovlâliih 
+SM: Kollim nohá vástuppeeivi Avveel škoovlân, kost fáárust láá Vuáču škovlâliih.
+
+Kiertue-word needs an equivalent now in Aanaar Saami, evaluators have used kolliistâlmeh / kollim, both being adequate.
+IM: error (something missing): kost fáárust láá meid Vuáču škovlâXXX.
+
+
+
+==
+7) Changed expression (evaluator)
+
+FIN: Kiertueen aikana toiminnallisilla rasteilla tutustutaan muun muassa riistanhoitoon, jousiammuntaan sekä kestävään luonnon hyödyntämiseen ja jokamiehenoikeuksiin.
+SME: Doaimmalaš bargobájiid áigge mánát besset oahpásmuvvat fuođđodikšumii, dávgebissuin báhčimii sihke suvdilis luonddu ávkkástallamii ja juohkeolbmorivttiide.
+MT: Toimâlij [pargopáájái ääigi] párnááh peesih uápásmuđ pivdoelleetipšomân, [tävgipisoin pääččimân] sehe [kyeddilis] luándu ávhástâlmân já jyehiulmuuvuoigâdvuođáid 
+IM: Toimâlij pargopáájáin párnááh peesih uápásmuđ pivdoelleetipšomân, tävgipissoin pääččimân sehe kilelis luándu ávhástâlmân já jyehiulmuuvuoigâdvuođáid
+MS: Toimâlij pargopáájáin párnááh peesih uápásmuđ pivdoelleetipšomân, tävgipissoin pääččimân sehe kilelis luándu ávhástâlmân já jyehiulmuuvuoigâdvuođáid 
+SM: Toimâlij pargopáájái ääigi párnááh peesih uápásmuđ pivdoelleetipšomân, tävgipisoin päčimân sehe pištee luándu ávhástâlmân já jyehiulmuuvuoigâdvuođáid
+
+Kiertue - untranslated
+Missing term: explanatory translation via North Saami: tävgipissoin päčimân BUT: "päčimân" should have been corrected - easy to leave / forget FST mistakes.
+Finnish "kestävä" - sme suvdil - smn kyeddil does not fit here; killeel or pištee are both ok, even pištevâš
+
+Otherwise translated word by word from North Saami.
+
+==
+
+8) Fautive or unadequate North Saami translation (corrected by the evaluator)
+
+FIN: Metsähallituksen Eräkummit kiertävät viikon ajan saamelaisalueella eräkasvatukseen painottuvalla koulukiertueella.
+SME: Meahciráđđehusa bargit leat dán vahkus jođus sámeguovllus fuođđobajásgeassima áššiid skuvllaturneas.
+MT: Meecihaldâttuv pargeeh [láá taan ohhoost joođoost sämikuávlust pivdoelleešoddâdem aašij škoovlâturneest]
+IM: Meccihaldâttâs pargeeh joteh oho sämikuávlust kolliistâlmin škoovlâin já sárnuh meecist jotteem aašijn
+MS: Meccihaldâttâs pargeeh joteh oho sämikuávlust kolliistâlmin škoovlâin já sárnuh meecist jotteem aašijn
+SM: Meccihaldâttâs pargeeh kolliistâleh oho ääigi sämikuávlu škoovlâin  muštâlmin meccišoddâdmist
+
+Word for word mt-translation from North Saami. 
+The main translation problem is a participial phrase [eräkasvatukseen painottuva], impossible to translate literally + a missing word [kiertue] in smn. Needs an explanation. 
+
+SM-evaluation is an explanation at the sentence level, not a literal translation. Works perfectly. Principle: don't translate, but explain the meaning
+The others have tried to keep the mt-translation. However, "Láá joođoost" is not a good translation. Two evaluators have replaced it with "joteh", one with "kolliistâleh". 
+"Viikon ajan" is not the same than "dán vahkus". Thus, the North Saami translator's mistake has been corrected.
+
+
+FIN: Eräkasvatuksessa luontoa tarkastellaan riistanäkökulmasta ja opastetaan lapsia kunnioittamaan ja hoitamaan luontoa riistaa kunnioittaen.
+SME: Fuođđobajásgeassimis luondu guorahallo meahcivallji bokte ja mánát láidestuvvojit gudnejahttit ja dikšut luonddu nu, ahte meahcivallji gudnejahtto.
+MT: [Pivdoelleešoddâdmist] luándu kieđâvuššoo meccivalje [cuvnii] já párnááh [jođettuvvojeh] kunnijâttiđ já hoittáđ luándu nuuvt, et meccivalje [kunnijâttoo] 
+IM: Meecist jotteem máttááttâsâst luándu kieđâvuššoo meccivalje uáinust já párnááh uápistuvvojeh kunnijâttiđ já hoittáđ luándu nuuvt, et meccivalje kunnijâttoo 
+MS: Meecist jotteem máttááttâsâst luándu kieđâvuššoo meccivalje uáinust já párnááh uápistuvvojeh kunnijâttiđ já hoittáđ luándu nuuvt, et meccivalje kunnijâttoo
+SM: Meccišoddâdmist luándu kieđâvuššoo meccivalje peeleett já párnááh jođettuvvojeh kunnijâttiđ já tipšođ luándu nuuvt, et meccivalje annoo áárvust
+
+In MT translation, some errors:
+
+a) Eräkasvatus has been erratively translated with fuođđobajásgeassin; 
+b) The sme postposition "bokte" has been translated by MT as a verb "boktet", which gives an error in the translation.
+c) opastaa = láidestit but NOT jođettiđ; Bidix-failure: láidestit = uápistiđ.
+!! SM-evaluation: a typo, somehow: peeleett; not understandable.  
+
+FIN: - Metsähallituksen eräkasvatuksen lisäksi koulukiertue tukee saamen kielen käyttöä, kertoo saamenkielinen tiedottaja Pentti Pieski Metsähallituksesta.
+SME: - Meahciráđđehusa fuođđobajásgeassima lassin skuvllaturnea doarju sámegiela geavaheami, muitala sámegielat dieđiheaddji Pentti Pieski.
+MT: - [Meecihaldâttuv] [pivdoelleešoddâdem] lasseen [škoovlâturnee] [tuárju] sämikielâ kevttim, muštâl sämikielâlâš tieđetteijee Pentti Pieski.
+IM: - Meccihaldâttâs meecist jotteem máttááttâs lasseen škovlâkolliistâlmeh tuárjuh sämikielâ kevttim, muštâl sämikielâlâš tieđetteijee Pentti Pieski.
+MS: - Meccihaldâttâs meecist jotteem máttááttâs lasseen škovlâkolliistâlmeh tuárjuh sämikielâ kevttim, muštâl sämikielâlâš tieđetteijee Pentti Pieski.
+SM: - Meecihaldâttâs meccišoddâdem lasseen škovlâkolliimist tuárjuh sämikielâ kevttim, muštâl sämikielâlâš tieđetteijee Pentti Pieski.
+
+SME-fail: meahciráđđehusa, gives also an error for Aanaar Saami; not corrected by one evaluator
+kiertue-word not translated (difficult; no proper equivalence)
+fuođđu - is this really the correct translation into North Saami?
+turnee- turnea -> no natural equivalent in Aanaar Saami. Kolliistâlmeh / kolliistâllâm is a good explanation.
+
+
+
+FIN: Keskiviikkona Utsjoen kouluista kirkonkylän, Karikasniemi ja Nuorgamin koululaiset. 
+SME: Gaskavahku ledje vuorus Ohcejoga gieldda skuvllat, kirkosiida skuvlla lusa bohte maiddái Njuorggáma ja Gáregasnjárgga oahppit.
+MT: Koskoho lijjii vuárust Ucjuuvâ kieldâ škoovlah, kirkkosijdâ škoovlâ luusâ pottii meiddei Njuárgám já Kärigâsnjaargâ uáppeeh 
+IM: Koskoho lijjii vuárust Ucjuuvâ kieldâ škoovlah, ko kirkkosiijdâ škoovlân pottii meiddei Njuárgám já Kärigâsnjaargâ uáppeeh
+MS: Koskoho lijjii vuárust Ucjuuvâ kieldâ škoovlah, ko kirkkosiijdâ škoovlân pottii meiddei Njuárgám já Kärigâsnjaargâ uáppeeh 
+SM: Koskoho láá vuárust  Ucjuuvâ kieldâ škoovlah, Kärigâsnjargâ já Njuárgám
+
+"kirkosiida skuvlla lusa" - not a very adequate translation. Two evaluators have followed the sme-translation and translated the postpos with sg ill škoovlân. This works very well. SM has followed this Finnish original, and left out the sme-translato's add "lusa" .
+
+
+FIN: Torstaina on vuorona Inarin kirkonkylän ja Sevettijärven koulut. 
+SME: Duorastaga turnea lei Anáris, gosa bohtet maiddái Čeavetjávrri mánát.
+MT: Tuorâstuv turnee lâi Anarist, kuus puátih meiddei Čevetjäävri párnááh 
+IM: Tuorâstuv vuárust lâi Aanaar, kuus pottii meiddei Čevetjäävri párnááh
+MS: Tuorâstuv vuárust lâi Aanaar, kuus pottii meiddei Čevetjäävri párnááh 
+SM: Tuorâstuv vuáru lii Aanaar siijdâ já Čevetjäävri škoovlâin
+
+The SME translation is not followng the original Finnish version. "vuorona" is an error, should be "vuorossa".
+The SME translation changes the text quite a lot here: vuorona-- Inarin kirkonkylän ja Sevettijärven koulut // turnea lei Anáris, gosa bohtet --
+So which one to follow?
+
+
+
+9) Something missing in evaluation
+
+
+FIN: Kiertue päättyy  Ivaloon jossa on mukana myös Vuotson koulu.
+SME: Turnea nohká bearjadaga Avvilis, gos mielde leat Vuohču skuvlalaččat.
+MT: Turnee nohá vástuppeeivi Avelist, kost fáárust láá Vuáču škovlâliih.
+IM: Kolliistâlmeh noheh vástuppeeivi Avelân, kost fáárust láá meid Vuáču škovlâ
+MS: Kolliistâlmeh noheh vástuppeeivi Avelân, kost fáárust láá meid Vuáču škovlâliih 
+SM: Kollim nohá vástuppeeivi Avveel škoovlân, kost fáárust láá Vuáču škovlâliih.
+
+Kiertue-word needs an equivalent now in Aanaar Saami, evaluators have used kolliistâlmeh / kollim, both being adequate.
+IM: error (something missing): kost fáárust láá meid Vuáču škovlâXXX.
+
+
+FIN: Kiertue päättyy  Ivaloon jossa on mukana myös Vuotson koulu.
+SME: Turnea nohká bearjadaga Avvilis, gos mielde leat Vuohču skuvlalaččat.
+MT: Turnee nohá vástuppeeivi Avelist, kost fáárust láá Vuáču škovlâliih.
+IM: Kolliistâlmeh noheh vástuppeeivi Avelân, kost fáárust láá meid Vuáču škovlâ
+MS: Kolliistâlmeh noheh vástuppeeivi Avelân, kost fáárust láá meid Vuáču škovlâliih 
+SM: Kollim nohá vástuppeeivi Avveel škoovlân, kost fáárust láá Vuáču škovlâliih.
+
+Kiertue-word needs an equivalent now in Aanaar Saami, evaluators have used kolliistâlmeh / kollim, both being adequate.
+IM: error (something missing): kost fáárust láá meid Vuáču škovlâXXX.
+
+
+
+===
+
+
+
+
+
+CONCLUDING REMARKS:
+
+Now the sme-translation works as a black box: the North Saami text has not been given to the evaluators. To my mind, it is sometimes time-consuming to figure out the reasons for the MT-translation failures. I think it would be helpful to show also the North Saami translation. Uncorrected mistakes will be multiplied and also lead into mistakes in the final target language translation. The "success" of the MT is strongly influenced by the quality of the transit language translation. Some mistakes look like human typos, and in some cases they remain uncorrected. It would be helpful and advisable to use the spell-checker for the final product.
+
+The sme-translation does not deliver top-quality for the transfer process into Aanaar Saami. The sme-translation fails in many places, so the same mistakes can be seen in the smn MT translation as well. Also in this case, it would be helpful to see also the sme-text. One of the evaluators comment that it was surprisingly time-consuming to evaluate the text. And the other one had problems in figuring out what the text meant. The mt programme can be good but if the transfer-language text is sloppy, it will make the transfer a bit more complicated. 
+The quality of the transfer text should be quaranteed first, before translating it further: typos (use spell-checker) and the adequacy.
+
+
