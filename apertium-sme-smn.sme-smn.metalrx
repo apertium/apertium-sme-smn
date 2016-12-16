@@ -68,6 +68,9 @@ Write comments to forthcoming rules before this line -->
   <rule weight="0.5"><match lemma="Máhtte" tags="np.*"><select lemma="Máhtte"/></match></rule>
   <rule weight="0.6"><match lemma="Máhtte" tags="np.ant.m.attr.*"><select lemma="Máhtte"/></match></rule>
   <rule weight="1.0"><match lemma="Máhtte" tags="np.*"><select lemma="Matti" tags="np.*"/></match></rule>
+  <rule weight="0.5"><match lemma="Sámmol" tags="np.*"><select lemma="Sámmol"/></match></rule>
+  <rule weight="0.6"><match lemma="Sámmol" tags="np.ant.m.attr.*"><select lemma="Sámmol"/></match></rule>
+  <rule weight="1.0"><match lemma="Sámmol" tags="np.*"><select lemma="Saammâl" tags="np.*"/></match></rule>
   <rule weight="0.5"><match lemma="Piera" tags="np.*"><select lemma="Piera"/></match></rule>
   <rule weight="0.6"><match lemma="Piera" tags="np.ant.m.attr.*"><select lemma="Piera"/></match></rule>
   <rule weight="1.0"><match lemma="Piera" tags="np.*"><select lemma="Pierâ" tags="np.*"/></match></rule>
