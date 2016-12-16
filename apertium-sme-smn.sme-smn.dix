@@ -1347,7 +1347,7 @@
     <e><p><l>jazz<s n="n"/></l><r>jazz<s n="n"/></r></p></e>
     <e><p><l>trenda<s n="n"/></l><r>ovdánemsunde<s n="n"/></r></p></e>
     <e><p><l>juoigi<s n="n"/></l><r>jyeigee<s n="n"/></r></p></e>
-    <e><p><l>diploma<s n="n"/></l><r>diploom<s n="n"/></r></p></e>
+    <e><p><l>diploma<s n="n"/></l><r>diplom<s n="n"/></r></p></e>
     <e><p><l>meašttir<s n="n"/></l><r>miäštár<s n="n"/></r></p></e>
     <e><p><l>muvren<s n="n"/></l><r>muvrám<s n="n"/></r></p></e>
     <e><p><l>brošyra<s n="n"/></l><r>tieđettemčáálus<s n="n"/></r></p></e>
@@ -1456,7 +1456,7 @@
     <e><p><l>pakehta<s n="n"/></l><r>pakkeet<s n="n"/></r></p></e>
     <e><p><l>galleriija<s n="n"/></l><r>galleria<s n="n"/></r></p></e>
     <e><p><l>máhppa<s n="n"/></l><r>mappi<s n="n"/></r></p></e>
-    <e><p><l>antropologa<s n="n"/></l><r>antropoloog<s n="n"/></r></p></e> 
+    <e><p><l>antropologa<s n="n"/></l><r>antropolog<s n="n"/></r></p></e> 
     <e><p><l>teáhter<s n="n"/></l><r>teatter<s n="n"/></r></p></e>
     <e><p><l>ovttastupmi<s n="n"/></l><r>ovtâstume<s n="n"/></r></p></e>
     <e><p><l>bigálus<s n="n"/></l><r>pygálys<s n="n"/></r></p></e>
@@ -3137,6 +3137,7 @@
     <e><p><l>Beahcevuotkinvárri<s n="np"/></l><r>Pecivyetkimvääri<s n="np"/></r></p></e>
     <e><p><l>Beahcán<s n="np"/></l><r>Piäccám<s n="np"/></r></p></e>
     <e><p><l>Ođđasat<s n="np"/></l><r>Uđđâseh<s n="np"/></r></p></e>
+    <e><p><l>Yle<b/>Ođđasat<s n="np"/></l><r>Yle<b/>Uđđâseh<s n="np"/></r></p></e>
     <e><p><l>Beahcánbuolžžat<s n="np"/></l><r>Piäccámpuolžah<s n="np"/></r></p></e>
     <e><p><l>Beahcánjávri<s n="np"/></l><r>Piäccámjävri<s n="np"/></r></p></e>
     <e><p><l>Bealdoaivváš<s n="np"/></l><r>Ucceeb<b/>Piäldoouáiváš<s n="np"/></r></p></e>
@@ -5278,9 +5279,9 @@
     <e><p><l>sierra<s n="adv"/></l><r>sierâ<s n="adv"/></r></p></e>
     <e><p><l>sihkkarit<s n="adv"/></l><r>vissásávt<s n="adv"/></r></p></e>
     <e><p><l>skaippil<s n="adv"/></l><r>ponjen<s n="adv"/></r></p></e>
-    <e><p><l>sulaid<s n="adv"/></l><r>suullân<s n="adv"/></r></p></e>
-    <e><p><l>sullii<s n="adv"/></l><r>suullân<s n="pcle"/></r></p></e>
-    <e><p><l>birrasiid<s n="adv"/></l><r>suullân<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>sulaid<s n="adv"/></l><r>suullân<s n="adv"/></r></p></e>
+    <e><p><l>sullii<s n="adv"/></l><r>suullân<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>birrasiid<s n="adv"/></l><r>suullân<s n="adv"/></r></p></e>
     <e><p><l>suoli<s n="adv"/></l><r>syele<s n="adv"/></r></p></e>
     <e><p><l>suollit<s n="adv"/></l><r>syele<s n="adv"/></r></p></e>
     <e><p><l>uhccán<s n="adv"/></l><r>uccáá<s n="adv"/></r></p></e>
@@ -6126,7 +6127,7 @@
     <e><p><l>giikan<s n="n"/></l><r>kiijkár<s n="n"/></r></p></e>
     <e><p><l>giisá<s n="n"/></l><r>kisto<s n="n"/></r></p></e>
     <e><p><l>giittos<s n="n"/></l><r>kiijtos<s n="n"/></r></p></e>
-    <e><p><l>gikta<s n="n"/></l><r>kihtâ<s n="n"/></r></p></e>
+<!--    <e><p><l>gikta<s n="n"/></l><r>kihtâ<s n="n"/></r></p></e> XXX wrong?-->
     <e><p><l>gilká<s n="n"/></l><r>tivgâ<s n="n"/></r></p></e>
     <e><p><l>gilli<s n="n"/></l><r>sijdâ<s n="n"/></r></p></e>
     <e><p><l>gilvaleaddji<s n="n"/></l><r>kištottellee<s n="n"/></r></p></e>
@@ -6812,7 +6813,6 @@
     <e><p><l>muoŧŧá<s n="n"/></l><r>muáđá<s n="n"/></r></p></e>
     <e><p><l>musihkar<s n="n"/></l><r>musikkár<s n="n"/></r></p></e>
     <e><p><l>musihkka<s n="n"/></l><r>muusik<s n="n"/></r></p></e>
-    <e><p><l>musihkkaboddu<s n="n"/></l><r>muusikpuddâ<s n="n"/></r></p></e>    
     <e><p><l>musihkkár<s n="n"/></l><r>musikkár<s n="n"/></r></p></e>
     <e><p><l>muttar<s n="n"/></l><r>muudâr<s n="n"/></r></p></e>
     <e><p><l>mutuvra<s n="n"/></l><r>moottor<s n="n"/></r></p></e>
@@ -9279,7 +9279,7 @@
     <e r="LR"><p><l>taga<s n="post"/></l><r/></p></e><!-- sme:abessive; should be po in sme; see also haga -->
     <e><p><l>sneakta<s n="adv"/></l><r>rasta<s n="adv"/></r></p></e>
     <e><p><l>ihcalassii<s n="adv"/></l><r>jiešmeidlist<s n="adv"/></r></p></e>
-    <e><p><l>joksege<s n="adv"/></l><r>suullân<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>joksege<s n="adv"/></l><r>suullân<s n="adv"/></r></p></e>
     <e><p><l>áli<s n="adv"/></l><r>eivi<s n="adv"/></r></p></e>
     <e><p><l>hárčut<s n="adv"/></l><r>háccud<s n="adv"/></r></p></e>
 
