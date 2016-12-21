@@ -17,34 +17,73 @@ T = tag change
 V = set variable
 W = word order
 
+Documenting choose-parts in macros
+
+set_caseFirstword
+
+remove-semtag-1Param
+
+remove-advtag-1Param
+
+agreement-attr-2Param
+
+convert-deriv-1Param
+
+convert-num-pl-1Param
+
+inherenttag-px-2Param
+
+pcle-foc-2Param
+
+lagan-2Param
+M[L] sierâ lágán to sierâlágán
+M[LT] mottoom lágán to mottoomlágán
+
+foc-1Param
+
+general-macro-1Param
+
+general-macro-2Param
+
+general-macro-2Param-headfirst
+
+general-macro-3Param
+
+general-macro-4Param
+ 
+ 
 Rules:
 Rules concerning all parts of speech:
-C[W]-X foc
-C[DT]-X vblex go-qst
+C[_]-X foc
  
 Rules for verbals:
-C[D]-V  coggat_vblex shoe_n
+C[A]-V  anon_verb
+C[V]-V  mainverb
+C[T]-V  auxverb
+C[A]-V  ovttasbargat_vblex
+C[A]-V  ođđasisorganiseret_vblex
+C[A]-V  vuostáiváldit_vblex
+C[A]-V  álkidahttit_vblex
 C[TV]-V  liikot_vblex verb_inf vp_boundary
  
 Rules for predicates:
+C[D]-PRED  coggat_vblex shoe_n
+C[T]-PRED  giittos_n eatnat_adv
  
 Rules for adjectives:
 C[T]-A  adj
-C[S]-A  nouncmp adj
  
 Rules for bare nouns and pronouns:
 C[T]-N  reflcom com_ess_verb
-C[W]-N nominal
+C[_]-N nominal
 C[T]-N  refcom
-C[T]-N  prn
-C[S]-N nouncmp noun
-C[S]-N nouncmp nouncmp noun
  
 Rules for noun phrases:
 C[CST]-NP  numattr attr nouncmp n_sg_com
 C[CST]-NP  numattr nouncmp n_sg_com
 C[CT]-NP  numattr attr n_sg_com
 C[CT]-NP  numattr n_sg_com
+C[_]-NP  prn_pl_com n_pl_com
 C[CST]-NP  num-attr nouncmp n_sg_accgen
 C[CT]-NP  numattr n_sg_accgen
 C[CT]-NP  adjattr_all cnp adjattr_all noun
@@ -53,15 +92,17 @@ C[C]-NP  attr cmp_splitr cnjcoo noun
 C[CST]-NP  prn_ind_dem adjattr_all nouncmp noun
 C[C]-NP  attr cmp_splitr cnjcoo nouncmp noun
 C[S]-NP  prn_adj_attr nouncmp noun
-C[]-NP  prn_ind_dem attr noun
+C[S]-NP  agreement_buot nouncmp noun
+C[_]-NP  prn_ind_dem attr noun
 C[C]-NP  prn_adj_attr noun
 C[CL]-NP  prn_ind_dem adjattr_all adjattr_pos noun
 C[C]-NP  agreement_buot noun
+C[DT]-NP  ovdamearka_n dihte_post
  
 Rules for numeral expressions and quantifier phrases:
 C[AT]-NUM  semyear_loc gets ive
 C[DLT]-NUM  num_nomacc jahki_n_gen boaris_adj
-C[]-NUM  numsem
+C[_]-NUM  numsem
 C[DLT]-NUM  guokte_num láhki_n
 C[T]-NUM  num_nomacc n_sg_accgen
 C[T]-NUM  num_cmp numeral n_sg_accgen
@@ -75,30 +116,29 @@ C[DT]-ADV  almmá-adv attr H_advl
 C[DT]-ADV  almmá_adv H_advl
 C[T]-ADV  dálá_adj a_adv_comp
 C[DT]-ADV  almmá_adv attr n_sg_pl_gen haga_post
-C[T]-ADV  adv
+C[L]-ADV  adv
  
 Rules for P phrases:
-C[V]-PP  adpos
+C[_]-PP  adpos
 C[DT]-PP  n_sg_pl_gen haga_post
 C[DT]-PP  almmá_adv n_sg_pl_gen haga_post
 C[DT]-PP  nom_gen birra_post
 C[DT]-PP  noun nom_gen birra_post
-C[L]-PP  prnrefgen mielde_post
+C[DT]-PP  prnrefgen mielde_post
 C[DLT]-PP  nubbi_prn beallai_post
 C[T]-PP  geahččat_vblex birra_adv
  
 Rules for other phrases:
  
 Small word classes:
-C[]-CC  cnjcoo
+C[_]-CC  cnjcoo
 C[DT]-CC  ja maiddái_adv
-C[]-CS  cnjsub
+C[_]-CS  cnjsub
  
 Technical things:
+C[T]-T  default
+C[_]-T  sent
  
-Unclassified:
-C[T]-XXX  default
-C[]-XXX  sent
 -->
 
 <transfer default="chunk">
@@ -2309,7 +2349,7 @@ C[]-XXX  sent
 
 
 
-    <rule comment="C[W]-X foc" c="SME. : SMN.">
+    <rule comment="C[_]-X foc" c="SME. : SMN.">
       <pattern>
         <pattern-item n="foc"/>
       </pattern>
@@ -2364,7 +2404,7 @@ C[]-XXX  sent
 
 
 
-    <rule comment="C[W]-N nominal" c="SME. : SMN.">
+    <rule comment="C[_]-N nominal" c="SME. : SMN.">
       <pattern>
         <pattern-item n="nominal"/>
       </pattern>
@@ -2470,7 +2510,7 @@ C[]-XXX  sent
     </rule>
 
 
-    <rule comment="C[V]-PP  adpos" c="SME. : SMN.">
+    <rule comment="C[_]-PP  adpos" c="SME. : SMN.">
       <pattern>
         <pattern-item n="adpos"/>
       </pattern>
@@ -2508,7 +2548,7 @@ C[]-XXX  sent
     </rule>
 
 
-    <rule comment="C[T]-ADV  adv" c="SME. : SMN.">
+    <rule comment="C[L]-ADV  adv" c="SME. : SMN.">
       <pattern>
         <pattern-item n="adv"/>
       </pattern>
@@ -2674,7 +2714,7 @@ C[]-XXX  sent
       </action>
     </rule>
 
-    <rule comment="C[L]-PP  prnrefgen mielde_post" c="Ean fuola su iežame mielde. : Iän huolâ suu fárusân.">
+    <rule comment="C[DT]-PP  prnrefgen mielde_post" c="Ean fuola su iežame mielde. : Iän huolâ suu fárusân.">
       <pattern>
         <pattern-item n="prnrefgen"/>
         <pattern-item n="mielde_post"/>
@@ -3030,7 +3070,7 @@ C[]-XXX  sent
       </action>
     </rule>
 
-    <rule comment="C[D]-V  coggat_vblex shoe_n" c="Mun coggan skuovaid. : Mun kamâdâttâm.">
+    <rule comment="C[D]-PRED  coggat_vblex shoe_n" c="Mun coggan skuovaid. : Mun kamâdâttâm.">
       <pattern>
     	<pattern-item n="coggat_vblex"/>
     	<pattern-item n="shoe_n"/>
@@ -3109,7 +3149,7 @@ C[]-XXX  sent
     </rule>
 
 
-    <rule comment="C[T]-NUM  num_nomacc n_sg_accgen" c="Son oastá čieža láibbi. : Sun uástá čiččâm leibid."> <!-- @@@MACRO@@@ -->
+    <rule comment="C[T]-NUM  num_nomacc n_sg_accgen" c="Son oastá čieža láibbi. : Sun uástá čiččâm leibid."> 
       <pattern>
         <pattern-item n="num_nomacc"/>
         <pattern-item n="n_sg_accgen"/>
@@ -3493,7 +3533,7 @@ C[]-XXX  sent
       </action>
     </rule>
 
-    <rule comment="C[]-NP  prn_ind_dem attr noun" c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
+    <rule comment="C[_]-NP  prn_ind_dem attr noun" c="Vuosttas dievas girji. : Vuosmuš oles kirje.">
       <pattern>
         <pattern-item n="prn_ind_dem"/>
         <pattern-item n="attr"/>
@@ -4036,7 +4076,7 @@ C[]-XXX  sent
       </action>
     </rule>
 
-    <rule comment="C[S]  agreement_buot nouncmp noun" c="buot biilaolbmot. : puohah autoulmuuh.">
+    <rule comment="C[S]-NP  agreement_buot nouncmp noun" c="buot biilaolbmot. : puohah autoulmuuh.">
       <pattern>
         <pattern-item n="agreement_buot"/>
         <pattern-item n="nouncmp"/>
@@ -4078,7 +4118,7 @@ C[]-XXX  sent
 
 
 
-    <rule comment="C[]  prn_pl_com n_pl_com" c="Dáiguin mašiinnaiguin lea álki goarrut. : Taiguin mašinijguin lii älkkee kuárruđ.">
+    <rule comment="C[_]-NP  prn_pl_com n_pl_com" c="Dáiguin mašiinnaiguin lea álki goarrut. : Taiguin mašinijguin lii älkkee kuárruđ.">
       <pattern>
         <pattern-item n="prn_pl_com"/>
         <pattern-item n="n_pl_com"/>
@@ -4108,7 +4148,7 @@ C[]-XXX  sent
     </rule>
 
 
-    <rule comment="C[T]  auxverb" c="Iige. : SMN. ">
+    <rule comment="C[T]-V  auxverb" c="Iige. : SMN. ">
       <pattern>
         <pattern-item n="auxverb"/>
       </pattern>
@@ -4138,7 +4178,7 @@ C[]-XXX  sent
     </rule>
 
 
-    <rule comment="C[T]  giittos_n eatnat_adv" c="Giittos eatnat. : SMN.">
+    <rule comment="C[T]-PRED  giittos_n eatnat_adv" c="Giittos eatnat. : SMN.">
       <pattern>
         <pattern-item n="giittos_n"/>
         <pattern-item n="eatnat_adv"/>
@@ -4165,7 +4205,7 @@ C[]-XXX  sent
 
       </action>
     </rule>
-    <rule comment="C[DT]  ovdamearka_n dihte_post" c="Ovdamearkka dihtii. : Ovdâmerkkân.">
+    <rule comment="C[DT]-NP  ovdamearka_n dihte_post" c="Ovdamearkka dihtii. : Ovdâmerkkân.">
       <pattern>
         <pattern-item n="ovdamearka_n"/>
         <pattern-item n="dihte_post"/>
@@ -4188,7 +4228,7 @@ C[]-XXX  sent
       </action>
     </rule>
 
-    <rule comment="C[A]  vuostáiváldit_vblex" c="Vuostáiváldit. : Väldiđ vuástá.">
+    <rule comment="C[A]-V  vuostáiváldit_vblex" c="Vuostáiváldit. : Väldiđ vuástá.">
       <pattern>
         <pattern-item n="vuostáiváldit_vblex"/>
       </pattern>
@@ -4214,7 +4254,7 @@ C[]-XXX  sent
     </rule>
 
 
-    <rule comment="C[A]  anon_verb" c="Atnuiváldit. : Väldiđ anon.">
+    <rule comment="C[A]-V  anon_verb" c="Atnuiváldit. : Väldiđ anon.">
       <pattern>
         <pattern-item n="anon_verb"/>
       </pattern>
@@ -4240,7 +4280,7 @@ C[]-XXX  sent
     </rule>
 
 
-    <rule comment="C[A]  álkidahttit_vblex" c="Álkidahttit. : Toohâđ älkkeebin.">
+    <rule comment="C[A]-V  álkidahttit_vblex" c="Álkidahttit. : Toohâđ älkkeebin.">
       <pattern>
         <pattern-item n="álkidahttit_vblex"/>
       </pattern>
@@ -4265,7 +4305,7 @@ C[]-XXX  sent
       </action>
     </rule>
 
-    <rule comment="C[A]  ovttasbargat_vblex" c="Ovttasbargat. : Porgâđ ovttâst.">
+    <rule comment="C[A]-V  ovttasbargat_vblex" c="Ovttasbargat. : Porgâđ ovttâst.">
       <pattern>
         <pattern-item n="ovttasbargat_vblex"/>
       </pattern>
@@ -4290,7 +4330,7 @@ C[]-XXX  sent
       </action>
     </rule>
 
-    <rule comment="C[A]  ođđasisorganiseret_vblex" c="Ođđasisorganiseret. : Orniđ uđđâsist.">
+    <rule comment="C[A]-V  ođđasisorganiseret_vblex" c="Ođđasisorganiseret. : Orniđ uđđâsist.">
       <pattern>
         <pattern-item n="ođđasisorganiseret_vblex"/>
       </pattern>
@@ -4315,7 +4355,7 @@ C[]-XXX  sent
       </action>
     </rule>
 
-    <rule comment="C[V]  mainverb" c="SME. : SMN.">
+    <rule comment="C[V]-V  mainverb" c="SME. : SMN.">
       <pattern>
         <pattern-item n="mainverb"/>
       </pattern>
@@ -4336,7 +4376,7 @@ C[]-XXX  sent
       </action>
     </rule>
 
-    <rule comment="C[]-CS  cnjsub" c="SME. : SMN.">
+    <rule comment="C[_]-CS  cnjsub" c="SME. : SMN.">
       <pattern>
         <pattern-item n="cnjsub"/>
       </pattern>
@@ -4356,7 +4396,7 @@ C[]-XXX  sent
       </action>
     </rule>
 
-    <rule comment="C[]-CC  cnjcoo" c="SME. : SMN.">
+    <rule comment="C[_]-CC  cnjcoo" c="SME. : SMN.">
       <pattern>
         <pattern-item n="cnjcoo"/>
       </pattern>
@@ -4377,7 +4417,7 @@ C[]-XXX  sent
     </rule>
 
 
-    <rule comment="C[]-XXX  sent" c=". : .">
+    <rule comment="C[_]-T  sent" c=". : .">
       <pattern>
         <pattern-item n="sent"/>
       </pattern>
@@ -4396,7 +4436,7 @@ C[]-XXX  sent
       </action>
     </rule>
 
-    <rule comment="C[]-NUM  numsem" c="SME. : SMN.">
+    <rule comment="C[_]-NUM  numsem" c="SME. : SMN.">
       <pattern>
         <pattern-item n="numsem"/>
       </pattern>
@@ -4416,7 +4456,7 @@ C[]-XXX  sent
       </action>
     </rule>
 
-    <rule comment="C[T]-XXX  default" c="SME. : SMN.">
+    <rule comment="C[T]-T  default" c="SME. : SMN.">
       <pattern>
         <pattern-item n="default"/>
       </pattern>
