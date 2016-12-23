@@ -2233,9 +2233,13 @@ C[_]-T  sent
           </and></test>
           <let><clip pos="1" side="tl" part="a_attr"/><lit v=""/></let>
         </when>
-         <when>
+         <when c="buori boahtteáiggi vuosttaldit : šiev puátteevuođâ vyestilistiđ">
           <test><equal><clip pos="1" side="tl" part="lem"/><lit v="šiev"/></equal></test>
           <let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.attr"/></let>
+        </when>
+         <when c="dalle čuvvot oahppit iešguđetge luohká : talle čuávuh uáppeeh jieškote-uv luoka">
+          <test><equal><clip pos="1" side="tl" part="lem"/><lit v="jieškote"/></equal></test>
+          <let><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/></let>
         </when>
      </choose>
       <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
