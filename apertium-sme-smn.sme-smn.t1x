@@ -899,6 +899,7 @@ C[_]-T  sent
       <cat-item tags="adj.*.comp.attr.*"/>
       <cat-item tags="adj.*.sup.attr.*"/>
       <cat-item lemma="guhtemuš" tags="prn.*"/>
+      <cat-item lemma="buorre" tags="adj.*.@→N"/>
     </def-cat>
      <def-cat n="guokte_num">
       <cat-item lemma="guokte" tags="num.*"/>
@@ -2232,7 +2233,11 @@ C[_]-T  sent
           </and></test>
           <let><clip pos="1" side="tl" part="a_attr"/><lit v=""/></let>
         </when>
-      </choose>
+         <when>
+          <test><equal><clip pos="1" side="tl" part="lem"/><lit v="šiev"/></equal></test>
+          <let><clip pos="1" side="tl" part="tags"/><lit-tag v="adj.attr"/></let>
+        </when>
+     </choose>
       <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
       <call-macro n="foc-1Param"><with-param pos="1"/></call-macro>
       <!--         <call-macro n="remove-advtag-1Param"><with-param pos="1"/></call-macro> this needs a test in the macro-->
