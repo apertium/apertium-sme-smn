@@ -33,6 +33,8 @@
     <sdef n="sem_hum" c="Sem/Hum"/> 
     <sdef n="sem_dummytag" c="Sem/Dummytag"/> 
     <sdef n="sem_plc" c="Sem/Plc"/>
+    <sdef n="cmp_sgnom" c="cmp_sgnom"/>
+    <sdef n="cmp" c="cmp"/>
     <sdef n="foc_sun" c="clitic sun"/>
     <sdef n="foc_ge" c="clitic ge"/>
     <sdef n="foc_uv" c="clitic -uv"/>
@@ -4922,7 +4924,7 @@
     <e><p><l>siskkildas<s n="adj"/></l><r>siskáldâs<s n="adj"/></r></p></e>
     <e><p><l>siskkáldas<s n="adj"/></l><r>siskáldâs<s n="adj"/></r></p></e>
     <e><p><l>sivalaš<s n="adj"/></l><r>sujâlâš<s n="adj"/></r></p></e>
-    <e><p><l>siviila<s n="adj"/></l><r>siiviil<s n="adj"/></r></p></e>
+    <e><p><l>siviila<s n="adj"/><s n="sem_hum"/><s n="attr"/></l><r>siiviil<s n="n"/><s n="cmp_sgnom"/><s n="cmp"/></r></p></e>
     <e><p><l>sivvat<s n="adj"/></l><r>várugâs<s n="adj"/></r></p></e>
     <e><p><l>siđas<s n="adj"/></l><r>mavresteijee<s n="adj"/></r></p></e>
     <e><p><l>siđus<s n="adj"/></l><r>mavresteijee<s n="adj"/></r></p></e>
@@ -6261,7 +6263,6 @@
     <e><p><l>guotku<s n="n"/></l><r>kuátku<s n="n"/></r></p></e>
     <e><p><l>guottu<s n="n"/></l><r>kuodduš<s n="n"/></r></p></e>
     <e><p><l>guottádat<s n="n"/></l><r>kuádádâh<s n="n"/></r></p></e>
-    <e><p><l>guovddaš<s n="n"/></l><r>kuávdáš<s n="n"/></r></p></e>
     <e><p><l>guovddáš<s n="n"/></l><r>kuávdáš<s n="n"/></r></p></e>
     <e><p><l>guovllas<s n="n"/></l><r>vyevli<s n="n"/></r></p></e>
     <e><p><l>guovssat<s n="n"/></l><r>rávdu<s n="n"/></r></p></e>
@@ -8681,6 +8682,7 @@
     <e><p><l>geahččalit<s n="vblex"/><s n="tv"/></l><r>keččâliđ<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>geahččalit<s n="vblex"/><s n="tv"/></l><r>irâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>geardduhit<s n="vblex"/><s n="tv"/></l><r>kiärduttiđ<s n="vblex"/></r></p></e>
+    <e><p><l>gergehit<s n="vblex"/><s n="tv"/></l><r>čođâldittiđ<s n="vblex"/></r></p></e>
     <e><p><l>geassit<s n="vblex"/><s n="tv"/></l><r>keessiđ<s n="vblex"/></r></p></e>
     <e><p><l>geasuhit<s n="vblex"/><s n="tv"/></l><r>kiäsuttiđ<s n="vblex"/></r></p></e>
     <e><p><l>giddet<s n="vblex"/><s n="tv"/></l><r>kiddiđ<s n="vblex"/></r></p></e>

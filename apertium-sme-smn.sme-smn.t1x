@@ -3444,6 +3444,22 @@ C[_]-T  sent
         </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         </when></choose>
+        <choose><when c="siviila bivttas : siiviilpiivtâs">
+        <test><not><equal><clip pos="1" side="tl" part="a_cmp"/><lit v=""/></equal></not></test>
+        <out>
+          <chunk name="jn" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <mlu>
+            <lu><clip pos="1" side="tl" part="whole"/></lu>
+            <lu><clip pos="2" side="tl" part="whole"/></lu>
+            </mlu>
+          </chunk>
+        </out>
+          </when>
+               <otherwise>
         <out>
           <chunk name="j_n" case="caseFirstword">
             <tags>
@@ -3455,6 +3471,8 @@ C[_]-T  sent
             <lu><clip pos="2" side="tl" part="whole"/></lu>
           </chunk>
         </out>
+               </otherwise>
+               </choose>
       </action>
     </rule>
 
@@ -3598,7 +3616,24 @@ C[_]-T  sent
         </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="3"/></call-macro>
         </when></choose>
+         <choose><when c="siviila bálvalusgeatnegasvuođa : siiviilpalvâluskenigâsvuođâ">
+        <test><not><equal><clip pos="1" side="tl" part="a_cmp"/><lit v=""/></equal></not></test>
         <out>
+          <chunk name="jn" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <mlu>
+            <lu><clip pos="1" side="tl" part="whole"/></lu>
+            <lu><clip pos="2" side="tl" part="whole"/></lu>
+            <lu><clip pos="3" side="tl" part="whole"/></lu>
+            </mlu>
+          </chunk>
+        </out>
+          </when>
+               <otherwise>
+       <out>
           <chunk name="j_nc_n" case="caseFirstword">
             <tags>
               <tag><lit-tag v="NP"/></tag>
@@ -3612,6 +3647,8 @@ C[_]-T  sent
             </mlu>
           </chunk>
         </out>
+               </otherwise>
+               </choose>
       </action>
     </rule>
 
