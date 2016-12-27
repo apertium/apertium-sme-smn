@@ -16,6 +16,7 @@ aigin/aigin.missing.smefst.freq -text
 aigin/aigin.original.sme.txt -text
 aigin/aigin.smn -text
 aigin/aigin.smn.mt -text
+aigin/aigin.smn.mt.compare_with_trans -text
 aigin/omegat/aigin.original.sme.txt -text
 /apertium-sme-smn.sme-smn.dix -text
 /apertium-sme-smn.sme-smn.metalrx -text
