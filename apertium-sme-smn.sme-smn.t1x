@@ -803,6 +803,8 @@ C[_]-T  sent
       <cat-item tags="adj.sg.*"/>
       <cat-item tags="adj.pl.*"/>
       <cat-item tags="adj.ess.*"/>
+      <cat-item tags="vblex.*.actio.gen.@→P"/>
+      <cat-item tags="vblex.actio.gen.@→P"/>
     </def-cat>
    
     <def-cat n="adv">
@@ -957,6 +959,9 @@ C[_]-T  sent
     </def-attr>
     <def-attr n="a_qst">
       <attr-item tags="qst"/>
+    </def-attr>
+    <def-attr n="a_actio">
+      <attr-item tags="actio"/>
     </def-attr>
     <def-attr n="a_abbr">
       <attr-item tags="abbr"/>
@@ -2425,6 +2430,7 @@ C[_]-T  sent
       </pattern>
       <action>
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
+          <let><clip pos="1" side="tl" part="a_actio"/><lit-tag v="der_nomact.n.sg"/></let> <!-- nannen dihte -->
         <out>
           <chunk name="n" case="caseFirstword">
             <tags>
