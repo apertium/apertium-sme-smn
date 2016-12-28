@@ -33,7 +33,9 @@
     <sdef n="sem_hum" c="Sem/Hum"/> 
     <sdef n="sem_dummytag" c="Sem/Dummytag"/> 
     <sdef n="sem_plc" c="Sem/Plc"/>
+    <sdef n="cmp_attr" c="cmp_attr"/>
     <sdef n="cmp_sgnom" c="cmp_sgnom"/>
+    <sdef n="cmp_sggen" c="cmp_sggen"/>
     <sdef n="cmp" c="cmp"/>
     <sdef n="foc_sun" c="clitic sun"/>
     <sdef n="foc_ge" c="clitic ge"/>
@@ -4473,7 +4475,7 @@
     <e><p><l>boahttevaš<s n="adj"/></l><r>puáttee<s n="adj"/></r></p></e>
     <e><p><l>boaresáigásaš<s n="adj"/></l><r>puárisáigásâš<s n="adj"/></r></p></e>
     <e><p><l>boarka<s n="adj"/></l><r>puárkkáá<s n="adj"/></r></p></e>
-    <e><p><l>boasttu<s n="adj"/></l><r>puástu<s n="adj"/></r></p></e>
+    <e><p><l>boasttu<s n="adj"/><s n="sem_dummytag"/><s n="attr"/></l><r>puástu<s n="adj"/><s n="cmp_attr"/><s n="cmp"/></r></p></e>
     <e><p><l>buhtis<s n="adj"/></l><r>putes<s n="adj"/></r></p></e>
     <e><p><l>buotlágan<s n="adj"/></l><r>puohlágán<s n="adj"/></r></p></e>
     <e><p><l>buotveagalaš<s n="adj"/></l><r>puohváldálâš<s n="adj"/></r></p></e>

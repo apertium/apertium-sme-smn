@@ -1023,7 +1023,21 @@ C[_]-T  sent
        <attr-item tags="pret"/>
        <attr-item tags="pres"/>
     </def-attr>
-    <def-attr n="a_spec_sme_tags">
+    <def-attr n="a_spec_sme_tags1">
+      <attr-item tags="south"/>
+      <attr-item tags="g3"/>
+       <attr-item tags="allegro"/>
+       <attr-item tags="err_orth_nom_gen_mt"/>
+        <attr-item tags="err_orth_nom_gen"/>
+      <attr-item tags="err_orth_mt"/>
+      <attr-item tags="err_orth"/>
+       <attr-item tags="err_orth_nom_acc_mt"/>
+       <attr-item tags="err_orth_nom_acc"/>
+       <attr-item tags="err_orth_a_á_mt"/>
+       <attr-item tags="err_orth-a-á"/>
+       <attr-item tags="←logo→"/>
+    </def-attr>
+    <def-attr n="a_spec_sme_tags2">
       <attr-item tags="south"/>
       <attr-item tags="g3"/>
        <attr-item tags="allegro"/>
@@ -2217,7 +2231,7 @@ C[_]-T  sent
       <choose>
         <when>
           <test><equal><clip pos="1" side="tl" part="a_cmp"/><lit-tag v="cmp_sh"/></equal></test>
-          <let><clip pos="1" side="tl" part="a_cmp"/><lit-tag v="cmp_sggen"/></let>
+          <let><clip pos="1" side="tl" part="a_cmp"/><lit-tag v="cmp_sgnom"/></let>
         </when>
       </choose>
       <choose>
@@ -2245,7 +2259,8 @@ C[_]-T  sent
       <call-macro n="convert-deriv-1Param"><with-param pos="1"/></call-macro>
       <call-macro n="foc-1Param"><with-param pos="1"/></call-macro>
       <!--         <call-macro n="remove-advtag-1Param"><with-param pos="1"/></call-macro> this needs a test in the macro-->
-      <let><clip pos="1" side="tl" part="a_spec_sme_tags"/><lit v=""/></let>
+      <let><clip pos="1" side="tl" part="a_spec_sme_tags1"/><lit v=""/></let>
+      <let><clip pos="1" side="tl" part="a_spec_sme_tags2"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_sem"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
@@ -3542,9 +3557,10 @@ C[_]-T  sent
             <b pos="2"/>
             <lu><clip pos="3" side="tl" part="whole"/></lu>
             <b pos="3"/>
+            <mlu>
             <lu><clip pos="4" side="tl" part="whole"/></lu>
-            <b pos="4"/>
             <lu><clip pos="5" side="tl" part="whole"/></lu>
+            </mlu>
           </chunk>
         </out>
       </action>
