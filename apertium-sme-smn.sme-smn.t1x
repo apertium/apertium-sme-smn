@@ -1521,6 +1521,7 @@ C[_]-T  sent
       <list-item v="liikot"/>
     </def-list>
     <def-list n="agreement-attr-lemmas">      
+      <list-item v="aldemus"/> 
       <list-item v="jieškote"/> 
       <list-item v="puohah"/> 
       <list-item v="kote"/> 
@@ -3318,7 +3319,15 @@ C[_]-T  sent
       </pattern>
       <action>
         <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
-        <choose><when>
+        <choose><when><test><or>
+        <in caseless="yes"><clip pos="2" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
+        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="2" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
+        </or></test>
+        <call-macro n="agreement-attr-2Param"><with-param pos="2"/><with-param pos="3"/></call-macro>
+        </when></choose>
+       <choose><when>
           <test><and>
             <not><in caseless="yes"><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
             <not><in caseless="yes"><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>
@@ -3484,6 +3493,71 @@ C[_]-T  sent
             <lu><clip pos="1" side="tl" part="whole"/></lu>
             <b pos="1"/>
             <lu><clip pos="2" side="tl" part="whole"/></lu>
+          </chunk>
+        </out>
+               </otherwise>
+               </choose>
+      </action>
+    </rule>
+    <rule comment="C[C]-NP prn_adj_attr adjattr_all noun" c="SME : SMN">  
+      <pattern>
+        <pattern-item n="prn_adj_attr"/>
+        <pattern-item n="adjattr_all"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
+        <choose>
+        <when>
+        <test><or>
+        <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
+        </or></test>
+        <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="3"/></call-macro>
+        </when>
+        </choose>
+        <choose>
+        <when>
+        <test><or>
+        <in caseless="yes"><clip pos="2" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
+        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="2" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
+        </or></test>
+        <call-macro n="agreement-attr-2Param"><with-param pos="2"/><with-param pos="3"/></call-macro>
+        </when>
+        </choose>
+        <choose><when c="siviila bivttas : siiviilpiivtâs">
+        <test><not><equal><clip pos="2" side="tl" part="a_cmp"/><lit v=""/></equal></not></test>
+        <out>
+          <chunk name="jn" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu><clip pos="1" side="tl" part="whole"/></lu>
+            <b pos="1"/>
+            <mlu>
+            <lu><clip pos="2" side="tl" part="whole"/></lu>
+            <lu><clip pos="3" side="tl" part="whole"/></lu>
+            </mlu>
+          </chunk>
+        </out>
+          </when>
+               <otherwise>
+        <out>
+          <chunk name="j_n" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu><clip pos="1" side="tl" part="whole"/></lu>
+            <b pos="1"/>
+            <lu><clip pos="2" side="tl" part="whole"/></lu>
+            <b pos="2"/>
+            <lu><clip pos="3" side="tl" part="whole"/></lu>
           </chunk>
         </out>
                </otherwise>
