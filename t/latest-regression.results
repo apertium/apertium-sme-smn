@@ -1,6 +1,6 @@
-Revision: 67471
-AP_SRC1 (doesn't seem to be a repo)
-AP_SRC2 (doesn't seem to be a repo)
+Revision: 75214
+AP_SRC1 Revision: 145809
+AP_SRC2 Revision: 145755
 Running Regression-tests with mode "sme-smn" with updated tests ...
 
 sme-smn	  Mus leat golbma beatnaga.
@@ -175,25 +175,141 @@ sme-smn	  Mun oasttán vuosttaš girjjiid.
 WORKS	  Mun uástám vuosmuid kiirjijd.
 
 
+sme-smn	  35 ášši dáin leat doarjjaáššit.
+WORKS	  35 äššid täin láá toorjâääših.
+
+
+sme-smn	  Dalle go áhčči lei čieža jagi.
+WORKS	  Talle ko eeči lâi čiččâm ihheed.
+
+
+sme-smn	  Dát golbma guoli leat buoremusat.
+WORKS	  Taah kulmâ kyele láá pyeremuuh.
+
+
+sme-smn	  Mus lea okta guolli.
+WORKS	  Must lii ohtâ kyeli.
+
+
+sme-smn	  Mus leat guokte láibbi.
+WORKS	  Must láá kyehti leeibi.
+
+
+sme-smn	  Sámegiela hálddašanguovllus leat dál 9 suohkana.
+WORKS	  Sämikielâ haldâttâskuávlust láá tääl 9 kieldâd.
+
+
+sme-smn	  Bussá borrá golbma guoli.
+WORKS	  Kissá porá kulmâ kyele.
+
+
+sme-smn	  Ipmil sivdnidii guokte stuorra čuovgga.
+WORKS	  Immeel sivnedij kyehti stuorrâ čuovâ.
+
+
+sme-smn	  Mun dohppen ovtta guoli.
+WORKS	  Mun toppiim oovtâ kyele.
+
+
+sme-smn	  Mun válddán dán golbma guoli.
+WORKS	  Mun vááldám täid kulmâ kyele.
+
+
+sme-smn	  Sámediggi árvvoštallá 9 suohkana.
+WORKS	  Sämitigge árvuštâl 9 kieldâd.
+
+
+sme-smn	  Diet leat ovtta guoli meađđemat.
+WORKS	  Tieh láá oovtâ kyele meeinih.
+
+
+sme-smn	  Dát leat guovtti guoli meađđemat.
+WORKS	  Taah láá kyevti kyele meeinih.
+
+
+sme-smn	  Mun válddán dán golmma guoli meađđemiid.
+WORKS	  Mun vááldám tai kuulmâ kyele meeinijd.
+
+
+sme-smn	  Válden golmma guoli meađđemiid.
+WORKS	  Valdim kuulmâ kyele meeinijd.
+
+
+sme-smn	  Dan adden ovtta guollái.
+WORKS	  Tom adelim oovtâ kuálán.
+
+
+sme-smn	  Olbmot fárrejit 9 suohkanii.
+WORKS	  Ulmuuh värrejeh 9 kieldân.
+
+
+sme-smn	  Dat bođii ovtta guolis.
+WORKS	  Tot poođij oovtâ kyeleest.
+
+
+sme-smn	  Válden iskosa guovtti guolis.
+WORKS	  Valdim iskos kyevti kyeleest.
+
+
+sme-smn	  Dát rehkenastojuvvo oktan guollin.
+WORKS	  Taat rekinistoo ohtân kyellin.
+
+
+sme-smn	  Dán golmma guolis leat meađđemat.
+	- Taan kuulmâ kyeleest láá meeinih.
+	+ Täin kuulmâ kyeleest láá meeinih.
+
+
+sme-smn	  Golmma guolis ledje meađđemat.
+WORKS	  Kuulmâ kyeleest lijjii meeinih.
+
+
+sme-smn	  Guovtti guolis ledje dákkárat.
+WORKS	  Kyevti kyeleest lijjii tágáreh.
+
+
+sme-smn	  Jávrris leat golbma guoli.
+WORKS	  Jäävrist láá kulmâ kyele.
+
+
+sme-smn	  Sápmelaččat orrot njealji riikkas.
+WORKS	  Sämmiliih oroh neelji riijkâst.
+
+
+sme-smn	  Áhkku bođii golmmain guliin.
+WORKS	  Ákku poođij kulmáin kuolijn.
+
+
+sme-smn	  Áhkku bođii guvttiin guliin.
+WORKS	  Ákku poođij kuovttijn kuolijn.
+
+
+sme-smn	  Áhkku bođii ovttain guliin.
+WORKS	  Ákku poođij ovttáin kuolijn.
+
+
+sme-smn	  II Evttohusat ja mearkkašumit.
+WORKS	  II iävtuttâsah já merhâšumeh.
+
+
 sme-smn	  Komitea ávžžuha soahpamušriikka ollašuhttit dárbbašlaš doaimmaid.
-WORKS	  Komitea avžuut sopâmušriijkâ olášuttiđ tárbulijd tooimâid.
+WORKS	  Komitea ávžoo sopâmušriijkâ olášuttiđ tarbâšlijd tooimâid.
 
 
 sme-smn	  Komitea ávžžuha soahpamušriikka ollašuhttit buot dárbbašlaš doaimmaid.
-WORKS	  Komitea avžuut sopâmušriijkâ olášuttiđ puoh tárbulijd tooimâid.
+WORKS	  Komitea ávžoo sopâmušriijkâ olášuttiđ puoh tarbâšlijd tooimâid.
 
 
 sme-smn	  Dan mii bargat buot ohppiiguin.
-WORKS	  Tom mij porgâp puohâi uáppeiguin.
+WORKS	  Tom mij porgâp puoh uáppeiguin.
 
 
-sme-smn	  Mu maŋimuš stuorát prošeakta nogai giđđat 2008.
-	- Muu majemuš stuárráb proojeekt nuuvâi kiđđuv 2008.
-	+ Muu majemuš stuárráb proojeekt nuuvâi kiđđuv @2008.
+sme-smn	  Mu maŋimuš stuorát prošeakta nogai giđđat 2008..
+WORKS	  Muu majemuš stuárráb proojeekt nuuvâi kiđđuv 2008..
 
 
 sme-smn	  Bearaš suittiige ássat stuorát ja buoret viesus.
-WORKS	  Peerâ suuitij-uv aassâđ stuárráb já pyereb viäsust.
+WORKS	  Peerâ suuitij-uv aassâđ stuárráb já pyereb táálust.
 
 
 sme-smn	  Doppe leat uhcimustá golbma lahtu ja guđege gielddas okta várrelahttu.
@@ -325,7 +441,8 @@ WORKS	  Já magareh toh láá?
 
 
 sme-smn	  1974:s huksii stáhta dákkáriid.
-WORKS	  1974:st huksij staatâ tágárijd.
+	- Ive 1974 huksij staatâ tágárijd.
+	+ ive 1974 huksij staatâ tágárijd.
 
 
 sme-smn	  Máret oaččui guktuin mánáin skeaŋkka.
@@ -369,7 +486,7 @@ WORKS	  Uáppeeh kavnii tiäđuid eres kiirjijn.
 
 
 sme-smn	  Máret humai soames dievdduin.
-WORKS	  Maarit sáárnui mottoom almain.
+WORKS	  Maarit sáárnui motomáin almain.
 
 
 sme-smn	  Son buđalda vaikko mainna.
@@ -413,7 +530,7 @@ WORKS	  Mii eeđijd tust lii?
 
 
 sme-smn	  maiguin viesuiguin, maid viesuiguin.
-WORKS	  moi viäsuiguin, meid viäsuiguin.
+WORKS	  moi táluiguin, meid táluiguin.
 
 
 sme-smn	  Man mánás lea bátnevárka?
@@ -453,7 +570,7 @@ WORKS	  Kuábbáást sij láá pivdám iše?
 
 
 sme-smn	  Guđemuš viesuin orrot olbmot?
-WORKS	  Kotemuin viäsuin oroh ulmuuh?
+WORKS	  Kotemuin tááluin oroh ulmuuh?
 
 
 sme-smn	  Guđemuš beatnagiid galgá báttis veaddit?
@@ -489,7 +606,7 @@ WORKS	  Tiest uážžu iše.
 
 
 sme-smn	  Mun bijan biergasiid diesa.
-WORKS	  Mun piejâm piergâsijd ties.
+WORKS	  Mun piejâm tiiŋgâid ties.
 
 
 sme-smn	  Čoavdda lea duon siste.
@@ -573,7 +690,7 @@ WORKS	  Kal tuoi jiejah čälivettee.
 
 
 sme-smn	  Soai dahkaluttaiga nubbi nubbin.
-WORKS	  Suoi tohâluddáin nubbe nubben.
+WORKS	  Suoi tohâludáin nubbe nubben.
 
 
 sme-smn	  Sii čergo nuppit nuppiiguin.
@@ -609,16 +726,19 @@ WORKS	  Muoi lijkkojeen nubbe nuubán.
 
 
 sme-smn	  Gielddat galget ovttasbargat nubbi nuppiin.
-WORKS	  Kieldah kalgeh oovtâst porgâđ nubbe nubbijn.
+WORKS	  Kieldah kalgeh porgâđ oovtâst nubbe nubbijn.
+
+
+sme-smn	  Čohkket munno gaskii.
+WORKS	  Čokkáán munnuu kooskân.
 
 
 sme-smn	  Mun dolvon reaga viesu lusa.
-WORKS	  Mun tolvum rievâ viäsu luusâ.
+WORKS	  Mun tolvum rievâ táálu luusâ.
 
 
 sme-smn	  Áhkku bođii maŋŋil juovllaid.
-	- Ákku poođij juovlâi maŋa.
-	+ Ákku poođij maŋa juovlâi.
+WORKS	  Ákku poođij juovlâi maŋa.
 
 
 sme-smn	  Elle váccii bálgá mielde johkagáddái.
@@ -630,11 +750,11 @@ WORKS	  Tain tun ferttiih onnáá peeivi mield kiergâniđ.
 
 
 sme-smn	  Son guđii biilla viesu gurrii.
-WORKS	  Sun kuođij auto viäsu piällás.
+WORKS	  Sun kuođij auto táálu piällás.
 
 
 sme-smn	  Viesu guora manai bálggis.
-WORKS	  Viäsu piällás moonâi päälgis.
+WORKS	  Táálu piällás moonâi päälgis.
 
 
 sme-smn	  Son ceggii sabehiid seainni vuostá.
@@ -642,7 +762,7 @@ WORKS	  Sun cegâttij savehijd seeini vuástá.
 
 
 sme-smn	  Son vujii min viesu meattá.
-WORKS	  Sun vuojij mii viäsu lappâd.
+WORKS	  Sun vuojij mii táálu lappâd.
 
 
 sme-smn	  Girji lea beavddi alde.
@@ -666,11 +786,11 @@ WORKS	  Ton maŋa sun varrij oovtâst perruinis rääji nubebel.
 
 
 sme-smn	  Norgga dutkit eai beassan dutkat Ruošša bealde 1997:s.
-WORKS	  Taažâ totkeeh iä peessâm tutkâđ Ruošâ peln 1997:st.
+WORKS	  Taažâ totkeeh iä peessâm tutkâđ Ruošâ peln ive 1997.
 
 
 sme-smn	  Uhcastáloš doapmalii čiehkádit balssa duohkái.
-WORKS	  Uccâstááluš tomâlij čiähádâttâđ poolsâ tuáhá.
+WORKS	  Uccâstáálâš tomâlij čiähádâttâđ poolsâ tuáhá.
 
 
 sme-smn	  Duottar leabbá duoddara duohken.
@@ -689,23 +809,16 @@ sme-smn	  Vuolgge min fárrui!
 WORKS	  Vyelgi mii fáárun!
 
 
-sme-smn	  Čohkket munno gaskii.
-WORKS	  Čokkáán munnuu kooskân.
-
-
 sme-smn	  Áhkku bođii maŋŋil juovllaid.
-	- Ákku poođij juovlâi maŋa.
-	+ Ákku poođij maŋa juovlâi.
+WORKS	  Ákku poođij juovlâi maŋa.
 
 
 sme-smn	  Son lea čoahkkimis gaskal viđa ja guđa.
-	- Sun lii čuákkimist viiđâ já kuuđâ kooskâst.
-	+ Sun lii čuákkimist kooskâst viiđâ já kuuđâ.
+WORKS	  Sun lii čuákkimist viiđâ já kuuđâ kooskâst.
 
 
 sme-smn	  Son bargá birra jándora.
-	- Sun parga pirrâmpeeivi miätá.
-	+ Sun parga miätá pirrâmpeeivi.
+WORKS	  Sun parga pirrâmpeeivi miätá.
 
 
 sme-smn	  Mun human dávjá nieidda birra.
@@ -726,6 +839,10 @@ WORKS	  Viiđâd siijđost lii eenâb tien tábáhtusâst.
 
 sme-smn	  Sii manne gápmagiid haga olggos.
 WORKS	  Sij monnii kammuittáá olgos.
+
+
+sme-smn	  Sii dahke dan almmá doarjaga haga.
+WORKS	  Sij tohhii tom torjuuttáá.
 
 
 sme-smn	  Son lea 5-jahkásaš.
@@ -812,11 +929,6 @@ sme-smn	  Moai ean muital maidege geasage.
 WORKS	  Muoi iän muštâl maiden kiässán.
 
 
-sme-smn	  In dieđe leago mihkkege dahkkon dainna, in mun goit leat gullan maidege.
-	- Jiem tieđe lii-uv mihheen toohum toin, jiem mun kuittâg lah kuullâm maiden.
-	+ Jiem tieđe lii-uv mihheen tohhum/toohhum toin, jiem mun kuittâg lah kuullâm maiden.
-
-
 sme-smn	  Moai ean liiko goabbáige.
 WORKS	  Muoi iän lijkkuu kuábážângin.
 
@@ -827,6 +939,14 @@ WORKS	  Jiem tuuđâ magarângin.
 
 sme-smn	  Dieiguin ii olle gosage.
 WORKS	  Tieiguin ij kiergân kuussân.
+
+
+sme-smn	  de dat sáhttet dagahit boastu ipmárdusaid.
+WORKS	  te toh pyehtih tovâttiđ puástuibárdâsâid.
+
+
+sme-smn	  siviila bálvalusgeatnegasvuođa.
+WORKS	  siiviilpalvâluskenigâsvuođâ.
 
 
 sme-smn	  Márehis lea rukses biila.
@@ -862,7 +982,7 @@ WORKS	  Ij pyevti tom kevttiđ moossân.
 
 
 sme-smn	  Miljovnnaiguin gal baicca boađášii viessu.
-WORKS	  Miljovnijguin kale peiccâ puáđáččij viäsu.
+WORKS	  Miljovnijguin kale peiccâ puáđáččij táálu.
 
 
 sme-smn	  Gal mun čálán.
@@ -873,4 +993,4 @@ sme-smn	  Giittos eatnat luoikamis.
 WORKS	  Kijttos ennâg luoikkâmist.
 
 
-210 / 216, 97.22%
+245 / 247
