@@ -2270,6 +2270,7 @@ C[_]-T  sent
       <let><clip pos="1" side="tl" part="a_sem"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+      <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let> <!-- gč is an abbriviation with tv -->
     </def-macro>
 
     <def-macro n="general-macro-2Param" npar="2" c="Use for all chunks of two pattern-items
