@@ -1,6 +1,6 @@
-Revision: 75214
-AP_SRC1 Revision: 145809
-AP_SRC2 Revision: 145755
+Revision: 75345
+AP_SRC1 Revision: 145976
+AP_SRC2 Revision: 145976
 Running Pending-tests with mode "sme-smn" with updated tests ...
 
 sme-smn	  Doppe ledje buot meahci eallit.
@@ -358,6 +358,11 @@ sme-smn	  Eadni tevdnii duoid.
 	+ Enni sáárgui #tuot.
 
 
+sme-smn	  1974:s huksii stáhta dákkáriid.
+	- Ive 1974 huksij staatâ tágárijd.
+	+ ive 1974 huksij staatâ tágárijd.
+
+
 sme-smn	  Geanin don gáttát iežat?
 WORKS	  Kenen tun jurdáh jieijâd?
 
@@ -484,4 +489,4 @@ sme-smn	  Giitu biepmu ovddas.
 	+ Kijtto piämu oovdâst.
 
 
-39 / 104
+39 / 105

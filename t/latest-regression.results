@@ -1,6 +1,6 @@
-Revision: 75214
-AP_SRC1 Revision: 145809
-AP_SRC2 Revision: 145755
+Revision: 75345
+AP_SRC1 Revision: 145976
+AP_SRC2 Revision: 145976
 Running Regression-tests with mode "sme-smn" with updated tests ...
 
 sme-smn	  Mus leat golbma beatnaga.
@@ -438,11 +438,6 @@ WORKS	  Kuohtuuh uuvsah láá áávus.
 
 sme-smn	  Ja makkárat dat leat?
 WORKS	  Já magareh toh láá?
-
-
-sme-smn	  1974:s huksii stáhta dákkáriid.
-	- Ive 1974 huksij staatâ tágárijd.
-	+ ive 1974 huksij staatâ tágárijd.
 
 
 sme-smn	  Máret oaččui guktuin mánáin skeaŋkka.
@@ -941,6 +936,10 @@ sme-smn	  Dieiguin ii olle gosage.
 WORKS	  Tieiguin ij kiergân kuussân.
 
 
+sme-smn	  ii ge dárbbaš máksit daid ruđaid.
+WORKS	  ige taarbâš mäksiđ taid ruuđâid.
+
+
 sme-smn	  de dat sáhttet dagahit boastu ipmárdusaid.
 WORKS	  te toh pyehtih tovâttiđ puástuibárdâsâid.
 
@@ -993,4 +992,4 @@ sme-smn	  Giittos eatnat luoikamis.
 WORKS	  Kijttos ennâg luoikkâmist.
 
 
-245 / 247
+246 / 247
