@@ -3133,7 +3133,6 @@ C[_]-T  sent
            <let><var n="chunk_name"/><lit v="cnjcoo"/></let>
          </otherwise>
        </choose>
-        
         <out>
           <chunk name="mainverb">
             <tags>
@@ -4277,6 +4276,28 @@ C[_]-T  sent
           </chunk>
         </out>
 
+      </action>
+    </rule>
+
+    <rule comment="C[T]-V negverb ge_pcle" c="ii ge : ige ">
+      <pattern>
+        <pattern-item n="negverb"/>
+        <pattern-item n="ge_pcle"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
+        <out>
+          <chunk name="auxverb" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+             <lit-tag v="foc_ge"/>
+            </lu>
+          </chunk>
+        </out>
       </action>
     </rule>
 
