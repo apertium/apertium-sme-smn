@@ -2337,7 +2337,7 @@ C[_]-T  sent
   <section-rules>
     <!-- SECTION: Nominal groups -->
 
-    <rule comment="C[T]-NP: prn" c="Mun lean ruovttus. : SMN.">
+    <rule comment="C[T]-NP: prn" c="Mun lean ruovttus. : Mun lam pääihist.">
       <pattern>
         <pattern-item n="prn"/>
       </pattern>
@@ -2700,7 +2700,7 @@ C[_]-T  sent
       </action>
     </rule>
     
-    <rule comment="C[DT]-PP  noun nom_gen birra_post" c="Diehtu Sámedikki birra. : SMN.">
+    <rule comment="C[DT]-PP  noun nom_gen birra_post" c="Diehtu Sámedikki birra. : Tiätu Sämitiggeest.">
       <pattern>
         <pattern-item n="noun"/>
         <pattern-item n="nom_gen"/>
@@ -2813,7 +2813,7 @@ C[_]-T  sent
       </action>
     </rule>
 
-    <rule comment="C[DT]-ADV  almmá_adv H_advl" c="Almmá doarjaga. : SMN.">
+    <rule comment="C[DT]-ADV  almmá_adv H_advl" c="Almmá doarjaga. : Torjuuttáá.">
       <pattern>
         <pattern-item n="almmá_adv"/>
         <pattern-item n="H_advl"/>
@@ -2836,7 +2836,7 @@ C[_]-T  sent
       </action>
     </rule>
     
-    <rule comment="C[DT]-PP  almmá_adv n_sg_pl_gen haga_post" c="Almmá doarjaga haga. : SMN.">
+    <rule comment="C[DT]-PP  almmá_adv n_sg_pl_gen haga_post" c="Almmá doarjaga haga. : Torjuuttáá.">
       <pattern>
         <pattern-item n="almmá_adv"/>
         <pattern-item n="n_sg_pl_gen"/>
@@ -2862,7 +2862,7 @@ C[_]-T  sent
       </action>
     </rule>
     
-    <rule comment="C[DT]-ADV  almmá-adv attr H_advl" c="Almmá stáhta doarjaga. : SMN.">
+    <rule comment="C[DT]-ADV  almmá-adv attr H_advl" c="Almmá stáhta doarjaga. : Staatâ torjuuttáá.">
       <pattern>
         <pattern-item n="almmá_adv"/>
         <pattern-item n="attr"/>
@@ -2892,7 +2892,7 @@ C[_]-T  sent
       </action>
     </rule>
     
-    <rule comment="C[DT]-ADV  almmá_adv attr n_sg_pl_gen haga_post" c="Almmá stáhta doarjaga haga. : SMN. ">
+    <rule comment="C[DT]-ADV  almmá_adv attr n_sg_pl_gen haga_post" c="Almmá stáhta doarjaga haga. : Staatâ torjuuttáá. ">
       <pattern>
         <pattern-item n="almmá_adv"/>
         <pattern-item n="attr"/>
@@ -3366,6 +3366,7 @@ C[_]-T  sent
       </action>
     </rule>
 
+    <!--
     <rule comment="C[T]-NUM  prn_dem_sg numeral noun" c="Mun válddán dán golbma girjji : Mun vááldám täid kulmâ kirje. : SMN.">
       <pattern>
         <pattern-item n="prn_dem_sg"/>
@@ -3411,9 +3412,9 @@ C[_]-T  sent
         </out>
       </action>
     </rule>
+-->
 
-
-    <rule comment="C[CT]-NUM  num-nomacc adv adjattr_pos n_sg_accgen" c="Mus leat čieža hui njálgga láibbi. : SMN.">
+    <rule comment="C[CT]-NUM  num-nomacc adv adjattr_pos n_sg_accgen" c="Mus leat čieža hui njálgga láibbi. : Tust láá čiččâm uáli njaalgâ leibid..">
       <pattern>
         <pattern-item n="num_nomacc"/>
         <pattern-item n="adv"/>
@@ -3867,7 +3868,7 @@ C[_]-T  sent
     </rule>
 
 
-    <rule comment="C[CT]-NP  adjattr_all cnp adjattr_all noun" c="Stuorát ja buoret viesus. : SMN">
+    <rule comment="C[CT]-NP  adjattr_all cnp adjattr_all noun" c="Stuorát ja buoret viesus. : Stuárráb já pyereeb táálust.">
       <pattern>
         <pattern-item n="adjattr_all"/>
         <pattern-item n="cnp"/>
@@ -4483,7 +4484,7 @@ C[_]-T  sent
         </out>
       </action>
     </rule>
-
+<!--
     <rule comment="C[A]-V  ođđasisorganiseret_vblex" c="Ođđasisorganiseret. : Orniđ uđđâsist.">
       <pattern>
         <pattern-item n="ođđasisorganiseret_vblex"/>
@@ -4508,7 +4509,7 @@ C[_]-T  sent
         </out>
       </action>
     </rule>
-
+-->
     <rule comment="C[V]-V  mainverb" c="SME. : SMN.">
       <pattern>
         <pattern-item n="mainverb"/>
