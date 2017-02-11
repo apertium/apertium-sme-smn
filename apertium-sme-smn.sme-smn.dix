@@ -713,6 +713,7 @@
 
     <!-- ASECTION: Adjectives -->
     
+    <e><p><l>jegolâš<s n="adj"/></l><r>jiäháttâllee<s n="adj"/></r></p></e>
     <e><p><l>deahtis<s n="adj"/></l><r>teetis<s n="adj"/></r></p></e>
     <e><p><l>eanodatlaš<s n="adj"/></l><r>iänodâhlâš<s n="adj"/></r></p></e>
     <e><p><l>vuoigatvuođalaš<s n="adj"/></l><r>vuoigâdvuođâlâš<s n="adj"/></r></p></e>    
@@ -4016,6 +4017,8 @@
 
 
     <!-- ASECTION: Verbs -->
+    
+    <e><p><l>dájuhit<s n="vblex"/><s n="tv"/></l><r>tájuttiđ<s n="vblex"/></r></p></e>
     <e><p><l>gáskit<s n="vblex"/><s n="tv"/></l><r>käskiđ<s n="vblex"/></r></p></e>
     <e><p><l>garrudit<s n="vblex"/><s n="iv"/></l><r>karodiđ<s n="vblex"/></r></p></e>
     <e><p><l>loahpahit<s n="vblex"/><s n="tv"/></l><r>lopâttiđ<s n="vblex"/></r></p></e>
