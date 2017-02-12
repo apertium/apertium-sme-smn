@@ -713,6 +713,7 @@
 
     <!-- ASECTION: Adjectives -->
     
+    <e><p><l>veahtas<s n="adj"/></l><r>läivi<s n="adj"/></r></p></e>
     <e><p><l>jegolâš<s n="adj"/></l><r>jiäháttâllee<s n="adj"/></r></p></e>
     <e><p><l>deahtis<s n="adj"/></l><r>teetis<s n="adj"/></r></p></e>
     <e><p><l>eanodatlaš<s n="adj"/></l><r>iänodâhlâš<s n="adj"/></r></p></e>
@@ -1766,6 +1767,7 @@
     <e><p><l>barbariija<s n="n"/></l><r>barbaria<s n="n"/></r></p></e>
     <e><p><l>bargohárjánupmi<s n="n"/></l><r>pargohárjánem<s n="n"/></r></p></e>
     <e><p><l>beana<s n="n"/></l><r>peenuv<s n="n"/></r></p></e>
+    <e><p><l>golgobeana<s n="n"/></l><r>kolgopeenuv<s n="n"/></r></p></e>
     <e><p><l>bearbma<s n="n"/></l><r><s n="n"/></r></p></e>
     <e><p><l>beavdi<s n="n"/></l><r>pevdi<s n="n"/></r></p></e>
     <e><p><l>beroštupmi<s n="n"/></l><r>kiddiistume<s n="n"/></r></p></e>
@@ -2241,6 +2243,7 @@
     <e><p><l>vádjolus<s n="n"/></l><r>vajâldem<s n="n"/></r></p></e>
     <e><p><l>álbmot<s n="n"/></l><r>aalmug<s n="n"/></r></p></e>
     <e><p><l>álbmotbeaivedoalut<s n="n"/></l><r>aalmugpeivituáluh<s n="n"/></r></p></e>
+    <e><p><l>beassášdoalut<s n="n"/></l><r>pessijâštuáluh<s n="n"/></r></p></e>
     <e><p><l>álbmotbeaivi<s n="n"/></l><r>aalmugpeivi<s n="n"/></r></p></e>
     <e><p><l>álbmotregister<s n="n"/></l><r>aalmugregister<s n="n"/></r></p></e>
     <e><p><l>álgoálbmot<s n="n"/></l><r>álguaalmug<s n="n"/></r></p></e>
