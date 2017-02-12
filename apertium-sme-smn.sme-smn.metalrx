@@ -187,6 +187,34 @@ Write comments to forthcoming rules before this line -->
   </rule>
  
  
+ <!-- maiddái --> 
+   <rule weight="1.0">
+    <match lemma="maiddái" tags="adv.*">
+      <select lemma="meiddei" tags="adv.*"/>
+    </match>
+  </rule>
+
+
+  <rule weight="0.5">
+    <match lemma="maiddái" tags="adv.*">
+      <select lemma="še" tags="adv.*"/>
+    </match>
+  </rule>
+
+  <rule weight="0.6">
+    <or>
+      <match tags="n.*"/>
+      <match tags="num.*"/>
+      <match tags="np.*"/>
+    </or>
+    <match lemma="gal" tags="adv.*">
+      <select lemma="kale" tags="adv.*"/>
+    </match>
+  </rule>
+
+
+ 
+ 
 <!-- gal --> 
    <rule weight="1.0">
     <match lemma="gal" tags="adv.*">
@@ -943,6 +971,36 @@ Write comments to forthcoming rules before this line -->
    <match/>
    <match lemma="lihkku"/>
   </rule>
+
+
+<!-- vázzit skuvlla -->
+  <rule weight="1.0">
+    <match lemma="vázzit">
+      <select lemma="väzziđ"/>
+    </match>
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="vázzit">
+      <select lemma="jotteeđ"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="vázzit">
+      <select lemma="jotteeđ"/>
+   </match>
+   <match lemma="skuvla"/>
+  </rule>
+
+  <rule weight="0.6">
+   <match lemma="vázzit">
+      <select lemma="jotteeđ"/>
+   </match>
+   <match/>
+   <match lemma="skuvla"/>
+  </rule>
+
 
 <!-- lohku vs. meeri -->
   <rule weight="1.0">
