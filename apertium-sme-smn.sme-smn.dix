@@ -659,7 +659,7 @@
     <e><p><l>eisige<s n="adv"/></l><r>eissigin<s n="adv"/></r></p></e>
     <e><p><l>erenoamážit<s n="adv"/></l><r>eromâšávt<s n="adv"/></r></p></e>
     <e><p><l>erenomážit<s n="adv"/></l><r>eromâšávt<s n="adv"/></r></p></e>
-    <e><p><l>fas<s n="adv"/></l><r>vuod<s n="adv"/></r></p></e>
+    <e><p><l>fas<s n="adv"/></l><r>oppeet<s n="adv"/></r></p></e> <!-- not vuod (sm)-->
     <e><p><l>feara<s n="adv"/></l><r>veikâ<s n="adv"/></r></p></e>
     <e><p><l>goassige<s n="adv"/></l><r>kuássin<s n="adv"/></r></p></e>
     <e><p><l>goit<s n="pcle"/></l><r>kuittâg<s n="adv"/></r></p></e>
@@ -6764,7 +6764,8 @@
     <e><p><l>lávži<s n="n"/></l><r>läbži<s n="n"/></r></p></e>
     <e><p><l>láđđi<s n="n"/><s n="g7"/></l><r>läđđee<s n="n"/></r></p></e>
     <e><p><l>magistráhta<s n="n"/></l><r>maistraat<s n="n"/></r></p></e>
-    <e><p><l>manni<s n="n"/></l><r>mannee<s n="n"/></r></p></e>
+    <e><p><l>manni<s n="n"/></l><r>mane<s n="n"/></r></p></e>
+    <e><p><l>manni<s n="n"/><s n="nomag"/></l><r>manni<s n="n"/></r></p></e>
     <e><p><l>mannji<s n="n"/></l><r>manje<s n="n"/></r></p></e>
     <e><p><l>margariidna<s n="n"/></l><r>margarin<s n="n"/></r></p></e>
     <e><p><l>materiála<s n="n"/></l><r>materiaal<s n="n"/></r></p></e>
@@ -9229,6 +9230,7 @@
     <e><p><l>álggos<s n="adv"/></l><r>aalgâst<s n="adv"/></r></p></e>
     <e><p><l>dás<s n="adv"/></l><r>täst<s n="adv"/></r></p></e>
     <e><p><l>ovdal<s n="adv"/></l><r>ovdil<s n="adv"/></r></p></e>
+    <e><p><l>dasto<s n="adv"/></l><r>talle<s n="adv"/></r></p></e>
     <e><p><l>dasto<s n="adv"/></l><r>tastoo<s n="adv"/></r></p></e>
     <e><p><l>ollu<s n="adv"/></l><r>ennuv<s n="adv"/></r></p></e>
     <e r="RL"><p><l>ná<s n="adv"/></l><r>näävt<s n="adv"/></r></p></e>
@@ -14203,7 +14205,7 @@
     <e><p><l>Guhkeslássá<s n="np"/></l><r>Guhkeslássá<s n="np"/></r></p></e>
     <e><p><l>Guhkesmohkejávri<s n="np"/></l><r>Guhkesmohkejávri<s n="np"/></r></p></e>
     <e><p><l>Guhkesnjunni<s n="np"/></l><r>Guhkesnjunni<s n="np"/></r></p></e>
-    <e><p><l>Guhkesnjárga<s n="np"/></l><r>Guhkesnjárga<s n="np"/></r></p></e>
+    <e><p><l>Guhkesnjárga<s n="np"/></l><r>Kuhesnjaargâ<s n="np"/></r></p></e>
     <e><p><l>Guhkesruovddáš<s n="np"/></l><r>Guhkesruovddáš<s n="np"/></r></p></e>
     <e><p><l>Guhkessáiva<s n="np"/></l><r>Guhkessáiva<s n="np"/></r></p></e>
     <e><p><l>Guhkesvuohppi<s n="np"/></l><r>Guhkesvuohppi<s n="np"/></r></p></e>

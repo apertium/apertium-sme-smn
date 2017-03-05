@@ -1912,6 +1912,9 @@ Write comments to forthcoming rules before this line -->
   <match lemma="dolin" tags="adv.*"><select lemma="tovle" tags="adv.*"/></match>
 </rule>
 
+<rule weight="1.0">
+  <match lemma="dasto" tags="adv.*"><select lemma="talle" tags="adv.*"/></match>
+</rule>
 
 
 
