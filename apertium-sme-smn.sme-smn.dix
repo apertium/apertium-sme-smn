@@ -1154,6 +1154,8 @@
 
 <!-- the building complex: -->
     <e><p><l>dállu<s n="n"/></l><r>táálu<s n="n"/></r></p></e>
+    <e r="LR"><p><l>ladni<s n="n"/></l><r>lanne<s n="n"/></r></p></e>
+    <e r="LR"><p><l>moskea<s n="n"/></l><r>moskeija<s n="n"/></r></p></e>
     <e r="LR"><p><l>viessu<s n="n"/></l><r>táálu<s n="n"/></r></p></e>
     <e r="RL"><p><l>viessu<s n="n"/></l><r>viäsu<s n="n"/></r></p></e>
     <e r="LR"><p><l>lanjadat<s n="n"/></l><r>viste<s n="n"/></r></p></e>
@@ -1606,7 +1608,7 @@
     <e><p><l>offiseara<s n="n"/></l><r>upseer<s n="n"/></r></p></e>
     <e><p><l>snuvssa<s n="n"/></l><r>nuuská<s n="n"/></r></p></e>
     <e><p><l>kástarulla<s n="n"/></l><r>kiemni<s n="n"/></r></p></e>
-    <e><p><l>vilbealle<s n="n"/></l><r>viljâpeeli<s n="n"/></r></p></e>
+    <e><p><l>vilbealle<s n="n"/></l><r>vilpeeli<s n="n"/></r></p></e>
     <e><p><l>eahpádus<s n="n"/></l><r>iäpádâs<s n="n"/></r></p></e>
     <e><p><l>gufihtar<s n="n"/></l><r>kufittâr<s n="n"/></r></p></e>
     <e><p><l>helikopter<s n="n"/></l><r>helikopter<s n="n"/></r></p></e>
@@ -4033,6 +4035,7 @@
 
     <!-- ASECTION: Verbs -->
     
+    <e><p><l>nuoskidit<s n="vblex"/><s n="tv"/></l><r>nyeskidiđ<s n="vblex"/></r></p></e>
     <e><p><l>buhtistit<s n="vblex"/><s n="tv"/></l><r>putestiđ<s n="vblex"/></r></p></e>
     <e><p><l>gužžat<s n="vblex"/><s n="tv"/></l><r>kužžâđ<s n="vblex"/></r></p></e>
     <e><p><l>dájuhit<s n="vblex"/><s n="tv"/></l><r>tájuttiđ<s n="vblex"/></r></p></e>
@@ -7572,7 +7575,7 @@
     <e><p><l>sávdni<s n="n"/></l><r>sävni<s n="n"/></r></p></e>
     <e><p><l>sáve<s n="n"/></l><r>šaavâ<s n="n"/></r></p></e>
     <e><p><l>sávza<s n="n"/></l><r>savzâ<s n="n"/></r></p></e>
-    <e><p><l>sáŋgár<s n="n"/></l><r>almaš<s n="n"/></r></p></e>
+    <e><p><l>sáŋgár<s n="n"/></l><r>sáŋgár<s n="n"/></r></p></e>
     <e><p><l>tabealla<s n="n"/><s n="g3"/></l><r>tavlustâh<s n="n"/></r></p></e>
     <e><p><l>tableahtta<s n="n"/></l><r>tablet<s n="n"/></r></p></e>
     <e><p><l>tallearka<s n="n"/></l><r>taldrik<s n="n"/></r></p></e>
