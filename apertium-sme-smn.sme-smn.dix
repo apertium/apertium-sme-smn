@@ -103,8 +103,8 @@
   <section id="main" type="standard">
 <!-- AAAAA CHAPTER 1 The initial bidix - manually made in 2014 pluss october 2015, pluss placenames from Miina/Hannu November 2015   -->
     <!-- ASECTION: Conjunctions -->
-    <e><p><l>ahte<s n="cnjcoo"/></l><r>et<s n="cnjcoo"/></r></p></e>
-    <e r="RL"><p><l>ahte<s n="cnjcoo"/></l><r>ete<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ahte<s n="cnjcoo"/></l><r>et<s n="cnjsub"/></r></p></e>
+    <e r="RL"><p><l>ahte<s n="cnjcoo"/></l><r>ete<s n="cnjsub"/></r></p></e><!-- cnjcoo ahte -->
     <e><p><l>vs<s n="cnjcoo"/></l><r>vs<s n="cnjcoo"/></r></p></e>    
     <e><p><l>dahje<s n="cnjcoo"/></l><r>teikkâ<s n="cnjcoo"/></r></p></e>
     <e r="RL"><p><l>dahje<s n="cnjcoo"/></l><r>tâi<s n="cnjcoo"/></r></p></e>
@@ -413,7 +413,7 @@
     <e><p><l>obba<s n="adv"/></l><r>ubâ<s n="adv"/></r></p></e>
     <e><p><l>iđedis<s n="adv"/></l><r>iđedist<s n="adv"/></r></p></e>
     <e><p><l>oaivvesnaga<s n="adv"/></l><r>uáivist<s n="adv"/></r></p></e>
-    <e><p><l>ijatbeaivái<s n="adv"/></l><r>ijâi peeivij<s n="adv"/></r></p></e>
+    <e><p><l>ijatbeaivái<s n="adv"/></l><r>ijâi<b/>peeivij<s n="adv"/></r></p></e>
     <e><p><l>eaktodáhtos<s n="adv"/></l><r>iävtutátulávt<s n="adv"/></r></p></e>
     <e><p><l>álbmogassii<s n="adv"/></l><r>talgoin<s n="adv"/></r></p></e>
     <e><p><l>valjis<s n="adv"/></l><r>valjeeht<s n="adv"/></r></p></e>
@@ -430,7 +430,7 @@
     <e><p><l>maŋábealde<s n="adv"/></l><r>maŋabeln<s n="adv"/></r></p></e>
     <e><p><l>daninassii<s n="adv"/></l><r>tassaažân<s n="adv"/></r></p></e>
     <e><p><l>oppanassii<s n="adv"/></l><r>ollágin<s n="adv"/></r></p></e>
-    <e><p><l>nuppes<s n="adv"/></l><r>nube tove<s n="adv"/></r></p></e>
+    <e><p><l>nuppes<s n="adv"/></l><r>nube<b/>tove<s n="adv"/></r></p></e>
     <e><p><l>nuo<s n="adv"/></l><r>nyevt<s n="adv"/></r></p></e>
     <e><p><l>giehtalagaid<s n="adv"/></l><r>kietâluvâi<s n="adv"/></r></p></e>
     <e><p><l>fárrolagaid<s n="adv"/></l><r>fáruluvâi<s n="adv"/></r></p></e>
@@ -439,7 +439,7 @@
     <e><p><l>vare<s n="adv"/></l><r>peri<s n="adv"/></r></p></e>
     <e><p><l>olgoráigge<s n="adv"/></l><r>olgorääigi<s n="adv"/></r></p></e>
     <e><p><l>moktige<s n="adv"/></l><r>mahten<s n="adv"/></r></p></e>
-    <e><p><l>maŋŋiteahket<s n="adv"/></l><r>ehidist mannjeed<s n="adv"/></r></p></e>
+    <e><p><l>maŋŋiteahket<s n="adv"/></l><r>ehidist<b/>mannjeed<s n="adv"/></r></p></e>
     <e><p><l>ihkinassii<s n="adv"/></l><r>ihenis<s n="adv"/></r></p></e>
     <e><p><l>iešalddis<s n="adv"/></l><r>jiešalnees<s n="adv"/></r></p></e> <!-- su. itse asiassa -->
     <e><p><l>iešalddis<s n="adv"/></l><r>jiešmeidlist<s n="adv"/></r></p></e> <!-- su. itsestään, itsekseen (dáhpáhuvvá veahki haga) -->
@@ -471,7 +471,7 @@
     <e><p><l>vuostten<s n="adv"/></l><r>vuos<s n="adv"/></r></p></e>
     <e><p><l>ovttajienalaččat<s n="adv"/></l><r>oovtâjienâlávt<s n="adv"/></r></p></e>
     <e><p><l>obanassii<s n="adv"/></l><r>ollágin<s n="adv"/></r></p></e>
-    <e><p><l>nuppegežiid<s n="adv"/></l><r>nubij kejij<s n="adv"/></r></p></e>
+    <e><p><l>nuppegežiid<s n="adv"/></l><r>nubij<b/>kejij<s n="adv"/></r></p></e>
     <e><p><l>maŋos<s n="adv"/></l><r>majas<s n="adv"/></r></p></e>
     <e><p><l>gittačalmmiid<s n="adv"/></l><r>moskočolmij<s n="adv"/></r></p></e>
     <e><p><l>geaigut<s n="adv"/></l><r>kiäigud<s n="adv"/></r></p></e>
