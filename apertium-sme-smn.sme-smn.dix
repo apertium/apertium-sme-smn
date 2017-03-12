@@ -677,7 +677,7 @@
     <e><p><l>lagabui<s n="adv"/></l><r>aldeláá<s n="adv"/></r></p></e>
     <e><p><l>lahkalagaid<s n="adv"/></l><r>aldaluvâi<s n="adv"/></r></p></e>
     <e><p><l>maid<s n="adv"/></l><r>meid<s n="adv"/></r></p></e>
-    <e r="RL"><p><l>maid<s n="adv"/></l><r>še<s n="pcle"/></r></p></e>
+    <e r="RL"><p><l>maid<s n="adv"/></l><r>še<s n="adv"/></r></p></e>
     <e><p><l>maiddái<s n="adv"/></l><r>meiddei<s n="adv"/></r></p></e>
     <e><p><l>maiddái<s n="adv"/></l><r>še<s n="adv"/></r></p></e>
     <e><p><l>maiddá<s n="adv"/></l><r>meiddei<s n="adv"/></r></p></e>
@@ -1002,7 +1002,7 @@
     <e><p><l>muittoheapme<s n="adj"/></l><r>muštottem<s n="adj"/></r></p></e>
     <e><p><l>máilmmálaš<s n="adj"/></l><r>maailmlâš<s n="adj"/></r></p></e>
     <e><p><l>mánnosaš<s n="adj"/></l><r>mánusâš<s n="adj"/></r></p></e>
-    <e><p><l>mávssuheapme<s n="adj"/></l><r>máávsuttem<s n="adj"/></r></p></e>
+    <e><p><l>mávssuheapme<s n="adj"/></l><r>mávsuttem<s n="adj"/></r></p></e>
     <e><p><l>máŋggabeallásaš<s n="adj"/></l><r>maaŋgâpiälásâš<s n="adj"/></r></p></e>
     <e><p><l>máŋggageardán<s n="adj"/></l><r>maaŋgâkiärdásâš<s n="adj"/></r></p></e>
     <e><p><l>máŋggakultuvrralaš<s n="adj"/></l><r>maaŋgâkulttuurlâš<s n="adj"/></r></p></e>
@@ -1081,7 +1081,7 @@
     <e><p><l>teorehtalaš<s n="adj"/></l><r>teoreetlâš<s n="adj"/></r></p></e>
     <e><p><l>tragihkalaš<s n="adj"/></l><r>traagisâš<s n="adj"/></r></p></e>
     <e><p><l>traumáhtalaš<s n="adj"/></l><r>traumaatlâš<s n="adj"/></r></p></e>
-    <e><p><l>uhcánaš<s n="adj"/></l><r>ucánjii<s n="adj"/></r></p></e>
+    <e><p><l>uhcánaš<s n="adv"/></l><r>ucánjii<s n="adv"/></r></p></e>
     <e><p><l>universála<s n="adj"/></l><r>universaal<s n="adj"/></r></p></e>
     <e><p><l>unni<s n="adj"/></l><r>ucce<s n="adj"/></r></p></e>
     <e><p><l>vahkkosaš<s n="adj"/></l><r>okkosâš<s n="adj"/></r></p></e>
@@ -1890,7 +1890,6 @@
     <e><p><l>giella<s n="n"/><s n="der_t"/><s n="adj"/></l><r>kielâ<s n="n"/><s n="der_lasj"/><s n="adj"/></r></p></e>
     <e><p><l>gielladorvočálli<s n="n"/></l><r>kielâtorvočällee<s n="n"/></r></p></e>
     <e><p><l>giellateknologiija<s n="n"/></l><r>kielâteknologia<s n="n"/></r></p></e>
-    <e><p><l>gievvun<s n="n"/></l><r>kiävulem<s n="n"/></r></p></e>
     <e><p><l>glasiologa<s n="n"/></l><r>glasiolog<s n="n"/></r></p></e> 
     <e><p><l>globalisašuvdna<s n="n"/></l><r>globalisaatio<s n="n"/></r></p></e>
     <e><p><l>globuliidna<s n="n"/></l><r>globuliin<s n="n"/></r></p></e>
@@ -4036,6 +4035,8 @@
     <!-- ASECTION: Verbs -->
     
     <e><p><l>nuoskidit<s n="vblex"/><s n="tv"/></l><r>nyeskidiđ<s n="vblex"/></r></p></e>
+    <e><p><l>gievvut<s n="vblex"/><s n="iv"/></l><r>kiävuliđ<s n="vblex"/></r></p></e>
+    
     <e><p><l>buhtistit<s n="vblex"/><s n="tv"/></l><r>putestiđ<s n="vblex"/></r></p></e>
     <e><p><l>gužžat<s n="vblex"/><s n="tv"/></l><r>kužžâđ<s n="vblex"/></r></p></e>
     <e><p><l>dájuhit<s n="vblex"/><s n="tv"/></l><r>tájuttiđ<s n="vblex"/></r></p></e>
@@ -5131,7 +5132,6 @@
     <e><p><l>čuovggus<s n="adj"/></l><r>čuovâdâs<s n="adj"/></r></p></e>
     <e><p><l>čuovvovaš<s n="adj"/></l><r>čuávuvâš<s n="adj"/></r></p></e>
     <e><p><l>čuođát<s n="adj"/></l><r>čuáđáád<s n="adj"/></r></p></e>
-    <e><p><l>čáhccái<s n="adj"/></l><r>čäcijeggi<s n="adj"/></r></p></e>
     <e><p><l>čálalaš<s n="adj"/></l><r>kirjálâš<s n="adj"/></r></p></e>
     <e><p><l>šaddi<s n="adj"/></l><r>šoddiš<s n="adj"/></r></p></e>
     <e><p><l>šaddil<s n="adj"/></l><r>šoddiš<s n="adj"/></r></p></e>
@@ -9492,7 +9492,7 @@
     <e><p><l>máizzas<s n="adj"/></l><r>liähmus<s n="adj"/></r></p></e>
     <e><p><l>jápmemeahttun<s n="adj"/></l><r>jämimettum<s n="adj"/></r></p></e>
     <e><p><l>gušmmus<s n="adj"/></l><r>stoorgâs<s n="adj"/></r></p></e>
-    <e><p><l>gerolmas<s n="adj"/></l><r>pegâlmâs<s n="adj"/></r></p></e>
+    <e><p><l>gerolmas<s n="adj"/></l><r>peeggâlmâs<s n="adj"/></r></p></e>
     <e><p><l>dielvvis<s n="adj"/></l><r>jolgâd<s n="adj"/></r></p></e>
 
 <!-- CSECTION: Conjunctions 1-m frequency ordered -->
