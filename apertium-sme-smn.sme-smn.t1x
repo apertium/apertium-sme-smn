@@ -192,8 +192,8 @@ C[_]-T  sent
       <cat-item tags="prn.itg.attr.*"/>
     </def-cat>
 
-    <def-cat n="prn_dem_sg">
-      <cat-item tags="prn.dem.sg.*"/>
+    <def-cat n="prn_dem_sg_gen">
+      <cat-item tags="prn.dem.sg.gen.*"/>
     </def-cat>
 
     <def-cat n="numeral">
@@ -3366,10 +3366,10 @@ C[_]-T  sent
       </action>
     </rule>
 
-    <!--
-    <rule comment="C[T]-NUM  prn_dem_sg numeral noun" c="Mun válddán dán golbma girjji : Mun vááldám täid kulmâ kirje. : SMN.">
+    <!-- -->
+    <rule comment="C[T]-NUM  prn_dem_sg_gen numeral noun" c="Mun válddán dán golbma girjji : Mun vááldám täid kulmâ kirje. : SMN.">
       <pattern>
-        <pattern-item n="prn_dem_sg"/>
+        <pattern-item n="prn_dem_sg_gen"/>
         <pattern-item n="numeral"/>
         <pattern-item n="noun"/>
       </pattern>
@@ -3412,7 +3412,7 @@ C[_]-T  sent
         </out>
       </action>
     </rule>
--->
+<!-- -->
 
     <rule comment="C[CT]-NUM  num-nomacc adv adjattr_pos n_sg_accgen" c="Mus leat čieža hui njálgga láibbi. : Tust láá čiččâm uáli njaalgâ leibid..">
       <pattern>
