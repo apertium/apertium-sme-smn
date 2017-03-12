@@ -1454,6 +1454,20 @@ Write comments to forthcoming rules before this line -->
     <match lemma="puásui"/>
   </rule>
 
+
+<!-- dahkat -->
+  <rule weight="1.0">
+    <match lemma="dahkat">
+      <select lemma="toohâđ"/>
+    </match> 
+  </rule>
+
+  <!--
+      We do: bargat - porgâđ and dahkat - toohâđ
+      as default. Eventual other rules should come from examples
+      -->
+  
+  
 <!-- haŋkit -->
   <rule weight="1.0">
     <match lemma="haŋkit">
