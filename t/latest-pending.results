@@ -1,6 +1,6 @@
-Revision: 77003
-AP_SRC1 Revision: 149793
-AP_SRC2 Revision: 149683
+Revision: 77008
+AP_SRC1 Revision: 149794
+AP_SRC2 Revision: 149791
 Running Pending-tests with mode "sme-smn" with updated tests ...
 
 sme-smn	  Doppe ledje buot meahci eallit.
@@ -20,7 +20,7 @@ sme-smn	  Ii miljovnnain sáhte oastit viesu dán áigge.
 
 sme-smn	  Sápmelaččaid mearri lea lassánan jagis 1992 jahkái 2011 55 proseantta.
 	- Sämmilij meeri lii šoddâm ive 1992 rääjist ihán 2011 55 prosenttid.
-	+ Sämmilij meeri lii lasanâm ivveest 1992 ihán 2011 55 prosentid.
+	+ Sämmilij meeri lii lasanâm ivveest 1992 ihán 2011 55 prosenttid.
 
 
 sme-smn	  Mun gádden supmi miljovdnan, muhto ii leange eambbo go moadde duhát.
@@ -30,7 +30,7 @@ sme-smn	  Mun gádden supmi miljovdnan, muhto ii leange eambbo go moadde duhát.
 
 sme-smn	  Gávccilogiguđas (1986:s) ledjen mun ain vuođđoskuvllas.
 	- Kähcilovkuuđâst (1986:st) mun lijjim ain vuáđuškoovlâst.
-	+ Kähcilovkuuđâst (ive 1986) lijjim mun ain vuáđuškoovlâst.
+	+ Kähcilovkuuđâst (ive1986) lijjim mun ain vuáđuškoovlâst.
 
 
 sme-smn	  Mun válddán dán golbma girjji.
@@ -218,7 +218,7 @@ sme-smn	  Mis eai leat makkárge heađit.
 
 sme-smn	  Moai ean leat lohpidan goappáge bargái eambbo bálkká.
 	- Muoi iän lah lopedâm kuábbáágin pargei eenâb päälhi.
-	+ Muoi iän lah lopedâm #kuábáš pargei eenâb päälhi.
+	+ Muoi iän lah lopedâm #kuábáš #pargee eenâb päälhi.
 
 
 sme-smn	  Máret biehku juohke duššiin.
