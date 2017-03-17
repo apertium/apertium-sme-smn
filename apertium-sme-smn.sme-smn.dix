@@ -1162,6 +1162,8 @@
     <e r="LR"><p><l>visti<s n="n"/></l><r>táálu<s n="n"/></r></p></e>
     <e><p><l>latnja<s n="n"/></l><r>viste<s n="n"/></r></p></e>
     <e><p><l>guosseviessu<s n="n"/></l><r>kyessiviste<s n="n"/></r></p></e>
+    <e><p><l>korrošuvdna<s n="n"/></l><r>korroosio<s n="n"/></r></p></e>
+    <e><p><l>skealbma<s n="n"/></l><r>skelmâ<s n="n"/></r></p></e>
     <e><p><l>indialaš<s n="n"/></l><r>indialaš<s n="n"/></r></p></e>
     <e><p><l>šlánte<s n="n"/></l><r>šlantti<s n="n"/></r></p></e>
     <e><p><l>dollár<s n="n"/></l><r>dollar<s n="n"/></r></p></e>
@@ -4109,8 +4111,8 @@
     <e><p><l>fuopmášahttit<s n="vblex"/><s n="tv"/></l><r>huámášittiđ<s n="vblex"/></r></p></e>
     <e><p><l>jođálmahttit<s n="vblex"/><s n="tv"/></l><r>huáputtiđ<s n="vblex"/></r></p></e>
     <e><p><l>áigáioažžut<s n="vblex"/><s n="tv"/></l><r>ááigánfinniđ<s n="vblex"/></r></p></e>
-    <e><p><l>vuostáiváldit<s n="vblex"/><s n="tv"/></l><r>vuástáväldiđ<s n="vblex"/></r></p></e> <!-- vuástá -->
-    <e><p><l>árvvusatnit<s n="vblex"/><s n="tv"/></l><r>áárvust<s n="vblex"/></r></p></e> <!-- anneeđ -->
+    <e><p><l>vuostáiváldit<s n="vblex"/><s n="tv"/></l><r>väldiđ<b/>vuástá<s n="vblex"/></r></p></e> <!-- vuástá -->
+    <e><p><l>árvvusatnit<s n="vblex"/><s n="tv"/></l><r>anneeđ<b/>áárvust<s n="vblex"/></r></p></e> <!-- anneeđ -->
     <e><p><l>sajuštit<s n="vblex"/><s n="tv"/></l><r>saijeeđ<s n="vblex"/></r></p></e>
     <e><p><l>fuotnánit<s n="vblex"/><s n="iv"/></l><r>hiäjusmiđ<s n="vblex"/></r></p></e>
     <e><p><l>káfestallat<s n="vblex"/><s n="iv"/></l><r>káhvástâllâđ<s n="vblex"/></r></p></e>
@@ -4287,7 +4289,7 @@
     <e><p><l>gihčat<s n="vblex"/><s n="iv"/></l><r>kicceeđ<s n="vblex"/></r></p></e> 
     <e><p><l>goallut<s n="vblex"/><s n="iv"/></l><r>kolmuđ<s n="vblex"/></r></p></e>
     <e><p><l>goastat<s n="vblex"/><s n="iv"/></l><r>kostâđ<s n="vblex"/></r></p></e> 
-    <e><p><l>gollat<s n="vblex"/><s n="iv"/></l><r>kuullâđ<s n="vblex"/></r></p></e>
+    <e><p><l>gollat<s n="vblex"/><s n="iv"/></l><r>kuullâđ²<s n="vblex"/></r></p></e>
     <e><p><l>govvet<s n="vblex"/><s n="tv"/></l><r>kuvviđ<s n="vblex"/></r></p></e> 
     <e><p><l>guldalit<s n="vblex"/><s n="tv"/></l><r>kuldâliđ<s n="vblex"/></r></p></e>
     <e><p><l>gullat<s n="vblex"/><s n="tv"/></l><r>kuullâđ¹<s n="vblex"/></r></p></e>
@@ -9066,7 +9068,7 @@
     <e><p><l>steŋget<s n="vblex"/><s n="tv"/></l><r>steŋgiđ<s n="vblex"/></r></p></e>
     <e><p><l>suddat<s n="vblex"/><s n="iv"/></l><r>suddâdiđ<s n="vblex"/></r></p></e>
     <e><p><l>sugadit<s n="vblex"/><s n="iv"/></l><r>suládiđ<s n="vblex"/></r></p></e>
-    <e><p><l>sugahit<s n="vblex"/><s n="tv"/></l><r>suilottiđ<s n="vblex"/></r></p></e>
+    <e><p><l>sugahit<s n="vblex"/><s n="tv"/></l><r>suvâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>suhkat<s n="vblex"/><s n="iv"/></l><r>suuhâđ<s n="vblex"/></r></p></e>
     <e><p><l>suhtadit<s n="vblex"/><s n="iv"/></l><r>sutâdiđ<s n="vblex"/></r></p></e>
     <e><p><l>suhtihit<s n="vblex"/><s n="iv"/></l><r>sutettiđ<s n="vblex"/></r></p></e>
