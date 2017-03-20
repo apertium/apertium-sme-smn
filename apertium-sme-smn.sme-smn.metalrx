@@ -715,6 +715,13 @@ Write comments to forthcoming rules before this line -->
 
   <rule weight="0.6">
    <match lemma="lohkat"> 
+      <select lemma="ettâđ" tags="*.←vdic→.*"/>
+    </match>
+  </rule>
+
+
+  <rule weight="0.6">
+   <match lemma="lohkat"> 
       <select lemma="ettâđ"/>
     </match>
        <or>
