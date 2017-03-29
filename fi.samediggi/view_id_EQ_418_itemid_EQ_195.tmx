@@ -6,7 +6,8 @@
            srclang="sme"
            datatype="plaintext"/>
    <body>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Mánggadoaimmasále Dollagáddi</seg>
          </tuv>
@@ -14,7 +15,8 @@
             <seg>Maaŋgâtooimâsali Dollagáddi</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Dollagáddi heive erenomážit čájáhusaide , meassuide , feastaborademiide ja logaldallansálen .</seg>
          </tuv>
@@ -22,7 +24,8 @@
             <seg>Maaŋgâtooimâsali Dollagáddi heivee eromâšávt čáitálmâssáid , meesuid , juhlepuurâdmáid já luvâldâhsalin .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Beallejorbadasa hápmásaš sále lea auditoria Dola sirdoseainni duohken , restoráŋŋa Galla guoras .</seg>
          </tuv>
@@ -30,7 +33,8 @@
             <seg>Peliriäggá hámásâš maaŋgâtooimâsali lii auditorio Dolla čájáttâssaje peln siirdâseeini tyehin , raavâdviäsu Galla paaldâst .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Restoráŋŋaanus sále heive erenomáš bures stuorra joavkkuid gáfestallamii , boradeapmái ja cocktaildilálašvuođaide .</seg>
          </tuv>
@@ -38,23 +42,8 @@
             <seg>Raavâdviäsukiävtust tile heivee pyereest stuorrâ juávhui káhvástâlmáid , puurâdmáid sehe cocktailtilálâšvuođáid .</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Dollagáddi lii tavesämikielâ já meerhâš tuulâ roobdâ .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>SAIJAASVUOTÂ :</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Kapasitehta : 70-140 olbmui</seg>
          </tuv>
@@ -62,7 +51,8 @@
             <seg>Kapasiteet : 70-140 ulmui</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Viidodat:117m2 ( govddimus sajis s. 16 m x 8,5m )</seg>
          </tuv>
@@ -70,7 +60,8 @@
             <seg>Vijđodâh : 117 m2 ( kobdemus saajeest s. 16 m x 8,5 m )</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Luohkkáhámis : 70 olbmui</seg>
          </tuv>
@@ -78,7 +69,8 @@
             <seg>Luokkahäämist : 70 ulmui</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Diplomáhtahámis : 44 olbmui</seg>
          </tuv>
@@ -86,7 +78,8 @@
             <seg>Diplomaathäämist : 44 ulmui</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>U-hámis : 44 olbmui</seg>
          </tuv>
@@ -94,7 +87,8 @@
             <seg>U-häämist : 44 ulmui</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Teáhterhámis : 140 olbmui</seg>
          </tuv>
@@ -102,7 +96,8 @@
             <seg>Teatterhäämist : 140 ulmui</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>TEKNIHKKA JA RUSTTEGAT :</seg>
          </tuv>
@@ -110,15 +105,8 @@
             <seg>TEKNIIK JÁ PIERGÂSEH</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>* Blueray-čuojânâs</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>* Vilgesšearpma sturrodat : xx m x xx m</seg>
          </tuv>
@@ -126,15 +114,8 @@
             <seg>* Vielgiskággá stuárudâh : xx m x xx m</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>SIERÂVÄÄRRIDMIST / LASEMÁÁVSUST :</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>* Loaiddastanlávdi</seg>
          </tuv>
@@ -142,7 +123,8 @@
             <seg>* Lávdástemlyevi</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>* Dánsenrátnu</seg>
          </tuv>
@@ -150,7 +132,8 @@
             <seg>* Tánssámráánu</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>* Čoahkkinfáladeamit Loga lasi .</seg>
          </tuv>
@@ -158,7 +141,8 @@
             <seg>* Čuákkimfaalâdmeh . Luuvâ lase .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>EARÁ FUOMÁŠANVEARA :</seg>
          </tuv>
@@ -166,7 +150,8 @@
             <seg>ERES VUOTÂNVÄLDIM :</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>* sáles eai leat lásat</seg>
          </tuv>
@@ -174,7 +159,8 @@
             <seg>* Tile lii lasâttem</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>* Seinniide ii sáhte heŋget maidege ; šearpmaid ferte láigohit sierra Sajosis dahje daid ferte buktit ieš .</seg>
          </tuv>
@@ -182,7 +168,8 @@
             <seg>* Seeinijd ij pyevti kiddiđ maiden ; čáitálmâsseermâid kalga laiguuttiđ Sajosist teikkâ taid kalga pyehtiđ jieš</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>* Lanjas beassá sihke restoráŋŋii ja artistalatnjii .</seg>
          </tuv>
@@ -190,7 +177,8 @@
             <seg>* Olgosmoonnâm tiileest sehe raavâdviäsun ete artistvistevázáttâhân</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>* Čoahkkinsáles addalanvuoigatvuođat</seg>
          </tuv>
@@ -198,7 +186,8 @@
             <seg>* Čuákkimtiileest juvâstâhvyebdimvuoigâdvuođah</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>* Čoahkkinsálii oažžu biebmobálvalusaid go diŋgo ovddalgihtii .</seg>
          </tuv>
@@ -206,7 +195,8 @@
             <seg>* Čuákkimtilán finnimnáál purâdempalvâlusâid ko tiiláá muuneeld</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Máŋggadoaimmasále lea auditoria lávddi beale sirdinseainni duogábealde .</seg>
          </tuv>
@@ -214,7 +204,8 @@
             <seg>Maaŋgâtooimâsali lii auditorio čájáttâssaje peln siirdâseeini tyehin .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Geahča vuođđosárguma gurut oasi .</seg>
          </tuv>
@@ -222,29 +213,4 @@
             <seg>Keejâ vuáđusáárgus čižetuási .</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Dollagáddi-sali puáhtá kevttiđ meid juávhui purâdemtilen .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Dollagáddi-sali heivee meid cocktailtilálâšvuođáid .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Dollagáddi-sali čáitálmâstilen .</seg>
-         </tuv>
-      </tu>
-   </body>
-</tmx>
+      

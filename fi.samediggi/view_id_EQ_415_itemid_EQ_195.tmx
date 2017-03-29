@@ -6,15 +6,8 @@
            srclang="sme"
            datatype="plaintext"/>
    <body>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Musihkkastudio</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Alladását báddenstudio heive musihka báddemii .</seg>
          </tuv>
@@ -22,7 +15,8 @@
             <seg>Ollâtásásâš paddimstudio heivee vättee muusik paddiimân .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Studiolanjaide gullet studio , lávlunlanjaš , jietnadárkun ja live-editerenlatnja .</seg>
          </tuv>
@@ -30,7 +24,8 @@
             <seg>Studiotiilijn kullojeh studio , lávlumvistááš , jienâtarkkuuttâh já live-editistemtile .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Studiolanjain vástida Sámi oahpahusguovddáš , muhto guovddáža olggobealvárrejumit bohtet Sajosa kongreassa- ja dáhpáhusbálvalusaid bokte .</seg>
          </tuv>
@@ -38,7 +33,8 @@
             <seg>Studiotiilijn västid Säämi máttááttâskuávdáš , mutâ kuávdáá olgopiälásiih väärridmeh puátih Saijoos kongres- já tábáhtuspalvâlusâi peht .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Studio lea váldosisajohtima gurutbealde Sámi oahpahusguovddáža media- ja giellalanjaid oktavuođas .</seg>
          </tuv>
@@ -46,7 +42,8 @@
             <seg>Studio lii váldu-uuvsâ čižetbeln Säämi máttááttâskuávdáá media- ja kielâmáttááttâstiilij ohtâvuođâst .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Studio vuođđosárgun lea oaidnimis vuođđosárgosis vuolimus soajás .</seg>
          </tuv>
@@ -54,55 +51,8 @@
             <seg>Studio vuáđusárgus lii uáinimnáál vuáđusárgusist vyelemuu suájást .</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Kove : Tuupa Records / Jussi Isokoski já Nillas Holmberg raahtijn uđđâ skiäru vyesimáánust 2013 .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Uáppásm paddiimist rahtum studiomuusikvideon .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>SAIJAASVUOTÂ :</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>* Studio 44 m2 ; s. 7 m x 6,3 m , ollâ tile</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>* Lávlumvistááš 5,5 m2 ; 2 m x 2,6 m</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>* Jienâtarkkuuttâh 26,5 m2 ; 4,3 m x 6,5 m</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>TEKNIHKA JA RUSTTEGAT :</seg>
          </tuv>
@@ -110,29 +60,4 @@
             <seg>TEKNIIK JÂ PIERGÂSEH :</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>* Mikser já kieđâvuššâm</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>* Čuojânâsah</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>* Earálágan báddenmikrofovnnat</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-   </body>
-</tmx>
+      

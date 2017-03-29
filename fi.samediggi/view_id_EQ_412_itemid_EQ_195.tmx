@@ -6,7 +6,8 @@
            srclang="sme"
            datatype="plaintext"/>
    <body>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Čoahkkinlatnja Silba</seg>
          </tuv>
@@ -14,7 +15,8 @@
             <seg>Čuákkimviste Silba ( ucceeb )</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Čoahkkinlatnja Silba heive unna čoahkkimii dahje joavkobargui .</seg>
          </tuv>
@@ -22,7 +24,8 @@
             <seg>Čuákkimviste Silba heivee uccâ čuákkimân teikâ juávkkupargotilen .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Čoahkkinlatnja lea guovddáža vuosttaš gearddis .</seg>
          </tuv>
@@ -30,7 +33,8 @@
             <seg>Čuákkimviste Silba lii kuávdáá vuossâmuu keerdist .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Čoahkkinlanjas oaidná Anárjávrái ja váldogeidnui .</seg>
          </tuv>
@@ -38,7 +42,8 @@
             <seg>Čuákkimvisteest lii uáinus Aanaarjáávrán já válduluodân .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Čoahkkinlanja sáhttá ovttastahttit stuorát čoahkkinlanjain Násttiin , nu ahte oažžu saji oktiibuot 25 olbmui ( 50m2 ) .</seg>
          </tuv>
@@ -46,7 +51,8 @@
             <seg>Čuákkimviste puáhtá ovtâstittiđ stuárráb čuákkimviste Nástin , kuás finnee saje 25 ulmui ( 50 m2 ) .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Silba lii tavesämikielâ já tot meerhâš siilbâ .</seg>
          </tuv>
@@ -54,31 +60,8 @@
             <seg>Silbâ lii ohtâ sämityeje amnâsijn .</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Siilbâst ráhtojeh el .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>čiiŋâid .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>SAIJAASVUOTÂ :</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Viidodat : 20 m2 ( sullii 5,5 m x 3,5 m )</seg>
          </tuv>
@@ -86,15 +69,8 @@
             <seg>Vijđodâh : 20 m2 ( s. 5,5 m x 3,5 m )</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>KAPASITEET :</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Luohkkáhámis : 10 olbmui</seg>
          </tuv>
@@ -102,7 +78,8 @@
             <seg>Luokkahäämist : 10 ulmui</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Diplomáhtahámis : 10 olbmui</seg>
          </tuv>
@@ -110,7 +87,8 @@
             <seg>Diplomaathäämist : 10 ulmui</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>U-hámis : 8 olbmui</seg>
          </tuv>
@@ -118,7 +96,8 @@
             <seg>U-häämist : 8 ulmui .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Teáhterhámis : 12 olbmui .</seg>
          </tuv>
@@ -126,7 +105,8 @@
             <seg>Teatterhäämist : 12 ulmui .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>TEKNIHKKA JA RUSTTEGAT :</seg>
          </tuv>
@@ -134,15 +114,8 @@
             <seg>TEKNIIK JÁ PIERGÂSEH :</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>* Blueray-čuojânâs</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>* Blohkkatávval</seg>
          </tuv>
@@ -150,7 +123,8 @@
             <seg>* Lostâdâhtavlu</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>* Gálvvut : čoahkkinbeavddit ja - stuolut 10 olbmui .</seg>
          </tuv>
@@ -158,15 +132,8 @@
             <seg>* Kálvudâh : čuákkimpeevdih já čuákkimstoovlih 10 ulmui .</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>LASEMÁÁVSUST / SIERÂTIILÁÁMIST :</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>* Čoahkkinfáladeamit .</seg>
          </tuv>
@@ -174,7 +141,8 @@
             <seg>* Čuákkimfaalâdmeh .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Loga lasi .</seg>
          </tuv>
@@ -182,7 +150,8 @@
             <seg>Luuvâ lase .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>EARÁ FUOMÁŠANVEARA</seg>
          </tuv>
@@ -190,29 +159,4 @@
             <seg>ERES VUOTÂNVÄLDIM :</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Čuákkimvisteest juvâstâhvyebdimvuoigâdvuođah .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Čuákkimviste 2=Násti .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Čuákkimviste 1=Silba .</seg>
-         </tuv>
-      </tu>
-   </body>
-</tmx>
+      

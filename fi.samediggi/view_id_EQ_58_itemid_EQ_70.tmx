@@ -6,7 +6,8 @@
            srclang="sme"
            datatype="plaintext"/>
    <body>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Bargojoavkoovddastus</seg>
          </tuv>
@@ -14,7 +15,8 @@
             <seg>Pargojuávkkuovdâstem</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Guovddášdoaimmahat</seg>
          </tuv>
@@ -22,7 +24,8 @@
             <seg>Almos toimâttâh</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Guovddášdoaimmahaga bargun lea dikšut sámedikki ekonomiijii , bargiide ja eará oktasaš hálddahussii guoskevaš áššiid , ja eará áššiid , mat eai leat mearriduvvon eará doaimmahagaid bargun .</seg>
          </tuv>
@@ -30,7 +33,8 @@
             <seg>Almos toimâttuv pargon lii hoittáđ sämitige ekonomia- , pargojuávhu- já eres almoshaldâšem kyeskee aašijd sehe aašijd , moh iä lah meridum eres toimâttuvâi hoittámnáál .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Guovddášdoaimmahagas leat čuovvovaš virggit : hálddahushoavda , kulturčálli , láhkačálli , sosiála- ja dearvvasvuođačálli , birasčálli , nuoraidčálli , ekonomiijačálli , hálddahusčálli ja doaimmahatčálli sihke sámeovttadaga plánejeaddji virgi .</seg>
          </tuv>
@@ -38,7 +42,8 @@
             <seg>Almos toimâttuvâst láá haldâšemhoovdâ , kulttuurčällee , lahâčällee , sosiaal- já tiervâsvuođâčällee , pirâsčällee , nuorâičällee , ekonomiačällee , haldâšemčällee já toimâttâhčällee virgeh sehe sämiohtâduv vuávájeijee virge .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Virggiid doaibmagovat leat mearriduvvon Sámedikki bargoortnegis .</seg>
          </tuv>
@@ -46,7 +51,8 @@
             <seg>Viirgij toimâkoveh láá miäruštâllum Sämitige pargo-oornigist .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámedikki čoahkkin sáhttá ásahit dárbbu mielde earáge virggiid .</seg>
          </tuv>
@@ -54,7 +60,8 @@
             <seg>Sämitige čuákkim puáhtá vuáđudiđ táárbumiled eres-uv viirgijd .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Guovddášdoaimmahaga oktavuođas lea maid Davvi-Suoma sosiálasuorggi máhttoguovddáža sámeovttadat .</seg>
          </tuv>
@@ -62,7 +69,8 @@
             <seg>Almos toimâttuv ohtâvuođâst lii vala Tave-Suomâ sosiaalsyergi mättimkuávdáá sämiohtâdâh .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Guovddášdoaimmahagas sáhttet leat maid eará bargit .</seg>
          </tuv>
@@ -70,7 +78,8 @@
             <seg>Almos toimâttuvâst pyehtih leđe eres-uv pargeeh .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Hálddahushoavda doaibmá guovddášdoaimmahaga hoavdan .</seg>
          </tuv>
@@ -78,23 +87,8 @@
             <seg>Haldâšemhovdâ tuáimá almos toimâttuv hovdân . Haldâšemhovdâ</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>má. .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Pia Ruotsala</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>B argit :</seg>
          </tuv>
@@ -102,7 +96,8 @@
             <seg>Lahâčällee</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Hálddahushoavda</seg>
          </tuv>
@@ -110,7 +105,8 @@
             <seg>vs. Kalle Varis</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Láhkačálli</seg>
          </tuv>
@@ -118,7 +114,8 @@
             <seg>Kulttuurčällee</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sosiála- ja dearvvasvuohtačálli</seg>
          </tuv>
@@ -126,7 +123,8 @@
             <seg>Sosiaal- já tiervâsvuođâčällee</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Birasčálli</seg>
          </tuv>
@@ -134,7 +132,8 @@
             <seg>pirâsčällee</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Nuoraidčálli</seg>
          </tuv>
@@ -142,7 +141,8 @@
             <seg>Nuorâičällee</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Davvi-Suoma sosiálasuorggi máhttinguovddáš , plánejeaddji</seg>
          </tuv>
@@ -150,7 +150,8 @@
             <seg>Tave-Suomâ sosiaalsyergi mättimkuávtdáá sämiohtâduv vuávájeijee</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Doaimmajođiheaddji , Sámi mánáidkulturguovddaš</seg>
          </tuv>
@@ -158,31 +159,8 @@
             <seg>Toomâjođetteijee , Säämi párnáikulttuurkuávdáš</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Petra Biret Magga-Vars</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Márkanastinhoavda , Sámekulturguovddáš</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Prošeaktahoavda , Álgoálbmogiid filbmaguovddáš Skábma</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Plánejeaddji , Sámi musihkkaguovddáš</seg>
          </tuv>
@@ -190,15 +168,8 @@
             <seg>Proojeektvuávájeijee , Säämi kulttuurkuávdáš</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Anu Magga</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Hálddahusčálli</seg>
          </tuv>
@@ -206,7 +177,8 @@
             <seg>Haldâšemčällee</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Doaimmahatčálli</seg>
          </tuv>
@@ -214,7 +186,8 @@
             <seg>Toimâttâhčällee</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Vuogádatáššedovdi</seg>
          </tuv>
@@ -222,15 +195,8 @@
             <seg>má. . Hannele Sieppi</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Doaibmalatnjafuolaheaddji</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Lágádusfuolaheaddji</seg>
          </tuv>
@@ -238,13 +204,4 @@
             <seg>Vuáhádâhäššitobdee</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Pirkko Pieski</seg>
-         </tuv>
-      </tu>
-   </body>
-</tmx>
+      

@@ -6,7 +6,9 @@
            srclang="sme"
            datatype="plaintext"/>
    <body>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Olggosaddimat</seg>
          </tuv>
@@ -14,7 +16,9 @@
             <seg>Olgosadalduvah</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Oahppamateriálat</seg>
          </tuv>
@@ -22,7 +26,9 @@
             <seg>Oppâmateriaal</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Dieđihančállosat</seg>
          </tuv>
@@ -30,7 +36,9 @@
             <seg>Tieđettemčáluseh</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Raporttat</seg>
          </tuv>
@@ -38,7 +46,9 @@
             <seg>Raporteh</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Oahppamateriálat interneahtas</seg>
          </tuv>
@@ -46,23 +56,9 @@
             <seg>Oppâmateriaaleh interneetist</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Ovttas.no Sámi oahpponeavvut neahtas</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Oktavuohta Neahttaaviisa sámiin ja sámi kultuvrras</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Nettisaje - anárašgielat neahttasiiddut , gos sáhttá juohkit dieđuid , ságastallat ja gávdnat máŋggalágan materiála numot čállosiid , govaid , lávlagiid sániid ja oahppamateriálaid .</seg>
          </tuv>
@@ -70,7 +66,9 @@
             <seg>Nettisaje - Nettisaje lii saje , kost anarâšah pyehtih jyehiđ tiäđuid , savâstâllâđ já kavnâđ jieškote-uvlágán materiaalijd tego čalluid , kuuvijd , lavlui saanijd já oppâmateriaalijd .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámi Giellagáldu almmustahttá sámegielaid ođđa terminologiija ja normeremiid .</seg>
          </tuv>
@@ -78,7 +76,9 @@
             <seg>Säämi Kielâkäldee almostit sämikielâi uđđâ terminologia já noormâid .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>E-girji</seg>
          </tuv>
@@ -86,135 +86,9 @@
             <seg>E-girji</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>E-skuvla.no ( tavesämikielâ )</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>- oahpaheaddji sáhttá geavahit daid maid olles oahpahusjoavkkuin dahje sierraoahpahusas .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Norgga ja Ruoŧa beale skuvllat galget oastit prográmma liseanssa sierra .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Sátnemeahccái - lohkan- ja čállindáiddu álgooahpahus I - davvisámegiella</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Lohkan- ja čállindáiddu álgooahpahus II - davvisámegiella</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>E-skuvla</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>- mánáide ja nuoraide sámegiela ja sámegiel neahttaoahpponeavvut ,</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>- vuođđo- ja joatkkaskuvllaid ohppiide gáiddusoahpahus ,</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>- rávesolbmuide davvi- , julev- ja máttasámegielakurssat ,</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>- máŋgakultuvrralašvuođa áddejumi kurssat .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>- Anárašgiela searvvi ja Sámi Musea Siidda buvttadan diehtosiiddut</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Nuortalaččat - Sámi Musea Siidda buvttadan diehtosiiddut</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Maahisweb - Sámi Musea Siidda buvttadan mánáid neahttasiiddut</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Bildetema - Interaktiivvalaš máŋggagielat govvasátnegirji</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>- neahttasátnegirji</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>- anárašgiella</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>- nuortalašgiella</seg>
          </tuv>
@@ -222,15 +96,9 @@
             <seg>- nuorttâlâškielâ</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Neahttadigisánit davvisámegiella - suomagiella</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Yle Sámi radio ( Unna Junná - mánáid TV ja Binna bánna mánáid radio )</seg>
          </tuv>
@@ -238,7 +106,9 @@
             <seg>YLE Sámi radio ( párnái TV-ohjelm Unna Junná , párnái radio-ohjelm Binna Bánna )</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>SVT Sápmi - mánáid TV</seg>
          </tuv>
@@ -246,7 +116,9 @@
             <seg>SVT Sápmi - párnái TV</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>NRK Sámi radio - mánáid TV</seg>
          </tuv>
@@ -254,7 +126,9 @@
             <seg>NRK Sámi radio - párnái TV</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Cugu - neahttasiidu mánáide</seg>
          </tuv>
@@ -262,7 +136,9 @@
             <seg>Cugu ( tavesämikielâlâš párnái sijđo )</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Eanadállu - Interaktiivvalaš speallansiidu mánáide</seg>
          </tuv>
@@ -270,21 +146,5 @@
             <seg>Eanadállu ( tavesämikielâlâš spellâ )</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Gos lea Nora gielká ?</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>- Mánáid máinnas man sáhttá lohkat dahje guldalit .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-   </body>
-</tmx>
+      
+

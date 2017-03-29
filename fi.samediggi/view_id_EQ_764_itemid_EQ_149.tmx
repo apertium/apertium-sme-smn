@@ -6,7 +6,8 @@
            srclang="sme"
            datatype="plaintext"/>
    <body>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Kulturmearreruhta 2013 davviriikkalaš sámeservviid doarjumii</seg>
          </tuv>
@@ -14,7 +15,8 @@
             <seg>Kulttuurmeriruttâ 2013 tave-eennâmlij sämiseervij tuárjumân</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámedikki kulturlávdegoddi jugii čoahkkimis 28.10.2013 jagi 2013 Oahpahus- ja kulturministeriija mieđihan stáhtadoarjaga sámi dáidaga ja kultuvrra ovddideapmái , mas oktiibuot 23 000 euro čujuhuvvui Davviriikkalaš sámeservviid doarjumii .</seg>
          </tuv>
@@ -22,7 +24,8 @@
             <seg>Sämitige kulttuurlävdikodde juovij čuákkimistis 28.10.2013 ive 2013 Máttááttâs- já kulttuurministeriö mieđettem staatâtorjuu säämi taiđuu já kulttuur oovdedmân , mast ohtsis 23 000 eurod čujottui Tave-eennâmlij sämiseervij tuárjumân .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámedikki kulturlávdegoddi vuostáiválddii ohcamušaid 13 st oktiibuot 93 059 euro ovddas .</seg>
          </tuv>
@@ -30,55 +33,8 @@
             <seg>Sämitige kulttuurlävdikodde vaaldij vuástá ucâmušâid 13 pittád ohtsis 93 059 euro oovdâst .</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Doarjagat mieđihuvvojedje čuovvovaččat :</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Juoigiid searvi</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Sámi Dáiddačehpiid searvi</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Sámi Dáiddárráđđi</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Sámi Girječálliid searvi</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Sámi Jienat</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>SÁMIRÁĐI SUOMA JUOGUS JA SÁMIRÁĐI ÁLBMOTLAŠ LAHTTOSEARVI</seg>
          </tuv>
@@ -86,7 +42,8 @@
             <seg>SÄMIRÄÄĐI SUOMÂ JUÁVUS JÁ SÄMIRÄÄĐI AALMUGLÂŠ JEESSÂNSERVI</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámiráđi Suoma juogus</seg>
          </tuv>
@@ -94,15 +51,17 @@
             <seg>Sämirääđi Suomâ juávus</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
-            <seg>Doaibmandoarjja 4 800 €</seg>
+            <seg>Doaibmandoarjja 4 800      <tu></seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>Toimâtoorjâ 4 800 €</seg>
+            <seg>Toimâtoorjâ 4 800      <tu></seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Suoma sámiid guovddášsearvi rs</seg>
          </tuv>
@@ -110,13 +69,15 @@
             <seg>Suomâ sämmilij kuávdášservi ry</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
-            <seg>Doaibmandoarjja 2 000 €</seg>
+            <seg>Doaibmandoarjja 2 000      <tu></seg>
          </tuv>
          <tuv xml:lang="smn">
-            <seg>Toimâtoorjâ 2 000 €</seg>
+            <seg>Toimâtoorjâ 2 000      <tu></seg>
          </tuv>
       </tu>
    </body>
 </tmx>
+

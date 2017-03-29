@@ -6,7 +6,8 @@
            srclang="sme"
            datatype="plaintext"/>
    <body>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Bargojoavkoovddastus</seg>
          </tuv>
@@ -14,7 +15,8 @@
             <seg>Pargojuávkkuovdâstus</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámedikki nammadan ovddasteaddjit bargojoavkkuin</seg>
          </tuv>
@@ -22,7 +24,8 @@
             <seg>Sämitige nomâttem ovdâsteijeeh pargojuávhuin</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámiid vuoigatvuođat</seg>
          </tuv>
@@ -30,7 +33,8 @@
             <seg>Sämmilij vuoigâdvuođah</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Bargojoavku</seg>
          </tuv>
@@ -38,7 +42,8 @@
             <seg>Pargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Doaibmabadji</seg>
          </tuv>
@@ -46,7 +51,8 @@
             <seg>Toimâpaje</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Ovddasteaddji / - t</seg>
          </tuv>
@@ -54,7 +60,8 @@
             <seg>Ovdâsteijee / - h</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Árktalaš duogášjoavku</seg>
          </tuv>
@@ -62,7 +69,8 @@
             <seg>Arktâlâš tuávvášjuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Jotkkolaš</seg>
          </tuv>
@@ -70,7 +78,8 @@
             <seg>Juátkojeijee</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Árktalaš guovllu ráđđádallangoddi</seg>
          </tuv>
@@ -78,7 +87,8 @@
             <seg>Arktâlâš kuávlu ráđádâllâmkodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Jotkkolaš</seg>
          </tuv>
@@ -86,7 +96,8 @@
             <seg>Juátkojeijee</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Eurohpa Ráđi vaššiságaid vuostálasti kampánja</seg>
          </tuv>
@@ -94,7 +105,8 @@
             <seg>Euroop Rääđi vajesaavâ vuástásâš kampanja</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Olmmošvuoigatvuođadelegašuvdna</seg>
          </tuv>
@@ -102,7 +114,8 @@
             <seg>Olmoošvuoigâdvuotairâskodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Interreg Davvi - prográmma válmmaštallanproseassa stivrenjoavku</seg>
          </tuv>
@@ -110,7 +123,8 @@
             <seg>Interreg Tave- ohjelm valmâštâllâmproosees njunošjuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Interreg Davvi-prográmma válmmaštallanproseassa bargojoavku</seg>
          </tuv>
@@ -118,7 +132,8 @@
             <seg>Interreg Tave- ohjelm valmâštâllâmproosees pargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Lappi ELY-guovddáža ráđđádallangoddi</seg>
          </tuv>
@@ -126,7 +141,8 @@
             <seg>Laapi IPI-kuávdáá ráđádâllâmkodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Lappi lihtu stivra</seg>
          </tuv>
@@ -134,7 +150,8 @@
             <seg>Laapi lito stivrâ</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Meahcceráđđehusa Anára ja Soađegili oktasašbargojoavku</seg>
          </tuv>
@@ -142,7 +159,8 @@
             <seg>Meccihaldâttâs Aanaar já Suáđigil oovtâstpargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Meahcceráđđehusa Eanodaga oktasašbargojoavku</seg>
          </tuv>
@@ -150,7 +168,8 @@
             <seg>Meccihaldâttâs Iänuduv oovtâstpargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Meahcceráđđehusa Lappi ráđđádallangoddi</seg>
          </tuv>
@@ -158,7 +177,8 @@
             <seg>Meccihaldâttâs Laapi ráđádâllâmkodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Meahcceráđđehusa Ohcejoga oktasašbargojoavku</seg>
          </tuv>
@@ -166,7 +186,8 @@
             <seg>Meccihaldâttâs Ucjuv oovtâstpargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Vuovderáđđi</seg>
          </tuv>
@@ -174,7 +195,8 @@
             <seg>Meccirääđi</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Davviriikkaid sámesoahpamuša Suoma delegašuvnna álbmotlaš duogášjoavku</seg>
          </tuv>
@@ -182,7 +204,8 @@
             <seg>Tave-enâmij sämisopâmuš Suomâ airâskode aalmuglâš tuávvášjuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Davviriikkalaš sámeáššiid virgeolmmošorgána Suoma delegašuvdna</seg>
          </tuv>
@@ -190,7 +213,8 @@
             <seg>Tave-eennâmlii sämiašij virgeolmoošorgaan Suomâ airâskodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Davviriikkalaš sámesoahpamuša ráđđádallandelegašuvdna</seg>
          </tuv>
@@ -198,7 +222,8 @@
             <seg>Aimo Guttorm Tave-eennâmlii sämisopâmuš ráđádâllâmairâskodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Vehádatáššiid ráđđádallangoddi</seg>
          </tuv>
@@ -206,7 +231,8 @@
             <seg>Ucceeblohoašij ráđádâllâmkodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Ovttaveardásašvuohta ovdasadjái 7-prošeavtta stivrenjoavku</seg>
          </tuv>
@@ -214,7 +240,8 @@
             <seg>Oovtviärdásâšvuotâ ovdâsajan 7-proojeekt stivrimjuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Biras</seg>
          </tuv>
@@ -222,7 +249,8 @@
             <seg>Piirâs</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Bargojoavku</seg>
          </tuv>
@@ -230,7 +258,8 @@
             <seg>Pargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Doaibmabadji</seg>
          </tuv>
@@ -238,7 +267,8 @@
             <seg>Toimâpaje</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Ovddasteaddji / - t</seg>
          </tuv>
@@ -246,7 +276,8 @@
             <seg>Ovdâsteijee / - h</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Biodiversitehtabargojoavku</seg>
          </tuv>
@@ -254,7 +285,8 @@
             <seg>Biodiversiteetpargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Avvila dulvesuodjalan áššedovdibargojoavku</seg>
          </tuv>
@@ -262,7 +294,8 @@
             <seg>Avveel tulvesuojâlem- äššitobdeepargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Álbmotlaš artihkkala 8(j ) áššedovdibargojoavku</seg>
          </tuv>
@@ -270,7 +303,8 @@
             <seg>Aalmuglâš artikla 8(j ) äššitobdeepargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Heikki Paltto ( áššedovdi )</seg>
          </tuv>
@@ -278,7 +312,8 @@
             <seg>Heikki Paltto ( äššitobdee )</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Riikkaidgaskasaš biodiversitehtabargojoavku</seg>
          </tuv>
@@ -286,7 +321,8 @@
             <seg>Aalmugijkoskâsâš biodiversiteetpargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Suvdilis ovdáneami doaibmagoddi</seg>
          </tuv>
@@ -294,7 +330,8 @@
             <seg>Pištee ovdánem toimâkodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Geavu dikšun- ja geavahanplána – prošeavtta oktasašbargojoavku</seg>
          </tuv>
@@ -302,7 +339,8 @@
             <seg>Kiävu hoittám- já kevttim-vuávám- proojeekt oovtâstpargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Geavu dikšun- ja geavahanplána Akwé : Kon – bargojoavku</seg>
          </tuv>
@@ -310,7 +348,8 @@
             <seg>Kiävu hoittám- já kevttimvuávám Akwé : Kon - pargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Giehtaruohttasa meahcceguovllu , Malla luonddumeahci ja Saana luonddusuodjalanguovlluid dikšuma ja geavaheami plánenfidnu oktasašbargojoavku</seg>
          </tuv>
@@ -318,7 +357,8 @@
             <seg>Kietâruotâs meccikuávlu , Malla luándumeeci já Saana luándusuoijâlemkuávlui hoittám já kevttim vuávámproojeekt oovtâstpargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Meahcceráđđehusa Akwé:Kon – joavku Urho Kekkonen álbmotmeahci dikšun- ja geavahanplána gárvvisteames</seg>
          </tuv>
@@ -326,7 +366,8 @@
             <seg>Meccihaldâttâs Akwé:Kon - juávkku Urho Kekkos aalmuglâšmeeci hoittám- já kevttimvuávám rähtimist</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Nagoya beavdegirjji álbmotlaš ollašuhttima válmmaštalli bargojoavku</seg>
          </tuv>
@@ -334,7 +375,8 @@
             <seg>Nagoyan pevdikirje aalmuglâš olášuttem valmâštellee pargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Ealáhusat</seg>
          </tuv>
@@ -342,7 +384,8 @@
             <seg>Iäláttâsah</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Bargojoavku</seg>
          </tuv>
@@ -350,7 +393,8 @@
             <seg>Pargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Doaibmabadji</seg>
          </tuv>
@@ -358,7 +402,8 @@
             <seg>Toimâpaje</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Ovddasteaddji / - t</seg>
          </tuv>
@@ -366,7 +411,8 @@
             <seg>Ovdâsteijee / - h</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Eanodaga guolledoalloráđđádallangoddi</seg>
          </tuv>
@@ -374,7 +420,8 @@
             <seg>Iänuduv kyelituáluráđádâllâmkodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Anára guolledoalloáđđádallangoddi</seg>
          </tuv>
@@ -382,7 +429,8 @@
             <seg>Aanaar kyelituáluráđádâllâmkodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Guolledoalu ovddidanfoandda stivra</seg>
          </tuv>
@@ -390,7 +438,8 @@
             <seg>Kyelituálu ovdedemruttârááju stivrâ</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Lappi lihtu luossabargojoavku</seg>
          </tuv>
@@ -398,7 +447,8 @@
             <seg>Laapi lito luosâpargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Lappilaš ealáhusat boazobargojoavku</seg>
          </tuv>
@@ -406,7 +456,8 @@
             <seg>Lappiliih iäláttâsah puásuipargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>MELA guollebivdiid ja badjeolbmuid ráđđádallangoddi</seg>
          </tuv>
@@ -414,7 +465,8 @@
             <seg>Eennâmtuáluirâtteijei iäláttâslájádâs ( Mela ) kuálásteijei já puásuituállei ráđádâllâmkodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Bálgosiid ovttastusa stivra</seg>
          </tuv>
@@ -422,7 +474,8 @@
             <seg>Palgâsij ovtâstus stivrâ</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Boazodoalloguovllu spireráđđádallangoddi</seg>
          </tuv>
@@ -430,7 +483,8 @@
             <seg>Puásuituálukuávlu stuorrâpiäturáđádâllâmkodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Boazodoallo- ja luondduealáhusdutkamuša ráđđádallangoddi</seg>
          </tuv>
@@ -438,7 +492,8 @@
             <seg>Puásuituálu- já luánduiäláttâstutkâm ráđádâllâmkodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Spirepolitihka árvvoštallanbargojoavku</seg>
          </tuv>
@@ -446,7 +501,8 @@
             <seg>Stuorrâpiätupolitiik árvustâllâm-pargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Deanu guolástansoahpamuša ráđđádallan sáttagoddi</seg>
          </tuv>
@@ -454,7 +510,8 @@
             <seg>Tiänu kuálástussopâmuš ráđádâllâmairâskodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Deatnu-bargojoavku</seg>
          </tuv>
@@ -462,7 +519,8 @@
             <seg>Tiänu-pargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Ohcejoga guolledoalloráđđádallangoddi</seg>
          </tuv>
@@ -470,7 +528,8 @@
             <seg>Ucjuv kyelituáluráđádâllâmkodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sosiála- ja dearvvasvuođabálvalusat</seg>
          </tuv>
@@ -478,7 +537,8 @@
             <seg>Sosiaal- já tiervâsvuođâpalvâlusah</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Bargojoavku</seg>
          </tuv>
@@ -486,7 +546,8 @@
             <seg>Pargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Doaibmabadji</seg>
          </tuv>
@@ -494,7 +555,8 @@
             <seg>Toimâpaje</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Lappi buohccedikšunbire veajuiduhttima áššehas oktasašdoaibmagoddi</seg>
          </tuv>
@@ -502,7 +564,8 @@
             <seg>Laapi pyecceitipšompirrâduv vajoidittem äššigâsohtsâštoimâkodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Lappi buohccedikšunbire vuođđodearvvasvuođafuolahusa ovttadaga stivrenjoavku</seg>
          </tuv>
@@ -510,7 +573,8 @@
             <seg>Laapi pyecceitipšompirrâduv vuáđutiervâsvuođâhuolâttâs ohtâduv stivrimjuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Poske sámeovttadaga plánejeaddji</seg>
          </tuv>
@@ -518,7 +582,8 @@
             <seg>Poske sämiohtâduv vuávájeijee</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Lappi buohccedikšunbire vuođđodearvvasvuođa fuolahusa ovttadaga sámegielat bálvalusat</seg>
          </tuv>
@@ -526,7 +591,8 @@
             <seg>Laapi pyecceitipšompirrâduv vuáđutiervâsvuođâhuolâttâs ohtâduv sämikielâliih palvâlusah</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Lappi sosiálabarggu ja sosiálasuorggi oahpahus ja dutkanguovddáža stivrenjoavku</seg>
          </tuv>
@@ -534,7 +600,8 @@
             <seg>Laapi sosiaalpargo já sosiaalsyergi máttááttâs- já tutkâmkuávdáá stivrimjuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sosiála- ja dearvvasvuođalávdegotti várreságajođiheaddji ,</seg>
          </tuv>
@@ -542,7 +609,8 @@
             <seg>Sosiaal- já tiervâsvuođâlävdikode värisaavâjođetteijee , ,</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Lappi lápmásiidbargojoavku</seg>
          </tuv>
@@ -550,7 +618,8 @@
             <seg>Laapi vádulâšpargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Davvi-Suoma guovlostivrenjoavku</seg>
          </tuv>
@@ -558,7 +627,8 @@
             <seg>Tave-Suomâ kuávlunanošjuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Davvi-Suoma sosiálasuorggi máhttinguovddáža ráđđádallangoddi</seg>
          </tuv>
@@ -566,7 +636,8 @@
             <seg>Tave-Suomâ sosiaalsyergi mättimkuávdáá ráđádâllâmkodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Poske sámeovttadaga plánejeaddji (</seg>
          </tuv>
@@ -574,7 +645,8 @@
             <seg>POSKE : sämiohtâduv vuávájeijee (</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sosiála- ja dearvvasvuođa čálli (</seg>
          </tuv>
@@ -582,7 +654,8 @@
             <seg>Sosiaal- já tiervâsvuođâčällee (</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Bargojoavku</seg>
          </tuv>
@@ -590,7 +663,8 @@
             <seg>Pargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Doaibmabadji</seg>
          </tuv>
@@ -598,7 +672,8 @@
             <seg>Toimâpaje</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Ovda- , vuođđo- ja lasseoahpahusa oahppoplána vuođuštanbarggu stivrenjoavku</seg>
          </tuv>
@@ -606,7 +681,8 @@
             <seg>Ovdâ- , vuáđu- já lasemáttááttâs máttááttâsvuávám vuáđupargo stivrimjuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Lappi allaskuvlakonsearnna ráđđádallangoddi</seg>
          </tuv>
@@ -614,7 +690,8 @@
             <seg>Laapi ollâškovlâkonsern ráđádâllâmkodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámekultuvrra dutkkusdoaibmagoddi</seg>
          </tuv>
@@ -622,7 +699,8 @@
             <seg>Sämikulttuur tuđhostoimâkodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámiid skuvlenáššiid oktasašbargoorgána</seg>
          </tuv>
@@ -630,7 +708,8 @@
             <seg>Sämmilij škovlimašij oovtâstpargo-orgaan</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>SOG:a stivra</seg>
          </tuv>
@@ -638,15 +717,8 @@
             <seg>SMK stivrâ</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Ilmari Tapiola , Annukka</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Bargojoavku</seg>
          </tuv>
@@ -654,7 +726,8 @@
             <seg>Pargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Doaibmabadji</seg>
          </tuv>
@@ -662,7 +735,8 @@
             <seg>Toimâpaje</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Evangelalaš-luteralaš girkolaščoahkkin</seg>
          </tuv>
@@ -670,7 +744,8 @@
             <seg>Evankellâs-luterilâš kirholâščuákkim</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Johtti girjerádju – fidnu stivrenjoavku Gábe Jovnna eanasaji stivra</seg>
          </tuv>
@@ -678,7 +753,8 @@
             <seg>Johtti girjerádju / Jottee kirjerááju – proojeekt stivrimjuávkku Kaabi Joovnâ tile stivrâ</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Mánát ja nuorat</seg>
          </tuv>
@@ -686,7 +762,8 @@
             <seg>Párnááh já nuorah</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Bargojoavku</seg>
          </tuv>
@@ -694,7 +771,8 @@
             <seg>Pargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Doaibmabadji</seg>
          </tuv>
@@ -702,7 +780,8 @@
             <seg>Toimâpaje</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Mánáid ja nuoraid dáiddaguovddáža vuođđudusa ráđđádallangoddi</seg>
          </tuv>
@@ -710,7 +789,8 @@
             <seg>Párnái já nuorâi taaiđâkuávdáá vuáđudâs ráđádâllâmkodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Nuoraid Lappi II - stivrenjoavku</seg>
          </tuv>
@@ -718,7 +798,8 @@
             <seg>Nuorâi Lappi II-stivrimjuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Nuoraid bálvalusat ortnegii – fidnu stivrenjoavku</seg>
          </tuv>
@@ -726,7 +807,8 @@
             <seg>Nuorâi palvâlusâid oornigân – proojeekt stivrimjuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Bargojoavku</seg>
          </tuv>
@@ -734,7 +816,8 @@
             <seg>Pargojuávkku</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Doaibmabadji</seg>
          </tuv>
@@ -742,7 +825,8 @@
             <seg>Toimâpaje</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>FiBLUL stivra</seg>
          </tuv>
@@ -750,7 +834,8 @@
             <seg>FiBLUL stivrâ</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Gollegiella árvvoštallankomitea</seg>
          </tuv>
@@ -758,7 +843,8 @@
             <seg>Kollekielâ árvuštâllâmkomitea</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Giellaáššiid ráđđádallangoddi</seg>
          </tuv>
@@ -766,7 +852,8 @@
             <seg>Kielâašij ráđádâllâmkodde</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>( áššedovdi )</seg>
          </tuv>
@@ -774,7 +861,8 @@
             <seg>( äššitobdee )</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>giellaáššiidčálli</seg>
          </tuv>
@@ -782,7 +870,8 @@
             <seg>kielâašijčällee</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>Bolesa ja čearddalaš servošiid oktasašbargoforum</seg>
          </tuv>
@@ -790,15 +879,8 @@
             <seg>Poolis já etnisij siärváduvâi oovtâstpargofoorum</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Siiri Jomppanen</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>giellaáššiidčálli</seg>
          </tuv>
@@ -806,7 +888,8 @@
             <seg>kielâašijčällee</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>SáFá2 – fidnu nuortalašgiela giellajuogus</seg>
          </tuv>
@@ -814,23 +897,8 @@
             <seg>SáFá2- proojeekt nuorttâlâškielâ kielâjuávus</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Natalia Vaskova</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Miika Lehtinen , Hilkka Fofanoff , Raija Lehtola , Zoja Nosova</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>SáFá2 – fidnu anárašgiela</seg>
          </tuv>
@@ -838,15 +906,8 @@
             <seg>SáFá2-proojeekt anarâškielâ kielâjuávus</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>( sj ) , Petter Morottaja , Marja-Liisa Olthuis</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>SáFá2 – fidnu stivrenjoavku</seg>
          </tuv>
@@ -854,23 +915,8 @@
             <seg>SáFá2-proojeekt stivrimjuávkku</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Tiina Sanila-Aikio</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>( saavâjođetteijee )</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     <tu>
          <tuv xml:lang="sme">
             <seg>SáFá2 – fidnu davvisámegiela giellajuogus</seg>
          </tuv>
@@ -880,3 +926,4 @@
       </tu>
    </body>
 </tmx>
+

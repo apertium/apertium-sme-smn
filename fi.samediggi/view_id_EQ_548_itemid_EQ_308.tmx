@@ -6,7 +6,9 @@
            srclang="sme"
            datatype="plaintext"/>
    <body>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sajosa rahpan 2012</seg>
          </tuv>
@@ -14,7 +16,9 @@
             <seg>Saijoos lekkâmeh 2012</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sajosa dáidagat</seg>
          </tuv>
@@ -22,15 +26,9 @@
             <seg>Saijoos taiđuuh</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Hárjjiceggenávvudeapmi</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Vuođu muvrendilálašvuohta</seg>
          </tuv>
@@ -38,7 +36,9 @@
             <seg>Vuáđukeeđgi muvrámtilálâšvuotâ</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Ođđaseamos govva bajimužžan .</seg>
          </tuv>
@@ -46,199 +46,9 @@
             <seg>Uđđâsumos kove pajemužžân .</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Čoahkkima gáffeboddu .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Lasi govat " Allsamiske mötet " - čoahkkimis 27.6.12 .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Nuortalašgiela ja kultuvrra seminára 14.6.12 .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Govva : Katharine Bartsch .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Nuortalašgiela ja kultuvrra seminára 14.6.12 .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Ovdâlávlon Anneli Aikio já Tuija Guttorm sehe Heli Aikio já čuojâlditten lâi Unna-Maari Pulska .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>27.7.12 .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>27.7.12 .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Saijoos aula heivee pyereest ohtsâšlávlumtilálâšvuođáid já uccâ konsertáid .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>Báikkálaš goahkka Aune Portti , dovddus goahkat Markus Maulavirta ja Valentine Warner ja</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Laapi ollâopâttuv aalmugijkoskâsâš kesiškovlâ Sajosist 6.6.2012 .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Fáddán Kulttuurmuorâstâh .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Kove : Sanna Konola / Laapi ollâopâttâh</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Laapi ollâopâttuv kesiškoovlâ kurssâliih ohtsâškooveest Saijoos Solju-salist 6.6.12 .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Kove : Sanna Konola / Laapi ollâopâttâh .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Säämi máttááttâskuávdáá ( SMK ) kiđđâjuhle já loppâjuhleh 1.6.2012 Saijoos Dolla-salist .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>SMK rehtor , Liisa Holmberg juhlesaahâ škoovlâ loppâjuuhlijn 1.6.2012 .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>SMK medialinjáá máttáátteijee Erkki Feodoroff škoovlâ loppâjuhlij jienâtárkkojeijen .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>1.6.2012 .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>SMK loppâjuhleh Sajosist 1.6.2012 .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Aldapurrâmâš poccust - tábáhtus Aanaar Puásuiohhoost Saijoos Dolla-salist 5.4.2012 .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Lyeve alne páihálâš ärbipurrâmâšâi taaidâr Aune Portti , pegâlmâs kookah Markus Maulavirta já Valentine Warner sehe</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>tilálâšvuođâ jođetteijee Heikki Nikula .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Tilálâšvuođâ išedeijen lijjii SMK kokkâuáppeeh .</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Lagašbiepmu bohccos - dáhpáhusa loaiddasteaddji , anárlaš Aune Portti ráhkadii dáhpáhusas guhppáriid .</seg>
          </tuv>
@@ -246,7 +56,9 @@
             <seg>Aldapurrâmâš poccust - tábáhtus lávdástellee , aanaarlâš Aune Portti mälistij tábáhtusâst kumppâsijd .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>5.4.2012 .</seg>
          </tuv>
@@ -254,7 +66,9 @@
             <seg>5.4.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Pohjoista muotoilua - duodjemeassut dollojuvvojedje Sajosis 4.-5.4.12 .</seg>
          </tuv>
@@ -262,7 +76,9 @@
             <seg>Pohjoista muotoilua - kietâtyejimeesuh tuállojii Sajosist 4.-5.4.12</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sajosa rahpamii gullevaš Álbmotfeasta / Rabas uvssat 4.4.2012 .</seg>
          </tuv>
@@ -270,7 +86,9 @@
             <seg>Saijoos lekkâmáid lohtâseijee Aalmugjuhle / Ávus uuvsah 4.4.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Rabas uvssaid oahpistuvvon Sajos-tuvrrat geasuhedje sihke báikkálaččaid ja turisttaid .</seg>
          </tuv>
@@ -278,7 +96,9 @@
             <seg>Ávus uuvsâi uápástum Sajos-rieggeeh kiäsuttii páihálijd já mađhâšeijeid .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Álbmotfeasta / Rabas uvssaid beaivvi dáhpáhusas vástidii Sámedikki Siiri Jomppanen ( gur . ) .</seg>
          </tuv>
@@ -286,7 +106,9 @@
             <seg>Aalmugjuhle / Ávus uuvsâi peeivi tábáhtusvästideijen lâi Sämitige Siiri Jomppanen ( čiž . ) .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Olgešbealde Sámedikki Anni Näkkäläjärvi fiinna gákti .</seg>
          </tuv>
@@ -294,7 +116,9 @@
             <seg>Uálgisbeln Sämitige Anni Näkkäläjärvi fiijnâ mááccuh .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sajosa váldosáles dollojuvvui Sámedikki rahpandilálašvuohta ja Sajosa vihaheapmi 3.4.12 .</seg>
          </tuv>
@@ -302,7 +126,9 @@
             <seg>Saijoos váldusalist tuállojii Sämitige lekkâmeh já Saijoos vihkjááh 3.4.12 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Kultureahkedis Irene Länsman ja Anna Näkkäläjärvi-Länsman doalaiga teáhterčájáhusa .</seg>
          </tuv>
@@ -310,7 +136,9 @@
             <seg>Kulttuur-ehidist Irene Länsman já Anna Näkkäläjärvi-Länsman čájáttâláin teatterčájáttâs .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Dásseválddi Presideanta Niinistö ja Sámedikki ságajođiheaddji Näkkäläjärvi buresteaba Sámedikki rahpanfeasttas 3.4.12 .</seg>
          </tuv>
@@ -318,7 +146,9 @@
             <seg>Täsivääldi President Niinistö já Sämitige saavâjođetteijee Näkkäläjärvi adelává kieđâid Sämitige lekkâmjuhleest 3.4.12 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Bálgosiid ovttastumi ordnen Gonagasgilvvu bálkkašumiid juohkin Sajosa váldosáles 1.4.2012 .</seg>
          </tuv>
@@ -326,7 +156,9 @@
             <seg>Palgâsij ovtâstus uárnim Ergikunâgâsvuájui palhâšumij jyehim Saijoos váldusalist 1.4.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Gonagasgilvvuid bálkkašumiid juohkin 1.4.2012 .</seg>
          </tuv>
@@ -334,7 +166,9 @@
             <seg>Ergikunâgâsvuájui palhâšumij jyehimtilálâšvuođâst 1.4.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Nuoraid dáiddadáhpáhus álgime Sajosa váldosáles .</seg>
          </tuv>
@@ -342,7 +176,9 @@
             <seg>Nuorâi taaiđâtábáhtus álgá forgâ Saijoos váldusalist .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámenuoraid dáiddadáhpáhusa rahpama loaiddasteaddjit .</seg>
          </tuv>
@@ -350,7 +186,9 @@
             <seg>Säminuorâi taaiđâtábáhtus lekkâmij lávdástelleeh .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámenuoraid dáiddadáhpáhusa jođiheaddjit Heli Huovinen ja Aslak Paltto .</seg>
          </tuv>
@@ -358,7 +196,9 @@
             <seg>Säminuorâi taaiđâtábáhtus jođetteijeeh Heli Huovinen já Aslak Paltto .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámenuoraid dáiddadáhpáhusa sága doalai Sámedikki 1. várresj .</seg>
          </tuv>
@@ -366,7 +206,9 @@
             <seg>Säminuorâi taaiđâtábáhtus juhlesaavâ toolâi Sämitige 1. värisj .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Tiina Sanila-Aikio , 29.3.2012 .</seg>
          </tuv>
@@ -374,7 +216,9 @@
             <seg>Tiina Sanila-Aikio , 29.3.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Barentsa nissonráđđi čoahkkanii Sajosis 15.3.12 .</seg>
          </tuv>
@@ -382,7 +226,9 @@
             <seg>Barents nissoonairâseh čokkânii Sajosist 15.3.12 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámedikki čoahkkinboddu 15.2.2012 .</seg>
          </tuv>
@@ -390,7 +236,9 @@
             <seg>Sämitige almosčuákkim puddâ 15.2.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Klemetti Näkkäjärvi , Janne Näkkäläjärvi ja Juha Guttorm .</seg>
          </tuv>
@@ -398,7 +246,9 @@
             <seg>Klemetti Näkkäjärvi , Janne Näkkäläjärvi já Juha Guttorm .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámedikki čoahkkin 15.2.2012 .</seg>
          </tuv>
@@ -406,7 +256,9 @@
             <seg>Sämitige almosčuákkim 15.2.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Parlameantasále Solju .</seg>
          </tuv>
@@ -414,7 +266,9 @@
             <seg>Parlamentsali Solju .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámedikki čoahkkin 15.2.2012 .</seg>
          </tuv>
@@ -422,7 +276,9 @@
             <seg>Sämitige almosčuákkim 15.2.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Jienasteapmi .</seg>
          </tuv>
@@ -430,7 +286,9 @@
             <seg>Jienâstem .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámedikki čoahkkin 15.2.2012 .</seg>
          </tuv>
@@ -438,7 +296,9 @@
             <seg>Sämitige almosčuákkim 15.2.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Ságajođiheaddji lea válljejuvvon .</seg>
          </tuv>
@@ -446,7 +306,9 @@
             <seg>Saavâjođetteijee lii väljejum .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámedikki čoahkkin 15.2.2012 .</seg>
          </tuv>
@@ -454,7 +316,9 @@
             <seg>Sämitige almosčuákkim 15.2.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Tulkkat bargame .</seg>
          </tuv>
@@ -462,7 +326,9 @@
             <seg>Tuulhah pargoost .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámedikki čoahkkin 15.2.2012 .</seg>
          </tuv>
@@ -470,7 +336,9 @@
             <seg>Sämitige almosčuákkim 15.2.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Petra Magga-Vars Vuohčus , Anne-Maarit Magga Eanodagas ja Jouko Magga Vuohčus .</seg>
          </tuv>
@@ -478,7 +346,9 @@
             <seg>Petra Magga-Vars Vuáčust , Anne-Maarit Magga Iänuduvvâst já Jouko Magga Vuáčust</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámit girkus - seminára 4.2.2012 .</seg>
          </tuv>
@@ -486,7 +356,9 @@
             <seg>Sämmiliih kirhoost - seminaar 4.2.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámit girkus - seminára .</seg>
          </tuv>
@@ -494,7 +366,9 @@
             <seg>Sämmiliih kirhoost - seminaar .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámit girkus - panelaságastallan .</seg>
          </tuv>
@@ -502,7 +376,9 @@
             <seg>Sämmiliih kirhoost - paaneelsavâstâllâm .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámit girkus - seminára boradeapmi Dollagáddi-sáles .</seg>
          </tuv>
@@ -510,7 +386,9 @@
             <seg>Sämmiliih kirhoost - seminaarpeivimäälis Dollagáddi-salist .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámit girkus - seminára Dolla-sáles .</seg>
          </tuv>
@@ -518,7 +396,9 @@
             <seg>Sämmiliih kirhoost - seminaar Dolla-salist .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Pirita Näkkäläjärvi .</seg>
          </tuv>
@@ -526,7 +406,9 @@
             <seg>Pirita Näkkäläjärvi .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámit girkus 4.2.2012 .</seg>
          </tuv>
@@ -534,7 +416,9 @@
             <seg>Sämmiliih kirhoost 4.2.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Restoráŋŋa Galla .</seg>
          </tuv>
@@ -542,7 +426,9 @@
             <seg>Raavâdviäsu Galla .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámit girkus 4.2.2012 .</seg>
          </tuv>
@@ -550,7 +436,9 @@
             <seg>Sämmiliih kirhoost 4.2.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Anu Avaskari ja Klemetti Näkkäläjärvi .</seg>
          </tuv>
@@ -558,7 +446,9 @@
             <seg>Anu Avaskari já Klemetti Näkkäläjärvi .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámit girkus 4.2.2012 .</seg>
          </tuv>
@@ -566,7 +456,9 @@
             <seg>Sämmiliih kirhoost 4.2.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Searvegotti eaktodáhtolaš bargi Ritva Kangasniemi .</seg>
          </tuv>
@@ -574,7 +466,9 @@
             <seg>Servikode rijjâtátulâš Ritva Kangasniemi .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámit girkus 4.2.2012 .</seg>
          </tuv>
@@ -582,7 +476,9 @@
             <seg>Sämmiliih kirhoost 4.2.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Tiina Sanila-Aikio .</seg>
          </tuv>
@@ -590,7 +486,9 @@
             <seg>Tiina Sanila-Aikio .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámit girkus - seminára 4.2.2012 .</seg>
          </tuv>
@@ -598,7 +496,9 @@
             <seg>Sammiliih kirhoost - seminaar 4.2.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Teknihkka doaibmá .</seg>
          </tuv>
@@ -606,7 +506,9 @@
             <seg>Tekniik tuáimá .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Dollagáddi-sále rievdá maid boradansálen .</seg>
          </tuv>
@@ -614,7 +516,9 @@
             <seg>Dollagaddi-sali muttoo meid peivimäälissalin .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Bismagoddeassisteanta Hannele Salmi ja dáhpáhusa oaiveordnejeaddji sámi barggu bismagoddečálli Erva Niittyvuopio Sámit girkus - dáhpáhusas .</seg>
          </tuv>
@@ -622,7 +526,9 @@
             <seg>Pispekodde-assistent Hannele Salmi sehe tábáhtus váldu-uárnejeijee sämipargo pispekoddečällee Erva Niittyvuopio Sämmiliih kirhoost - tábáhtusâst .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámit girkus - dáhpáhusa searvegotti bargit : Anja Karhula , Anu Tapio ja Hans Mattus .</seg>
          </tuv>
@@ -630,7 +536,9 @@
             <seg>Sämmiliih kirhoost - tábáhtus servikode pargeeh : Anja Karhula , Anu Tapio já Hans Mattus .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Buđaldeaddjiteáhter Ivaloiset čájehii Votkaturistit-čájálmasa Sajosa váldosáles 2.2.2012 .</seg>
          </tuv>
@@ -638,7 +546,9 @@
             <seg>Puđâldâsteatter Ivaloiset čájáttâlâi Votkaturistit-čáitálduv Saijoos váldusalist 2.2.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Ivaloisten teáhterčájáhus 2.2.2012 Sajosa váldosáles .</seg>
          </tuv>
@@ -646,31 +556,9 @@
             <seg>Ivaloiset teatterčáitáldâh 2.2.2012 Saijoos váldusalist .</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Ivaloiset teatterčáitáldâh 2.2.2012 .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Ivaloiset teatterčáitáldâh 2.2.2012 .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Auditorio Dolla .</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Skábmagovat - filbmafestivála ordnejuvvo jahkásaččat ođđajagimánus Anáris .</seg>
          </tuv>
@@ -678,23 +566,9 @@
             <seg>Skabmagovát-elleekovefestivaal uárnejuvvoo Anarist ihásávt uđđâivemáánust .</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Annukka Hirvasvuopio-Laiti já Heikki Nikula lávdástâláin Sajosist 23.1.2012 .</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>Annukka Hirvasvuopio-Laiti já Heikki Nikula 14.1.2012 .</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Healing Sounds 14.1.2012 Sajosa váldosáles .</seg>
          </tuv>
@@ -702,7 +576,9 @@
             <seg>Healing Sounds 14.1.2012 Saijoos váldusalist .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Cocktaildáhpáhus Sajosa Dollagáddi-Sáles 4.1.2012 .</seg>
          </tuv>
@@ -710,7 +586,9 @@
             <seg>Äššigâsjuávhu cocktailtilálâšvuotâ Saijoos Dollagáddi-Salist 4.1.2012 .</seg>
          </tuv>
       </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Feaskáris oaidná restoráŋŋii .</seg>
          </tuv>
@@ -718,23 +596,9 @@
             <seg>Uáinus aulast raavâdviäsun .</seg>
          </tuv>
       </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>4.1.2012 .</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>xxx</seg>
-         </tuv>
-      </tu>
-      <tu>
-         <tuv xml:lang="sme">
-            <seg>xxx</seg>
-         </tuv>
-         <tuv xml:lang="smn">
-            <seg>4.1.2012 .</seg>
-         </tuv>
-      </tu>
-      <tu>
+      
+     
+     <tu>
          <tuv xml:lang="sme">
             <seg>Sámedikki nuoraidráđđi lei vuosttaš , mii doalai čoahkkima Parlameantasále Soljus 4.1.2012 .</seg>
          </tuv>
@@ -744,3 +608,5 @@
       </tu>
    </body>
 </tmx>
+
+
