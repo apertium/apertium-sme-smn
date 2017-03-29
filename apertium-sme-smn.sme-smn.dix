@@ -1421,7 +1421,7 @@
     <e><p><l>badji<s n="n"/></l><r>paje<s n="n"/></r></p></e>
     <e><p><l>raportevra<s n="n"/></l><r>raportistee<s n="n"/></r></p></e>
     <e><p><l>sierraraporterejeaddji<s n="n"/></l><r>spesiaalraportistee<s n="n"/></r></p></e>
-    <e><p><l>riikkabeailahttu<s n="n"/></l><r>aalmugovdâsteijee<s n="n"/></r></p></e>
+    <e><p><l>riikkabeailahttu<s n="n"/></l><r>aalmugovdâsteijee<s n="n"/><s n="nomag"/></r></p></e>
     <e><p><l>ođasvuorká<s n="n"/></l><r>uđâsvuárkká<s n="n"/></r></p></e>
     <e><p><l>mikrofovdna<s n="n"/></l><r>mikrofon<s n="n"/></r></p></e>
     <e><p><l>hámus<s n="n"/></l><r>hammiittâs<s n="n"/></r></p></e>
@@ -1727,7 +1727,7 @@
     <e><p><l>ofelaš<s n="n"/></l><r>uápisteijee<s n="n"/><s n="nomag"/></r></p></e>
     <e><p><l>panela<s n="n"/></l><r>paaneel<s n="n"/></r></p></e>
     <e><p><l>seavagiella<s n="n"/></l><r>seevvimkielâ<s n="n"/></r></p></e>
-    <e><p><l>sátnejođiheaddji<s n="n"/></l><r>saavâjođetteijee<s n="n"/><s n="nomag"/></r></p></e>
+    <e><p><l>sátnejođiheaddji<s n="n"/></l><r>saavâjođetteijee<s n="n"/></r></p></e>
     <e><p><l>vuolleskuvla<s n="n"/></l><r>vyeliškovlâ<s n="n"/></r></p></e>
     <e><p><l>vuovdegaccet<s n="n"/></l><r>vyevdicissááš<s n="n"/></r></p></e>
     <e><p><l>várren<s n="n"/></l><r>väridâs<s n="n"/></r></p></e>
@@ -2126,6 +2126,7 @@
     <e><p><l>rádiologa<s n="n"/></l><r>radiolog<s n="n"/></r></p></e> 
     <e><p><l>rapsodiija<s n="n"/></l><r>rapsodia<s n="n"/></r></p></e>
     <e><p><l>resiidna<s n="n"/></l><r>resiin<s n="n"/></r></p></e>
+    <e><p><l>resolušuvdna<s n="n"/></l><r>julgáštâs<s n="n"/></r></p></e>
     <e><p><l>revitaliseren<s n="n"/></l><r>revitalistem<s n="n"/></r></p></e>
     <e><p><l>riika<s n="n"/></l><r>riijkâ<s n="n"/></r></p></e>
     <e><p><l>riikkavuloš<s n="n"/></l><r>aalmugjeessân<s n="n"/></r></p></e>
@@ -2171,7 +2172,7 @@
     <e><p><l>synestesiija<s n="n"/></l><r>synestesia<s n="n"/></r></p></e>
     <e><p><l>synkroniija<s n="n"/></l><r>synkronia<s n="n"/></r></p></e>
     <e><p><l>synonymiija<s n="n"/></l><r>synonymia<s n="n"/></r></p></e>
-    <e><p><l>ságadoalli<s n="n"/></l><r>saavâjođetteijee<s n="n"/><s n="nomag"/></r></p></e>
+    <e><p><l>ságadoalli<s n="n"/></l><r>saavâjođetteijee<s n="n"/></r></p></e>
     <e><p><l>sáiti<s n="n"/></l><r>säitti<s n="n"/></r></p></e>
     <e><p><l>sámiguovlu<s n="n"/></l><r>sämikuávlu<s n="n"/></r></p></e>
     <e><p><l>sámekultuvra<s n="n"/></l><r>sämikulttuur<s n="n"/></r></p></e>
@@ -5860,7 +5861,7 @@
     <e><p><l>doaimmahus<s n="n"/></l><r>toimâttâs<s n="n"/></r></p></e>
     <e><p><l>doaivu<s n="n"/></l><r>tuáivu<s n="n"/></r></p></e>
     <e><p><l>doaivva<s n="n"/></l><r>tuáivu<s n="n"/></r></p></e>
-    <e><p><l>doalli<s n="n"/><s n="nomag"/></l><r>tuállee<s n="n"/></r></p></e>
+    <e><p><l>doalli<s n="n"/></l><r>tuállee<s n="n"/></r></p></e>
     <e><p><l>doalloovttadat<s n="n"/></l><r>toimâohtâdâh<s n="n"/></r></p></e>
     <e><p><l>doallu<s n="n"/></l><r>toimâohtâdâh<s n="n"/></r></p></e>
     <e><p><l>doalut<s n="n"/></l><r>piđoh<s n="n"/></r></p></e>
@@ -9235,6 +9236,7 @@
 
     <e><p><l>davábealde<s n="post"/></l><r>taavaabeln<s n="post"/></r></p></e>
     <e><p><l>davábealde<s n="adv"/></l><r>taavaabeln<s n="adv"/></r></p></e>
+    <e><p><l>duohkut<b/>deike<s n="adv"/></l><r>tuáhuteehin<s n="adv"/></r></p></e>
     <e><p><l>geardde<s n="adv"/></l><r>keerdi<s n="adv"/></r></p></e>
     <e><p><l>dušše<s n="adv"/></l><r>tuše<s n="adv"/></r></p></e>
     <e r="RL"><p><l>dušše<s n="adv"/></l><r>tuš<s n="adv"/></r></p></e>
