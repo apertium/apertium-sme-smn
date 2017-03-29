@@ -1343,9 +1343,6 @@ C[_]-T  sent
       <attr-item tags="sem_wpn"/>
       <attr-item tags="sem_wthr"/>
       <attr-item tags="sem_year"/>
-      <attr-item tags="top"/>
-      <attr-item tags="cog"/>
-      <attr-item tags="ant"/>
     </def-attr>
 
     <def-attr n="a_func">
