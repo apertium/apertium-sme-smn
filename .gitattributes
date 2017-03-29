@@ -80,6 +80,7 @@ dev/source_lists/fi_depts.freq -text
 dev/source_lists/sme_FI.freq -text
 dev/star-fi-report.freq -text
 dev/star-skuvla.freq -text
+dev/to-gtweb -text
 dix_pairs4manual_check/vblex_pairs.txt -text
 doc/gt2apertium.cg3r -text
 doc/objeaktafeaillat_mt.txt -text
