@@ -108,6 +108,47 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
 
+ <!-- loktanit -->
+  <rule weight="1.0">
+    <match lemma="loktanit" tags="vblex.*"><select lemma="luptâniđ" tags="vblex.*"/></match>
+  </rule>
+  
+  <rule weight="0.5">
+    <match lemma="loktanit" tags="vblex.*"><select lemma="pajaniđ" tags="vblex.*"/></match>
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="beaivi"/>
+    <match lemma="loktanit" tags="vblex.*"><select lemma="pajaniđ" tags="vblex.*"/></match>
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="beaivi"/>
+    <repeat upto="3"><seq n="word"/></repeat> <!-- 1-3 words -->
+    <match lemma="loktanit" tags="vblex.*"><select lemma="pajaniđ" tags="vblex.*"/></match>
+  </rule>
+
+ <!-- šurrat -->
+  <rule weight="1.0">
+    <match lemma="šurrat" tags="vblex.*"><select lemma="šuridiđ" tags="vblex.*"/></match>
+  </rule>
+  
+  <rule weight="0.5">
+    <match lemma="šurrat" tags="vblex.*"><select lemma="šuámbistiđ" tags="vblex.*"/></match>
+  </rule>
+
+  <rule weight="0.6">
+    <match tags="*.sem_hum.*"/>
+    <match lemma="šurrat" tags="vblex.*"><select lemma="šuámbistiđ" tags="vblex.*"/></match>
+  </rule>
+
+  <rule weight="0.6">
+    <match tags="*.sem_hum.*"/>
+    <repeat upto="3"><seq n="word"/></repeat> <!-- 1-3 words -->
+    <match lemma="šurrat" tags="vblex.*"><select lemma="šuámbistiđ" tags="vblex.*"/></match>
+  </rule>
+
+
 
   <!-- sápmi -->
   <rule weight="1.0">
@@ -899,7 +940,7 @@ Write comments to forthcoming rules before this line -->
     <match lemma="coggat">
       <select lemma="kárvudâttâđ"/>
     </match>
-    <repeat upto="3"><seq n="word"/></repeat>  <!-- 1-3 words -->
+    <repeat upto="3"><seq n="word"/></repeat> <!-- 1-3 words -->
    <match tags="n.sem_clth.*"/>  
   </rule>
 
