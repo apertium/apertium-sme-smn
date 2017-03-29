@@ -250,7 +250,18 @@ clean-local:
 ## Test
 ###############################################################################
 
-test: all
+test-install:
+	DESTDIR=tmp-$@ make install
+	find tmp-$@ -type f -name '*.mode' | xargs -r sed -i.tmp "s% '\($(prefix)\)% 'tmp-$@/\1%g"
+	echo "ja" | apertium -d tmp-$@/$(prefix)/share/apertium sme-smn | tee tmp-$@/mt
+	@echo "já" > tmp-$@/ref
+	@diff tmp-$@/ref tmp-$@/mt
+	echo "já" | apertium -d tmp-$@/$(prefix)/share/apertium smn-sme | tee tmp-$@/mt
+	@echo "ja" > tmp-$@/ref
+	@diff tmp-$@/ref tmp-$@/mt
+	@rm -rf tmp-$@
+
+test: all test-install
 	echo "ja" | apertium -d . sme-smn | tee .test-mt
 	@echo "já" > .test-ref
 	@diff .test-ref .test-mt
