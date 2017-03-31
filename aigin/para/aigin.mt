@@ -52,7 +52,7 @@ Láá kyehti nieidâ já ohtâ kaandâ.
 Ij täälgin addii Áigin maiden ko sárnuškyeteh/sárnuškyetih koskân.
 Kuláhân kal et sárnuh suomâkielâ, mut tom ij määti sun.
 "Kiähba tij leppeđ.
-Sárnuvetteđ-uv sämikielâ," koijâd Áigin  já kiäččá sii kuuvl.
+Sárnuvetteđ-uv sämikielâ," koijâd Áigin já kiäččá sii kuuvl.
 	Nubbe nieidâ västid et sun sárnu.
 	"Mun lam Sunná, kandâ lii Heammu já tuot nieidâ lii Tánnjá.
 Tánnjá sárnu anarâškielâ, mut Heammu ij määti sämikielâ.
@@ -168,10 +168,10 @@ Sun oro tubdâmin mottoom kaandâ, mut ij kiergân väldiđ čielgâs.
 Mudoi sun ij tuubdâ vissâ iärásijd, mut ij sun teđet tuubdâ nuuvt ennuv párnáid eres kuávluin.
 Tuše jieijâs škovlâviiljâid já -oobijd, já motomijd huolhijd kiäh oroh mäddin.
 	Motomeh párnááh láá kuhebeh ko iäráseh.
-Láá  mottoom čuovvâdvuoptâ, iäráseh láá sevŋisvoorah/sevŋâdisvoorah.
+Láá mottoom čuovvâdvuoptâ, iäráseh láá sevŋisvoorah/sevŋâdisvoorah.
 Puohah oroh lemin suullân/suulân ovttaboarrásat.
 Rävisulmuuh koččoh párnáid puáttiđ čuážžuđ paaldâ paldâluvâi siiguin.
-Te sij sirdesteh  nuuvt et oppeet taheh kiärdu.
+Te sij sirdesteh nuuvt et oppeet taheh kiärdu.
 Ton maŋa táttu Áhtoš-Antti puohâi oovtâi mield väzziđ kiärdu siisâ.
 Aalgâst ferttee ettâđ noomâ já muštâliđ kost lii meddâl.
 Tastoo kalga väzziđ pirrâ já tiervâttiđ jyehi áinoo párnáá já rävisulmuu.
@@ -237,7 +237,7 @@ Mut maht lii taat máhđulâš? Maht lii Pasevyeppee máhđulâš, maht lâi kir
 Manenba láá eidu suu valjim?
 Lii tegu Áhtoš-Antti lii kuullâm suu koččâmâš ko aitto tääl sun álgá čielgiđ valjiđ.
 "Mij lep kiävttám ennuv ääigi kavnâđ tii.
-Toi säämi kuávluin kost iä lah innig  nuáidih, láá kuorrâm majemui nooidij luodâi já kavnâm sii maajeeldpuáttee.
+Toi säämi kuávluin kost iä lah innig nuáidih, láá kuorrâm majemui nooidij luodâi já kavnâm sii maajeeldpuáttee.
 Tun Áigin muštâlih eidu kuáđist et tun lah máttármáttárádjá käimi kote ij vuálánâm kastuđ.
 Tun lah arbim suu naavcâid, sun lii tuu fáárust tääl já tun koolgah juátkiđ suu pargo.
 Jieht.
@@ -319,8 +319,8 @@ Loddebákti
 Viežžâđ šišnelaavhâid," iätá Áhtoš-Antti ko jyevdih maasâd kuátán.
  Párnááh finadastet siste já puátih vuod lavhâiguin olgos.
 Áhtoš-Antti iälá ton puudâ luovis kuáđi ovdiibeln viežžâmin mottoomlágán kuhes soobijd mast lii uccâ haavi suábbikeejist.
-Ánne-ákku vaazzâš  jo keppâ lavhijguin uárjás.
-“Loddebákti mij áigup  viežžâđ manneid,” Áhtoš-Aanti čielgii páárnáščurrui ko tomâlep ááhu maŋŋaal.
+Ánne-ákku vaazzâš jo keppâ lavhijguin uárjás.
+“Loddebákti mij áigup viežžâđ manneid,” Áhtoš-Aanti čielgii páárnáščurrui ko tomâlep ááhu maŋŋaal.
 Kuátisiijdâst vuálgá päälgis uárjás.
 Tot njiäjá dievážis juuvâšliähán suohis sieđgârođo čoođâ.
 Juuvâš uáinoo puátimin väärist já kolgá Pasevyeppei.
@@ -376,7 +376,7 @@ Tot lii sii vuoiŋâ eidu tegu ulmust já jyehi eres luonddugáhppálagas lii ji
 Sun itteeđ.”
 Áhtoš-Antti tiptá joskâdvuođâ vaikuttiđ párnáid, te juátká muštâlmist:
 ”Mottoom kandâ laavij eelliđ jävririddoost jieijâs pääihi alda ucâmin keđgivollâsijd.
-Sun kaavnâi toi  keeđgij kooskâst gáddeguoras.
+Sun kaavnâi toi keeđgij kooskâst gáddeguoras.
 Sun vaaldij taid kiddâ já tuolmâi toi tuše suottâsij tiet.
 Mottoom peeivi ko juovdâi jävririidon, te fakkist itteeđ maailm stuorrâ keđgivollâsâžân.
 Tot iiđij čáhcegierragis styeres tegu vuáŋŋáš já keejâi kaandân stuorrâ, iäddum čolmijguin.
@@ -421,7 +421,7 @@ Maht jis mun koočâm?" Áigin smiättá, mut sun ij eeđâ maiden.
 Čielgâsubboht kulá Áigin uápis jienâ.
 "Jieh tun taarbâš poollâđ iärrás ko paaloost".
 Áigin maidniigis kiäppán raddeest já sun nuáttu vuoiŋâhánnáá čiekŋalit.
-Sun tuáppee kuohtuid manneid várugávt  já njááhá maŋaskulij, čyežžil já mojonjalmij čáittá manneid iärásáid.
+Sun tuáppee kuohtuid manneid várugávt já njááhá maŋaskulij, čyežžil já mojonjalmij čáittá manneid iärásáid.
 Manneeh láá lieggâseh ko tuálá taid kieđâst já manneekorrâ oro val nuuvt lines.
 Ij koorâs tegu känimannest ko kalmettemskaapist viäžžá taid.
 Áigin addel nube mannee Biernii já nube Tástii.
@@ -431,7 +431,7 @@ Haavijn sun viäžžá manneid moh láá tobbeláá já piäjá taid huolâlâš
 Tást huámmáš et šišneseehâ tievâ láá syeinih já Áhtoš-Antti čielgee taid leđe nutkâm vâi manneeh iä cuovkkâlohhoon määđhist.
 Pajeláá juátká määđhi.
 Motomijn soojijn lii nuuvt ciägus et Áhtoš-Antti ferttee iđediđ párnáid.
-Duoppil tääbbin sij kävnih uđđâ peesijd jieijâs alda,  já motomijn soojijn ferttee Áhtoš-Antti vuod hoavastit manneid.
+Duoppil tääbbin sij kävnih uđđâ peesijd jieijâs alda, já motomijn soojijn ferttee Áhtoš-Antti vuod hoavastit manneid.
 Skierrit stuullâp já šlupmet.
 Motomeh viggeh volliittiđ ulmuid, puohčâliđ ááimu čoođâ já jurgâleh muádlov senttid meddâl párnáid uáivist.
 Te baiket.
@@ -493,7 +493,7 @@ Ij iššeed smiettâđ et ij koolgâ poollâđ.
 Tääl lii jieggâeeđeest.
 	
 kyehti kievrâs kieđâ orostittep suu mätki.
-Áhtoš-Antti čuážžu  rievtis pääihist.
+Áhtoš-Antti čuážžu rievtis pääihist.
 Sun tuástoon Áigin jieijâs rummâšáin.
 Tuálá suu čavgasit já luáštá kaandâ enâmân.
 "Luhopittá et tust ij lamaš manneesekkâ.
@@ -520,8 +520,8 @@ Tuše uddo ruškáá tobbeen kost hävvi lâi.
 	"Lâi fastes hävvi.
 Harvii tarbâšâm kuohtii ettâđ," eettâl Áhtoš-Antti.
 Loppâmätki ij lah aalgâgin nuuvt väädis, já forgâ láá sij juovdâm vuálos.
-Ánne-ááhu  juávkku lii jo kiergânâm toho kost iäránii toolááš.
-Heammu lii šišneest  ráhtám šlenggona.
+Ánne-ááhu juávkku lii jo kiergânâm toho kost iäránii toolááš.
+Heammu lii šišneest ráhtám šlenggona.
 Tääl sun máttát Tánnjá kuáhtás Sunná maht tain kalga bálkut keeđgijd.
 Sun povvust já čielgeen nieidâkuáhtásân et ferttiv ennuv hárjuttâllâđ šoddâđ siämmáá čeppi ko sun jieš.
 Tást muštâlškuát mii lii tábáhtum jo ovdilgo sun lii juovdâm enâmân.
@@ -633,7 +633,7 @@ Tást lii meid kavnâm sunjin ráhtám tyeje.
 Suoi kuovlâv kuhháá jávuttáá šišnelavháid.
 "Govádâs," sovkkâl viijmâg Biernie.
 Iäráseh párnááh västideh tuše: "Mhm".
-Sij loptejeh govádâs meddâl laavhâst,  já Áigin njávká muorâraami.
+Sij loptejeh govádâs meddâl laavhâst, já Áigin njávká muorâraami.
 Tot lii livttis.
 Govádâs muorâraami oolâ lii kuárrum šišne čovgâdub kiddâ.
 Toos lii vuod máálám njuolgâdis sárgáid já meerhâid ruopsis maalâin.
@@ -718,7 +718,7 @@ Tást jurgâl suu kuuvl já iätá et "nuuvt lii tuu govádâs já Biernie meid"
 	Áigin tobdá et lii ánuhánnáá uážžum addâgâs já unohis tobdo láppoo čuávjist.
 Áhtoš-Antti juátká máttáátmist.
 "Te vuod tii vuáru.
-Tađe paab ij lah helikopter sargum/sáárgum govádâs, mut mij keččâlep maid tij nahciivetteđ ton  ennustiđ." 
+Tađe paab ij lah helikopter sargum/sáárgum govádâs, mut mij keččâlep maid tij nahciivetteđ ton ennustiđ." 
 Tást piäsá älgiđ.
 Sun lii jo oppâm juoigâm nuotâ já hurijdškuát čehpet.
 Siämmáá älkkee ij lah terppâđ.
@@ -758,7 +758,7 @@ Tunnusthân šadda leđe pivdemlukko," västid Áhtoš-Antti.
 Sehe tun já iäráseh.
 Mij pyehtip vyelgiđ itten ko lii joskâm arvimis," iätá Áhtoš-Antti.
 Peeivi kuullâđ ennustmáid.
-Maht kalga addiđ ruumbu ravvuid?  Olgon juátká arvimis.
+Maht kalga addiđ ruumbu ravvuid? Olgon juátká arvimis.
 Guovdelas peeivi val lii sevŋâd tegu skammâpeeivi.
 Esken ehidist fierttee já piäiváš páštá vuod tavveen meerâ paijeel.
  
@@ -1088,13 +1088,13 @@ Hirmâdis larmâ kiäppán já jaskkoda ovdil ko innoomsnjirgom paijaan uđđâs
 Áigin uáiná Áhtoš-Aanti suorgânâm muáđuid, já illá tääl tuástá kuovllistiđ káárbásroobdâ/kärbisroobdâ paijeel.
 Ij lah mihheen iäpádâsâid.
 Meerâst lii iđestâm ellee.
-Tot vuájá čáhcegierragis tegu kyevdi  já stuhčče čääsi uánihis, ruánáá kieđâiguin.
+Tot vuájá čáhcegierragis tegu kyevdi já stuhčče čääsi uánihis, ruánáá kieđâiguin.
 Mákkojeen stuorrâ, fastes uáivi já kiäččá kárbáid já ulmuid.
 Tot rusod alme vuástá já jienâd oppeet jieijâs komáliist ino snjirgomijn.
 Párnááh tuálih kieđâid peeljij oovdâst suojâliđ jieijâs kavhâdis korrâ jienâ vuástá.
 Kiinii snuđđá paaloost.
 Áhtoš-Antti-uv lii šovkkodan.
-Ko ellee uánihávt jaska rikkeremis, te sun sovkkâl vyeligis, tuođâlijn jienâin:  "Lii merâkyevdi.
+Ko ellee uánihávt jaska rikkeremis, te sun sovkkâl vyeligis, tuođâlijn jienâin: "Lii merâkyevdi.
 Mij ferttip tállán riidon."
 Sun siävá Áigin jieijâs luusâ mielsuhkkin, já te suoi suvâškyettiv kuhes, kievrâs nuáttumijguin meddâl merâkyevdist.
 Suládiđ maainâš Áhtoš-Antti guovddi kuálásteijee iššeen veikkâ puáhtá meid leđe uáli jiešlágán.
@@ -1111,7 +1111,7 @@ Ij mihheen šoŋŋâmeerhâid lah čäittimin iärrás ko nánnáás šooŋâ.
 Guovdi kal lii moinii iärrás váárutmin.
 Mun ferttiim ráđádâllâđ eres rävisulmuiguin.”
 	
-Riddoost čuállejeh kuolijd, doidet toi meerâst  já kurppoh toi ullirájá paajaabeln.
+Riddoost čuállejeh kuolijd, doidet toi meerâst já kurppoh toi ullirájá paajaabeln.
 Iäráseh kiäh iä lah lamaš meerâ alne, puátih viežžâđ vuoššâmkyele já kuullâđ saavâid.
 Sij láá meid kuullâm merâkyevdi já láá sahâkoškoost.
 Áhtoš-Antti ij haalijd ulguubeln muštâliđ.
@@ -1157,14 +1157,14 @@ Mut maidba merâkyevdi keččâl muštâliđ sijjân?
 "Kost poođij, já kuus moonâi?" koijâd Iskku-Guvji kote lii Johán kuáđi hovdâ.
 	
 Áhtoš-Aanti já Ánne-ákku keččâv kuhháá kuábáš-uv kuáimásis ovdilgo Ánne-ákku seelvât čudduu já västidškuát: 
-"Tot poođij meerâst já  iđestij nuppelot meetter meddâl mii káárbásroobdâst/kärbisroobdâst.
+"Tot poođij meerâst já iđestij nuppelot meetter meddâl mii káárbásroobdâst/kärbisroobdâst.
 Tot vuojâi nuuvt alda et ooinijm puoh pastelis paanijd já suálsi mii kuulgâi njäälmist.
 Vuojâččij tastoo meddâl, deaškalii seeibi meerân nuuvt et turgedij čääsi mii oolâ.
 jurgâlij já kuovlâi melgâd kuohtui kárbáid.
 Tastoo jurâttij uáivi já vuojâi masa kiddâ Guhkesnjárga ovdilgo puohčâlij já lappui."
 Rävisulmuuh šuáhkádeh lussâdávt: “Vuoi ij, vuoi ij.
 Kiddâ Guhkesnjárga," västid Iskku-Guvji.
-Sun bárdá uáivi já leškee kyeliliemâ tullâsajan: “Sáráhkká,”  sun sovkkâl.
+Sun bárdá uáivi já leškee kyeliliemâ tullâsajan: “Sáráhkká,” sun sovkkâl.
 Nissoonimelân kote varjâl nisonijd.
 Áigin ij addii maiden.
 Sun tiätá et lii ennuv maid sun ij tieđe taan komálii maailmist kuus lii juovdâm.
@@ -1175,7 +1175,7 @@ Sun tobdá avâštâsâstis et lii tuođâlâš äšši, mut mon hirmâdis tuođ
 	Áhtoš-Antti juurrâđ čokkámsaajeest já kiäččá Ánne-áákun kote čokkáá puášu nube peln.
 Almai tiäddá vuollebaksama pajepoksâm vuástá já kiäččá tuulân.
 Ánne-ákku kuoskât jieijâs kaandâ uálgátuáivi já ruvvee tom.
-Te Áhtoš-Antti kiäččá  párnáid já hiimeet.
+Te Áhtoš-Antti kiäččá párnáid já hiimeet.
 Sun áigu ettâđ maidnii.
 "Šadda váhá puástud, já lii váhá meendu toolááš muštâliđ tijjân taam maid mun ááigum muštâliđ tääl.
 Liččijm esken keesi loopâst kalgeh muštâliđ taam.
@@ -1249,7 +1249,7 @@ Suoi vilpâstává tuše nuubán, já kaččâlává Guhkesnjárga kuuvl.
 Lii mučis kesiijjâ.
 Kuálkki.
 Piäiváš páštá tavveen stuorrâ meerâ paijeel.
-Ko Áigin-kyevtis  kaččâv kuolbân mield te suoi puáttiv forgâ dievá suoivui.
+Ko Áigin-kyevtis kaččâv kuolbân mield te suoi puáttiv forgâ dievá suoivui.
 Suoi njuškov vielti pajas já dievá oolâ.
 Tobbeen piäivášgis päštiškuát njuolgâdis muáđui vuástá.
 Suoi iävá uáini moigin, mut iävá peerust.
