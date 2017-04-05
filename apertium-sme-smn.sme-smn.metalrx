@@ -143,7 +143,10 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.6">
-    <match tags="*.sem_hum.*"/>
+    <or>
+      <match tags="*.sem_hum.*"/>
+      <match tags="prn.*"/>
+    </or>
     <repeat upto="3"><seq n="word"/></repeat> <!-- 1-3 words -->
     <match lemma="šurrat" tags="vblex.*"><select lemma="šuámbistiđ" tags="vblex.*"/></match>
   </rule>
