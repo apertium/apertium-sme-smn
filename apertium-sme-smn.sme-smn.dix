@@ -951,7 +951,7 @@
     <e><p><l>iešráhkis<s n="adj"/></l><r>jiešräähis<s n="adj"/></r></p></e>
     <e><p><l>iešstivrejeaddji<s n="adj"/></l><r>jiešstivrejeijee<s n="adj"/></r></p></e>
     <e><p><l>iežálágan<s n="adj"/></l><r>jiešlágán<s n="adj"/></r></p></e>
-    <e><p><l>ihttáš<s n="adj"/></l><r>ittááš<s n="adj"/></r></p></e>
+    <e><p><l>ihttáš<s n="adj"/></l><r>ittáš<s n="adj"/></r></p></e>
     <e><p><l>ilgadit<s n="adj"/></l><r>ilgâdávt<s n="adj"/></r></p></e>
     <e><p><l>ilgat<s n="adj"/></l><r>ilgâd<s n="adj"/></r></p></e>
     <e><p><l>ilolaš<s n="adj"/></l><r>ilolâš<s n="adj"/></r></p></e>
@@ -1157,6 +1157,17 @@
 
 <!-- the building complex: -->
     <e><p><l>dállu<s n="n"/></l><r>táálu<s n="n"/></r></p></e>
+    <e><p><l>oađđadagat<s n="n"/></l><r>uáđáduvah<s n="n"/></r></p></e>
+    <e><p><l>skoaddu<s n="n"/></l><r>miärkká<s n="n"/></r></p></e>
+    <e><p><l>minarehta<s n="n"/></l><r>minareet<s n="n"/></r></p></e>
+    <e><p><l>bunci<s n="n"/></l><r>puncce<s n="n"/></r></p></e>
+    <e><p><l>noveallačoakkáldat<s n="n"/></l><r>nooveelčuágáldâh<s n="n"/></r></p></e>
+    <e><p><l>gurpi<s n="n"/></l><r>kurppe<s n="n"/></r></p></e>
+    <e><p><l>biidnu<s n="n"/></l><r>pijne<s n="n"/></r></p></e>
+    <e><p><l>fievrru<s n="n"/></l><r>fiävru<s n="n"/></r></p></e>
+    <e><p><l>hiitta<s n="n"/></l><r>ištâmeh<s n="n"/><s n="pl"/></r></p></e>
+    
+    <e><p><l>streassa<s n="n"/></l><r>stressi<s n="n"/></r></p></e>
     <e r="LR"><p><l>ladni<s n="n"/></l><r>lanne<s n="n"/></r></p></e>
     <e r="LR"><p><l>moskea<s n="n"/></l><r>moskeija<s n="n"/></r></p></e>
     <e r="LR"><p><l>viessu<s n="n"/></l><r>táálu<s n="n"/></r></p></e>
@@ -4034,6 +4045,13 @@
     
     <e><p><l>nuoskidit<s n="vblex"/><s n="tv"/></l><r>nyeskidiđ<s n="vblex"/></r></p></e>
     <e><p><l>gievvut<s n="vblex"/><s n="iv"/></l><r>kiävuliđ<s n="vblex"/></r></p></e>
+    <e><p><l>huikkašit<s n="vblex"/><s n="tv"/></l><r>čuárvudâttâđ<s n="vblex"/></r></p></e>
+    <e><p><l>meaddit<s n="vblex"/><s n="iv"/></l><r>feiliđ<s n="vblex"/></r></p></e>
+    <e><p><l>cuiget<s n="vblex"/><s n="iv"/></l><r>cuoigiđ<s n="vblex"/></r></p></e>
+    <e><p><l>geahpehit<s n="vblex"/><s n="iv"/></l><r>kiäpásmiđ<s n="vblex"/></r></p></e>
+    <e><p><l>nollihit<s n="vblex"/><s n="iv"/></l><r>hutâgiđ<s n="vblex"/></r></p></e>
+    <e><p><l>smartet<s n="vblex"/><s n="tv"/></l><r>sälbidiđ<s n="vblex"/></r></p></e>
+    <e><p><l>šavihit<s n="vblex"/><s n="iv"/></l><r>rocâliđ<s n="vblex"/></r></p></e> <!-- XXX missing in sme -->
     
     <e><p><l>buhtistit<s n="vblex"/><s n="tv"/></l><r>putestiđ<s n="vblex"/></r></p></e>
     <e><p><l>gužžat<s n="vblex"/><s n="tv"/></l><r>kužžâđ<s n="vblex"/></r></p></e>
@@ -7617,7 +7635,7 @@
     <e><p><l>unnitlogugiella<s n="n"/></l><r>ucceeblovokielâ<s n="n"/></r></p></e>
     <e><p><l>unnitlohku<s n="n"/></l><r>ucceebloho<s n="n"/></r></p></e>
     <e><p><l>urbi<s n="n"/></l><r>urbe<s n="n"/></r></p></e>
-    <e><p><l>urbil<s n="n"/></l><r>urbiâš<s n="n"/></r></p></e>
+    <e><p><l>urbil<s n="n"/></l><r>urbijâš<s n="n"/></r></p></e>
     <e><p><l>uskealla<s n="n"/></l><r>riggeerim<s n="n"/></r></p></e>
     <e><p><l>ustit<s n="n"/></l><r>ustev<s n="n"/></r></p></e>
     <e><p><l>ustitvuohta<s n="n"/></l><r>ustevvuotâ<s n="n"/></r></p></e>
