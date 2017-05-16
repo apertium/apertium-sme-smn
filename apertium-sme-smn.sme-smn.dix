@@ -65,6 +65,10 @@
     <sdef n="rel" c="Relative"/>
     <sdef n="ind" c="Indefinite"/>
     
+    <sdef n="clb" c="puctuation"/>
+    <sdef n="punct" c="puctuation"/>
+    <sdef n="lquot" c="puctuation"/>
+    <sdef n="rquot" c="puctuation"/>
     <sdef n="sent" c="Sentence marker"/>
     <sdef n="quot" c="Quotation mark"/>
     <sdef n="cm" c="Comma"/>
@@ -4045,6 +4049,7 @@
     
     <e><p><l>nuoskidit<s n="vblex"/><s n="tv"/></l><r>nyeskidiđ<s n="vblex"/></r></p></e>
     <e><p><l>gievvut<s n="vblex"/><s n="iv"/></l><r>kiävuliđ<s n="vblex"/></r></p></e>
+    <e><p><l>huikkádallat<s n="vblex"/><s n="iv"/></l><r>huihádâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>huikkašit<s n="vblex"/><s n="tv"/></l><r>čuárvudâttâđ<s n="vblex"/></r></p></e>
     <e><p><l>meaddit<s n="vblex"/><s n="iv"/></l><r>feiliđ<s n="vblex"/></r></p></e>
     <e><p><l>cuiget<s n="vblex"/><s n="iv"/></l><r>cuoigiđ<s n="vblex"/></r></p></e>
@@ -4468,7 +4473,13 @@
 
     <!-- ASECTION: Punctuation -->
 
+	<e r="LR"><p><l>❡<s n="clb"/></l><r></r></p></e>
+	<e r="LR"><p><l>❡<s n="sent"/></l><r></r></p></e>
+	<e><p><l>–<s n="punct"/></l><r>–<s n="sent"/></r></p></e>
+    <e><p><l>«<s n="lquot"/></l><r>«<s n="lquot"/></r></p></e>
+    <e><p><l>»<s n="rquot"/></l><r>»<s n="rquot"/></r></p></e>
     <e><re>[.\?:;!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+    <e><p><l>–<s n="punct"/></l><r>–<s n="sent"/></r></p></e>
     <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
     <e><p><l>"<s n="quot"/></l><r>"<s n="quot"/></r></p></e>
     <e><re>[0-9]+([:'\-–—/  .,][0-9]+)*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
