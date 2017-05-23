@@ -1251,6 +1251,7 @@ C[_]-T  sent
       <attr-item tags="sem_game"/>
       <attr-item tags="sem_game_obj-play"/>
       <attr-item tags="sem_geom"/>
+      <attr-item tags="sem_geom_hum_plc"/>
       <attr-item tags="sem_geom_obj"/>
       <attr-item tags="sem_group"/>
       <attr-item tags="sem_group_hum"/>
@@ -1269,6 +1270,7 @@ C[_]-T  sent
       <attr-item tags="sem_hum_org"/>
       <attr-item tags="sem_hum_plant"/>
       <attr-item tags="sem_hum_plc"/>
+      <attr-item tags="sem_hum_sign"/>
       <attr-item tags="sem_hum_tool"/>
       <attr-item tags="sem_hum_veh"/>
       <attr-item tags="sem_hum_wthr"/>
@@ -1284,6 +1286,7 @@ C[_]-T  sent
       <attr-item tags="sem_measr_time"/>
       <attr-item tags="sem_money"/>
       <attr-item tags="sem_money_obj"/>
+      <attr-item tags="sem_money_part"/>
       <attr-item tags="sem_money_txt"/>
       <attr-item tags="sem_obj"/>
       <attr-item tags="sem_obj-clo"/>
@@ -1295,6 +1298,7 @@ C[_]-T  sent
       <attr-item tags="sem_obj-rope"/>
       <attr-item tags="sem_obj-surfc"/>
       <attr-item tags="sem_obj_semcon"/>
+      <attr-item tags="sem_obj_sign"/>
       <attr-item tags="sem_obj_state"/>
       <attr-item tags="sem_org"/>
       <attr-item tags="sem_org_prod-cogn"/>
