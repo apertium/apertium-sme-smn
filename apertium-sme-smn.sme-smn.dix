@@ -1568,7 +1568,7 @@
     <e><p><l>vs<s n="adj"/><s n="abbr"/></l><r>vs<s n="adj"/><s n="abbr"/></r></p></e>
 
     <!--    <e><p><l>bve<s n="n"/><s n="abbr"/></l><r>peivi<s n="n"/></r></p></e>-->
-    <e r="LR"><p><l>bve<s n="adv"/><s n="abbr"/></l><r/></p></e>	 
+    <e r="LR"><p><l>bve<s n="adv"/><s n="abbr"/></l><r/></p></e>     
 
 
     <e><p><l>badjeskuvla<s n="n"/></l><r>paješkovlâ<s n="n"/></r></p></e>
@@ -2352,15 +2352,15 @@
 <!--    <e><p><l>Biret<s n="np"/></l><r>Piirit<s n="np"/></r></p></e>   -->
 <!--    <e><p><l>Duomis<s n="np"/></l><r>Tyemes<s n="np"/></r></p></e>  -->
 <!--    <e><p><l>Duommá<s n="np"/></l><r>Tyemes<s n="np"/></r></p></e>  -->
-<!--    <e><p><l>Elle<s n="np"/></l><r>Elli<s n="np"/></r></p></e> 	    -->
+<!--    <e><p><l>Elle<s n="np"/></l><r>Elli<s n="np"/></r></p></e>         -->
 <!--    <e><p><l>Juhán<s n="np"/></l><r>Juhháán<s n="np"/></r></p></e>  -->
 <!--    <e><p><l>Máhtte<s n="np"/></l><r>Matti<s n="np"/></r></p></e>   -->
 <!--    <e><p><l>Máret<s n="np"/></l><r>Maarit<s n="np"/></r></p></e>   -->
 <!--    <e><p><l>Niillas<s n="np"/></l><r>Nijlâs<s n="np"/></r></p></e> -->
 <!--    <e><p><l>Piera<s n="np"/></l><r>Piera<s n="np"/></r></p></e>    -->
-<!--    <e><p><l>Ánde<s n="np"/></l><r>Ande<s n="np"/></r></p></e> 	    -->
-<!--    <e><p><l>Ánne<s n="np"/></l><r>Ánná<s n="np"/></r></p></e> 	    -->
-<!--    <e><p><l>Ánte<s n="np"/></l><r>Ande<s n="np"/></r></p></e> 	    -->
+<!--    <e><p><l>Ánde<s n="np"/></l><r>Ande<s n="np"/></r></p></e>         -->
+<!--    <e><p><l>Ánne<s n="np"/></l><r>Ánná<s n="np"/></r></p></e>         -->
+<!--    <e><p><l>Ánte<s n="np"/></l><r>Ande<s n="np"/></r></p></e>         -->
 <!--    <e><p><l>Jovna<s n="np"/></l><r>Jovnâ<s n="np"/></r></p></e>    -->
     
     
@@ -4473,9 +4473,9 @@
 
     <!-- ASECTION: Punctuation -->
 
-	<e r="LR"><p><l>❡<s n="clb"/></l><r></r></p></e>
-	<e r="LR"><p><l>❡<s n="sent"/></l><r></r></p></e>
-	<e><p><l>–<s n="punct"/></l><r>–<s n="sent"/></r></p></e>
+    <e r="LR"><p><l>❡<s n="clb"/></l><r></r></p></e>
+    <e r="LR"><p><l>❡<s n="sent"/></l><r></r></p></e>
+    <e><p><l>–<s n="punct"/></l><r>–<s n="sent"/></r></p></e>
     <e><p><l>«<s n="lquot"/></l><r>«<s n="lquot"/></r></p></e>
     <e><p><l>»<s n="rquot"/></l><r>»<s n="rquot"/></r></p></e>
     <e><re>[.\?:;!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
