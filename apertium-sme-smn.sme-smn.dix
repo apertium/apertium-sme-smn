@@ -1163,6 +1163,10 @@
     <e><p><l>dállu<s n="n"/></l><r>táálu<s n="n"/></r></p></e>
     <e><p><l>čiehká<s n="n"/></l><r>aarni<s n="n"/></r></p></e>
     <e><p><l>govus<s n="n"/></l><r>sáárgus<s n="n"/></r></p></e>
+    <e><p><l>farao<s n="n"/></l><r>faarao<s n="n"/></r></p></e>
+    <e><p><l>pyramiida<s n="n"/></l><r>pyramid<s n="n"/></r></p></e>
+    <e><p><l>viikiŋŋa<s n="n"/></l><r>viikiŋg<s n="n"/></r></p></e>
+    <e><p><l>hutkkus<s n="n"/></l><r>hutkos<s n="n"/></r></p></e>
     
 
     <e><p><l>oađđadagat<s n="n"/></l><r>uáđáduvah<s n="n"/></r></p></e>
@@ -2369,6 +2373,15 @@
     
     <!-- ASECTION: Proper nouns sme-person names x=x -->
     <e><p><l>Tást<s n="np"/></l><r>Tást<s n="np"/></r></p></e>
+    <e><p><l>Tutankhamon<s n="np"/></l><r>Tutankhamon<s n="np"/></r></p></e>
+    <e><p><l>Tollund<s n="np"/></l><r>Tollund<b/><s n="np"/></r></p></e>
+    <e><p><l>Niili<s n="np"/></l><r>Niili<s n="np"/></r></p></e>
+    <e><p><l>Regin<s n="np"/></l><r>Regin<s n="np"/></r></p></e>
+    <e><p><l>Ptahor<s n="np"/></l><r>Ptahor<s n="np"/></r></p></e>
+    <e><p><l>Hammurabi<s n="np"/></l><r>Hammurabi<s n="np"/></r></p></e>
+    <e><p><l>Taticus<s n="np"/></l><r>Taticus<s n="np"/></r></p></e>
+    <e><p><l>Carnarvon<s n="np"/></l><r>Carnarvon<s n="np"/></r></p></e>
+
     <e><p><l>Alakulppi<s n="np"/></l><r>Alakulppi<s n="np"/></r></p></e>
     <e><p><l>Eräkummit<s n="np"/></l><r>Eräkummit<s n="np"/></r></p></e>
     <e><p><l>Ara<s n="np"/></l><r>Ara<s n="np"/></r></p></e>    
@@ -4078,6 +4091,7 @@
     <e><p><l>duššadit<s n="vblex"/><s n="tv"/></l><r>tuššâdiđ<s n="vblex"/></r></p></e>
     <e><p><l>jearahallat<s n="vblex"/><s n="tv"/></l><r>sahhiittâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>máŋget<s n="vblex"/><s n="tv"/></l><r>kopijistiđ<s n="vblex"/></r></p></e>
+    <e><p><l>gilvid<s n="vblex"/><s n="tv"/></l><r>kalveđ<s n="vblex"/></r></p></e>
     
     <e><p><l>ođadit<s n="vblex"/><s n="tv"/></l><r>uđâsmiđ<s n="vblex"/></r></p></e>
     <e><p><l>bálkkašit<s n="vblex"/><s n="tv"/></l><r>palhâšiđ<s n="vblex"/></r></p></e>
@@ -5124,7 +5138,7 @@
     <e><p><l>ámmátlaš<s n="adj"/></l><r>áámmátlâš<s n="adj"/></r></p></e>
     <e><p><l>ánssolaš<s n="adj"/></l><r>ánsulâš<s n="adj"/></r></p></e>
     <e><p><l>árgi<s n="adj"/></l><r>ärgi<s n="adj"/></r></p></e>
-    <e><p><l>árrat<s n="adj"/></l><r>toolááš<s n="adj"/></r></p></e>
+    <e><p><l>árrat<s n="adj"/></l><r>aarrâd<s n="adj"/></r></p></e>
     <e><p><l>ártet<s n="adj"/></l><r>komálâš<s n="adj"/></r></p></e>
     <e><p><l>árvosaš<s n="adj"/></l><r>árvusâš<s n="adj"/></r></p></e>
     <e><p><l>árvvolaš<s n="adj"/></l><r>mávsulâš<s n="adj"/></r></p></e>
