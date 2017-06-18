@@ -2374,7 +2374,7 @@
     <!-- ASECTION: Proper nouns sme-person names x=x -->
     <e><p><l>Tást<s n="np"/></l><r>Tást<s n="np"/></r></p></e>
     <e><p><l>Tutankhamon<s n="np"/></l><r>Tutankhamon<s n="np"/></r></p></e>
-    <e><p><l>Tollund<s n="np"/></l><r>Tollund<b/><s n="np"/></r></p></e>
+    <e><p><l>Tollund<s n="np"/></l><r>Tollund<s n="np"/></r></p></e>
     <e><p><l>Niili<s n="np"/></l><r>Niili<s n="np"/></r></p></e>
     <e><p><l>Regin<s n="np"/></l><r>Regin<s n="np"/></r></p></e>
     <e><p><l>Ptahor<s n="np"/></l><r>Ptahor<s n="np"/></r></p></e>
@@ -4092,6 +4092,7 @@
     <e><p><l>jearahallat<s n="vblex"/><s n="tv"/></l><r>sahhiittâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>máŋget<s n="vblex"/><s n="tv"/></l><r>kopijistiđ<s n="vblex"/></r></p></e>
     <e><p><l>gilvid<s n="vblex"/><s n="tv"/></l><r>kalveđ<s n="vblex"/></r></p></e>
+    <e><p><l>dadjalit<s n="vblex"/><s n="tv"/></l><r>ettâđ<s n="vblex"/></r></p></e> <!-- meaning of l-derivation not fixed XXX -->
     
     <e><p><l>ođadit<s n="vblex"/><s n="tv"/></l><r>uđâsmiđ<s n="vblex"/></r></p></e>
     <e><p><l>bálkkašit<s n="vblex"/><s n="tv"/></l><r>palhâšiđ<s n="vblex"/></r></p></e>
