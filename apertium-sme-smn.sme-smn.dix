@@ -8526,7 +8526,7 @@
     <e><p><l>vuovssadit<s n="vblex"/><s n="iv"/></l><r>vyeksiđ<s n="vblex"/></r></p></e>
     <e><p><l>vuođgŋit<s n="vblex"/><s n="tv"/></l><r>perttuđ<s n="vblex"/></r></p></e>
     <e><p><l>vuođđudit<s n="vblex"/><s n="tv"/></l><r>vuáđudiđ<s n="vblex"/></r></p></e>
-    <e><p><l>váikkuhit<s n="vblex"/><s n="iv"/></l><r>vaikuttiđ<s n="vblex"/></r></p></e>
+    <e><p><l>váikkuhit<s n="vblex"/><s n="iv"/></l><r>vaiguttiđ<s n="vblex"/></r></p></e>
     <e><p><l>válddahit<s n="vblex"/><s n="tv"/></l><r>kuvviđ<s n="vblex"/></r></p></e>
     <e><p><l>válddihit<s n="vblex"/><s n="tv"/></l><r>väldittiđ<s n="vblex"/></r></p></e>
     <e><p><l>váldáladdat<s n="vblex"/><s n="tv"/></l><r>hámssuđ<s n="vblex"/></r></p></e>
@@ -8560,7 +8560,7 @@
     <e><p><l>čoppaldit<s n="vblex"/><s n="tv"/></l><r>njalčattiđ<s n="vblex"/></r></p></e>
     <e><p><l>čorpmastallat<s n="vblex"/><s n="tv"/></l><r>čurmâdâttâđ<s n="vblex"/></r></p></e>
     <e><p><l>čuohcat<s n="vblex"/><s n="iv"/></l><r>čyecciđ<s n="vblex"/></r></p></e>
-    <e><p><l>čuohcit<s n="vblex"/><s n="iv"/></l><r>vaikuttiđ<s n="vblex"/></r></p></e>
+    <e><p><l>čuohcit<s n="vblex"/><s n="iv"/></l><r>vaiguttiđ<s n="vblex"/></r></p></e>
     <e><p><l>čuohkat<s n="vblex"/><s n="tv"/></l><r>čuohâđ<s n="vblex"/></r></p></e>
     <e><p><l>čuoiggahit<s n="vblex"/><s n="tv"/></l><r>čuoigâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>čuovggahuvvat<s n="vblex"/><s n="iv"/></l><r>čalmettuđ<s n="vblex"/></r></p></e>
@@ -9576,10 +9576,10 @@
     <e><p><l>mánáidmánná<s n="n"/></l><r>párnáipáárnáš<s n="n"/></r></p></e><!-- Neeta tivvom taan räi -->
     <e><p><l>mánáidmánná<s n="n"/></l><r>áijuh<s n="n"/></r></p></e> <!-- lex sel -->
     <e><p><l>mánáidmánná<s n="n"/></l><r>ákkuv<s n="n"/></r></p></e> <!--  lex sel -->
-    <e><p><l>fylkkagielda<s n="n"/></l><r>lääni<s n="n"/></r></p></e><!-- Miina tivvom tast ovdâskulij -->
+    <e><p><l>fylkkagielda<s n="n"/></l><r>lääni²<s n="n"/></r></p></e><!-- Miina tivvom tast ovdâskulij -->
     <e><p><l>válgabeaivi<s n="n"/></l><r>vaaljâpeivi<s n="n"/></r></p></e>
     <e><p><l>joatkkaskuvla<s n="n"/></l><r>jotkâškovlâ<s n="n"/></r></p></e>
-    <e><p><l>fylkkasuohkan<s n="n"/></l><r>lääni<s n="n"/></r></p></e>
+    <e><p><l>fylkkasuohkan<s n="n"/></l><r>lääni²<s n="n"/></r></p></e>
     <e><p><l>suohkan<s n="n"/></l><r>kieldâ<s n="n"/></r></p></e>
     <e><p><l>alitrássi<s n="n"/></l><r>puáriskállárääsi<s n="n"/></r></p></e> <!-- check -->
     <e><p><l>alitrássi<s n="n"/></l><r>čuovjisrääsi<s n="n"/></r></p></e> <!-- check -->
@@ -9834,7 +9834,7 @@
 <!--    <e><p><l>fearga<s n="n"/></l><r>ivne<s n="n"/></r></p></e>-->
     <e><p><l>fearga<s n="n"/></l><r>puárree<s n="n"/></r></p></e>
     <e><p><l>feasta<s n="n"/></l><r>juhle<s n="n"/></r></p></e>
-    <e><p><l>fylka<s n="n"/></l><r>lääni<s n="n"/></r></p></e>
+    <e><p><l>fylka<s n="n"/></l><r>lääni²<s n="n"/></r></p></e>
     <e><p><l>fárta<s n="n"/></l><r>liähtu<s n="n"/></r></p></e>
     <e><p><l>gietkka<s n="n"/></l><r>kietkâm<s n="n"/></r></p></e>
     <e><p><l>goahtemuorra<s n="n"/></l><r>ruođâ<s n="n"/></r></p></e>
