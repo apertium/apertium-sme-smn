@@ -116,6 +116,7 @@ C[DT]-ADV  almmá-adv attr H_advl
 C[DT]-ADV  almmá_adv H_advl
 C[T]-ADV  dálá_adj a_adv_comp
 C[DT]-ADV  almmá_adv attr n_sg_pl_gen haga_post
+C[DT]-ADV  almmá_adv attr prn_gen haga_post
 C[L]-ADV  adv
  
 Rules for P phrases:
@@ -863,6 +864,10 @@ C[_]-T  sent
       <cat-item tags="prn.itg.pl.com.*"/>
       <cat-item tags="prn.ind.pl.com.*"/>
       <cat-item tags="prn.rel.pl.com.*"/>
+    </def-cat>
+    <def-cat n="prn_gen">
+      <cat-item tags="prn.pers.*.sg.gen.*"/>
+      <cat-item tags="prn.pers.*.pl.gen.*"/>
     </def-cat>
 
     <def-cat n="prn_ind_dem">
@@ -2975,6 +2980,31 @@ C[_]-T  sent
     <rule comment="C[DT]-PP  n_sg_pl_gen haga_post" c="Sii manne gápmagiid haga olggos. : Te monnii kammuittáá olgos.">
       <pattern>
         <pattern-item n="n_sg_pl_gen"/>
+        <pattern-item n="haga_post"/>
+      </pattern>
+      <action>
+        <call-macro n="remove-semtag-1Param"><with-param pos="1"/></call-macro>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_case"/><lit-tag v="abe"/></let>
+        <let><clip pos="2" side="tl" part="whole"/><lit v=""/></let>
+	    <out>
+          <chunk name="n">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="tags"/>
+	        </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="C[DT]-PP  prn_gen haga_post" c="Sii manne du haga olggos. : Te monnii tuuttáá olgos.">
+      <pattern>
+        <pattern-item n="prn_gen"/>
         <pattern-item n="haga_post"/>
       </pattern>
       <action>
