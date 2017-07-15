@@ -1174,6 +1174,7 @@
     <e><p><l>viikiŋŋa<s n="n"/></l><r>viikiŋg<s n="n"/></r></p></e>
     <e><p><l>hutkkus<s n="n"/></l><r>hutkos<s n="n"/></r></p></e>
 
+    <e><p><l>biipu<s n="n"/></l><r>piijpo<s n="n"/></r></p></e>
     <e><p><l>giikkár<s n="n"/></l><r>kiijkár<s n="n"/></r></p></e>
     <e><p><l>goahkka<s n="n"/></l><r>kokkâ<s n="n"/></r></p></e>
     <e><p><l>eahpedoaivu<s n="n"/></l><r>epituáivu<s n="n"/></r></p></e>
@@ -2186,6 +2187,7 @@
     <e><p><l>sitkatvuohta<s n="n"/></l><r>siđhesvuotâ<s n="n"/></r></p></e>
     <e><p><l>skohter<s n="n"/></l><r>moottorkiälkká<s n="n"/></r></p></e>
     <e><p><l>soagŋomátki<s n="n"/></l><r>suáŋusmätki<s n="n"/></r></p></e>
+    <e><p><l>máilmmebirramátki<s n="n"/></l><r>maailmpirrâmätki<s n="n"/></r></p></e>
     <e><p><l>soijamargariidna<s n="n"/></l><r>soijamargariin<s n="n"/></r></p></e>
     <e><p><l>somatihkka<s n="n"/></l><r>somatiik<s n="n"/></r></p></e>
     <e><p><l>sosiologa<s n="n"/></l><r>sosiolog<s n="n"/></r></p></e> 
@@ -4073,6 +4075,10 @@
 
     <!-- ASECTION: Verbs -->
 
+    <e><p><l>áibbašit<s n="vblex"/><s n="iv"/></l><r>aibâšiđ<s n="vblex"/></r></p></e>
+    <e><p><l>bivvat<s n="vblex"/><s n="iv"/></l><r>pallâđ<s n="vblex"/></r></p></e>
+    <e><p><l>liggehallat<s n="vblex"/><s n="iv"/></l><r>liegâdâllâđ<s n="vblex"/></r></p></e>
+    <e><p><l>balvet<s n="vblex"/><s n="iv"/></l><r>polviđ<s n="vblex"/></r></p></e>
     <e><p><l>julkit<s n="vblex"/><s n="iv"/></l><r>julkkeđ<s n="vblex"/></r></p></e>
     <e><p><l>duolvat<s n="vblex"/><s n="iv"/></l><r>tuolvâđ<s n="vblex"/></r></p></e>
     <e><p><l>baldit<s n="vblex"/><s n="tv"/></l><r>paldeđ<s n="vblex"/></r></p></e>
