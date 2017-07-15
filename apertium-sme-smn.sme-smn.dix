@@ -1174,6 +1174,7 @@
     <e><p><l>viikiŋŋa<s n="n"/></l><r>viikiŋg<s n="n"/></r></p></e>
     <e><p><l>hutkkus<s n="n"/></l><r>hutkos<s n="n"/></r></p></e>
 
+    <e><p><l>giikkár<s n="n"/></l><r>kiijkár<s n="n"/></r></p></e>
     <e><p><l>goahkka<s n="n"/></l><r>kokkâ<s n="n"/></r></p></e>
     <e><p><l>eahpedoaivu<s n="n"/></l><r>epituáivu<s n="n"/></r></p></e>
     <e><p><l>vuostemiella<s n="n"/></l><r>vyestimielâ<s n="n"/></r></p></e>
@@ -4072,6 +4073,8 @@
 
     <!-- ASECTION: Verbs -->
 
+    <e><p><l>julkit<s n="vblex"/><s n="iv"/></l><r>julkkeđ<s n="vblex"/></r></p></e>
+    <e><p><l>duolvat<s n="vblex"/><s n="iv"/></l><r>tuolvâđ<s n="vblex"/></r></p></e>
     <e><p><l>baldit<s n="vblex"/><s n="tv"/></l><r>paldeđ<s n="vblex"/></r></p></e>
     <e><p><l>nuoskidit<s n="vblex"/><s n="tv"/></l><r>nyeskidiđ<s n="vblex"/></r></p></e>
     <e><p><l>gievvut<s n="vblex"/><s n="iv"/></l><r>kiävuliđ<s n="vblex"/></r></p></e>
@@ -9412,7 +9415,7 @@
     <e><p><l>gustojeaddji<s n="adj"/></l><r>tuhhiittettee<s n="adj"/></r></p></e>
     <e><p><l>visot<s n="adj"/></l><r>puoh<s n="prn"/><s n="ind"/></r></p></e>
     <e><p><l>sierralágan<s n="adj"/></l><r>eresmuáđusâš<s n="adj"/></r></p></e>
-    <e><p><l>issoras<s n="adj"/></l><r>hirmâd<s n="adj"/></r></p></e>
+    <e><p><l>issoras<s n="adj"/></l><r>hirmos<s n="adj"/></r></p></e>
     <e><p><l>lagas<s n="adj"/></l><r>aldasâš<s n="adj"/></r></p></e>
     <e><p><l>gieris<s n="adj"/></l><r>kieres<s n="adj"/></r></p></e>
     <e><p><l>ovddasteaddji<s n="n"/></l><r>ovdâsteijee<s n="n"/></r></p></e>
