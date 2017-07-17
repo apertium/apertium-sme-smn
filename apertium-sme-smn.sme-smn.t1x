@@ -868,6 +868,8 @@ C[_]-T  sent
     <def-cat n="prn_gen">
       <cat-item tags="prn.pers.*.sg.gen.*"/>
       <cat-item tags="prn.pers.*.pl.gen.*"/>
+      <cat-item tags="prn.dem.sg.gen.*"/>
+      <cat-item tags="prn.dem.pl.gen.*"/>
     </def-cat>
 
     <def-cat n="prn_ind_dem">
