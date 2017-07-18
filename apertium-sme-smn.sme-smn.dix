@@ -725,7 +725,9 @@
     <e><p><l>beal<s n="adj"/></l><r>pel<s n="adj"/></r></p></e>
     <e><p><l>lihkkoš<s n="adj"/></l><r>šievluholâš<s n="adj"/></r></p></e>
     <e><p><l>rávdnjái<s n="adj"/></l><r>rávŋáá<s n="adj"/></r></p></e>
-
+    <e><p><l>ráhpa<s n="adj"/></l><r>rappâd<s n="adj"/></r></p></e>
+    <e><p><l>romantihkalaš<s n="adj"/></l><r>romantlâš<s n="adj"/></r></p></e>
+    <e><p><l>steriila<s n="adj"/></l><r>steeriil<s n="adj"/></r></p></e>
     <e><p><l>veahtas<s n="adj"/></l><r>läivi<s n="adj"/></r></p></e>
     <e><p><l>jegolâš<s n="adj"/></l><r>jiäháttâllee<s n="adj"/></r></p></e>
     <e><p><l>deahtis<s n="adj"/></l><r>teetis<s n="adj"/></r></p></e>
@@ -4083,9 +4085,13 @@
 
     <!-- ASECTION: Verbs -->
 
+    <e><p><l>guorsat<s n="vblex"/><s n="iv"/></l><r>kuorssâđ<s n="vblex"/></r></p></e>
+    <e><p><l>skuhrrat<s n="vblex"/><s n="iv"/></l><r>škorijdiđ<s n="vblex"/></r></p></e>
+    <e><p><l>cirpmastit<s n="vblex"/><s n="tv"/></l><r>cimostiđ<s n="vblex"/></r></p></e>
+    <e><p><l>jolgat<s n="vblex"/><s n="iv"/></l><r>kehtidiđ<s n="vblex"/></r></p></e>
     <e><p><l>njoammut<s n="vblex"/><s n="iv"/></l><r>njuámmuđ<s n="vblex"/></r></p></e>
     <e><p><l>krántostallat<s n="vblex"/><s n="iv"/></l><r>ranttuustâllâđ<s n="vblex"/></r></p></e>
-    <e><p><l>áibbašit<s n="vblex"/><s n="iv"/></l><r>aibâšiđ<s n="vblex"/></r></p></e>
+    <e><p><l>áibbašit<s n="vblex"/><s n="tv"/></l><r>aibâšiđ<s n="vblex"/></r></p></e>
     <e><p><l>bivvat<s n="vblex"/><s n="iv"/></l><r>pallâđ<s n="vblex"/></r></p></e>
     <e><p><l>gakcut<s n="vblex"/><s n="iv"/></l><r>kuárŋuđ<s n="vblex"/></r></p></e>
     <e><p><l>liggehallat<s n="vblex"/><s n="iv"/></l><r>liegâdâllâđ<s n="vblex"/></r></p></e>
@@ -7433,6 +7439,8 @@
     <e><p><l>sirát<s n="n"/></l><r>siirááp<s n="n"/></r></p></e>
     <e><p><l>sisbuvssat<s n="n"/></l><r>uccpuvssiih<s n="n"/></r></p></e>
     <e><p><l>sisbáidi<s n="n"/></l><r>siskelpäiđi<s n="n"/></r></p></e>
+    <e><p><l>t-báidi<s n="n"/></l><r>t-päiđi<s n="n"/></r></p></e>
+    <e><p><l>collegebáidi<s n="n"/></l><r>collegepäiđi<s n="n"/></r></p></e>
     <e><p><l>sisti<s n="n"/></l><r>šišne<s n="n"/></r></p></e>
     <e><p><l>sivva<s n="n"/></l><r>suijâ<s n="n"/></r></p></e>
     <e><p><l>siŋka<s n="n"/></l><r>siŋkkâ<s n="n"/></r></p></e>
