@@ -1174,6 +1174,10 @@
     <e><p><l>viikiŋŋa<s n="n"/></l><r>viikiŋg<s n="n"/></r></p></e>
     <e><p><l>hutkkus<s n="n"/></l><r>hutkos<s n="n"/></r></p></e>
 
+    <e><p><l>uvja<s n="n"/></l><r>uvjâ<s n="n"/></r></p></e>
+    <e><p><l>korána<s n="n"/></l><r>kooraan<s n="n"/></r></p></e>
+    <e><p><l>plásttet<s n="n"/></l><r>lastik<s n="n"/></r></p></e>
+    <e><p><l>dievá<s n="n"/></l><r>tiävá<s n="n"/></r></p></e>
     <e><p><l>topása<s n="n"/></l><r>toopaas<s n="n"/></r></p></e>
     <e><p><l>ametysta<s n="n"/></l><r>ametist<s n="n"/></r></p></e>
     <e><p><l>iežár<s n="n"/></l><r>jieččie<s n="n"/></r></p></e>
@@ -4078,6 +4082,7 @@
 
     <!-- ASECTION: Verbs -->
 
+    <e><p><l>krántostallat<s n="vblex"/><s n="iv"/></l><r>ranttuustâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>áibbašit<s n="vblex"/><s n="iv"/></l><r>aibâšiđ<s n="vblex"/></r></p></e>
     <e><p><l>bivvat<s n="vblex"/><s n="iv"/></l><r>pallâđ<s n="vblex"/></r></p></e>
     <e><p><l>gakcut<s n="vblex"/><s n="iv"/></l><r>kuárŋuđ<s n="vblex"/></r></p></e>
@@ -8893,7 +8898,7 @@
     <e><p><l>hávvut<s n="vblex"/><s n="iv"/></l><r>havviđ<s n="vblex"/></r></p></e>
     <e><p><l>hávvádit<s n="vblex"/><s n="tv"/></l><r>hävidiđ<s n="vblex"/></r></p></e>
     <e><p><l>háŋket<s n="vblex"/><s n="tv"/></l><r>haahâđ<s n="vblex"/></r></p></e>
-    <e><p><l>idjadit<s n="vblex"/><s n="iv"/></l><r>ijjâdiđ<s n="vblex"/></r></p></e>
+    <e><p><l>idjadit<s n="vblex"/><s n="iv"/></l><r>ijâstâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>ihttot<s n="vblex"/><s n="iv"/></l><r>itteeđ<s n="vblex"/></r></p></e>
     <e><p><l>ii<s n="vblex"/><s n="iv"/></l><r>ij<s n="vblex"/></r></p></e>
     <e><p><l>ijastallat<s n="vblex"/><s n="iv"/></l><r>ijâstâllâđ<s n="vblex"/></r></p></e>
