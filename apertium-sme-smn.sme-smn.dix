@@ -721,7 +721,8 @@
 
 
     <!-- ASECTION: Adjectives -->
-    
+ 
+    <e><p><l>ráhpa<s n="adj"/></l><r>rappâd<s n="adj"/></r></p></e>
     <e><p><l>beal<s n="adj"/></l><r>pel<s n="adj"/></r></p></e>
     <e><p><l>lihkkoš<s n="adj"/></l><r>šievluholâš<s n="adj"/></r></p></e>
     <e><p><l>rávdnjái<s n="adj"/></l><r>rávŋáá<s n="adj"/></r></p></e>
@@ -2347,6 +2348,7 @@
     
     <!-- ASECTION: Proper nouns: sme-person names with two possible translations -->
 
+
     <e><p><l>Biera<s n="np"/></l><r>Piera<s n="np"/></r></p></e> 
     <e><p><l>Biera<s n="np"/></l><r>Pierâ<s n="np"/></r></p></e> 
     <e><p><l>Biret<s n="np"/></l><r>Piirit<s n="np"/></r></p></e> 
@@ -2396,6 +2398,7 @@
     <!-- ASECTION: Proper nouns sme-person names x=x -->
     <e><p><l>Tást<s n="np"/></l><r>Tást<s n="np"/></r></p></e>
     <e><p><l>Tutankhamon<s n="np"/></l><r>Tutankhamon<s n="np"/></r></p></e>
+    <e><p><l>Guhkesruoida<s n="np"/></l><r>Kuhesruoidâ<s n="np"/></r></p></e>
     <e><p><l>Tollund<s n="np"/></l><r>Tollund<s n="np"/></r></p></e>
     <e><p><l>Niili<s n="np"/></l><r>Niili<s n="np"/></r></p></e>
     <e><p><l>Regin<s n="np"/></l><r>Regin<s n="np"/></r></p></e>
@@ -4085,6 +4088,10 @@
 
     <!-- ASECTION: Verbs -->
 
+    <e><p><l>tealttástallat<s n="vblex"/><s n="tv"/></l><r>telttaastâllâđ<s n="vblex"/></r></p></e>
+    <e><p><l>gohpalastit<s n="vblex"/><s n="tv"/></l><r>kupâlistiđ<s n="vblex"/></r></p></e>
+    <e><p><l>šloahtat<s n="vblex"/><s n="tv"/></l><r>sirroođ<s n="vblex"/></r></p></e>
+    <e><p><l>beroštuvvat<s n="vblex"/><s n="tv"/></l><r>kiddiistuđ<s n="vblex"/></r></p></e>
     <e><p><l>guorsat<s n="vblex"/><s n="iv"/></l><r>kuorssâđ<s n="vblex"/></r></p></e>
     <e><p><l>skuhrrat<s n="vblex"/><s n="iv"/></l><r>škorijdiđ<s n="vblex"/></r></p></e>
     <e><p><l>cirpmastit<s n="vblex"/><s n="tv"/></l><r>cimostiđ<s n="vblex"/></r></p></e>
