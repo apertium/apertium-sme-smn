@@ -260,6 +260,8 @@
     <e><p><l>vihttačuođi<s n="num"/></l><r>vittâčyet<s n="num"/></r></p></e>
     <e><p><l>máŋga<s n="num"/></l><r>maŋgâ<s n="num"/></r></p></e>
     <e><p><l>moaddelogi<s n="num"/></l><r>muádlov<s n="num"/></r></p></e>
+    <e><p><l>nuppelot<s n="num"/></l><r>nubáloh<s n="num"/></r></p></e>
+    
     
     <!-- ASECTION: Prepositions -->
 
@@ -740,7 +742,8 @@
     <e><p><l>álgoálgosaš<s n="adj"/></l><r>algâalgâlâš<s n="adj"/></r></p></e>    
     <e><p><l>searválas<s n="adj"/></l><r>viärmádâhlâš<s n="adj"/></r></p></e>    
     <e><p><l>psykososiála<s n="adj"/></l><r>psykososiaallâš<s n="adj"/></r></p></e>    
-    <e><p><l>seammanammasaš<s n="adj"/></l><r>siämmáánommâsâš<s n="adj"/></r></p></e>    
+    <e><p><l>seammanammasaš<s n="adj"/></l><r>siämmáánommâsâš<s n="adj"/></r></p></e> 
+    <e><p><l>kilosaš<s n="adj"/></l><r>kilusâš<s n="adj"/></r></p></e> 
     <e><p><l>máŋggadoaimmat<s n="adj"/></l><r>maaŋgâtoimâlâš<s n="adj"/></r></p></e>    
     <e><p><l>kultursensitiivvalaš<s n="adj"/></l><r>kulttuursensitiivlâš<s n="adj"/></r></p></e>    
     <e><p><l>milliibáhcci<s n="adj"/></l><r>mieláidpäccee<s n="adj"/></r></p></e>
@@ -1177,6 +1180,7 @@
     <e><p><l>viikiŋŋa<s n="n"/></l><r>viikiŋg<s n="n"/></r></p></e>
     <e><p><l>hutkkus<s n="n"/></l><r>hutkos<s n="n"/></r></p></e>
 
+    <e><p><l>seakti<s n="n"/></l><r>septi<s n="n"/></r></p></e>
     <e><p><l>durdi<s n="n"/></l><r>turde<s n="n"/></r></p></e>
     <e><p><l>uvja<s n="n"/></l><r>uvjâ<s n="n"/></r></p></e>
     <e><p><l>korána<s n="n"/></l><r>kooraan<s n="n"/></r></p></e>
