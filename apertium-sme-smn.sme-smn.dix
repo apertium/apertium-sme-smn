@@ -1181,6 +1181,10 @@
     <e><p><l>viikiŋŋa<s n="n"/></l><r>viikiŋg<s n="n"/></r></p></e>
     <e><p><l>hutkkus<s n="n"/></l><r>hutkos<s n="n"/></r></p></e>
 
+    <e><p><l>rávki<s n="n"/></l><r>riäpu<s n="n"/></r></p></e>
+    <e><p><l>fáŋga<s n="n"/></l><r>faŋgâ<s n="n"/></r></p></e>
+    <e><p><l>streaika<s n="n"/></l><r>jasko<s n="n"/></r></p></e>
+    <e><p><l>duotna<s n="n"/></l><r>tuonâ<s n="n"/></r></p></e>
     <e><p><l>mihtolat<s n="n"/></l><r>miätálâh<s n="n"/></r></p></e>
     <e><p><l>beazet<s n="n"/></l><r>peeccih<s n="n"/></r></p></e>
     <e><p><l>seakti<s n="n"/></l><r>septi<s n="n"/></r></p></e>
@@ -4095,6 +4099,9 @@
 
     <!-- ASECTION: Verbs -->
 
+    <e><p><l>fáktet<s n="vblex"/><s n="tv"/></l><r>vahtiđ<s n="vblex"/></r></p></e>
+    <e><p><l>bávkkehit<s n="vblex"/><s n="iv"/></l><r>pävkittiđ<s n="vblex"/></r></p></e>
+    <e><p><l>cápmit<s n="vblex"/><s n="tv"/></l><r>cäimiđ<s n="vblex"/></r></p></e>
     <e><p><l>luhččet<s n="vblex"/><s n="iv"/></l><r>luččiđ<s n="vblex"/></r></p></e>
     <e><p><l>neavrut<s n="vblex"/><s n="iv"/></l><r>iädduđ<s n="vblex"/></r></p></e>
     <e><p><l>bihcut<s n="vblex"/><s n="iv"/></l><r>piccoođ<s n="vblex"/></r></p></e>
@@ -7838,7 +7845,7 @@
     <e><p><l>vuorbi<s n="n"/></l><r>vyerbi<s n="n"/></r></p></e>
     <e><p><l>vuorbádus<s n="n"/></l><r>vuárbum<s n="n"/></r></p></e>
     <e><p><l>vuordin<s n="n"/></l><r>vyerdim<s n="n"/></r></p></e>
-    <e><p><l>vuordámuš<s n="n"/></l><r>vuordâ<s n="n"/></r></p></e>
+    <e><p><l>vuordámuš<s n="n"/></l><r>vuárdámuš<s n="n"/></r></p></e>
     <e><p><l>vuorká<s n="n"/></l><r>vuárkká<s n="n"/></r></p></e>
     <e><p><l>vuorru<s n="n"/></l><r>vuáru<s n="n"/></r></p></e>
     <e><p><l>vuortnis<s n="n"/></l><r>vyernis<s n="n"/></r></p></e>
