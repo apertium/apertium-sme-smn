@@ -1181,6 +1181,7 @@
     <e><p><l>viikiŋŋa<s n="n"/></l><r>viikiŋg<s n="n"/></r></p></e>
     <e><p><l>hutkkus<s n="n"/></l><r>hutkos<s n="n"/></r></p></e>
 
+    <e><p><l>mihtolat<s n="n"/></l><r>miätálâh<s n="n"/></r></p></e>
     <e><p><l>beazet<s n="n"/></l><r>peeccih<s n="n"/></r></p></e>
     <e><p><l>seakti<s n="n"/></l><r>septi<s n="n"/></r></p></e>
     <e><p><l>durdi<s n="n"/></l><r>turde<s n="n"/></r></p></e>
@@ -4094,6 +4095,8 @@
 
     <!-- ASECTION: Verbs -->
 
+    <e><p><l>luhččet<s n="vblex"/><s n="iv"/></l><r>luččiđ<s n="vblex"/></r></p></e>
+    <e><p><l>neavrut<s n="vblex"/><s n="iv"/></l><r>iädduđ<s n="vblex"/></r></p></e>
     <e><p><l>bihcut<s n="vblex"/><s n="iv"/></l><r>piccoođ<s n="vblex"/></r></p></e>
     <e><p><l>gerjjodit<s n="vblex"/><s n="tv"/></l><r>lipšâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>tealttástallat<s n="vblex"/><s n="iv"/></l><r>telttaastâllâđ<s n="vblex"/></r></p></e>
@@ -5389,6 +5392,7 @@
     <e><p><l>obbalohkái<s n="adv"/></l><r>ollágin<s n="adv"/></r></p></e>
     <e><p><l>oktan<s n="adv"/></l><r>ohtân<s n="adv"/></r></p></e>
     <e><p><l>oktii<s n="adv"/></l><r>ohtii<s n="adv"/></r></p></e>
+    <e><p><l>golbmii<s n="adv"/></l><r>kulmii<s n="adv"/></r></p></e>
     <e><p><l>oktiibuot<s n="adv"/></l><r>ohtsis<s n="adv"/></r></p></e>
     <e><p><l>okto<s n="adv"/></l><r>ohtuu<s n="adv"/></r></p></e>
     <e><p><l>akto<s n="adv"/></l><r>ohtuu<s n="adv"/></r></p></e>
@@ -9574,7 +9578,7 @@
     <e><p><l>snoakkis<s n="adj"/></l><r>väänis<s n="adj"/></r></p></e>
     <e><p><l>hubmái<s n="adj"/></l><r>sárnáá<s n="adj"/></r></p></e>
     <e><p><l>guolgái<s n="adj"/></l><r>soksii<s n="adj"/></r></p></e>
-    <e><p><l>veajuheapme<s n="adj"/></l><r>illávaje<s n="adj"/></r></p></e>
+    <e><p><l>veajuheapme<s n="adj"/></l><r>viäjuttem<s n="adj"/></r></p></e>
     <e><p><l>suttis<s n="adj"/></l><r>sudes<s n="adj"/></r></p></e>
     <e><p><l>servvolaš<s n="adj"/></l><r>uásálâš<s n="adj"/></r></p></e>
     <e><p><l>heakkalaš<s n="adj"/></l><r>jiegâlâš<s n="adj"/></r></p></e>
