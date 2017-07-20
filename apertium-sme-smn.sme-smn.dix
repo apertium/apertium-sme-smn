@@ -362,6 +362,8 @@
 
 
     <!-- ASECTION: Adverbs -->
+    
+    <e><p><l>gosage<s n="adv"/></l><r>kuussân<s n="adv"/></r></p></e>
     <e><p><l>ihttážii<s n="adv"/></l><r>ittáážân<s n="adv"/></r></p></e>
     <e><p><l>dassážii<s n="adv"/></l><r>tassaažân<s n="adv"/></r></p></e>
     <e><p><l>uvssotgaskkas<s n="adv"/></l><r>uksânjäälmist<s n="adv"/></r></p></e>
@@ -671,7 +673,7 @@
     <e><p><l>eisige<s n="adv"/></l><r>eissigin<s n="adv"/></r></p></e>
     <e><p><l>erenoamážit<s n="adv"/></l><r>eromâšávt<s n="adv"/></r></p></e>
     <e><p><l>erenomážit<s n="adv"/></l><r>eromâšávt<s n="adv"/></r></p></e>
-    <e><p><l>fas<s n="adv"/></l><r>oppeet<s n="adv"/></r></p></e> <!-- not vuod (sm)-->
+    <e><p><l>fas<s n="adv"/></l><r>vuod<s n="adv"/></r></p></e> <!-- not vuod (sm)-->
     <e><p><l>feara<s n="adv"/></l><r>veikâ<s n="adv"/></r></p></e>
     <e><p><l>goassige<s n="adv"/></l><r>kuássin<s n="adv"/></r></p></e>
     <e><p><l>goasge<s n="adv"/></l><r>kuássin<s n="adv"/></r></p></e>
@@ -1181,6 +1183,7 @@
     <e><p><l>viikiŋŋa<s n="n"/></l><r>viikiŋg<s n="n"/></r></p></e>
     <e><p><l>hutkkus<s n="n"/></l><r>hutkos<s n="n"/></r></p></e>
 
+    <e><p><l>horti<s n="n"/></l><r>hortte<s n="n"/></r></p></e>
     <e><p><l>johka<s n="n"/></l><r>juuhâ<s n="n"/></r></p></e>
     <e><p><l>rávki<s n="n"/></l><r>riäpu<s n="n"/></r></p></e>
     <e><p><l>fáŋga<s n="n"/></l><r>faŋgâ<s n="n"/></r></p></e>
@@ -4362,7 +4365,7 @@
     <e><p><l>deaividit<s n="vblex"/><s n="tv"/></l><r>teivâđ<s n="vblex"/></r></p></e> 
     <e><p><l>dearpat<s n="vblex"/><s n="tv"/></l><r>terppâđ<s n="vblex"/></r></p></e> 
     <e><p><l>dearvvasmuvvat<s n="vblex"/><s n="iv"/></l><r>tiervâsmiđ<s n="vblex"/></r></p></e>
-    <e><p><l>doalahit<s n="vblex"/><s n="tv"/></l><r>toollâđ<s n="vblex"/></r></p></e>
+    <e><p><l>doalahit<s n="vblex"/><s n="tv"/></l><r>tolliđ<s n="vblex"/></r></p></e>
     <e><p><l>doallat<s n="vblex"/><s n="tv"/></l><r>toollâđ<s n="vblex"/></r></p></e>
     <e><p><l>doarjalit<s n="vblex"/><s n="tv"/></l><r>tuárjuđ<s n="vblex"/></r></p></e> 
     <e><p><l>doarridit<s n="vblex"/><s n="tv"/></l><r>tuáridiđ<s n="vblex"/></r></p></e>
@@ -5412,6 +5415,7 @@
     <e><p><l>ovdalaš<s n="adv"/></l><r>ovdâlist<s n="adv"/></r></p></e>
     <e><p><l>ovdan<s n="adv"/></l><r>oovdân<s n="adv"/></r></p></e>
     <e><p><l>ovddabealde<s n="adv"/></l><r>ovdiibeln<s n="adv"/></r></p></e>
+    <e><p><l>ovddabeal<s n="adv"/></l><r>ovdiibeln<s n="adv"/></r></p></e>
     <e><p><l>ovddas<s n="adv"/></l><r>oovdâst<s n="adv"/></r></p></e>
     <e><p><l>ovddimustá<s n="adv"/></l><r>ovdemustáá<s n="adv"/></r></p></e>
     <e><p><l>ođđasis<s n="adv"/></l><r>uđđâsist<s n="adv"/></r></p></e>
