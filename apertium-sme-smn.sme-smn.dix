@@ -1183,6 +1183,7 @@
     <e><p><l>viikiŋŋa<s n="n"/></l><r>viikiŋg<s n="n"/></r></p></e>
     <e><p><l>hutkkus<s n="n"/></l><r>hutkos<s n="n"/></r></p></e>
 
+    <e><p><l>lotus<s n="n"/></l><r>lootus<s n="n"/></r></p></e>
     <e><p><l>horti<s n="n"/></l><r>hortte<s n="n"/></r></p></e>
     <e><p><l>johka<s n="n"/></l><r>juuhâ<s n="n"/></r></p></e>
     <e><p><l>rávki<s n="n"/></l><r>riäpu<s n="n"/></r></p></e>
@@ -4103,6 +4104,10 @@
 
     <!-- ASECTION: Verbs -->
 
+    <e><p><l>háisut<s n="vblex"/><s n="iv"/></l><r>háisuđ<s n="vblex"/></r></p></e>
+    <e><p><l>lieđđut<s n="vblex"/><s n="iv"/></l><r>liäđđuđ<s n="vblex"/></r></p></e>
+    <e><p><l>njolggástit<s n="vblex"/><s n="iv"/></l><r>njolgestiđ<s n="vblex"/></r></p></e>
+    <e><p><l>erdot<s n="vblex"/><s n="iv"/></l><r>iädduđ<s n="vblex"/></r></p></e>
     <e><p><l>gákkahit<s n="vblex"/><s n="tv"/></l><r>kovlottiđ<s n="vblex"/></r></p></e>
     <e><p><l>fáktet<s n="vblex"/><s n="tv"/></l><r>vahtiđ<s n="vblex"/></r></p></e>
     <e><p><l>bávkkehit<s n="vblex"/><s n="iv"/></l><r>pävkittiđ<s n="vblex"/></r></p></e>
