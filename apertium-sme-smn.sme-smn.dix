@@ -729,7 +729,7 @@
     <!-- ASECTION: Adjectives -->
  
     <e><p><l>beal<s n="adj"/></l><r>pel<s n="adj"/></r></p></e>
-    <e><p><l>lihkkoš<s n="adj"/></l><r>šievluholâš<s n="adj"/></r></p></e>
+    <e><p><l>lihkkoš<s n="adj"/></l><r>luholâš<s n="adj"/></r></p></e>
     <e><p><l>rávdnjái<s n="adj"/></l><r>rávŋáá<s n="adj"/></r></p></e>
     <e><p><l>ráhpat<s n="adj"/></l><r>rappâd<s n="adj"/></r></p></e>
     <e><p><l>romantihkalaš<s n="adj"/></l><r>romantlâš<s n="adj"/></r></p></e>
@@ -1183,6 +1183,9 @@
     <e><p><l>viikiŋŋa<s n="n"/></l><r>viikiŋg<s n="n"/></r></p></e>
     <e><p><l>hutkkus<s n="n"/></l><r>hutkos<s n="n"/></r></p></e>
 
+    <e><p><l>diddi<s n="n"/></l><r>tidde<s n="n"/></r></p></e>
+    <e><p><l>báhtter<s n="n"/></l><r>patter<s n="n"/></r></p></e>
+    <e><p><l>kámera<s n="n"/></l><r>kamera<s n="n"/></r></p></e>
     <e><p><l>lotus<s n="n"/></l><r>lootus<s n="n"/></r></p></e>
     <e><p><l>horti<s n="n"/></l><r>hortte<s n="n"/></r></p></e>
     <e><p><l>johka<s n="n"/></l><r>juuhâ<s n="n"/></r></p></e>
@@ -4104,6 +4107,8 @@
 
     <!-- ASECTION: Verbs -->
 
+    <e><p><l>bánccardit<s n="vblex"/><s n="iv"/></l><r>pancârdiđ<s n="vblex"/></r></p></e>
+    <e><p><l>háiket<s n="vblex"/><s n="iv"/></l><r>liftađ<s n="vblex"/></r></p></e>
     <e><p><l>háisut<s n="vblex"/><s n="iv"/></l><r>háisuđ<s n="vblex"/></r></p></e>
     <e><p><l>lieđđut<s n="vblex"/><s n="iv"/></l><r>liäđđuđ<s n="vblex"/></r></p></e>
     <e><p><l>njolggástit<s n="vblex"/><s n="iv"/></l><r>njolgestiđ<s n="vblex"/></r></p></e>
@@ -6294,6 +6299,7 @@
     <e><p><l>gilvvohallan<s n="n"/></l><r>kištottâllâm<s n="n"/></r></p></e>
     <e><p><l>giláš<s n="n"/></l><r>sijdâ<s n="n"/></r></p></e>
     <e><p><l>ginttal<s n="n"/></l><r>kiintâl<s n="n"/></r></p></e>
+    <e><p><l>girdi<s n="n"/></l><r>kirdemmaašin<s n="n"/></r></p></e>
     <e><p><l>girdi<s n="n"/></l><r>kirdee<s n="n"/></r></p></e>
     <e><p><l>girdno<s n="n"/></l><r>kirno<s n="n"/></r></p></e>
     <e><p><l>girdnu<s n="n"/></l><r>kirno<s n="n"/></r></p></e>
