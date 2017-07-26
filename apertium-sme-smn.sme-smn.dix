@@ -1187,6 +1187,8 @@
     <e><p><l>viikiŋŋa<s n="n"/></l><r>viikiŋg<s n="n"/></r></p></e>
     <e><p><l>hutkkus<s n="n"/></l><r>hutkos<s n="n"/></r></p></e>
 
+    <e><p><l>láhkan<s n="n"/></l><r>laakaan<s n="n"/></r></p></e>
+    <e><p><l>monumeanta<s n="n"/></l><r>monument<s n="n"/></r></p></e>
     <e><p><l>beaivelahkki<s n="n"/></l><r>peivilakke<s n="n"/></r></p></e>
     <e><p><l>áicu<s n="n"/></l><r>áiccu<s n="n"/></r></p></e>
     <e><p><l>diddi<s n="n"/></l><r>tidde<s n="n"/></r></p></e>
@@ -1215,7 +1217,7 @@
     <e><p><l>goahkka<s n="n"/></l><r>kokkâ<s n="n"/></r></p></e>
     <e><p><l>eahpedoaivu<s n="n"/></l><r>epituáivu<s n="n"/></r></p></e>
     <e><p><l>vuostemiella<s n="n"/></l><r>vyestimielâ<s n="n"/></r></p></e>
-    <e><p><l>nuoski<s n="n"/></l><r>tuolvâ<s n="n"/></r></p></e>
+    <e><p><l>nuoski<s n="n"/></l><r>nyeski<s n="n"/></r></p></e>
     <e><p><l>oađđadagat<s n="n"/></l><r>uáđáduvah<s n="n"/></r></p></e>
     <e><p><l>skoaddu<s n="n"/></l><r>miärkká<s n="n"/></r></p></e>
     <e><p><l>minarehta<s n="n"/></l><r>minareet<s n="n"/></r></p></e>
@@ -1495,7 +1497,7 @@
     <e><p><l>hámus<s n="n"/></l><r>hammiittâs<s n="n"/></r></p></e>
     <e><p><l>máŋggagielalašvuohta<s n="n"/></l><r>maaŋgâkielâlâšvuotâ<s n="n"/></r></p></e>
     <e><p><l>kontákta<s n="n"/></l><r>ohtâvuotâ<s n="n"/></r></p></e>
-    <e><p><l>vátnivuohta<s n="n"/></l><r>vááijuvvuotâ<s n="n"/></r></p></e>
+    <e><p><l>vátnivuohta<s n="n"/></l><r>vänivuotâ<s n="n"/></r></p></e>
     <e><p><l>testameanta<s n="n"/></l><r>testament<s n="n"/></r></p></e>
     <e><p><l>bargobádji<s n="n"/></l><r>pargopáájá<s n="n"/></r></p></e>
     <e><p><l>láhkaásaheapmi<s n="n"/></l><r>lahâasâttem<s n="n"/></r></p></e>
@@ -1575,7 +1577,7 @@
     <e><p><l>kemikála<s n="n"/></l><r>kemikaal<s n="n"/></r></p></e>
     <e><p><l>Márjjabeaivi<s n="n"/></l><r>Máárjápeivi<s n="n"/></r></p></e>
     <e><p><l>ovddasmanni<s n="n"/></l><r>oovdâstmannee<s n="n"/></r></p></e>
-    <e><p><l>sárggus<s n="n"/></l><r>jiešvuotâ<s n="n"/></r></p></e>
+    <e><p><l>sárggus<s n="n"/></l><r>sáárgus<s n="n"/></r></p></e>
     <e><p><l>metálla<s n="n"/><s n="g3"/></l><r>meetaal<s n="n"/></r></p></e>
     <e><p><l>metálladuodji<s n="n"/></l><r>meetaaltyeji<s n="n"/></r></p></e>
     <e><p><l>tekstiila<s n="n"/></l><r>tekstiil<s n="n"/></r></p></e>
@@ -4113,6 +4115,10 @@
 
     <!-- ASECTION: Verbs -->
 
+    <e><p><l>notkat<s n="vblex"/><s n="tv"/></l><r>nutkâđ<s n="vblex"/></r></p></e>
+    <e><p><l>durddidit<s n="vblex"/><s n="tv"/></l><r>turgediđ<s n="vblex"/></r></p></e>
+    <e><p><l>livkit<s n="vblex"/><s n="iv"/></l><r>livkkeđ<s n="vblex"/></r></p></e>
+    <e><p><l>luoddanit<s n="vblex"/><s n="iv"/></l><r>luoddâniđ<s n="vblex"/></r></p></e>
     <e><p><l>táŋket<s n="vblex"/><s n="tv"/></l><r>taŋkkađ<s n="vblex"/></r></p></e>
     <e><p><l>golahit<s n="vblex"/><s n="tv"/></l><r>kulâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>bánccardit<s n="vblex"/><s n="iv"/></l><r>pancârdiđ<s n="vblex"/></r></p></e>
@@ -8523,7 +8529,7 @@
     <e><p><l>ráškkihit<s n="vblex"/><s n="iv"/></l><r>teškittiđ<s n="vblex"/></r></p></e>
     <e><p><l>sahát<s n="vblex"/><s n="tv"/></l><r>sáhháđ<s n="vblex"/></r></p></e>
     <e><p><l>seailut<s n="vblex"/><s n="iv"/></l><r>siäiluđ<s n="vblex"/></r></p></e>
-    <e><p><l>searvat<s n="vblex"/><s n="iv"/></l><r>uásálistiđ<s n="vblex"/></r></p></e>
+    <e><p><l>searvat<s n="vblex"/><s n="iv"/></l><r>servâđ<s n="vblex"/></r></p></e>
     <e><p><l>seastit<s n="vblex"/><s n="tv"/></l><r>šeštiđ<s n="vblex"/></r></p></e>
     <e><p><l>seavvit<s n="vblex"/><s n="tv"/></l><r>seevviđ<s n="vblex"/></r></p></e>
     <e><p><l>sevlet<s n="vblex"/><s n="tv"/></l><r>silliđ<s n="vblex"/></r></p></e>
