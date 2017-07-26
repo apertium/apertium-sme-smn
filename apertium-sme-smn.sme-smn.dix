@@ -365,6 +365,8 @@
     
     <e><p><l>gosage<s n="adv"/></l><r>kuussân<s n="adv"/></r></p></e>
     <e><p><l>ihttážii<s n="adv"/></l><r>ittáážân<s n="adv"/></r></p></e>
+
+    <e><p><l>muhtin<b/>ládje<s n="adv"/></l><r>mottoomnáál<s n="adv"/></r></p></e>
     <e><p><l>dassážii<s n="adv"/></l><r>tassaažân<s n="adv"/></r></p></e>
     <e><p><l>uvssotgaskkas<s n="adv"/></l><r>uksânjäälmist<s n="adv"/></r></p></e>
     <e><p><l>čakčat<s n="adv"/></l><r>čohčuv<s n="adv"/></r></p></e>
@@ -1176,6 +1178,8 @@
 <!-- the building complex: -->
 
     <e><p><l>dállu<s n="n"/></l><r>táálu<s n="n"/></r></p></e>
+    <e><p><l>márbmor<s n="n"/></l><r>marmor<s n="n"/></r></p></e>
+    <e><p><l>monumeanta<s n="n"/></l><r>monument<s n="n"/></r></p></e>
     <e><p><l>čiehká<s n="n"/></l><r>aarni<s n="n"/></r></p></e>
     <e><p><l>govus<s n="n"/></l><r>sáárgus<s n="n"/></r></p></e>
     <e><p><l>farao<s n="n"/></l><r>faarao<s n="n"/></r></p></e>
@@ -9300,6 +9304,7 @@
     <e><p><l>šaddat<s n="vblex"/><s n="iv"/></l><r>šoddâđ<s n="vblex"/></r></p></e>
     <e><p><l>čaibmat<s n="vblex"/><s n="tv"/></l><r>povvustiđ<s n="vblex"/></r></p></e>
     <e><p><l>časkit<s n="vblex"/><s n="tv"/></l><r>časkeđ<s n="vblex"/></r></p></e>
+    <e><p><l>časkit<s n="vblex"/><s n="tv"/></l><r>colkkâliđ<s n="vblex"/></r></p></e>
     <e><p><l>čatnat<s n="vblex"/><s n="tv"/></l><r>čoonnâđ<s n="vblex"/></r></p></e>
     <e><p><l>čeargat<s n="vblex"/><s n="iv"/></l><r>čergâđ<s n="vblex"/></r></p></e>
     <e><p><l>čeargut<s n="vblex"/><s n="iv"/></l><r>čiärguđ<s n="vblex"/></r></p></e>
@@ -9375,6 +9380,8 @@
     <e><p><l>álggos<s n="adv"/></l><r>aalgâst<s n="adv"/></r></p></e>
     <e><p><l>dás<s n="adv"/></l><r>täst<s n="adv"/></r></p></e>
     <e><p><l>ovdal<s n="adv"/></l><r>ovdil<s n="adv"/></r></p></e>
+    <e><p><l>ovdal<s n="pr"/></l><r>ovdil<s n="pr"/></r></p></e>
+    <e><p><l>ovdal<s n="post"/></l><r>ovdil<s n="post"/></r></p></e>
     <e><p><l>dasto<s n="adv"/></l><r>talle<s n="adv"/></r></p></e>
     <e><p><l>dasto<s n="adv"/></l><r>tastoo<s n="adv"/></r></p></e>
     <e><p><l>ollu<s n="adv"/></l><r>ennuv<s n="adv"/></r></p></e>
@@ -9418,6 +9425,7 @@
     <e><p><l>viidásit<s n="adv"/></l><r>vijđásubbooht<s n="adv"/></r></p></e>
     <e><p><l>vaikko<s n="adv"/></l><r>veikkâ<s n="adv"/></r></p></e>
     <e><p><l>riekta<s n="adv"/></l><r>riehtâ<s n="adv"/></r></p></e>
+    <e><p><l>riekta<s n="adv"/></l><r>olmânáál<s n="adv"/></r></p></e>
     <e><p><l>visot<s n="adv"/></l><r>puoh<s n="adv"/></r></p></e>
     <e><p><l>loahpalaččat<s n="adv"/></l><r>lopâlávt<s n="adv"/></r></p></e>
     <e><p><l>dakko<s n="adv"/></l><r>tast<s n="adv"/></r></p></e>

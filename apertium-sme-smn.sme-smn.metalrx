@@ -93,6 +93,20 @@ Write comments to forthcoming rules before this line -->
   <rule weight="0.5"><match lemma="mánáidmánná" tags="n.*"><select lemma="áijuh"/></match></rule>
   <rule weight="0.6"><match tags="np.ant.m.*"/><match lemma="mánáidmánná" tags="n.*"><select lemma="áijuh"/></match></rule> <!-- Pierâ áijuheh -->
 
+ <!-- časkit -->
+  <rule weight="1.0">
+    <match lemma="časkit" tags="vblex.*"><select lemma="časkeđ" tags="vblex.*"/></match>
+  </rule>
+  
+  <rule weight="0.5">
+    <match lemma="časkit" tags="vblex.*"><select lemma="colkkâliđ" tags="vblex.*"/></match>
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="časkit" tags="vblex.*"><select lemma="colkkâliđ" tags="vblex.*"/></match>
+    <match lemma="govva"/>
+  </rule>
+
  <!-- loaktit -->
   <rule weight="1.0">
     <match lemma="loaktit" tags="vblex.*"><select lemma="makkuđ" tags="vblex.*"/></match>
