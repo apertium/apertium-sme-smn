@@ -38,6 +38,94 @@ Write comments to forthcoming rules before this line -->
         <match lemma="boahtit"/>
       </or>
     </def-seq>
+    <def-seq n="thing">
+      <or>
+      <match tags="*.sem_ani_group_prod-vis.*"/>
+      <match tags="*.sem_body_plc-elevate.*"/>
+      <match tags="*.sem_build-part_cat.*"/>
+      <match tags="*.sem_build-part_cat_ctain.*"/>
+      <match tags="*.sem_build-part_cat_ctain_mat.*"/>
+      <match tags="*.sem_build-part_ctain.*"/>
+      <match tags="*.sem_build-part_ctain_mat.*"/>
+      <match tags="*.sem_build-part_ctain_obj.*"/>
+      <match tags="*.sem_clth-jewl_curr_obj.*"/>
+      <match tags="*.sem_clth-jewl_curr_obj_org.*"/>
+      <match tags="*.sem_clth-jewl_fruit.*"/>
+      <match tags="*.sem_clth_obj-clo.*"/>
+      <match tags="*.sem_feat-phys_plc.*"/>
+      <match tags="*.sem_group_prod-vis.*"/>
+      <match tags="*.sem_aniprod.*"/>
+      <match tags="*.sem_aniprod_hum.*"/>
+      <match tags="*.sem_aniprod_obj-clo.*"/>
+      <match tags="*.sem_aniprod_perc-phys.*"/>
+      <match tags="*.sem_aniprod_plc.*"/>
+      <match tags="*.sem_aniprod_plc_route.*"/>
+      <match tags="*.sem_body.*"/>
+      <match tags="*.sem_body_clth.*"/>
+      <match tags="*.sem_body_food.*"/>
+      <match tags="*.sem_body_group_hum.*"/>
+      <match tags="*.sem_body_group_hum_time.*"/>
+      <match tags="*.sem_body_hum.*"/>
+      <match tags="*.sem_body_mat.*"/>
+      <match tags="*.sem_body_measr.*"/>
+      <match tags="*.sem_body_obj_tool-catch.*"/>
+      <match tags="*.sem_body_plc.*"/>
+      <match tags="*.sem_body_time.*"/>
+      <match tags="*.sem_build.*"/>
+      <match tags="*.sem_build-part.*"/>
+      <match tags="*.sem_build-part_plc.*"/>
+      <match tags="*.sem_build_build-part.*"/>
+      <match tags="*.sem_build_clth-part.*"/>
+      <match tags="*.sem_build_edu_org.*"/>
+      <match tags="*.sem_build_event_org.*"/>
+      <match tags="*.sem_build_obj.*"/>
+      <match tags="*.sem_build_org.*"/>
+      <match tags="*.sem_build_route.*"/>
+      <match tags="*.sem_clth.*"/>
+      <match tags="*.sem_clth-jewl.*"/>
+      <match tags="*.sem_clth-jewl_curr.*"/>
+      <match tags="*.sem_clth-jewl_money.*"/>
+      <match tags="*.sem_clth-jewl_org.*"/>
+      <match tags="*.sem_clth-jewl_plant.*"/>
+      <match tags="*.sem_clth-part.*"/>
+      <match tags="*.sem_clth_hum.*"/>
+      <match tags="*.sem_fem.*"/>
+      <match tags="*.sem_hum.*"/>
+      <match tags="*.sem_hum_obj.*"/>
+      <match tags="*.sem_hum_plant.*"/>
+      <match tags="*.sem_mal.*"/>
+      <match tags="*.sem_mat.*"/>
+      <match tags="*.sem_mat_plant.*"/>
+      <match tags="*.sem_mat_txt.*"/>
+      <match tags="*.sem_obj.*"/>
+      <match tags="*.sem_obj-clo.*"/>
+      <match tags="*.sem_obj-cogn.*"/>
+      <match tags="*.sem_obj-el.*"/>
+      <match tags="*.sem_obj-ling.*"/>
+      <match tags="*.sem_obj-play.*"/>
+      <match tags="*.sem_obj-play_sport.*"/>
+      <match tags="*.sem_obj-rope.*"/>
+      <match tags="*.sem_obj-surfc.*"/>
+      <match tags="*.sem_obj_semcon.*"/>
+      <match tags="*.sem_obj_sign.*"/>
+      <match tags="*.sem_plant.*"/>
+      <match tags="*.sem_plant-part.*"/>
+      <match tags="*.sem_plant_plant-part.*"/>
+      <match tags="*.sem_plant_tool.*"/>
+      <match tags="*.sem_plant_tool-measr.*"/>
+      <match tags="*.sem_plc.*"/>
+      <match tags="*.sem_plc-abstr_rel_state.*"/>
+      <match tags="*.sem_plc-abstr_route.*"/>
+      <match tags="*.sem_plc-elevate.*"/>
+      <match tags="*.sem_plc-line.*"/>
+      <match tags="*.sem_plc-water.*"/>
+      <match tags="*.sem_plc_pos.*"/>
+      <match tags="*.sem_plc_route.*"/>
+      <match tags="*.sem_plc_substnc.*"/>
+      <match tags="*.sem_plc_substnc_wthr.*"/>
+      </or>
+    </def-seq>
+
   </def-seqs>
 
 <rules>
@@ -1538,12 +1626,20 @@ Write comments to forthcoming rules before this line -->
     </match> 
    <match lemma="riekta"/>
   </rule>
+  <rule weight="0.6">
+    <match lemma="maid"/>
+    <match/>
+    <match lemma="dahkat">
+      <select lemma="porgâđ"/>
+    </match> 
+  </rule>
 
 
   <!--
       We do: bargat - porgâđ and dahkat - toohâđ
       as default. Eventual other rules should come from examples:
       1. dahkat riekta – porgâđ olmânáál 
+      2. Ja maid son dahkáge! - Já meid sun pargagin!
       -->
 
 <!-- riekta -->
@@ -1564,6 +1660,34 @@ Write comments to forthcoming rules before this line -->
     <match lemma="riekta">
       <select lemma="olmânáál"/>
     </match> 
+  </rule>
+
+<!-- čáppat -->
+  <rule weight="1.0">
+    <match lemma="čáppat">
+      <select lemma="fiijnes"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="čáppat">
+      <select lemma="muččâd"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="čáppat">
+      <select lemma="muččâd"/>
+    </match> 
+    <seq n="thing"/>
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="čáppat">
+      <select lemma="muččâd"/>
+    </match> 
+    <repeat upto="4"><seq n="word"/></repeat>
+    <seq n="thing"/>
   </rule>
 
   
