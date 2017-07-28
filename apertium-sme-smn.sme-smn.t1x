@@ -209,6 +209,7 @@ C[_]-T  sent
     </def-cat>
 
     <def-cat n="num_nomacc">
+      <cat-item tags="num.attr"/>
       <cat-item tags="num.sg.nom.*"/>
       <cat-item tags="num.sg.acc.*"/>
       <cat-item tags="num.arab.sg.nom.*"/>
@@ -1933,6 +1934,7 @@ C[_]-T  sent
       <list-item v="teknisâš"/>
       <list-item v="traagisâš"/>
       <list-item v="trooppisâš"/>
+      <list-item v="tallaš"/>      
       <list-item v="täsiárvusâš"/>
       <list-item v="uhkevuálásâš"/>
       <list-item v="ulmemiäldásâš"/>
@@ -2213,7 +2215,7 @@ C[_]-T  sent
           <test><equal><clip pos="2" side="tl" part="a_foc"/><lit-tag v="foc_pos-ge"/></equal></test>
           <let>
             <clip pos="1" side="tl" part="tags"/>
-            <concat><clip pos="1" side="tl" part="tags"/><lit-tag v="foc_uv"/></concat>
+            <concat><clip pos="1" side="tl" part="tags"/><lit-tag v="foc_gin"/></concat>
           </let>
         </when>
       </choose>
@@ -3249,6 +3251,59 @@ C[_]-T  sent
     </rule>
 
 
+
+    <rule comment="C[T]-NUM nouncmp num_nomacc n_sg_accgen" c="Son oastá čieža teadjaláibbi. : Sun uástá čiččâm teejâleibid."> 
+      <pattern>
+        <pattern-item n="num_nomacc"/>
+        <pattern-item n="nouncmp"/>
+        <pattern-item n="n_sg_accgen"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_exthab"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_func"/><lit v=""/></let>
+        <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
+      <choose>
+          <when>
+              <test><and>
+                 <not><in caseless="yes"><clip pos="1" side="sl" part="lem"/><list n="gennum"/></in></not>
+                 <not><in caseless="yes"><clip pos="1" side="sl" part="a_sem"/><list n="yeardate"/></in></not>
+                 <not><equal><clip pos="3" side="sl" part="a_abbr"/><lit-tag v="abbr"/></equal></not>
+              </and></test>
+              <let><clip pos="3" side="tl" part="tags"/>
+                <concat><lit-tag v="n"/><clip pos="3" side="tl" part="a_n_type"/><lit-tag v="par"/></concat>
+              </let>
+           </when>
+         <otherwise>
+          <let><clip pos="3" side="tl" part="a_sem"/><lit v=""/></let>
+          <let><clip pos="3" side="tl" part="a_exthab"/><lit v=""/></let>
+          <let><clip pos="3" side="tl" part="a_func"/><lit v=""/></let>
+         </otherwise>
+      </choose>
+      <out>
+          <chunk name="z_n">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="func"/></tag>
+              <tag><lit-tag v="numphrase"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="tags"/>
+            </lu>
+            <b pos="1"/>
+            <mlu>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+            </mlu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="C[T]-NUM  num_nomacc n_sg_accgen" c="Son oastá čieža láibbi. : Sun uástá čiččâm leibid."> 
       <pattern>
         <pattern-item n="num_nomacc"/>
@@ -3297,6 +3352,7 @@ C[_]-T  sent
 
       </action>
     </rule>
+
 
     <rule comment="C[AT]-NUM  semyear_loc gets ive" c="2013. : ive 2013.">
       <pattern>
