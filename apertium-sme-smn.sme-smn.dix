@@ -4115,6 +4115,7 @@
 
     <!-- ASECTION: Verbs -->
 
+    <e><p><l>gearjidit<s n="vblex"/><s n="tv"/></l><r>kerjidiđ<s n="vblex"/></r></p></e>
     <e><p><l>notkat<s n="vblex"/><s n="tv"/></l><r>nutkâđ<s n="vblex"/></r></p></e>
     <e><p><l>durddidit<s n="vblex"/><s n="tv"/></l><r>turgediđ<s n="vblex"/></r></p></e>
     <e><p><l>livkit<s n="vblex"/><s n="iv"/></l><r>livkkeđ<s n="vblex"/></r></p></e>
@@ -5007,7 +5008,7 @@
     <e><p><l>orrul<s n="adj"/></l><r>uáccáá<s n="adj"/></r></p></e><!-- not in sme -->
     <e><p><l>ortodoksalaš<s n="adj"/></l><r>ortodoksilâš<s n="adj"/></r></p></e>
     <e><p><l>oránša<s n="adj"/></l><r>ooraans<s n="adj"/></r></p></e>
-    <e><p><l>oskkolaš<s n="adj"/></l><r>oskovâš<s n="adj"/></r></p></e>
+    <e><p><l>oskkolaš<s n="adj"/></l><r>oskolâš<s n="adj"/></r></p></e>
     <e><p><l>ovccát<s n="adj"/></l><r>oovcád<s n="adj"/></r></p></e>
     <e><p><l>ovddeš<s n="adj"/></l><r>oovdiš<s n="adj"/></r></p></e>
     <e><p><l>ovddit<s n="adj"/></l><r>oovdeb<s n="adj"/></r></p></e>
@@ -5858,6 +5859,7 @@
     <e><p><l>báhcat<s n="n"/></l><r>paaccâh<s n="n"/></r></p></e>
     <e><p><l>báhkin<s n="n"/></l><r>päähin<s n="n"/></r></p></e>
     <e><p><l>báhkka<s n="n"/></l><r>pakkâ<s n="n"/></r></p></e>
+    <e><p><l>báhkka<s n="n"/></l><r>paahâs<s n="n"/></r></p></e>
     <e><p><l>báhkki<s n="n"/></l><r>päkki<s n="n"/></r></p></e>
     <e><p><l>báhkkon<s n="n"/></l><r>pákkum<s n="n"/></r></p></e>
     <e><p><l>báhpagárdin<s n="n"/></l><r>pappâl<s n="n"/></r></p></e>
@@ -8850,6 +8852,7 @@
     <e><p><l>galgat<s n="vblex"/><s n="iv"/></l><r>kolgâđ<s n="vblex"/></r></p></e>
     <e><p><l>galledit<s n="vblex"/><s n="tv"/></l><r>kolliđ<s n="vblex"/></r></p></e>
     <e><p><l>gallestallat<s n="vblex"/><s n="tv"/></l><r>kolliistâllâđ<s n="vblex"/></r></p></e>
+    <e><p><l>gallestaddat<s n="vblex"/><s n="tv"/></l><r>kolliistâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>garradit<s n="vblex"/><s n="tv"/></l><r>korrâdiđ<s n="vblex"/></r></p></e>
     <e><p><l>garret<s n="vblex"/><s n="tv"/></l><r>kardeđ<s n="vblex"/></r></p></e>
     <e><p><l>garvit<s n="vblex"/><s n="tv"/></l><r>karveđ<s n="vblex"/></r></p></e>
