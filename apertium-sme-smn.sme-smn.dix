@@ -1187,6 +1187,7 @@
     <e><p><l>viikiŋŋa<s n="n"/></l><r>viikiŋg<s n="n"/></r></p></e>
     <e><p><l>hutkkus<s n="n"/></l><r>hutkos<s n="n"/></r></p></e>
 
+    <e><p><l>johgáddi<s n="n"/></l><r>juhâriddo<s n="n"/></r></p></e>
     <e><p><l>láhkan<s n="n"/></l><r>laakaan<s n="n"/></r></p></e>
     <e><p><l>monumeanta<s n="n"/></l><r>monument<s n="n"/></r></p></e>
     <e><p><l>beaivelahkki<s n="n"/></l><r>peivilakke<s n="n"/></r></p></e>
@@ -4115,6 +4116,8 @@
 
     <!-- ASECTION: Verbs -->
 
+    <e><p><l>bardit<s n="vblex"/><s n="tv"/></l><r>pardeđ<s n="vblex"/></r></p></e>
+    <e><p><l>vádjolit<s n="vblex"/><s n="iv"/></l><r>vajâldiđ<s n="vblex"/></r></p></e>
     <e><p><l>gearjidit<s n="vblex"/><s n="tv"/></l><r>kerjidiđ<s n="vblex"/></r></p></e>
     <e><p><l>notkat<s n="vblex"/><s n="tv"/></l><r>nutkâđ<s n="vblex"/></r></p></e>
     <e><p><l>durddidit<s n="vblex"/><s n="tv"/></l><r>turgediđ<s n="vblex"/></r></p></e>
@@ -6899,7 +6902,7 @@
     <e><p><l>lávda<s n="n"/></l><r>laggâ<s n="n"/></r></p></e>
     <e><p><l>lávdealmmái<s n="n"/></l><r>lävdialmai<s n="n"/></r></p></e>
     <e><p><l>lávdegoddi<s n="n"/></l><r>lävdikodde<s n="n"/></r></p></e>
-    <e><p><l>lávdi<s n="n"/></l><r>lävdi<s n="n"/></r></p></e>
+    <e><p><l>lávdi<s n="n"/></l><r>lyevi<s n="n"/></r></p></e>
     <e><p><l>lávka<s n="n"/></l><r>lavkkâ<s n="n"/></r></p></e>
     <e><p><l>lávki<s n="n"/></l><r>lävkki<s n="n"/></r></p></e>
     <e><p><l>lávkkis<s n="n"/></l><r>suámsur<s n="n"/></r></p></e>
@@ -9764,6 +9767,7 @@
     <e><p><l>njoarosteaddji<s n="n"/></l><r>njuárusteijee<s n="n"/></r></p></e>
     <e><p><l>oahpaheaddji<s n="n"/></l><r>máttáátteijee<s n="n"/></r></p></e>
     <e><p><l>oaidni<s n="n"/><s n="nomag"/></l><r>keččee<s n="n"/></r></p></e>
+    <e><p><l>oalgi<s n="n"/></l><r>uálgi<s n="n"/></r></p></e>
     <e><p><l>oalgi<s n="n"/></l><r>uálgátuáivi<s n="n"/></r></p></e>
     <e><p><l>oamasteaddji<s n="n"/></l><r>omâsteijee<s n="n"/></r></p></e>
     <e><p><l>olli<s n="n"/></l><r>ooláádmuddo<s n="n"/></r></p></e>
