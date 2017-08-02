@@ -1307,7 +1307,7 @@ Write comments to forthcoming rules before this line -->
     <match tags="n.*"/>
   </rule>
 
-<!-- skierru (LP dahje muorra -->
+<!-- skierru (LP dahje muorra) -->
   <rule weight="1.0">
     <match lemma="skearru">
       <select lemma="skierri"/>
@@ -1328,6 +1328,27 @@ Write comments to forthcoming rules before this line -->
     <match lemma="skierru">
       <select lemma="skiärru"/>
     </match>
+  </rule>
+
+<!-- giitu -->
+  <rule weight="1.0">
+    <match lemma="giitu" tags="n.*">
+      <select lemma="kijtto"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="giitu" tags="n.*">
+      <select lemma="takkâ"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.6">
+    <match lemma="giitu" tags="n.*">
+      <select lemma="takkâ"/>
+    </match>
+    <match/>
+    <match lemma="ovddas"/>
   </rule>
 
 
@@ -1735,6 +1756,28 @@ Write comments to forthcoming rules before this line -->
     <match lemma="haŋkit">
       <select lemma="škaŋkkeđ"/>
     </match>
+  </rule>
+
+
+
+<!-- joavdat -->
+  <rule weight="1.0">
+    <match lemma="joavdat">
+      <select lemma="olleeđ"/>
+    </match> 
+  </rule>
+
+  <rule weight="0.5">
+    <match lemma="joavdat">
+      <select lemma="karttâđ"/>
+    </match> 
+  </rule>
+
+   <rule weight="0.6">
+    <match lemma="joavdat">
+      <select lemma="karttâđ"/>
+    </match>
+   <match tags="*.*.inf.*"/>  
   </rule>
 
 
