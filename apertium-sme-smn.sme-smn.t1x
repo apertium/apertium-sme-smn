@@ -1760,6 +1760,7 @@ C[_]-T  sent
       <list-item v="objektiivlâš"/>
       <list-item v="ohtâlâš"/>
       <list-item v="olmoošlâš"/>
+      <list-item v="oovdiš"/>
       <list-item v="oovtmanolâš"/>
       <list-item v="oovtâkielâlâš"/>
       <list-item v="oovtâmielâlâš"/>
@@ -3641,6 +3642,57 @@ C[_]-T  sent
                </choose>
       </action>
     </rule>
+
+
+    <rule comment="C[C]-NP  prn_adj_attr nounattr" c="SME : SMN ovddeš Kumari Devi náitala">  
+      <pattern>
+        <pattern-item n="prn_adj_attr"/>
+        <pattern-item n="attr"/>
+      </pattern>
+      <action>
+        <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
+        <choose><when><test><or>
+        <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
+        </or></test>
+        <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
+        </when></choose>
+        <choose><when c="siviila bivttas : siiviilpiivtâs">
+        <test><not><equal><clip pos="1" side="tl" part="a_cmp"/><lit v=""/></equal></not></test>
+        <out>
+          <chunk name="jn" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <mlu>
+            <lu><clip pos="1" side="tl" part="whole"/></lu>
+            <lu><clip pos="2" side="tl" part="whole"/></lu>
+            </mlu>
+          </chunk>
+        </out>
+          </when>
+               <otherwise>
+        <out>
+          <chunk name="j_n" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="func"/></tag>
+            </tags>
+            <lu><clip pos="1" side="tl" part="whole"/></lu>
+            <b pos="1"/>
+            <lu><clip pos="2" side="tl" part="whole"/></lu>
+          </chunk>
+        </out>
+               </otherwise>
+               </choose>
+      </action>
+    </rule>
+
+
+    
     <rule comment="C[C]-NP prn_adj_attr adjattr_all noun" c="SME : SMN">  
       <pattern>
         <pattern-item n="prn_adj_attr"/>
