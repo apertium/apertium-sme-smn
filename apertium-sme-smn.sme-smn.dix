@@ -247,6 +247,7 @@
     <e><p><l>gávcci<s n="num"/></l><r>käävci<s n="num"/></r></p></e>
     <e><p><l>ovcci<s n="num"/></l><r>oovce<s n="num"/></r></p></e>
     <e><p><l>logi<s n="num"/></l><r>love<s n="num"/></r></p></e>
+    <e><p><l>logemat<s n="num"/></l><r>suullân<b/>love<s n="num"/></r></p></e>
     <e><p><l>oktanuppelohkái<s n="num"/></l><r>ohtnubáloh<s n="num"/></r></p></e>
     <e><p><l>guoktenuppelohkái<s n="num"/></l><r>kyehtnubáloh<s n="num"/></r></p></e>
     <e><p><l>golbmanuppelohkái<s n="num"/></l><r>kulmânubáloh<s n="num"/></r></p></e>
@@ -1187,6 +1188,7 @@
     <e><p><l>pyramiida<s n="n"/></l><r>pyramid<s n="n"/></r></p></e>
     <e><p><l>viikiŋŋa<s n="n"/></l><r>viikiŋg<s n="n"/></r></p></e>
     <e><p><l>hutkkus<s n="n"/></l><r>hutkos<s n="n"/></r></p></e>
+    <e><p><l>dielku<s n="n"/></l><r>tiälkku<s n="n"/></r></p></e>
 
     <e><p><l>rituála<s n="n"/></l><r>rituaal<s n="n"/></r></p></e>
     <e><p><l>kásta<s n="n"/></l><r>kasti<s n="n"/></r></p></e>
@@ -1241,7 +1243,8 @@
     <e r="RL"><p><l>viessu<s n="n"/></l><r>viäsu<s n="n"/></r></p></e>
     <e r="LR"><p><l>lanjadat<s n="n"/></l><r>viste<s n="n"/></r></p></e>
     <e r="LR"><p><l>visti<s n="n"/></l><r>táálu<s n="n"/></r></p></e>
-    <e><p><l>latnja<s n="n"/></l><r>viste<s n="n"/></r></p></e>
+<!--<e><p><l>latnja<s n="n"/></l><r>viste<s n="n"/></r></p></e> (XXX evt. rule for this-->
+    <e><p><l>latnja<s n="n"/></l><r>lonnjâ<s n="n"/></r></p></e>
     <e><p><l>oađđadagat<s n="n"/></l><r>uáđáduvah<s n="n"/></r></p></e>
     <e><p><l>oađđádagat<s n="n"/></l><r>uáđáduvah<s n="n"/></r></p></e>
     <e><p><l>guosseviessu<s n="n"/></l><r>kyessiviste<s n="n"/></r></p></e>
@@ -4123,6 +4126,8 @@
     <!-- ASECTION: Verbs -->
 
     <e><p><l>njaŋggirdit<s n="vblex"/><s n="iv"/></l><r>kašmârdiđ<s n="vblex"/></r></p></e>
+    <e><p><l>giiket<s n="vblex"/><s n="tv"/></l><r>kijkkiđ<s n="vblex"/></r></p></e> <!-- XXX check -->
+    
     <e><p><l>hurgit<s n="vblex"/><s n="iv"/></l><r>hurgeđ<s n="vblex"/></r></p></e>
     <e><p><l>bardit<s n="vblex"/><s n="tv"/></l><r>pardeđ<s n="vblex"/></r></p></e>
     <e><p><l>vádjolit<s n="vblex"/><s n="iv"/></l><r>vajâldiđ<s n="vblex"/></r></p></e>
@@ -4398,6 +4403,7 @@
     <e><p><l>dahkat<s n="vblex"/><s n="tv"/></l><r>porgâđ<s n="vblex"/></r></p></e>
     <e><p><l>dahkat<s n="vblex"/><s n="tv"/></l><r>toohâđ<s n="vblex"/></r></p></e>
     <e><p><l>darvánit<s n="vblex"/><s n="iv"/></l><r>tarvaniđ<s n="vblex"/></r></p></e> 
+    <e><p><l>darvvihit<s n="vblex"/><s n="iv"/></l><r>tarvettiđ<s n="vblex"/></r></p></e> 
     <e><p><l>deaividit<s n="vblex"/><s n="tv"/></l><r>teivâđ<s n="vblex"/></r></p></e> 
     <e><p><l>dearpat<s n="vblex"/><s n="tv"/></l><r>terppâđ<s n="vblex"/></r></p></e> 
     <e><p><l>dearvvasmuvvat<s n="vblex"/><s n="iv"/></l><r>tiervâsmiđ<s n="vblex"/></r></p></e>
@@ -5532,6 +5538,7 @@
   <e><p><l>TV<s n="n"/></l><r>TV<s n="n"/></r></p></e>
     <e><p><l>SPR<s n="n"/></l><r>SPR<s n="n"/></r></p></e>
     <e><p><l>NRK<s n="n"/></l><r>NRK<s n="n"/></r></p></e>
+    <e><p><l>GPS<s n="n"/></l><r>GPS<s n="n"/></r></p></e>
     <e><p><l>ON<s n="n"/></l><r>ON<s n="n"/></r></p></e>
     <e><p><l>EU<s n="n"/></l><r>EU<s n="n"/></r></p></e>
     <e><p><l>beallemuddu<s n="n"/></l><r>pelimuddo<s n="n"/></r></p></e>
@@ -10221,6 +10228,7 @@
     <e><p><l>geasku<s n="n"/></l><r>pákkum<s n="n"/></r></p></e>
     <e><p><l>gielu<s n="n"/></l><r>vorrâcipâlâs<s n="n"/></r></p></e>
     <e><p><l>giitu<s n="n"/></l><r>kijtto<s n="n"/></r></p></e>
+    <e><p><l>giitu<s n="n"/></l><r>takkâ<s n="n"/></r></p></e>
     <e><p><l>giljobaš<s n="n"/></l><r>laavlâčuánjá<s n="n"/></r></p></e>
     <e><p><l>goallu<s n="n"/><s n="g3"/></l><r>kiijlu<s n="n"/></r></p></e>
     <e><p><l>jiellat<s n="n"/></l><r>jiellâh<s n="n"/></r></p></e>
@@ -10271,6 +10279,7 @@
 <!-- CSECTION: Verbs 1-m frequency ordered -->
 
     <e><p><l>dadjat<s n="vblex"/><s n="tv"/></l><r>ettâđ<s n="vblex"/></r></p></e>
+    <e><p><l>čearsát<s n="vblex"/><s n="tv"/></l><r>čiärsáđ<s n="vblex"/></r></p></e>
     <e><p><l>čájehit<s n="vblex"/><s n="tv"/></l><r>čäittiđ<s n="vblex"/></r></p></e>
     <e><p><l>atnit<s n="vblex"/><s n="tv"/></l><r>anneeđ<s n="vblex"/></r></p></e>
     <e><p><l>nannet<s n="vblex"/><s n="tv"/></l><r>nonniđ<s n="vblex"/></r></p></e>
