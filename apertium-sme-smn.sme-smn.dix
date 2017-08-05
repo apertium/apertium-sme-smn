@@ -302,7 +302,7 @@
     <e><p><l>guora<s n="post"/></l><r>piällás<s n="post"/></r></p></e>
     <e><p><l>gurrii<s n="post"/></l><r>piällás<s n="post"/></r></p></e>
     <e><p><l>háldui<s n="post"/></l><r>haaldun<s n="post"/></r></p></e> 
-    <e><p><l>lusa<s n="post"/></l><r>luusâ<s n="post"/></r></p></e>
+    <e><p><l>lusa<s n="post"/></l><r>kuuvl<s n="post"/></r></p></e>
     <e r="RL"><p><l>lusa<s n="post"/></l><r>luus<s n="post"/></r></p></e>
     <e r="LR"><p><l>maŋŋel<s n="post"/></l><r>maŋa<s n="post"/></r></p></e>
     <e><p><l>maŋŋá<s n="post"/></l><r>maŋa<s n="post"/></r></p></e>
@@ -1190,6 +1190,8 @@
     <e><p><l>hutkkus<s n="n"/></l><r>hutkos<s n="n"/></r></p></e>
     <e><p><l>dielku<s n="n"/></l><r>tiälkku<s n="n"/></r></p></e>
 
+    <e><p><l>muhkki<s n="n"/></l><r>suándi<s n="n"/></r></p></e>
+    <e><p><l>seaguhus<s n="n"/></l><r>siävuttâs<s n="n"/></r></p></e>
     <e><p><l>rituála<s n="n"/></l><r>rituaal<s n="n"/></r></p></e>
     <e><p><l>kásta<s n="n"/></l><r>kasti<s n="n"/></r></p></e>
     <e><p><l>horoskohpa<s n="n"/></l><r>horoskoop<s n="n"/></r></p></e>
@@ -4125,6 +4127,7 @@
 
     <!-- ASECTION: Verbs -->
 
+    <e><p><l>rohkkáhit<s n="vblex"/><s n="tv"/></l><r>rohhááttiđ<s n="vblex"/></r></p></e>
     <e><p><l>njaŋggirdit<s n="vblex"/><s n="iv"/></l><r>kašmârdiđ<s n="vblex"/></r></p></e>
     <e><p><l>giiket<s n="vblex"/><s n="tv"/></l><r>kijkkiđ<s n="vblex"/></r></p></e> <!-- XXX check -->
     
@@ -7177,7 +7180,7 @@
     <e><p><l>oahppogirji<s n="n"/></l><r>oppâkirje<s n="n"/></r></p></e>
     <e><p><l>oahppoávnnas<s n="n"/></l><r>oppâaamnâs<s n="n"/></r></p></e>
     <e><p><l>oahppu<s n="n"/></l><r>uáppu<s n="n"/></r></p></e>
-    <e><p><l>oaidnu<s n="n"/></l><r>uáivil<s n="n"/></r></p></e>
+    <e><p><l>oaidnu<s n="n"/></l><r>uáinu<s n="n"/></r></p></e>
     <e><p><l>oaivegávpot<s n="n"/></l><r>uáivikaavpug<s n="n"/></r></p></e>
     <e><p><l>oaiveskálžu<s n="n"/></l><r>uáiviskálžu<s n="n"/></r></p></e>
     <e><p><l>oaivil<s n="n"/></l><r>uáivil<s n="n"/></r></p></e>
