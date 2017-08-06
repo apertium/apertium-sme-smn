@@ -732,6 +732,7 @@
 
     <!-- ASECTION: Adjectives -->
  
+    <e><p><l>jáldu<s n="adj"/></l><r>jáldu<s n="adj"/></r></p></e>
     <e><p><l>beal<s n="adj"/></l><r>pel<s n="adj"/></r></p></e>
     <e><p><l>lihkkoš<s n="adj"/></l><r>luholâš<s n="adj"/></r></p></e>
     <e><p><l>rávdnjái<s n="adj"/></l><r>rávŋáá<s n="adj"/></r></p></e>
@@ -1190,6 +1191,8 @@
     <e><p><l>hutkkus<s n="n"/></l><r>hutkos<s n="n"/></r></p></e>
     <e><p><l>dielku<s n="n"/></l><r>tiälkku<s n="n"/></r></p></e>
 
+    <e><p><l>murku<s n="n"/></l><r>miärkká<s n="n"/></r></p></e>
+    <e><p><l>semeanta<s n="n"/></l><r>sement<s n="n"/></r></p></e>
     <e><p><l>láirá<s n="n"/></l><r>njaajâ<s n="n"/></r></p></e>
     <e><p><l>muhkki<s n="n"/></l><r>suándi<s n="n"/></r></p></e>
     <e><p><l>seaguhus<s n="n"/></l><r>siävuttâs<s n="n"/></r></p></e>
@@ -4132,6 +4135,9 @@
     <e><p><l>njaŋggirdit<s n="vblex"/><s n="iv"/></l><r>kašmârdiđ<s n="vblex"/></r></p></e>
     <e><p><l>giiket<s n="vblex"/><s n="tv"/></l><r>kijkkiđ<s n="vblex"/></r></p></e> <!-- XXX check -->
     
+    <e><p><l>juhkaluvvat<s n="vblex"/><s n="iv"/></l><r>uáiváduđ<s n="vblex"/></r></p></e>
+    <e><p><l>fáluhit<s n="vblex"/><s n="tv"/></l><r>faallâđ<s n="vblex"/></r></p></e>
+    <e><p><l>garrat<s n="vblex"/><s n="iv"/></l><r>koorrâđ<s n="vblex"/></r></p></e>
     <e><p><l>hurgit<s n="vblex"/><s n="iv"/></l><r>hurgeđ<s n="vblex"/></r></p></e>
     <e><p><l>bardit<s n="vblex"/><s n="tv"/></l><r>pardeđ<s n="vblex"/></r></p></e>
     <e><p><l>vádjolit<s n="vblex"/><s n="iv"/></l><r>vajâldiđ<s n="vblex"/></r></p></e>
