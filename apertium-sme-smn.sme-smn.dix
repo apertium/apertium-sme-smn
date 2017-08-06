@@ -364,6 +364,7 @@
 
     <!-- ASECTION: Adverbs -->
     
+    <e><p><l>lahkosiin<s n="adv"/></l><r>alda<s n="adv"/></r></p></e>
     <e><p><l>gosage<s n="adv"/></l><r>kuussân<s n="adv"/></r></p></e>
     <e><p><l>ihttážii<s n="adv"/></l><r>ittáážân<s n="adv"/></r></p></e>
     <e><p><l>gusto<s n="adv"/></l><r>kustoo<s n="adv"/></r></p></e>
@@ -1191,6 +1192,8 @@
     <e><p><l>hutkkus<s n="n"/></l><r>hutkos<s n="n"/></r></p></e>
     <e><p><l>dielku<s n="n"/></l><r>tiälkku<s n="n"/></r></p></e>
 
+    <e><p><l>fievru<s n="n"/></l><r>vuájáán<s n="n"/></r></p></e>
+    <e><p><l>vustolat<s n="n"/></l><r>vuástálâh<s n="n"/></r></p></e>
     <e><p><l>murku<s n="n"/></l><r>miärkká<s n="n"/></r></p></e>
     <e><p><l>semeanta<s n="n"/></l><r>sement<s n="n"/></r></p></e>
     <e><p><l>láirá<s n="n"/></l><r>njaajâ<s n="n"/></r></p></e>
@@ -10520,7 +10523,7 @@
     <e><p><l>baldalit<s n="vblex"/><s n="tv"/></l><r>paldattâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>moaráhuvvat<s n="vblex"/><s n="iv"/></l><r>muáráskiđ<s n="vblex"/></r></p></e>
     <e><p><l>gárihuvvat<s n="vblex"/><s n="iv"/></l><r>uáiváduđ<s n="vblex"/></r></p></e>
-    <e><p><l>beahttašuvvat<s n="vblex"/><s n="iv"/></l><r>pettâšuđ<s n="vblex"/></r></p></e>
+    <e><p><l>beahttašuvvat<s n="vblex"/><s n="iv"/></l><r>pettuđ<s n="vblex"/></r></p></e>
     <e><p><l>fuoikut<s n="vblex"/><s n="tv"/></l><r>luoimâđ<s n="vblex"/></r></p></e>
     <e><p><l>viegahit<s n="vblex"/><s n="tv"/></l><r>kačâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>riggat<s n="vblex"/><s n="iv"/></l><r>turbođ<s n="vblex"/></r></p></e>
