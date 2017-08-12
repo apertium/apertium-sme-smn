@@ -733,6 +733,7 @@
 
     <!-- ASECTION: Adjectives -->
  
+    <e><p><l>šliettas<s n="adj"/></l><r>šliedâs<s n="adj"/></r></p></e>
     <e><p><l>jáldu<s n="adj"/></l><r>jáldu<s n="adj"/></r></p></e>
     <e><p><l>beal<s n="adj"/></l><r>pel<s n="adj"/></r></p></e>
     <e><p><l>lihkkoš<s n="adj"/></l><r>luholâš<s n="adj"/></r></p></e>
@@ -1192,6 +1193,10 @@
     <e><p><l>hutkkus<s n="n"/></l><r>hutkos<s n="n"/></r></p></e>
     <e><p><l>dielku<s n="n"/></l><r>tiälkku<s n="n"/></r></p></e>
 
+    <e><p><l>šukkoláda<s n="n"/></l><r>suklaa<s n="n"/></r></p></e>
+    <e><p><l>gohčostâh<s n="n"/></l><r>kočostâh<s n="n"/></r></p></e>
+    <e><p><l>sorta<s n="n"/></l><r>sorttâ<s n="n"/></r></p></e>
+    <e><p><l>apteika<s n="n"/></l><r>apteek<s n="n"/></r></p></e>
     <e><p><l>návli<s n="n"/></l><r>nävli<s n="n"/></r></p></e>
     <e><p><l>goikkádat<s n="n"/></l><r>koškádâh<s n="n"/></r></p></e>
     <e><p><l>fievru<s n="n"/></l><r>vuájáán<s n="n"/></r></p></e>
@@ -4137,6 +4142,7 @@
 
     <!-- ASECTION: Verbs -->
 
+    <e><p><l>fáiput<s n="vblex"/><s n="iv"/></l><r>fáškuđ<s n="vblex"/></r></p></e>
     <e><p><l>rohkkáhit<s n="vblex"/><s n="tv"/></l><r>rohhááttiđ<s n="vblex"/></r></p></e>
     <e><p><l>njaŋggirdit<s n="vblex"/><s n="iv"/></l><r>kašmârdiđ<s n="vblex"/></r></p></e>
     <e><p><l>giiket<s n="vblex"/><s n="tv"/></l><r>kijkkiđ<s n="vblex"/></r></p></e> <!-- XXX check -->
@@ -4424,7 +4430,7 @@
     <e><p><l>darvvihit<s n="vblex"/><s n="iv"/></l><r>tarvettiđ<s n="vblex"/></r></p></e> 
     <e><p><l>deaividit<s n="vblex"/><s n="tv"/></l><r>teivâđ<s n="vblex"/></r></p></e> 
     <e><p><l>dearpat<s n="vblex"/><s n="tv"/></l><r>terppâđ<s n="vblex"/></r></p></e> 
-    <e><p><l>dearvvasmuvvat<s n="vblex"/><s n="iv"/></l><r>tiervâsmiđ<s n="vblex"/></r></p></e>
+    <e><p><l>dearvvasmuvvat<s n="vblex"/><s n="iv"/></l><r>puárániđ<s n="vblex"/></r></p></e>
     <e><p><l>doalahit<s n="vblex"/><s n="tv"/></l><r>tolliđ<s n="vblex"/></r></p></e>
     <e><p><l>doallat<s n="vblex"/><s n="tv"/></l><r>toollâđ<s n="vblex"/></r></p></e>
     <e><p><l>doarjalit<s n="vblex"/><s n="tv"/></l><r>tuárjuđ<s n="vblex"/></r></p></e> 
@@ -9470,7 +9476,6 @@
     <e><p><l>viidáset<s n="adv"/></l><r>vijđásubbooht<s n="adv"/></r></p></e>
     <e><p><l>viidásit<s n="adv"/></l><r>vijđásubbooht<s n="adv"/></r></p></e>
     <e><p><l>vaikko<s n="adv"/></l><r>veikkâ<s n="adv"/></r></p></e>
-    <e><p><l>riekta<s n="adv"/></l><r>riehtâ<s n="adv"/></r></p></e>
     <e><p><l>riekta<s n="adv"/></l><r>olmânáál<s n="adv"/></r></p></e>
     <e><p><l>visot<s n="adv"/></l><r>puoh<s n="adv"/></r></p></e>
     <e><p><l>loahpalaččat<s n="adv"/></l><r>lopâlávt<s n="adv"/></r></p></e>
@@ -9528,7 +9533,6 @@
     <e><p><l>mearkkašahtti<s n="adj"/></l><r>merhâšittee<s n="adj"/></r></p></e><!-- Neeta álggahan dá -->
     <e><p><l>boahtte<s n="adj"/></l><r>puáttee<s n="adj"/></r></p></e>
     <e><p><l>duohta<s n="adj"/></l><r>tuotâ<s n="adj"/></r></p></e>
-    <e><p><l>riekta<s n="adj"/></l><r>rievtis<s n="adj"/></r></p></e>
     <e><p><l>iešguđetlágan<s n="adj"/></l><r>jieškote-uvlágán<s n="adj"/></r></p></e>
     <e><p><l>priváhta<s n="adj"/></l><r>priivaat<s n="adj"/></r></p></e>
     <e><p><l>oppalaš<s n="adj"/></l><r>almolâš<s n="adj"/></r></p></e>
