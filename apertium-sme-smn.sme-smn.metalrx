@@ -296,7 +296,7 @@ Write comments to forthcoming rules before this line -->
 <!-- gosa -->
 
   <rule weight="1.0">
-    <match lemma="gosa" tags="adv.*.foc_neg-ge.*">
+    <match lemma="gosa" tags="adv.foc_neg-ge.*">
       <select lemma="kuussân" tags="adv.*"/>
     </match>
   </rule>
