@@ -1308,6 +1308,7 @@ C[_]-T  sent
       <attr-item tags="sem_obj_semcon"/>
       <attr-item tags="sem_obj_sign"/>
       <attr-item tags="sem_obj_state"/>
+      <attr-item tags="sem_obj_veh"/>
       <attr-item tags="sem_org"/>
       <attr-item tags="sem_org_prod-cogn"/>
       <attr-item tags="sem_org_rule"/>
