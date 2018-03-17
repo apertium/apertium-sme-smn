@@ -1172,3 +1172,8 @@ tmx_data/vaalit2012_sme2smn.tmx -text
 tmx_data/vajaldumjuovlah_sme2smn.tmx -text
 tmx_data/ympsiht_sme2smn.tmx -text
 /wercheck_mt-otpt.py -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
