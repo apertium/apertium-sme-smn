@@ -246,7 +246,7 @@ clean-local:
 
 test-install:
 	DESTDIR=tmp-$@ make install
-	find tmp-$@ -type f -name '*.mode' | xargs -r sed -i.tmp "s% '\($(prefix)\)% 'tmp-$@/\1%g"
+	find tmp-$@ -type f -name '*.mode' | xargs sed -i.tmp "s% '\($(prefix)\)% 'tmp-$@/\1%g"
 	echo "ja" | apertium -d tmp-$@/$(prefix)/share/apertium sme-smn | tee tmp-$@/mt
 	@echo "já" > tmp-$@/ref
 	@diff tmp-$@/ref tmp-$@/mt
