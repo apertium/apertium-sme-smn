@@ -63,6 +63,13 @@
     <def-attr n="a_par">
       <attr-item tags="par"/>
     </def-attr>
+    <def-attr n="a_spec_smn_tags">
+      <attr-item tags="sh"/>
+      <attr-item tags="←ext→"/>
+      <attr-item tags="←hab→"/>
+      <attr-item tags="←logo→"/>
+      <attr-item tags="←vdic→"/>
+    </def-attr>
 
     <def-attr n="a_sem">
       <attr-item tags="sem_act"/>
@@ -429,6 +436,7 @@
       <let><clip pos="1" side="tl" part="a_par"/><lit-tag v="sg.gen"/></let>
       <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_sem"/><lit v=""/></let>
+      <let><clip pos="1" side="tl" part="a_spec_smn_tags"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let> <!-- must be twice -->
     </def-macro>
   </section-def-macros>
