@@ -939,12 +939,12 @@
     <e><p><l>gokčevaš<s n="adj"/></l><r>kohčâvâš<s n="adj"/></r></p></e>
     <e><p><l>guhkesáigásaš<s n="adj"/></l><r>kuhesáigásâš<s n="adj"/></r></p></e>
     <e><p><l>gullevaš<s n="adj"/></l><r>lohtâseijee<s n="adj"/></r></p></e>
-    <e><p><l>gullevaš<s n="adj"/><s n="sem_dummytag"/><s n="attr"/></l><r>kuullâđ¹<s n="vblex"/><s n="prsprc"/></r></p></e>
+    <e><p><l>gullevaš<s n="adj"/><s n="attr"/></l><r>kuullâđ¹<s n="vblex"/><s n="prsprc"/></r></p></e>
     <e><p><l>guoirras<s n="adj"/></l><r>kuoirâs<s n="adj"/></r></p></e>
     <e><p><l>guoktilaš<s n="adj"/></l><r>kyehtilâš<s n="adj"/></r></p></e>
     <e><p><l>guorbbas<s n="adj"/></l><r>kuorbâs<s n="adj"/></r></p></e>
-    <e><p><l>guoskavaš<s n="adj"/><s n="sem_dummytag"/><s n="attr"/></l><r>kuoskâđ<s n="vblex"/><s n="prsprc"/></r></p></e>
-    <e><p><l>guoskevaš<s n="adj"/><s n="sem_dummytag"/><s n="attr"/></l><r>kuoskâđ<s n="vblex"/><s n="prsprc"/></r></p></e>
+    <e><p><l>guoskavaš<s n="adj"/><s n="attr"/></l><r>kuoskâđ<s n="vblex"/><s n="prsprc"/></r></p></e>
+    <e><p><l>guoskevaš<s n="adj"/><s n="attr"/></l><r>kuoskâđ<s n="vblex"/><s n="prsprc"/></r></p></e>
     <e><p><l>guovgat<s n="adj"/></l><r>kuovgâd<s n="adj"/></r></p></e>
     <e><p><l>guovlluguovdasaš<s n="adj"/></l><r>kuávlulâš<s n="adj"/></r></p></e>
     <e><p><l>guovttegeardán<s n="adj"/></l><r>kyevtkiärdásâš<s n="adj"/></r></p></e>
@@ -4681,7 +4681,7 @@
     <e><p><l>boahttevaš<s n="adj"/></l><r>puáttee<s n="adj"/></r></p></e>
     <e><p><l>boaresáigásaš<s n="adj"/></l><r>puárisáigásâš<s n="adj"/></r></p></e>
     <e><p><l>boarka<s n="adj"/></l><r>puárkkáá<s n="adj"/></r></p></e>
-    <e><p><l>boasttu<s n="adj"/><s n="sem_dummytag"/><s n="attr"/></l><r>puástu<s n="adj"/><s n="cmp_attr"/><s n="cmp"/></r></p></e>
+    <e><p><l>boasttu<s n="adj"/><s n="attr"/></l><r>puástu<s n="adj"/><s n="cmp_attr"/><s n="cmp"/></r></p></e>
     <e><p><l>buhtis<s n="adj"/></l><r>putes<s n="adj"/></r></p></e>
     <e><p><l>buotlágan<s n="adj"/></l><r>puohlágán<s n="adj"/></r></p></e>
     <e><p><l>buotveagalaš<s n="adj"/></l><r>puohváldálâš<s n="adj"/></r></p></e>
@@ -4696,7 +4696,7 @@
     <e><p><l>báraheapme<s n="adj"/></l><r>parâttem<s n="adj"/></r></p></e>
     <e><p><l>cahkkat<s n="adj"/></l><r>hervii<s n="adj"/></r></p></e>
     <e><p><l>ceakkus<s n="adj"/></l><r>ciägus<s n="adj"/></r></p></e>
-    <e><p><l>ceavzil<s n="adj"/><s n="sem_hum"/><s n="attr"/></l><r>miänástuđ<s n="vblex"/><s n="prsprc"/></r></p></e>
+    <e><p><l>ceavzil<s n="adj"/><s n="attr"/></l><r>miänástuđ<s n="vblex"/><s n="prsprc"/></r></p></e>
     <e><p><l>civzza<s n="adj"/></l><r>riičâs<s n="adj"/></r></p></e>
     <e><p><l>coagis<s n="adj"/></l><r>cuávis<s n="adj"/></r></p></e>
     <e><p><l>coazzi<s n="adj"/></l><r>tiivâs<s n="adj"/></r></p></e>
@@ -5131,7 +5131,7 @@
     <e><p><l>siskkildas<s n="adj"/></l><r>siskáldâs<s n="adj"/></r></p></e>
     <e><p><l>siskkáldas<s n="adj"/></l><r>siskáldâs<s n="adj"/></r></p></e>
     <e><p><l>sivalaš<s n="adj"/></l><r>sujâlâš<s n="adj"/></r></p></e>
-    <e><p><l>siviila<s n="adj"/><s n="sem_hum"/><s n="attr"/></l><r>siiviil<s n="n"/><s n="cmp_sgnom"/><s n="cmp"/></r></p></e>
+    <e><p><l>siviila<s n="adj"/><s n="attr"/></l><r>siiviil<s n="n"/><s n="cmp_sgnom"/><s n="cmp"/></r></p></e>
     <e><p><l>sivvat<s n="adj"/></l><r>várugâs<s n="adj"/></r></p></e>
     <e><p><l>siđas<s n="adj"/></l><r>mavresteijee<s n="adj"/></r></p></e>
     <e><p><l>siđus<s n="adj"/></l><r>mavresteijee<s n="adj"/></r></p></e>
@@ -9018,6 +9018,7 @@
     <e><p><l>ijastallat<s n="vblex"/><s n="iv"/></l><r>ijâstâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>imaštallat<s n="vblex"/><s n="tv"/></l><r>imâštâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>ipmirdit<s n="vblex"/><s n="tv"/></l><r>iberdiđ<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>iskat<s n="vblex"/><s n="tv"/></l><r>iskâđ<s n="vblex"/></r></p></e>
     <e><p><l>iskat<s n="vblex"/><s n="tv"/></l><r>irâttiđ<s n="vblex"/></r></p></e>
     <e><p><l>iskkadit<s n="vblex"/><s n="tv"/></l><r>iskâdiđ<s n="vblex"/></r></p></e>
     <e><p><l>jienádit<s n="vblex"/><s n="tv"/></l><r>jienâdiđ<s n="vblex"/></r></p></e>
