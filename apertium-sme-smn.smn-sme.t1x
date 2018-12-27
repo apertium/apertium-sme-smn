@@ -71,6 +71,19 @@
       <attr-item tags="←vdic→"/>
       <attr-item tags="err_orth_mt"/>
     </def-attr>
+    <def-attr n="a_PoS">
+      <attr-item tags="adv"/>
+      <attr-item tags="num"/>
+      <attr-item tags="adj"/>
+      <attr-item tags="np"/>
+      <attr-item tags="n"/>
+      <attr-item tags="ij"/>
+      <attr-item tags="prn"/>
+      <attr-item tags="vblex"/>
+      <attr-item tags="post"/>
+      <attr-item tags="pr"/>
+      <attr-item tags="pcle"/>
+    </def-attr>
 
     <def-attr n="a_sem">
       <attr-item tags="sem_act"/>
