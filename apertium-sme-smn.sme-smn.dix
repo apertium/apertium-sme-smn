@@ -4636,9 +4636,12 @@
 
 
 
+
 <!-- BBBBBB       CHAPTER 2. tEQ1  = bidix with 1-1 match            -->
 
     <!--    BSECTION: Adjectives -->
+    <e><p><l>manuálalaš<s n="adj"/></l><r>manuaallâš<s n="adj"/></r></p></e>
+    <e><p><l>miehtemielalaš<s n="adj"/></l><r>mietimielâlâš<s n="adj"/></r></p></e>
     <e><p><l>addálas<s n="adj"/></l><r>addalâš<s n="adj"/></r></p></e>
     <e><p><l>agálaš<s n="adj"/></l><r>avalâš<s n="adj"/></r></p></e>
     <e><p><l>akademalaš<s n="adj"/></l><r>akateemisâš<s n="adj"/></r></p></e>
@@ -6242,6 +6245,7 @@
     <e><p><l>fáhkan<s n="n"/></l><r>miekkiväälis<s n="n"/></r></p></e>
     <e><p><l>fákta<s n="n"/></l><r>vahtâ<s n="n"/></r></p></e>
     <e><p><l>fálaldat<s n="n"/></l><r>falâldâh<s n="n"/></r></p></e>
+    <e><p><l>tiila<s n="n"/></l><r>tijlâ<s n="n"/></r></p></e>
     <e><p><l>fális<s n="n"/></l><r>fäälis<s n="n"/></r></p></e>
     <e><p><l>fánen<s n="n"/></l><r>faanin<s n="n"/></r></p></e>
     <e><p><l>fárppal<s n="n"/></l><r>faarpâl<s n="n"/></r></p></e>
@@ -7325,6 +7329,8 @@
     <e><p><l>rehket<s n="n"/></l><r>reekkig<s n="n"/></r></p></e>
     <e><p><l>reive<s n="n"/></l><r>reivâ<s n="n"/></r></p></e>
     <e><p><l>rektor<s n="n"/></l><r>rehtor<s n="n"/></r></p></e>
+
+    <e><p><l>analysáhtor<s n="n"/></l><r>analysaattor<s n="n"/></r></p></e>
     <e><p><l>resursa<s n="n"/></l><r>reesuurs<s n="n"/></r></p></e>
     <e><p><l>revolušuvdna<s n="n"/></l><r>vääldikomettem<s n="n"/></r></p></e>
     <e><p><l>riddoguovlu<s n="n"/></l><r>meerâ<s n="n"/></r></p></e>
