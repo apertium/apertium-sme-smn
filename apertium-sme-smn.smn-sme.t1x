@@ -59,6 +59,9 @@
       <attr-item tags="par"/>
       <attr-item tags="ess"/>
     </def-attr>
+    <def-attr n="a_foc_uv">
+      <attr-item tags="foc_uv"/>
+    </def-attr>
 
     <def-attr n="a_par">
       <attr-item tags="par"/>
@@ -452,6 +455,7 @@
       <let><clip pos="1" side="tl" part="a_sem"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_spec_smn_tags"/><lit v=""/></let>
       <let><clip pos="1" side="tl" part="a_trans"/><lit v=""/></let> <!-- must be twice -->
+      <let><clip pos="1" side="tl" part="a_foc_uv"/><lit-tag v="foc_naj"/></let> 
     </def-macro>
   </section-def-macros>
   <section-rules>
