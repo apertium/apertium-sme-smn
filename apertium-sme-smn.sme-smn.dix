@@ -101,8 +101,54 @@
     <sdef n="der_avt" c="derivation Der_avt"/>
     <sdef n="der_at" c="derivation Der_at"/>
     <sdef n="der_dimin" c="derivation"/>
-   
   </sdefs>
+  <pardefs>
+    <pardef n="duhat_milj" c="includes empty transition">
+      <e><p><l><s n="num"/></l><r><s n="num"/></r></p></e>   
+      <e><p><l>duhát<s n="num"/></l><r>tuhháát<s n="num"/></r></p></e>
+      <e><p><l>miljovdna<s n="num"/></l><r>miljovn<s n="num"/></r></p></e>
+    </pardef>
+    <pardef n="okta_ovcci" c="includes no empty transition">
+      <e><p><l>okta</l><r>ohtâ</r></p><par n="duhat_milj"/></e>
+      <e><p><l>guokte</l><r>kyehti</r></p><par n="duhat_milj"/></e>
+      <e><p><l>golbma</l><r>kulmâ</r></p><par n="duhat_milj"/></e>
+      <e><p><l>njeallje</l><r>nelji</r></p><par n="duhat_milj"/></e>
+      <e><p><l>vihtta</l><r>vittâ</r></p><par n="duhat_milj"/></e>
+      <e><p><l>guhtta</l><r>kuttâ</r></p><par n="duhat_milj"/></e>
+      <e><p><l>čieža</l><r>čiččâm</r></p><par n="duhat_milj"/></e>
+      <e><p><l>gávcci</l><r>käävci</r></p><par n="duhat_milj"/></e>
+      <e><p><l>ovcci</l><r>oovce</r></p><par n="duhat_milj"/></e>
+    </pardef>
+    <pardef n="0_logi" c="includes empty transition">
+      <e><p><l><s n="num"/></l><r><s n="num"/></r></p></e>  <!-- 102  -->
+      <e><p><l>logi</l><r>lov</r></p><par n="okta_ovcci"/></e> <!-- 129  -->
+      <e><p><l>logi<s n="num"/></l><r>lov<s n="num"/></r></p></e> <!-- 120  -->
+    </pardef>
+    <pardef n="guokte-ovccilogi" c="includes no empty transition">
+      <e><p><l>okta<s n="num"/></l><r>ohtâ<s n="num"/></r></p></e> <!-- 101 -->
+      <e><p><l>guokte</l><r>kyehti</r></p><par n="0_logi"/></e> <!-- 12N -->
+      <e><p><l>golbma</l><r>kulmâ</r></p><par n="0_logi"/></e> <!-- 13N -->
+      <e><p><l>njeallje</l><r>nelji</r></p><par n="0_logi"/></e> <!-- 14N -->
+      <e><p><l>vihtta</l><r>vittâ</r></p><par n="0_logi"/></e> <!-- 15N -->
+      <e><p><l>guhtta</l><r>kuttâ</r></p><par n="0_logi"/></e> <!-- 16N -->
+      <e><p><l>čieža</l><r>čiččâm</r></p><par n="0_logi"/></e> <!-- 170 -->
+      <e><p><l>gávcci</l><r>käävci</r></p><par n="0_logi"/></e> <!-- 18N -->
+      <e><p><l>ovcci</l><r>oovce</r></p><par n="0_logi"/></e> <!-- 19N -->
+    </pardef>
+    <pardef n="logi_" c="includes no empty transition">
+      <e><p><l>logi<s n="num"/></l><r>lov<s n="num"/></r></p></e> <!-- 20  -->
+      <e><p><l>logi</l><r>lov</r></p><par n="okta_ovcci"/></e> <!-- 29  -->
+      <e><p><l>lot</l><r>lov</r></p></e>  <!-- 20 attr  -->
+    </pardef>
+    <pardef n="0_čuođi" c="includes an empty transition">
+      <e><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+      <e><p><l>duhát<s n="num"/></l><r>tuhháát<s n="num"/></r></p></e>
+      <e><p><l>miljovdna<s n="num"/></l><r>miljovn<s n="num"/></r></p></e>
+      <e><p><l>čuođilogi<s n="num"/></l><r>čyetilov<s n="num"/></r></p></e>
+      <e><p><l>čuođi<s n="num"/></l><r>čyeti<s n="num"/></r></p></e> <!-- 200  -->
+      <e><p><l>čuođi</l><r>čyet</r></p><par n="guokte-ovccilogi"/></e> <!-- 209  -->
+    </pardef>
+  </pardefs>
 
   <section id="main" type="standard">
 <!-- AAAAA CHAPTER 1 The initial bidix - manually made in 2014 pluss october 2015, pluss placenames from Miina/Hannu November 2015   -->
@@ -234,18 +280,32 @@
     <e><p><l>vajáldahkes<s n="adj"/></l><r>vájáldittee<s n="adj"/></r></p></e>
 
     <!-- ASECTION: Numerals -->
-
-    <e><p><l>okta<s n="num"/></l><r>ohtâ<s n="num"/></r></p></e>
-    <e><p><l>guokte<s n="num"/></l><r>kyehti<s n="num"/></r></p></e>
-    <e><p><l>golbma<s n="num"/></l><r>kulmâ<s n="num"/></r></p></e>
-    <e><p><l>moaddeduhát<s n="num"/></l><r>muáddi<b/>tuhháát<s n="num"/></r></p></e> 
-    <e><p><l>njeallje<s n="num"/></l><r>nelji<s n="num"/></r></p></e>
-    <e><p><l>vihtta<s n="num"/></l><r>vittâ<s n="num"/></r></p></e>
-    <e><p><l>guhtta<s n="num"/></l><r>kuttâ<s n="num"/></r></p></e>
-    <e><p><l>čieža<s n="num"/></l><r>čiččâm<s n="num"/></r></p></e>
-    <e><p><l>gávcci<s n="num"/></l><r>käävci<s n="num"/></r></p></e>
-    <e><p><l>ovcci<s n="num"/></l><r>oovce<s n="num"/></r></p></e>
+    <e><p><l>okta</l><r>ohtâ</r></p><par n="logi_"/></e>
+    <e><p><l>guokte</l><r>kyeht</r></p><par n="logi_"/></e>
+    <e><p><l>golbma</l><r>kulmâ</r></p><par n="logi_"/></e>
+    <e><p><l>njeallje</l><r>nelji</r></p><par n="logi_"/></e>
+    <e><p><l>vihtta</l><r>vittâ</r></p><par n="logi_"/></e>
+    <e><p><l>guhtta</l><r>kuttâ</r></p><par n="logi_"/></e>
+    <e><p><l>čieža</l><r>čiččâm</r></p><par n="logi_"/></e>
+    <e><p><l>gávcci</l><r>kähci</r></p><par n="logi_"/></e>
+    <e><p><l>ovcci</l><r>ohce</r></p><par n="logi_"/></e>
+    <e><p><l>okta</l><r>ohtâ</r></p><par n="0_čuođi"/></e>
+    <e><p><l>guokte</l><r>kyehti</r></p><par n="0_čuođi"/></e>
+    <e><p><l>golbma</l><r>kulmâ</r></p><par n="0_čuođi"/></e>
+    <e><p><l>njeallje</l><r>nelji</r></p><par n="0_čuođi"/></e>
+    <e><p><l>vihtta</l><r>vittâ</r></p><par n="0_čuođi"/></e>
+    <e><p><l>guhtta</l><r>kuttâ</r></p><par n="0_čuođi"/></e>
+    <e><p><l>čieža</l><r>čiččâm</r></p><par n="0_čuođi"/></e>
+    <e><p><l>gávcci</l><r>käävci</r></p><par n="0_čuođi"/></e>
+    <e><p><l>ovcci</l><r>oovce</r></p><par n="0_čuođi"/></e>
     <e><p><l>logi<s n="num"/></l><r>love<s n="num"/></r></p></e>
+    <e><p><l>čuođi</l><r>čyet</r></p><par n="guokte-ovccilogi"/></e>
+    <e><p><l>čuohti<s n="num"/></l><r>čyeti<s n="num"/></r></p></e>
+    <e><p><l>čuođi<s n="num"/></l><r>čyeti<s n="num"/></r></p></e>
+    <e><p><l>čuođilogi<s n="num"/></l><r>čyetilov<s n="num"/></r></p></e>
+    <e><p><l>golbma-njeallje<s n="num"/></l><r>kulmâ-nelji<s n="num"/></r></p></e>
+
+    <e><p><l>moaddeduhát<s n="num"/></l><r>muáddi<b/>tuhháát<s n="num"/></r></p></e> 
     <e><p><l>logemat<s n="num"/></l><r>suullân<b/>love<s n="num"/></r></p></e>
     <e><p><l>oktanuppelohkái<s n="num"/></l><r>ohtnubáloh<s n="num"/></r></p></e>
     <e><p><l>guoktenuppelohkái<s n="num"/></l><r>kyehtnubáloh<s n="num"/></r></p></e>
@@ -256,10 +316,6 @@
     <e><p><l>čiežanuppelohkái<s n="num"/></l><r>čiččâmnubáloh<s n="num"/></r></p></e>
     <e><p><l>gávccinuppelohkái<s n="num"/></l><r>käävcinubáloh<s n="num"/></r></p></e>
     <e><p><l>ovccinuppelohkái<s n="num"/></l><r>oovcenubáloh<s n="num"/></r></p></e>
-    <e><p><l>guoktelogi<s n="num"/></l><r>kyehtlov<s n="num"/></r></p></e>
-    <e><p><l>golbmalogi<s n="num"/></l><r>kulmâlov<s n="num"/></r></p></e>
-    <e><p><l>gávccilogiguhtta<s n="num"/></l><r>kähcilovkuttâ<s n="num"/></r></p></e>
-    <e><p><l>vihttačuođi<s n="num"/></l><r>vittâčyet<s n="num"/></r></p></e>
     <e><p><l>máŋga<s n="num"/></l><r>maŋgâ<s n="num"/></r></p></e>
     <e><p><l>moaddelogi<s n="num"/></l><r>muádlov<s n="num"/></r></p></e>
     <e><p><l>nuppelohkái<s n="num"/></l><r>nubáloh<s n="num"/></r></p></e>
@@ -8197,14 +8253,10 @@
 
     <e><p><l>duhát<s n="num"/></l><r>tuhháát<s n="num"/></r></p></e>
     <e><p><l>galle<s n="num"/></l><r>kalle<s n="num"/></r></p></e>
-    <e><p><l>gávccilogi<s n="num"/></l><r>kähcilov<s n="num"/></r></p></e>
     <e><p><l>miljovdna<s n="num"/></l><r>miljovn<s n="num"/></r></p></e>
     <e><p><l>miljárda<s n="num"/></l><r>miljard<s n="n"/></r></p></e>
-    <e><p><l>čiežalogi<s n="num"/></l><r>čiččâmlov<s n="num"/></r></p></e>
     <e><p><l>beannot<s n="num"/></l><r>pelnub<s n="num"/></r></p></e>
     <e><p><l>moadde<s n="num"/></l><r>muáddi<s n="num"/></r></p></e>
-    <e><p><l>čuohti<s n="num"/></l><r>čyeti<s n="num"/></r></p></e>
-    <e><p><l>čuođi<s n="num"/></l><r>čyeti<s n="num"/></r></p></e>
 
     <!--    BSECTION: Postpositions -->
 
