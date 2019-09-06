@@ -1058,6 +1058,7 @@ C[_]-T  sent
     <def-attr n="a_spec_sme_tags1">
       <attr-item tags="south"/>
       <attr-item tags="←vdic→"/>
+      <attr-item tags="←ind→"/>
       <attr-item tags="←cs→"/>
       <attr-item tags="g3"/>
        <attr-item tags="allegro"/>
