@@ -204,6 +204,7 @@ C[_]-T  sent
 
     <def-cat n="num_cmp">
       <cat-item tags="num.cmp"/>
+      <cat-item tags="num.cmp_hyph.cmp"/>
       <cat-item tags="num.cmp.guio"/>
       <cat-item tags="num.cmp_sggen.cmp"/>
       <cat-item tags="num.cmp_plgen.cmp"/>
