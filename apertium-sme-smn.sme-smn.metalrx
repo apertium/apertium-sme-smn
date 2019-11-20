@@ -135,7 +135,7 @@ Write comments to forthcoming rules before this line -->
   <rule weight="0.5"><match lemma="Elle" tags="np.*"><select lemma="Elle"/></match></rule>
   <rule weight="0.6"><match lemma="Elle" tags="np.*.*.attr.*"><select lemma="Elle"/></match></rule>
   <rule weight="1.0"><match lemma="Elle" tags="np.sg.*"><select lemma="Elli" tags="np.*"/></match></rule>
-  <rule weight="1.0"><match lemma="Elle" tags="np.*.*sg.*"><select lemma="Elli" tags="np.*"/></match></rule>
+  <rule weight="1.0"><match lemma="Elle" tags="np.*.*.sg.*"><select lemma="Elli" tags="np.*"/></match></rule>
   <rule weight="0.5"><match lemma="Máret" tags="np.*"><select lemma="Máret"/></match></rule>
   <rule weight="0.6"><match lemma="Máret" tags="np.*.*.attr.*"><select lemma="Máret"/></match></rule>
   <rule weight="1.0"><match lemma="Máret" tags="np.*.sg.*"><select lemma="Maarit" tags="np.*"/></match></rule>
