@@ -1274,13 +1274,13 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.6">
-    <match lemma="buorre" tags="adj.sem_hum.sg.*">
+    <match lemma="buorre" tags="adj.sg.*">
       <select lemma="šiev"/>
     </match>
     <match tags="n.*"/>
   </rule>
   <rule weight="0.6">
-    <match lemma="buorre" tags="adj.sem_hum.pl.*">
+    <match lemma="buorre" tags="adj.pl.*">
       <select lemma="šiev"/>
     </match>
     <match tags="n.*"/>
