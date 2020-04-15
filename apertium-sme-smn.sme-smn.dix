@@ -4680,6 +4680,7 @@
     <e><p><l>–<s n="punct"/></l><r>–<s n="sent"/></r></p></e>
     <e><p><l>«<s n="lquot"/></l><r>«<s n="lquot"/></r></p></e>
     <e><p><l>»<s n="rquot"/></l><r>»<s n="rquot"/></r></p></e>
+	<e><re>[0-9]+</re><p><l><b/>%<s n="num"/></l><r><b/>%<s n="num"/></r></p></e>
     <e><re>[.\?:;!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
     <e><p><l>"<s n="quot"/></l><r>"<s n="quot"/></r></p></e>
