@@ -24,13 +24,14 @@
     <sdef n="tv" c="Transitive"/>
     <sdef n="prsprc" c="PrsPrc"/> 
     <sdef n="ord" c="Ord"/> 
-    <sdef n="sup" c="Superl"/> 
+    <sdef n="der_superl" c="Superl"/> 
     <sdef n="nomag" c="NomAg type noun, both sme and smn"/>
     <sdef n="g3" c="g3 type noun, only sme"/>
     <sdef n="g7" c="g7 type noun, only sme"/>
     <sdef n="sem_ani" c="Sem/Ani"/> 
     <sdef n="sem_act" c="Sem/Act"/> 
     <sdef n="sem_hum" c="Sem/Hum"/> 
+    <sdef n="sem_state-sick" c="Sem/State-sick"/> 
     <sdef n="sem_dummytag" c="Sem/Dummytag"/> 
     <sdef n="sem_plc" c="Sem/Plc"/>
     <sdef n="cmp_attr" c="cmp_attr"/>
@@ -1171,7 +1172,7 @@
     <e><p><l>vuoigatvuođalaš<s n="adj"/></l><r>vuoigâdvuođâlâš<s n="adj"/></r></p></e>
     <e><p><l>vuorddehahtti<s n="adj"/></l><r>vyerdittettee<s n="adj"/></r></p></e>
     <e><p><l>vuosttamuš<s n="adj"/></l><r>vuossâmuš<s n="adj"/></r></p></e>
-    <e><p><l>vuosttamuš<s n="adj"/><s n="sup"/></l><r>vuosmuš<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>vuosttamuš<s n="adj"/></l><r>vuosmuš<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>vuosttas<s n="adj"/></l><r>vuosmuš<s n="adj"/></r></p></e>
     <e><p><l>vuosttaš<s n="adj"/></l><r>vuosmuš<s n="adj"/></r></p></e>
     <e><p><l>vuostásaš<s n="adj"/></l><r>vuástásâš<s n="adj"/></r></p></e>
@@ -5870,6 +5871,8 @@
     <e><p><l>bonjahat<s n="n"/></l><r>toppiittâh<s n="n"/></r></p></e> <!-- not in sme -->
     <e><p><l>bonus<s n="n"/></l><r>ponos<s n="n"/></r></p></e>
     <e><p><l>boras<s n="n"/></l><r>puurâs<s n="n"/></r></p></e>
+    <e><p><l>leavvan<s n="n"/></l><r>lavdâm<s n="n"/></r></p></e>
+    <e><p><l>covid-19<s n="n"/></l><r>covid-19<s n="n"/></r></p></e>
     <e><p><l>borasdávda<s n="n"/></l><r>puurâs<s n="n"/></r></p></e>
     <e><p><l>borga<s n="n"/></l><r>purgâ<s n="n"/></r></p></e>
     <e><p><l>borgemánnu<s n="n"/></l><r>porgemáánu<s n="n"/></r></p></e>
@@ -8000,7 +8003,7 @@
     <e><p><l>vuožži<s n="n"/></l><r>vyežži<s n="n"/></r></p></e>
     <e><p><l>váccáhat<s n="n"/></l><r>vázáttâh<s n="n"/></r></p></e>
     <e><p><l>váddu<s n="n"/></l><r>váddu<s n="n"/></r></p></e>
-    <e><p><l>váhkar<s n="n"/></l><r>nuorâ<s n="adj"/><s n="sup"/></r></p></e>
+    <e><p><l>váhkar<s n="n"/></l><r>nuorâ<s n="adj"/><s n="der_superl"/><s n="adj"/></r></p></e>
     <e><p><l>váhttar<s n="n"/></l><r>čäcipismár<s n="n"/></r></p></e>
     <e><p><l>váibmosuotna<s n="n"/></l><r>váimusuonâ<s n="n"/></r></p></e>
     <e><p><l>váibmu<s n="n"/></l><r>váimu<s n="n"/></r></p></e>
