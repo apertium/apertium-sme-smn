@@ -1105,8 +1105,8 @@ C[_]-T  sent
       <attr-item tags="tv"/>
     </def-attr>
     <def-attr n="a_comp-sup">
-      <attr-item tags="comp"/>
-      <attr-item tags="sup"/>
+      <attr-item tags="der_comp"/>
+      <attr-item tags="der_superl"/>
     </def-attr>
     <def-attr n="a_ord">
       <attr-item tags="ord"/>
@@ -2858,8 +2858,8 @@ C[_]-T  sent
         <call-macro n="general-macro-1Param"><with-param pos="1"/></call-macro>
         <choose><when><test><or>
         <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_superl"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
         </or>
         </test>
@@ -2995,7 +2995,7 @@ C[_]-T  sent
       <action>
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <let><clip pos="2" side="tl" part="whole"/>
-             <concat><lit v="fárusis"/><lit-tag v="adv"/><clip pos="1" side="tl" part="a_poss"/></concat></let>
+             <concat><lit v="fárus"/><lit-tag v="adv"/><clip pos="1" side="tl" part="a_poss"/></concat></let>
         <out>
           <chunk name="adv">
             <tags>
@@ -3693,8 +3693,8 @@ C[_]-T  sent
         <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
         <choose><when><test><or>
         <in caseless="yes"><clip pos="2" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
-        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
-        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="der_comp"/></equal>
+        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="der_superl"/></equal>
         <equal><clip pos="2" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
         </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="2"/><with-param pos="3"/></call-macro>
@@ -3835,8 +3835,8 @@ C[_]-T  sent
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <choose><when><test><or>
         <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_superl"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
         </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
@@ -3883,8 +3883,8 @@ C[_]-T  sent
         <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <choose><when><test><or>
         <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_superl"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
         </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
@@ -3935,8 +3935,8 @@ C[_]-T  sent
         <when>
         <test><or>
         <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_superl"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
         </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="3"/></call-macro>
@@ -3946,8 +3946,8 @@ C[_]-T  sent
         <when>
         <test><or>
         <in caseless="yes"><clip pos="2" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
-        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
-        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="der_comp"/></equal>
+        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="der_superl"/></equal>
         <equal><clip pos="2" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
         </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="2"/><with-param pos="3"/></call-macro>
@@ -4000,8 +4000,8 @@ C[_]-T  sent
         <call-macro n="general-macro-4Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/><with-param pos="4"/></call-macro>
         <choose><when><test><or>
         <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_superl"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
         </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="4"/></call-macro>
@@ -4037,8 +4037,8 @@ C[_]-T  sent
         <call-macro n="general-macro-1Param"><with-param pos="5"/></call-macro>
         <choose><when><test><or>
         <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_superl"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
         </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="5"/></call-macro>
@@ -4074,8 +4074,8 @@ C[_]-T  sent
       <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
         <choose><when><test><or>
         <in caseless="yes"><clip pos="2" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
-        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
-        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="der_comp"/></equal>
+        <equal><clip pos="2" side="sl" part="a_comp-sup"/><lit-tag v="der_superl"/></equal>
         <equal><clip pos="2" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
         </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="2"/><with-param pos="3"/></call-macro>
@@ -4124,8 +4124,8 @@ C[_]-T  sent
         <call-macro n="general-macro-3Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/></call-macro>
         <choose><when><test><or>
         <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_superl"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
         </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="3"/></call-macro>
@@ -4177,8 +4177,8 @@ C[_]-T  sent
       <call-macro n="general-macro-4Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/><with-param pos="4"/></call-macro>
         <choose><when><test><or>
         <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_superl"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
         </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="4"/></call-macro>
@@ -4214,8 +4214,8 @@ C[_]-T  sent
       <call-macro n="general-macro-1Param"><with-param pos="5"/></call-macro>
         <choose><when><test><or>
         <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_superl"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
         </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="5"/></call-macro>
@@ -4251,8 +4251,8 @@ C[_]-T  sent
         <call-macro n="general-macro-4Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/><with-param pos="4"/></call-macro>
         <choose><when><test><or>
         <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_superl"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
         </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="4"/></call-macro>
@@ -4296,16 +4296,16 @@ C[_]-T  sent
         <call-macro n="general-macro-4Param"><with-param pos="1"/><with-param pos="2"/><with-param pos="3"/><with-param pos="4"/></call-macro>
         <choose><when><test><or>
         <in caseless="yes"><clip pos="1" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
-        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_comp"/></equal>
+        <equal><clip pos="1" side="sl" part="a_comp-sup"/><lit-tag v="der_superl"/></equal>
         <equal><clip pos="1" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
         </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="4"/></call-macro>
         </when></choose>
         <choose><when><test><or>
         <in caseless="yes"><clip pos="3" side="tl" part="lem"/><list n="agreement-attr-lemmas"/></in>
-        <equal><clip pos="3" side="sl" part="a_comp-sup"/><lit-tag v="comp"/></equal>
-        <equal><clip pos="3" side="sl" part="a_comp-sup"/><lit-tag v="sup"/></equal>
+        <equal><clip pos="3" side="sl" part="a_comp-sup"/><lit-tag v="der_comp"/></equal>
+        <equal><clip pos="3" side="sl" part="a_comp-sup"/><lit-tag v="der_superl"/></equal>
         <equal><clip pos="3" side="sl" part="a_der"/><lit-tag v="der_lasj"/></equal>
         </or></test>
         <call-macro n="agreement-attr-2Param"><with-param pos="3"/><with-param pos="4"/></call-macro>
