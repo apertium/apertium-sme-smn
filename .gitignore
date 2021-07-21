@@ -19,3 +19,12 @@
 /otpt_dir
 t/*.html
 t/.git
+/*.gz
+/*.pc
+/*.zhfst
+/.DS_Store
+/*.mode
+/*-*.prob
+/config.in
+/config
+/test/*-output.txt

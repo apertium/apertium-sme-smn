@@ -1,0 +1,184 @@
+[-DrDJCcdDdgh#0] ^Prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><du><nom>$}$ ^auxverb<SV><@+FAUXV>{^ij<vblex><neg><indic><p1><du>$}$ ^auxverb<SV><@-FAUXV>{^leđe<vblex><indic><pres><conneg>$}$ ^mainverb<SV><@-FMAINV>{^lopediđ<vblex><prfprc>$}$ ^j_n<NP><@←ADVL>{^kuábáš<prn><ind><sg><ill><attr><foc_gin>$ ^pargee<n><nomag><sg><ill>$}$ ^adv<ADVL><@←ADVL-ine>{^eenâb<adv>$}$ ^n<NP><@←OBJ><n><acc>{^pälkki<n><sg><acc>$}$^sent<SENT>{^.<sent>$}$
+[/-DrDJCcdDdgh]
+[-v0V9V6ZWW21#0] ^Prn<NP><@SUBJ→><pers>{^tun<prn><pers><p2><pl><nom>$}$ ^mainverb<SV><@+FMAINV>{^uážžuđ<vblex><indic><pret><p2><pl>$}$ ^n<NP><@←OBJ><n><acc>{^skeŋkkâ<n><sg><acc>$}$ ^prn<NP><@←ADVL-ela><res>{^kyeimi kyeimi<prn><res><loc><p2><pl>$}$^sent<SENT>{^.<sent>$}$
+[/-v0V9V6ZWW21]
+[13mMOVbk1pGG#0] ^num<NP><@ADVL-ine→>{^ihe<n><sg><gen>$ ^1974<num><arab><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^huksiđ<vblex><indic><pret><p3><sg>$}$ ^n<NP><@←SUBJ><n><nom>{^staatâ<n><sg><nom>$}$ ^prn<NP><@←OBJ><dem>{^tággáár<prn><dem><pl><acc>$}$^sent<SENT>{^.<sent>$}$
+[/13mMOVbk1pGG]
+[1MHtWosTEYtj#0] ^Prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><pl><nom>$}$ ^mainverb<SV><@+FMAINV>{^lijkkuđ<vblex><indic><pres><p1><pl>$}$ ^prn<NP><@←ADVL><res>{^kyeimi kyeimi<prn><res><ill><p1><pl>$}$^sent<SENT>{^.<sent>$}$
+[/1MHtWosTEYtj]
+[2KhoVhMT9ZN2#0] ^Prn<NP><@SUBJ→><pers>{^sun<prn><pers><p3><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^prn<NP><@←SPRED><ind>{^miinii<prn><ind><sg><nom>$}$ ^prn<NP><@ADVL→><rel>{^mii<prn><rel><sg><ill>$}$ ^mainverb<SV><@-FMAINV>{^tarvaniđ<vblex><prfprc>$}$^sent<SENT>{^.<sent>$}$
+[/2KhoVhMT9ZN2]
+[2O2YPdklXRCk#0] ^Prn<NP><@ADVLhab→><pers>{^mun<prn><pers><p1><pl><loc>$}$ ^auxverb<SV><@+FAUXV>{^ij<vblex><neg><indic><p3><pl>$}$ ^mainverb<SV><@-FMAINV>{^leđe<vblex><indic><pres><conneg>$}$ ^j_n<NP><@←SUBJext>{^maggaar<prn><ind><pl><nom>$ ^eeti<n><pl><nom>$}$^sent<SENT>{^.<sent>$}$
+[/2O2YPdklXRCk]
+[2ZkkmQ7fB_RW#0] ^Prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^väldiđ<vblex><indic><pres><p1><sg>$}$ ^prn<NP><@→Num><dem>{^taat<prn><dem><sg><acc>$}$ ^z_n<NP><@←OBJ><numphrase>{^kulmâ<num><sg><acc>$ ^kyeli<n><sg><acc>$}$^sent<SENT>{^.<sent>$}$
+[/2ZkkmQ7fB_RW]
+[34IiKfZNs1uv#0] ^n<NP><@ADVLhab→><np><loc>{^Bure<np><ant><m><sg><loc>$}$ ^auxverb<SV><@+FAUXV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^auxverb<SV><@-FAUXV>{^peessâđ<vblex><prfprc>$}$ ^mainverb<SV><@-FMAINV>{^possoođ<vblex><der_d><vblex><inf>$}$ ^prn<NP><@→N><dem>{^tiet<prn><dem><sg><loc><attr>$}$ ^n<NP><@←ADVL-ine><n><loc>{^táálu<n><sg><loc>$}$^default{^,<cm>$}$ ^prn<NP><@SUBJ→><rel>{^mii<prn><rel><sg><nom>$}$ ^adv<ADVL><@ADVL-ine→>{^vissásávt<adv>$}$ ^mainverb<SV><@-FMAINV>{^leđe<vblex><prfprc>$}$ ^j_n<NP><@→N>{^nanos<adj><attr>$ ^vuovâs<adj><attr>$ ^pakkâ<n><pl><gen>$}$ ^n<NP><@←ADVL><n><gen>{^äigi<n><sg><gen>$}$^sent<SENT>{^.<sent>$}$
+[/34IiKfZNs1uv]
+[7F7M12XWEjrA#0] ^N<NP><@→P><n><gen>{^kussâ<n><sg><gen>$}$ ^n<NP><@SUBJ→><n><nom>{^ráátu<n><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^háisuđ<vblex><indic><pres><p3><sg>$}$ ^adj<AP><@←ADVL-ine>{^viärráá<adj><der_comp><adj><der_aadv><adv>$}$ ^cnjsub<cnjsub><@CNP>{^ko<cnjsub>$}$ ^prn<NP><@COMP-CS←><ind>{^mii<prn><ind><sg><nom><foc_uv>$}$ ^prn<NP><@OBJ→><rel>{^mii<prn><rel><sg><acc>$}$ ^prn<NP><@→P><dem>{^taat<prn><dem><sg><gen>$}$ ^post<PP><@ADVL-ine→>{^räi<post>$}$ ^auxverb<SV><@+FAUXV>{^leđe<vblex><indic><pres><p1><sg>$}$ ^auxverb<SV><@-FAUXV>{^karttâđ<vblex><prfprc>$}$ ^mainverb<SV><@-FMAINV>{^apseđ<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/7F7M12XWEjrA]
+[7U606D3N6bGS#0] ^Prn<NP><@→Num><dem>{^taat<prn><dem><sg><nom>$}$ ^z_n<NP><@Num←><numphrase>{^kulmâ<num><sg><nom>$ ^kyeli<n><sg><gen>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pres><p3><pl>$}$ ^n<NP><@←SPRED><adj><nom>{^pyeri<adj><der_superl><adj><pl><nom>$}$^sent<SENT>{^.<sent>$}$
+[/7U606D3N6bGS]
+[7VGmO6Mwf_07#0] ^Mainverb<SV><@+FMAINV>{^sirdeđ<vblex><imp><p1><du>$}$ ^prn<NP><@→N><dem>{^tot<prn><dem><sg><acc>$}$ ^n<NP><@←OBJ><n><acc>{^pevdi<n><sg><acc>$}$^default{^,<cm>$}$ ^prn<NP><@→P><rel>{^mii<prn><rel><sg><gen>$}$ ^post<PP><@ADVL-ine→>{^alne<post>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^n<NP><@←SUBJext><n><nom>{^TV<n><acr><sg><nom>$}$^sent<SENT>{^.<sent>$}$
+[/7VGmO6Mwf_07]
+[AFfda2w4YmUv#0] ^Prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^vyebdiđ<vblex><indic><pret><p1><sg>$}$ ^n<NP><@←OBJ><n><acc>{^kirje<n><pl><acc>$}$ ^n<NP><@→N><num><ill>{^kulmâ<num><sg><ill><attr>$}$ ^n<NP><@←ADVL><n><ill>{^olmooš<n><sg><ill>$}$^sent<SENT>{^.<sent>$}$
+[/AFfda2w4YmUv]
+[BT-KTolehPos#0] ^Prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^tarvettiđ<vblex><indic><pret><p1><sg>$}$ ^n<NP><@←OBJ><n><acc>{^GPS<n><acr><sg><acc>$}$ ^n<NP><@→N><num><ill>{^kulmâ<num><sg><ill><attr>$}$ ^n<NP><@←ADVL><n><ill>{^kyeli<n><sg><ill>$}$^sent<SENT>{^.<sent>$}$
+[/BT-KTolehPos]
+[BWQg10EVVtzV#0] ^Prn<NP><@SUBJ→><pers>{^sun<prn><pers><p3><pl><nom>$}$ ^mainverb<SV><@+FMAINV>{^adeliđ<vblex><indic><pres><p3><pl>$}$ ^prn<NP><@←ADVL><res>{^kyeimi kyeimi<prn><res><ill><p3><pl>$}$ ^n<NP><@←OBJ><n><acc>{^rääsi<n><pl><acc>$}$^sent<SENT>{^.<sent>$}$
+[/BWQg10EVVtzV]
+[Bi1dTZFKxOfK#0] ^Numsem<SN><@→N>{^suullân love<num><attr>$}$ ^n<NP><@→ADVL><n><gen>{^ihe<n><sg><gen>$}$ ^adv<ADVL><@ADVL-ine→>{^maŋa<adv>$}$ ^prn<NP><@SUBJ→><pers>{^sun<prn><pers><p3><sg><nom>$}$ ^adv<ADVL><@ADVL-ine→>{^vuod<adv>$}$ ^adv<ADVL><@ADVL-ine→>{^fakkist<adv>$}$ ^mainverb<SV><@+FMAINV>{^maccâđ<vblex><indic><pres><p3><sg>$}$ ^j_n<NP><@←SPRED>{^táválâš<adj><ess>$ ^nieidâ<n><ess>$}$^default{^,<cm>$}$ ^prn<NP><@SUBJ→><rel>{^kii<prn><rel><sg><nom>$}$ ^default<@PCLE>{^kuittâg<adv>$}$ ^auxverb<SV><@+FAUXV>{^ij<vblex><neg><indic><p3><sg>$}$ ^adv<ADVL><@ADVL-ine→>{^kuássin<adv>$}$ ^adv<ADVL><@ADVL-ine→>{^innig<adv>$}$ ^auxverb<SV><@-FAUXV>{^pyehtiđ<vblex><indic><pres><conneg>$}$ ^mainverb<SV><@-FMAINV>{^eelliđ<vblex><inf>$}$ ^j_n<NP><@←OBJ>{^táválâš<adj><sg><acc>$ ^eellim<n><sg><acc>$}$^sent<SENT>{^.<sent>$}$
+[/Bi1dTZFKxOfK]
+[BiJTR0wH0SJM#0] ^Auxverb<SV><@+FAUXV>{^ij<vblex><neg><indic><p1><sg>$}$ ^mainverb<SV><@-FMAINV>{^tiettiđ<vblex><indic><pres><conneg>$}$ ^auxverb<SV><@+FAUXV>{^leđe<vblex><indic><pres><p3><sg><qst>$}$ ^prn<NP><@←SUBJ><ind>{^mihheen<prn><ind><sg><nom>$}$ ^mainverb<SV><@-FMAINV>{^toohâđ<vblex><der_pass><vblex><prfprc>$}$ ^prn<NP><@←ADVL><dem>{^tot<prn><dem><sg><com>$}$^default{^,<cm>$}$ ^auxverb<SV><@+FAUXV>{^ij<vblex><neg><indic><p1><sg>$}$ ^prn<NP><@←SUBJ><pers>{^mun<prn><pers><p1><sg><nom>$}$ ^default<@PCLE>{^kuittâg<adv>$}$ ^auxverb<SV><@-FAUXV>{^leđe<vblex><indic><pres><conneg>$}$ ^mainverb<SV><@-FMAINV>{^kuullâđ¹<vblex><prfprc>$}$ ^prn<NP><@←OBJ><ind>{^mihheen<prn><ind><sg><acc>$}$^sent<SENT>{^.<sent>$}$
+[/BiJTR0wH0SJM]
+[BqvpUpIoAdO-#0] ^n<NP><@SUBJ→><np><nom>{^Shah<np><cog><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^huksiđ<vblex><der_tt><vblex><indic><pret><p3><sg>$}$ ^n<NP><@←OBJ><n><acc>{^monument<n><sg><acc>$}$ ^nc_n<NP><@←ADVL>{^páárnáš<n><cmp_sgnom><cmp>+seŋgâ<n><sg><ill>$}$ ^default<@→N>{^jäämmiđ<vblex><prfprc>$}$ ^n<NP><@←ADVL-ine><n><loc>{^eemeed<n><sg><loc>$}$ ^n<NP><@←OPRED><n><ess>{^mušto<n><ess>$}$ ^nc_n<NP><@←ADVL-ine>{^1600<num><cmp_hyph><cmp>+loho<n><sg><loc>$}$^sent<SENT>{^.<sent>$}$
+[/BqvpUpIoAdO-]
+[CV2wZVgfUQpP#0] ^N<NP><@SUBJ→><n><nom>{^páárnáš<n><pl><nom>$}$ ^j_n<NP><@N←>{^jieškote<prn><ind><sg><gen><foc_uv>$ ^suuhâ<n><sg><loc>$}$ ^mainverb<SV><@+FMAINV>{^teividiđ<vblex><indic><pret><p3><pl>$}$ ^cnjcoo<cnjcoo><@CVP>{^já<cnjcoo>$}$ ^mainverb<SV><@+FMAINV>{^aldaniđ<vblex><indic><pret><p3><pl>$}$ ^prn<NP><@←OBJ><res>{^kyeimi kyeimi<prn><res><acc><p3><pl>$}$^sent<SENT>{^.<sent>$}$
+[/CV2wZVgfUQpP]
+[D3VzuemjlZJk#0] ^Prn<NP><@SUBJ→><pers>{^sun<prn><pers><p3><pl><nom>$}$ ^mainverb<SV><@+FMAINV>{^tubdâđ<vblex><indic><pres><p3><pl>$}$ ^prn<NP><@←OBJ><res>{^kyeimi kyeimi<prn><res><acc><p3><pl>$}$^sent<SENT>{^.<sent>$}$
+[/D3VzuemjlZJk]
+[FCQhjMJtEhVX#0] ^Cnjcoo<cnjcoo><@CVP>{^já<cnjcoo>$}$ ^n<NP><@X><adj><nom>{^kukke<adj><sg><nom>$}$^sent<SENT>{^!<sent>$}$
+[/FCQhjMJtEhVX]
+[FJo_ulE1RfnU#0] ^Prn<NP><@→N><itg>{^kote<prn><itg><sg><ill><sg><nom>$}$ ^n<NP><@ADVL→><n><ill>{^ildee<n><sg><ill>$}$ ^mainverb<SV><@+FMAINV>{^pardeđ<vblex><indic><pres><p2><sg>$}$ ^n<NP><@←OBJ><n><acc>{^kirje<n><pl><acc>$}$^sent<SENT>{^?<sent>$}$
+[/FJo_ulE1RfnU]
+[FqIMK0H7KPh5#0] ^Prn<NP><@ADVL-ine→><rel>{^mii<prn><rel><sg><loc>$}$ ^prn<NP><@OBJ→><dem>{^tot<prn><dem><sg><acc>$}$ ^mainverb<SV><@+FMAINV>{^tiettiđ<vblex><indic><pres><p3><sg>$}$^default{^,<cm>$}$ ^cnjsub<cnjsub><@CVP>{^veikkâ<cnjsub>$}$ ^n<NP><@SUBJ→><n><nom>{^kunnâ<n><pl><nom>$}$ ^mainverb<SV><@+FMAINV>{^kulgâđ<vblex><cond><pres><p3><pl>$}$ ^adv<ADVL><@→N>{^kiddâ<adv>$}$ ^j_n<NP><@←ADVL>{^pase<adj><attr>$ ^Ganges<np><cog><sg><ill>$}$^default{^,<cm>$}$ ^cnjsub<cnjsub><@CVP>{^ko<cnjsub>$}$ ^prn<NP><@SUBJ→><dem>{^tot<prn><dem><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^n<NP><@→N><np><gen>{^Ganges<np><top><sg><gen>$}$ ^nc_n<NP><@←SPRED>{^uálgátuáivi<n><cmp_sgnom><cmp>+juuhâ<n><sg><nom>$}$^sent<SENT>{^.<sent>$}$
+[/FqIMK0H7KPh5]
+[Fyc2_mleEQ7C#0] ^n<NP><@ADVL→><np><ill>{^Mill<np><cog><sg><ill>$}$ ^adv<ADVL><@ADVL-ine→>{^kale<adv>$}$ ^auxverb<SV><@+FAUXV>{^viggâđ<vblex><indic><pres><p3><pl>$}$ ^mainverb<SV><@-FMAINV>{^luptâniđ<vblex><inf>$}$ ^n<NP><@←SUBJ><n><nom>{^juurdâ<n><pl><nom>$}$ ^prn<NP><@←ADVL-ine><dem>{^tot<prn><dem><sg><loc>$}$^default{^,<cm>$}$ ^prn<NP><@→N><itg>{^maggaar<prn><itg><sg><nom>$}$ ^nc_n<NP><@SUBJ→>{^mirkkâ<n><cmp_sgnom><cmp>+tivre<n><pl><nom>$}$ ^auxverb<SV><@+FAUXV>{^pyehtiđ<vblex><indic><pres><p3><pl>$}$ ^mainverb<SV><@-FMAINV>{^čaaŋŋâđ<vblex><inf>$}$ ^n<NP><@←ADVL><n><ill>{^teltta<n><sg><ill>$}$ ^cnjcoo<cnjcoo><@CVP>{^teikkâ<cnjcoo>$}$ ^adv<ADVL><@ADVLcs-ine→>{^maht<adv>$}$ ^cnjsub<cnjsub><@CVP>{^jis<cnjsub>$}$ ^n<NP><@SUBJ→><n><nom>{^kyevdi<n><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^kašmârdiđ<vblex><indic><pres><p3><sg>$}$ ^n<NP><@→P><n><gen>{^loovdâ<n><sg><gen>$}$ ^post<PP><@←ADVL-ine>{^vuálá<post>$}$^sent<SENT>{^.<sent>$}$
+[/Fyc2_mleEQ7C]
+[GxtfB9rvCqBw#0] ^Default<@PCLE>{^ama<pcle>$}$ ^auxverb<SV><@+FAUXV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^mainverb<SV><@-FMAINV>{^finniđ<vblex><prfprc>$}$ ^adv<ADVL><@←ADVL-ine>{^jo<adv>$}$ ^adv<ADVL><@←ADVL-ine>{^pyereest<adv>$}$ ^numsem<SN><@→N>{^nubáloh<num><attr>$}$ ^n<NP><@←ADVL><n><gen>{^kyeli<n><sg><gen>$}$^sent<SENT>{^!<sent>$}$
+[/GxtfB9rvCqBw]
+[IxQJEX8Y-pFM#0] ^Auxverb<SV><@+FAUXV>{^ij<vblex><neg><indic><p1><du>$}$ ^mainverb<SV><@-FMAINV>{^piergiđ<vblex><indic><pres><conneg>$}$ ^prn<NP><@→P><res>{^kuábáš-uv kyeimi<prn><res><gen><p1><du>$}$ ^pr<PP><@←ADVL-ine>{}$^sent<SENT>{^.<sent>$}$
+[/IxQJEX8Y-pFM]
+[J1Wa7ubVASnl#0] ^N<NP><@HNOUN><n><nom>{^takkâ<n><sg><nom>$}$ ^n<NP><@→P><n><gen>{^piämmu<n><sg><gen>$}$ ^post<PP><@ADVL>{^oovdâst<post>$}$^sent<SENT>{^.<sent>$}$
+[/J1Wa7ubVASnl]
+[JXfESAtj-ZXk#0] ^Mainverb<SV><@+FMAINV>{^kuullâđ¹<vblex><indic><pret><p1><sg>$}$ ^cnjsub<cnjsub><@CVP>{^et<cnjsub>$}$ ^prn<NP><@→N><dem>{^tot<prn><dem><sg><gen>$}$ ^n<NP><@X><n><gen>{^puddâ<n><sg><gen>$}$ ^cnjsub<cnjsub><@CVP>{^ko<cnjsub>$}$ ^prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><pl><nom>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pret><p1><pl>$}$ ^nc_n<NP><@←ADVL-ine>{^käärbis<n><cmp_sgnom><cmp>+mätki<n><sg><loc>$}$^default{^,<cm>$}$ ^adv<ADVL><@ADVL-ine→>{^te<adv>$}$ ^n<NP><@SUBJ→><n><nom>{^suáldát<n><pl><nom>$}$ ^auxverb<SV><@+FAUXV>{^leđe<vblex><indic><pret><p3><pl>$}$ ^mainverb<SV><@-FMAINV>{^eelliđ<vblex><prfprc>$}$ ^nc_n<NP><@←ADVL-ine>{^käärbis<n><cmp_sgnom><cmp>+hooteel<n><pl><loc>$}$ ^cnjcoo<cnjcoo><@CVP>{^já<cnjcoo>$}$ ^mainverb<SV><@+FMAINV>{^tuálvuđ<vblex><indic><pret><p1><sg>$}$ ^j_n<NP><@←OBJ>{^nuorâ<adj><attr>$ ^kandâ<n><pl><acc>$}$^sent<SENT>{^.<sent>$}$
+[/JXfESAtj-ZXk]
+[JgCrc2j1RLxQ#0] ^N<NP><@ADVL-ine→><n><loc>{^olmooš<n><pl><loc>$}$ ^auxverb<SV><@+FAUXV>{^pyehtiđ<vblex><indic><pret><p2><sg>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^z_n<NP><@→P><numphrase>{^miljovn<num><sg><nom>$ ^rupia<n><par>$}$ ^post<PP><@←ADVL-ine>{^oovdâst<post>$}$ ^nc_n<NP><@←SPRED>{^čiŋŋâ<n><cmp_sgnom><cmp>+keđgi<n><pl><nom>$}$^default{^,<cm>$}$ ^cnjcoo<cnjcoo><@CVP>{^mut<cnjcoo>$}$ ^auxverb<SV><@+FAUXV>{^ij<vblex><neg><indic><p3><sg>$}$ ^n<NP><@←SUBJ><n><nom>{^ruttâ<n><sg><nom>$}$ ^mainverb<SV><@-FMAINV>{^uástiđ<vblex><inf>$}$ ^n<NP><@←OBJ><n><acc>{^purrâmâš<n><sg><acc>$}$
+[/JgCrc2j1RLxQ]
+[JyU_wWU85XqO#0] ^Prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><du><nom>$}$ ^mainverb<SV><@+FMAINV>{^lijkkuđ<vblex><indic><pres><p1><du>$}$ ^prn<NP><@←ADVL><res>{^kuábáš-uv kyeimi<prn><res><ill><p1><du>$}$^sent<SENT>{^.<sent>$}$
+[/JyU_wWU85XqO]
+[K80GE8vzil3p#0] ^Prn<NP><@SUBJ→><pers>{^sun<prn><pers><p3><pl><nom>$}$ ^auxverb<SV><@+FAUXV>{^leđe<vblex><indic><pret><p3><pl>$}$ ^mainverb<SV><@-FMAINV>{^iädduđ<vblex><prfprc>$}$ ^prn<NP><@←ADVL><res>{^kyeimi kyeimi<prn><res><ill><p3><pl>$}$^sent<SENT>{^.<sent>$}$
+[/K80GE8vzil3p]
+[L63hV3RYxx_r#0] ^Prn<NP><@SUBJ→><pers>{^sun<prn><pers><p3><du><nom>$}$ ^mainverb<SV><@+FMAINV>{^uážžuđ<vblex><indic><pret><p3><du>$}$ ^n<NP><@←OBJ><n><acc>{^skeŋkkâ<n><sg><acc>$}$ ^prn<NP><@←ADVL-ela><res>{^kuábáš-uv kyeimi<prn><res><loc><p3><du>$}$^sent<SENT>{^.<sent>$}$
+[/L63hV3RYxx_r]
+[LZuvcQyVh9UI#0] ^Cnjcoo<cnjcoo><@CVP>{^já<cnjcoo>$}$ ^adv<ADVL><@ADVL-ine→>{^meid<adv>$}$ ^prn<NP><@SUBJ→><pers>{^sun<prn><pers><p3><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^porgâđ<vblex><indic><pres><p3><sg><foc_uv>$}$^sent<SENT>{^!<sent>$}$
+[/LZuvcQyVh9UI]
+[MbNhmPu59BbN#0] ^N<NP><@SUBJ→><n><nom>{^olmooš<n><pl><nom>$}$ ^mainverb<SV><@+FMAINV>{^savâstâllâđ<vblex><indic><pret><p3><pl>$}$ ^prn<NP><@←ADVL><res>{^kyeimi kyeimi<prn><res><com><p3><pl>$}$^sent<SENT>{^.<sent>$}$
+[/MbNhmPu59BbN]
+[Mmtyvi2yHeBr#0] ^Prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^tarvettiđ<vblex><indic><pres><p1><sg>$}$ ^n<NP><@←OBJ><n><acc>{^GPS<n><acr><sg><acc>$}$ ^d_j_n<NP><@←ADVL>{^taat<prn><dem><sg><ill><attr>$ ^kulmâ<num><sg><ill><attr>$ ^kyeli<n><sg><ill>$}$^sent<SENT>{^.<sent>$}$
+[/Mmtyvi2yHeBr]
+[O_JV603xAWwj#0] ^Prn<NP><@OBJ→><itg>{^kote<prn><itg><pl><acc>$}$ ^n<NP><@OBJ→><n><acc>{^piivtâs<n><pl><acc>$}$ ^prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><sg><nom>$}$ ^auxverb<SV><@+FAUXV>{^kolgâđ<vblex><indic><pres><p1><sg>$}$ ^mainverb<SV><@-FMAINV>{^poossâđ<vblex><inf>$}$^sent<SENT>{^?<sent>$}$
+[/O_JV603xAWwj]
+[Pf2pXFOC_mJx#0] ^J_n<NP><@→P>{^vuosmuš<adj><sg><gen>$ ^kerdi<n><sg><gen>$}$ ^adv<ADVL><@N←>{^jo<adv>$}$ ^n<NP><@X><n><gen>{^kilomeetter<n><pl><gen>$}$ ^post<PP><@ADVL>{^ovdil<post>$}$ ^nc_n<NP><@X>{^kirdeđ<vblex><der_nomact><n><cmp_sgnom><cmp>+kieddi<n><sg><gen>$}$^sent<SENT>{^.<sent>$}$
+[/Pf2pXFOC_mJx]
+[Rw8HDVf0Sspk#0] ^n<NP><@SUBJ→><np><nom>{^Maarit<np><ant><f><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^läittiđ<vblex><indic><pres><p3><sg>$}$ ^j_n<NP><@←ADVL>{^jyehi<prn><ind><attr>$ ^tušše<n><sg><com>$}$^sent<SENT>{^.<sent>$}$
+[/Rw8HDVf0Sspk]
+[S2QKMXOGrnem#0] ^Adv<ADVL><@ADVL-ine→>{^forgâ<adv>$}$ ^default<@PCLE>{^kuittâg<adv>$}$ ^mainverb<SV><@+FMAINV>{^iberdiđ<vblex><indic><pres><p1><sg>$}$ ^prn<NP><@X><rel>{^mii<prn><rel><ess>$}$ ^mainverb<SV><@+FMAINV>{^jurdeđ<vblex><indic><pres><p1><sg>$}$ ^n<NP><@-FSUBJ→><n><acc>{^haajâ<n><sg><acc>$}$ ^default<@←OBJ>{^čuávvuđ<vblex><inf>$}$ ^prn<NP><@-F←OBJ><pers>{^mun<prn><pers><p1><sg><acc>$}$^sent<SENT>{^.<sent>$}$
+[/S2QKMXOGrnem]
+[SF-9oBnWPmw5#0] ^Prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><pl><nom>$}$ ^mainverb<SV><@+FMAINV>{^suáittiđ<vblex><indic><pres><p1><pl>$}$ ^prn<NP><@→N><dem>{^tot<prn><dem><pl><ill>$}$ ^n<NP><@←ADVL><n><ill>{^vanhim<n><pl><ill>$}$^default{^,<cm>$}$ ^prn<NP><@OBJ→><rel>{^kii<prn><rel><pl><acc>$}$ ^n<NP><@SUBJ→><n><nom>{^páárnáš<n><pl><nom>$}$ ^mainverb<SV><@+FMAINV>{^porgottâllâđ<vblex><indic><pres><p3><pl>$}$^sent<SENT>{^.<sent>$}$
+[/SF-9oBnWPmw5]
+[SNPotGQxrLgQ#0] ^Auxverb<SV><@+FAUXV>{^leđe<vblex><indic><pres><p1><sg>$}$ ^adv<ADVL><@ADVL-ine→>{^jo<adv>$}$ ^prn<NP><@X><ind>{^puoh<prn><ind><nom>$}$ ^mainverb<SV><@-FMAINV>{^puurrâđ<vblex><der_pass><vblex><prfprc>$}$^sent<SENT>{^.<sent>$}$
+[/SNPotGQxrLgQ]
+[T5YyYzpeYfCv#0] ^N<NP><@SUBJ→><n><nom>{^enni<n><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^sárguđ<vblex><indic><pret><p3><sg>$}$ ^prn<NP><@←OBJ><dem>{^tuot<prn><dem><pl><acc>$}$^sent<SENT>{^.<sent>$}$
+[/T5YyYzpeYfCv]
+[THxKGvk-0zpX#0] ^Auxverb<SV><@+FAUXV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^mainverb<SV><@-FMAINV>{^ettâđ<vblex><der_pass><vblex><prfprc>$}$^default{^,<cm>$}$ ^cnjsub<cnjsub><@CVP>{^et<cnjsub>$}$ ^cnjsub<cnjsub><@CVP>{^jis<cnjsub>$}$ ^j_n<NP><@→N>{^oovdiš<adj>$ ^Kumari<np><cog><attr>$}$ ^n<NP><@SUBJ→><np><nom>{^Devi<np><ant><m><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^naaijâđ<vblex><indic><pres><p3><sg>$}$^default{^,<cm>$}$ ^adv<ADVL><@ADVL-ine→>{^te<adv>$}$ ^n<NP><@ADVL→><n><ill>{^iššeed<n><sg><ill>$}$ ^mainverb<SV><@+FMAINV>{^keevvâđ<vblex><indic><pres><p3><sg>$}$ ^adv<ADVL><@←ADVL-ine>{^hyeneeht<adv>$}$^default{^,<cm>$}$ ^adv<ADVL><@ADVL-ine→>{^távjá<adv>$}$ ^mainverb<SV><@+FMAINV>{^jäämmiđ<vblex><indic><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/THxKGvk-0zpX]
+[TIeAb-9O4k29#0] ^Prn<NP><@SUBJ→><itg>{^mii<prn><itg><pl><nom>$}$ ^n<NP><@SUBJ→><n><nom>{^iše<n><pl><nom>$}$ ^prn<NP><@ADVLhab→><pers>{^tun<prn><pers><p2><sg><loc>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pres><p3><pl>$}$^sent<SENT>{^?<sent>$}$
+[/TIeAb-9O4k29]
+[U9dG39G_0Mqw#0] ^N<NP><@→N><n><gen>{^sämmilâš<n><pl><gen>$}$ ^n<NP><@SUBJ→><n><nom>{^meeri<n><sg><nom>$}$ ^auxverb<SV><@+FAUXV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^mainverb<SV><@-FMAINV>{^lasaniđ<vblex><prfprc>$}$ ^n<NP><@←ADVL-ine><n><loc>{^ihe<n><sg><loc>$}$ ^n<NP><@→N><num><ill>{^1992<num><arab><sg><ill><attr>$}$ ^n<NP><@←ADVL><n><ill>{^ihe<n><sg><ill>$}$ ^numsem<SN><@N←>{^2011<num><sg><nom>$}$ ^z_n<NP><@Num←><numphrase>{^55<num><arab><sg><nom>$ ^prooseent<n><par>$}$^sent<SENT>{^.<sent>$}$
+[/U9dG39G_0Mqw]
+[WaSTkJP0wNPL#0] ^Prn<NP><@SUBJ→><pers>{^sun<prn><pers><p3><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^prn<NP><@←SPRED><ind>{^miinii<prn><ind><sg><nom>$}$ ^prn<NP><@ADVLhab→><rel>{^mii<prn><rel><sg><loc>$}$ ^mainverb<SV><@-FMAINV>{^leđe<vblex><prfprc>$}$ ^adv<ADVL><@←ADVL-ine>{^fáárust<adv>$}$^sent<SENT>{^.<sent>$}$
+[/WaSTkJP0wNPL]
+[XX6NggZqp8LU#0] ^N<NP><@→N><num><loc>{^kalle<num><sg><loc><attr>$}$ ^n<NP><@ADVL-ine→><n><loc>{^lonnjâ<n><sg><loc>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pres><p3><pl>$}$ ^n<NP><@←SUBJext><n><nom>{^olmooš<n><pl><nom>$}$^sent<SENT>{^?<sent>$}$
+[/XX6NggZqp8LU]
+[XruIcoqzS-Jk#0] ^Auxverb<SV><@+FAUXV>{^ij<vblex><neg><indic><p3><sg>$}$ ^prn<NP><@←SUBJ><ind>{^mihheen<prn><ind><sg><nom>$}$ ^adv<ADVL><@→A>{^nuuvt<adv>$}$ ^n<NP><@←SUBJ><adj><nom>{^hyeni<adj><sg><nom>$}$^default{^,<cm>$}$ ^cnjsub<cnjsub><@CVP>{^et<cnjsub>$}$ ^prn<NP><@X><ind>{^miinii<prn><ind><ess>$}$ ^auxverb<SV><@+FAUXV>{^ij<vblex><neg><indic><p3><sg>$}$ ^mainverb<SV><@-FMAINV>{^leđe<vblex><indic><pres><conneg>$}$ ^n<NP><@←SPRED><adj><nom>{^pyeri<adj><sg><nom>$}$^sent<SENT>{^.<sent>$}$
+[/XruIcoqzS-Jk]
+[Y4QDcXWTbd1b#0] ^Auxverb<SV><@+FAUXV>{^ij<vblex><neg><indic><p3><sg><qst>$}$ ^prn<NP><@SUBJ→><dem>{^taat<prn><dem><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^tuhhiđ<vblex><cond><pres><p3><sg>$}$ ^prn<NP><@←SUBJ><ind>{^miinii<prn><ind><sg><nom>$}$ ^prn<NP><@←ADVL><rel>{^mii<prn><rel><sg><ill>$}$^sent<SENT>{^?<sent>$}$
+[/Y4QDcXWTbd1b]
+[Yy8g820DMVl5#0] ^Prn<NP><@ADVLhab→><ind>{^mottoom<prn><ind><pl><loc>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^adv<ADVL><@→N>{^tuše<adv>$}$ ^nc_n<NP><@←SUBJext>{^rimške<n><cmp_sgnom><cmp>+pittá<n><sg><nom>$}$ ^n<NP><@←ADVL-ine><loc>{^pottâ<n><sg><loc>$ }$^default{^,<cm>$}$ ^prn<NP><@←ADVL-ine><ind>{^mottoom<prn><ind><pl><loc>$}$ ^j_n<NP><@→N>{^kukke<adj><attr>$ ^fiskâd<adj><attr>$}$ ^cnjcoo<cnjcoo><@CNP>{^teikkâ<cnjcoo>$}$ ^nc_n<NP><@←SUBJ>{^ooraans<adj><cmp_attr><cmp>+päiđi<n><sg><nom>$}$^sent<SENT>{^.<sent>$}$
+[/Yy8g820DMVl5]
+[aBkeyJ3yStbm#0] ^Prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^jurdeđ<vblex><indic><pret><p1><sg>$}$ ^n<NP><@←OBJ><n><acc>{^summe<n><sg><acc>$}$ ^numsem<SN><@X>{^miljovn<num><ess>$}$^default{^,<cm>$}$ ^cnjcoo<cnjcoo><@CVP>{^mut<cnjcoo>$}$ ^auxverb<SV><@+FAUXV>{^ij<vblex><neg><indic><p3><sg>$}$ ^mainverb<SV><@-FMAINV>{^leđe<vblex><indic><pret><conneg><foc_gin>$}$ ^adv<ADVL><@←ADVL-ine>{^eenâb<adv>$}$ ^cnjsub<cnjsub><@CNP>{^ko<cnjsub>$}$ ^n<NP><@←SUBJ><num><nom>{^muáddi<num><sg><nom>$}$ ^n<NP><@X><num><gen>{^tuhháát<num><sg><gen>$}$^sent<SENT>{^.<sent>$}$
+[/aBkeyJ3yStbm]
+[b0ZP6OsCL2Sz#0] ^Prn<NP><@SUBJ→><ind>{^puohah<prn><ind><pl><nom>$}$ ^mainverb<SV><@+FMAINV>{^suorgâniđ<vblex><indic><pret><p3><pl>$}$ ^cnjcoo<cnjcoo><@CVP>{^já<cnjcoo>$}$ ^mainverb<SV><@+FMAINV>{^koijâdiđ<vblex><indic><pret><p3><pl>$}$ ^prn<NP><@←ADVL-ela><res>{^kyeimi kyeimi<prn><res><loc><p3><pl>$}$: ^Prn<NP><@→N><itg>{^maggaar<prn><itg><sg><nom>$}$ ^n<NP><@SUBJ→><n><nom>{^sääni<n><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^prn<NP><@←SPRED><dem>{^taat<prn><dem><sg><nom>$}$^sent<SENT>{^?<sent>$}$
+[/b0ZP6OsCL2Sz]
+[baGr8Ictcun1#0] ^Adv<ADVL><@ADVL→>{^tuáváábeln<adv>$}$ ^cnjcoo<cnjcoo><@CVP>{^já<cnjcoo>$}$ ^prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><du><nom>$}$ ^prn<NP><@Pron←><dem>{^tot<prn><dem><sg><loc>$}$ ^mainverb<SV><@+FMAINV>{^čiärsáđ<vblex><indic><pres><p1><du>$}$ ^cnjsub<cnjsub><@CNP>{^tego<cnjsub>$}$ ^n<NP><@COMP-CS←><num><nom>{^tuhháát<num><pl><nom>$}$ ^j_n<NP><@COMP-CS←>{^eres<prn><ind><attr><foc_uv>$ ^rähistuđ<vblex><der_nomact><n><sg><nom>$}$ ^n<NP><@COMP-CS←><n><nom>{^paarâ<n><pl><nom>$}$ ^pr<PP><@←ADVL>{^ovdil<pr>$}$ ^prn<NP><@→P><pers>{^mun<prn><pers><p1><du><gen>$}$ ^cnjcoo<cnjcoo><@CNP>{^já<cnjcoo>$}$ ^prn<NP><@P←><pers>{^mun<prn><pers><p1><du><gen>$}$ ^post<PP><@←ADVL-ine>{^maŋa<post>$}$^sent<SENT>{^.<sent>$}$
+[/baGr8Ictcun1]
+[byucOUSjJU8a#0] ^Mainverb<SV><@+FMAINV>{^moonnâđ<vblex><indic><pres><p1><sg>$}$ ^adv<ADVL><@←ADVL-ela>{^aldeláá<adv>$}$ ^auxverb<SV><@+FAUXV>{^ij<vblex><neg><indic><p3><sg><foc_ge>$}$ ^n<NP><@←SUBJ><n><nom>{^marmor<n><sg><nom>$}$ ^mainverb<SV><@-FMAINV>{^leđe<vblex><indic><pres><conneg><foc_gin>$}$ ^adv<ADVL><@→A>{^nuuvt<adv>$}$ ^n<NP><@←SPRED><adj><nom>{^vielgâd<adj><sg><nom>$}$ ^cnjsub<cnjsub><@CVP>{^ko<cnjsub>$}$ ^adv<ADVL><@ADVL-ine→>{^kukkeláá<adv>$}$ ^mainverb<SV><@+FMAINV>{^orroođ<vblex><indic><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/byucOUSjJU8a]
+[c1Jx03Cd_ucf#0] ^Prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><pl><nom>$}$ ^mainverb<SV><@+FMAINV>{^lijkkuđ<vblex><indic><pres><p1><pl>$}$ ^prn<NP><@←ADVL><res>{^kyeimi kyeimi<prn><res><ill><p1><pl>$}$^sent<SENT>{^.<sent>$}$
+[/c1Jx03Cd_ucf]
+[cStlTQI3RsEC#0] ^Prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^puáttiđ<vblex><indic><pres><p1><sg>$}$ ^prn<NP><@→Num><dem>{^tot<prn><dem><sg><com>$}$ ^n<NP><@→N><num><com>{^kulmâ<num><sg><com>$}$ ^n<NP><@←ADVL><n><com>{^kyeli<n><sg><com>$}$^sent<SENT>{^.<sent>$}$
+[/cStlTQI3RsEC]
+[cctdr_d8Fxdv#0] ^n<NP><@SUBJ→><np><nom>{^Ánná<np><ant><f><sg><nom>$}$ ^auxverb<SV><@+FAUXV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^prn<NP><@ADVL→><ind>{^mottoom<prn><ind><sg><ill>$}$ ^mainverb<SV><@-FMAINV>{^suttâđ<vblex><prfprc>$}$^sent<SENT>{^.<sent>$}$
+[/cctdr_d8Fxdv]
+[dcTA6j4Samgv#0] ^Prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><pl><nom>$}$ ^mainverb<SV><@+FMAINV>{^piäránkeččâđ<vblex><indic><pres><p1><pl>$}$ ^prn<NP><@→N><res>{^kyeimi kyeimi<prn><res><gen><p1><pl>$}$ ^n<NP><@←OBJ><n><acc>{^páárnáš<n><pl><acc>$}$^sent<SENT>{^.<sent>$}$
+[/dcTA6j4Samgv]
+[dlkI2Y_fMNDD#0] ^Prn<NP><@SUBJ→><pers>{^sun<prn><pers><p3><du><nom>$}$ ^mainverb<SV><@+FMAINV>{^tubdâđ<vblex><indic><pres><p3><du>$}$ ^prn<NP><@←OBJ><res>{^kuábáš-uv kyeimi<prn><res><acc><p3><du>$}$^sent<SENT>{^.<sent>$}$
+[/dlkI2Y_fMNDD]
+[enZYDN5K4kpU#0] ^Prn<NP><@SUBJ→><pers>{^sun<prn><pers><p3><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^kijkkiđ<vblex><indic><pres><p3><sg>$}$ ^adv<ADVL><@←ADVL-ine>{^kuhháá<adv>$}$ ^cnjsub<cnjsub><@CVP>{^ovdilgo<cnjsub>$}$ ^mainverb<SV><@+FMAINV>{^vilpâstiđ<vblex><indic><pres><p3><sg>$}$ ^prn<NP><@←ADVL><pers>{^mun<prn><pers><p1><sg><ill>$}$^sent<SENT>{^.<sent>$}$
+[/enZYDN5K4kpU]
+[erCmMpsi6Bsu#0] ^P_n<NP><@ADVL→><n><com>{^kote<prn><itg><pl><gen>$ ^maašin<n><pl><com>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^n<NP><@←SPRED><adj><nom>{^älkkee<adj><der_superl><adj><sg><nom>$}$ ^default<@←SUBJ>{^kuárruđ<vblex><inf>$}$^sent<SENT>{^?<sent>$}$
+[/erCmMpsi6Bsu]
+[gpZwV6pQcLZl#0] ^Prn<NP><@SUBJ→><pers>{^sun<prn><pers><p3><pl><nom>$}$ ^auxverb<SV><@+FAUXV>{^kolgâđ<vblex><indic><pres><p3><pl>$}$ ^mainverb<SV><@-FMAINV>{^kuullâđ¹<vblex><inf>$}$ ^unknown<unknown>{^*rivttes$}$ ^n<NP><@←ADVL><n><ill>{^čerdâ<n><sg><ill>$}$ ^cnjcoo<cnjcoo><@CNP>{^já<cnjcoo>$}$ ^n<NP><@←ADVL><n><ill>{^kaastâ<n><sg><ill>$}$^sent<SENT>{^.<sent>$}$
+[/gpZwV6pQcLZl]
+[iTlxVuSkuiDk#0] ^Prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^väldiđ<vblex><indic><pres><p1><sg>$}$ ^prn<NP><@→N><dem>{^tot<prn><dem><sg><acc>$}$ ^n<NP><@←OBJ><n><acc>{^viäsku<n><sg><acc>$}$^default{^,<cm>$}$ ^prn<NP><@ADVL→><rel>{^mii<prn><rel><sg><ill>$}$ ^n<NP><@SUBJ→><n><nom>{^puhelin<n><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^mattâđ<vblex><indic><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/iTlxVuSkuiDk]
+[i_XFcEJRwp_2#0] ^Adv<ADVL><@ADVL-ine→>{^tobbeen<adv>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pret><p3><pl>$}$ ^j_n<NP><@←ADVL>{^puoh<prn><ind><attr>$ ^mecci<n><sg><gen>$}$ ^mainverb<SV><@-FMAINV>{^eelliđ<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/i_XFcEJRwp_2]
+[j9fRPmyIKygq#0] ^Prn<NP><@SUBJ→><pers>{^tun<prn><pers><p2><sg><nom>$}$ ^adv<ADVL><@ADVL-ine→>{^kal<adv>$}$ ^auxverb<SV><@+FAUXV>{^ij<vblex><neg><indic><p2><sg>$}$ ^mainverb<SV><@-FMAINV>{^tuhhiđ<vblex><indic><pres><conneg>$}$ ^prn<NP><@X><ind>{^mihheen<prn><ind><ess>$}$^sent<SENT>{^.<sent>$}$
+[/j9fRPmyIKygq]
+[jNpqfmkUxH-i#0] ^Mainverb<SV><@+FMAINV>{^orroođ<vblex><indic><pres><p3><sg>$}$ ^n<NP><@←SUBJ><adj><nom>{^luándulâš<adj><sg><nom>$}$ ^default<@←SUBJ>{^uáiniđ<vblex><inf>$}$ ^adv<ADVL><@ADVLcs-ine→>{^maht<adv>$}$ ^n<NP><@SUBJ→><n><nom>{^hindu<n><pl><nom>$}$ ^mainverb<SV><@+FMAINV>{^luptiđ<vblex><indic><pres><p3><pl>$}$ ^j_n<NP><@←ADVL>{^vielgâd<adj><attr>$ ^käägis<n><sg><ill>$}$ ^default<@→N>{^stuullâđ<vblex><der_pass><vblex><prfprc>$}$ ^n<NP><@→P><n><gen>{^ruumâš<n><sg><gen>$}$ ^nc_n<NP><@X>{^puáldiđ<vblex><der_nomact><n><cmp_sgnom><cmp>+muorâ<n><pl><gen>$}$ ^post<PP><@←ADVL-ine>{^oolâ<post>$}$^sent<SENT>{^.<sent>$}$
+[/jNpqfmkUxH-i]
+[jQjq8EYauaOy#0] ^N<NP><@HNOUN><n><nom>{^sopâmuš<n><sg><nom>$}$ ^n<NP><@→P><np><gen>{^Suomâ<np><top><sg><gen>$}$ ^default{^,<cm>$}$ ^n<NP><@→N><np><gen>{^Taažâ<np><top><sg><gen>$}$ ^default{^,<cm>$}$ ^n<NP><@→N><np><gen>{^Ruotâ<np><top><sg><gen>$}$ ^cnjcoo<cnjcoo><@CNP>{^já<cnjcoo>$}$ ^d_z_n<NP><@→N>{^tot<prn><dem><pl><gen>$ ^kulmâ<num><sg><gen>$ ^rijkkâ<n><sg><gen>$}$ ^nc_n<NP><@X>{^säämi<n><cmp_sggen><cmp>+tigge<n><pl><gen>$}$ ^post<PP><@ADVL>{^kooskâst<post>$}$^sent<SENT>{^.<sent>$}$
+[/jQjq8EYauaOy]
+[jkVmZOfOS7Iv#0] ^Prn<NP><@SUBJ→><pers>{^sun<prn><pers><p3><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^sárnuđ<vblex><indic><pret><p3><sg>$}$ ^prn<NP><@←ADVL><ref>{^jieš<prn><ref><com><px3sg>$}$^sent<SENT>{^.<sent>$}$
+[/jkVmZOfOS7Iv]
+[kYOJsw4r-u4w#0] ^Prn<NP><@→N><itg>{^maggaar<prn><itg><sg><nom>$}$ ^n<NP><@SUBJ→><n><nom>{^sääni<n><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^prn<NP><@←SPRED><dem>{^taat<prn><dem><sg><nom>$}$^sent<SENT>{^?<sent>$}$
+[/kYOJsw4r-u4w]
+[l6iNbGKF0F3V#0] ^Prn<NP><@SUBJ→><pers>{^sun<prn><pers><p3><sg><nom>$}$ ^auxverb<SV><@+FAUXV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^mainverb<SV><@-FMAINV>{^anneeđ<vblex><prfprc>$}$ ^n<NP><@←OBJ><n><acc>{^huolâ<n><sg><acc>$}$ ^adj<AP><@→Num>{^maajeeb<adj><der_superl><adj><sg><nom>$}$ ^z_n<NP><@→N><numphrase>{^25<num><arab><sg><acc>$ ^ihe<n><par>$}$ ^n<NP><@←ADVL><n><gen>{^äigi<n><sg><gen>$}$^sent<SENT>{^.<sent>$}$
+[/l6iNbGKF0F3V]
+[lDsNbuC7m5gJ#0] ^N<NP><@→Num><num><loc>{^kähcilovkuttâ<num><sg><loc>$}$  (^num<NP><@ADVL-ine→>{^ihe<n><sg><gen>$ ^1986<num><arab><sg><nom>$}$) ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pret><p1><sg>$}$ ^prn<NP><@←SUBJ><pers>{^mun<prn><pers><p1><sg><nom>$}$ ^adv<ADVL><@←ADVL-ine>{^ain<adv>$}$ ^n<NP><@←ADVL-ine><n><loc>{^vuáđuškovlâ<n><sg><loc>$}$^sent<SENT>{^.<sent>$}$
+[/lDsNbuC7m5gJ]
+[mJ9Qgc-wVItD#0] ^Prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^väldiđ<vblex><indic><pres><p1><sg>$}$ ^prn<NP><@→Num><dem>{^taat<prn><dem><sg><acc>$}$ ^z_n<NP><@←OBJ><numphrase>{^kulmâ<num><sg><acc>$ ^kirje<n><sg><acc>$}$^sent<SENT>{^.<sent>$}$
+[/mJ9Qgc-wVItD]
+[mPyH04EZGslb#0] ^Prn<NP><@SUBJ→><pers>{^tun<prn><pers><p2><du><nom>$}$ ^mainverb<SV><@+FMAINV>{^uáiniđ<vblex><indic><pret><p2><du>$}$ ^prn<NP><@←OBJ><res>{^kuábáš-uv kyeimi<prn><res><acc><p2><du>$}$^sent<SENT>{^.<sent>$}$
+[/mPyH04EZGslb]
+[nUYVGcpDsDcu#0] ^Adv<ADVL><@ADVL-ine→>{^ovdemustáá<adv>$}$ ^auxverb<SV><@+FAUXV>{^kolgâđ<vblex><indic><pret><p3><pl>$}$ ^mainverb<SV><@-FMAINV>{^nonniđ<vblex><inf>$}$ ^n<NP><@←OBJ><n><acc>{^máttááttâs<n><sg><acc>$}$ ^prn<NP><@X><ind>{^kuábáš-uv<prn><ind><nom>$}$ ^n<NP><@←ADVL-ine><n><loc>{^saje<n><sg><loc>$}$^sent<SENT>{^.<sent>$}$
+[/nUYVGcpDsDcu]
+[nySoDHKplS8V#0] ^N<NP><@SUBJ→><vblex><nom>{^kuálástiđ<vblex><der_nomact><n><sg><nom>$}$ ^adv<ADVL><@ADVL→>{^meid<adv>$}$ ^n<NP><@OBJ→><n><acc>{^saahâ<n><pl><acc>$}$^default{^,<cm>$}$ ^cnjsub<cnjsub><@CVP>{^et<cnjsub>$}$ ^n<NP><@ADVL-ine→><np><loc>{^Delhi<np><top><sg><loc>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^n<NP><@←SUBJext><n><nom>{^jasko<n><sg><nom>$}$^sent<SENT>{^.<sent>$}$
+[/nySoDHKplS8V]
+[o9uEG3DONMM6#0] ^Prn<NP><@SUBJ→><dem>{^tot<prn><dem><sg><nom>$}$ ^prn<NP><@ADVLhab→><rel>{^kii<prn><rel><sg><loc>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^j_n<NP><@←SUBJext>{^hiäivulâš<adj><sg><nom>$ ^horoskoop<n><sg><nom>$}$ ^cnjcoo<cnjcoo><@CVP>{^já<cnjcoo>$}$ ^prn<NP><@SUBJ→><rel>{^kii<prn><rel><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^tevdiđ<vblex><indic><pres><p3><sg>$}$ ^z-n<NP><@←OBJ>{^32<num><arab><sg><acc>$ ^sierâ<adj><attr>$ ^vátámâš<n><par>$}$^default{^,<cm>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^j_n<NP><@←SPRED>{^tohálâš<adj><ess>$ ^immeel<n><ess>$}$^sent<SENT>{^.<sent>$}$
+[/o9uEG3DONMM6]
+[panPO5DSV4Kc#0] ^N<NP><@SUBJ→><n><nom>{^hindu<n><pl><nom>$}$ ^mainverb<SV><@+FMAINV>{^oskođ<vblex><indic><pres><p3><pl>$}$^default{^,<cm>$}$ ^cnjsub<cnjsub><@CVP>{^et<cnjsub>$}$ ^cnjsub<cnjsub><@CVP>{^jis<cnjsub>$}$ ^j_n<NP><@SUBJ→>{^mottoom<prn><ind><sg><nom>$ ^ellee<n><nomag><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^kuoskâđ<vblex><indic><pres><p3><sg>$}$ ^n<NP><@←ADVL><n><ill>{^ruumâš<n><sg><ill>$}$ ^cnjsub<cnjsub><@CVP>{^ovdilgo<cnjsub>$}$ ^prn<NP><@SUBJ→><dem>{^tot<prn><dem><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^puáldiđ<vblex><der_pass><vblex><indic><pres><p3><sg>$}$^default{^,<cm>$}$ ^adv<ADVL><@ADVL-ine→>{^te<adv>$}$ ^n<NP><@SUBJ→><n><nom>{^olmooš<n><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^šoddâđ<vblex><indic><pres><p3><sg>$}$ ^adv<ADVL><@←ADVL-ine>{^tondiet<adv>$}$ ^n<NP><@→P><vblex><gen>{^eelliđ<vblex><der_nomact><n><sg><gen>$}$ ^post<PP><@←ADVL-ine>{^maŋa<post>$}$^sent<SENT>{^.<sent>$}$
+[/panPO5DSV4Kc]
+[psM5RsrWhIjY#0] ^Prn<NP><@SUBJ→><pers>{^sun<prn><pers><p3><pl><nom>$}$ ^mainverb<SV><@+FMAINV>{^čiärguđ<vblex><indic><pret><p3><pl>$}$ ^prn<NP><@←ADVL-ine><res>{^kyeimi kyeimi<prn><res><loc><p3><pl>$}$^sent<SENT>{^.<sent>$}$
+[/psM5RsrWhIjY]
+[rYlRLGY4SFTK#0] ^J_nc_n<NP><@SUBJ→>{^sämmilâš<adj><sg><nom>$ ^kietâ<n><cmp_sgnom><cmp>+tuáijár<n><sg><nom>$}$ ^auxverb<SV><@+FAUXV>{^ij<vblex><neg><indic><p3><sg>$}$ ^auxverb<SV><@-FAUXV>{^pyehtiđ<vblex><indic><pres><conneg>$}$ ^prn<NP><@ADVL→><dem>{^taggaar<prn><dem><pl><com>$}$ ^mainverb<SV><@-FMAINV>{^vaijeeđ<vblex><inf>$}$ ^default<@←OBJ>{^kištottâllâđ<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/rYlRLGY4SFTK]
+[rZoH9bSKAJFw#0] ^Prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^väldiđ<vblex><indic><pret><p1><sg>$}$ ^z_n<NP><@←OBJ><numphrase>{^kyehti<num><sg><acc>$ ^kyeli<n><sg><acc>$}$ ^adv<ADVL><@←ADVL>{^fáárust<adv>$}$^sent<SENT>{^.<sent>$}$
+[/rZoH9bSKAJFw]
+[r_r5yL2kYQ0v#0] ^Prn<NP><@SUBJ→><pers>{^sun<prn><pers><p3><du><nom>$}$ ^mainverb<SV><@+FMAINV>{^čiärguđ<vblex><indic><pret><p3><du>$}$ ^prn<NP><@←ADVL><res>{^kuábáš-uv kyeimi<prn><res><com><p3><du>$}$^sent<SENT>{^.<sent>$}$
+[/r_r5yL2kYQ0v]
+[sKxj2nHHWCbk#0] ^Auxverb<SV><@+FAUXV>{^ij<vblex><neg><indic><p3><sg>$}$ ^prn<NP><@ADVLhab→><ind>{^jieškote<prn><ind><sg><loc><foc_gin>$}$ ^mainverb<SV><@-FMAINV>{^leđe<vblex><indic><pret><conneg>$}$ ^n<NP><@←SUBJext><n><nom>{^evvis<n><sg><nom>$}$ ^adv<ADVL><@←ADVL-ine>{^fáárust<adv>$}$^sent<SENT>{^.<sent>$}$
+[/sKxj2nHHWCbk]
+[snZUePBOaWZH#0] ^Mainverb<SV><@+FMAINV>{^adeliđ<vblex><indic><pres><p1><sg>$}$ ^d_j_n<NP><@←ADVL>{^tot<prn><dem><sg><acc>$ ^kyehti<num><sg><ill><attr>$ ^kyeli<n><sg><ill>$}$^sent<SENT>{^.<sent>$}$
+[/snZUePBOaWZH]
+[t7PduU9c0c1y#0] ^Prn<NP><@→N><pers>{^sun<prn><pers><p3><sg><gen>$}$ ^n<NP><@→N><n><gen>{^hiävuš<n><sg><gen>$}$ ^n<NP><@ADVL→><n><ill>{^selgi<n><sg><ill>$}$ ^n<NP><@SUBJ→><n><nom>{^almai<n><sg><nom>$}$ ^auxverb<SV><@+FAUXV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^mainverb<SV><@-FMAINV>{^kaarrâđ<vblex><prfprc>$}$ ^z_n<NP><@←OBJ><numphrase>{^muáddi<num><sg><acc>$ ^kurppe<n><par>$}$ ^prn<NP><@→N><pers>{^mun<prn><pers><p1><pl><gen>$}$ ^n<NP><@APP-N←><n><acc>{^täävvir<n><pl><acc>$}$^sent<SENT>{^.<sent>$}$
+[/t7PduU9c0c1y]
+[uV99m3Q3MjvH#0] ^Nc_n<NP><@SUBJ→>{^laasâ<n><cmp_sgnom><cmp>+räigi<n><pl><nom>$}$ ^auxverb<SV><@+FAUXV>{^leđe<vblex><indic><pres><p3><pl>$}$ ^adv<ADVL><@ADVL-ine→>{^meid<adv>$}$ ^mainverb<SV><@-FMAINV>{^hammiđ<vblex><der_pass><vblex><prfprc>$}$ ^adv<ADVL><@←ADVL-ine>{^nuuvt<adv>$}$^default{^,<cm>$}$ ^cnjsub<cnjsub><@CVP>{^et<cnjsub>$}$ ^j_nc_n<NP><@→N>{^tallaš<adj><sg><gen>$ ^1800<num><cmp_hyph><cmp>+loho<n><sg><gen>$}$ ^j_n<NP><@SUBJ→>{^kunâgâslâš<adj><pl><nom>$ ^nissoon<n><pl><nom>$}$ ^auxverb<SV><@+FAUXV>{^peessâđ<vblex><indic><pret><p3><pl>$}$ ^adv<ADVL><@ADVL-ine→>{^syele<adv>$}$ ^mainverb<SV><@-FMAINV>{^kuovlâđ<vblex><inf>$}$ ^adv<ADVL><@←ADVL>{^olgos<adv>$}$^sent<SENT>{^.<sent>$}$
+[/uV99m3Q3MjvH]
+[udqnlCykQxKK#0] ^Prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><pl><nom>$}$ ^mainverb<SV><@+FMAINV>{^uážžuđ<vblex><indic><pret><p1><pl>$}$ ^prn<NP><@←ADVL-ela><res>{^kyeimi kyeimi<prn><res><loc><p1><pl>$}$ ^n<NP><@←OBJ><n><acc>{^rääsi<n><pl><acc>$}$^sent<SENT>{^.<sent>$}$
+[/udqnlCykQxKK]
+[url1_vYCFo7R#0] ^Prn<NP><@SUBJ→><pers>{^mun<prn><pers><p1><sg><nom>$}$ ^mainverb<SV><@+FMAINV>{^uáiniđ<vblex><indic><pres><p1><sg>$}$ ^prn<NP><@→Num><dem>{^tot<prn><dem><sg><acc>$}$ ^z_n<NP><@←OBJ><numphrase>{^nelji<num><sg><acc>$ ^kandâ<n><sg><acc>$}$^sent<SENT>{^.<sent>$}$
+[/url1_vYCFo7R]
+[veXhP4M-MHvQ#0] ^Prn<NP><@SUBJ→><pers>{^sun<prn><pers><p3><pl><nom>$}$ ^auxverb<SV><@+FAUXV>{^leđe<vblex><indic><pret><p3><pl>$}$ ^mainverb<SV><@-FMAINV>{^iädduđ<vblex><prfprc>$}$ ^prn<NP><@←ADVL><res>{^kyeimi kyeimi<prn><res><ill><p3><pl>$}$^sent<SENT>{^.<sent>$}$
+[/veXhP4M-MHvQ]
+[wXbPf_hetIPY#0] ^Prn<NP><@SUBJ→><pers>{^sun<prn><pers><p3><sg><nom>$}$ ^auxverb<SV><@+FAUXV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^prn<NP><@ADVL-ine→><ind>{^miinii<prn><ind><sg><loc>$}$ ^mainverb<SV><@-FMAINV>{^leđe<vblex><prfprc>$}$ ^adv<ADVL><@←ADVL-ine>{^fáárust<adv>$}$^sent<SENT>{^.<sent>$}$
+[/wXbPf_hetIPY]
+[xFiLQEmM7l95#0] ^P_n<NP><@ADVL→><n><com>{^kote<prn><itg><pl><gen>$ ^maašin<n><pl><com>$}$ ^mainverb<SV><@+FMAINV>{^leđe<vblex><indic><pres><p3><sg>$}$ ^n<NP><@←SPRED><adj><nom>{^älkkee<adj><der_superl><adj><sg><nom>$}$ ^default<@←SUBJ>{^kuárruđ<vblex><inf>$}$^sent<SENT>{^?<sent>$}$
+[/xFiLQEmM7l95]
+[xJyQ4HykJglu#0] ^Auxverb<SV><@+FAUXV>{^ij<vblex><neg><indic><p3><sg>$}$ ^n<NP><@ADVL→><num><com>{^miljovn<num><sg><com>$}$ ^auxverb<SV><@-FAUXV>{^pyehtiđ<vblex><indic><pres><conneg>$}$ ^mainverb<SV><@-FMAINV>{^uástiđ<vblex><inf>$}$ ^n<NP><@←OBJ><n><acc>{^táálu<n><sg><acc>$}$ ^prn<NP><@→N><dem>{^taat<prn><dem><sg><gen>$}$ ^n<NP><@←ADVL><n><gen>{^äigi<n><sg><gen>$}$^sent<SENT>{^.<sent>$}$
+[/xJyQ4HykJglu]
+[zMR3Qvnv39dp#0] ^Prn<NP><@SUBJ→><pers>{^tun<prn><pers><p2><pl><nom>$}$ ^mainverb<SV><@+FMAINV>{^uážžuđ<vblex><indic><pret><p2><pl>$}$ ^n<NP><@←OBJ><n><acc>{^skeŋkkâ<n><sg><acc>$}$ ^prn<NP><@←ADVL-ela><res>{^kyeimi kyeimi<prn><res><loc><p2><pl>$}$^sent<SENT>{^.<sent>$}$
+[/zMR3Qvnv39dp]
+[zyM7vGmnhy0O#0] ^p_n<NP><@←ADVL><n><com>{^kote<prn><itg><pl><gen>$ ^táálu<n><pl><com>$}$^sent<SENT>{^?<sent>$}$ ^p_n<NP><@HNOUN><n><com>{^kote<prn><itg><pl><gen>$ ^táálu<n><pl><com>$}$^sent<SENT>{^?<sent>$}$
+[/zyM7vGmnhy0O]

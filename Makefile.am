@@ -2,7 +2,6 @@
 ## Makefile for Northern Saami--Inari Saami
 ###############################################################################
 
-VERSION=0.1.0
 LANG1=sme
 LANG2=smn
 PREFIX1=$(LANG1)-$(LANG2)
@@ -256,11 +255,4 @@ test-install:
 	@rm -rf tmp-$@
 
 test: all test-install
-	echo "ja" | apertium -d . sme-smn | tee .test-mt
-	@echo "já" > .test-ref
-	@diff .test-ref .test-mt
-	echo "já" | apertium -d . smn-sme | tee .test-mt
-	@echo "ja" > .test-ref
-	@diff .test-ref .test-mt
-	@rm .test-ref .test-mt
-
+	apertium-regtest test
