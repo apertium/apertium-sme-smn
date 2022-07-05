@@ -1,4 +1,4 @@
-﻿<!-- Note !! Write in the file .metalrx, not in the file .lrx -->
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- Write comments to forthcoming rules after this line
 
 In general: Like "skibas" at the end.
@@ -19,7 +19,7 @@ haŋkit - Default: "vovâdiđ". If "lodde" or "riävská" in sentence: "škaŋkk
 Write comments to forthcoming rules before this line -->
 
 
-<metalrx>
+<lrx>
 
 
   <def-seqs>
@@ -223,7 +223,7 @@ Write comments to forthcoming rules before this line -->
 
   <rule weight="0.6">
     <match lemma="beaivi"/>
-    <repeat upto="3"><seq n="word"/></repeat> <!-- 1-3 words -->
+    <repeat from="1" upto="3"><seq n="word"/></repeat> <!-- 1-3 words -->
     <match lemma="loktanit" tags="vblex.*"><select lemma="pajaniđ" tags="vblex.*"/></match>
   </rule>
 
@@ -246,7 +246,7 @@ Write comments to forthcoming rules before this line -->
       <match tags="*.sem_hum.*"/>
       <match tags="prn.*"/>
     </or>
-    <repeat upto="3"><seq n="word"/></repeat> <!-- 1-3 words -->
+    <repeat from="1" upto="3"><seq n="word"/></repeat> <!-- 1-3 words -->
     <match lemma="šurrat" tags="vblex.*"><select lemma="šuámbistiđ" tags="vblex.*"/></match>
   </rule>
 
@@ -1042,7 +1042,7 @@ Write comments to forthcoming rules before this line -->
     <match lemma="coggat">
       <select lemma="kárvudâttâđ"/>
     </match>
-    <repeat upto="3"><seq n="word"/></repeat> <!-- 1-3 words -->
+    <repeat from="1" upto="3"><seq n="word"/></repeat> <!-- 1-3 words -->
    <match tags="n.sem_clth.*"/>  
   </rule>
 
@@ -1058,7 +1058,7 @@ Write comments to forthcoming rules before this line -->
     <match lemma="coggat">
       <select lemma="kamâdâttâđ"/>
     </match> 
-    <repeat upto="3"><seq n="word"/></repeat>  <!-- 1-3 words -->
+    <repeat from="1" upto="3"><seq n="word"/></repeat>  <!-- 1-3 words -->
     <seq n="skuovva"/>
   </rule>
 
@@ -1087,7 +1087,7 @@ Write comments to forthcoming rules before this line -->
    <match lemma="čuojahit">
       <select lemma="suáittiđ"/>
    </match>
-   <repeat upto="3"><seq n="word"/></repeat>  <!-- 1-3 words -->
+   <repeat from="1" upto="3"><seq n="word"/></repeat>  <!-- 1-3 words -->
    <match tags="*.*.*.ill.*"/>
   </rule>
 
@@ -1226,7 +1226,7 @@ Write comments to forthcoming rules before this line -->
       <match lemma="boahtit" tags="vblex.*"/>
       <match lemma="leat" tags="vblex.*"/>
     </or>
-    <repeat upto="3"><seq n="word"/></repeat>
+    <repeat from="1" upto="3"><seq n="word"/></repeat>
     <match lemma="fápmu">
        <select lemma="vyeimi"/> 
     </match>
@@ -1251,7 +1251,7 @@ Write comments to forthcoming rules before this line -->
    <match lemma="dii">
       <select lemma="tme"/>
    </match>
-   <match tag="num.*"/>
+   <match tags="num.*"/>
   </rule>
 
 
@@ -1457,13 +1457,13 @@ Write comments to forthcoming rules before this line -->
     <match lemma="beassi">
       <select lemma="poorá"/>
     </match>
-    <repeat upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
+    <repeat from="1" upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
    <match lemma="uárree"/>  
   </rule>
 
   <rule weight="0.6">
    <match lemma="uárree"/>  
-    <repeat upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
+    <repeat from="1" upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
     <match lemma="beassi">
       <select lemma="poorá"/>
     </match>
@@ -1510,13 +1510,13 @@ Write comments to forthcoming rules before this line -->
     <match lemma="kássa" tags="n.g3.*">
       <select lemma="kassa"/>
     </match>
-    <repeat upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
+    <repeat from="1" upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
    <match lemma="mäksiđ"/>  
   </rule>
 
   <rule weight="0.6">
    <match lemma="mäksiđ"/>  
-    <repeat upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
+    <repeat from="1" upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
     <match lemma="kássa" tags="n.g3.*">
       <select lemma="kassa"/>
     </match>
@@ -1526,13 +1526,13 @@ Write comments to forthcoming rules before this line -->
     <match lemma="kássa" tags="n.g3.*">
       <select lemma="kassa"/>
     </match>
-    <repeat upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
+    <repeat from="1" upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
    <match lemma="rekinistiđ"/>  
   </rule>
 
   <rule weight="0.6">
    <match lemma="rekinistiđ"/>  
-    <repeat upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
+    <repeat from="1" upto="4"><seq n="word"/></repeat>  <!-- 1-4 words inbetween -->
     <match lemma="kássa" tags="n.g3.*">
       <select lemma="kassa"/>
     </match>
@@ -1556,13 +1556,13 @@ Write comments to forthcoming rules before this line -->
     <match lemma="kreakta">
       <select lemma="paskos"/>
     </match>
-    <repeat upto="4"><seq n="word"/></repeat>
+    <repeat from="1" upto="4"><seq n="word"/></repeat>
    <match lemma="kulgâttiđ"/>  
   </rule>
 
   <rule weight="0.6">
    <match lemma="kulgâttiđ"/>  
-    <repeat upto="4"><seq n="word"/></repeat>
+    <repeat from="1" upto="4"><seq n="word"/></repeat>
     <match lemma="kreakta">
       <select lemma="paskos"/>
     </match>
@@ -1572,13 +1572,13 @@ Write comments to forthcoming rules before this line -->
     <match lemma="kreakta">
       <select lemma="paskos"/>
     </match>
-    <repeat upto="4"><seq n="word"/></repeat>
+    <repeat from="1" upto="4"><seq n="word"/></repeat>
    <match lemma="leškiđ"/>  
   </rule>
 
   <rule weight="0.6">
    <match lemma="leškiđ"/>  
-    <repeat upto="4"><seq n="word"/></repeat>
+    <repeat from="1" upto="4"><seq n="word"/></repeat>
     <match lemma="kreakta">
       <select lemma="paskos"/>
     </match>
@@ -1704,7 +1704,7 @@ Write comments to forthcoming rules before this line -->
     <match lemma="čáppat">
       <select lemma="muččâd"/>
     </match> 
-    <repeat upto="4"><seq n="word"/></repeat>
+    <repeat from="1" upto="4"><seq n="word"/></repeat>
     <seq n="thing"/>
   </rule>
 
@@ -1727,13 +1727,13 @@ Write comments to forthcoming rules before this line -->
     <match lemma="haŋkit">
       <select lemma="škaŋkkeđ"/>
     </match>
-    <repeat upto="4"><seq n="word"/></repeat>
+    <repeat from="1" upto="4"><seq n="word"/></repeat>
    <match lemma="lodde"/>  
   </rule>
 
   <rule weight="0.6">
    <match lemma="lodde"/>  
-    <repeat upto="4"><seq n="word"/></repeat>
+    <repeat from="1" upto="4"><seq n="word"/></repeat>
     <match lemma="haŋkit">
       <select lemma="škaŋkkeđ"/>
     </match>
@@ -1743,13 +1743,13 @@ Write comments to forthcoming rules before this line -->
     <match lemma="haŋkit">
       <select lemma="škaŋkkeđ"/>
     </match>
-    <repeat upto="4"><seq n="word"/></repeat>
+    <repeat from="1" upto="4"><seq n="word"/></repeat>
    <match lemma="riävská"/>  
   </rule>
 
   <rule weight="0.6">
    <match lemma="riävská"/>  
-    <repeat upto="4"><seq n="word"/></repeat>
+    <repeat from="1" upto="4"><seq n="word"/></repeat>
     <match lemma="haŋkit">
       <select lemma="škaŋkkeđ"/>
     </match>
@@ -2199,5 +2199,5 @@ Write comments to forthcoming rules before this line -->
 
 </rules>
 
-</metalrx>
+</lrx>
 

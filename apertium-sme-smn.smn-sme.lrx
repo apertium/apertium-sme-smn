@@ -1,5 +1,5 @@
-
-<metalrx>
+<?xml version="1.0" encoding="UTF-8"?>
+<lrx>
 
   <def-seqs>
     <def-seq n="foo-verbs">
@@ -17,4 +17,4 @@
   </rule>
 
 </rules>
-</metalrx>
+</lrx>
