@@ -31,7 +31,9 @@ TARGETS_COMMON =			\
 	$(PREFIX2).autogen.hfst		\
 	$(PREFIX2).t1x.bin		\
 	$(PREFIX2).t2x.bin		\
-	$(PREFIX2).t3x.bin
+	$(PREFIX2).t3x.bin		\
+	$(PREFIX2).t4x.bin		\
+	$(PREFIX2).t5x.bin
 
 
 # This include defines goals for install-modes, .deps/.d, autobil.prefixes and .mode files:
@@ -186,8 +188,17 @@ $(PREFIX2).t2x.bin: $(BASENAME).$(PREFIX2).t2x
 	apertium-preprocess-transfer $< $@
 
 $(PREFIX2).t3x.bin: $(BASENAME).$(PREFIX2).t3x
+	apertium-validate-interchunk $<
+	apertium-preprocess-transfer $< $@
+
+$(PREFIX2).t4x.bin: $(BASENAME).$(PREFIX2).t4x
+	apertium-validate-interchunk $<
+	apertium-preprocess-transfer $< $@
+
+$(PREFIX2).t5x.bin: $(BASENAME).$(PREFIX2).t5x
 	apertium-validate-postchunk $<
 	apertium-preprocess-transfer $< $@
+
 
 ###############################################################################
 ## Distribution
@@ -203,6 +214,8 @@ EXTRA_DIST=					\
 		$(BASENAME).$(PREFIX2).t1x	\
 		$(BASENAME).$(PREFIX2).t2x	\
 		$(BASENAME).$(PREFIX2).t3x	\
+		$(BASENAME).$(PREFIX2).t4x	\
+		$(BASENAME).$(PREFIX2).t5x	\
 		modes.xml
 
 ###############################################################################
@@ -221,7 +234,9 @@ apertium_sme_smn_DATA=	\
 	$(BASENAME).$(PREFIX1).t5x			\
 	$(BASENAME).$(PREFIX2).t1x			\
 	$(BASENAME).$(PREFIX2).t2x			\
-	$(BASENAME).$(PREFIX2).t3x
+	$(BASENAME).$(PREFIX2).t3x			\
+	$(BASENAME).$(PREFIX2).t4x			\
+	$(BASENAME).$(PREFIX2).t5x
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
