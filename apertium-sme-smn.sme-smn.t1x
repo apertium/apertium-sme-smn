@@ -999,6 +999,21 @@ C[_]-T  sent
     <def-attr n="a_abbr">
       <attr-item tags="abbr"/>
     </def-attr>
+    <def-attr n="a_der">
+      <attr-item tags="der_halla"/>
+      <attr-item tags="der_inchl"/>
+      <attr-item tags="der_dimin"/>
+      <attr-item tags="der_nomact"/>
+      <attr-item tags="der_nomag"/>
+      <attr-item tags="der_muš"/>
+      <attr-item tags="der_sasj"/>
+      <attr-item tags="der_caus"/>
+      <attr-item tags="der_h"/>
+      <attr-item tags="der_d"/>
+      <attr-item tags="der_st"/>
+      <attr-item tags="der_l"/>
+      <attr-item tags="der_vuota"/>
+    </def-attr>
     <def-attr n="a_n_type">
       <attr-item tags="nomag"/>
     </def-attr>
