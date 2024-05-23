@@ -607,7 +607,7 @@ C[_]-T  sent
       <cat-item lemma="bealis" tags="adv.px1sg.*"/>
       <cat-item lemma="bealis" tags="adv.px2sg.*"/>
       <cat-item lemma="bealis" tags="adv.px3sg.*"/>
-      <cat-item lemma="bealis" tags="adv.px1du.*"/>
+      <cat-item  lemma="bealis" tags="adv.px1du.*"/>
       <cat-item lemma="bealis" tags="adv.px2du.*"/>
       <cat-item lemma="bealis" tags="adv.px3du.*"/>
       <cat-item lemma="bealis" tags="adv.px1pl.*"/>
@@ -1092,6 +1092,7 @@ C[_]-T  sent
        <attr-item tags="err_orth_a_á_mt"/>
        <attr-item tags="err_orth-a-á"/>
        <attr-item tags="←logo→"/>
+       <attr-item tags="sentinit"/>
     </def-attr>
     <def-attr n="a_spec_sme_tags2">
       <attr-item tags="south"/>
