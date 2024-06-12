@@ -8,6 +8,13 @@ báinnihit	báidnit+V+TV+Der/h+V+Ind+Prt+Sg2	0,000000
 gallestaddat	gallet+V+TV+Der/st+V+Der/adda+V+Inf	0,000000
 gallestaddat	gallet+V+TV+Der/st+V+Der/adda+V+Ind+Prs+Pl1	0,000000
 
+gohpalastit	gohpat+V+TV+Der/l+V+Der/st+V+Inf	0,000000
+gohpalastit	gohpat+V+TV+Der/l+V+Der/st+V+Der/NomAg+N+Pl+Nom	0,000000
+gohpalastit	gohpat+V+TV+Der/l+V+Der/st+V+Imprt+Pl2+Err/Orth	0,000000
+gohpalastit	gohpat+V+TV+Der/l+V+Der/st+V+Ind+Prs+Pl1	0,000000
+gohpalastit	gohpalastit+V+IV+Inf	0,000000
+gohpalastit	gohpalastit+V+IV+Der/NomAg+N+Pl+Nom	0,000000
+
 huikkášit	huikit+V+IV+Cond+Prs+Sg2	0,000000
 
 girjiluvvat	girjiluvvat+?	inf
@@ -28,7 +35,7 @@ stuvvat	stuvvat+?	inf
 šnjirgut	šnjirgut+V+TV+Inf	0,000000
 šnjirgut	šnjirgut+V+TV+Der/NomAg+N+Pl+Nom	0,000000
 šnjirgut	šnjirgut+V+TV+Imprt+Pl1	0,000000
-šnjirgut	šnjirgut+V+TV+Imprt+Pl2	0,000000
+šnjirgut	šnjirgut+V+TV+Imprt+Pl2+Err/Orth	0,000000
 šnjirgut	šnjirgut+V+TV+Ind+Prs+Pl1	0,000000
 
 
@@ -178,8 +185,6 @@ herskostallan	herskostallat+V+TV+Ind+Prt+ConNeg	0,000000
 herskostallan	herskostallat+V+TV+PrfPrc	0,000000
 herskostallan	herskostallat+V+TV+Der/NomAct+N+Sg+Gen+Allegro+Err/Orth	0,000000
 herskostallan	herskostallat+V+TV+Der/NomAct+N+Sg+Nom	0,000000
-
-infekšuvdnadoavttir	infekšuvdna+N+Cmp/SgNom+Cmp#doavttir+N+Sg+Nom	0,000000
 
 influensadilli	influeansa+N+Err/Orth+Cmp/SgNom+Cmp#dilli+N+Sg+Nom	0,000000
 
@@ -604,7 +609,7 @@ galle	gallet+V+TV+Ind+Prs+Sg3	0,000000
 galle	galle+Adv	0,000000
 galle	galle+Pron+Indef+Attr	0,000000
 galle	galle+Pron+Indef+Sg+Acc	0,000000
-galle	galle+Pron+Indef+Sg+Gen+Err/Orth	0,000000
+galle	galle+Pron+Indef+Sg+Gen	0,000000
 galle	galle+Pron+Indef+Sg+Nom	0,000000
 
 milj	milj+?	inf
@@ -688,8 +693,6 @@ Anárašsuodnju	anáraš+N+Cmp/SgNom+Cmp#suotnju+N+Sg+Nom+Err/Confused-ImprtDu1	
 Anármárkan	Anár+N+Prop+Sem/Plc+Cmp/SgNom+Err/Orth+Cmp/NoHyph+Cmp#márkan+N+Sg+Nom	0,000000
 
 Anárskuvla	Anár+N+Prop+Sem/Plc+Cmp/SgNom+Err/Orth+Cmp/NoHyph+Cmp#skuvla+N+Sg+Nom	0,000000
-
-Andalucía	Andalucía+?	inf
 
 Ánnamáret	Ánnamáret+?	inf
 
@@ -1125,9 +1128,6 @@ Ekvatoriála Guinea	Ekvatoriála Guinea+?	inf
 
 Elefandákteriddu	Elefandákteriddu+?	inf
 
-Estlánda	Estteeana+Err/Orth+N+Prop+Sem/Plc+Attr	0,000000
-Estlánda	Estteeana+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
-
 Europacup:Europacup9 BERN-obj ;	Europacup:Europacup9 BERN-obj ;+?	inf
 
 Faabergga	Faaberg+Err/Orth+N+Prop+Sem/Plc+Sg+Acc	0,000000
@@ -1480,10 +1480,6 @@ Heikel	Heikel+?	inf
 Heinäluoma	Heinäluoma+?	inf
 
 Helander-Renvall	Helander-Renvall+?	inf
-
-Henie	Henie+?	inf
-
-Henninen	Henninen+?	inf
 
 Hirsajávri	hirsa+N+Cmp/SgNom+Cmp#jávri+N+Sg+Nom	0,000000
 
@@ -2171,9 +2167,6 @@ Thaieatnan	Thaieana+v3+N+Prop+Sem/Plc+Sg+Acc+Err/Orth-nom-acc	0,000000
 Thaieatnan	Thaieana+v3+N+Prop+Sem/Plc+Sg+Gen+Err/Orth-nom-gen	0,000000
 Thaieatnan	Thaieana+v3+N+Prop+Sem/Plc+Sg+Nom	0,000000
 
-Thailánda	Thaieana+Err/Orth+N+Prop+Sem/Plc+Attr	0,000000
-Thailánda	Thaieana+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
-
 Thors	Thors+?	inf
 
 Tiljavre	Dilljávri+Err/Orth+N+Prop+Sem/Plc+Attr	0,000000
@@ -2191,13 +2184,13 @@ Titoff	Titoff+?	inf
 
 Tobejasčohkka	Tobejasčohkka+?	inf
 
-Topographisk-Statistisk	Topographisk-Statistisk+?	inf
-
 Topographisk-Statitistisk	Topographisk-Statitistisk+?	inf
 
 Troanddin	Troandin+v2+N+Prop+Sem/Plc+Sg+Acc+Err/Orth-nom-acc	0,000000
 Troanddin	Troandin+v2+N+Prop+Sem/Plc+Sg+Gen+Err/Orth-nom-gen	0,000000
 Troanddin	Troandin+v2+N+Prop+Sem/Plc+Sg+Nom	0,000000
+
+Turdus	Turdus+?	inf
 
 Tutankhamon:Tutankhamon9 LONDON-mal ;	Tutankhamon:Tutankhamon9 LONDON-mal ;+?	inf
 
