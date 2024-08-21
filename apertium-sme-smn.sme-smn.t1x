@@ -1275,6 +1275,7 @@ C[_]-T  sent
       <attr-item tags="sem_buildpart_ctain_obj"/>
       <attr-item tags="sem_buildpart_obj"/>
       <attr-item tags="sem_buildpart_obj_plc"/>
+      <attr-item tags="sem_buildpart_org"/>
       <attr-item tags="sem_buildpart_part"/>
       <attr-item tags="sem_buildpart_plc"/>
       <attr-item tags="sem_buildpart_prod-audio"/>
@@ -3853,6 +3854,36 @@ C[_]-T  sent
         </out>
       </action>
     </rule>
+    
+    <rule comment="C[_]-NP  prn_pl_com n_pl_com" c="Dáiguin mašiinnaiguin lea álki goarrut. : Taiguin mašinijguin lii älkkee kuárruđ.">
+      <pattern>
+        <pattern-item n="prn_pl_com"/>
+        <pattern-item n="n_pl_com"/>
+      </pattern>
+      <action>
+        <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
+        <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
+        <out>
+          <chunk name="p_n" case="caseFirstword">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="func"/></tag>
+              <tag><clip pos="2" side="tl" part="a_PoS"/></tag>
+              <tag><clip pos="2" side="tl" part="a_case"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+
+      </action>
+    </rule>
+    
 
 
     <rule comment="C[C]-NP  prn_adj_attr noun" c="SME : SMN">  
@@ -4697,34 +4728,6 @@ C[_]-T  sent
 
 
 
-    <rule comment="C[_]-NP  prn_pl_com n_pl_com" c="Dáiguin mašiinnaiguin lea álki goarrut. : Taiguin mašinijguin lii älkkee kuárruđ.">
-      <pattern>
-        <pattern-item n="prn_pl_com"/>
-        <pattern-item n="n_pl_com"/>
-      </pattern>
-      <action>
-        <call-macro n="agreement-attr-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
-        <call-macro n="general-macro-2Param"><with-param pos="1"/><with-param pos="2"/></call-macro>
-        <out>
-          <chunk name="p_n" case="caseFirstword">
-            <tags>
-              <tag><lit-tag v="NP"/></tag>
-              <tag><var n="func"/></tag>
-              <tag><clip pos="2" side="tl" part="a_PoS"/></tag>
-              <tag><clip pos="2" side="tl" part="a_case"/></tag>
-            </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-
-      </action>
-    </rule>
 
     <rule comment="C[T]-V negverb ge_pcle" c="ii ge : ige ">
       <pattern>
