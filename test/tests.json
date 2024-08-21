@@ -3,10 +3,6 @@
         "input": "sme-smn-input.txt",
         "mode": "sme-smn"
     },
-    "sme-smn-pending": {
-        "input": "sme-smn-pending-input.txt",
-        "mode": "sme-smn"
-    },
     "sme-smn-regression": {
         "input": "sme-smn-regression-input.txt",
         "mode": "sme-smn"
