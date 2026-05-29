@@ -92,6 +92,8 @@ Write comments to forthcoming rules before this line -->
       <match tags="*.sem_fem.*"/>
       <match tags="*.sem_hum.*"/>
       <match tags="*.sem_hum_obj.*"/>
+      <match tags="*.sem_hum_org_pos.*"/>
+      <match tags="*.sem_hum_pos.*"/>
       <match tags="*.sem_hum_plant.*"/>
       <match tags="*.sem_mal.*"/>
       <match tags="*.sem_mat.*"/>
@@ -250,13 +252,17 @@ Write comments to forthcoming rules before this line -->
   </rule>
 
   <rule weight="0.6">
+  <or>
     <match tags="*.sem_hum.*"/>
+    <match tags="*.sem_hum_pos.*"/>
+  </or>  
     <match lemma="šurrat" tags="vblex.*"><select lemma="šuámbistiđ" tags="vblex.*"/></match>
   </rule>
 
   <rule weight="0.6">
     <or>
       <match tags="*.sem_hum.*"/>
+      <match tags="*.sem_hum_pos.*"/>
       <match tags="prn.*"/>
     </or>
     <repeat from="1" upto="3"><seq n="word"/></repeat> <!-- 1-3 words -->
@@ -562,8 +568,10 @@ Write comments to forthcoming rules before this line -->
       <match lemma="váldit" tags="vblex.*"/>
     </or>
     <or>
-        <match tags="n.sem_hum.*"/>
+    <match tags="n.sem_hum.*"/>
 	<match tags="n.*.sem_hum.*"/>
+    <match tags="n.sem_hum_pos.*"/>
+	<match tags="n.*.sem_hum_pos.*"/>
 	<match tags="n.sem_ani.*"/>
 	<match tags="prn.pers.*"/>
     </or>
@@ -586,7 +594,9 @@ Write comments to forthcoming rules before this line -->
 	<match lemma="guhte"/>
 	<match tags="prn.pers.*"/>
 	<match tags="n.sem_hum.*"/>
+	<match tags="n.sem_hum_pos.*"/>
 	<match tags="n.*.sem_hum.*"/>
+	<match tags="n.*.sem_hum_pos.*"/>
 	<match tags="n.sem_ani.*"/>
 	<match tags="prn.ref.*"/> 
    </or>
@@ -803,6 +813,8 @@ Write comments to forthcoming rules before this line -->
 	<or>
 	<match tags="n.sem_hum.*"/>
 	<match tags="n.*.sem_hum.*"/>
+	<match tags="n.sem_hum_pos.*"/>
+	<match tags="n.*.sem_hum_pos.*"/>
 	<match tags="n.sem_ani.*"/>
 	<match lemma="dávvir" tags="n.*"/> </or>
   </rule>
@@ -816,6 +828,8 @@ Write comments to forthcoming rules before this line -->
 	<or>
 	<match tags="n.sem_hum.*"/>
 	<match tags="n.*.sem_hum.*"/>
+	<match tags="n.sem_hum_pos.*"/>
+	<match tags="n.*.sem_hum_pos.*"/>
 	<match tags="n.sem_ani.*"/>
 	<match lemma="dávvir" tags="n.*"/> </or>
   </rule>
@@ -1206,8 +1220,10 @@ Write comments to forthcoming rules before this line -->
       <select lemma="kielâ" tags="n.der_lasj.adj.*"/>
    </match>
 <or>
-   <match tags="n.sem_hum.*"/>
-   <match tags="n.*.sem_hum.*"/>
+	<match tags="n.sem_hum.*"/>
+	<match tags="n.*.sem_hum.*"/>
+	<match tags="n.sem_hum_pos.*"/>
+	<match tags="n.*.sem_hum_pos.*"/>
  </or>  
   </rule>
 
